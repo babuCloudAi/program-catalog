@@ -1,0 +1,101 @@
+{
+    "Beginning Portuguese I": {
+        "Description": "Introduction to the four skills (listening, speaking, reading, writing) of elementary Portuguese.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in basic Portuguese language skills",
+                "Listening and comprehension of spoken Portuguese",
+                "Reading and writing elementary Portuguese",
+                "Application of digital tools for language learning",
+                "Understanding foundational Portuguese grammar and vocabulary"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in beginner Portuguese",
+                "Engaging in conversations using basic vocabulary",
+                "Building confidence in verbal and written exchanges",
+                "Collaborating in language-learning group activities",
+                "Facilitating discussions on cultural topics in Portuguese"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Applying problem-solving techniques in language acquisition",
+                "Analyzing sentence structures and grammatical rules",
+                "Developing strategies to enhance language retention",
+                "Interpreting written and spoken texts for meaning",
+                "Synthesizing linguistic patterns in Portuguese"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Organizing personal study schedules for language practice",
+                "Leading small group exercises in language classes",
+                "Planning and participating in cultural immersion activities",
+                "Managing time effectively in coursework and assignments",
+                "Encouraging peer collaboration in language projects"
+            ]
+        }
+    },
+    "Beginning Portuguese II": {
+        "Description": "This course will build and expand on the linguistic proficiency in the four skills areas (listening, speaking, reading, writing) of elementary Portuguese.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in basic Portuguese language skills",
+                "Listening and comprehension of spoken Portuguese",
+                "Reading and writing elementary Portuguese",
+                "Application of digital tools for language learning",
+                "Understanding foundational Portuguese grammar and vocabulary"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in beginner Portuguese",
+                "Engaging in conversations using basic vocabulary",
+                "Building confidence in verbal and written exchanges",
+                "Collaborating in language-learning group activities",
+                "Facilitating discussions on cultural topics in Portuguese"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Applying problem-solving techniques in language acquisition",
+                "Analyzing sentence structures and grammatical rules",
+                "Developing strategies to enhance language retention",
+                "Interpreting written and spoken texts for meaning",
+                "Synthesizing linguistic patterns in Portuguese"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Organizing personal study schedules for language practice",
+                "Leading small group exercises in language classes",
+                "Planning and participating in cultural immersion activities",
+                "Managing time effectively in coursework and assignments",
+                "Encouraging peer collaboration in language projects"
+            ]
+        }
+    },
+    "Topics in Portuguese": {
+        "Description": "A study of selected topics for elective credit.  These courses will appear in the course schedule.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in basic Portuguese language skills",
+                "Listening and comprehension of spoken Portuguese",
+                "Reading and writing elementary Portuguese",
+                "Application of digital tools for language learning",
+                "Understanding foundational Portuguese grammar and vocabulary"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in beginner Portuguese",
+                "Engaging in conversations using basic vocabulary",
+                "Building confidence in verbal and written exchanges",
+                "Collaborating in language-learning group activities",
+                "Facilitating discussions on cultural topics in Portuguese"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Applying problem-solving techniques in language acquisition",
+                "Analyzing sentence structures and grammatical rules",
+                "Developing strategies to enhance language retention",
+                "Interpreting written and spoken texts for meaning",
+                "Synthesizing linguistic patterns in Portuguese"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Organizing personal study schedules for language practice",
+                "Leading small group exercises in language classes",
+                "Planning and participating in cultural immersion activities",
+                "Managing time effectively in coursework and assignments",
+                "Encouraging peer collaboration in language projects"
+            ]
+        }
+    }
+}

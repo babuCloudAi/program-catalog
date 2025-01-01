@@ -1,0 +1,596 @@
+{
+    "Medical Terminology": {
+        "Description": "A course designed to cover the terminology and abbreviations used in the clinical sciences.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Fundamental Concepts in Nuclear Medicine Technology": {
+        "Description": "A course designed to cover the physical principles related to nuclear medicine technology.  The methods and mathematics of radioactive decay, types of radiation, radiation interactions, origins of radionuclides, including SPECT and PET/CT radionuclides also presented.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Nuclear Instrumentation": {
+        "Description": "This course is designed to familiarize the student with the theory, operation and quality assurance associated with the instrumentation found in a typical nuclear medicine department. The course also covers the instrumentation of PET/CT scanners as well as the common radiopharmaceuticals, imaging protocols, and radiation safety currently employed in diagnostic PET/CT imaging practice.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Radiation Health": {
+        "Description": "Discussions of radiation effects on cellular systems as well as guidelines for radiation protection and safe handling of radioactive materials in the nuclear medicine clinical setting.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Nuclear Medicine Technology I": {
+        "Description": "A course  designed to cover the nuclear medicine procedures and protocols of the gastrointestinal, genitourinary, central nervous, skeletal systems. Other current or emerging clinical nuclear medicine procedures are also covered.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Nuclear Medicine Technology II": {
+        "Description": "A course designed to cover the nuclear medicine protocols and procedures of the respiratory, cardiovascular, endocrine, infection/inflammation and lymphatic systems.  Other current and emerging clinical nuclear medicine procedures and protocols are also presented.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Radiopharmacy": {
+        "Description": "This course is designed to cover the concepts and techniques related to the field of radiopharmacy for nuclear medicine technology practice. The production, preparation, uses and quality assurance of radiopharmaceuticals are presented. Interventional and adjunctive pharmaceutical agents used in nuclear medicine will be covered.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Nuclear Medicine and Molecular Imaging": {
+        "Description": "This course covers the concepts, instrumentation and procedures pertaining to molecular imaging as related to nuclear medicine. Topics include: advanced Positron Emission Tomography (PET), Computed Tomography (CT), PET/CT, Magnetic Resonance Imaging (MRI), nuclear cardiology, theranostics, and other emerging technologies. Cross-sectional anatomy and radionuclide therapy, including monoclonal antibodies are also discussed. Review of all content for board examinations.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Clinical Nuclear Medicine Technology I": {
+        "Description": "Clinical instruction in patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures, including PET/CT.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Clinical Nuclear Medicine Technology II": {
+        "Description": "Continued clinical instruction in diagnostic and therapeutic nuclear medicine procedures. The correlation of nuclear medicine procedures is also presented. Clinical experiences include patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Clinical Nuclear Medicine Technology III": {
+        "Description": "Advanced clinical instruction in diagnostic and therapeutic nuclear medicine procedures, including PET/CT.   The correlation of nuclear medicine procedures is also presented.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Administration and Management in Nuclear Medicine Technology": {
+        "Description": "This writing intensive, capstone course is designed to provide a review of the administration, management, policies, and practices relevant to nuclear medicine technology.  The leadership, legal, ethical and planning aspects of operating a nuclear medicine department are covered.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Special Topics in Nuclear Medicine Technology": {
+        "Description": "A study of selected current topics in nuclear medicine technology.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Directed Study in Nuclear Medicine Technology": {
+        "Description": "Directed study in a topic or area relevant to nuclear medicine or nuclear medicine technology.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Directed Research in Nuclear Medicine Technology": {
+        "Description": "Supervised research on a specific problem in Nuclear Medicine Technology. Regular meetings with faculty and a written/oral report are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Topics in Nuclear Medicing Technology": {
+        "Description": "Special topic related to the field of nuclear medicine technology and molecular imaging.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Research": {
+        "Description": "Research on a topic or project related to nuclear medicine or nuclear medicine technology.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    },
+    "Thesis": {
+        "Description": "Thesis on a topic in nuclear medicine/molecular imaging or nuclear medicine technology.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in nuclear medicine instrumentation",
+                "Knowledge of radiopharmaceutical production and quality assurance",
+                "Understanding of imaging modalities such as PET/CT and MRI",
+                "Application of radiation safety protocols",
+                "Competence in molecular imaging technologies"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with patients and medical teams",
+                "Collaboration with healthcare professionals",
+                "Educating patients on procedures and safety measures",
+                "Maintaining professionalism in clinical settings",
+                "Providing clear and concise reports on imaging results"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing diagnostic imaging results",
+                "Troubleshooting issues in nuclear medicine procedures",
+                "Evaluating emerging technologies for clinical application",
+                "Developing solutions for complex medical imaging challenges",
+                "Correlating imaging findings with clinical data"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Managing nuclear medicine departments",
+                "Planning and conducting clinical research",
+                "Supervising safety and compliance measures",
+                "Leading teams in healthcare settings",
+                "Strategic planning for radiological procedures"
+            ]
+        }
+    }
+}

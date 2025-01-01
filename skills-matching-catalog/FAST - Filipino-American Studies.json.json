@@ -1,0 +1,35 @@
+{
+    "TopicsinFilipinoAmericanStudies": {
+        "Description": "A study of selected topics designed for non-majors, or for elective credit within a major.  These courses will appear in the course schedule booklet, and will be more fully described in a booklet distributed to all academic advisors.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in topics in filipino american studies",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    }
+}

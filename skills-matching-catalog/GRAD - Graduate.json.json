@@ -1,0 +1,68 @@
+{
+    "GraduateInternship": {
+        "Description": "Student participation in a professional work experience for which credit will not apply to the degree. Approval for enrollment is determined by Monarch Internship and Co-Op Office (MICO). Experience must be related to the student's major or career area of interest, include adequate supervision by a professional, and include at least an average of 8 hours per week.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in graduate internship",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "ProfessionalDevelopment": {
+        "Description": "This course is a professional development course for graduate students that will better prepare them for success in graduate school and subsequently in their careers and the academy. It focuses on establishing a multidisciplinary community of scholars, and encouraging joint exploration of the academy and its expectations, socialization and networking, future career paths, and other relevant issues. Students will develop a professional portfolio to integrate learning, document progress along their professional development plan, and showcase their academic and professional achievements.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in professional development",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    }
+}

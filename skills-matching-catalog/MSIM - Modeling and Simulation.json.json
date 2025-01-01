@@ -1,0 +1,1916 @@
+{
+    "Information Literacy and Research for Modeling and Simulation Engineers": {
+        "Description": "An introduction to methods and standards for locating and using information in the discipline of modeling and simulation engineering.  Topics include:  assessing information requirements; searching for, locating and evaluating information sources related to modeling and simulation; tools for managing, sharing, and presenting information; and ethical issues in the use of information.  Students will complete exercises and research on topics involving information of interest to modeling and simulation engineers.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Modeling and Simulation Engineering": {
+        "Description": "This is the first course for Modeling and Simulation Engineering (M&SE) students.  M&SE discipline is surveyed at an overview level of detail.  Topics include basic definitions, M&S paradigms and methodologies, applications, design processes, and human factors.  Information literacy and research methods are addressed.  Papers and oral presentations are required and allow the student to investigate different aspects of the discipline.  The course provides a general conceptual framework for further M&SE studies.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Discrete Event Simulation": {
+        "Description": "An introduction to the modeling and simulation of discrete-state, event-driven systems.  Topics include: basic properties and terminology for discrete event systems (DES); models for DES including queuing models, Petri nets, and state automata; and methodologies for simulating DES models.  Investigation of the steps of a DES simulation study including problem formulation, conceptual model design, simulation model development, input data modeling, output data analysis, verification and validation, and design of simulation experiments.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Discrete Event Simulation Laboratory": {
+        "Description": "A laboratory course designed to provide a hands-on introduction to the development and application of discrete event simulation.  Topics include an introduction to one or more discrete event simulation tools, common modeling constructs, data gathering and input data modeling, design of simulation experiments, output data analysis, and verification and validation.  The design and implementation of a series of increasingly complex simulations of various discrete event systems are conducted.  The laboratory is designed to accompany MSIM 205.  Student written reports are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Continuous Simulation": {
+        "Description": "An introduction to the fundamentals of modeling and simulating continuous-state, time-driven systems. Topics include differential equation representation of systems, formulation of state variable equations, and numerical integration techniques including Taylor series, families of Runge-Kutta and Adams methods.  Application domains considered include physical, biological, electrical systems, and real-time simulations.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Software Design": {
+        "Description": "Introduction to data structures, algorithms, programming methodologies, and software architectures in support of computer simulation.  Topics include lists, queues, sets, trees, searching, sorting, reusable code, and order of complexity.  Simulation structures developed include event lists, time management, and queuing models.  Software models are implemented and tested.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Cooperative Education": {
+        "Description": "Available for pass/fail grading only.  Student participation for credit based on academic relevance of the work experience, criteria, and evaluation procedures as formally determined by the program and the Cooperative Education/Career Development Services program prior to the semester in which the work experience is to take place.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Internship": {
+        "Description": "Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students an opportunity to gain short duration career-related experience.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Practicum": {
+        "Description": "Academic requirements will be established by the graduate program director and will vary with the amount of credit desired.  Allows students an opportunity to gain short-duration career related experience.  Student is usually employed\u2013this is an additional project beyond the duties of the student\u2019s employment.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Continuous Simulation Laboratory": {
+        "Description": "A laboratory course designed to provide a hands-on introduction to the development and application of continuous simulation.  Topics include an introduction to one or more continuous simulation tools, modeling of various physics-based systems, and numerical solution of differential equations.  The design and implementation of a series of increasingly complex simulations of various continuous systems are conducted.  The laboratory is designed to accompany MSIM 320.  Student written reports are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Software Design Laboratory": {
+        "Description": "A laboratory course designed to provide a hands-on introduction to the development of simulation software.  Topics include data structures, algorithms, and simulation executives.  The students will conclude with the development of a basic simulation executive capable of managing discrete event simulations.  The laboratory is designed to accompany MSIM 331.  Student written reports are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Topics in Modeling and Simulation Engineering": {
+        "Description": "Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Distributed Simulation": {
+        "Description": "An introduction to distributed simulation.  Topics include motivation for using distributed simulation, distributed simulation architectures, time management issues, and distributed simulation approaches.  Current standards for distributed simulation are presented.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Game Development": {
+        "Description": "An introductory course focused on game development theory and modern practices with emphasis on educational game development.  Topics include game architecture, computer graphics theory, user interaction, audio, high level shading language, animation, physics, and artificial intelligence.  The developed games can run on a variety of computer, mobile, and gaming platforms.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Model Engineering": {
+        "Description": "The goal of this course is to develop understanding of the various modeling paradigms appropriate for capturing system behavior and conducting digital computer simulation of many types of systems. The techniques and concepts discussed typically include UML, concept graphs, Bayesian nets, Markov models, Petri nets, system dynamics, Bond graphs, etc. Students will report on a particular technique and team to implement a chosen system model. (cross-listed with ECE 510)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Cyber Defense Fundamentals": {
+        "Description": "This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards.  Cross-listed with ECE 516.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Cyber Physical Systems Security": {
+        "Description": "Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures. Cross-listed with ECE 519.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Computer Graphics and Visualization": {
+        "Description": "The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 506.) (Offered fall)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Analysis for Modeling and Simulation": {
+        "Description": "An introduction to analysis techniques appropriate to the conduct of modeling and simulation studies.  Topics include input modeling, random number generation, output analysis, variance reduction techniques, and experimental design.  In addition, techniques for verification & validation are introduced.  Course concepts are applied to real systems and data.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Medical Image Analysis": {
+        "Description": "Introduction to basic concepts in medical image analysis.  Medical image registration, segmentation, feature extraction, and classification are discussed.  Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered.  Cross-listed with ECE 462/ECE 562.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Design and Modeling of Autonomous Robotic Systems": {
+        "Description": "Course focuses on autonomous robotics systems with emphasis on using modeling and simulation (M&S) for system level design and testing.  Fundamental concepts associated with autonomous robotic systems are discussed.  Course topics include: robotic control, architectures, and sensors as well as more advanced concepts such as error propagation, localization, mapping and autonomy.  Design strategies that leverage M&S to accelerate the development and testing of sophisticated autonomous robotic algorithms for individual or teams of robots are covered.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Foundations of Cyber Security": {
+        "Description": "Course provides an overview of theory, tools and practice of cyber security and information assurance through prevention, detection and modeling of cyber attacks and recovery from such attacks. Techniques for security modeling, attack modeling, risk analysis and cost-benefit analysis are described to manage the security of cyber systems. Fundamental principles of cyber security and their applications for protecting software and information assets of individual computers and large networked systems are explored. Anatomy of some sample attacks designed to compromise confidentiality, integrity and availability of cyber systems are discussed.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Transportation Data Analytics": {
+        "Description": "This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 or ECE 304); any programming language such as C, Python or Java is beneficial but not required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Artificial Intelligence": {
+        "Description": "Introduction to concepts, principles, challenges, and research in major areas of artificial intelligence. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems. Laboratory work required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Capstone Design I": {
+        "Description": "Part one of the senior capstone design experience for modeling and simulation engineering majors. Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literary skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.  This is a writing intensive course.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Capstone Design II": {
+        "Description": "Part two of the senior capstone design experience for modeling and simulation engineering majors.  Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literacy skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Independent Study in Modeling and Simulation Engineering": {
+        "Description": "Individual analytical, computational, and/or experimental study in an area selected by the student.  Supervised and approved by the advisor.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Introduction to Modeling and Simulation": {
+        "Description": "Modeling and simulation (M&S) discipline surveyed at an overview level of detail.  Basic terminology, modeling methods, and simulation paradigms are introduced.  Applications of M&S in various disciplines are discussed.  The course provides a general conceptual framework for those interested in using M&S and for further studies in M&S.  Not open to MSVE degree seeking students.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Fundamentals": {
+        "Description": "An introduction to the modeling and simulation discipline.  Introduction to discrete event simulation (DES) including simulation methodology, input data modeling, output data analysis, and an overview of DES tools.  Introduction to continuous simulation (CS) including simulation methodology, differential equation models, numerical solution techniques, and an overview of CS tools.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Design": {
+        "Description": "Course develops the computer software skills necessary for the design and development of simulation software.  Topics covered include software architectures, software engineering, software design, object-oriented programming, abstract data types and classes, data structures, algorithms, and testing and debugging techniques.  Software design and development of simulation systems (discrete-event, continuous, and Monte Carlo) are emphasized.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Machine Learning I": {
+        "Description": "Course provides a practical treatment of design, analysis, implementation and applications of algorithms. Topics include multiple learning models: linear models, neural networks, support vector machines, instance-based learning, Bayesian learning, genetic algorithms, ensemble learning, reinforcement learning, unsupervised learning, etc. (Cross listed with ECE 607)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "System Architecture and Modeling": {
+        "Description": "Students will learn the essential aspects of the system architecture paradigm through environment and analysis of multiple architecture framework and enterprise engineering, such as IDEFO, TOGAF, DODAF and OPM. Emphasis on system modeling and enterprise engineering.  (Cross listed with ENMA 660)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Cyber Systems Engineering": {
+        "Description": "This course provides an overview of functioning of cyber systems including how a computer interacts with the outside world. The composition of critical infrastructure and functioning of different engineered systems that form critical infrastructure are discussed. Mutual dependence and interactions between cyber systems and other engineered systems and the resulting security risks are also explored. (Cross-listed with ENMA 670.)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Threat Modeling and Risk Analysis": {
+        "Description": "This course discusses how to develop cyber threat models using attack graphs/trees, STRIDE, Universal Modeling Language (UML), attack graphs/trees and common of risk analysis tools. Course also discusses the need for quantitative security analysis and formal validation of security models and basic principles of formal model validation. (Cross-listed with ENMA 673.)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Topics in Modeling and Simulation": {
+        "Description": "Special topics of interest with emphasis placed on recent developments in modeling and simulation.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Independent Study in Modeling and Simulation": {
+        "Description": "Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Thesis": {
+        "Description": "Research leading to the Master of Science thesis.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Systemic Decision Making": {
+        "Description": "As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.  (Cross listed with ENMA 802).",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Optimization Methods": {
+        "Description": "Covers advanced methods in Operations Research and Optimization. Focus will be on developing models and their applications in different domains including manufacturing and service. Modern optimization tools will be used to implement models for case studies, projects and research papers. The knowledge of programming and spreadsheets is expected. Contact instructor for more details. (Cross-listed with ENMA 803).",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Finite Element Analysis": {
+        "Description": "The purpose of the course is to provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  The course will demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "High Performance Computing Simulation and Data Analytics": {
+        "Description": "Introduction to modern high performance computing platforms including top supercomputers and accelerators. Discussion of parallel architectures, performance, programming models, and software development issues. Case studies of scientific and engineering simulations will be explored. Students will have an opportunity to work on parallelization of problems from their research areas. Project presentations are required.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Cluster Parallel Computing": {
+        "Description": "This course provides detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message Passing Interface) computer environments.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Principles of Combat Modeling and Simulation": {
+        "Description": "Principles of combat modeling and simulation.  Introduction including history, basic definitions, and best practice.  Algorithms for modeling movement, sensing effects and behavior.  Overview of modern combat models.  Interoperability and integration into operational environments.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Formalisms": {
+        "Description": "The focus of the course is on identification and investigation of mathematical and logical structures that form the foundation for computational simulation.  Topics include: foundations of simulation theory in logic, discrete mathematics, and computability; simulation formalisms, including DEVS; interoperability protocols; and computational complexity.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Principles of Visualization": {
+        "Description": "Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making.  This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science.  Both users and developers of visualization tools and systems will benefit from this course.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Synthetic Environments": {
+        "Description": "The course covers the theory and techniques for building effective and efficient synthetic environments for modeling and simulation applications. Topics include physics, artificial intelligence, virtual reality, and advanced modeling and rendering. The emphasis is on producing visually realistic synthetic environments based on effective approximations of physics and other related principles.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Advanced Analysis for Modeling and Simulation": {
+        "Description": "An introduction to stochastic dependence and Bayesian analysis techniques for conducting modeling and simulation studies. Topics include: measures of dependence, common multivariate distributions, sampling from multivariate distributions, elementary time series models and Bayesian statistics.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Applied Medical Image Analysis": {
+        "Description": "Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Modeling Global Events": {
+        "Description": "Modeling Global Events introduces modeling and simulation as a tool for expanding our understanding of events that have shaped the global environment of the 21st century.  Students will review real-world case studies and then analyze these case studies via system dynamics, agent-based, social network, and game theory modeling paradigms. This course is designed to develop empirical research skills, conceptual modeling expertise, and model construction.  Students will understand how to analyze, verify, and validate a model.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Transportation Network Flow Models": {
+        "Description": "This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium. (Cross-listed with CEE 874).",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Transportation Network Algorithms": {
+        "Description": "Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications. (Cross-listed with CEE 875)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Simulation Modeling in Transportation Networks": {
+        "Description": "Principles of simulation modeling, microscopic, mesoscopic, and macroscopic traffic simulation models.  Course explores driver behavior in networks, calibration and validation of traffic simulation models, and use of traffic simulation software. (Cross-listed with CEE 876)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Machine Learning II": {
+        "Description": "Advanced topics in machine learning and pattern recognition systems. Data reduction techniques including principle component analysis, independent component analysis and manifold learning. Introduction to sparse coding and deep learning for data representation and feature extraction. (Cross-listed with ECE 880)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Doctor of Engineering Project": {
+        "Description": "Directed individual study applying advanced level technical knowledge to identify, formulate and solve a complex, novel problem in Modeling and Simulation.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Research in Modeling and Simulation": {
+        "Description": "Supervised research prior to passing Ph.D. candidacy exam.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Dissertation": {
+        "Description": "Directed research for the doctoral dissertation.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Master's Graduate Credit": {
+        "Description": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    },
+    "Doctoral Graduate Credit": {
+        "Description": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in simulation software and tools",
+                "Understanding of distributed and continuous simulation methodologies",
+                "Programming skills in languages like Python, Java, or C++",
+                "Knowledge of machine learning algorithms and data analysis",
+                "Development of synthetic environments and virtual simulations"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in interdisciplinary teams",
+                "Presenting complex simulation data clearly",
+                "Collaborating on modeling projects",
+                "Teaching and explaining simulation concepts",
+                "Engaging stakeholders in simulation studies"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in modeling and simulation",
+                "Developing and validating simulation models",
+                "Analyzing system behaviors through simulation",
+                "Optimizing simulation processes for better accuracy",
+                "Addressing cybersecurity challenges in simulation systems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in simulation project management",
+                "Strategic planning for large-scale simulation initiatives",
+                "Time management in simulation model development",
+                "Mentoring team members in simulation techniques",
+                "Ensuring compliance with simulation standards and ethics"
+            ]
+        }
+    }
+}

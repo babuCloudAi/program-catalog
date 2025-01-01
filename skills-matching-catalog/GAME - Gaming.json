@@ -1,0 +1,497 @@
+{
+    "IntroductiontoGameStudies": {
+        "Description": "An introduction to the core concepts and methodologies that inform game design, development, and criticism. This course will provide students with a critical overview of each of these content areas and will demonstrate how their specific concerns intersect in the design, production, and reception of contemporary games. It will also teach students hands-on methodologies through which to translate these concepts into creative and critical praxis.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in introduction to game studies",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "VisualDesignFundamentalsforGameDesign": {
+        "Description": "This course is designed to introduce Game Design majors to basic art elements and design principles fundamental to visual asset creation for games and game-based applications. It will cover color theory, drawing fundamentals, spatial relationships, and other aspects of 2D composition. It will discuss how to apply these principles to effective User Interface (UI) design, as well as how to transform 2D assets into 3D objects. This course will also discuss architectural principles as they apply to level design, environmental design, and other subjects related to the visual design of games.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in visual design fundamentals for game design",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "TechnologiesforGameDesignandDevelopment": {
+        "Description": "This course is designed to introduce Game Design and Development majors to technologies and technological methodologies that are frequently employed by the industry. These technologies include but are not limited to 2D and 3D art, animation, and design software, game engines, music composition and sound design software, software development tools, and version control and collaboration software. This course will also discuss the challenges involved in designing and developing games for a variety of different platforms.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in technologies for game design and development",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "GameCriticism": {
+        "Description": "This course is designed to introduce students to the major theoretical approaches and debates that comprise game studies as an academic discipline. It will teach students how to research, evaluate, analyze, and construct persuasive arguments about games and game-related artifacts.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in game criticism",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "GameBalance,Rules,andMechanics": {
+        "Description": "This course focuses on the complex question of how game designers produce balance through rules, mechanics, aesthetics, and other formal and informal gameplay elements. This course will provide students with an analytical framework to better understand how these elements are not only manifested in specific games, but how they work to simultaneously distinguish genres of games. More significantly, it will provide students with a practical methodology that will help them understand how to apply the insights gained through this analysis to their own games.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in game balance, rules, and mechanics",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "VisualDesignandDigitalGraphicsforGames": {
+        "Description": "This course focuses on visual design and digital graphics for game-based applications. Designed to help students make the transition from traditional 2D drawing and illustration techniques to the types of 2D and 3D digital asset creation privileged by games and game-based applications, it provides students with hands-on experience with using industry standard software to generate sprites, UI components, textures, and other common 2D elements. It also introduces students to 3D modeling and texturing techniques, including but limited to optimization, texture mapping, and basic rigging and animation techniques.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in visual design and digital graphics for games",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "GameDesignandRhetoric": {
+        "Description": "This course will study the representative and rhetorical strategies through which computer game designers make meaning via their rhetorical choices. Multi-perspective in nature, it will also examine the discursive struggles that determine how players construct themselves as subjects in and against computer games via their rhetorical choices. This course will attempt to come to terms with the larger question of how scholars, through various forms of critical play, construct, categorize, and produce computer games as a subject of academic study.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in game design and rhetoric",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "DevelopmentwithGameEngines": {
+        "Description": "This course will provide introduction to game engines including Unity, Unreal, Godot, & Stride. We will be using a wide range of software standards to explore and take advantage of well known game- engine programming patterns, concepts of software versioning, creating and maintaining changelogs, taking advantage of version control systems like git, and importantly using distributed version control systems like GitHub/GitLab. The class will focus on one core project that students will continue to iterate on across the length of the class.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in development with game engines",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "TopicsinGameStudies": {
+        "Description": "A study of selected topics designed for nonmajors or for elective credit within a major.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in topics in game studies",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "AdvancedVisualDesignandDigitalGraphicsforGames": {
+        "Description": "This course focuses on advanced visual design and digital graphics for game-based applications, including but not limited to topics such as 3D modeling, texturing, texture mapping, animation, optimization, shaders, and particle systems. Conceived as a studio course, it provides students with hands-on experience working with a variety of digital software applications to create and optimize graphical assets for games and similar applications.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in advanced visual design and digital graphics for games",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "GameDevelopmentandDesignWorkshop": {
+        "Description": "This workshop affords upper-division students the opportunity to tackle a wide variety of advanced projects on their own recognizance. It provides students working in game design and development with practical, individualized guidance in crucial aspects of the design and development process, including ideation, research, prototyping, implementation, documentation, and playtesting. Likewise, it provides students working in game criticism with instruction in the scholarly process of identifying, researching, drafting, and revising critical arguments about games and game-related issues.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in game development  and design workshop",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "AdvancedDevelopmentwithGameEngines": {
+        "Description": "This class will take an advanced Systems Engineering approach to using Game Engines to prototype, compile, and develop functioning software across major hardware and operating systems. It will focus on industry standard game engines and use the experience to produce games and game-like content to facilitate in-depth exploration into how game engines implement similar systems. This course will cover a range of advanced topics relevant to content creation and implementation with game engines including agile development, game engine programming patterns, networking, mobile development, procedural content generation, render-pipelines, and VR development. It will also explore how to publish and deploy games and game-related projects across a variety of digital platforms.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in advanced development with game engines",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "NarrativeWorldBuilding": {
+        "Description": "An examination of world building as ludic, narrative, and spatial praxis. This course will examine how games and game-related texts create playable realities through a critical examination of historical and contemporary examples of world building across a variety of media. It will provide students practical experience with how to translate these theoretical examples into effective gameplay across a variety of genres of games.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in narrative world building",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "GraphicalWorldBuilding": {
+        "Description": "An examination of world building as spatial and architectural praxis. This course will examine how to use advanced 3D art and animation techniques to create believable, playable realities. It will provide students with hands-on experience using industry-standard graphics software to create compelling game environments for a variety of games and game-genres.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in graphical world building",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "EntrepreneurshipinGameStudies,Development,andDesign": {
+        "Description": "Although traditionally associated with commercial ventures, entrepreneurship encompasses a wide variety of approaches that are also relevant to the creative and critical performances that intersect in the design, production, and study of games. This course will broach the theoretical and practical questions of how entrepreneurship intersects with and is implicated in the production of game and game-based endeavors. Conceived as a studio course, it is designed to teach students a hands-on methodology through which they can translate entrepreneurial approaches into real-world outcomes.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in entrepreneurship in game studies, development, and design",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    }
+}

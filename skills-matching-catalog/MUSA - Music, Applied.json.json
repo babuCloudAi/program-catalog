@@ -1,0 +1,299 @@
+{
+    "Half-Hour Lesson": {
+        "Description": "One half-hour applied lesson.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Hour Lesson": {
+        "Description": "One hour applied lesson.  Satisfaction of a degree requirement on this level includes successful performance of a one-half hour private or, at faculty discretion, public recital.  Numbers may be repeated.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Hour Lesson - Performance Major": {
+        "Description": "One hour performance level lesson. Completion of this level includes successful performance of a one-hour public, lecture-style recital.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Hour Lesson - Music Minor": {
+        "Description": "One-hour applied lesson for the music minor.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Hour Lesson - Applied Composition": {
+        "Description": "One hour composition lesson for minors and non-majors.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Advanced Electronic Composition I": {
+        "Description": "This course is designated only for music majors and/or minors.  Music hardware and software to be studied includes, but is not limited to: K2500 Mackie 1604 VLZ 2 pro, Opcode MIDI 96 and Digital.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Advanced Electronic Composition II": {
+        "Description": "This course is designated for music majors and and/or minors.  Music hardware and software to be studied includes, but is not limited to:   K2500, Sound Designer, Oro Tools, and Finale.  The participants are expected to compose a medium-length work (at least 4-5 minutes) using the above equipment.  Grading is based on the knowledge of the electronic equipment and the quality of composing.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Applied Sound Recording Technology Mentorship": {
+        "Description": "Each student will receive personalized mentorship, career guidance, and detailed project feedback in an applied lesson studio setting. Emphasizing the creation of a professional portfolio serving as a culminating project or experience, these individualized lessons ensure students are prepared for success in this competitive industry. These advanced projects, developed with faculty advisors, include (but not limited to) producing new songs and film scores, mixing an album, entrepreneurship, and/or conducting original research.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    },
+    "Advanced Applied Music": {
+        "Description": "Graduate level applied performance lesson. Completion of this level includes successful performance of a one-hour public recital.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in musical instruments or vocal techniques",
+                "Knowledge of advanced music software and hardware",
+                "Understanding of music theory and composition",
+                "Experience with sound recording and production technologies",
+                "Developing skills in electronic and digital music composition"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication in performance settings",
+                "Collaboration with ensembles and music directors",
+                "Teaching and mentoring in music education",
+                "Presentation skills in public and academic performances",
+                "Building rapport with diverse audiences and peers"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking in music interpretation and composition",
+                "Analyzing musical structures and forms",
+                "Developing creative solutions in sound design",
+                "Improving performance through self-assessment and feedback",
+                "Troubleshooting technical issues in music production"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Planning and executing performances and recitals",
+                "Time management in practice and rehearsal schedules",
+                "Leading music groups and ensembles",
+                "Organizing music-related projects and collaborations",
+                "Developing entrepreneurial skills for a music career"
+            ]
+        }
+    }
+}

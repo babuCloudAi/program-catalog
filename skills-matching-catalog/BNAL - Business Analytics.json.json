@@ -1,0 +1,728 @@
+{
+    "BusinessAnalyticsI": {
+        "Description": "An introduction to methods of business analytics.  Topics are concentrated in descriptive analytics, which include descriptive statistics, normal and binomial distributions, decision making under uncertainty and under risk, decision analysis incorporating sample information, sampling distributions and Central Limit Theorem, interval estimation, and hypothesis testing. Business and economic applications are emphasized. Computer software, as a tool for problem solving, is utilized where appropriate.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in business analytics i",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "BusinessAnalyticsII": {
+        "Description": "Advanced descriptive and predictive analytics topics include advanced hypothesis testing, analysis of frequency data, correlation analysis, simple and multiple regression, and time series forecasting. Prescriptive analytics topics include linear programming formulation and managerial analysis, and distribution models. PERT/CPM models are also covered. Computer software is utilized throughout the course. Emphasis is on the interpretation of the various outcomes of the application of business analytics tools.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in business analytics ii",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "CooperativeEducation": {
+        "Description": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in cooperative education",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "Internship": {
+        "Description": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.  (Qualifies as a CAP experience.)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in internship",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "Practicum": {
+        "Description": "Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.  Student participation in a professional work experience. (Qualifies as a CAP experience.)",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in practicum",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "DataVisualizationandExploration": {
+        "Description": "This course introduces students to concepts and processes, technologies, and methodologies that are commonly used in data visualization that an organization may use to enhance its descriptive, predictive, and prescriptive methods for making fact-based decisions.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in data visualization and exploration",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "Spreadsheet-BasedDataAnalysisforDecisionMaking": {
+        "Description": "The spreadsheet has become one of the most widely used analytical tools in the modern business environment. This course covers spreadsheet (e.g., Microsoft Excel) capabilities and business applications, with a focus on the use of spreadsheets for modeling, data analysis, and business decision support. Topics include concepts such as functions, pivot table, macros, analytical utilities, database connections, and interactive interfaces. Modeling and analysis in several areas such as forecasting, investment, quality, and sales are covered.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in spreadsheet-based data analysis for decision making",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "PrescriptiveAnalyticsofManagementScience": {
+        "Description": "Students are introduced to prescriptive analytics through formulation and solution of mathematical models, with a particular focus on optimization models. The business use of the models, as well as their limitations, is emphasized. Topics include linear, integer, non-linear programming, network models, genetic algorithms, decision analysis, and project management models.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in prescriptive analytics of management science",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "AdvancedBusinessAnalytics/BigDataApplications": {
+        "Description": "This course addresses advanced business analytics techniques and the application of such techniques to large data sets. Some alternative business analytics strategies are introduced. Descriptive, predictive, and prescriptive models are included. Topics covered in this course include data visualization and exploration, cluster analysis, and developing and calibrating predictive models for big data. Applications of multivariate, logistic, and probit regression to business analytics are discussed. Software packages such as SAS/JMP/SPSS may be used.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in advanced business analytics/big data applications",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "PredictiveAnalyticsforBusiness": {
+        "Description": "Predictive analytics techniques for business. Applications include both shorter term forecasting for sales and operations management as well as forecasting for long term planning. Emphasis is on statistical methods to obtain and evaluate forecasts. Statistical models are implemented using standard software such as MINITAB, EXCEL, R, and/or Python.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in predictive analytics for business",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "SimulationModelingandAnalysisforBusinessSystems": {
+        "Description": "Simulation modeling is an integral part of the analytics revolution, enabling the creation of models that can represent the variability that exists in many real business systems. This course covers the theory and application of simulation modeling, with an emphasis on how simulation provides predictive and prescriptive analytics to support business decision-making. Topics include simulation fundamentals, the project life-cycle, model development, input and output analysis, verification and validation, and the presentation of a simulation study.  We utilize a major commercial simulation software package for assignments and class projects.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in simulation modeling and analysis for business systems",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "TopicsinBusinessAnalytics": {
+        "Description": "Selected advanced topics in decision sciences.  Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in topics in business analytics",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "IndependentStudy": {
+        "Description": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in independent study",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "StatisticsforManagers": {
+        "Description": "Statistical tools for solving business problems.  Topics include: sampling distributions, confidence intervals, hypothesis testing, simple and multiple regressions, and time series forecasting.  Emphasis is placed on the application of the tools to business problems.  Microsoft Excel is used to do most of the analysis.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in statistics for managers",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "FundamentalsofBusinessAnalytics": {
+        "Description": "This course provides students with some common tools and techniques that are deployed in business analytics. Topics include big data and related terminology, data management, working with data, and statistical and quantitative methods used in descriptive, predictive, and prescriptive analytics.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in fundamentals of business analytics",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "InternshipinBusinessAnalytics": {
+        "Description": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in internship in business analytics",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "SelectedTopicsinBusinessAnalytics": {
+        "Description": "The advanced study of selected topics not offered on a regular basis.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in selected topics in business analytics",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "MultivariateStatisticalMethodsforBusiness": {
+        "Description": "An applied study of statistical methods including analysis of variance, cross-sectional multiple regression, time series regression, panel data methods, discriminant analysis, and generalized linear models. Data analyzed using a computerized statistical package. Emphasizes development of the student's ability to use statistics for independent research.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in multivariate statistical methods for business",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "AdvancedStatisticalModelsinBusinessResearch": {
+        "Description": "Advanced statistical models that are commonly encountered in business research.  Topics include confirmatory factor analysis as well as structural equation modeling.  Emphasis is on model development as well as use of statistical software in analyzing realistic business-oriented data sets.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in advanced statistical models in business research",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "MultilevelModelinginBusinessResearch": {
+        "Description": "This course introduces the fundamentals of multilevel modeling.  Alternative methods of analysis are discussed and critiqued.  Use of specialized multilevel modeling software is demonstrated.  Topics include a detailed discussion of the issues associated with variable centering.  Applications to business research investigations are emphasized.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in multilevel modeling in business research",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "SimulationModelingforBusinessandSupplyChainSystems": {
+        "Description": "This course covers both the theory and application of simulation modeling and analysis to business, supply chain, and logistics systems. Both discrete-event and continuous simulation modeling approaches are covered, using a major commercial simulation package.  Emphasis will be on the use of simulation as a tool to support  business, supply chain, and logistics decision making.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in simulation modeling for business and supply chain systems",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    },
+    "Agent-BasedSimulationandModeling": {
+        "Description": "This course will explore both the conceptual and technical aspects of agent-based simulation, particularly as utilized for modeling of business systems.  Students will explore the roots and literature of agent-based modeling and related fields.  Students will also learn to develop agent-based simulation models using a major commercial simulation package.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Understanding core technical concepts in agent-based simulation and modeling",
+                "Proficiency in using lab equipment and data analysis software",
+                "Digital research and presentation skills",
+                "Application of technology for scientific experimentation",
+                "Utilizing online databases and tools for academic research"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effectively communicating scientific ideas to diverse audiences",
+                "Collaborating with peers in group projects and discussions",
+                "Writing clear and concise scientific papers and reports",
+                "Engaging in constructive feedback and active listening",
+                "Presenting research findings in professional settings"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Critical thinking to evaluate biological phenomena",
+                "Designing experiments to test hypotheses",
+                "Interpreting and analyzing experimental data",
+                "Identifying patterns and anomalies in research findings",
+                "Developing innovative solutions to complex scientific problems"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Time management to balance coursework and laboratory work",
+                "Organizing and leading group study sessions or projects",
+                "Setting priorities and goals in academic research",
+                "Demonstrating leadership in collaborative environments",
+                "Managing resources effectively for experimental tasks"
+            ]
+        }
+    }
+}

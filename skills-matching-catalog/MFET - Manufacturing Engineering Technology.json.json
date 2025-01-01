@@ -1,0 +1,494 @@
+{
+    "Introduction to Robotics": {
+        "Description": "An introductory course in robotics dealing with the history and development of robots, mechanical components and control systems, actuators, robot programming and utilization. Included are laboratory experiments in robot motion and programming.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Design for Manufacturing": {
+        "Description": "Principles of design for manufacturing, materials and process selection for design, design for assembly, design for production and case studies. Also includes impact of product design, design for maintenance, recyclability, disassembly, quality and robustness. Semester project requires redesign of an existing product for manufacturing.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Introduction to Mechatronics": {
+        "Description": "A study of the mechatronics concepts and their application on actual problems encountered in engineering practice. Includes the basics of electromechanical systems, electrical circuits, solid-state devices, digital circuits and motors, all of which are fundamental to understanding mechatronic systems.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Quality Systems in Manufacturing": {
+        "Description": "This course provides a comprehensive exploration of quality systems within the realm of manufacturing. Students will delve into the principles, methodologies, and tools essential for ensuring and enhancing product quality throughout the manufacturing lifecycle. Topics covered include quality management systems, statistical process control, Six Sigma methodologies, root cause analysis, quality assurance practices, and the integration of quality systems within various manufacturing processes. Through case studies and practical applications, students will gain a deep understanding of how quality systems contribute to operational excellence and competitive advantage in modern manufacturing environments.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Computer Integrated Manufacturing": {
+        "Description": "This course offers an in-depth examination of material handling technologies, automatic identification, and data capture techniques. Students will grasp the concepts underlying manufacturing support systems, delve into the realm of digital manufacturing, and gain proficiency in manufacturing process simulation. Through practical applications and theoretical frameworks, this course equips learners with a comprehensive understanding of how technology intersects with modern manufacturing processes.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Geometric Dimensioning and Tolerancing": {
+        "Description": "Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Computer Numerical Control in Production": {
+        "Description": "Principles of computer numerical control consistent with most recently developed standards, industry practices, and CAD/CAM systems including such topics as types of CNC machines, CNC milling, CNC turning and CNC electro-discharge machinery. A significant portion of the course includes programming in multiple axes.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Introduction To Welding Technologies": {
+        "Description": "An introduction to conventional and non-conventional welding processes. This course is intended to provide the student with a basic understanding of the various welding processes, welding terminology, joints, symbols, welding defects, equipment. Topics covered include welding processes, heat and fluid flow, structure of metals, solidification phenomena, phase transformations, residual stresses, and nondestructive examination techniques. Real life examples will be used to illustrate the fundamental concepts of the course. The student will also be introduced to career opportunities in the welding field. Lab time will be used to enforce lecture topics when needed.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Additive Manufacturing": {
+        "Description": "This course provides an overview of various additive manufacturing (AM) processes. Topics include fundamentals of polymer, composite, and metal AM processes, process parameters, AM software, AM cost, and AM\u2019s industrial potential such as prototyping, tooling, production customization, spare parts, art, design, architecture and construction.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Advanced Manufacturing Processes": {
+        "Description": "This course explores the intricate methods and technologies revolutionizing manufacturing, encompassing additive manufacturing, precision machining, sustainable and green processes and technologies, custom manufacturing, intelligent production systems, digital manufacturing, and digital twin. Through case studies and practical applications, learners develop a comprehensive understanding of innovative manufacturing processes driving efficiency, precision, and competitiveness in industry.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Lean Engineering": {
+        "Description": "This course looks at the history of lean and six sigma philosophies, their principles and implementation methodologies for creating a world class enterprise. Topics in Lean include 5s, value stream mapping, cellular manufacturing, pull system, performance metrics, Lean supplier network, Lean product development and Lean implementation models. Through theory and practical applications, students gain a foundational grasp of Lean Manufacturing and its real-world applications.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    },
+    "Facilities Planning and Material Handling": {
+        "Description": "This course takes a systematic approach to design of facilities and material handling systems for effective and lean production of goods and services. An array of qualitative and quantitative tools and techniques are introduced and utilized, emphasizing lean principles, waste reduction, and overall efficiency of operations. Flow analysis and optimization tools, including computer simulation, are introduced. Strong emphasis is placed on a comprehensive semester-long team project as an integral component of this course.",
+        "Skills": {
+            "TechnicalAndDigitalSkills": [
+                "Proficiency in relevant software tools",
+                "Ability to manage digital platforms",
+                "Data analysis and reporting",
+                "Utilizing technology for educational purposes",
+                "Experience with online learning systems",
+                "Proficiency in statistical software and data visualization",
+                "Understanding of educational technology trends"
+            ],
+            "InterpersonalAndCommunicationSkills": [
+                "Effective communication with diverse audiences",
+                "Collaboration in team settings",
+                "Engaging in professional dialogue",
+                "Conflict resolution and active listening",
+                "Facilitating group discussions",
+                "Providing constructive feedback",
+                "Networking and relationship-building"
+            ],
+            "ProblemSolvingAndAnalyticalSkills": [
+                "Analyzing complex issues",
+                "Developing practical solutions",
+                "Critical thinking and decision making",
+                "Synthesizing information from multiple sources",
+                "Evaluating the impact of policies and decisions",
+                "Designing research projects",
+                "Troubleshooting and resolving operational challenges"
+            ],
+            "OrganizationalAndLeadershipSkills": [
+                "Leadership in project settings",
+                "Time management and prioritization",
+                "Strategic planning and implementation",
+                "Facilitating team coordination",
+                "Mentoring and coaching team members",
+                "Organizing events and workshops",
+                "Adapting to organizational changes"
+            ]
+        }
+    }
+}
