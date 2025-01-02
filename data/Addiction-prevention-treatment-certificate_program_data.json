@@ -1,0 +1,59 @@
+{
+    "program_title": "Certificate Addiction Prevention and Treatment Certificate",
+    "academic_level": "Undergraduate",
+    "tabs": [
+        {
+            "tab_name": "Overview",
+            "content": [
+                {
+                    "paragraph": "The certificate program consists of six courses in the human services program for a total of 18 credit hours. Students transferring from other institutions are required to have a transcript analysis to ensure that the appropriate prerequisite requirements are met.  Students' prior coursework will be evaluated by an advisor at the time of admission to the certificate program."
+                }
+            ]
+        },
+        {
+            "tab_name": "Requirements",
+            "content": [
+                {
+                    "heading": "Requirements"
+                },
+                {
+                    "table": [
+                        {
+                            "course_id": "HMSV 341",
+                            "course_name": "Introduction to Human Services",
+                            "credit": "3"
+                        },
+                        {
+                            "course_id": "HMSV 343",
+                            "course_name": "Human Services Methods",
+                            "credit": "3"
+                        },
+                        {
+                            "course_id": "HMSV 368",
+                            "course_name": "Case Management & Crisis Techniques through Field Observation",
+                            "credit": "3"
+                        },
+                        {
+                            "course_id": "HMSV 447",
+                            "course_name": "Introduction to Substance Abuse",
+                            "credit": "3"
+                        },
+                        {
+                            "course_id": "HMSV 449",
+                            "course_name": "Crisis Intervention, Prevention and Ethics",
+                            "credit": "3"
+                        },
+                        {
+                            "course_id": "HMSV 452",
+                            "course_name": "Substance Abuse Treatment and Research",
+                            "credit": "3"
+                        }
+                    ]
+                },
+                {
+                    "paragraph": "For completion of the certificate, students must have a minimum cumulative grade point average of 2.00 overall in all courses taken toward the certificate program, a grade of C or better in all prerequisite courses and courses applied to the certificate, and complete a minimum of six hours in upper-level courses required for the certificate through courses offered by Old Dominion University.  Transfer courses require approval of the certificate coordinator. ​Non-Degree seeking students must have an Associate Degree or higher, with a minimum cumulative grade point average of 2.00 overall."
+                }
+            ]
+        }
+    ]
+}

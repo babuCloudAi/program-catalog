@@ -1,9 +1,10 @@
 const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
+const axios = require('axios');
 const fs = require('fs');
 
 (async () => {
-
+  // Function to scrape programs list
   const scrapePrograms = async (url) => {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
@@ -13,11 +14,12 @@ const fs = require('fs');
     const $ = cheerio.load(content);
 
     const programs = [];
-    $('li.item.filter_2').each((index, element) => {
+    // .filter_8
+    $('li.item.filter_8').each((index, element) => {
       const programTitle = $(element).find('span.title').text().trim();
       const href = $(element).find('a').attr('href');
-      
-      if (!href) return;  // if href is not found
+
+      if (!href) return; // Skip if href is not found
       const programUrl = href.startsWith('http') ? href : `https://catalog.odu.edu${href}`;
 
       const keywords = [];
@@ -31,7 +33,7 @@ const fs = require('fs');
       if (programTitle) {
         programs.push({
           program_title: programTitle,
-          program_url: programUrl, 
+          program_url: programUrl,
           academic_level: keywords[0]?.keyword_1 || '',
           program_type: keywords[1]?.keyword_2 || '',
           academic_interests: keywords[2]?.keyword_3 || '',
@@ -44,66 +46,190 @@ const fs = require('fs');
     return programs;
   };
 
-  // scrape tab content for a given program_url
-  const scrapeTabContent = async (page, url) => {
-    if (!url || !url.startsWith('http')) {
-      console.error(`Invalid URL: ${url}`);
-      return {};
-    }
+  // Function to scrape tab content
+  const scrapeTabContent = async (url) => {
+    try {
+      const response = await axios.get(url);
+      const $ = cheerio.load(response.data);
 
-    await page.goto(url, { waitUntil: 'domcontentloaded' });
-
-    const tabs = [
-      { name: 'Overview', selector: 'a[href="#textcontainer"]' },
-      { name: 'Requirements', selector: 'a[href="#requirementstextcontainer"]' },
-      { name: 'Degree Program Guide', selector: 'a[href="#degreeprogramguidetextcontainer"]' },
-      { name: "Master's Degree Options", selector: 'a[href="#mastersdegreeoptionstextcontainer"]' },
-    ];
-
-    const tabContent = {};
-
-    for (const tab of tabs) {
-      try {
-        console.log(`Clicking tab: ${tab.name}`);
-        await page.click(tab.selector);
-        await page.waitForSelector(tab.selector.replace('a[href="#', '#').replace('"]', ''), { timeout: 5000 }); // Wait for content to load
-
-        // Extract the content
-        const content = await page.evaluate((selector) => {
-          const contentElement = document.querySelector(selector);
-          return contentElement ? contentElement.innerText.trim() : 'No content found';
-        }, tab.selector.replace('a[href="#', '#').replace('"]', '')); // Convert href to ID selector
-
-        console.log(`Tab content for ${tab.name}:`, content);
-  
-        tabContent[tab.name] = content;
-
-      } catch (error) {
-        console.error(`Failed to fetch content for ${tab.name} on ${url}:`, error);
+      const nav = $('#tabs');
+      if (!nav.length) {
+        console.log('No tab navigation found on the page.');
+        return [];
       }
-    }
 
-    return tabContent;
+      const tabsData = [];
+
+      nav.find('li[role="presentation"]').each((index, tab) => {
+        const tabElement = $(tab);
+        const tabName = tabElement.find('a').text().trim();
+        const href = tabElement.find('a').attr('href');
+        const contentId = href ? href.replace('#', '') : null;
+
+        if (contentId) {
+          const contentDiv = $(`#${contentId}`);
+          if (contentDiv.length) {
+            const tabContent = [];
+
+            contentDiv.find('p, h1, h2, h3, h4, h5, h6, table').each((_, element) => {
+              const el = $(element);
+
+              if (/^h[1-6]$/.test(el[0].tagName)) {
+                tabContent.push({ heading: el.text().trim() });
+              } else if (el[0].tagName === 'p') {
+                tabContent.push({ paragraph: el.text().trim() });
+              } else if (el[0].tagName === 'table') {
+                const tableData = [];
+                el.find('tr').each((_, row) => {
+                  const columns = $(row).find('td');
+                  if (columns.length >= 3) {
+                    const courseId = columns.eq(0).hasClass('codecol') ? columns.eq(0).text().trim() : null;
+                    const courseName = columns.eq(1).text().trim();
+                    const credit = columns.eq(2).hasClass('hourscol') ? columns.eq(2).text().trim() : null;
+
+                    if (courseId && courseName && credit) {
+                      tableData.push({
+                        course_id: courseId,
+                        course_name: courseName,
+                        credit: credit
+                      });
+                    }
+                  }
+                });
+                if (tableData.length) {
+                  tabContent.push({ table: tableData });
+                }
+              }
+            });
+
+            tabsData.push({
+              tab_name: tabName,
+              content: tabContent
+            });
+          }
+        }
+      });
+
+      return tabsData;
+    } catch (error) {
+      console.error(`Failed to fetch the webpage: ${error.message}`);
+      return [];
+    }
   };
 
-  // combine program details with tab content (for Undergraduate_programs and graduate_programs)
-
-  const programListUrl = 'https://catalog.odu.edu/programs/#filter=.filter_2'; // Undergraduate_programs url
-  // const programListUrl = 'https://catalog.odu.edu/programs/#filter=.filter_8';  // graduate_programs url
-  const programs = await scrapePrograms(programListUrl);
-
-  const browser = await puppeteer.launch({ headless: true });
-  const page = await browser.newPage();
+  // Main scraping logic
+  // const programListUrl = 'https://catalog.odu.edu/programs/#filter=.filter_2';
+  const programListUrlGraduation = "https://catalog.odu.edu/programs/#filter=.filter_8";
+  // const programs = await scrapePrograms(programListUrl);
+  const programs = await scrapePrograms(programListUrlGraduation);
 
   for (const program of programs) {
     console.log(`Fetching tab content for: ${program.program_title}`);
-    const tabContent = await scrapeTabContent(page, program.program_url); // Use the full URL here
-    program.tabs = tabContent; // Add tab content to the program object
+    const tabContent = await scrapeTabContent(program.program_url);
+    program.tabs = tabContent; // Attach tab content to program object
   }
 
-  await browser.close();
-
-  // Save combined data to a JSON file
-  fs.writeFileSync('Undergraduate_programs.json', JSON.stringify(programs, null, 2), 'utf-8');
+  // Save data to JSON file
+  fs.writeFileSync('graduate__programs.json', JSON.stringify(programs, null, 2), 'utf-8');
   console.log('Programs with tab content saved to Undergraduate_programs.json');
 })();
+
+
+// Single scrape program function
+
+// // URL to scrape
+// const url = 'https://catalog.odu.edu/undergraduate/education/counseling-human-services/addiction-prevention-treatment-certificate/';
+
+// // Fetch the webpage content
+// axios.get(url)
+//     .then(response => {
+//         const $ = cheerio.load(response.data);
+
+//         // Extract program title
+//         const programTitle = $('h1.page-title').text().trim();
+
+//         // Determine academic level
+//         const academicLevel = url.includes('/undergraduate/') ? 'Undergraduate' : 'Graduate';
+
+//         // Find the nav element containing the tabs
+//         const nav = $('#tabs');
+//         if (!nav.length) {
+//             console.log('No tab navigation found on the page.');
+//             return;
+//         }
+
+//         const tabsData = [];
+
+//         // Extract tab names and corresponding content
+//         nav.find('li[role="presentation"]').each((index, tab) => {
+//             const tabElement = $(tab);
+//             const tabName = tabElement.find('a').text().trim();
+//             const href = tabElement.find('a').attr('href');
+//             const contentId = href ? href.replace('#', '') : null;
+
+//             if (contentId) {
+//                 const contentDiv = $(`#${contentId}`);
+//                 if (contentDiv.length) {
+//                     const tabContent = [];
+
+//                     // Extract content from paragraphs, headings, and tables
+//                     contentDiv.find('p, h1, h2, h3, h4, h5, h6, table').each((_, element) => {
+//                         const el = $(element);
+
+//                         if (/^h[1-6]$/.test(el[0].tagName)) {
+//                             tabContent.push({ heading: el.text().trim() });
+//                         } else if (el[0].tagName === 'p') {
+//                             tabContent.push({ paragraph: el.text().trim() });
+//                         } else if (el[0].tagName === 'table') {
+//                             const tableData = [];
+//                             el.find('tr').each((_, row) => {
+//                                 const columns = $(row).find('td');
+//                                 if (columns.length >= 3) {
+//                                     const courseId = columns.eq(0).hasClass('codecol') ? columns.eq(0).text().trim() : null;
+//                                     const courseName = columns.eq(1).text().trim();
+//                                     const credit = columns.eq(2).hasClass('hourscol') ? columns.eq(2).text().trim() : null;
+
+//                                     if (courseId && courseName && credit) {
+//                                         tableData.push({
+//                                             course_id: courseId,
+//                                             course_name: courseName,
+//                                             credit: credit
+//                                         });
+//                                     }
+//                                 }
+//                             });
+//                             if (tableData.length) {
+//                                 tabContent.push({ table: tableData });
+//                             }
+//                         }
+//                     });
+
+//                     // Add tab details to the list
+//                     tabsData.push({
+//                         tab_name: tabName,
+//                         content: tabContent
+//                     });
+//                 }
+//             }
+//         });
+
+//         // Combine program title, academic level, and tab content
+//         const programData = {
+//             program_title: programTitle,
+//             academic_level: academicLevel,
+//             tabs: tabsData
+//         };
+
+//         // Convert data to JSON format
+//         const jsonData = JSON.stringify(programData, null, 4);
+
+//         // Output JSON data
+//         console.log(jsonData);
+
+//         // Optionally save to a file
+//         fs.writeFileSync('Addiction-prevention-treatment-certificate_program_data.json', jsonData, 'utf8');
+//         console.log('Data saved to program_data.json');
+//     })
+//     .catch(error => {
+//         console.error(`Failed to fetch the webpage: ${error.message}`);
+//     });
