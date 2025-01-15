@@ -1,0 +1,53 @@
+{
+    "school": "School of Cybersecurity",
+    "academic_level": "Undergraduate Catalog",
+    "programs": {
+        "Bachelor of Science Programs": [
+            "Cybersecurity (BS)",
+            "Cybersecurity with a Major in Cyber Operations (BS)",
+            "Cybersecurity with a Major in Cyber Risk Management (BS)"
+        ],
+        "Certificate Program": [
+            "Cyber Risk Management Certificate"
+        ],
+        "Minor Program": [
+            "Cybersecurity Minor"
+        ]
+    },
+    "courses": {
+        "Cybersecurity (CYSE)": [
+            "CYSE 001",
+            "CYSE 100",
+            "CYSE 200T",
+            "CYSE 201S",
+            "CYSE 202G",
+            "CYSE 250",
+            "CYSE 270",
+            "CYSE 280",
+            "CYSE 300",
+            "CYSE 301",
+            "CYSE 368",
+            "CYSE 395",
+            "CYSE 404",
+            "CYSE 406",
+            "CYSE 407",
+            "CYSE 409",
+            "CYSE 416/516",
+            "CYSE 417",
+            "CYSE 419/519",
+            "CYSE 420/520",
+            "CYSE 425W/525",
+            "CYSE 426/526",
+            "CYSE 430/530",
+            "CYSE 431/531",
+            "CYSE 432/532",
+            "CYSE 433/533",
+            "CYSE 450",
+            "CYSE 494",
+            "CYSE 495/595",
+            "CYSE 496/596",
+            "CYSE 497/597",
+            "CYSE 498/598"
+        ]
+    }
+}

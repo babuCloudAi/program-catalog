@@ -1,0 +1,12 @@
+{
+    "department": "Continuing Education",
+    "academic_level": "Undergraduate Catalog",
+    "programs": {
+        "Certificate Programs": [
+            "Digital Forensics Certificate",
+            "Professional Leadership Certificate"
+        ],
+        "Non-Credit Continuing Education Programs": []
+    },
+    "courses": {}
+}
