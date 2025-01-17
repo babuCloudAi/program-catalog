@@ -124,14 +124,23 @@ async function scrapeDepartmentPage(department) {
     const courses = extractCourses($);
 
     return {
-        academic_level: breadcrumb.academic_level,
-        college: breadcrumb.college,
-        department: breadcrumb.department,
-        department: department.name,
-        programs: programs,
-        courses: courses,
+        // academic_level: breadcrumb.academic_level,
+        // college: breadcrumb.college,
+        // department: breadcrumb.department,
+        // department: department.name,
+        // programs: programs,
+        // courses: courses,
+        [department.name]: { // Department name as the key
+            academic_level: breadcrumb.academic_level,
+            college: breadcrumb.college,
+            department: breadcrumb.department,
+            programs: programs,
+            courses: courses,
+        }
     };
 }
+
+
 
 async function main() {
     const baseUrl = "https://catalog.odu.edu/undergraduate/sciences/";
