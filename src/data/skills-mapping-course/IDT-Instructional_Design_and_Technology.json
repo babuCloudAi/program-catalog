@@ -1,0 +1,1042 @@
+[
+    {
+        "courseCode": "IDT 617",
+        "courseTitle": "Foundations of Instructional Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Required introductory overview to the field of instructional technology.  Topics include a history of the field, basic instructional design, generally accepted theoretical practices and major formats of instructional media.  Emphasis is given to instructional technology trends as applied to various industries, including K-12, military, industry training, and others.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional design",
+            "Knowledge of major formats of instructional media",
+            "Awareness of instructional technology trends",
+            "Application of instructional technology in various industries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of theoretical practices to diverse audiences",
+            "Collaboration in industry training or K-12 settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of instructional technology trends",
+            "Evaluation of theoretical practices",
+            "Problem-solving in instructional design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in instructional technology implementation",
+            "Organization of instructional media"
+        ]
+    },
+    {
+        "courseCode": "IDT 630",
+        "courseTitle": "Foundations of Human Performance Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce students to the field of Human Performance Technology (HPT). Students will explore what HPT is, why instructional designers should know about it, how performance improvements can be measured, and most critically, how it can be applied in real environments to solve real problems. Students will gain practice in thinking systematically about performance, and they will enhance their value as instructional design professionals by being able to offer solutions to organizational needs that go beyond traditional instruction.",
+        "Technical and Digital Skills": [
+            "Understanding of Human Performance Technology",
+            "Application of HPT in real environments",
+            "Measurement of performance improvements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting solutions to organizational needs",
+            "Collaboration in instructional design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Systematic thinking about performance",
+            "Problem-solving in real environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Addressing organizational needs beyond traditional instruction",
+            "Leading performance improvement initiatives"
+        ]
+    },
+    {
+        "courseCode": "IDT 647",
+        "courseTitle": "Online Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an applied survey on online instruction, including relevant online learning theory and design considerations, as well as tools and principles, with an emphasis on K-12 education. Topics include theories and principles of online learning, effectively identifying, locating, evaluating, preparing, and using educational technology as instructional resources in an online environment.",
+        "Technical and Digital Skills": [
+            "Online instruction techniques",
+            "Usage of educational technology",
+            "Designing online learning resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in online environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating educational technology",
+            "Identifying suitable online learning tools and principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Preparing and organizing online learning materials",
+            "Applying online learning theories and principles"
+        ]
+    },
+    {
+        "courseCode": "IDT 725",
+        "courseTitle": "Human Performance Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the theory, design, and evaluation of measurement instruments used to assess individual knowledge, performance, and attitudes.  Topics include fundamentals of measurement, reliability, validity, and instrument selection, construction, and use.  Students will develop and evaluate instruments for instructional and research purposes.",
+        "Technical and Digital Skills": [
+            "Design of measurement instruments",
+            "Use and construction of instructional and research instruments",
+            "Understanding fundamentals of measurement",
+            "Knowledge of reliability and validity in instrument selection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting analysis and evaluation results",
+            "Communicating instrument design and use"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating measurement instruments",
+            "Analyzing performance and attitudes",
+            "Assessing individual knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting research",
+            "Leadership in instrument design and selection"
+        ]
+    },
+    {
+        "courseCode": "IDT 730",
+        "courseTitle": "Principles and Practices of Human Performance Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores both the principles and practices of human performance technology, with roughly equal emphasis on both.  Students will learn what HPT is, how it's applied in practice, and how and why instructional designers need to know about it.  Particular emphasis is given to determining whether or not problems are best amenable to instructional solutions.",
+        "Technical and Digital Skills": [
+            "Understanding of Human Performance Technology (HPT)",
+            "Application of HPT principles in practice",
+            "Instructional design for HPT"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of HPT principles",
+            "Collaboration in problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of problems amenable to instructional solutions",
+            "Critical evaluation of HPT applications",
+            "Strategic problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in instructional design",
+            "Organizational skills for HPT application"
+        ]
+    },
+    {
+        "courseCode": "IDT 735",
+        "courseTitle": "Noninstructional Interventions",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based course examines several different non-instructional interventions that can be used to promote performance improvement. Major methodologies common in the field will be explored as a class, and students will also be required to familiarize themselves with other methodologies of their choice. Emphasis will be on the following interventions: job analysis/work design, performance development, human resource development, organizational communication, organizational design and financial systems.",
+        "Technical and Digital Skills": [
+            "Job analysis techniques",
+            "Work design principles",
+            "Understanding of human resource development mechanisms",
+            "Organizational design comprehension",
+            "Financial systems knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective organizational communication",
+            "Collaboration in project-based learning environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance improvement strategies",
+            "Analyzing different methodologies",
+            "Critical evaluation of intervention effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of non-instructional interventions",
+            "Leadership in performance development",
+            "Strategic planning and organizational design"
+        ]
+    },
+    {
+        "courseCode": "IDT 737",
+        "courseTitle": "Consulting Skills for Instructional Designers",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based course is designed to develop and enhance the ability of instructional designers to work as partners and consultants to clients and superiors.  The focus is on consulting skills per se, and not any particular content.  All students will be required to do an individual consulting project, supervised by the instructor.",
+        "Technical and Digital Skills": [
+            "Project implementation",
+            "Educational technology tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client consultation",
+            "Effective communication with superiors",
+            "Presenting project results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Needs assessment",
+            "Consulting strategy formulation",
+            "Problem-solving in instructional design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in instructional design projects"
+        ]
+    },
+    {
+        "courseCode": "IDT 739",
+        "courseTitle": "Needs Analysis and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based class will focus on the process of doing a needs analysis and assessment, from start to finish.  Although theoretical considerations regarding needs analyses will be explored, the emphasis is on actually conducting the analysis.  Students will work in teams under the supervision of the instructor to conduct a needs analysis for an external client.",
+        "Technical and Digital Skills": [
+            "Conducting needs analysis",
+            "Client assessment techniques",
+            "Project-based needs assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration",
+            "Client communication",
+            "Feedback interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Solution development",
+            "Theoretical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team supervision",
+            "Workflow organization"
+        ]
+    },
+    {
+        "courseCode": "IDT 746",
+        "courseTitle": "Foundations of Distance Education",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of the trends, issues, and theories of distance education in education, business, and military applications.  Students will examine various distance education systems, policies and lessons from different perspectives.",
+        "Technical and Digital Skills": [
+            "Analysis of distance education systems",
+            "Understanding of distance learning platforms",
+            "Familiarity with digital learning policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical evaluation of distance education policies",
+            "Discussion and collaboration on distance education trends"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of trends in distance education",
+            "Investigative skills for examining various distance education systems",
+            "Critical thinking for assessing issues in distance education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in applying distance education theories",
+            "Organization skills for managing distance learning systems",
+            "Strategic planning for distance education policies"
+        ]
+    },
+    {
+        "courseCode": "IDT 749",
+        "courseTitle": "Instructional Systems Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will gain hands-on experience applying a theoretical understanding of instructional design and development to actual projects.  Students will learn and use the Instructional Systems Design Process from initial learner profile analysis to design and development through to evaluation.  Students will work individually and in teams to gain experience similar to real-world instructional design situations. Students will master the fundamental practices upon which the instructional design process is based.",
+        "Technical and Digital Skills": [
+            "Instructional Systems Design Process",
+            "Learner profile analysis",
+            "Instructional design and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork in instructional design",
+            "Communicating design concepts",
+            "Project collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing learner profiles",
+            "Evaluating instructional systems",
+            "Problem-solving in instructional design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in instructional design",
+            "Leading instructional design teams",
+            "Design project planning"
+        ]
+    },
+    {
+        "courseCode": "IDT 751",
+        "courseTitle": "Computer-Based Multi-Media Design",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the theory, design, and evaluation of computer-based multimedia instruction.  Students will demonstrate a thorough understanding of instructional theory and design strategies for computer-based drills, tutorials, hypermedia, simulations, games, tools, open-ended learning environments, tests, and web-based instruction.  Class projects will center on the design and development of instruction utilizing at least two of these methodologies.",
+        "Technical and Digital Skills": [
+            "Design and development of computer-based multimedia instruction",
+            "Creation and evaluation of computer-based drills",
+            "Design of tutorials",
+            "Hypermedia development",
+            "Simulations creation",
+            "Game design",
+            "Tool development",
+            "Design of open-ended learning environments",
+            "Test design",
+            "Web-based instruction design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of design and development projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation and improvement of multimedia instruction designs",
+            "Strategy formulation for computer-based drills and tutorials",
+            "Analyzing and optimizing simulations and game designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for design and development tasks",
+            "Balancing multiple methodologies in a single instruction design"
+        ]
+    },
+    {
+        "courseCode": "IDT 752",
+        "courseTitle": "Diffusion and Adoption of Instructional Technology Innovations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore theories, research, and strategies related to the diffusion and adoption of instructional technology innovations in education and training.  The course will explore why and how individuals, groups, and organizations adopt or fail to adopt an innovation or change.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional technology innovations",
+            "Assessing technology adoption feasibility",
+            "Identifying potential barriers to technology adoption"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Persuading individuals and groups to adopt technology",
+            "Communicating the benefits and risks of technology innovations",
+            "Negotiation skills for technology adoption"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing why and how innovations are adopted or rejected",
+            "Strategic thinking to facilitate technology adoption",
+            "Diagnosing problems in the innovation adoption process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading technology change initiatives",
+            "Organizational decision-making for technology adoption",
+            "Managing resistance to technology changes"
+        ]
+    },
+    {
+        "courseCode": "IDT 755",
+        "courseTitle": "Theory and Design of Instructional Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on learning theory, design and evaluation of instructional simulations and simulators. Topics include history, instructional design, validation, and integration of instructional simulations.",
+        "Technical and Digital Skills": [
+            "Designing instructional simulations",
+            "Validating instructional simulations",
+            "Integration of instructional simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting simulation design and validation",
+            "Collaborative simulation design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating the effectiveness of instructional simulations",
+            "Applying learning theory to simulation design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading instructional simulation projects",
+            "Organizing simulation validation processes"
+        ]
+    },
+    {
+        "courseCode": "IDT 756",
+        "courseTitle": "Instructional Gaming: Theories and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides both a conceptual framework and experience in the design and development of instructional games.  The course introduces the student to the history, research, theory, and practice of instructional games.  Topics include discussions of relevant learning theories associated with instructional gaming, analysis and design of games and current research in instructional gaming.",
+        "Technical and Digital Skills": [
+            "Instructional game design",
+            "Understanding of gaming history",
+            "Game development",
+            "Integration of learning theories into game design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of games",
+            "Application of research in instructional gaming",
+            "Understanding and application of relevant learning theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "IDT 760",
+        "courseTitle": "Cognition and Instructional Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will be introduced to the theoretical frameworks that form the basis of instructional systems theory and design.  Focus will be on learning theories, instructional psychology, and instructional system theory.  Recent developments in cognition, learning and instruction for educators will also be considered.  Topics include perspectives of behaviorism, social-historical constructivism, cognitive science, situated cognition, and cultural influences on cognition.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional systems theory and design",
+            "Knowledge of learning theories",
+            "Familiarity with instructional psychology",
+            "Understanding of situated cognition",
+            "Awareness of social-historical constructivism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex cognitive science concepts",
+            "Ability to discuss and interpret different learning theories",
+            "Understanding and discussing the cultural influences on cognition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and apply theoretical frameworks",
+            "Analytical thinking in understanding recent developments in cognition, learning and instruction for educators",
+            "Critical evaluation of different perspectives of behaviorism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to integrate different learning theories into instructional design",
+            "Ability to lead discussions on cognitive science and related topics"
+        ]
+    },
+    {
+        "courseCode": "IDT 761",
+        "courseTitle": "Applied Instructional Design Tools",
+        "academicLevel": "graduate",
+        "courseDescription": "Problem-based course in which students gain experience applying  knowledge from IDT 749/IDT 849 to real-world instructional and instructional technology problems.  Project work is individual, paired, and in teams.  Students demonstrate mastery of the instructional design and development process through production of tools, technologies, media or materials that successfully resolve an instructional problem.  Focus is on rapid prototyping model.",
+        "Technical and Digital Skills": [
+            "Instructional design and development",
+            "Tool and technology production",
+            "Media and material production",
+            "Rapid prototyping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration",
+            "Pair work",
+            "Individual project work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Instructional problem resolution",
+            "Application of instructional design knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership"
+        ]
+    },
+    {
+        "courseCode": "IDT 763",
+        "courseTitle": "Instructional Design Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will investigate traditional and contemporary instructional design theories and models.  Behavioral, cognitive, generative, problem-based learning, and constructivist theories as well as cognitive hierarchies will be examined, compared, contrasted and applied to various instructional situations.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional design theories and models",
+            "Application of cognitive hierarchies in instruction",
+            "Utilization of problem-based learning strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of instructional design theories",
+            "Collaboration in instructional situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and comparison of instructional design theories",
+            "Problem solving through problem-based learning strategies",
+            "Evaluation and application of cognitive hierarchies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of instructional design theories to instructional situations",
+            "Leadership in instructional situations"
+        ]
+    },
+    {
+        "courseCode": "IDT 764",
+        "courseTitle": "Instructional Message Design",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of the application of perceptual and learning principles to the design of instructional media for use in educational and training applications.  The focus is on the development and application of heuristics from the research literature.  We will examine verbal and iconic signs as well as visual imagery, and their role in the instructional and learning processes.",
+        "Technical and Digital Skills": [
+            "Design of instructional media",
+            "Application of perceptual and learning principles",
+            "Development and application of heuristics",
+            "Understanding of verbal and iconic signs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of visual imagery in learning processes",
+            "Evaluation of instructional and learning processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of educational and training applications"
+        ]
+    },
+    {
+        "courseCode": "IDT 773",
+        "courseTitle": "Advanced Instructional Design Techniques",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploration and application of techniques, tools and competencies characteristic of expert designers.  Topics may include: instructional strategies, use of design software, program design, advanced analysis techniques, motivation design, rapid prototyping, reducing design cycle time, and designing instruction for diverse learner populations.",
+        "Technical and Digital Skills": [
+            "Use of design software",
+            "Rapid prototyping",
+            "Program design",
+            "Advanced analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Designing instruction for diverse learner populations",
+            "Motivation design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Reducing design cycle time",
+            "Application of expert design techniques",
+            "Exploration of design strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instructional strategies organization",
+            "Program design management"
+        ]
+    },
+    {
+        "courseCode": "IDT 775",
+        "courseTitle": "Designing Online Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "An applied survey of online instruction, including relevant theory and design considerations.  Topics include efficacy of online learning, design considerations when using course management systems and similar online learning technologies, research and future directions.",
+        "Technical and Digital Skills": [
+            "Understanding of online learning technologies",
+            "Designing online instruction using course management systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to convey online learning efficacy",
+            "Explaining design considerations for online learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Researching and analyzing future directions in online instruction",
+            "Evaluating the efficacy of online learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing online instruction",
+            "Leading online instruction design projects"
+        ]
+    },
+    {
+        "courseCode": "IDT 801",
+        "courseTitle": "Instructional Design and Technology Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces new Ph.D. students to the field of instructional design and technology and provides orientation to doctoral level study.  The course includes reading, critiquing and analyzing empirical research, theories, and real-world instructional problems.  Potential student research agendas consistent with faculty or programmatic research foci will be explored.  Academic and technological expectations will be communicated and practiced.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional design and technology",
+            "Analyzing empirical research",
+            "Practicing academic and technological expectations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critiquing theories and research",
+            "Discussing potential research agendas",
+            "Communicating academic and technological expectations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing real-world instructional problems",
+            "Exploring potential research agendas",
+            "Critiquing and analyzing empirical research and theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning student research agendas",
+            "Orienting to doctoral level study",
+            "Meeting academic and technological expectations"
+        ]
+    },
+    {
+        "courseCode": "IDT 810",
+        "courseTitle": "Trends and Issues in Instructional Design and Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploration and discussion of trends and issues of current and historical significance to instructional design.  Readings will include contributions of key scholars, past and present, in instructional design and related fields.  Includes analysis of trends and issues to track and predict their impact on the future of the field.",
+        "Technical and Digital Skills": [
+            "Understanding and tracking of instructional design trends",
+            "Analyzing the impact of instructional design trends",
+            "Familiarity with key scholarly contributions in instructional design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and exploration of instructional design trends and issues",
+            "Collaborative analysis of instructional design literature"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and predicting the future impact of instructional design trends",
+            "Historical analysis of instructional design trends and issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of instructional design literature",
+            "Leadership in discussion and exploration of instructional design issues"
+        ]
+    },
+    {
+        "courseCode": "IDT 825",
+        "courseTitle": "Human Performance Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the theory, design, and evaluation of measurement instruments used to assess individual knowledge, performance, and attitudes.  Topics include fundamentals of measurement, reliability, validity, and instrument selection, construction, and use.  Students will develop and evaluate instruments for instructional and research purposes.",
+        "Technical and Digital Skills": [
+            "Designing measurement instruments",
+            "Evaluating measurement instruments",
+            "Instrument construction",
+            "Understanding of measurement fundamentals",
+            "Knowledge on reliability and validity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of instrument evaluation",
+            "Instructional skills for instrument use"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing instrument reliability and validity",
+            "Critical evaluation of measurement data",
+            "Problem-solving in instrument design and construction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instrument selection and use",
+            "Organizing instructional and research purposes",
+            "Leading instrument design and evaluation projects"
+        ]
+    },
+    {
+        "courseCode": "IDT 830",
+        "courseTitle": "Principles and Practices of Human Performance Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores both the principles and practices of human performance technology, with roughly equal emphasis on both.  Students will learn what HPT is, how it's applied in practice, and how and why instructional designers need to know about it.  Particular emphasis is given to determining whether or not problems are best amenable to instructional solutions.",
+        "Technical and Digital Skills": [
+            "Understanding of Human Performance Technology",
+            "Knowledge of instructional design",
+            "Determining suitable problems for instructional solutions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining Human Performance Technology concepts",
+            "Communicating instructional design needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying problems amenable to instructional solutions",
+            "Applying Human Performance Technology principles in practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading instructional design initiatives",
+            "Organizing and applying Human Performance Technology practices"
+        ]
+    },
+    {
+        "courseCode": "IDT 835",
+        "courseTitle": "Noninstructional Interventions",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based course examines several different non-instructional interventions that can be used to promote performance improvement. Major methodologies common in the field will be explored as a class, and students will also be required to familiarize themselves with other methodologies of their choice. Emphasis will be on the following interventions: job analysis/work design, performance development, human resource development, organizational communication, organizational design and financial systems.",
+        "Technical and Digital Skills": [
+            "Understanding different intervention methodologies",
+            "Job analysis and work design",
+            "Organizational design",
+            "Understanding and applying financial systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating within an organization",
+            "Collaborating on project-based tasks",
+            "Presenting and explaining chosen methodologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing job performance",
+            "Improving performance through non-instructional interventions",
+            "Choosing appropriate interventions based on situational analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading performance improvement initiatives",
+            "Human resource development",
+            "Implementing organizational changes"
+        ]
+    },
+    {
+        "courseCode": "IDT 837",
+        "courseTitle": "Consulting Skills for Instructional Designers",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based course is designed to develop and enhance the ability of instructional designers to work as partners and consultants to clients and superiors.  The focus is on consulting skills per se, and not any particular content.  All students will be required to do an individual consulting project, supervised by the instructor.",
+        "Technical and Digital Skills": [
+            "Project management",
+            "Individual consulting project execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Effective partnership building",
+            "Superior consultation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Client need analysis",
+            "Solution development and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervisory skills",
+            "Project organization",
+            "Client management"
+        ]
+    },
+    {
+        "courseCode": "IDT 839",
+        "courseTitle": "Needs Analysis and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This project-based class will focus on the process of doing a needs analysis and assessment, from start to finish.  Although theoretical considerations regarding needs analyses will be explored, the emphasis is on actually conducting the analysis.  Students will work in teams under the supervision of the instructor to conduct a needs analysis for an external client.",
+        "Technical and Digital Skills": [
+            "Conducting needs analysis",
+            "Assessment methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork",
+            "Client communication",
+            "Cooperation under supervision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Solution development",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "IDT 846",
+        "courseTitle": "Foundations of Distance Education",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of the trends, issues, and theories of distance education in education, business, and military applications.  Students will examine various distance education systems, policies and lessons from different perspectives.",
+        "Technical and Digital Skills": [
+            "Analyzing trends in distance education",
+            "Understanding different distance education systems",
+            "Knowledge of distance education policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Perspective taking",
+            "Critical evaluation of different education systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of issues in distance education",
+            "Analyzing lessons from different perspectives",
+            "Identification of trends in distance education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the application of distance education in different fields such as education, business, and military",
+            "Influence and application of policies in distance education"
+        ]
+    },
+    {
+        "courseCode": "IDT 849",
+        "courseTitle": "Instructional Systems Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will gain hands-on experience applying a theoretical understanding of instructional design and development to actual projects.  Students will learn and use the Instructional Systems Design Process from initial learner profile analysis to design and development through to evaluation.  Students will work individually and in teams to gain experience similar to real-world instructional design situations. Students will master the fundamental practices upon which the instructional design process is based.",
+        "Technical and Digital Skills": [
+            "Application of instructional design theory",
+            "Use of Instructional Systems Design Process",
+            "Instructional design and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork in instructional design projects",
+            "Communication of design concepts",
+            "Collaborative instruction development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of learner profiles",
+            "Instructional design problem-solving",
+            "Evaluation of instructional design outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of instructional design projects",
+            "Leadership in instructional design teams",
+            "Organizing instructional content"
+        ]
+    },
+    {
+        "courseCode": "IDT 851",
+        "courseTitle": "Computer-Based Multi-Media Design",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the theory, design, and evaluation of computer-based multimedia instruction.  Students will demonstrate a thorough understanding of instructional theory and design strategies for computer-based drills, tutorials, hypermedia, simulations, games, tools, open-ended learning environments, tests, and web-based instruction.  Class projects will center on the design and development of instruction utilizing at least two of these methodologies.",
+        "Technical and Digital Skills": [
+            "Multimedia instruction design",
+            "Development of computer-based drills",
+            "Hypermedia creation",
+            "Simulation design",
+            "Game development",
+            "Tool creation",
+            "Open-ended learning environment design",
+            "Web-based instruction design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional theory articulation",
+            "Project collaboration",
+            "Feedback and evaluation communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Instructional design strategy",
+            "Evaluation of multimedia instruction",
+            "Methodology selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Design strategy planning"
+        ]
+    },
+    {
+        "courseCode": "IDT 852",
+        "courseTitle": "Diffusion and Adoption of Instructional Technology Innovations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore theories, research, and strategies related to the diffusion and adoption of instructional technology innovations in education and training.  The course will explore why and how individuals, groups, and organizations adopt or fail to adopt an innovation or change.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional technology",
+            "Researching tech trends",
+            "Evaluating technology effectiveness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding group dynamics",
+            "Effective communication of innovative ideas",
+            "Negotiation and persuasion techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing adoption patterns and barriers",
+            "Strategic planning for technology adoption",
+            "Critical analysis of technological innovations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Driving change and innovation",
+            "Leadership in technology adoption",
+            "Organizational planning for technology integration"
+        ]
+    },
+    {
+        "courseCode": "IDT 855",
+        "courseTitle": "Theory and Design of Instructional Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on learning theory, design and evaluation of instructional simulations and simulators. Topics include history, instructional design, validation, and integration of instructional simulations.",
+        "Technical and Digital Skills": [
+            "Instructional design",
+            "Designing and testing simulations",
+            "Integrating simulations into curriculum"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating simulation design and purpose",
+            "Collaborative design of simulations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating simulation effectiveness",
+            "Identifying and resolving design issues in simulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing simulation design projects",
+            "Leading instructional design teams"
+        ]
+    },
+    {
+        "courseCode": "IDT 856",
+        "courseTitle": "Instructional Gaming: Theories and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides both a conceptual framework and experience in the design and development of instructional games.  The course introduces the student to the history, research, theory, and practice of instructional games.  Topics include discussions of relevant learning theories associated with instructional gaming, analysis and design of games and current research in instructional gaming.",
+        "Technical and Digital Skills": [
+            "Game design",
+            "Game development",
+            "Understanding of instructional gaming research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of game design",
+            "Application of learning theories to game development"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "IDT 860",
+        "courseTitle": "Cognition and Instructional Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will be introduced to the theoretical frameworks that form the basis of instructional systems theory and design.  Focus will be on learning theories, instructional psychology, and instructional system theory.  Recent developments in cognition, learning and instruction for educators will also be considered.  Topics include perspectives of behaviorism, social-historical constructivism, cognitive science, situated cognition, and cultural influences on cognition.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional systems theory and design",
+            "Knowledge of learning theories",
+            "Familiarity with instructional psychology",
+            "Understanding of cognitive science",
+            "Knowledge of situated cognition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex theories and concepts",
+            "Understanding the influence of cultural aspects on cognition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply theoretical frameworks to instructional design",
+            "Analyzing recent developments in cognition, learning and instruction for educators"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of social-historical constructivism in instructional design"
+        ]
+    },
+    {
+        "courseCode": "IDT 861",
+        "courseTitle": "Applied Instructional Design Tools",
+        "academicLevel": "graduate",
+        "courseDescription": "Problem-based course in which students gain experience applying  knowledge from IDT 749/IDT 849 to real-world instructional and instructional technology problems.  Project work is individual, paired, and in teams.  Students demonstrate mastery of the instructional design and development process through production of tools, technologies, media or materials that successfully resolve an instructional problem.  Focus is on rapid prototyping model.",
+        "Technical and Digital Skills": [
+            "Instructional design and development",
+            "Application of tools, technologies, and media to resolve instructional problems",
+            "Production of instructional materials",
+            "Rapid prototyping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team project collaboration",
+            "Individual and paired work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem-solving in instructional design",
+            "Analytical application of IDT knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in team projects"
+        ]
+    },
+    {
+        "courseCode": "IDT 863",
+        "courseTitle": "Instructional Design Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will investigate traditional and contemporary instructional design theories and models.  Behavioral, cognitive, generative, problem-based learning, and constructivist theories as well as cognitive hierarchies will be examined, compared, contrasted and applied to various instructional situations.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional design theories and models",
+            "Applying cognitive hierarchies",
+            "Comparing and contrasting various instructional design theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex instructional design theories",
+            "Communicating applied instructional methods"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing traditional and contemporary instructional design theories",
+            "Applying problem-based learning theories",
+            "Interpreting cognitive hierarchies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Applying instructional theories to various situations",
+            "Leading instructional design initiatives"
+        ]
+    },
+    {
+        "courseCode": "IDT 864",
+        "courseTitle": "Instructional Message Design",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of the application of perceptual and learning principles to the design of instructional media for use in educational and training applications.  The focus is on the development and application of heuristics from the research literature.  We will examine verbal and iconic signs as well as visual imagery, and their role in the instructional and learning processes.",
+        "Technical and Digital Skills": [
+            "Design of instructional media",
+            "Application of perceptual and learning principles",
+            "Understanding of verbal and iconic signs",
+            "Understanding of visual imagery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of instructional design",
+            "Collaboration in research literature"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development and application of heuristics",
+            "Analysis of instructional and learning processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of educational and training applications",
+            "Leadership in application of research literature"
+        ]
+    },
+    {
+        "courseCode": "IDT 873",
+        "courseTitle": "Advanced Instructional Design Techniques",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploration and application of techniques, tools and competencies characteristic of expert designers.  Topics may include: instructional strategies, use of design software, program design, advanced analysis techniques, motivation design, rapid prototyping, reducing design cycle time, and designing instruction for diverse learner populations.",
+        "Technical and Digital Skills": [
+            "Use of design software",
+            "Rapid prototyping",
+            "Instructional strategies application",
+            "Designing instruction for diverse learner populations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate design concepts",
+            "Ability to motivate through design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced analysis techniques",
+            "Reducing design cycle time",
+            "Program design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in design",
+            "Leadership in design teams"
+        ]
+    },
+    {
+        "courseCode": "IDT 875",
+        "courseTitle": "Designing Online Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "An applied survey of online instruction, including relevant theory and design considerations.  Topics include efficacy of online learning, design considerations when using course management systems and similar online learning technologies, research and future directions.",
+        "Technical and Digital Skills": [
+            "Understanding of online learning technologies",
+            "Course management systems operation",
+            "Designing online learning environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective online communication",
+            "Understanding learner needs in an online context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing efficacy of online learning",
+            "Evaluating online learning technologies",
+            "Anticipating future trends in online education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing online learning materials",
+            "Leading online instruction",
+            "Management of online learning platforms"
+        ]
+    },
+    {
+        "courseCode": "IDT 879",
+        "courseTitle": "Research Residency in Instructional Design and Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to conducting instructional technology research.  Students will work in consultation with their advisor to develop a proposal for a study related to instructional technology as part of their research residency that will be submitted for presentation at a nationally refereed conference or to a refereed journal.",
+        "Technical and Digital Skills": [
+            "Instructional technology research",
+            "Proposal writing for research studies",
+            "Preparation of research for submission to conferences or journals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Research consultation",
+            "Presentation of research proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of research proposals",
+            "Analysis of instructional technology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in research consultation"
+        ]
+    },
+    {
+        "courseCode": "IDT 895",
+        "courseTitle": "Topics in Instructional Design and Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides opportunities for master's and doctoral students to explore topics related to instructional design.",
+        "Technical and Digital Skills": [
+            "Instructional design software",
+            "Multimedia production",
+            "E-learning development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional communication",
+            "Collaborative design",
+            "Feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Instructional needs analysis",
+            "Design problem-solving",
+            "Assessment design and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in instructional design",
+            "Leadership in design teams",
+            "Planning and coordination of instructional design projects"
+        ]
+    },
+    {
+        "courseCode": "IDT 898",
+        "courseTitle": "Research Residency II",
+        "academicLevel": "graduate",
+        "courseDescription": "A mentored research project by the student's advisor. Students work independently with their advisor to complete the research residency project. This course focuses on obtaining appropriate human subjects approval, collecting and analyzing data, and preparing a manuscript suitable for presentation or publication in nationally refereed journal or conference. Course may be repeated as needed, but only 3 hours may be counted toward degree requirements.",
+        "Technical and Digital Skills": [
+            "Data collection",
+            "Data analysis",
+            "Manuscript preparation for publication",
+            "Obtaining human subjects approval"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentor-guided research",
+            "Presentation skills",
+            "Written communication for academic publishing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem-solving",
+            "Analytical skills for research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent project execution",
+            "Time management for repeated courses"
+        ]
+    }
+]

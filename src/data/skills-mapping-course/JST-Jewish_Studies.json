@@ -1,0 +1,116 @@
+[
+    {
+        "courseTitle": "Holocaust and Genocide Studies",
+        "courseCode": "JST 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "After the atrocities of the Holocaust, 'Never again!' has been repeated throughout the world. However, the reality is that genocide did not begin or end with the Holocaust. This course uses the Holocaust as a case study in genocide, tracing the history of anti-Judaism and anti-Semitism in Europe through its reappropriation by Adolf Hitler. Through an interdisciplinary approach to the Holocaust where history, literature, film, and oral narratives are considered, students establish a basis for critiquing and understanding other genocides. The course will culminate with an analysis of contemporary genocide, taking into consideration how the genocides and the Holocaust inform our worldview of hatred and impact societies and cultures.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research",
+            "Film analysis",
+            "Digital literacy for historical documents"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral narrative comprehension",
+            "Cultural sensitivity",
+            "Empathetic communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Critiquing and understanding genocides",
+            "Analyzing contemporary issues in the context of history"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of diverse knowledge sources",
+            "Critical thinking and decision making in complex contexts"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Judaism",
+        "courseCode": "JST 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a basic introduction to Judaism. We will explore the fundamental tenets of Jewish belief, examine primary expressions of Jewish ritual and practice, discuss the historical development of Judaism, and explore sacred texts, secular Yiddish texts, and contemporary issues confronting Jews and Judaism.",
+        "Technical and Digital Skills": [
+            "Researching historical texts",
+            "Analyzing religious texts",
+            "Understanding and interpreting secular Yiddish texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing religious beliefs and practices",
+            "Engaging in interfaith dialogues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting religious texts",
+            "Understanding historical contexts and developments",
+            "Examining contemporary issues confronting Jews and Judaism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and organizing religious practices and rituals",
+            "Managing and interpreting historical and contemporary information"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Jewish Studies",
+        "courseCode": "JST 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses various topics in Jewish Studies.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Empathetic engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Historical analysis",
+            "Interpretation of religious texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Research organization",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseTitle": "Research Project in Jewish Studies",
+        "courseCode": "JST 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study of a topic to be selected in consultation with the director. Research proposal conference, research meetings and research project are required.",
+        "Technical and Digital Skills": [
+            "Research database navigation",
+            "Information curation",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one consultations",
+            "Group communication",
+            "Constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Focused research",
+            "Synthesis of complex ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Independent work"
+        ]
+    },
+    {
+        "courseCode": "JST 595",
+        "courseTitle": "Topics in Jewish Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses various topics in Jewish Studies.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Cultural sensitivity and understanding",
+            "Respectful dialogue"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts",
+            "Interpretation of historical contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

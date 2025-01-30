@@ -1,0 +1,69 @@
+[
+    {
+        "courseTitle": "Topics in Middle Eastern Studies",
+        "courseCode": "MIDE 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on topics of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Researching specialized topics",
+            "Digital archiving",
+            "Use of academic databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation of research findings",
+            "Cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of specialized topics",
+            "Problem-solving in academic research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination in small group settings",
+            "Leading focused research discussions"
+        ]
+    },
+    {
+        "courseTitle": "Communication and Culture in the Middle East",
+        "courseCode": "MIDE 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course examines the tensions between modernity and tradition in the context of Middle East culture.  Cultural variables to be studied include myths, religion, family structures, and the use of science and technology.",
+        "Technical and Digital Skills": [
+            "Understanding of the use of science and technology in the Middle East"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and respecting cultural differences",
+            "Analyzing and interpreting cultural myths and traditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of cultural variables",
+            "Understanding of the complexities of modernity and tradition"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Middle Eastern Studies",
+        "courseCode": "MIDE 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on topics of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research techniques",
+            "Digital archiving and documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Group discussion and collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical and cultural texts",
+            "Problem-solving in small group projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Peer leadership in group settings"
+        ]
+    }
+]

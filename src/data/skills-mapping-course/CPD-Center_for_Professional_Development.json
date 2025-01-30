@@ -1,0 +1,562 @@
+[
+    {
+        "courseTitle": "Leadership and Society",
+        "courseCode": "CPD 100S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the social, political, psychological, economic, and international dimensions of leadership through a social science framework.  A specific focus is given to the dynamic interactions between social structures and leadership behavior.  Students explore how society shapes leaders and how leaders shape society.  Using an introspective approach, students consider their role as current and future leaders in a diverse society.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in analyzing societal structures",
+            "Evaluation of leadership behavior impact on society",
+            "Introspective analysis of leadership role in a diverse society"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding social, political, psychological, economic, and international dimensions of leadership",
+            "Navigating dynamic interactions between social structures and leadership behavior",
+            "Self-reflection on personal leadership style and impact on society"
+        ]
+    },
+    {
+        "courseTitle": "Maritime Leadership, Technology, and Society",
+        "courseCode": "CPD 303T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the intersections between maritime leadership, technology, and society. It will explain the important elements of the marine transportation and technological systems, which consist of waterways and ports that allow for various modes of transportation to move people and goods to, from, and on the water. Specific topics include an introduction to different types of cargo, how cargo is moved, ship types, ship equipment, ship routes, basic navigation and ship stability, emerging industries including offshore wind and autonomous systems, maritime law, maritime safety, and leadership.",
+        "Technical and Digital Skills": [
+            "Understanding marine transportation systems",
+            "Knowledge of ship types and equipment",
+            "Basic navigation skills",
+            "Familiarity with autonomous systems in maritime industry",
+            "Understanding maritime law and safety regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective leadership in maritime settings",
+            "Clear communication with team members and stakeholders",
+            "Collaboration with diverse groups in the maritime sector"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of maritime information",
+            "Problem-solving in ship stability and navigation issues",
+            "Analyzing emerging industries like offshore wind for maritime applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making in maritime operations",
+            "Team coordination in various maritime settings",
+            "Leading safety initiatives in maritime environments"
+        ]
+    },
+    {
+        "courseTitle": "Public Safety Leadership",
+        "courseCode": "CPD 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class uses leadership theory and research to introduce students to leadership principles and practices related to the management, supervision, and governance of public safety agencies.  Attention is given to the way that leadership in public safety (law enforcement, homeland security, emergency management, information security, and fire and rescue) agencies is distinct from leadership in private companies and businesses.  Specific attention is given to the ethical, social, political, economic, and technological dimensions of public safety leadership.",
+        "Technical and Digital Skills": [
+            "Knowledge of information security practices",
+            "Understanding of technological dimensions in public safety leadership"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse stakeholders in public safety agencies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information related to public safety",
+            "Analyzing ethical dilemmas in leadership decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervision and governance of public safety agencies",
+            "Applying leadership theory in public safety contexts"
+        ]
+    },
+    {
+        "courseTitle": "AWS Cloud Foundations",
+        "courseCode": "CPD 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "AWS Academy Cloud Foundations is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.",
+        "Technical and Digital Skills": [
+            "Cloud computing concepts",
+            "AWS core services",
+            "Information security",
+            "Cloud architecture design",
+            "Pricing strategies in cloud computing",
+            "Utilizing AWS support services"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cloud architecture",
+            "Identifying security vulnerabilities in the cloud",
+            "Troubleshooting cloud service issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Internship in Professional Studies",
+        "courseCode": "CPD 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An opportunity to integrate service and applied learning experience with leadership perspectives.",
+        "Technical and Digital Skills": [
+            "Applied learning experience",
+            "Service integration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Leadership perspectives integration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Service leadership",
+            "Applied learning leadership"
+        ]
+    },
+    {
+        "courseTitle": "Topics Course",
+        "courseCode": "CPD 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of selected topics which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Specialized technical skills based on selected topics",
+            "Data analysis tools and techniques",
+            "Advanced programming languages as required"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of specialized knowledge",
+            "Collaboration with experts in the field",
+            "Presenting complex information in a clear and concise manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in specialized areas",
+            "Analyzing complex data sets",
+            "Developing innovative solutions to unique problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing specialized projects",
+            "Leading a team with diverse expertise",
+            "Adapting to changing requirements and technologies"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "CPD 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Critical analysis of sources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Presentation of study findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying key research questions",
+            "Developing a coherent argument"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Setting and achieving study goals"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "CPD 398",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data collection techniques",
+            "Data analysis tools",
+            "Information retrieval techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Reporting research findings",
+            "Presentation skills for sharing study outcomes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research sources",
+            "Identifying research gaps",
+            "Developing research hypotheses",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Setting study goals and milestones",
+            "Taking initiative in research direction"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Leadership",
+        "courseCode": "CPD 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide students with a basic introduction to leadership, with a focus on leadership history, leadership styles, traits, and skills. The differences between managers and leaders will be explored.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Active listening",
+            "Conflict resolution",
+            "Team building"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Decision-making",
+            "Problem analysis",
+            "Creative problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership styles understanding",
+            "Traits of effective leaders",
+            "Management vs leadership comparison",
+            "Leadership history knowledge"
+        ]
+    },
+    {
+        "courseTitle": "Red Hat Linux System Administrator I",
+        "courseCode": "CPD 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The first of two courses covering the core system administration tasks needed to manage Red Hat Enterprise Linux servers  Red Hat System Administration I is designed for IT professionals without previous Linux system administration experience. The course provides students with Linux administration competence by focusing on core administration tasks. This course also provides a foundation for students who plan to become full-time Linux system administrators by introducing key command-line concepts and enterprise-level tools.  This course is the first of a two-course series that takes a computer professional without Linux system administration knowledge to become a fully capable Linux administrator.",
+        "Technical and Digital Skills": [
+            "Linux system administration tasks",
+            "Core administration tasks",
+            "Key command-line concepts",
+            "Enterprise-level tools"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of Linux system information",
+            "Troubleshooting system issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Red Hat Linux System Administrator II",
+        "courseCode": "CPD 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Red Hat System Administration II is the second part of the RHCSA training track for IT professionals who have already attended Red Hat System Administration I. The course goes deeper into core Linux system administration skills in storage configuration and management, installation and deployment of Red Hat Enterprise Linux, management of security features such as SELinux, control of recurring system tasks, management of the boot process and troubleshooting, basic system tuning, and command-line automation and productivity. This course assumes that students have attended Red Hat System Administration I.",
+        "Technical and Digital Skills": [
+            "Storage configuration and management",
+            "Installation and deployment of Red Hat Enterprise Linux",
+            "Management of security features such as SELinux",
+            "Control of recurring system tasks",
+            "Management of the boot process and troubleshooting",
+            "Basic system tuning",
+            "Command-line automation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting system issues",
+            "Critical evaluation of system performance",
+            "Analyzing system logs for errors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cyber Law",
+        "courseCode": "CPD 406",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course tackles two major cyber law subjects.  The first part of the course examines various U.S. laws and legal considerations that impact the digital and cyberspace worlds from traditional civil, and to a lesser extent, traditional criminal perspectives.  The second part will familiarize cyber operations professionals about the extent of and limitations on their authorities to ensure operations in cyberspace are in compliance with U.S. law, regulations, directives and policies.  The course will also introduce students to miscellaneous cybersecurity topics such as the Federal Acquisition Requirements.",
+        "Technical and Digital Skills": [
+            "Understanding of U.S. cyber laws",
+            "Knowledge of legal considerations in digital and cyberspace",
+            "Familiarity with U.S. law, regulations, directives, and policies in cyberspace operations",
+            "Awareness of Federal Acquisition Requirements in cybersecurity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating legal concepts",
+            "Collaborating with cyber operations professionals",
+            "Presenting complex legal information clearly"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of laws on cyber operations",
+            "Critical evaluation of legal implications in cyberspace",
+            "Identifying limitations on authorities in cyberspace"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading compliance efforts in cyber operations",
+            "Organizing legal documentation for operations",
+            "Managing adherence to U.S. laws in cybersecurity"
+        ]
+    },
+    {
+        "courseTitle": "Global Leadership",
+        "courseCode": "CPD 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce students to the concepts and complexity of leadership in a globalized society and provide the opportunity to put leadership theory into practice.  Emphasis will be on the development of the student as a leader who thinks globally, appreciates cultural diversity, is technologically savvy, knows how to build partnerships and alliances, and has the capacity to share leadership.  Students will also evaluate their current mindset and leadership skills and create a professional plan for development as a global leader.",
+        "Technical and Digital Skills": [
+            "Understanding of global information systems",
+            "Utilization of technology for global leadership",
+            "Data analysis for decision-making in a global context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Building partnerships across cultures",
+            "Effective communication in diverse teams",
+            "Conflict resolution in a global setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of global leadership strategies",
+            "Analyzing cultural implications on decision-making",
+            "Identifying and addressing global leadership challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating a professional development plan as a global leader",
+            "Sharing leadership responsibilities in a diverse environment",
+            "Building alliances to achieve global goals"
+        ]
+    },
+    {
+        "courseTitle": "Leadership and Cultural Competence",
+        "courseCode": "CPD 409",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the study of contemporary leadership theory and practice, with particular emphasis on public and non-profit sectors. The critical themes of ethics and cultural competence are woven throughout the course.",
+        "Technical and Digital Skills": [
+            "Ethical leadership in public and non-profit sectors",
+            "Cultural competence in leadership practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in diverse cultural contexts",
+            "Cross-cultural collaboration and teamwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision-making in leadership roles",
+            "Analyzing and addressing cultural biases in organizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse teams with cultural sensitivity",
+            "Implementing inclusive leadership practices in public and non-profit sectors"
+        ]
+    },
+    {
+        "courseTitle": "Leadership Ethics",
+        "courseCode": "CPD 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines how ethical principles can be used to guide effective leadership practices.  Students will gain an understanding of how ethical principles in the workplace have developed over time. They will also explore the connections between individual ethics and workplace behaviors, in addition to leadership strategies that promote ethical behavior by workers.",
+        "Technical and Digital Skills": [
+            "Understanding of ethical principles in leadership",
+            "Application of ethical principles in the workplace",
+            "Analysis of workplace ethics development over time"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Connecting individual ethics to workplace behaviors",
+            "Promoting ethical behavior through leadership strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ethical dilemmas in leadership",
+            "Identifying connections between ethics and effective leadership practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing ethical principles in leadership decisions",
+            "Creating a culture of ethics within an organization"
+        ]
+    },
+    {
+        "courseTitle": "Leadership and Law",
+        "courseCode": "CPD 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses leadership in public, private, and non-profit organizations relative to laws that impact such organizations. Students will examine their role as leaders within legal systems that influence business operations such as employment law, intellectual property, antitrust, white collar crime, and bankruptcy.",
+        "Technical and Digital Skills": [
+            "Understanding of employment law",
+            "Knowledge of intellectual property laws",
+            "Familiarity with antitrust regulations",
+            "Understanding of white collar crime laws",
+            "Knowledge of bankruptcy laws"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal information",
+            "Negotiation skills in legal contexts",
+            "Conflict resolution within legal frameworks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of legal cases",
+            "Identifying legal risks within organizations",
+            "Problem-solving in legal compliance situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic decision-making within legal constraints",
+            "Leading legal compliance initiatives",
+            "Managing legal teams effectively"
+        ]
+    },
+    {
+        "courseTitle": "Design Thinking for Leaders",
+        "courseCode": "CPD 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Design thinking is a human-centered approach to problem solving and innovation. With design thinking one can confidently generate solutions to problems in organizations or to launching a new product or enterprise. It is being used by leaders for developing meaningful and useful responses to contemporary challenges.  In this course, an overview of design thinking is provided, along with a model containing key questions and tools to help leaders understand design thinking as a problem solving approach.",
+        "Technical and Digital Skills": [
+            "Human-centered design principles",
+            "Innovation techniques",
+            "Problem-solving tools",
+            "Understanding contemporary challenges in organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ideas",
+            "Facilitation of collaborative problem-solving sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Generation of innovative solutions",
+            "Critical evaluation of problem statements",
+            "Utilization of key design thinking questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of design thinking in organizational settings",
+            "Development of meaningful responses to challenges",
+            "Leading teams in applying design thinking principles"
+        ]
+    },
+    {
+        "courseTitle": "Women in Leadership",
+        "courseCode": "CPD 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines gender differences in leadership, including communication styles, leadership style, and experiences in business environments. Students will explore media and cultural representations of women in leadership, as well as women leaders in popular industries. Personal leadership development and skills will be explored from the perspective of advancing women in leadership roles.",
+        "Technical and Digital Skills": [
+            "Understanding of gender differences in leadership",
+            "Analysis of media and cultural representations of women leaders",
+            "Utilization of technology for leadership development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication styles for leadership",
+            "Building relationships in business environments",
+            "Public speaking and presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of gender disparities in leadership",
+            "Identifying and addressing challenges faced by women leaders",
+            "Strategic decision-making for advancing women in leadership roles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personal leadership development strategies",
+            "Team building and collaboration in diverse settings",
+            "Empowering and mentoring other women leaders"
+        ]
+    },
+    {
+        "courseTitle": "Trends and Issues in Leadership",
+        "courseCode": "CPD 416",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is focused on examining and expanding on the application of leadership principles and decision making. It is designed to have students step out of their comfort zones and look at leadership issues from various sides. The course will provide background and learning on primary leadership concepts with ethics ideals sprinkled within the content. Students will be challenged to find articles and examples for leadership application in multiple business, industry, government, and societal realms, taking on both protagonist and antagonist roles in the examination of the issues.",
+        "Technical and Digital Skills": [
+            "Researching and analyzing leadership articles and examples",
+            "Utilizing online resources for leadership application",
+            "Utilizing digital tools for research and presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting leadership concepts effectively",
+            "Engaging in discussions from multiple perspectives",
+            "Facilitating group discussions on leadership issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of leadership principles and decisions",
+            "Identifying ethical implications in leadership scenarios",
+            "Analyzing leadership issues in various contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Taking on leadership roles in group discussions",
+            "Managing conflicting viewpoints in leadership debates",
+            "Applying leadership concepts in real-world scenarios"
+        ]
+    },
+    {
+        "courseTitle": "Digital Leadership",
+        "courseCode": "CPD 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores technology as it relates to leadership experiences. Theories, case studies and real world examples are analyzed to show both successful and unsuccessful uses of online and digital approaches that inform leaders' communication strategies.  Students will explore how their own digital identities may impact their futures as leaders. They will also learn how to create digital identities that will shape their professional identities throughout their careers.",
+        "Technical and Digital Skills": [
+            "Understanding digital technologies impact on leadership",
+            "Creating digital identities",
+            "Utilizing online approaches for communication strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Analyzing case studies and real-world examples",
+            "Adapting communication strategies based on digital experiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of digital approaches",
+            "Identifying successful and unsuccessful uses of technology in leadership"
+        ],
+        "Organizational and Leadership Skills": [
+            "Shaping professional identities through digital presence",
+            "Exploring the impact of digital identities on leadership futures"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Professional Studies",
+        "courseCode": "CPD 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals.  This course offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.",
+        "Technical and Digital Skills": [
+            "Business model creation",
+            "Market research analysis",
+            "Financial modeling",
+            "Digital marketing strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching ideas to investors",
+            "Negotiation skills",
+            "Networking with professionals",
+            "Effective team communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market opportunities",
+            "Risk assessment and mitigation",
+            "Strategic decision-making",
+            "Problem identification and solution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team coordination",
+            "Delegating tasks effectively",
+            "Adapting to changing business environments"
+        ]
+    },
+    {
+        "courseTitle": "Topics Course",
+        "courseCode": "CPD 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Specialized research methods",
+            "Advanced data analysis techniques",
+            "Cutting-edge technology applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex information",
+            "Collaborative work in interdisciplinary teams",
+            "Clear and concise reporting of findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of specialized topics",
+            "Innovative solutions to complex problems",
+            "Handling of unique data sets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of specialized research projects",
+            "Guiding teams in unexplored areas",
+            "Strategic planning for specialized studies"
+        ]
+    },
+    {
+        "courseCode": "CPD 517",
+        "courseTitle": "Digital Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores technology as it relates to leadership experiences. Theories, case studies and real world examples are analyzed to show both successful and unsuccessful uses of online and digital approaches that inform leaders' communication strategies.  Students will explore how their own digital identities may impact their futures as leaders. They will also learn how to create digital identities that will shape their professional identities throughout their careers.",
+        "Technical and Digital Skills": [
+            "Understanding of digital technology trends",
+            "Digital communication tools proficiency",
+            "Social media management skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective online communication strategies",
+            "Building and maintaining online relationships",
+            "Creating compelling digital content"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing digital case studies",
+            "Evaluating the impact of digital approaches on leadership",
+            "Identifying successful digital communication strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing a personal digital brand",
+            "Strategic digital identity creation",
+            "Utilizing digital platforms for professional growth"
+        ]
+    }
+]

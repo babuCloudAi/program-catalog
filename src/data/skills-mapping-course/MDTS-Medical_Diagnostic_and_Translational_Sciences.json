@@ -1,0 +1,635 @@
+[
+    {
+        "courseTitle": "Principles of Molecular Pathology and Clinical Diagnostics",
+        "courseCode": "MDTS 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Basic concepts of molecular pathology & clinical diagnostics including nucleic acids, DNA replication, transcription, proteins, mutations and chromosome changes that underlie inherited and acquired/infectious disease, inheritance patterns and genetics as applied to oncology, cardiac disease and organ transplants.  Covers emerging molecular/cytologic/histologic methods (amplification, hybridization and micoarrays) to detect disease markers, monitor therapy and assess identity; pharmacogenomics and legal/ethical issues of genetic testing.",
+        "Technical and Digital Skills": [
+            "Understanding of nucleic acids",
+            "Knowledge of DNA replication and transcription",
+            "Expertise in proteins, mutations, and chromosome changes",
+            "Application of genetics to oncology, cardiac disease, and organ transplants",
+            "Use of molecular/cytologic/histologic methods to detect disease markers",
+            "Monitoring therapy and assessing identity",
+            "Understanding of pharmacogenomics",
+            "Awareness of legal/ethical issues of genetic testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex genetic concepts",
+            "Discussing legal and ethical issues in genetic testing",
+            "Communicating diagnosis and treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic patterns",
+            "Identifying disease markers",
+            "Applying genetic knowledge to diagnose and treat diseases",
+            "Evaluating the effectiveness of treatments"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Molecular Diagnostics Laboratory",
+        "courseCode": "MDTS 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course includes hands-on experience with or discussion of diagnostics instrumentation and assays using nucleic acid and protein extraction, gel electrophoresis, hybridization techniques, standard and real time polymerase chain reaction PCR), reverse transcription, DNA sequencing, autoradiography, flow cytometry, microarrays and proteomics-based methods.",
+        "Technical and Digital Skills": [
+            "Diagnostics instrumentation",
+            "Nucleic acid and protein extraction",
+            "Gel electrophoresis",
+            "Hybridization techniques",
+            "Standard and real time polymerase chain reaction (PCR)",
+            "Reverse transcription",
+            "DNA sequencing",
+            "Autoradiography",
+            "Flow cytometry",
+            "Microarrays",
+            "Proteomics-based methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting data from diagnostic assays",
+            "Troubleshooting lab instrumentation and assays",
+            "Analyzing data from PCR, DNA sequencing, and proteomics-based methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Lab management",
+            "Safe and ethical laboratory practices",
+            "Maintaining accurate lab records and data"
+        ]
+    },
+    {
+        "courseCode": "MDTS 500",
+        "courseTitle": "Principles of Molecular Pathology and Clinical Diagnostics",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic concepts of molecular pathology and clinical diagnostics including nucleic acids, DNA replication, transcription, proteins, mutations and chromosome changes that underlie inherited and acquired/infectious disease, inheritance patterns and genetics as applied to oncology, cardiac disease and organ transplants.  Covers emerging molecular/ cytologic/histologic methods (amplification, hybridization and micoarrays) to detect disease markers, monitor therapy and assess identity; pharmacogenomics and legal/ethical issues of genetic testing.",
+        "Technical and Digital Skills": [
+            "Understanding of nucleic acids",
+            "Knowledge on DNA replication",
+            "Proficiency in transcription processes",
+            "Understanding protein structures",
+            "Identification of mutations and chromosome changes",
+            "Applied genetics in oncology, cardiac disease and organ transplants",
+            "Usage of molecular/cytologic/histologic methods",
+            "Ability to detect disease markers",
+            "Monitoring therapy procedures",
+            "Assessment of identity",
+            "Understanding of pharmacogenomics",
+            "Knowledge on legal/ethical issues of genetic testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing molecular pathology",
+            "Identifying disease markers",
+            "Analyzing genetic data",
+            "Solving problems related to DNA replication and transcription",
+            "Analyzing chromosome changes and mutations",
+            "Applying genetics in disease diagnosis and treatment",
+            "Analyzing pharmacogenomic data",
+            "Understanding and addressing legal/ethical issues in genetic testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MDTS 501",
+        "courseTitle": "Molecular Diagnostics Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Course includes hands-on experience with or discussion of diagnostics instrumentation and assays using nucleic acid and protein extraction, gel electrophoresis, hybridization techniques, standard and real time polymerase chain reaction PCR), reverse transcription, DNA sequencing, autoradiography, flow cytometry, microarrays and proteomics-based methods.",
+        "Technical and Digital Skills": [
+            "Diagnostics instrumentation operation",
+            "Nucleic acid and protein extraction",
+            "Gel electrophoresis",
+            "Hybridization techniques",
+            "Standard and real-time PCR",
+            "Reverse transcription",
+            "DNA sequencing",
+            "Autoradiography",
+            "Flow cytometry",
+            "Microarrays",
+            "Proteomics-based methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex lab procedures",
+            "Discussion of diagnostics instrumentation and assays"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting lab equipment",
+            "Analyzing results of PCR, flow cytometry, microarrays"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory procedures",
+            "Coordinating hands-on lab work"
+        ]
+    },
+    {
+        "courseCode": "MDTS 600",
+        "courseTitle": "Advanced Clinical Applications of Molecular Diagnostics",
+        "academicLevel": "graduate",
+        "courseDescription": "Course will cover 1) new applications of standard molecular diagnostic techniques and 2) cutting edge technologies, instrumentation and technical advances, both as applied to clinical case studies. Emphasis will be on pharmacogenomics and disease processes including inherited conditions, cancer, hematopathology, infectious diseases, mental retardation and developmental delay. Innovative technologies covered include comparative genomic hybridization, pyrosequencing and bead based assays",
+        "Technical and Digital Skills": [
+            "Understanding of molecular diagnostic techniques",
+            "Knowledge of cutting edge technologies and instrumentation",
+            "Familiarity with pharmacogenomics",
+            "Understanding of disease processes",
+            "Proficiency with comparative genomic hybridization",
+            "Understanding of pyrosequencing",
+            "Handling bead based assays"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to apply technical knowledge to clinical case studies",
+            "Ability to communicate complex disease processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills to understand and interpret clinical case studies",
+            "Problem-solving skills to identify and analyze disease processes",
+            "Ability to use innovative technologies for problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MDTS 601",
+        "courseTitle": "Advanced Molecular Diagnostics Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasis of this course will be on primer design for PCR, advanced real time PCR, cycle sequencing, capillary electrophoresis (CE) as applied to DNA sequencing, analysis of SNPS (single nucleotide polymorphisms), microsatellite instability, microarray technology and detection of methicillin-resistant bacteria. Pre- or",
+        "Technical and Digital Skills": [
+            "Primer design for PCR",
+            "Advanced real time PCR",
+            "Cycle sequencing",
+            "Capillary electrophoresis (CE) for DNA sequencing",
+            "Analysis of SNPS (single nucleotide polymorphisms)",
+            "Microsatellite instability detection",
+            "Microarray technology",
+            "Detection of methicillin-resistant bacteria"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "DNA sequence analysis",
+            "SNPS analysis",
+            "Microsatellite instability analysis",
+            "Bacterial resistance detection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Safety protocols adherence"
+        ]
+    },
+    {
+        "courseCode": "MDTS 668",
+        "courseTitle": "Clinical Laboratory Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "An optional three-week supervised rotation in a hospital-based molecular diagnostic laboratory or a molecular research laboratory.",
+        "Technical and Digital Skills": [
+            "Operating laboratory equipment",
+            "Molecular diagnostic techniques",
+            "Research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with laboratory team",
+            "Communicating laboratory findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing molecular diagnostic results",
+            "Identifying laboratory errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following laboratory protocols",
+            "Managing laboratory resources"
+        ]
+    },
+    {
+        "courseCode": "MDTS 714",
+        "courseTitle": "Molecular Diagnostics Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Laboratory rotation with a pre-designated faculty member in which the student obtains hands-on experience. Designed for graduate students to sample different types of research models, techniques, and subject matter without the commitment of dissertation level involvement.",
+        "Technical and Digital Skills": [
+            "Laboratory research techniques",
+            "Use of laboratory tools and equipment",
+            "Understanding different research models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with faculty members",
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research results",
+            "Troubleshooting laboratory equipment and techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory protocols",
+            "Leading research initiatives"
+        ]
+    },
+    {
+        "courseCode": "MDTS 720",
+        "courseTitle": "Genomic Databases: Content, Curation, and Application to Biomedical Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course combines a didactic survey of topics important for understanding the origin, curation, advantages, and limitations of a variety of key genomic resources with hands-on training in the proper use of widely accessed public genome resources and common bioinformatic tools.",
+        "Technical and Digital Skills": [
+            "Understanding of genomic resources",
+            "Proper use of public genome resources",
+            "Use of common bioinformatic tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding the advantages and limitations of genomic resources",
+            "Didactic survey of key genomic topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curation of genomic resources"
+        ]
+    },
+    {
+        "courseCode": "MDTS 730",
+        "courseTitle": "Chromosome Biology and Human Disease",
+        "academicLevel": "graduate",
+        "courseDescription": "Course goals are a comprehensive understanding of the mechanisms involved in chromosome function and how aberrations in these processes contribute to human disease. Topics include DNA repair and recombination; centromere and telomere dynamics, maintenance, and function;  chromosome replication and segregation; control of cell division; dynamics of chromatin structure and function; epigenetics and gene expression; and long-range chromatin interactions and genome function.",
+        "Technical and Digital Skills": [
+            "Understanding of DNA repair and recombination",
+            "Knowledge in centromere and telomere dynamics, maintenance, and function",
+            "Comprehension of chromosome replication and segregation",
+            "Understanding of cell division control",
+            "Knowledge of chromatin structure and function dynamics",
+            "Understanding of epigenetics and gene expression",
+            "Comprehension of long-range chromatin interactions and genome function"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex biological processes",
+            "Communicating research findings effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chromosomal abnormalities and their impact on human disease",
+            "Problem-solving in chromosomal function"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MDTS 740",
+        "courseTitle": "Stem Cells: Biology and Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include history of stem cell biology, molecular definitions for stem cell identification, methods for stem cell isolations including: adult and embryonic, current technologies for induced pluripotent stem cell reprogramming, stem cells in tissue engineering and regenerative medicine, and current and future stem cell applications.",
+        "Technical and Digital Skills": [
+            "Understanding of stem cell biology",
+            "Knowledge of molecular definitions for stem cell identification",
+            "Proficiency in stem cell isolation methods",
+            "Familiarity with current technologies for induced pluripotent stem cell reprogramming",
+            "Understanding of stem cells in tissue engineering and regenerative medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex biological concepts",
+            "Ability to present findings on stem cell applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of stem cell isolation techniques",
+            "Evaluation of current and future stem cell applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research on stem cell applications",
+            "Leading discussions on stem cell biology and therapy"
+        ]
+    },
+    {
+        "courseCode": "MDTS 742",
+        "courseTitle": "Tissue Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include history of tissue engineering, development and morphogenesis, tissue structure, cells, scaffolds, regulators, and creating and evaluating a tissue engineering construct. Focus is on biomedical tissue engineering concepts as applied to creating human tissues in the laboratory for surgical repair of injured and diseased tissues and organs.",
+        "Technical and Digital Skills": [
+            "Understanding of tissue structure",
+            "Knowledge of cell biology",
+            "Ability to work with scaffolds in tissue engineering",
+            "Understanding of regulators in tissue engineering",
+            "Creating and evaluating a tissue engineering construct"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex biomedical concepts",
+            "Collaboration in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing tissue and organ defects",
+            "Developing solutions for surgical repair of injured and diseased tissues and organs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing a biomedical laboratory",
+            "Leading a research team in tissue engineering"
+        ]
+    },
+    {
+        "courseCode": "MDTS 750",
+        "courseTitle": "Molecular Genetics, Gene Function and Genomics",
+        "academicLevel": "graduate",
+        "courseDescription": "The goals of this course are a comprehensive understanding of the mechanisms involved in molecular genetics and gene function and in-depth exploration of modern experimental analyses of these processes. Topics include DNA replication, repair, and recombination; transcription; epigenetic regulation of transcription; chromatin structure, histone modifications, transcription factors, and regulatory RNAs; long-range chromatin interactions and gene regulation; post-transcriptional gene regulation and translation; molecular biology based experimental analysis of gene function; and experimental genomic approaches to gene regulation and gene function.",
+        "Technical and Digital Skills": [
+            "Understanding of DNA replication, repair, and recombination",
+            "Knowledge of transcription processes",
+            "Understanding of epigenetic regulation of transcription",
+            "Knowledge of chromatin structure, histone modifications, transcription factors, and regulatory RNAs",
+            "Understanding of long-range chromatin interactions and gene regulation",
+            "Knowledge of post-transcriptional gene regulation and translation",
+            "Ability to conduct molecular biology based experimental analysis of gene function",
+            "Ability to use experimental genomic approaches to gene regulation and gene function"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex genetic concepts",
+            "Collaboration in laboratory settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic data",
+            "Designing and executing genetic experiments",
+            "Interpreting results of gene function experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory resources",
+            "Coordinating experimental procedures"
+        ]
+    },
+    {
+        "courseCode": "MDTS 805",
+        "courseTitle": "Fundamentals of Cancer Biology",
+        "academicLevel": "graduate",
+        "courseDescription": "Course will cover molecular aspects of cancer including DNA damage, tumor viruses, cell cycle regulation, oncogenes and tumor suppressor genes and their respective roles in cancer prevention/development, genes involved in promoting or inhibiting metastasis, angiogenesis, telomeres and telomerase, regulation of both apoptosis and autophagy in normal and cancer cells, cancer stem cells, and diagnostic screening assays for therapeutic responses or resistance in cancer patients.",
+        "Technical and Digital Skills": [
+            "Understanding of molecular aspects of cancer",
+            "Knowledge of DNA damage",
+            "Knowledge of tumor viruses",
+            "Understanding of cell cycle regulation",
+            "Understanding of oncogenes and tumor suppressor genes",
+            "Knowledge of genes involved in promoting or inhibiting metastasis",
+            "Understanding of angiogenesis",
+            "Knowledge of telomeres and telomerase",
+            "Understanding of regulation of both apoptosis and autophagy in normal and cancer cells",
+            "Knowledge of cancer stem cells",
+            "Understanding of diagnostic screening assays for therapeutic responses or resistance in cancer patients"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex biological concepts",
+            "Ability to discuss cancer biology findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and interpret cancer biology data",
+            "Understanding of the implications of various aspects of cancer biology for prevention and treatment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to keep up-to-date with the latest research in cancer biology",
+            "Ability to organize and present cancer biology information in a clear, coherent manner"
+        ]
+    },
+    {
+        "courseCode": "MDTS 810",
+        "courseTitle": "Molecular Basis of Health and Disease",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasis is on human genetic syndromes and disorders associated with dysregulation of key signal transduction pathways that control gene expression, cell growth and protein synthesis including the Ras/MAPK pathway, tuberous sclerosis complex-mammalian target of rapamycin, PI3-kinase and others. Diagnosis, screening and treatment will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding of human genetic syndromes",
+            "Knowledge of key signal transduction pathways",
+            "Understanding of Ras/MAPK pathway",
+            "Comprehension of tuberous sclerosis complex-mammalian target of rapamycin",
+            "Understanding of PI3-kinase"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of diagnosis, screening, and treatment methods"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of disorders associated with dysregulation of key signal transduction pathways",
+            "Analysis of cell growth and protein synthesis",
+            "Determining suitable treatment methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MDTS 814",
+        "courseTitle": "Molecular Laboratory Rotation",
+        "academicLevel": "graduate",
+        "courseDescription": "Laboratory rotation with a pre-designated faculty member in which the student obtains hands-on experience.  Designed for graduate students to sample different types of research models, techniques, and subject matter without the commitment of dissertation level involvement.",
+        "Technical and Digital Skills": [
+            "Hands-on molecular laboratory techniques",
+            "Understanding of different research models",
+            "Sample preparation and handling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty members",
+            "Adaptability to switch between different research models and techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing different types of research models",
+            "Critical evaluation of laboratory techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Time management in a laboratory setting"
+        ]
+    },
+    {
+        "courseCode": "MDTS 820",
+        "courseTitle": "Genomic Databases: Content, Curation, and Application to Biomedical Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course combines a didactic survey of topics important for understanding the origin, curation, advantages, and limitations of a variety of key genomic resources with hands-on training in the proper use of widely accessed public genome resources and common bioinformatic tools.",
+        "Technical and Digital Skills": [
+            "Understanding of genomic resources",
+            "Curation of genomic data",
+            "Proficient use of public genome resources",
+            "Application of common bioinformatic tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying complex genomic data",
+            "Explaining the advantages and limitations of genomic resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genomic data",
+            "Identifying limitations in genomic resources",
+            "Choosing appropriate bioinformatic tools for different tasks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing genomic data",
+            "Directing the use of bioinformatic tools"
+        ]
+    },
+    {
+        "courseCode": "MDTS 830",
+        "courseTitle": "Chromosome Biology and Human Disease",
+        "academicLevel": "graduate",
+        "courseDescription": "Course goals are a comprehensive understanding of the mechanisms involved in chromosome function and how aberrations in these processes contribute to human disease. Topics include DNA repair and recombination; centromere and telomere dynamics, maintenance, and function;  chromosome replication and segregation; control of cell division; dynamics of chromatin structure and function; epigenetics and gene expression; and long-range chromatin interactions and genome function.",
+        "Technical and Digital Skills": [
+            "Understanding of DNA repair and recombination",
+            "Knowledge of centromere and telomere dynamics, maintenance, and function",
+            "Understanding chromosome replication and segregation",
+            "Knowledge of control of cell division",
+            "Understanding dynamics of chromatin structure and function",
+            "Understanding epigenetics and gene expression",
+            "Knowledge of long-range chromatin interactions and genome function"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and explain complex biological processes",
+            "Ability to communicate findings related to genetic disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyse genetic and chromosomal data",
+            "Ability to identify aberrations contributing to human diseases",
+            "Problem-solving in chromosomal function and maintenance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Data organization and management"
+        ]
+    },
+    {
+        "courseCode": "MDTS 840",
+        "courseTitle": "Stem Cells: Biology and Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include history of stem cell biology, molecular definitions for stem cell identification, methods for stem cell isolations including: adult and embryonic, current technologies for induced pluripotent stem cell reprogramming, stem cells in tissue engineering and regenerative medicine, and current and future stem cell applications.",
+        "Technical and Digital Skills": [
+            "Understanding of stem cell biology",
+            "Identification of stem cells based on molecular definitions",
+            "Methods for adult and embryonic stem cell isolations",
+            "Current technologies for induced pluripotent stem cell reprogramming",
+            "Stem cells application in tissue engineering and regenerative medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex stem cell concepts",
+            "Discussing current and future stem cell applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing stem cell data",
+            "Evaluating the effectiveness of different stem cell isolation techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MDTS 842",
+        "courseTitle": "Tissue Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include history of tissue engineering, development and morphogenesis, tissue structure, cells, scaffolds, regulators, and creating and evaluating a tissue engineering construct. Focus is on biomedical tissue engineering concepts as applied to creating human tissues in the laboratory for surgical repair of injured and diseased tissues and organs.",
+        "Technical and Digital Skills": [
+            "Understanding of tissue engineering history",
+            "Knowledge of development and morphogenesis",
+            "Familiarity with tissue structure",
+            "Understanding of cells, scaffolds, regulators",
+            "Creating and evaluating a tissue engineering construct"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex biomedical concepts",
+            "Collaboration in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing tissue structures",
+            "Evaluating tissue engineering constructs",
+            "Problem-solving in tissue development and morphogenesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a laboratory team",
+            "Organizing and planning tissue engineering projects"
+        ]
+    },
+    {
+        "courseCode": "MDTS 850",
+        "courseTitle": "Molecular Genetics, Gene Function and Genomics",
+        "academicLevel": "graduate",
+        "courseDescription": "The goals of this course are a comprehensive understanding of the mechanisms involved in molecular genetics and gene function and in-depth exploration of modern experimental analyses of these processes. Topics include DNA replication, repair, and recombination; transcription; epigenetic regulation of transcription; chromatin structure, histone modifications, transcription factors, and regulatory RNAs; long-range chromatin interactions and gene regulation; post-transcriptional gene regulation and translation; molecular biology based experimental analysis of gene function; and experimental genomic approaches to gene regulation and gene function.",
+        "Technical and Digital Skills": [
+            "DNA replication, repair, and recombination",
+            "Transcription",
+            "Epigenetic regulation of transcription",
+            "Understanding of chromatin structure, histone modifications, transcription factors, and regulatory RNAs",
+            "Knowledge of long-range chromatin interactions and gene regulation",
+            "Post-transcriptional gene regulation and translation",
+            "Molecular biology based experimental analysis of gene function",
+            "Experimental genomic approaches to gene regulation and gene function"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex genetic concepts",
+            "Relaying scientific findings to non-scientific audience",
+            "Collaborative work in experimental analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting genetic data",
+            "Troubleshooting experimental procedures",
+            "Critical thinking in genomic approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing complex experimental processes",
+            "Leading genomic projects",
+            "Coordinating laboratory tasks"
+        ]
+    },
+    {
+        "courseCode": "MDTS 891",
+        "courseTitle": "Doctoral Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Students attend seminars, attend a class on giving seminars, and present a seminar on their own research.",
+        "Technical and Digital Skills": [
+            "Research documentation",
+            "Use of presentation software",
+            "Online research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Constructive feedback",
+            "Active listening",
+            "Peer collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Research problem formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Research project management",
+            "Academic leadership"
+        ]
+    },
+    {
+        "courseCode": "MDTS 895",
+        "courseTitle": "Topics in Molecular Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "Student led presentations of current topics related to molecular medicine.",
+        "Technical and Digital Skills": [
+            "Scientific research",
+            "Understanding of molecular medicine topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of scientific literature",
+            "Critical evaluation of medical studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in student-led presentations",
+            "Time management for independent study"
+        ]
+    },
+    {
+        "courseCode": "MDTS 898",
+        "courseTitle": "Molecular Biology Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised doctoral research in molecular diagnostics or biomedical studies.",
+        "Technical and Digital Skills": [
+            "Molecular diagnostics techniques",
+            "Biomedical research methodologies",
+            "Data recording and analysis using relevant software",
+            "Laboratory equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Scientific report writing and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing and conducting experiments",
+            "Data analysis and interpretation",
+            "Formulating research hypotheses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Lab safety and protocol adherence",
+            "Supervision and mentoring of junior researchers"
+        ]
+    }
+]

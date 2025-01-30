@@ -1,0 +1,896 @@
+[
+    {
+        "courseTitle": "Step 2 - Inquiry Based STEM Lesson Design",
+        "courseCode": "STEM 102",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course continues the exploration of inquiry-based lesson design in STEM education. In this course, students build upon and practice lesson design skills developed in Step 1 while also becoming familiar with exemplary mathematics or science curricula at the middle school level. With the guidance of the master teacher, students engage in one observation and prepare and teach three inquiry-based lessons in a middle school classroom. Students incorporate and demonstrate their content knowledge in developing the inquiry-based lessons. At the end of Step 2, students are generally ready to make a decision about whether they want to pursue a pathway to teacher licensure through the MonarchTeach program.",
+        "Technical and Digital Skills": [
+            "Inquiry-based lesson design",
+            "STEM content knowledge",
+            "Familiarity with exemplary mathematics or science curricula"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Classroom teaching",
+            "Observation and feedback",
+            "Collaboration with master teacher"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Lesson preparation and execution",
+            "Content knowledge application in lesson development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Lesson planning",
+            "Decision-making for career pathway"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of STEM Teaching: An Inquiry-Based Approach",
+        "courseCode": "STEM 103",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this introductory STEM teacher preparation course, students delve into the 5-E Model of inquiry-based lesson design within real classroom settings. Guided by mentors and experienced master teachers, students actively engage in authentic hands-on experiences in elementary and middle school classes. Throughout the course, they develop essential skills in effective lesson design, questioning strategies, and the integration of educational technologies. Students are also introduced to mathematics or science curricula, with a focus on developing pre- and post-assessment instruments, analyzing student work, and honing classroom management skills.",
+        "Technical and Digital Skills": [
+            "Designing inquiry-based lessons using the 5-E Model",
+            "Integration of educational technologies into lesson plans",
+            "Development and implementation of mathematics or science curricula",
+            "Creation of pre- and post-assessment instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective questioning strategies",
+            "Classroom management",
+            "Mentorship and collaboration with master teachers and peers",
+            "Analyzing and providing feedback on student work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing student work to improve instruction",
+            "Creating and analyzing pre- and post-assessment instruments to measure student learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Designing and implementing effective lesson plans",
+            "Leading hands-on, authentic learning experiences",
+            "Collaborating with mentors and master teachers"
+        ]
+    },
+    {
+        "courseTitle": "Technology and Your World",
+        "courseCode": "STEM 110T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the resources and systems of technology.  Emphasis is on impacts that technology has on individuals and their careers.  Activities explore the evolution of technology, its major systems and their impact on individuals and their careers.",
+        "Technical and Digital Skills": [
+            "Understanding of technology resources and systems",
+            "Knowledge of technology evolution",
+            "Understanding the impact of technology on careers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting technological impacts",
+            "Explaining technology systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing the impact of technology",
+            "Evaluating technological systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Knowing and Learning in STEM Education",
+        "courseCode": "STEM 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to expand the students' understanding of current theories of learning and conceptual development in STEM. Students will investigate theories of knowing and learning in STEM and implications for teaching secondary mathematics and science. Students will examine their own assumptions about learning as well as critically examine the needs of a diverse student population in the classroom.  Students are expected to independently register for and take the Praxis I examination while enrolled in this course.",
+        "Technical and Digital Skills": [
+            "Understanding of STEM theories and conceptual development",
+            "Registration for Praxis I examination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Investigation of learning theories",
+            "Critical examination of diverse student needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of own learning assumptions",
+            "Implications understanding for teaching secondary mathematics and science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Adapting teaching strategies for diverse student needs"
+        ]
+    },
+    {
+        "courseTitle": "Classroom Interactions in STEM Education",
+        "courseCode": "STEM 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students with an overview of principles for teaching middle and secondary school mathematics or science through an exploration of the role of content, pedagogy, curriculum and technology as they promote learning and impact equity. Students are introduced to ways in which curriculum and technology are used in the classroom to build interrelationships among teachers and students. Frameworks for teaching students of diverse backgrounds equitably are emphasized in the course. A field component that consists of observations and teaching in the high school classroom is included.",
+        "Technical and Digital Skills": [
+            "Usage of educational technology",
+            "Adapting STEM curriculum for diverse classroom settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Building interrelationships among teachers and students",
+            "Communicating complex concepts in an accessible manner",
+            "Teaching students of diverse backgrounds equitably"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Navigating challenges in teaching middle and secondary school mathematics or science",
+            "Evaluating and adapting curriculum to promote learning and ensure equity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing classroom activities",
+            "Leading a diverse classroom",
+            "Implementing observations and teaching in the high school classroom"
+        ]
+    },
+    {
+        "courseTitle": "Industrial Materials",
+        "courseCode": "STEM 221",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of materials used by industry to produce products.  Emphasis is on the study of ceramics, plastics, composites, and biotechnological materials.  Students learn materials identification, use and processing.",
+        "Technical and Digital Skills": [
+            "Materials identification",
+            "Use and processing of ceramics",
+            "Use and processing of plastics",
+            "Use and processing of composites",
+            "Use and processing of biotechnological materials"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysing material properties",
+            "Determining appropriate material usage"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Materials and Processes Technology",
+        "courseCode": "STEM 231",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the production processes used with metallic and forest product materials.  Industrial resources, their location, extraction, and processing into standard stocks are also covered.  Students learn properties, uses and processing of metal and wood materials.",
+        "Technical and Digital Skills": [
+            "Understanding of production processes for metallic and forest product materials",
+            "Knowledge of industrial resources extraction and processing",
+            "Comprehension of properties, uses, and processing of metal and wood materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of suitable industrial resources",
+            "Applying suitable processing methods for different materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of resources extraction and processing"
+        ]
+    },
+    {
+        "courseTitle": "Energy Systems: Basic Electricity",
+        "courseCode": "STEM 241",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of direct and alternating current and its use in contemporary technology. Activities include experiments and projects to supplement the theory of electricity.",
+        "Technical and Digital Skills": [
+            "Understanding of direct and alternating current",
+            "Application of current in contemporary technology",
+            "Conducting electricity experiments",
+            "Project execution related to electricity theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex electricity concepts",
+            "Collaboration in electricity projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing electricity experiments",
+            "Solving problems related to direct and alternating current"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in electricity experiments",
+            "Supervising technical projects"
+        ]
+    },
+    {
+        "courseTitle": "Technological Systems Control",
+        "courseCode": "STEM 242",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will develop an understanding of systems control technology for application to energy and power, manufacturing, processing and transportation systems. Emphasis will be placed on research and development, creativity and experimentation, and trouble shooting in designing control systems.",
+        "Technical and Digital Skills": [
+            "Understanding of systems control technology",
+            "Application of technology to energy/power systems",
+            "Application of technology to manufacturing systems",
+            "Application of technology to processing systems",
+            "Application of technology to transportation systems",
+            "Designing control systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research and development",
+            "Creativity in technological settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting in control systems design",
+            "Experimentation in systems control"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in research and development processes",
+            "Organizing and implementing technological experiments"
+        ]
+    },
+    {
+        "courseTitle": "Computer Literacy: Communication and Information",
+        "courseCode": "STEM 251G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A guided review of communication technology and information sources to help students discern between reliable and unreliable sources and techniques.  Students develop skills in computer applications, information retrieval, filtering and analyzing data, and formatting and presenting information.",
+        "Technical and Digital Skills": [
+            "Computer applications operation",
+            "Information retrieval techniques",
+            "Data filtering",
+            "Data analysis",
+            "Information formatting",
+            "Information presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discerning between reliable and unreliable sources",
+            "Presenting information effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data",
+            "Critical evaluation of information sources"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Manufacturing and Construction Technology",
+        "courseCode": "STEM 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of production processes used in manufacturing and construction systems.  Students will research and design manufactured products for mass production and constructed products for building.  The social, cultural, environmental and economic impacts of manufacturing and constructed products on society are discussed.",
+        "Technical and Digital Skills": [
+            "Researching manufacturing and construction processes",
+            "Designing products for mass production",
+            "Designing constructed products for building",
+            "Assessing the impact of manufactured and constructed products on various societal factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining and discussing complex manufacturing and construction concepts",
+            "Presenting research findings",
+            "Negotiating and collaborating on design ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing production processes",
+            "Identifying potential economic, environmental, and social impacts of products",
+            "Solving design and production challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and managing projects",
+            "Organizing and planning product designs",
+            "Coordinating research and design efforts"
+        ]
+    },
+    {
+        "courseTitle": "Manufacturing Technology",
+        "courseCode": "STEM 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the production processes used in manufacturing systems.  Emphasis is placed upon planning, organizing and principles of manufacturing.  Students research and design enterprise systems for mass production.  Emphasis is on manufacturing design requirements and the social, cultural, and economic impacts of manufactured products on society and the environment.",
+        "Technical and Digital Skills": [
+            "Planning and organizing production processes",
+            "Designing enterprise systems for mass production",
+            "Understanding manufacturing design requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Research and information synthesis",
+            "Communicating design requirements",
+            "Understanding and considering social, cultural, and economic impacts of manufacturing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing manufacturing systems",
+            "Evaluating the environmental impact of manufacturing",
+            "Designing efficient mass production systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading manufacturing projects",
+            "Organizing manufacturing processes",
+            "Managing the principles of manufacturing"
+        ]
+    },
+    {
+        "courseTitle": "Medical, Agricultural, and Biological Technologies",
+        "courseCode": "STEM 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course for technology education majors that studies technological systems related to medical and food processing technologies. Students learn the basis of these technologies and complete activities that integrate the content with processes and products found in our technological world.",
+        "Technical and Digital Skills": [
+            "Understanding of medical technologies",
+            "Familiarity with food processing technologies",
+            "Integration of technological content with processes and products"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in technological activities",
+            "Communication of technological processes and products"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of technological systems",
+            "Problem-solving in the context of medical and food processing technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of technological activities",
+            "Leadership in technology education"
+        ]
+    },
+    {
+        "courseTitle": "Communication Technology Processes",
+        "courseCode": "STEM 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of communication design principles and techniques for technology education.  Emphasis is placed on the skills and equipment used in design, production, and distribution of communications.  Print and electronic media are explored through technical illustration, video, audio, and other specialty processes of communications.",
+        "Technical and Digital Skills": [
+            "Understanding of communication design principles",
+            "Proficiency in using equipment for design, production, and distribution",
+            "Knowledge of print and electronic media",
+            "Technical illustration",
+            "Video and audio production",
+            "Mastery of other specialty processes of communications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of design principles",
+            "Skill in presenting complex technical concepts",
+            "Ability to communicate through various media formats"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of communication design principles",
+            "Critical evaluation of print and electronic media",
+            "Problem solving in communication design and production"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of communication design projects",
+            "Leadership in design and production teams",
+            "Organizing and distributing various forms of media"
+        ]
+    },
+    {
+        "courseTitle": "Communication Technology",
+        "courseCode": "STEM 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the development and impact of communication technology.  Emphasis is placed on the integration of technical skills to produce information-based products such as print and telecommunications media.",
+        "Technical and Digital Skills": [
+            "Integration of technical skills",
+            "Production of information-based products",
+            "Understanding of telecommunications media",
+            "Development of print media"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective use of communication technology",
+            "Delivery of information-based products"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of communication technology",
+            "Problem-solving in print and telecommunications media production"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of communication technology projects",
+            "Leadership in technical skills integration"
+        ]
+    },
+    {
+        "courseTitle": "Energy, Power, and Transportation Technologies",
+        "courseCode": "STEM 360",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the development of energy, power, and transportation systems and the movement of energy, power, people, and cargo.  Areas of concern include vehicle systems design and support systems.",
+        "Technical and Digital Skills": [
+            "Understand energy and power systems",
+            "Vehicle systems design",
+            "Understanding of support systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing energy and power systems",
+            "Problem-solving in vehicle systems design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Safety and OSHA Certification",
+        "courseCode": "STEM 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces safety programs used in the workplace and to increase the safety environment at work. The course covers four key topics: preliminary hazard analysis, failure modes and effects analysis, and OSHA hazard analysis and safety review requirements, which leads to an OSHA 10 Certificate.",
+        "Technical and Digital Skills": [
+            "Conducting preliminary hazard analysis",
+            "Implementing failure modes and effects analysis",
+            "OSHA hazard analysis",
+            "Safety review requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of safety protocols",
+            "Facilitating safety discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying potential hazards",
+            "Analyzing safety failures and their effects",
+            "Developing hazard mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading safety programs",
+            "Organizing safety reviews",
+            "Coordinating hazard analyses"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "STEM 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with department and program heads",
+            "Negotiating academic relevance of work experience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating work experience for academic relevance",
+            "Developing evaluative procedures",
+            "Determining relevant criteria for work experience"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing work experiences",
+            "Leadership in negotiating academic relevance of work experience"
+        ]
+    },
+    {
+        "courseTitle": "Technology and Society",
+        "courseCode": "STEM 370T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A multidisciplinary course designed  to provide insight into the fundamental, historical, and contemporary nature of technology as an area of human knowledge.  Attention is given to the positive and negative aspects of technology and how they affect society.  (This is a writing intensive course.)",
+        "Technical and Digital Skills": [
+            "Understanding of contemporary and historical technological trends",
+            "Analysis of technological impacts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Discussing and debating technological impacts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of technological influence",
+            "Analyzing positive and negative aspects of technology"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Project Based Instruction in STEM Education",
+        "courseCode": "STEM 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Through a dynamic process of investigation and collaboration, students aim to master techniques for project-based investigations in STEM classrooms, and teach project-based lessons in the secondary classroom. Students work in teams to formulate questions, make predictions, design investigations, collect and analyze data, make products and share ideas. The use of assessments to improve student learning is emphasized in the course. This course includes a field component that consists of two observation days and three teaching days in a secondary classroom.",
+        "Technical and Digital Skills": [
+            "Mastering project-based investigation techniques",
+            "Formulating investigative questions",
+            "Designing investigations",
+            "Collecting and analyzing data",
+            "Creating educational products"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative teamwork",
+            "Sharing ideas and findings",
+            "Teaching project-based lessons in a secondary classroom"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Predictive analysis",
+            "Data analysis",
+            "Problem formulation",
+            "Investigative design",
+            "Assessment utilization for student learning improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project leadership",
+            "Classroom management",
+            "Organizing and conducting field observations",
+            "Instructional leadership"
+        ]
+    },
+    {
+        "courseTitle": "Perspectives on STEM",
+        "courseCode": "STEM 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the historical, social, and philosophical implications of mathematics and science through investigations of significant episodes in their history. Students are brought to understand that science and mathematics are not merely body of facts, theories, and techniques but involve diverse processes by which they are continually generated and reformulated.",
+        "Technical and Digital Skills": [
+            "Analysis of mathematical theories",
+            "Understanding of scientific techniques",
+            "Research on historical episodes of STEM"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of historical, social, and philosophical implications of STEM",
+            "Discussion on different perspectives on STEM"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of scientific and mathematical theories",
+            "Investigation of significant episodes in STEM history"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of diverse processes in STEM",
+            "Coordination of continual generation and reformulation of STEM theories"
+        ]
+    },
+    {
+        "courseTitle": "Developing Instructional Strategies PreK-6: Mathematics",
+        "courseCode": "STEM 433/533",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Following a theory into practice philosophy, students explore, develop, and use instructional strategies, materials, technologies, and activities to promote children's development of attitudes, behaviors, and concepts in mathematics in grades PreK-6 in support of NCTM national instructional standards and the Virginia Standards of Learning.",
+        "Technical and Digital Skills": [
+            "Developing instructional strategies",
+            "Using educational technologies",
+            "Understanding of NCTM national instructional standards",
+            "Understanding of Virginia Standards of Learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Promoting children's development",
+            "Communicating mathematical concepts effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creating activities to aid in solving mathematical problems",
+            "Analyzing children's development of attitudes, behaviors, and mathematical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing instructional strategies",
+            "Leading educational activities"
+        ]
+    },
+    {
+        "courseTitle": "Developing Instructional Strategies PreK-6: Science",
+        "courseCode": "STEM 434/534",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Following a theory into practice philosophy, students explore, develop, and use instructional strategies, materials, technologies, and activities to promote children's development of attitudes, behaviors, and concepts in science in grades PreK-6 in support of AAAS national instructional standards and the Virginia Standards of Learning.",
+        "Technical and Digital Skills": [
+            "Development of instructional strategies",
+            "Use of educational technologies",
+            "Design of science-focused educational materials",
+            "Understanding of AAAS national instructional standards",
+            "Understanding of Virginia Standards of Learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Promoting children's development of attitudes",
+            "Promoting children's development of behaviors",
+            "Effective communication with PreK-6 children"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of instructional strategies to various learning styles",
+            "Assessment and improvement of educational activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and execution of science-focused educational activities",
+            "Development and implementation of lesson plans adhering to instructional standards"
+        ]
+    },
+    {
+        "courseTitle": "Apprentice Teaching",
+        "courseCode": "STEM 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internship in school. Available for pass/fail grading only. Offers prospective teacher candidates a culminating experience that provides them with the tools needed for their first teaching jobs. Students are immersed in a local secondary school for 10 consecutive weeks and experience the expectations, processes, and rewards of teaching. As part of their Apprentice Teaching experience, candidates will be required to attend a one hour weekly seminar that will bring them together with master teachers to share experiences and to explore issues, problems, concerns, and processes related to their teaching experiences and to entering the profession of teaching.",
+        "Technical and Digital Skills": [
+            "Educational tools handling",
+            "Online teaching platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Collaborating with master teachers",
+            "Active listening and empathy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing classroom issues",
+            "Analysing teaching experiences",
+            "Problem-solving for teaching concerns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Educational leadership",
+            "Organizing teaching processes"
+        ]
+    },
+    {
+        "courseCode": "STEM 533",
+        "courseTitle": "Developing Instructional Strategies PreK-6: Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Following a theory into practice philosophy, students explore, develop, and use instructional strategies, materials, technologies, and activities to promote children's development of attitudes, behaviors, and concepts in mathematics in grades PreK-6 in support of NCTM national instructional standards and the Virginia Standards of Learning.",
+        "Technical and Digital Skills": [
+            "Application of instructional technologies",
+            "Development of instructional materials",
+            "Understanding of NCTM national instructional standards",
+            "Understanding of Virginia Standards of Learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Promoting children's development of attitudes and behaviors",
+            "Conveying mathematical concepts to children"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of instructional strategies",
+            "Application of theory into practice philosophy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing learning activities",
+            "Leading instructional activities for children"
+        ]
+    },
+    {
+        "courseCode": "STEM 534",
+        "courseTitle": "Developing Instructional Strategies PreK-6: Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Following a theory into practice philosophy, students explore, develop, and use instructional strategies, materials, technologies, and activities to promote children's development of attitudes, behaviors, and concepts in science in grades PreK-6 in support of AAAS national instructional standards and the Virginia Standards of Learning.",
+        "Technical and Digital Skills": [
+            "Development of instructional strategies",
+            "Creation and use of educational materials",
+            "Application of educational technologies",
+            "Implementation of activities to promote science education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Promotion of developmental attitudes and behaviors",
+            "Effective communication of science concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting instructional strategies to fit diverse learning needs",
+            "Aligning teaching methods with AAAS national instructional standards and the Virginia Standards of Learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of instructional activities",
+            "Leading science education initiatives in a PreK-6 environment"
+        ]
+    },
+    {
+        "courseCode": "STEM 595",
+        "courseTitle": "Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Discussion and debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of specialized topics",
+            "Independent research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination",
+            "Leading small group discussions"
+        ]
+    },
+    {
+        "courseCode": "STEM 655",
+        "courseTitle": "Culturally Responsive Classroom",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the following elements of effective teaching practice:  understanding discipline specific content and methods, employing best-practice strategies to teach discipline specific skills and concepts, assessing student learning, legal and safety issues, use of technology, issues of diversity, engagement with the community, and strategies for continuing to grow as a teacher and learner.",
+        "Technical and Digital Skills": [
+            "Understanding discipline-specific content and methods",
+            "Employing best-practice strategies",
+            "Use of educational technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement with the community",
+            "Understanding and addressing issues of diversity",
+            "Assessing student learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Employing best-practice strategies to teach discipline-specific skills and concepts",
+            "Strategies for continuing to grow as a teacher and learner"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding legal and safety issues in education",
+            "Strategies for continuing to grow as a leader"
+        ]
+    },
+    {
+        "courseCode": "STEM 720",
+        "courseTitle": "STEM Educational Foundations",
+        "academicLevel": "graduate",
+        "courseDescription": "A multidisciplinary course designed to provide insights about the fundamental concepts and basis for STEM education programs.  Standards for the school subjects of science, technology, engineering education and mathematics literacy will be reviewed.  Connections between these subjects will be explored.",
+        "Technical and Digital Skills": [
+            "Understanding of STEM concepts",
+            "Knowledge of STEM education standards",
+            "Analysis of technology in education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Communicating STEM concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing connections between STEM subjects",
+            "Evaluating STEM education programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing STEM curriculum",
+            "Leading STEM education initiatives"
+        ]
+    },
+    {
+        "courseCode": "STEM 721",
+        "courseTitle": "Science, Technology, Engineering, and Mathematics Connection and Integration",
+        "academicLevel": "graduate",
+        "courseDescription": "A course designed to teach how to plan integrated STEM curriculum and instructional materials.  A review of projects that have undertaken STEM integration will be made.  Students will learn how to map STEM content and then design STEM integrated curriculum and instructional materials.",
+        "Technical and Digital Skills": [
+            "STEM curriculum planning",
+            "STEM instructional material design",
+            "STEM content mapping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative curriculum planning",
+            "Presenting STEM integration projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing STEM integration projects",
+            "Problem-solving in STEM curriculum design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for STEM integration",
+            "Organizing and mapping STEM content"
+        ]
+    },
+    {
+        "courseCode": "STEM 730",
+        "courseTitle": "Introduction to Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Order and structure the discipline of technology by identifying and analyzing the component parts and examining technical means as critical variables in the affairs of humankind.  Based on the Standards for Technological Literacy.",
+        "Technical and Digital Skills": [
+            "Understanding components of technology",
+            "Analysis of technological variables",
+            "Technological literacy based on standards"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing component parts of technology",
+            "Examining technical means as critical variables"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ordering and structuring the discipline of technology"
+        ]
+    },
+    {
+        "courseCode": "STEM 731",
+        "courseTitle": "Technical Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Analyze the technical concepts common and unique to the technical systems of technology.",
+        "Technical and Digital Skills": [
+            "Technical systems analysis",
+            "Understanding of common and unique technical concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Critical evaluation of technical systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STEM 732",
+        "courseTitle": "Program Development for Technology Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Plan and develop effective program in technology related activities. Focus is on identification and development of resources, activities, and materials for classroom programs.",
+        "Technical and Digital Skills": [
+            "Program planning",
+            "Program development",
+            "Resource identification and development",
+            "Activity planning and preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional material design and communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Resource allocation",
+            "Adjusting program plans based on available resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leading classroom programs",
+            "Organizing technology-related activities"
+        ]
+    },
+    {
+        "courseCode": "STEM 795",
+        "courseTitle": "Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STEM 820",
+        "courseTitle": "STEM Educational Foundations",
+        "academicLevel": "graduate",
+        "courseDescription": "A multidisciplinary course designed to provide insights about the fundamental concepts and basis for STEM education programs.  Standards for the school subjects of science, technology, engineering education and mathematics literacy will be reviewed.  Connections between these subjects will be explored.",
+        "Technical and Digital Skills": [
+            "Understanding of STEM education programs",
+            "Knowledge of science, technology, engineering and mathematics standards",
+            "Recognizing connections between STEM subjects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating STEM concepts",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing STEM education standards",
+            "Critical assessment of STEM curriculum"
+        ],
+        "Organizational and Leadership Skills": [
+            "Structuring STEM education programs",
+            "Leading interdisciplinary discussions on STEM subjects"
+        ]
+    },
+    {
+        "courseCode": "STEM 821",
+        "courseTitle": "Science, Technology, Engineering, and Mathematics Connection and Integration",
+        "academicLevel": "graduate",
+        "courseDescription": "A course designed to teach how to plan integrated STEM curriculum and instructional materials.  A review of projects that have undertaken STEM integration will be made.  Students will learn how to map STEM content and then design STEM integrated curriculum and instructional materials.",
+        "Technical and Digital Skills": [
+            "STEM curriculum planning",
+            "STEM instructional materials design",
+            "Mapping STEM content"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on STEM projects",
+            "Presenting STEM integrated curriculum"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing STEM integration projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading STEM integration projects",
+            "Organizing STEM content"
+        ]
+    },
+    {
+        "courseCode": "STEM 830",
+        "courseTitle": "Introduction to Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Order and structure the discipline of technology by identifying and analyzing the component parts and examining technical means as critical variables in the affairs of humankind.  Based on the Standards for Technological Literacy.",
+        "Technical and Digital Skills": [
+            "Understanding of technological components",
+            "Analysis of technical variables",
+            "Familiarity with Standards for Technological Literacy"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the component parts of technology",
+            "Critical evaluation of technical means"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ordering and structuring the discipline of technology",
+            "Identifying critical variables in technological affairs"
+        ]
+    },
+    {
+        "courseCode": "STEM 831",
+        "courseTitle": "Technical Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Analyze the technical concepts common and unique to the technical systems of technology.",
+        "Technical and Digital Skills": [
+            "Technical systems analysis",
+            "Understanding of common and unique technical concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex technical systems",
+            "Comparing and contrasting different technical systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STEM 832",
+        "courseTitle": "Program Development for Technology Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Plan and develop effective program in technology related activities. Focus is on identification and development of resources, activities, and materials for classroom programs.",
+        "Technical and Digital Skills": [
+            "Program planning",
+            "Resource identification",
+            "Material development for technology education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of program plans and resources",
+            "Collaboration in technology education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of suitable resources for technology education",
+            "Analysis and evaluation of classroom activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing resources for technology program",
+            "Leading technology education program development"
+        ]
+    },
+    {
+        "courseCode": "STEM 895",
+        "courseTitle": "Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

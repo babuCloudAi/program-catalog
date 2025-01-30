@@ -1,0 +1,991 @@
+[
+    {
+        "courseTitle": "Introduction to Exercise Science",
+        "courseCode": "EXSC 225",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Broad overview of exercise science including the history of the discipline and introduction to the following: Healthy People 2010 goals and objectives related to physical activity and nutrition; basic principles of nutrition, body composition, applied physiology, functional anatomy, and exercise prescription/programming for healthy individuals and those who are high risk/diseased; career opportunities in various allied-health fields such as physical therapy, physician assistant, personal training, community/corporate/hospital-based wellness programs, cardiac rehabilitation; and research areas in exercise science.",
+        "Technical and Digital Skills": [
+            "Understanding of basic principles of nutrition",
+            "Knowledge of body composition",
+            "Applied physiology",
+            "Functional anatomy",
+            "Exercise prescription/programming",
+            "Research in exercise science"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with high risk/diseased individuals",
+            "Presentation of exercise programs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physical activity and nutrition objectives",
+            "Assessment of body composition",
+            "Adjustment of exercise programs for individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing wellness programs",
+            "Leadership in personal training",
+            "Management of cardiac rehabilitation programs"
+        ]
+    },
+    {
+        "courseTitle": "Prevention and Care of Injuries Related to Physical Activity",
+        "courseCode": "EXSC 240",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practice in the skills of injury recognition and evaluation and training in cardiopulmonary resuscitation. Principles and uses of therapeutic modalities are also discussed.",
+        "Technical and Digital Skills": [
+            "Injury recognition",
+            "Evaluation of physical trauma",
+            "Training in cardiopulmonary resuscitation",
+            "Understanding and application of therapeutic modalities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of physical injuries",
+            "Analyzing the effectiveness of therapeutic modalities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Emergency response coordination",
+            "Leadership in crisis situations"
+        ]
+    },
+    {
+        "courseTitle": "Strength and Conditioning Leadership",
+        "courseCode": "EXSC 250",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide the student with skills in exercise leadership.  The student will learn how to lead resistance training, flexibility training, cardiovascular training involving a variety of exercise modes, and group exercise, such as step aerobics.",
+        "Technical and Digital Skills": [
+            "Exercise leadership",
+            "Resistance training",
+            "Flexibility training",
+            "Cardiovascular training",
+            "Group exercise coordination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coaching techniques",
+            "Instructional communication",
+            "Motivational skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Training program adjustment",
+            "Exercise selection and modification",
+            "Identifying and addressing training challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Exercise planning and scheduling",
+            "Leadership in fitness and wellness",
+            "Group management"
+        ]
+    },
+    {
+        "courseTitle": "Anatomical Kinesiology",
+        "courseCode": "EXSC 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Anatomical and mechanical analysis of human musculoskeletal function including skeletal, muscular, and neuromuscular control aspects necessary for movement.",
+        "Technical and Digital Skills": [
+            "Anatomical analysis",
+            "Mechanical analysis of human musculoskeletal function",
+            "Understanding of skeletal, muscular, and neuromuscular control aspects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of human movement",
+            "Identification and analysis of musculoskeletal issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Exercise Physiology I",
+        "courseCode": "EXSC 326",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation into the metabolic adaptations, neuromuscular, endocrinological, and respiratory responses to acute and chronic exercise endeavors. Implications for enhanced health and physical performance are integrated.",
+        "Technical and Digital Skills": [
+            "Understanding of metabolic adaptations",
+            "Knowledge of neuromuscular responses to exercise",
+            "Understanding endocrinological responses to exercise",
+            "Knowledge of respiratory responses to acute and chronic exercise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physiological concepts",
+            "Ability to communicate the implications of exercise for health and physical performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physiological responses to exercise",
+            "Problem-solving in exercise physiology"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Exercise Physiology II",
+        "courseCode": "EXSC 327",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Focuses on cardiovascular responses to exercise and applied exercise physiology, specifically the effects of different training modes, environmental factors, aging, disease states, nutrition, and ergogenic aids.",
+        "Technical and Digital Skills": [
+            "Understanding of cardiovascular responses",
+            "Knowledge of different training modes",
+            "Understanding of environmental factors on exercise",
+            "Knowledge of effects of aging on exercise",
+            "Understanding disease states in relation to exercise",
+            "Applied exercise physiology",
+            "Knowledge of nutrition's effect on exercise",
+            "Understanding of ergogenic aids"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing effects of different training modes",
+            "Evaluating impact of environmental factors on exercise",
+            "Assessing the influence of aging and disease states on exercise",
+            "Analyzing the role of nutrition and ergogenic aids in exercise"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Exercise Science Seminar",
+        "courseCode": "EXSC 366",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seminar will include resume and cover letter writing skills, internship requirements, agency placement referrals, interviewing techniques, and certification options.",
+        "Technical and Digital Skills": [
+            "Resume and cover letter writing",
+            "Understanding of certification options"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing techniques",
+            "Verbal communication",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying suitable internship requirements",
+            "Evaluating different agency placements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing job application materials",
+            "Self-management"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "EXSC 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Final field placement required for all students with an emphasis in exercise science.  Students will be placed in an agency to gain experience in methodologies, administration techniques, and programs specific to their area of emphasis. Minimum of 400 clock hours. (qualifies as a CAP experience)",
+        "Technical and Digital Skills": [
+            "Understanding of exercise science methodologies",
+            "Administration techniques",
+            "Knowledge of specific programs related to area of emphasis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate with agency staff and clients",
+            "Teamwork in a professional setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply exercise science methodologies in practical settings",
+            "Analysis of the effectiveness of specific programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for completing 400 clock hours",
+            "Adapting to the workflow and organization of the placement agency"
+        ]
+    },
+    {
+        "courseTitle": "Practicum in Exercise Science",
+        "courseCode": "EXSC 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Field-based experience in a fitness or allied-health setting.  Minimum of 200 clock hours.",
+        "Technical and Digital Skills": [
+            "Knowledge of fitness testing and evaluation",
+            "Understanding of exercise equipment operation",
+            "Familiarity with health and fitness software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate fitness plans and instructions",
+            "Strong customer service skills in a fitness or health setting",
+            "Ability to build rapport with clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze client fitness levels and needs",
+            "Problem-solving skills for fitness plan adjustments and troubleshooting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management skills for managing client schedules",
+            "Leadership skills for directing fitness sessions and motivating clients"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "EXSC 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of special topics under supervision of faculty.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Feedback reception",
+            "clear articulation of ideas",
+            "active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "independent research",
+            "concept synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "time management",
+            "project organization"
+        ]
+    },
+    {
+        "courseTitle": "Lifetime Fitness and Wellness",
+        "courseCode": "EXSC 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The focus of this course is on a positive healthy lifestyle designed to enhance the current and future quality of life.  Topics include: proper exercise programs, healthful nutrition, stress management techniques, and avoidance of high-risk health behaviors in order to reduce disease risk and promote healthful aging.  Various laboratory assessments are used to identify health status and recommend remedial approaches.",
+        "Technical and Digital Skills": [
+            "Understanding of health and fitness concepts",
+            "Proficiency in laboratory assessments",
+            "Knowledge of nutrition principles",
+            "Application of stress management techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of health and fitness concepts",
+            "Ability to guide others in healthful aging techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of laboratory assessments",
+            "Identification of high-risk health behaviors",
+            "Development and implementation of remedial health approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementation of proper exercise programs",
+            "Promotion of positive health behaviors"
+        ]
+    },
+    {
+        "courseTitle": "Nutrition for Fitness and Sport",
+        "courseCode": "EXSC 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes the role of nutrition as a means to enhance health and performance in sport.  Topics covered include energy metabolism and nutrients, regulation of metabolism by vitamins and minerals, and weight control.",
+        "Technical and Digital Skills": [
+            "Understanding of energy metabolism and nutrients",
+            "Knowledge of how vitamins and minerals regulate metabolism",
+            "Understanding of weight control strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating nutritional concepts",
+            "Explaining metabolism regulations",
+            "Discussing weight control strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nutritional data",
+            "Evaluating effectiveness of dietary plans",
+            "Identifying nutritional deficiencies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing diet plans",
+            "Managing nutritional interventions",
+            "Guiding individuals or teams on nutritional practices"
+        ]
+    },
+    {
+        "courseTitle": "Biomechanics",
+        "courseCode": "EXSC 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application of physical laws and mechanical principles to the human musculoskeletal system.",
+        "Technical and Digital Skills": [
+            "Understanding of physical laws",
+            "Knowledge of mechanical principles",
+            "Application of biomechanical concepts to the musculoskeletal system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical interactions within the musculoskeletal system",
+            "Problem solving using mechanical principles and physical laws"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in Exercise Science",
+        "courseCode": "EXSC 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the scientific method applied to exercise science research including bioethics, review of the literature, research design, data collection, appropriate statistical analysis, research writing, and peer review.",
+        "Technical and Digital Skills": [
+            "Application of scientific method",
+            "Research design",
+            "Data collection",
+            "Statistical analysis",
+            "Research writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer review",
+            "Literature review",
+            "Bioethics communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Analytical thinking",
+            "Critical evaluation of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Ethical decision-making in research"
+        ]
+    },
+    {
+        "courseTitle": "Exercise Prescription for Chronic Disease",
+        "courseCode": "EXSC 428/528",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of pathophysiology of common diseases with concentration in the design, implementation and administration of exercise prescription for a variety of chronic diseases.",
+        "Technical and Digital Skills": [
+            "Understanding pathophysiology of common diseases",
+            "Designing exercise prescriptions",
+            "Implementing exercise prescriptions",
+            "Administering exercise prescriptions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating exercise plans to patients with chronic diseases",
+            "Collaboration with medical professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the connection between various chronic diseases and exercise",
+            "Customizing exercise prescriptions based on specific chronic diseases",
+            "Problem-solving for unique patient scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating with different health professionals",
+            "Leading patient's exercise plan implementation",
+            "Organizing exercise prescription plans"
+        ]
+    },
+    {
+        "courseTitle": "Wellness Programming and Administration",
+        "courseCode": "EXSC 431W/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to the principles of administration and implementation of fitness and wellness programs to individuals, groups, centers, and corporate settings. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Writing comprehensive wellness programs",
+            "Implementing fitness programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating wellness principles",
+            "Presenting fitness program details"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating effectiveness of wellness programs",
+            "Modifying fitness programs based on individual or group needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administering fitness and wellness programs",
+            "Leading wellness initiatives in various settings"
+        ]
+    },
+    {
+        "courseTitle": "Special Topics In Exercise Science",
+        "courseCode": "EXSC 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of special topics in exercise science.",
+        "Technical and Digital Skills": [
+            "Exercise physiology understanding",
+            "Knowledge of kinesiology",
+            "Understanding of biomechanics",
+            "Health and fitness assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of exercise instructions",
+            "Motivational techniques",
+            "Client relationship management",
+            "Coordinating with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of fitness assessment results",
+            "Designing individualized fitness programs",
+            "Troubleshooting exercises",
+            "Identifying and solving exercise-related problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Fitness goal setting",
+            "Organizing group fitness activities",
+            "Leading fitness sessions",
+            "Exercise program management"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Exercise Science",
+        "courseCode": "EXSC 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in exercise science. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Use of exercise science specific software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal and written communication",
+            "Collaboration with faculty",
+            "Oral presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research problems",
+            "Critical thinking",
+            "Problem-solving in exercise science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "EXSC 508",
+        "courseTitle": "Nutrition for Fitness and Sport",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasizes the role of nutrition as a means to enhance health and performance in sport.  Topics covered include energy metabolism and nutrients, regulation of metabolism by vitamins and minerals, and weight control.",
+        "Technical and Digital Skills": [
+            "Understanding energy metabolism and nutrients",
+            "Knowledge of vitamins and minerals regulation of metabolism",
+            "Understanding weight control mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nutritional needs for performance",
+            "Assessing dietary requirements for sports"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing diet plans for athletic performance"
+        ]
+    },
+    {
+        "courseCode": "EXSC 515",
+        "courseTitle": "Exercise Testing for Normal and Special Populations",
+        "academicLevel": "graduate",
+        "courseDescription": "The application of different methodologies in the measurement of physiologic responses to exercise.  Emphasis is placed on understanding American College of Sports Medicine guidelines, appropriate experimental techniques, and equipment necessary to evaluate changes in body composition and various metabolic, cardiovascular, and respiratory adjustments during exercise.",
+        "Technical and Digital Skills": [
+            "Understanding of American College of Sports Medicine guidelines",
+            "Usage of experimental techniques",
+            "Equipment handling for body composition evaluation",
+            "Monitoring metabolic, cardiovascular, and respiratory adjustments during exercise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of exercise testing results",
+            "Cooperating with diverse patient groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of physiologic responses to exercise",
+            "Data analysis of body composition changes",
+            "Assessment of metabolic, cardiovascular, and respiratory adjustments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing exercise testing protocols",
+            "Guiding individuals through exercise tests"
+        ]
+    },
+    {
+        "courseCode": "EXSC 517",
+        "courseTitle": "Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Application of physical laws and mechanical principles to the human musculoskeletal system.",
+        "Technical and Digital Skills": [
+            "Understanding of mechanical principles",
+            "Application of physical laws",
+            "Knowledge of the human musculoskeletal system"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical interactions within the human body",
+            "Solving problems related to biological mechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "EXSC 528",
+        "courseTitle": "Exercise Prescription for Chronic Disease",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of pathophysiology of common diseases with concentration in the design, implementation and administration of exercise prescription for a variety of chronic diseases.",
+        "Technical and Digital Skills": [
+            "Understanding of pathophysiology of diseases",
+            "Designing exercise prescriptions",
+            "Implementing exercise prescriptions",
+            "Administering exercise prescriptions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with patients",
+            "Understanding patient needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing patient's chronic disease",
+            "Solving problems related to chronic diseases through exercise prescriptions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing patient's exercise routine",
+            "Leading patients through their exercise prescription"
+        ]
+    },
+    {
+        "courseCode": "EXSC 531",
+        "courseTitle": "Wellness Programming and Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the principles of administration and implementation of fitness and wellness programs to individuals, groups, centers and corporate settings.",
+        "Technical and Digital Skills": [
+            "Administration of fitness and wellness programs",
+            "Implementation of wellness programs in various settings",
+            "Understanding of fitness and wellness principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with individuals and groups",
+            "Presentation of wellness programs",
+            "Engagement and motivation of participants"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and assessment of individual and group needs",
+            "Designing appropriate wellness programs",
+            "Evaluating effectiveness of wellness programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in wellness program administration",
+            "Organizing wellness events and programs",
+            "Managing corporate wellness initiatives"
+        ]
+    },
+    {
+        "courseCode": "EXSC 621",
+        "courseTitle": "Strength and Conditioning Applications",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the principles and techniques utilized in optimizing physical performance and reducing injury through proper and effective strength and conditioning programs. Special emphasis will be placed on current research findings, breakthrough techniques and advanced weight training techniques, and popular conditioning practices.",
+        "Technical and Digital Skills": [
+            "Understanding of advanced weight training techniques",
+            "Knowledge of strength and conditioning principles",
+            "Application of current research findings in physical performance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting and explaining conditioning practices",
+            "Demonstrating proper strength and conditioning techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing effectiveness of strength and conditioning programs",
+            "Evaluating physical performance and identifying areas of improvement",
+            "Minimizing injury risk through strategic program planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing and implementing strength and conditioning programs",
+            "Staying updated with breakthrough techniques in the field"
+        ]
+    },
+    {
+        "courseCode": "EXSC 630",
+        "courseTitle": "Exercise Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of current physiological literature related to muscular exercise including the cardiovascular-respiratory system, metabolic effects of exercise, neuromuscular relationships, and the effects of training or diet, environment, ergogenic aids, temperature, attitude, and other factors on performance and health.",
+        "Technical and Digital Skills": [
+            "Understanding of cardiovascular-respiratory system",
+            "Knowledge of metabolic effects of exercise",
+            "Understanding neuromuscular relationships",
+            "Knowledge of the effects of training or diet on performance and health",
+            "Understanding the impact of environment, ergogenic aids, temperature, attitude, and other factors on performance and health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to interpret and communicate physiological literature",
+            "Presentation of health and performance impacts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physiological literature",
+            "Evaluation of factors affecting performance and health",
+            "Problem-solving related to exercise and health challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "EXSC 636",
+        "courseTitle": "Research Problems in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Practice in the use of statistical and analytical techniques in solving problems in exercise science; supervised student research.",
+        "Technical and Digital Skills": [
+            "Statistical analysis",
+            "Use of analytical techniques",
+            "Research methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in exercise science",
+            "Analyzing exercise science data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management"
+        ]
+    },
+    {
+        "courseCode": "EXSC 642",
+        "courseTitle": "Clinical Exercise Testing and Prescription",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles of diagnostic exercise assessment, cardiovascular physiology, electrocardiography, ACSM guidelines to exercise testing and prescription for symptomatic and asymptomatic populations. Course includes laboratory assignments.",
+        "Technical and Digital Skills": [
+            "Diagnostic exercise assessment",
+            "Understanding of cardiovascular physiology",
+            "Proficiency in electrocardiography",
+            "Application of ACSM guidelines to exercise testing and prescription"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment and prescription for symptomatic and asymptomatic populations",
+            "Analysis of laboratory assignments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and interpreting laboratory assignments"
+        ]
+    },
+    {
+        "courseCode": "EXSC 661",
+        "courseTitle": "Nutrition for Sports and Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an in-depth analysis of the role of nutrition in health and human physical and athletic performance. General areas covered include the role of the six major classes of nutrients in health and sport, physiologic and metabolic interrelationships, malnutrition, nutrition in growing and aging, and diet and nutrition in the prevention of disease.",
+        "Technical and Digital Skills": [
+            "Understanding of nutrients and their roles",
+            "Physiologic and metabolic interrelationship analysis",
+            "Dietary assessment and planning",
+            "Knowledge of malnutrition and its effects",
+            "Understanding of nutrition in growing and aging"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex nutritional concepts in accessible language",
+            "Counseling on dietary choices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of nutritional needs",
+            "Identification and correction of malnutrition",
+            "Preventive nutrition planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing personalized nutrition plans",
+            "Implementing dietary interventions"
+        ]
+    },
+    {
+        "courseCode": "EXSC 668",
+        "courseTitle": "Internship in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide detailed practical experience (200 clock hours) in an exercise science field setting.",
+        "Technical and Digital Skills": [
+            "Exercise programming",
+            "Fitness assessment",
+            "Use of exercise science equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Collaborative teamwork in a fitness setting",
+            "Feedback interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapt exercise plans",
+            "Evaluate client progress",
+            "Modify fitness programs based on client needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Planning and executing exercise regimens",
+            "Leadership in a fitness environment"
+        ]
+    },
+    {
+        "courseCode": "EXSC 695",
+        "courseTitle": "Topics in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Selected topic courses in exercise science and wellness.",
+        "Technical and Digital Skills": [
+            "Understanding of the human body and its functions",
+            "Knowledge in exercise science and wellness",
+            "Ability to use fitness assessment tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating exercise instructions",
+            "Providing wellness advice",
+            "Collaborating with other fitness professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing personalized exercise plans",
+            "Analyzing wellness data",
+            "Adapting exercise routines based on individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading fitness classes",
+            "Implementing wellness programs",
+            "Managing exercise schedules"
+        ]
+    },
+    {
+        "courseCode": "EXSC 697",
+        "courseTitle": "Independent Study in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Investigations in exercise science. Problems approved in advance are investigated under the supervision of the faculty advisor.",
+        "Technical and Digital Skills": [
+            "Exercise science research methods",
+            "Data collection and analysis",
+            "Use of specialized equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification and formulation",
+            "Critical analysis of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "EXSC 698",
+        "courseTitle": "Thesis Research in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Master's level thesis research in topics related to Exercise Science.",
+        "Technical and Digital Skills": [
+            "Exercise science research methods",
+            "Data collection and analysis",
+            "Technical writing",
+            "Literature review"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Academic collaboration",
+            "Presentation of research findings",
+            "Feedback reception and integration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Hypothesis testing",
+            "Critical evaluation of scholarly articles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Research planning and execution",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "EXSC 699",
+        "courseTitle": "Thesis in Exercise Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Preparation and writing of the master's thesis.",
+        "Technical and Digital Skills": [
+            "Advanced research in exercise science",
+            "Use of relevant software for data analysis",
+            "Writing academic papers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Academic writing",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research data",
+            "Hypothesis testing",
+            "Problem-solving in research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline and time management",
+            "Compliance with ethical guidelines in research"
+        ]
+    },
+    {
+        "courseCode": "EXSC 727",
+        "courseTitle": "Advanced Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the relationships among mechanics, energetics and control of human movement. Emphasis will be placed on the application of mechanical concepts in biomechanics research. Course includes laboratory assignments.",
+        "Technical and Digital Skills": [
+            "Application of mechanical concepts in biomechanics research",
+            "Laboratory assignments",
+            "Study of human movement mechanics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of human movement",
+            "Energetic analysis",
+            "Problem solving in biomechanics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Laboratory management",
+            "Leading biomechanics studies"
+        ]
+    },
+    {
+        "courseCode": "EXSC 730",
+        "courseTitle": "Advanced Cardiovascular Exercise Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the physiology and pathophysiology of the cardiovascular system. Effects of exercise on the system will also be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of cardiovascular system physiology and pathophysiology",
+            "Knowledge of the effects of exercise on the cardiovascular system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physiological processes",
+            "Ability to discuss and debate the effects of exercise on the cardiovascular system"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cardiovascular system responses to exercise",
+            "Critical evaluation and interpretation of physiological data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "EXSC 738",
+        "courseTitle": "Exercise Endocrinology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the endocrine responses to acute and chronic exercise and how neuroendocrine function relates to health and athletic performance. Emphasis is placed on the role of the endocrine system in regulating substrate utilization during exercise, energy balance, skeletal muscle plasticity, reproductive function, and the aging process.",
+        "Technical and Digital Skills": [
+            "Understanding of endocrine responses to exercise",
+            "Knowledge of neuroendocrine function in relation to health and athletic performance",
+            "Understanding the role of the endocrine system in regulating substrate utilization during exercise",
+            "Understanding of energy balance, skeletal muscle plasticity, reproductive function, and the aging process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex endocrinological concepts",
+            "Ability to explain the relationship between neuroendocrine function and athletic performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to interpret and analyze endocrine responses",
+            "Ability to assess the role of the endocrine system in various physiological processes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "EXSC 740",
+        "courseTitle": "Ergogenic Aids in Sport and Human Performance",
+        "academicLevel": "graduate",
+        "courseDescription": "An ergogenic aid is any technique or substance (nutritional, drug, etc.) used to enhance mental or physical performance. This course introduces students to the various classes of ergogenic aids and critically explores scientific research regarding their use, prevalence, physiological effects, and safety, as well as ethical concerns.",
+        "Technical and Digital Skills": [
+            "Understanding of various classes of ergogenic aids",
+            "Knowledge of physiological effects of ergogenic aids",
+            "Awareness of safety measures with ergogenic aids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss ethical concerns related to ergogenic aids",
+            "Communicating scientific research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of scientific research",
+            "Evaluation of prevalence and use of ergogenic aids"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "EXSC 827",
+        "courseTitle": "Advanced Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the relationships among mechanics, energetics and control of human movement. Emphasis will be placed on the application of mechanical concepts in biomechanics research. Course includes laboratory assignments.",
+        "Technical and Digital Skills": [
+            "Understanding of mechanical concepts in biomechanics",
+            "Laboratory assignments",
+            "Application of mechanics in biomechanics research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining mechanical concepts",
+            "Collaboration in laboratory assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex human movements",
+            "Problem-solving in biomechanics research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading laboratory assignments",
+            "Organizing and planning biomechanics research"
+        ]
+    },
+    {
+        "courseCode": "EXSC 830",
+        "courseTitle": "Advanced Cardiovascular Exercise Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the physiology and pathophysiology of the cardiovascular system. Effects of exercise on the system will also be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of cardiovascular physiology and pathophysiology",
+            "Knowledge of the effects of exercise on the cardiovascular system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of cardiovascular system responses to exercise",
+            "Identification and assessment of pathophysiological changes in the cardiovascular system"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "EXSC 838",
+        "courseTitle": "Exercise Endocrinology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the endocrine responses to acute and chronic exercise and how neuroendocrine function relates to health and athletic performance. Emphasis is placed on the role of the endocrine system in regulating substrate utilization during exercise, energy balance, skeletal muscle plasticity, reproductive function, and the aging process.",
+        "Technical and Digital Skills": [
+            "Understanding of endocrine responses to exercise",
+            "Knowledge of neuroendocrine function in relation to health and athletic performance",
+            "Understanding of the role of the endocrine system in regulating substrate utilization during exercise",
+            "Knowledge of skeletal muscle plasticity, reproductive function, and the aging process in relation to exercise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of endocrine responses to acute and chronic exercise",
+            "Evaluation of neuroendocrine function in various health and performance contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "EXSC 840",
+        "courseTitle": "Ergogenic Aids in Sport and Human Performance",
+        "academicLevel": "graduate",
+        "courseDescription": "An ergogenic aid is any technique or substance (nutritional, drug, etc.) used to enhance mental or physical performance. This course introduces students to the various classes of ergogenic aids and critically explores scientific research regarding their use, prevalence, physiological effects, and safety, as well as ethical concerns.",
+        "Technical and Digital Skills": [
+            "Knowledge of various classes of ergogenic aids",
+            "Understanding of physiological effects of ergogenic aids",
+            "Evaluation of scientific research on ergogenic aids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical discussions on use of ergogenic aids",
+            "Communication of scientific findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research data",
+            "Evaluation of aid effectiveness and safety",
+            "Identification and analysis of prevalence trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making",
+            "Research organization and interpretation"
+        ]
+    },
+    {
+        "courseCode": "EXSC 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Maintaining active academic status",
+            "Meeting registration requirements"
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "courseTitle": "Introduction to Entrepreneurship",
+        "courseCode": "ENTR 201S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will broaden students' views of careers and work in an increasingly global and diverse world. It provides students intellectual perspectives of entrepreneurship, and engages students in the search for knowledge regarding opportunity value and resource management. Basic analytical and critical thinking skills are developed for making reasoned judgments concerning organization creation.",
+        "Technical and Digital Skills": [
+            "Resource management",
+            "Basic analytical skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Intellectual perspectives presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking for reasoned judgments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Entrepreneurial opportunity evaluation"
+        ]
+    },
+    {
+        "courseTitle": "Fundamentals of Entrepreneurship",
+        "courseCode": "ENTR 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for students interested in learning about entrepreneurship. It examines entrepreneurship from different perspectives, and engages students in opportunity recognition, value creation and resource management. Basic analytical and critical thinking skills are developed for making reasoned judgments concerning venture creation. Students will learn how to improve the likelihood of success of business start-ups. Course will also be valuable for students interested in consulting with small businesses or launching new divisions in large businesses.",
+        "Technical and Digital Skills": [
+            "Opportunity recognition",
+            "Value creation",
+            "Resource management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Consulting skills",
+            "Networking abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for venture creation",
+            "Reasoned judgment skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Success improvement strategies for start-ups",
+            "Launching new divisions in large businesses"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship Internship",
+        "courseCode": "ENTR 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students complete an entrepreneurial project or assignment for a business, non-profit agency, or other organization. Students should work 50 hours for each credit and complete course assignments integrating coursework and entrepreneurial experiences.",
+        "Technical and Digital Skills": [
+            "Project management tools utilization",
+            "Data analysis for decision-making",
+            "Market research techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication and relationship management",
+            "Team collaboration on project tasks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market opportunities",
+            "Risk assessment for business ventures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Delegating tasks effectively"
+        ]
+    },
+    {
+        "courseTitle": "Managing Small and Family Businesses",
+        "courseCode": "ENTR 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course investigates the risks and challenges of small businesses with particular emphasis on family businesses. It focuses on knowledge necessary to support the continuity of such businesses. Topics may include: the entrepreneurial life, types of small businesses, getting started, financing and ownership, professionalizing and growth, and change, adaptation, and innovation to stay in business.",
+        "Technical and Digital Skills": [
+            "Risk assessment in small businesses",
+            "Financial analysis of small businesses",
+            "Professionalization strategies for small businesses",
+            "Innovation strategies for small businesses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within family businesses",
+            "Conflict resolution in small business settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing risks in small businesses",
+            "Analyzing financial data for decision-making in small businesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Succession planning in family businesses",
+            "Change management in small businesses"
+        ]
+    },
+    {
+        "courseTitle": "Innovation Project",
+        "courseCode": "ENTR 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students with a unique cross-disciplinary, team-based course experience in the area of innovation. The focal point will be a real-life innovation problem sponsored by a company (or organization) on which students will provide presentations and a final report. The course is directed through ODU’s Strome Center for Entrepreneurship and Innovation.",
+        "Technical and Digital Skills": [
+            "Cross-disciplinary problem-solving",
+            "Real-life innovation problem analysis",
+            "Presentation skills",
+            "Report writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team-based collaboration",
+            "Client interaction skills",
+            "Presentation delivery",
+            "Effective communication with sponsors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in innovation",
+            "Problem identification and resolution",
+            "Innovative solutions development",
+            "Analyzing company-sponsored challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in innovation",
+            "Team leadership in cross-disciplinary projects",
+            "Entrepreneurial mindset development",
+            "Innovation project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Social Entrepreneurship",
+        "courseCode": "ENTR 476/576",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The class draws students from all disciplines to collaborate with each other, faculty and community members as they co-design project-based solutions to pertinent social issues. Topics related to social entrepreneurship vary each year. Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Project-based solution design",
+            "Field research methods",
+            "Data analysis for decision-making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with diverse stakeholders",
+            "Effective communication in presentations and reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of social issues",
+            "Identifying innovative solutions through research and readings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Co-designing projects with teams",
+            "Guiding and facilitating community engagement"
+        ]
+    },
+    {
+        "courseTitle": "Design Thinking",
+        "courseCode": "ENTR 477/577",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Design thinking is a human-centered approach to innovation that uses design methods and tools to integrate the needs of people and organizations, the opportunities of technology, and the requirements for personal, organizational, and business success. The design thinking course introduces students to a robust process for understanding problems, ideation, innovation, and entrepreneurship. This course is facilitated using workshops where students will work in project teams in a design thinking innovation challenge.",
+        "Technical and Digital Skills": [
+            "Design methods application",
+            "Innovation tools utilization",
+            "Technology integration",
+            "Entrepreneurship understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Project team collaboration",
+            "Workshop facilitation",
+            "Presentation of ideas",
+            "Effective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem understanding",
+            "Ideation process",
+            "Innovation techniques",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Process management",
+            "Team leadership",
+            "Innovation challenge facilitation",
+            "Entrepreneurial mindset development"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship Capstone",
+        "courseCode": "ENTR 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The Entrepreneurship Capstone emphasizes practicing entrepreneurship through experiential learning, focusing on start-up activities. Drawing on a broad range of business disciplines, including Marketing, Management, Finance, and Accounting, students identify an opportunity and develop an industry analysis, marketing and finance plans, and a business pitch they present to investors and serial entrepreneurs.",
+        "Technical and Digital Skills": [
+            "Industry analysis",
+            "Marketing plan development",
+            "Finance plan creation",
+            "Business pitch presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching to investors",
+            "Presenting to serial entrepreneurs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Opportunity identification",
+            "Critical evaluation of business ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Start-up activities management",
+            "Cross-disciplinary collaboration"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship Project in Management",
+        "courseCode": "ENTR 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. The course can be delivered either as an independent project for individual students or as group projects similar to those sometimes offered in topics courses.",
+        "Technical and Digital Skills": [
+            "Business model development",
+            "Market research analysis",
+            "Financial forecasting",
+            "Digital marketing strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching ideas to investors",
+            "Negotiation skills for partnerships",
+            "Effective team communication",
+            "Client relationship management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "SWOT analysis",
+            "Risk assessment and mitigation",
+            "Feasibility studies",
+            "Market trend analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team coordination and delegation",
+            "Decision-making under uncertainty",
+            "Time management and prioritization"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Entrepreneurship",
+        "courseCode": "ENTR 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. The study should lead to presentation of a paper at a conference or publication as appropriate.",
+        "Technical and Digital Skills": [
+            "Literature review skills",
+            "Academic paper writing",
+            "Presentation preparation",
+            "Conference paper submission process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Networking for publication opportunities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research material",
+            "Identifying gaps in existing literature",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting research topic"
+        ]
+    },
+    {
+        "courseCode": "ENTR 576",
+        "courseTitle": "Social Entrepreneurship",
+        "academicLevel": "graduate",
+        "courseDescription": "The class draws students from all disciplines to collaborate with each other, faculty and community members as they co-design project-based solutions to pertinent social issues. Topics related to social entrepreneurship vary each year. Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Project-based solution design",
+            "Field research methodology",
+            "Data analysis for social impact"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with diverse stakeholders",
+            "Effective presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of social issues",
+            "Problem identification and solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for social initiatives",
+            "Community engagement and mobilization"
+        ]
+    },
+    {
+        "courseCode": "ENTR 577",
+        "courseTitle": "Design Thinking",
+        "academicLevel": "graduate",
+        "courseDescription": "Design thinking is a human-centered approach to innovation that uses design methods and tools to integrate the needs of people and organizations, the opportunities of technology, and the requirements for personal, organizational, and business success. The design thinking course introduces students to a robust process for understanding problems, ideation, innovation, and entrepreneurship. This course is facilitated using workshops where students will work in project teams in a design thinking innovation challenge.",
+        "Technical and Digital Skills": [
+            "Design methods and tools utilization",
+            "Technology integration for innovation",
+            "Understanding of innovation processes",
+            "Entrepreneurship principles in design thinking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective teamwork in project teams",
+            "Presentation of design solutions",
+            "Collaboration in design challenges",
+            "Communication of ideas and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem understanding and analysis",
+            "Ideation techniques",
+            "Innovation strategies",
+            "Critical evaluation of design solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in design challenges",
+            "Leadership in innovation processes",
+            "Team coordination and motivation",
+            "Business success alignment"
+        ]
+    }
+]

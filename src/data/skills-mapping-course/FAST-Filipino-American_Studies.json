@@ -1,0 +1,42 @@
+[
+    {
+        "courseTitle": "Topics in Filipino American Studies",
+        "courseCode": "FAST 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for non-majors, or for elective credit within a major.  These courses will appear in the course schedule booklet, and will be more fully described in a booklet distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Effective cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of historical and contemporary issues",
+            "Interpretation of socio-cultural data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing research",
+            "Time management",
+            "Independent study skills"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Filipino American Studies",
+        "courseCode": "FAST 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for non-majors, or for elective credit within a major.  These courses will appear in the course schedule booklet, and will be more fully described in a booklet distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective communication",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project organization"
+        ]
+    }
+]

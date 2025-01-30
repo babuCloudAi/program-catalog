@@ -1,0 +1,3444 @@
+[
+    {
+        "courseTitle": "Principles of Practice: Foundations of Health Assessment",
+        "courseCode": "NURS 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This didactic and laboratory course emphasizes the assessment phase of the nursing process.  Supervised practice, faculty demonstration, and self-paced learning in the audio-visual laboratory, simulation laboratory and selected clinical sites facilitate skill acquisition in health assessment and health history interviewing. Pre- or",
+        "Technical and Digital Skills": [
+            "Health assessment techniques",
+            "Utilization of audio-visual laboratory equipment",
+            "Simulation laboratory operation",
+            "Acquisition of health history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Health history interviewing",
+            "Supervised practice",
+            "Effective communication within a clinical environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of health assessments",
+            "Interpretation of laboratory results",
+            "Nursing process application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-paced learning",
+            "Adapting to various clinical environments",
+            "Leadership in a healthcare setting"
+        ]
+    },
+    {
+        "courseTitle": "Health Assessment",
+        "courseCode": "NURS 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course emphasizes the physical assessment phase of the nursing process. For registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Physical assessment techniques",
+            "Use of medical assessment tools",
+            "Understanding of human anatomy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Empathy",
+            "Non-verbal cues interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health condition analysis",
+            "Symptom interpretation",
+            "Medical problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient management",
+            "Prioritizing patient needs",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Theoretical Foundation of Professional Nursing Practice",
+        "courseCode": "NURS 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on selected nursing models, concepts, and theories as supporting frameworks for professional nursing practice.  Emphasis is placed on the utilization of nursing theory as a methodology for improving nursing practice in various client situations and practice settings.  For registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Understanding of various nursing models",
+            "Knowledge in selected nursing theories",
+            "Ability to apply nursing theory in different practice settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to effectively communicate nursing theories",
+            "Capacity to work well with clients in various situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to use nursing theory to solve problems",
+            "Capacity to analyze and interpret client situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to lead in the application of nursing theories",
+            "Capacity to organize and manage nursing practice based on various theories"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Introduction to Nutrition/Normal Nutrition",
+        "courseCode": "NURS 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on concepts of normal nutrition. Emphasis is placed on understanding the impact of various nutrients on the body.",
+        "Technical and Digital Skills": [
+            "Nutrient analysis",
+            "Understanding of nutritional data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining nutritional concepts",
+            "Discussing impacts of nutrition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of nutritional impacts on the body",
+            "Evaluation of nutrient values"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Principles of Practice: Nutrition of Nursing Practice",
+        "courseCode": "NURS 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course builds upon NURS 310 and introduces the student to selected therapeutic diets. Emphasis is placed on specific diets associated with selected alterations in adaptation and the adult with behavioral issues.",
+        "Technical and Digital Skills": [
+            "Understanding of therapeutic diets",
+            "Knowledge of specific diets for certain health conditions",
+            "Ability to adapt diets for adults with behavioral issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating diet plans to patients",
+            "Understanding patient dietary needs and preferences",
+            "Interacting with patients with behavioral issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient dietary needs",
+            "Problem-solving for diet-related health issues",
+            "Adapting diets for specific health conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing diet plans",
+            "Leading patient dietary education",
+            "Organizing patient diet records"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Foundational Concepts",
+        "courseCode": "NURS 314",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasis is on concepts and theories that are fundamental to professional nursing practice, the nursing process, and therapeutic nurse-patient communication.",
+        "Technical and Digital Skills": [
+            "Understanding of fundamental nursing theories",
+            "Proficiency in the nursing process",
+            "Application of therapeutic nurse-patient communication techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective nurse-patient communication",
+            "Empathetic approach to patient care",
+            "Ability to establish rapport with patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of the nursing process for patient care",
+            "Critical evaluation of patient status",
+            "Adaptive decision-making based on patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient care",
+            "Coordination with healthcare professionals",
+            "Leadership in a healthcare setting"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Clinical Foundations of Practice",
+        "courseCode": "NURS 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course focuses on the assessment and basic care of the hospitalized adult client. Application of the nursing process, health assessment, and clinical nursing techniques are implemented using concepts and theories that underlie professional nursing practice.",
+        "Technical and Digital Skills": [
+            "Health assessment",
+            "Basic care of hospitalized adults",
+            "Application of nursing processes",
+            "Implementation of clinical nursing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Inter-professional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision making",
+            "Critical evaluation of patient status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Care coordination",
+            "Nursing leadership"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Adult Health I",
+        "courseCode": "NURS 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This lecture course focuses on the adult who is experiencing selected alterations and/or adaptations in organ system function such as elimination, immune system/cellular regulation, hematological system, fluid balance, temperature regulation and nutritional balances. Focus is also on the adult experiencing pain, inflammation and other selected system alterations. Emphasis is on the use of the nursing process to assist adult patients to adapt to alterations/adaptations in function of systems.",
+        "Technical and Digital Skills": [
+            "Assessment of organ system function",
+            "Understanding of immune system regulation",
+            "Understanding of hematological system",
+            "Understanding of fluid balance",
+            "Understanding of temperature regulation",
+            "Understanding of nutritional balances",
+            "Assessment and management of pain and inflammation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating health issues to patients",
+            "Empathetic communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of system alterations",
+            "Implementation of nursing process",
+            "Evaluation of patient adaptations to alterations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care management",
+            "Organizing health information",
+            "Delegating tasks within a healthcare team"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Clinical Management Adult Health I",
+        "courseCode": "NURS 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course focuses on the nursing process with adult clients experiencing alterations/adaptations in bodily defense mechanisms. The concepts inclusive in the didactic component will be actualized in general medical surgical units and oncology units.",
+        "Technical and Digital Skills": [
+            "Nursing process application",
+            "Medical surgical unit operations",
+            "Oncology unit operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration",
+            "Explanation of medical conditions and treatments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of bodily defense mechanism alterations/adaptations",
+            "Clinical decision-making in adult health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care coordination",
+            "Nursing team management",
+            "Clinical care planning"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: The Growing Family",
+        "courseCode": "NURS 332",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This lecture course focuses on the theoretical and applied concepts related to the care of families experiencing pregnancy and childbirth. Emphasis is on the dynamic familial, societal, psychological and physiological changes that occur in this stage of family and personal development. The assistive role of the nurse and as a family-centered provider of care is a major focus.",
+        "Technical and Digital Skills": [
+            "Application of theoretical concepts in family care",
+            "Knowledge of physiological changes during pregnancy and childbirth"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication with families",
+            "Family-centered care provision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and applying psychological concepts in family care",
+            "Assessing and addressing societal changes impacting family health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating family care plans",
+            "Leading as a family-centered provider of care"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Clinical Management of the Growing Family",
+        "courseCode": "NURS 333",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course provides the opportunity for planning and provision of nursing care to the childbearing family. Emphasis is on the use of the nursing process to plan, provide and coordinate quality care. Students are expected to demonstrate responsibility and accountability for personal actions as well as a respect for families and clients.",
+        "Technical and Digital Skills": [
+            "Nursing care planning",
+            "Quality care coordination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Respectful patient interaction",
+            "Family-oriented communication",
+            "Collaborative care provision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of the nursing process",
+            "Analytical patient assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personal accountability",
+            "Responsibility for actions"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Behavioral Issues, Altered Cognition and Coping",
+        "courseCode": "NURS 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This lecture course focuses on psychotherapeutic processes across the lifespan. Building on foundations from the social and behavioral sciences, emphasis is on the use of the nursing process in providing care to clients with acute and chronic illness in a variety of psychiatric settings.",
+        "Technical and Digital Skills": [
+            "Knowledge of psychotherapeutic processes",
+            "Understanding of social and behavioral sciences",
+            "Proficiency in nursing processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Collaboration with healthcare professionals in psychiatric settings",
+            "Empathy and understanding towards clients with acute and chronic illness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze psychotherapeutic processes",
+            "Problem solving in acute and chronic illness scenarios",
+            "Analyzing behavioral and cognitive changes in patients"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management in psychiatric settings",
+            "Leading and managing nursing care for patients",
+            "Organization of care plans according to client's needs"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Management of Patients with Behavioral Issues, Altered Cognition and Coping",
+        "courseCode": "NURS 353",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course provides a mechanism for students to perform mental health assessments, plan nursing care, practice therapeutic communication techniques and observe group processes in both inpatient and outpatient settings.",
+        "Technical and Digital Skills": [
+            "Mental health assessments",
+            "Planning nursing care",
+            "Therapeutic communication techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Therapeutic communication techniques",
+            "Observing group processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performing mental health assessments",
+            "Planning nursing care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Observing and analyzing group processes",
+            "Coordinating care in inpatient and outpatient settings"
+        ]
+    },
+    {
+        "courseTitle": "Genetics in Nursing",
+        "courseCode": "NURS 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasis is placed on current information and research findings about the role of genetics in health. Students completing this course will be better prepared to incorporate genetic information and technology when providing care to clients.  A student receiving credit for NURS 355 cannot receive credit for NURS 455.",
+        "Technical and Digital Skills": [
+            "Understanding of genetics",
+            "Usage of genetic information and technology in healthcare",
+            "Research and analysis of current genetic information"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating genetic information to clients",
+            "Interpreting genetic information for client care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic information for healthcare",
+            "Applying genetic research findings to nursing practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Incorporating genetic knowledge into nursing care plans",
+            "Leading in the application of genetic technology in healthcare"
+        ]
+    },
+    {
+        "courseTitle": "Global Health Perspectives",
+        "courseCode": "NURS 356",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This introductory course to global health emphasizes the major underlying determinants of poor health and the relationship between health and political, social, and economic development. Students will be introduced to global effects on the health of populations worldwide, current and future challenges to global health and the role of primary health care providers in meeting that challenge. (A student receiving credit for NURS 356 cannot receive credit for NURS 456.)",
+        "Technical and Digital Skills": [
+            "Research on global health issues",
+            "Understanding of health care systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration with diverse global health care teams",
+            "Cultural sensitivity and understanding for global health contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social, political, and economic factors influencing global health",
+            "Understanding and addressing global health challenges",
+            "Critical evaluation of health and development policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for global health interventions",
+            "Leadership in primary health care provision"
+        ]
+    },
+    {
+        "courseTitle": "Palliative Care in Nursing",
+        "courseCode": "NURS 357",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of the need to improve end of life care and the role of nursing as a member of the interdisciplinary team in providing quality care. Basic principals of palliative care are presented within a quality of life (QOL) framework. Palliative care nursing care combines caring, communication, knowledge, and skill. Clinical issues to include expert assessment skills and aggressive pain and symptom management as well as the psychological, social, and spiritual care of patients and families experiencing a life threatening progressive illness will be discussed. Caring for the dying means not only \"doing for\" but also \"being with\". Students will be provided the opportunity to use introspection to clarify their own feelings related to the dying process. A student receiving credit for NURS 357 cannot receive credit for NURS 457.",
+        "Technical and Digital Skills": [
+            "Expert assessment skills",
+            "Aggressive pain and symptom management",
+            "Psychological care",
+            "Social care",
+            "Spiritual care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and families",
+            "Empathy and understanding",
+            "Being with patients and families during difficult times"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Managing end of life care",
+            "Quality of life improvement strategies",
+            "Addressing life threatening progressive illnesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Interdisciplinary team collaboration",
+            "Balancing multiple aspects of care",
+            "Self-introspection related to the dying process"
+        ]
+    },
+    {
+        "courseTitle": "Studies in Professional Nursing",
+        "courseCode": "NURS 358",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of selected topics in professional nursing practice; designed to provide an in-depth exploration of current nursing issues.",
+        "Technical and Digital Skills": [
+            "Nursing procedures",
+            "Medical software proficiency",
+            "Electronic health record management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration",
+            "Empathy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Medical diagnosis",
+            "Clinical decision-making",
+            "Critical evaluation of nursing issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care coordination",
+            "Healthcare team leadership",
+            "Clinical resource management"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Research as Foundation for Practice",
+        "courseCode": "NURS 363",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the theories and concepts utilized in the scientific investigation of nursing practice. Content emphasizes the development of skills necessary to be a consumer of nursing research.",
+        "Technical and Digital Skills": [
+            "Scientific investigation",
+            "Research in nursing practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research analysis",
+            "Critical evaluation of nursing research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Leadership in nursing research"
+        ]
+    },
+    {
+        "courseTitle": "Practicum: Studies in Clinical Nursing Practice",
+        "courseCode": "NURS 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of selected clinical practice applications in professional nursing practice; designed to provide an in-depth practicum in selected nursing practice areas.  Students must have specific practicum arrangements (ex: externship) prior to registration.",
+        "Technical and Digital Skills": [
+            "Operation of clinical equipment",
+            "Clinical documentation",
+            "Use of digital health record systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Professional collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of patient conditions",
+            "Application of clinical nursing practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare management",
+            "Leading patient care initiatives",
+            "Organizing nursing practice areas"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Pharmacology for Nursing Practice I",
+        "courseCode": "NURS 373",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to involve the student in the application of the nursing process to clinical situations involving drug therapy.",
+        "Technical and Digital Skills": [
+            "Application of nursing process",
+            "Clinical drug therapy management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical situation analysis",
+            "Critical evaluation of drug therapy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical situation management",
+            "Patient care coordination"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Pharmacology Across the Continuum",
+        "courseCode": "NURS 376",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to involve nursing students in the practical application of the nursing process in clinical pharmaco-therapeutics related to selected concepts.",
+        "Technical and Digital Skills": [
+            "Clinical pharmaco-therapeutics application",
+            "Understanding of nursing process",
+            "Knowledge of selected medical concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication",
+            "Interdisciplinary collaboration",
+            "Explanation of pharmaceutical treatments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient symptoms",
+            "Selecting appropriate pharmaceutical treatments",
+            "Evaluation and adaptation of treatment plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Prioritizing medical treatments",
+            "Leading patient-centered care"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts 1",
+        "courseCode": "NURS 380",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an advanced placement course for nursing students concurrently enrolled in level 1 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.",
+        "Technical and Digital Skills": [
+            "Advanced nursing practices",
+            "Clinical nursing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision-making",
+            "Healthcare problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Experiential learning",
+            "Coursework coordination"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts 2",
+        "courseCode": "NURS 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an advanced placement course for nursing students concurrently enrolled in level 2 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.",
+        "Technical and Digital Skills": [
+            "Advanced nursing procedures",
+            "Clinical assessment techniques",
+            "Use of medical technology and equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Collaboration with medical team",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision making",
+            "Critical evaluation of patient conditions",
+            "Adaptation to changing clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care coordination",
+            "Clinical situation management",
+            "Leadership in healthcare settings"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts 3",
+        "courseCode": "NURS 382",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an advanced placement course for nursing students concurrently enrolled in level 3 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.",
+        "Technical and Digital Skills": [
+            "Advanced nursing procedures",
+            "Clinical requirement compliance",
+            "Didactic coursework application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with partner institutions",
+            "Communication in a healthcare setting",
+            "Active listening and empathy in patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of patient needs",
+            "Clinical decision making",
+            "Risk assessment and mitigation in healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of concurrent coursework",
+            "Nursing team leadership",
+            "Healthcare project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts 4",
+        "courseCode": "NURS 383",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an advanced placement course for nursing students concurrently enrolled in level 4 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits. Proof of licensure as a registered nurse is required prior to awarding the level 4 experiential learning credits.",
+        "Technical and Digital Skills": [
+            "Advanced nursing practices",
+            "Clinical requirements compliance",
+            "Registered nurse licensure process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care communication",
+            "Inter-professional collaboration",
+            "Reporting and documentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem solving",
+            "Patient health assessment",
+            "Diagnosis and treatment planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Nursing leadership",
+            "Patient case management",
+            "Healthcare system navigation"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Research as Foundation for Practice",
+        "courseCode": "NURS 387",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the theories and concepts utilized in the scientific investigation of nursing practice. Content emphasizes the development of skills necessary to be a consumer of nursing research.  Open to Honors Program students only.",
+        "Technical and Digital Skills": [
+            "Understanding of scientific investigation theories and concepts",
+            "Understanding and application of nursing research methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective engagement with scholarly literature",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nursing research",
+            "Critical evaluation of research methodologies and findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research processes",
+            "Taking responsibility for learning and knowledge acquisition"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Skills for Nonnursing Majors",
+        "courseCode": "NURS 393",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Focuses on basic hygiene, comfort and safety skills required of health professionals providing diagnostic and/or supportive therapies to clients in a health care facility.  May not be taken as required elective by nursing majors.  Open to nuclear medicine technology students only.",
+        "Technical and Digital Skills": [
+            "Basic hygiene practices",
+            "Safety procedures",
+            "Diagnostic and supportive therapy skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of patient comfort and safety",
+            "Implementation of hygiene and safety protocols"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient management",
+            "Healthcare facility protocol adherence"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "NURS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected health-related topics of interest.  Course descriptions and prerequisites are available from the chief academic advisor.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "NURS 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Nursing majors only. Selected health-related topics of interest to nursing majors. Course descriptions and prerequisites are available from the chief academic advisor.",
+        "Technical and Digital Skills": [
+            "Advanced nursing techniques",
+            "Understanding of health-related topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex health information",
+            "Patient interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health-related case studies",
+            "Critical thinking in medical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Leading health-focused discussions"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "NURS 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing selected topics",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Independent research"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts I",
+        "courseCode": "NURS 398",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced placement credit is awarded to the registered nurse who has demonstrated knowledge of selected basic clinical nursing concepts for the provision of nursing care to individuals experiencing health deviations.  Awarded upon completion of 14 credits in major. Registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Understanding of basic clinical nursing concepts",
+            "Knowledge of nursing care provision for individuals experiencing health deviations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with patients",
+            "Collaborative patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying health deviations",
+            "Applying clinical nursing concepts for problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Leading a nursing team"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Professional Development for Baccalaureate Nursing Practice",
+        "courseCode": "NURS 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on basic skills required for success in the post-licensure baccalaureate nursing program.  Emphasis is placed on professional development for baccalaureate nursing practice.  Selected skills to be acquired include introduction to the development of a professional portfolio, APA professional writing format, information literacy in nursing literature and professional communication strategies.  For registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Development of a professional portfolio",
+            "APA professional writing format",
+            "Information literacy in nursing literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nursing literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Professional development planning"
+        ]
+    },
+    {
+        "courseTitle": "Role Development for the Baccalaureate Nurse as Educator",
+        "courseCode": "NURS 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on further development of the baccalaureate nursing student with an emphasis on expanding critical thinking skills, teaching-learning theories and application, professional resume development and exploration of nursing specialties and practice roles.  For registered nursing students only.",
+        "Technical and Digital Skills": [
+            "Understanding and applying teaching-learning theories",
+            "Professional resume development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in educational setting",
+            "Influencing learning outcomes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Exploration and analysis of nursing specialties and practice roles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in nursing education",
+            "Organizing and managing learning experiences"
+        ]
+    },
+    {
+        "courseTitle": "Transition to Baccalaureate Nursing Practice",
+        "courseCode": "NURS 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course facilitates the completion of a professional portfolio for the post-licensure baccalaureate nursing student. Emphasis is on advanced professional communication strategies and reflective processes for professional role expansion and development. For registered nurse students only. NURS 403 may only be taken in the final semester of the nursing curriculum.",
+        "Technical and Digital Skills": [
+            "Portfolio creation",
+            "Advanced professional communication strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Reflective dialogue"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Professional role expansion and development",
+            "Reflective processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Portfolio management",
+            "Professional development planning"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Adult Health II",
+        "courseCode": "NURS 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This lecture course focuses on the adult experiencing multisystem alterations/adaptations. Emphasis is on the use of the nursing process to assist adult clients to adapt to multisystem alterations/adaptations related insults.",
+        "Technical and Digital Skills": [
+            "Nursing process application",
+            "Multisystem alterations/adaptations understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with adult clients",
+            "Empathetic patient interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and management of multisystem alterations/adaptations",
+            "Critical thinking in nursing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Nursing care planning and organization",
+            "Leadership in patient care"
+        ]
+    },
+    {
+        "courseTitle": "Ethics, Law, Economics & Health Policy: Application to Quality Nursing Practice",
+        "courseCode": "NURS 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines ethics, law, economics and health policy that influence nursing practice, the health care system, and quality patient care.",
+        "Technical and Digital Skills": [
+            "Understanding of health care systems",
+            "Knowledge of health policy",
+            "Understanding of legal aspects in nursing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical decision-making in nursing",
+            "Communicating health policies",
+            "Patient care communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of economic factors influencing nursing practice",
+            "Ethical problem solving",
+            "Analysis of legal issues in nursing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in nursing",
+            "Management of health care policies",
+            "Organizing patient care based on ethical, legal, and economic considerations"
+        ]
+    },
+    {
+        "courseTitle": "Nursing Informatics",
+        "courseCode": "NURS 417",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on information management and the utilization of patient care technologies to improve the patient experience of care (quality, satisfaction, safety), improve the health of populations, and reduce cost. Students will develop knowledge, skills and attitudes related to nursing informatics through readings, online discussions, case studies and exploration and use of electronic modalities.",
+        "Technical and Digital Skills": [
+            "Information management",
+            "Utilization of patient care technologies",
+            "Use of electronic modalities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Online discussions",
+            "Case study presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quality, satisfaction, safety improvement strategies",
+            "Cost reduction strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient experience",
+            "Healthcare population management"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Clinical Management of Children of the Family",
+        "courseCode": "NURS 421",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course emphasizes the provision of nursing care to infants and children suffering from acute and chronic illnesses. Through the use of the nursing process, students provide and coordinate care, serving as client advocates. Students are expected to demonstrate responsibility for personal actions related to the practice of nursing.",
+        "Technical and Digital Skills": [
+            "Provision of nursing care to infants and children",
+            "Use of nursing process in care coordination",
+            "Understanding of acute and chronic illnesses in children"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client advocacy",
+            "Effective communication with patients and their families",
+            "Collaboration with medical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health conditions",
+            "Developing and implementing nursing care plans",
+            "Assessing effects of acute and chronic illnesses on a child's health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Responsibility for personal actions in nursing practice",
+            "Coordination of patient care",
+            "Decision making in critical situations"
+        ]
+    },
+    {
+        "courseTitle": "Heath Continuum: Children of the Family",
+        "courseCode": "NURS 422",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This lecture course provides a basis for understanding the nursing care of children of various ages. Emphasis is on the use of the nursing process to assist children as they encounter acute and chronic illnesses. The nurse's communication with and education of the family and child as individuals or as part of a group are discussed as a means of achieving the goal of comprehensive individualized child care in the home and health care settings.",
+        "Technical and Digital Skills": [
+            "Nursing process application",
+            "Acute and chronic illness management",
+            "Child care in healthcare settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with children and families",
+            "Patient education",
+            "Group discussion leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing children's health problems",
+            "Adapting care strategies to individual child's needs",
+            "Analyzing the impact of illnesses on children"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating comprehensive child care",
+            "Leading patient and family education initiatives",
+            "Managing individualized child care plans"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Contemporary Issues in Nursing Care of the Older Adult",
+        "courseCode": "NURS 430/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the nursing needs of the well gerontological client. Emphasis is on the multi-complex needs of the older adult.",
+        "Technical and Digital Skills": [
+            "Geriatric nursing techniques",
+            "Patient record management",
+            "Use of digital medical equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication",
+            "Cultural sensitivity in geriatric care",
+            "Collaboration with multidisciplinary healthcare teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of geriatric health needs",
+            "Adapting care plans for complex needs",
+            "Critical evaluation of patient status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of geriatric care",
+            "Leadership in a healthcare setting",
+            "Time management in nursing"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum Recovery",
+        "courseCode": "NURS 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the theoretical and applied concepts necessary to assist individuals with potential or actual disabilities prevent further functional dependence or restore maximum levels of function.",
+        "Technical and Digital Skills": [
+            "Understanding of theoretical concepts related to disability prevention and recovery",
+            "Applied knowledge of functional restoration techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate effectively with individuals with potential or actual disabilities",
+            "Empathy and understanding towards individuals with disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to assess the level of functional dependence",
+            "Analytical skills to devise recovery plans for maximum restoration of function"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to organize and manage recovery plans",
+            "Leadership skills to guide individuals through their recovery process"
+        ]
+    },
+    {
+        "courseTitle": "Heath Continuum: Clinical Management of Recovery",
+        "courseCode": "NURS 441",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course focuses on using the nursing process to assist the recovery of individuals with disabilities prevent further functional dependence or restore maximum levels of function. Collaborative team approaches are stressed.",
+        "Technical and Digital Skills": [
+            "Nursing techniques",
+            "Use of medical software",
+            "Understanding of disability-related medical issues",
+            "Clinical management techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative team approaches",
+            "Effective communication with patients",
+            "Interdisciplinary coordination",
+            "Empathy and sensitivity towards disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient recovery progress",
+            "Problem-solving for patient recovery",
+            "Adaptation of recovery plans based on patient response"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of patient care",
+            "Leadership in a medical team",
+            "Organizing recovery plans"
+        ]
+    },
+    {
+        "courseTitle": "Health Continuum: Clinical Management Adult Health Nursing II",
+        "courseCode": "NURS 453",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course emphasizes the provision of nursing care to clients who are experiencing alterations/adaptations in organ system functions. Through the use of the nursing process, students will provide and coordinate care and serve as client advocates in a variety of settings.",
+        "Technical and Digital Skills": [
+            "Clinical nursing techniques",
+            "Utilization of healthcare technology",
+            "Management of organ system adaptations",
+            "Healthcare system navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient advocacy",
+            "Coordination of multidisciplinary care",
+            "Effective communication with patients and healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment and interpretation of organ system function alterations",
+            "Strategic problem-solving in healthcare settings",
+            "Clinical decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient care plans",
+            "Leadership in healthcare settings",
+            "Organizing and prioritizing patient needs"
+        ]
+    },
+    {
+        "courseTitle": "Critical Care Nursing",
+        "courseCode": "NURS 454",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This elective clinical and didactic course is designed for final semester pre-licensure students who are requesting adult critical care (CC) or emergency department (ED) Role Transition preceptorship placement.",
+        "Technical and Digital Skills": [
+            "Knowledge in adult critical care procedures",
+            "Emergency department operations",
+            "Understanding of pre-licensure medical protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Collaboration with medical staff",
+            "Handling critical care situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical patient evaluation",
+            "Emergency problem-solving",
+            "Critical decision making under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing emergency department operations",
+            "Leading a critical care team",
+            "Organizing patient care plans"
+        ]
+    },
+    {
+        "courseTitle": "Genetics in Nursing",
+        "courseCode": "NURS 455",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasis is placed on current information & research findings about the role of genetics in health. Students completing this course will be better prepared to incorporate genetic information and technology when providing care to clients. A student receiving credit for NURS 355 cannot receive credit for NURS 455.",
+        "Technical and Digital Skills": [
+            "Understanding and application of genetic information",
+            "Utilization of genetic technology in patient care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating genetic information to clients",
+            "Assessing patients' genetic health conditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic research findings",
+            "Integrating genetic information into patient care plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Keeping up-to-date with current genetic health information",
+            "Coordinating genetic technology in nursing practice"
+        ]
+    },
+    {
+        "courseTitle": "Global Health Perspectives",
+        "courseCode": "NURS 456",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This introductory course to global health emphasizes the major underlying determinants of poor health and the relationship between health and political, social, and economic development. Students will be introduced to. global effects on the health of populations worldwide, current and future challenges to global health and the role of primary health care providers in meeting that challenge. (A student receiving credit for NURS 456 cannot receive credit for NURS 356.)",
+        "Technical and Digital Skills": [
+            "Understanding of global health determinants",
+            "Knowledge of the health effects of political, social, and economic development",
+            "Understanding of role of primary health care providers in global health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate global health issues effectively",
+            "Understanding and respecting cultural perspectives in global health"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health effects on populations worldwide",
+            "Ability to identify and address future challenges to global health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and organizing health initiatives in a global context",
+            "Strategic planning for global health issues"
+        ]
+    },
+    {
+        "courseTitle": "Palliative Care",
+        "courseCode": "NURS 457",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of the need to improve end of life care and the role of nursing as a member of the interdisciplinary team in providing quality care. Basic principles of palliative care are presented within a quality of life (QOL) framework. Palliative care nursing care combines caring, communication, knowledge, and skill. Clinical issues to include expert assessment skills and aggressive pain and symptom management as well as the psychological, social, and spiritual care of patients and families experiencing a life threatening progressive illness will be discussed. Caring for the dying means not only \"doing for\" but also \"being with\". Students will be provided the opportunity to use introspection to clarify their own feelings related to the dying process. A student receiving credit for NURS 357 cannot receive credit for NURS 457.",
+        "Technical and Digital Skills": [
+            "Expert assessment skills",
+            "Aggressive pain and symptom management",
+            "Quality of life framework understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and families",
+            "Empathetic care of patients",
+            "Teamwork within interdisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing patients' needs",
+            "Managing complex emotional and physical symptoms",
+            "Addressing psychological, social, and spiritual concerns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating palliative care within a team",
+            "Balancing care tasks and emotional support",
+            "Understanding and navigating the dying process"
+        ]
+    },
+    {
+        "courseTitle": "Studies in Professional Nursing",
+        "courseCode": "NURS 458",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of selected topics in professional nursing practice; designed to provide an in-depth exploration of current nursing issues.",
+        "Technical and Digital Skills": [
+            "Medical software application",
+            "Digital patient record management",
+            "Understanding of healthcare technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration",
+            "Cultural competence in nursing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision-making",
+            "Critical evaluation of nursing issues",
+            "Application of evidence-based practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Nursing workflow optimization",
+            "Leadership in nursing practice",
+            "Healthcare policy advocacy"
+        ]
+    },
+    {
+        "courseTitle": "Concepts in Primary Care",
+        "courseCode": "NURS 459",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, students learn to improve the health of individuals, families, and communities in primary care settings.  Emphasis is on health education, health promotion and disease prevention, and management of chronic illnesses, especially for underserved populations and veterans.",
+        "Technical and Digital Skills": [
+            "Health education techniques",
+            "Chronic illness management methods",
+            "Health promotion strategies",
+            "Disease prevention tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Cultural competence with underserved populations and veterans",
+            "Health literacy promotion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Community health needs assessment",
+            "Critical evaluation of individual health scenarios",
+            "Development of health improvement strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of health promotion activities",
+            "Leadership in community health initiatives",
+            "Management of primary care settings"
+        ]
+    },
+    {
+        "courseTitle": "Nursing in the Health Care System Community I",
+        "courseCode": "NURS 462",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on family and community health nursing. Content emphasizes concepts and themes of families and communities and the use of the nursing process to assist in promoting and maintaining health. Application of course concepts through experience and interactions with health care coalition groups is emphasized.",
+        "Technical and Digital Skills": [
+            "Application of nursing process",
+            "Healthcare system navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interactions with health care coalition groups",
+            "Family and community engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Promotion and maintenance of health",
+            "Identification of community health needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination with healthcare coalitions",
+            "Community health leadership"
+        ]
+    },
+    {
+        "courseTitle": "Nursing in the Health Care System: Community Interactions I",
+        "courseCode": "NURS 463",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This clinical course provides opportunity for application of concepts and themes of families and communities through experience and interactions with health care coalition groups.",
+        "Technical and Digital Skills": [
+            "Medical record management",
+            "Health care system navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Collaboration with health care coalition groups",
+            "Family interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient care planning",
+            "Community health needs assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health care coalition group coordination",
+            "Patient case management"
+        ]
+    },
+    {
+        "courseTitle": "Nursing in the Health Care System: Community II",
+        "courseCode": "NURS 472",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the continued development of concepts related to family and community health nursing. Content emphasizes development of strategies to facilitate application of concepts and themes of families and communities. The nursing process is used to assist in promoting and maintaining health.",
+        "Technical and Digital Skills": [
+            "Application of nursing processes",
+            "Utilizing healthcare technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with families and communities",
+            "Cultural sensitivity in healthcare"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic development for community health",
+            "Health promotion and maintenance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in nursing",
+            "Organization of healthcare strategies"
+        ]
+    },
+    {
+        "courseTitle": "Nursing in the Health Care System: Community Interactions II",
+        "courseCode": "NURS 473",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application of course concepts through experience and interactions with healthcare coalition groups are emphasized.",
+        "Technical and Digital Skills": [
+            "Data recording and analysis",
+            "Understanding of healthcare systems",
+            "Use of healthcare specific software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with various healthcare coalition groups",
+            "Conveying medical information to non-medical personnel"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of healthcare trends and patterns",
+            "Problem-solving in a health care context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination within healthcare coalition groups",
+            "Leadership in a healthcare setting"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Pharmacology for Nursing Practice II",
+        "courseCode": "NURS 474",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to involve nursing students in the practical application of the nursing process in clinical pharmacotherapeutics related to selected concepts.",
+        "Technical and Digital Skills": [
+            "Pharmacotherapeutic practices",
+            "Practical application of nursing process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration in healthcare"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient medication needs",
+            "Determining appropriate pharmacotherapeutic interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient medication schedules",
+            "Leadership in clinical settings"
+        ]
+    },
+    {
+        "courseTitle": "Nursing in the Health Care System: Leadership",
+        "courseCode": "NURS 480W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on utilization of strategies from leadership, management systems and change theories to facilitate professional nursing practice. Emphasis is placed on the professional nurse as a leader in the health care system. The influence of organizational behavior, professional image and case management on nursing practice is examined. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Case management systems",
+            "Writing professional documents"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Interpersonal relations in a healthcare setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning and analysis",
+            "Change management",
+            "Application of management theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare",
+            "Understanding and influencing organizational behavior",
+            "Professional image building",
+            "Facilitation of professional nursing practice"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Role Transition",
+        "courseCode": "NURS 481",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This capstone course is a practicum experience in which students apply theoretical, conceptual and psychomotor learning in a structured clinical environment under the supervision of a staff preceptor. The experience is designed to assist the student to facilitate the transition to the role of the baccalaureate generalist nurse.",
+        "Technical and Digital Skills": [
+            "Clinical practice application",
+            "Implementing theoretical and conceptual learnings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with clinical staff",
+            "Collaboration with clinical preceptor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of psychomotor learning",
+            "Adapting to structured clinical environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing transition to baccalaureate generalist nurse role",
+            "Supervised practice leadership"
+        ]
+    },
+    {
+        "courseTitle": "Nursing Leadership",
+        "courseCode": "NURS 490W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on utilization of strategies from leadership, management, systems and change theories to facilitate professional nursing practice.  Emphasis is placed on the professional nurse as a leader in the health care system.  The influence of organizational behavior, proactive political action, professional image and case management on nursing practice is examined.  For registered nurse students only.   This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Professional nursing practice",
+            "Case management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Proactive political action",
+            "Professional image representation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategies from leadership, management, systems and change theories",
+            "Analysis of organizational behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Facilitation of professional nursing practice",
+            "Leadership in the health care system"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Practice: Role Transition",
+        "courseCode": "NURS 491",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This capstone course is a practicum experience in which students apply theoretical, conceptual and psychomotor learning in a structured clinical environment under the supervision of a staff preceptor. The experience is designed to assist the student to facilitate the transition to the role of the baccalaureate generalist nurse.",
+        "Technical and Digital Skills": [
+            "Application of theoretical and conceptual nursing knowledge",
+            "Practical utilization of psychomotor learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with staff preceptor",
+            "Interpersonal relations in a structured clinical environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration and application of learned concepts in practice situations",
+            "Analyzing clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Facilitating transition to the role of a baccalaureate generalist nurse",
+            "Adapting to a structured clinical environment"
+        ]
+    },
+    {
+        "courseTitle": "Community Health Nursing",
+        "courseCode": "NURS 492",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on professional nursing practice with families and communities as clients.  Emphasis is on community wellness, interaction with political influences and epidemiological principles.  For registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Understanding of epidemiological principles",
+            "Knowledge of community wellness measures",
+            "Familiarity with political influences on health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with families and communities",
+            "Collaboration with various political bodies",
+            "Patient education and counseling"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying community health needs",
+            "Evaluating effectiveness of wellness programs",
+            "Analysis of epidemiological data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading community health initiatives",
+            "Organizing community wellness programs",
+            "Managing interactions with political influences"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Nursing",
+        "courseCode": "NURS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of selected topics that may not be offered regularly.  Special topics will appear in the schedule of classes each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts II",
+        "courseCode": "NURS 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced placement credit is awarded to the registered nurse who has demonstrated knowledge of selected complex nursing concepts for the provision of nursing care to individuals and families experiencing health deviations. Awarded upon completion of 26 credits in the major.  For registered nurse students only.",
+        "Technical and Digital Skills": [
+            "Knowledge of complex nursing concepts",
+            "Provision of nursing care for health deviations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with individuals and families experiencing health deviations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and understanding of health deviations",
+            "Identification and application of appropriate nursing care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in nursing care provision",
+            "Organization and execution of nursing care plans"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nursing Concepts III",
+        "courseCode": "NURS 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an advanced placement course for registered nurse students. After verification of registered nurse licensure, the student will be awarded 33 experiential learning credits.",
+        "Technical and Digital Skills": [
+            "Clinical nursing techniques",
+            "Use of medical digital tools and software",
+            "Understanding of experiential learning credits"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient diagnosis",
+            "Treatment planning",
+            "Evaluation of patient progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare management",
+            "Nursing leadership",
+            "Compliance with medical regulations"
+        ]
+    },
+    {
+        "courseCode": "NURS 530",
+        "courseTitle": "Principles of Practice: Contemporary Issues in Nursing Care of the Older Adult",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the nursing needs of the well gerontological client. Emphasis is on the multi-complex needs of the older adult.",
+        "Technical and Digital Skills": [
+            "Understanding gerontological nursing needs",
+            "Knowledge of multi-complex needs of older adults"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication with older adults",
+            "Effective collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying complex health issues",
+            "Developing personalized care plans for older adults"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating care for older adults",
+            "Leading geriatric care teams"
+        ]
+    },
+    {
+        "courseCode": "NURS 595",
+        "courseTitle": "Topics in Nursing",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of selected topics that may  not be offered regularly.  Special topics will appear in the schedule of classes each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication",
+            "Coordinating with healthcare teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of patient symptoms",
+            "Implementing appropriate nursing interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in patient care",
+            "Leading patient care team meetings"
+        ]
+    },
+    {
+        "courseCode": "NURS 650",
+        "courseTitle": "Shenandoah University Midwifery Courses",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides for the award of credit for selected courses taken at Shenandoah University in fulfillment of Midwifery program requirements: NM 610, NM 620, NMLB 630, NM 640, NMLB 651, NM 652, and NM 660.",
+        "Technical and Digital Skills": [
+            "Medical charting and documentation",
+            "Understanding of midwifery procedures and techniques",
+            "Knowledge of prenatal, antenatal and postnatal care",
+            "Familiarity with medical tools and equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with patients",
+            "Collaborating with healthcare professionals",
+            "Providing emotional support and counseling to patients",
+            "Explaining complex medical terms in an understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of patient's health condition",
+            "Decision-making under pressure",
+            "Analyzing medical test results",
+            "Identifying and managing complications during childbirth"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Leading a team of healthcare professionals",
+            "Organizing and coordinating patient appointments",
+            "Adherence to healthcare laws and regulations"
+        ]
+    },
+    {
+        "courseCode": "NURS 651",
+        "courseTitle": "Shenandoah University Psychiatric Mental Health Courses",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides for the award of credit for selected courses taken at Shenandoah University in fulfillment of the Psychiatric Mental Health Nurse Practitioner program requirements: NP 525,PMH 635, PMH 680,PMH 640, PMH 685, PMH 660, HP 576, PMH 695.",
+        "Technical and Digital Skills": [
+            "Knowledge in psychiatric mental health nursing",
+            "Understanding of medical terminologies",
+            "Clinical assessment skills",
+            "Patient care management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient counseling",
+            "Communication with healthcare professionals",
+            "Empathy and active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of mental health disorders",
+            "Treatment planning",
+            "Critical evaluation of patient's mental health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Caseload management",
+            "Leadership in mental health nursing",
+            "Healthcare team coordination"
+        ]
+    },
+    {
+        "courseCode": "NURS 654",
+        "courseTitle": "Assessment and Evaluation in Nursing Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course concentrates on strategies to measure and improve nursing student performance in the classroom, as well as enhance course and program effectiveness.  Emphasis is on the selection of instruments, data collection methods and reporting procedures to guide assessment and evaluation processes that are appropriate for what is being examined.",
+        "Technical and Digital Skills": [
+            "Selection of assessment instruments",
+            "Data collection methods",
+            "Reporting procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating assessment results",
+            "Collaborating in educational settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Choosing appropriate evaluation processes",
+            "Improving student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Course effectiveness enhancement",
+            "Program effectiveness enhancement"
+        ]
+    },
+    {
+        "courseCode": "NURS 676",
+        "courseTitle": "Professional, Ethical and Legal Concepts of Nursing Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to prepare students for the role of educator in higher education environments. Emphasis is on the identification of functions, rights, and responsibilities of nursing faculty in relation to students, colleagues, administrators, the institution, community, and profession.",
+        "Technical and Digital Skills": [
+            "Knowledge of nursing education practices",
+            "Understanding of higher education environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Maintaining professional relationships with students, colleagues, and administrators",
+            "Effective communication with diverse groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of roles and responsibilities in nursing faculty",
+            "Understanding of nursing ethics and legalities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to balance multiple roles",
+            "Leadership in nursing education",
+            "Community engagement"
+        ]
+    },
+    {
+        "courseCode": "NURS 699",
+        "courseTitle": "Thesis/Research Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Thesis/research project completion.  Variable credit to be determined by research advisor. May be repeated as needed.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Academic writing",
+            "Referencing and citation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with research advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Critical thinking",
+            "Analytical reasoning",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project planning and execution",
+            "Self-motivation",
+            "Independent working"
+        ]
+    },
+    {
+        "courseCode": "NURS 705",
+        "courseTitle": "Primary Care Approaches for Children",
+        "academicLevel": "graduate",
+        "courseDescription": "This course for the family nurse practitioner focuses upon primary health care problems in the pediatric population.  Emphasis is placed upon assessment and management of healthy and ill children.",
+        "Technical and Digital Skills": [
+            "Pediatric health assessment",
+            "Pediatric disease management",
+            "Utilization of health care technology in pediatrics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with children",
+            "Communicating health issues with parents"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of pediatric health problems",
+            "Evaluation of child's health status",
+            "Formulation of effective management plans for pediatric patients"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating with pediatric health care team",
+            "Leading the pediatric patient care",
+            "Organization of pediatric health care plans"
+        ]
+    },
+    {
+        "courseCode": "NURS 707",
+        "courseTitle": "Informatics and Healthcare Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover the use of data in health care as well as other informatics applications. Students will explore healthcare technology used to improve the delivery and evaluation of care.",
+        "Technical and Digital Skills": [
+            "Healthcare technology operation",
+            "Data analysis",
+            "Informatics application operation",
+            "Evaluation of healthcare technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technology benefits",
+            "Collaboration in healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare data",
+            "Problem-solving with healthcare technology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and interpreting healthcare data",
+            "Leading technology implementation in healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 709",
+        "courseTitle": "Evidence-Based Research for Nursing Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the development of advanced nursing knowledge related to the utilization of evidence-based research for best practice. Emphasis is placed on the evaluation and application of research and evidence for use in advanced practice including models, concepts, and theories as a supporting framework for research.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Evidence-based practice application",
+            "Understanding of nursing models, concepts, and theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Translating research into practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research and evidence",
+            "Application of research to solve nursing practice issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading evidence-based practice implementation",
+            "Organizing and managing research information"
+        ]
+    },
+    {
+        "courseCode": "NURS 713",
+        "courseTitle": "Telehealth for Providers",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the student involved in healthcare or healthcare supportive roles with knowledge and skills to become actively involved in the implementation and delivery of telehealth services.",
+        "Technical and Digital Skills": [
+            "Understanding of telehealth systems",
+            "Knowledge of digital healthcare delivery",
+            "Familiarity with healthcare software",
+            "Data privacy and security in telehealth"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective virtual communication with patients",
+            "Interdisciplinary collaboration in a digital environment",
+            "Cultural competence in telehealth"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing telehealth data",
+            "Problem-solving in telehealth context",
+            "Identifying and addressing technical issues in telehealth"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing telehealth services",
+            "Leading digital transformation in healthcare",
+            "Coordinating telehealth service delivery"
+        ]
+    },
+    {
+        "courseCode": "NURS 714",
+        "courseTitle": "Competitive Resource Design and Utilization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the competitive design and utilization of organizational and human resources. Emphasis will be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes. The course will cover the business models for effective financial and personnel management of healthcare organizations. Analysis of the costs and quality of care will be performed.",
+        "Technical and Digital Skills": [
+            "Business model analysis",
+            "Financial management techniques",
+            "Personnel management strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a healthcare setting",
+            "Collaboration with multidisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic process planning",
+            "Cost and quality of care analysis",
+            "Resource utilization evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational resource design",
+            "Leadership in healthcare settings",
+            "Strategic decision-making"
+        ]
+    },
+    {
+        "courseCode": "NURS 715",
+        "courseTitle": "Ethical Concepts of Advanced Practice Nursing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide students with core ethical knowledge necessary to describe and analyze ethical concepts foundational to the advanced practice nursing role. Students will develop and evaluate strategies, including ethical decision making frameworks, to address ethical dilemmas inherent in patient care, health organizations and research.",
+        "Technical and Digital Skills": [
+            "Understanding and application of ethical decision making frameworks",
+            "Analysis of ethical concepts in nursing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of ethical dilemmas",
+            "Effective conveyance of ethical strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing ethical dilemmas in patient care",
+            "Evaluating strategies to handle ethical issues",
+            "Critical analysis of ethical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in ethical decision making",
+            "Organization of ethical concepts in healthcare",
+            "Dealing with ethical issues in health organizations"
+        ]
+    },
+    {
+        "courseCode": "NURS 717",
+        "courseTitle": "Strategic Leadership Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "This practicum course emphasizes the advanced practice nurse's role in strategic planning and program development.  Students enrolled in this advanced practice course will participate in clinical practice experiences in a chosen focus area. This course is designed to provide students with experiences in applying the knowledge acquired in Strategic Leadership.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Collaborative strategic planning",
+            "Effective communication within a clinical practice setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic problem solving",
+            "Analyzing program development needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Program development",
+            "Leadership within a clinical practice setting"
+        ]
+    },
+    {
+        "courseCode": "NURS 718",
+        "courseTitle": "Practicum Immersion for Novice Nurse Executives",
+        "academicLevel": "graduate",
+        "courseDescription": "This practicum course serves as a bridge between the roles of nurse administrators and nurse executives. Targeted practicum experiences will enable the nurse administrator to examine the role of the nurse executive related to implementation of change, meeting strategic initiatives, program evaluation, and outcome management in a chosen focus area. Application of futuristic and visionary theory to health care system trends is explored to provide optimal strategic positioning in the future healthcare market.",
+        "Technical and Digital Skills": [
+            "Implementation of change in healthcare settings",
+            "Outcome management in a chosen focus area"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of strategic initiatives",
+            "Collaboration with healthcare team for program evaluation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of healthcare system trends",
+            "Evaluation of strategic initiatives and programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic positioning in the healthcare market",
+            "Application of futuristic and visionary theory to healthcare systems"
+        ]
+    },
+    {
+        "courseCode": "NURS 719",
+        "courseTitle": "Family and Community Primary Care Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with the opportunity to develop advanced practice skills for assessing families and family members across the life span and throughout generations. This course will focus on theoretical, research and practice foundations used to develop strategies to maximize safe, comprehensive, and holistic care given by the advanced practice nurse.",
+        "Technical and Digital Skills": [
+            "Advanced practice skills for family assessment",
+            "Developing strategies for comprehensive care",
+            "Implementing research and practice foundations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with families across the lifespan",
+            "Collaborating with family members throughout generations",
+            "Ensuring safe and holistic care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing families and family members",
+            "Analyzing theoretical foundations",
+            "Solving problems related to family and community primary care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading advanced practice nursing",
+            "Organizing patient care strategies",
+            "Coordinating comprehensive and holistic care"
+        ]
+    },
+    {
+        "courseCode": "NURS 720",
+        "courseTitle": "Instructional Delivery Methods & Learner Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "The enhancement of nursing education through an array of instructional delivery methods based on reports of best practices, research findings, instructional-related theories, and learning-related theories is examined. Emphasis is on identifying ways to blend traditional teaching strategies for classroom and clinical instruction with technology-based instruction utilizing a variety of resources and models.",
+        "Technical and Digital Skills": [
+            "Blending traditional teaching strategies with technology-based instruction",
+            "Utilizing a variety of resources and models for instruction",
+            "Understanding research findings and instructional-related theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of instructional methods",
+            "Adapting teaching strategies based on learner feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of various teaching strategies",
+            "Identifying best practices in instructional delivery methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading classroom and clinical instruction",
+            "Strategic planning of instructional delivery methods"
+        ]
+    },
+    {
+        "courseCode": "NURS 721",
+        "courseTitle": "Aging in the 21st Century",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explains the history of the specialty of geriatrics, the social impact, health maintenance goals and physical changes associated with aging. The role of interprofessional teams in meeting the needs of the aging population will be explored.",
+        "Technical and Digital Skills": [
+            "Knowledge of geriatric health maintenance",
+            "Understanding physical changes associated with aging"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration within interprofessional teams",
+            "Effective communication with the aging population"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and addressing the social impact of aging",
+            "Assessing the needs of the aging population"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interprofessional teams",
+            "Coordinating care for the aging population"
+        ]
+    },
+    {
+        "courseCode": "NURS 722",
+        "courseTitle": "Psychiatric Assessment and Differential Diagnosis",
+        "academicLevel": "graduate",
+        "courseDescription": "This didactic course will introduce students to the process of history-taking and assessment of psychiatric mental health problems in the diagnosis of children through older adults and the process of using data from the patient’s history and assessment to formulate a differential diagnosis. Cultural, genetic, religious, behavioral, educational, physical, and laboratory data will be utilized in the formulation of differential diagnoses.",
+        "Technical and Digital Skills": [
+            "History-taking in psychiatric assessment",
+            "Utilization of cultural, genetic, religious, behavioral, educational, physical, and laboratory data for differential diagnosis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication for history-taking",
+            "Cultural sensitivity in psychiatric assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Formulating differential diagnoses",
+            "Data analysis for differential diagnosis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURS 725",
+        "courseTitle": "Psychopharmacology and Neurobiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the psychopharmacology of medications used to treat mental health disorders. It will also examine basic neurobiology and evaluate the intrinsic and extrinsic factors associated with the development of mental health disorders.",
+        "Technical and Digital Skills": [
+            "Understanding of psychopharmacology",
+            "Basic knowledge in neurobiology",
+            "Ability to identify and understand different medications used to treat mental health disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex pharmacological concepts",
+            "Articulating the roles of intrinsic and extrinsic factors in mental health disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of intrinsic and extrinsic factors associated with mental health disorders",
+            "Analytical understanding of the impact of medications on mental health disorders"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "NURS 726",
+        "courseTitle": "Managing Psychiatric Disorders Across the Lifespan",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to gain knowledge of the management of mental health conditions across the lifespan, including child, adolescent, adult and older adult. Disparities across populations will be a component of the course. Culturally-centered, collaborative care will be emphasized in the preventive care and management of mental health disorders.",
+        "Technical and Digital Skills": [
+            "Knowledge in managing mental health conditions across the lifespan",
+            "Understanding of cultural disparities in mental health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Culturally-centered care",
+            "Collaborative care in mental health",
+            "Effective communication with different age groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and managing mental health disparities",
+            "Preventive care strategies for mental health disorders",
+            "Analyzing mental health conditions in different life stages"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in collaborative care",
+            "Organizing mental health care for different age groups",
+            "Guidance and leadership in preventive care"
+        ]
+    },
+    {
+        "courseCode": "NURS 727",
+        "courseTitle": "Psychiatric Mental Health Nurse Practitioner Practicum I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity for students to work in various psychiatric mental health environments focusing on a diverse population. The course will offer the opportunity to work with clinical mentors in their own communities. The time in these settings will allow students to begin their diagnosis and selection of appropriate treatment strategies, including medications and therapy, for individuals, families and groups with a wide variety of psychiatric mental health concerns.",
+        "Technical and Digital Skills": [
+            "Diagnosis of psychiatric mental health concerns",
+            "Selection of appropriate treatment strategies",
+            "Administration of medications",
+            "Implementation of therapeutic techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural competence in dealing with diverse populations",
+            "Effective communication with clinical mentors",
+            "Ability to work effectively with individuals, families, and groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient history and symptoms",
+            "Determining appropriate treatment strategies",
+            "Assessment and evaluation of treatment effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient cases",
+            "Coordination with clinical mentors",
+            "Leadership in a healthcare setting"
+        ]
+    },
+    {
+        "courseCode": "NURS 728",
+        "courseTitle": "Psychiatric Mental Health Nurse Practitioner Practicum II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity for students to build on previous clinical course work in various psychiatric mental health environments focusing on a diverse population. The time in these settings will allow students to enhance their diagnosis and selection of appropriate treatment strategies for individuals (child, adolescent, adult and older adult), families, and groups with a wide variety of psychiatric mental health concerns. This course requires 280 clinical hours.",
+        "Technical and Digital Skills": [
+            "Diagnosis of psychiatric mental health concerns",
+            "Selection of appropriate treatment strategies",
+            "Clinical practice in psychiatric mental health environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with individuals of diverse backgrounds",
+            "Building therapeutic relationships with patients",
+            "Interacting collaboratively with families and groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing a wide variety of psychiatric mental health concerns",
+            "Determining appropriate treatment strategies based on individual patient needs",
+            "Problem-solving in diverse psychiatric mental health environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing clinical hours",
+            "Leading therapeutic sessions with individuals, families, and groups",
+            "Navigating various psychiatric mental health environments"
+        ]
+    },
+    {
+        "courseCode": "NURS 730",
+        "courseTitle": "Nursing Curricular Design and Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on factors impacting the development of nursing curricula including theory, professional practice trends, education standards, accreditation guidelines and institutional policy/procedure. Components of curricula are evaluated, and strategies for program evaluation are explored.",
+        "Technical and Digital Skills": [
+            "Curricular design",
+            "Program evaluation",
+            "Understanding of professional practice trends",
+            "Understanding of education standards",
+            "Understanding of accreditation guidelines",
+            "Understanding of institutional policy/procedure"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of evaluation results",
+            "Collaboration in curricular design",
+            "Communication of professional practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of curricular components",
+            "Analysis of professional practice trends",
+            "Analysis of education standards",
+            "Analysis of accreditation guidelines",
+            "Analysis of institutional policy/procedure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in curricular design",
+            "Leadership in program evaluation",
+            "Strategic planning for program evaluation"
+        ]
+    },
+    {
+        "courseCode": "NURS 731",
+        "courseTitle": "Newborn Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops the students’ ability to evaluate the maternal health record and assess and manage normal newborns. This is taken before the neonatal management courses and will provide a theoretical and practical knowledge for newborn assessment for the neonatal nurse practitioner to manage the health care needs of the normal newborn at the highest level of nursing practice.",
+        "Technical and Digital Skills": [
+            "Evaluation of maternal health records",
+            "Newborn assessment",
+            "Management of normal newborns",
+            "Neonatal nursing practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with patients and their families",
+            "Collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis based on newborn assessment",
+            "Healthcare management for newborns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritization of healthcare needs",
+            "Leadership in neonatal nursing"
+        ]
+    },
+    {
+        "courseCode": "NURS 734",
+        "courseTitle": "Educator Internship: Classroom Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "This internship course is designed to provide the student with experience facilitating classroom instruction in an entry level nursing program.",
+        "Technical and Digital Skills": [
+            "Facilitating classroom instruction",
+            "Basic understanding of nursing program curriculum"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Active listening",
+            "Empathy",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods based on student needs",
+            "Problem-solving in a classroom setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leadership in an educational setting",
+            "Organizing and planning lessons"
+        ]
+    },
+    {
+        "courseCode": "NURS 736",
+        "courseTitle": "Managing Psychiatric Disorders in Specific Populations: The Adult/Geriatric Patient",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to gain knowledge of the management of mental health conditions with the adult and geriatric patient populations. Disparities across the two populations will be a component of the course. Culturally centered, collaborative care will be emphasized in the preventive care and management of mental health disorders.  Appropriate care in a variety of treatment settings (inpatient, intensive outpatient, outpatient, forensic, long-term care) will be examined as well as legal ramifications for the PMHNP in treating this patient population.",
+        "Technical and Digital Skills": [
+            "Knowledge of mental health conditions management",
+            "Understanding of adult and geriatric mental health disparities",
+            "Appropriate care delivery in various treatment settings",
+            "Understanding legal ramifications for PMHNP"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Culturally centered care communication",
+            "Collaborative care for preventive and disorder management",
+            "Effective communication in inpatient, outpatient, intensive outpatient, forensic, long-term care settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of mental health disparities",
+            "Problem-solving in mental health management",
+            "Assessment and analysis of appropriate care in different treatment settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in collaborative care",
+            "Organizing preventive care and disorder management",
+            "Managing legal aspects in PMHNP treatment"
+        ]
+    },
+    {
+        "courseCode": "NURS 739",
+        "courseTitle": "Clinical Nurse Specialist I: Role Socialization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to acquaint the student with the role of the Clinical Nurse Specialist in the practice environment.",
+        "Technical and Digital Skills": [
+            "Clinical nursing procedures",
+            "Medical record management",
+            "Healthcare technology operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration",
+            "Healthcare team coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient care planning",
+            "Clinical decision-making",
+            "Health condition analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical leadership",
+            "Healthcare workflow management",
+            "Patient care coordination"
+        ]
+    },
+    {
+        "courseCode": "NURS 751",
+        "courseTitle": "Developmental Neonatal Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an in-depth examination of human genetics, embryologic development and normal physiologic functioning of developing body systems. Mechanisms involved in cell division, gametogenesis, and inheritance patterns will be addressed. Basic genetics and epigenetics will be included. The structural and functional development of fetal systems, during critical periods, will be emphasized. Abnormalities and alterations in fetal development will be explored.",
+        "Technical and Digital Skills": [
+            "Understanding of human genetics",
+            "Knowledge on embryologic development",
+            "Understanding of physiologic functioning of developing body systems",
+            "Understanding mechanisms involved in cell division",
+            "Understanding gametogenesis",
+            "Understanding inheritance patterns",
+            "Knowledge on basic genetics and epigenetics",
+            "Understanding structural and functional development of fetal systems",
+            "Knowledge on abnormalities and alterations in fetal development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex genetic concepts",
+            "Explaining abnormalities and alterations in fetal development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of genetic and epigenetic data",
+            "Identification and interpretation of abnormalities in fetal development"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "NURS 756",
+        "courseTitle": "Clinical Nurse Specialist II: Transition to Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the graduate student with knowledge necessary for developing Clinical Nurse Specialist practice and leadership skills.",
+        "Technical and Digital Skills": [
+            "Developing nursing practice skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Team communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical patient assessment",
+            "Healthcare decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Nursing leadership",
+            "Healthcare management",
+            "Resource allocation"
+        ]
+    },
+    {
+        "courseCode": "NURS 757",
+        "courseTitle": "Clinical Nurse Specialist Practicum II: Role Transition",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical course focuses on Clinical Nurse Specialist practice.  Concepts presented in the didactic component (NURS 756) will be actualized in the clinical setting.",
+        "Technical and Digital Skills": [
+            "Clinical practice application",
+            "Implementing didactic concepts in a real-world setting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration",
+            "Clinical setting communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem solving",
+            "Application of theoretical knowledge to practical situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical setting management",
+            "Leadership in a clinical environment"
+        ]
+    },
+    {
+        "courseCode": "NURS 758",
+        "courseTitle": "Clinical Nurse Specialist Practicum III: Role Synthesis",
+        "academicLevel": "graduate",
+        "courseDescription": "This capstone course focuses on synthesis and application of key concepts related to the Clinical Nurse Specialist practice.",
+        "Technical and Digital Skills": [
+            "Application of clinical nursing procedures",
+            "Utilization of medical software and technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision-making",
+            "Patient care planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare service coordination",
+            "Nursing team leadership"
+        ]
+    },
+    {
+        "courseCode": "NURS 760",
+        "courseTitle": "Advanced Family Nursing I Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized in the position of health promotion/maintenance strategies and the management of common health problems.",
+        "Technical and Digital Skills": [
+            "Clinical decision-making",
+            "Primary care assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative strategies",
+            "Health promotion communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health problem management",
+            "Evaluation of health promotion/maintenance strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a primary care setting",
+            "Organizing health maintenance strategies"
+        ]
+    },
+    {
+        "courseCode": "NURS 762",
+        "courseTitle": "Advanced Family Nursing I: Management of Acute Illnesses",
+        "academicLevel": "graduate",
+        "courseDescription": "Focus is on acute health problems in the primary care setting, including assessment and management.  Inclusion of geriatric content relating to acute illnesses will be added.",
+        "Technical and Digital Skills": [
+            "Assessment of acute health problems",
+            "Management of acute health problems",
+            "Knowledge of geriatric acute illnesses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication",
+            "Collaborative healthcare provision",
+            "Multidisciplinary coordination in a primary care setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of patient health status",
+            "Analytical skills for diagnosis and treatment selection",
+            "Proactive problem-solving for acute illnesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a primary care setting",
+            "Organization of patient care under acute conditions",
+            "Management of healthcare resources"
+        ]
+    },
+    {
+        "courseCode": "NURS 763",
+        "courseTitle": "Health Promotion and Maintenance",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the nurse practitioner student the opportunity to work with students from other professions as they develop health promotion strategies that consider the expertise of each discipline. Students will incorporate technology in promoting health.",
+        "Technical and Digital Skills": [
+            "Use of technology in health promotion",
+            "Digital health strategy development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional communication",
+            "Health promotion communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health promotion strategy development",
+            "Analyzing interdisciplinary expertise"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in interdisciplinary teams",
+            "Organizing health promotion strategies"
+        ]
+    },
+    {
+        "courseCode": "NURS 764",
+        "courseTitle": "Advanced Family Nursing II Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this clinical course is to prepare the family nurse practitioner student to deliver primary care services to families in which a patient has either acute, women’s health or pediatric care disorders.",
+        "Technical and Digital Skills": [
+            "Primary care service delivery",
+            "Management of acute, women’s health, and pediatric care disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Family health education",
+            "Cultural sensitivity in patient interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of acute, women’s health, and pediatric care disorders",
+            "Treatment planning",
+            "Assessment of patient health status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a clinical setting",
+            "Leadership in family healthcare",
+            "Coordination of family health services"
+        ]
+    },
+    {
+        "courseCode": "NURS 765",
+        "courseTitle": "Advanced Family Nursing II: Management of Chronic Illnesses",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of this course is on the accurate diagnosis and management of chronic health problems within the primary care setting for the family nurse practitioner (FNP).",
+        "Technical and Digital Skills": [
+            "Accurate diagnosis of chronic health problems",
+            "Management of chronic health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient symptoms",
+            "Developing treatment plans for chronic illnesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient case management",
+            "Decision-making in primary care settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 766",
+        "courseTitle": "Primary Care Approaches for Women",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore current clinical concepts related to the care of healthy and pregnant women. Roles and responsibilities of the family nurse practitioner in these sub-specialties will also be discussed.",
+        "Technical and Digital Skills": [
+            "Patient diagnosis",
+            "Clinical procedure",
+            "Understanding of medical terminologies",
+            "Health record management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication and consultation",
+            "Interprofessional collaboration",
+            "Cultural competency in healthcare",
+            "Empathy and compassion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making in healthcare",
+            "Critical thinking in clinical scenarios",
+            "Risk assessment and management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare services coordination",
+            "Team leadership in healthcare settings",
+            "Patient advocacy"
+        ]
+    },
+    {
+        "courseCode": "NURS 767",
+        "courseTitle": "Advanced Family Nursing III Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical emphasizes integration of primary care skills and clinical course decision-making in populations with acute chronic, complex, pediatric or women’s health disorders for family nurse practitioner students.",
+        "Technical and Digital Skills": [
+            "Primary care skills",
+            "Clinical course decision-making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of acute chronic disorders",
+            "Diagnosis of complex health disorders",
+            "Diagnosis of pediatric health disorders",
+            "Diagnosis of women’s health disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care management",
+            "Leading healthcare teams"
+        ]
+    },
+    {
+        "courseCode": "NURS 770",
+        "courseTitle": "Pathophysiology for Advanced Nursing Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explains the pathophysiology of disease as a basis for advanced practice and assessment for prevention and management of health conditions.",
+        "Technical and Digital Skills": [
+            "Understanding of disease pathophysiology",
+            "Advanced practice and assessment techniques",
+            "Health condition management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of health conditions based on pathophysiology",
+            "Prevention strategies for health conditions",
+            "Analyzing health conditions for management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare management",
+            "Leading patient care strategies"
+        ]
+    },
+    {
+        "courseCode": "NURS 771",
+        "courseTitle": "Physical Assessment for Advanced Nursing Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasis is on advanced history taking, physical assessment and interviewing skills for advanced practice nursing. Advanced practice students will participate in lab sessions with experiential activities allowing for the development of physical assessment skills across the lifespan.",
+        "Technical and Digital Skills": [
+            "Advanced history taking",
+            "Physical assessment",
+            "Interviewing techniques for advanced practice nursing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interpersonal skills for patient interviews"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient history",
+            "Evaluating physical assessments",
+            "Developing patient care plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing patient data",
+            "Leading patient assessment sessions"
+        ]
+    },
+    {
+        "courseCode": "NURS 772",
+        "courseTitle": "Foundations of Advanced Neonatal Care",
+        "academicLevel": "graduate",
+        "courseDescription": "The foundations of advanced neonatal care course provides the theoretical and practical knowledge for the neonatal nurse practitioner or physician assistant to manage the health care needs of the neonate in the newborn nursery or level II neonatal intensive care unit.",
+        "Technical and Digital Skills": [
+            "Neonatal health management",
+            "Practical neonatal care techniques",
+            "Use of neonatal intensive care unit equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with healthcare team",
+            "Compassionate communication with family members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis and treatment of neonatal conditions",
+            "Risk assessment in newborns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of neonatal care",
+            "Decision-making in high-stress, critical situations"
+        ]
+    },
+    {
+        "courseCode": "NURS 773",
+        "courseTitle": "Pharmacology for Advanced Neonatal Care",
+        "academicLevel": "graduate",
+        "courseDescription": "The course offers scientific inquiry into the use of pharmacologic agents in the advanced nursing care of infants, including fetal, neonatal life, and early childhood. Pharmacokinetics, pharmacodynamics, drug use in pregnancy and lactation, pharmacologic agents used in disease prevention and treatment, drug monitoring and drug safety in the home are explored.",
+        "Technical and Digital Skills": [
+            "Understanding of pharmacokinetics",
+            "Knowledge of pharmacodynamics",
+            "Familiarity with pharmacologic agents used in disease prevention and treatment",
+            "Comprehension of drug use in pregnancy and lactation",
+            "Adept in drug monitoring and drug safety in the home"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex pharmacological concepts to non-medical family members",
+            "Collaborative work with nursing and medical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and interpret drug effects on infants",
+            "Critical evaluation of drug safety in different scenarios",
+            "Ability to adapt pharmacological treatments according to individual patient's needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of drug administration schedules",
+            "Adherence to safety protocols",
+            "Leading and educating families for safe home drug administration"
+        ]
+    },
+    {
+        "courseCode": "NURS 774",
+        "courseTitle": "Advanced Neonatal Care: High Risk Management I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops the students' ability to manage high-risk neonates. This is the second of three sequential management courses that provide the theoretical and practical knowledge for the neonatal nurse practitioner to manage the health care needs of the neonate at the highest level of nursing practice.",
+        "Technical and Digital Skills": [
+            "Neonatal care techniques",
+            "Management of high-risk neonates",
+            "Practical application of theoretical knowledge in neonatal care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a healthcare setting",
+            "Collaboration with healthcare team in managing neonatal care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of neonate health status",
+            "Risk assessment in neonatal care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare management",
+            "Leadership in nursing practice"
+        ]
+    },
+    {
+        "courseCode": "NURS 775",
+        "courseTitle": "Advanced Neonatal Care: High Risk Management II",
+        "academicLevel": "graduate",
+        "courseDescription": "An organ systems approach is used to explore the diagnosis and management of neonates requiring surgery and advanced technologies. Additional topics will include developmental follow-up of the medically fragile infant and withdrawal of life support in the NICU.",
+        "Technical and Digital Skills": [
+            "Knowledge of advanced neonatal healthcare technologies",
+            "Understanding and application of organ systems approach",
+            "Proficiency in diagnosing neonatal health conditions",
+            "Management of neonates requiring surgery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with parents and families during critical care situations",
+            "Collaboration with multidisciplinary healthcare teams",
+            "Conveying complex medical information to non-medical audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment and management of high risk neonates",
+            "Analyzing developmental follow-up of the medically fragile infant",
+            "Decision making in withdrawal of life support scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating care for medically fragile infants",
+            "Leading critical care teams in the NICU",
+            "Managing complex neonatal health cases"
+        ]
+    },
+    {
+        "courseCode": "NURS 776",
+        "courseTitle": "Advance Neonatal Nursing Practicum I",
+        "academicLevel": "graduate",
+        "courseDescription": "The development of foundational skills associated with the physical assessment and management of the neonate is the focus of this practicum experience.",
+        "Technical and Digital Skills": [
+            "Neonatal physical assessment",
+            "Neonatal management techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Family liaison and consultation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of neonatal conditions",
+            "Critical evaluation of neonatal status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of neonatal care",
+            "Coordination with neonatal care team"
+        ]
+    },
+    {
+        "courseCode": "NURS 778",
+        "courseTitle": "Advanced Neonatal Nursing: Practicum II",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of this course is the accurate diagnosis and management of high risk neonatal clinical problems.",
+        "Technical and Digital Skills": [
+            "Accurate diagnosis of high risk neonatal clinical problems",
+            "Management of high risk neonatal clinical problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and their families",
+            "Collaboration with medical team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of neonatal health conditions",
+            "Adapting treatment strategies based on individual patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritizing patient care in high risk situations",
+            "Leading neonatal emergencies response"
+        ]
+    },
+    {
+        "courseCode": "NURS 779",
+        "courseTitle": "Seminar in Pediatrics: Management of Chronic and Complex Neonatal Clinical Problems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course utilizes a journal club approach and is designed to acquaint the advance practice neonatal nurse with issues associated with the management of chronic and complex clinical problems. Emphasis is on the identification of clinical conditions requiring timely referral for diagnosis and treatment. Topics will include, but are not limited to, genetics and congenital conditions, palliative/end-of-life care and complications of prematurity.",
+        "Technical and Digital Skills": [
+            "Knowledge in genetics and congenital conditions",
+            "Understanding of palliative/end-of-life care",
+            "Insight into complications of prematurity",
+            "Identification of clinical conditions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of complex clinical problems",
+            "Effective referral for diagnosis and treatment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of chronic and complex neonatal clinical problems",
+            "Problem-solving in management of chronic neonatal conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of chronic and complex clinical problems",
+            "Timely decision making for referrals"
+        ]
+    },
+    {
+        "courseCode": "NURS 781",
+        "courseTitle": "Advanced Pediatric Nursing: Practicum I Primary Care",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.",
+        "Technical and Digital Skills": [
+            "Clinical decision-making",
+            "Primary care assessment skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative strategies for health promotion/maintenance",
+            "Effective communication with pediatric patients and their families"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Management of common health problems",
+            "Analyzing patient symptoms and health conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination and management of patient care",
+            "Leadership in a primary care setting"
+        ]
+    },
+    {
+        "courseCode": "NURS 782",
+        "courseTitle": "The Growth and Development of Children in the 21st Century",
+        "academicLevel": "graduate",
+        "courseDescription": "Physical, cognitive, psychosocial, psychosexual, and social-moral growth and development milestones from infancy through adolescence will be explored from a nursing perspective. Emphasis is on the assessment and management of the child within the context of environmental, cultural, and social factors affecting growth and development.",
+        "Technical and Digital Skills": [
+            "Assessment of child development",
+            "Management of child within environmental, cultural, and social contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with children from diverse backgrounds",
+            "Engaging with families and caregivers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing growth and development milestones",
+            "Addressing psychosexual and psychosocial issues",
+            "Understanding and interpreting social-moral growth"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating child care in a nursing context",
+            "Leading child development programs"
+        ]
+    },
+    {
+        "courseCode": "NURS 783",
+        "courseTitle": "Management of Acute Pediatric Conditions I",
+        "academicLevel": "graduate",
+        "courseDescription": "An organ systems approach is used to explore the diagnosis and management of childhood disorders. The actions of the PNP and PEDS CNS and the needs of the child are considered across the continuum of care from urgent/primary care to acute care.",
+        "Technical and Digital Skills": [
+            "Diagnosis of childhood disorders",
+            "Management of childhood disorders",
+            "Understanding of organ systems in pediatrics",
+            "Knowledge of the care continuum from urgent/primary to acute care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing the needs of the child patient",
+            "Communication with other healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of pediatric conditions",
+            "Decision-making in urgent/primary care situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and coordinating care for pediatric patients",
+            "Applying PNP and PEDS CNS actions in patient care"
+        ]
+    },
+    {
+        "courseCode": "NURS 784",
+        "courseTitle": "Advanced Pediatric Nursing: Practicum II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.",
+        "Technical and Digital Skills": [
+            "Clinical decision-making",
+            "Primary care assessment",
+            "Management of common health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative strategies",
+            "Effective communication with pediatric patients and their families"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient health status",
+            "Developing health promotion/maintenance strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating patient care",
+            "Leading healthcare teams in a primary care setting"
+        ]
+    },
+    {
+        "courseCode": "NURS 785",
+        "courseTitle": "Seminar in Pediatrics: Management of Chronic and Complex Clinical Conditions",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores issues associated with the management of chronic and complex clinical conditions for children. Emphasis is on the identification of clinical conditions requiring timely referral for diagnosis and treatment.  Topics will include, but are not limited to genetics, palliative/end-of-life care, and psychiatric/mental issues.",
+        "Technical and Digital Skills": [
+            "Identification of pediatric clinical conditions",
+            "Understanding of genetics in pediatrics",
+            "Knowledge of palliative and end-of-life care",
+            "Understanding of psychiatric and mental issues in children"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and their families",
+            "Collaboration with other healthcare professionals",
+            "Empathy and sensitivity in dealing with pediatric patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Timely referral for diagnosis and treatment",
+            "Critical assessment of complex clinical conditions",
+            "Problem-solving in complex and chronic pediatric conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of chronic and complex clinical conditions",
+            "Decision-making in critical situations",
+            "Leadership in pediatric healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 786",
+        "courseTitle": "Management of Acute/Critical Pediatric Conditions II",
+        "academicLevel": "graduate",
+        "courseDescription": "An organ systems approach is used to explore the diagnosis and management of childhood disorders. The actions of the PNP and the needs of the child are considered across the continuum of care from urgent/primary care to acute /critical care.",
+        "Technical and Digital Skills": [
+            "Diagnosis of childhood disorders",
+            "Management of acute/critical pediatric conditions",
+            "Understanding of organ systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Comprehension of child needs across care continuum",
+            "Effective communication with pediatric patients",
+            "Cooperation with other healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing pediatric patient conditions",
+            "Critical judgement in urgent/primary care",
+            "Solution providing for diverse childhood disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading pediatric patient care",
+            "Organization of care from urgent/primary to acute/critical",
+            "Adapting to rapidly changing medical situations"
+        ]
+    },
+    {
+        "courseCode": "NURS 788",
+        "courseTitle": "Advanced Pediatric Nursing: Practicum III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.",
+        "Technical and Digital Skills": [
+            "Clinical decision-making",
+            "Primary care assessment",
+            "Health promotion strategies",
+            "Management of common health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration strategies",
+            "Patient and family communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health problem diagnosis",
+            "Treatment plan development",
+            "Patient health evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care coordination",
+            "Team collaboration",
+            "Leadership in a primary care setting"
+        ]
+    },
+    {
+        "courseCode": "NURS 789",
+        "courseTitle": "Advanced Neonatal Nursing Practicum III",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of this course is on the accurate diagnosis and management of high risk neonatal clinical problems.",
+        "Technical and Digital Skills": [
+            "Accurate diagnosis of neonatal clinical problems",
+            "Management of high risk neonatal clinical problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with medical team",
+            "Empathetic communication with families"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of neonatal patient condition",
+            "Analytical skills for diagnosing complex neonatal issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective patient management",
+            "Leadership in high-risk neonatal care settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 795",
+        "courseTitle": "Topics in Health Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced student with an opportunity to investigate specific topics of current interest in the health services.",
+        "Technical and Digital Skills": [
+            "Researching health service trends",
+            "Using health informatics tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating health service trends",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of health services",
+            "Identifying health service issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing health service research projects",
+            "Leading health service discussions"
+        ]
+    },
+    {
+        "courseCode": "NURS 797",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is for students completing an independent study or independent clinical hours.",
+        "Technical and Digital Skills": [
+            "Self-guided learning",
+            "Research skills",
+            "Technical application in chosen field"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Self-expression",
+            "Self-reporting",
+            "Communication with mentor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Solution design and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "NURS 798",
+        "courseTitle": "Independent Clinical Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on clinical and/or research-related competencies of graduate nursing students. Students enroll on an as-needed basis as determined by the instructor or student.",
+        "Technical and Digital Skills": [
+            "Clinical research methodologies",
+            "Data collection and management",
+            "Research tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Effective communication with clinical staff and patients",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical data analysis",
+            "Application of nursing theories in practice",
+            "Identification and resolution of clinical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in clinical research",
+            "Supervision and leadership in clinical settings",
+            "Ethical decision-making in nursing practice"
+        ]
+    },
+    {
+        "courseCode": "NURS 800",
+        "courseTitle": "Integrative Concepts for Advanced Nursing Practice Roles",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on four integrative concepts including leadership, advocacy, practice, and translational research. Issues related to planning and providing care related to disparity and issues for vulnerable and underserved populations will be highlighted. The role of epidemiology will be explored.",
+        "Technical and Digital Skills": [
+            "Understanding of epidemiology",
+            "Planning and providing care for disparity-related issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Advocacy for vulnerable and underserved populations",
+            "Communication with diverse population groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health disparity issues",
+            "Conducting translational research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in nursing practice",
+            "Organizing care for vulnerable and underserved populations"
+        ]
+    },
+    {
+        "courseCode": "NURS 801",
+        "courseTitle": "Roles and Responsibilities for Transforming Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on role expectations for advanced practice nurses; the intersection of models of leadership, advocacy, practice and translational research will be emphasized. Personal strategic planning of the students will be addressed as it applies to disparity issues and vulnerable and underserved populations.",
+        "Technical and Digital Skills": [
+            "Translational research",
+            "Personal strategic planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective advocacy",
+            "Communication with underserved populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of disparity issues",
+            "Development and implementation of strategic plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in advanced nursing practice",
+            "Management of role expectations"
+        ]
+    },
+    {
+        "courseCode": "NURS 802",
+        "courseTitle": "The Business of Advanced Nursing Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore the business dimensions of practice including legal, safety, quality and financial. The course will focus on SWOT analysis,developing business plans and community assessments.",
+        "Technical and Digital Skills": [
+            "SWOT analysis",
+            "Business plan development",
+            "Community assessments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of business plans",
+            "Communication of safety and quality standards"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Business problem-solving",
+            "Financial analysis",
+            "Legal analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational safety and quality management",
+            "Leadership in business planning and execution"
+        ]
+    },
+    {
+        "courseCode": "NURS 803",
+        "courseTitle": "Leadership and Interprofessional Practice in Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "This is an interprofessional course that explores organizational and structural opportunities and barriers within healthcare organizations through interprofessional collaboration and teamwork. Ethical issues will be explored. The focus is on the role of the healthcare provider as a leader of their profession within healthcare and on healthcare teams. Emphasis is on meeting the needs of underserved populations.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Teamwork in healthcare settings",
+            "Ethical decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and overcoming barriers within healthcare organizations",
+            "Analyzing needs of underserved populations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare leadership",
+            "Managing healthcare teams",
+            "Understanding and navigating healthcare organization structures"
+        ]
+    },
+    {
+        "courseCode": "NURS 805",
+        "courseTitle": "Application of Practice-Based Research Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the research process used to conduct practice-based research.  It prepares advanced practice nurses to develop, implement, and evaluate programs that focus on improving healthcare outcomes.",
+        "Technical and Digital Skills": [
+            "Conducting practice-based research",
+            "Program development",
+            "Program implementation",
+            "Program evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a healthcare setting",
+            "Collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Data analysis",
+            "Healthcare outcome improvement strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare settings",
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "NURS 806",
+        "courseTitle": "Proposal Development and Database Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This research course is designed to provide the Advanced Practice Nurse and Nurse Executive student with knowledge and skills regarding the design and methodology used to conduct a practice focused research study. Focus will be on human subjects protection, statistical analysis and database management.",
+        "Technical and Digital Skills": [
+            "Database management",
+            "Statistical analysis",
+            "Research design and methodology",
+            "Human subjects protection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying complex research findings",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research problems",
+            "Designing research studies",
+            "Analyzing statistical data",
+            "Ensuring compliance with human subjects protection practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating research processes",
+            "Managing research data",
+            "Leading research teams"
+        ]
+    },
+    {
+        "courseCode": "NURS 807",
+        "courseTitle": "Informatics and Healthcare Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover the use of data in health care as well as other informatics applications.  Students will explore healthcare technology used to improve the delivery and evaluation of care.",
+        "Technical and Digital Skills": [
+            "Data analysis in healthcare",
+            "Understanding of healthcare technology",
+            "Use of informatics applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of healthcare data insights",
+            "Communication of technology-driven care delivery improvements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of healthcare technology effectiveness",
+            "Data-driven problem solving in healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing healthcare data",
+            "Leadership in technology-enabled care improvement"
+        ]
+    },
+    {
+        "courseCode": "NURS 809",
+        "courseTitle": "Advocacy for Healthcare Public Policy for Advanced Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will prepare the DNP to assume a leadership role in developing, implementing, and advocating for health care policy that results in quality, accessible, comprehensive health care for vulnerable populations.",
+        "Technical and Digital Skills": [
+            "Health policy development",
+            "Implementation of healthcare policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Policy advocacy",
+            "Communicating policy concepts effectively",
+            "Negotiating for healthcare resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying healthcare needs of vulnerable populations",
+            "Analysing effectiveness of healthcare policies",
+            "Resolving healthcare accessibility issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare policy",
+            "Strategic planning for healthcare policy implementation",
+            "Leading healthcare accessibility initiatives"
+        ]
+    },
+    {
+        "courseCode": "NURS 810",
+        "courseTitle": "Leadership in Complex Systems and Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the leadership that comprises two types:  informal and formal leadership.  Competencies will include communication, knowledge of health care environment, leadership, professionalism, and business skills.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Professional interaction in a healthcare environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing business situations",
+            "Understanding the healthcare environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Formal leadership",
+            "Informal leadership",
+            "Professionalism in leadership",
+            "Business management skills"
+        ]
+    },
+    {
+        "courseCode": "NURS 812",
+        "courseTitle": "Evidence-Based Management for Quality Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of the course is on the development of systems  processes to ensure quality healthcare.  The evidence-based model will be applied to organizational systems.",
+        "Technical and Digital Skills": [
+            "Systems development",
+            "Process design for healthcare quality"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of evidence-based models",
+            "Analyzing organizational systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare settings",
+            "Organizational systems management"
+        ]
+    },
+    {
+        "courseCode": "NURS 814",
+        "courseTitle": "Competitive Resource Design and Utilization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the competitive design and utilization of organizational and human resources.  Emphasis wiil be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes.  The course will cover the business models for effective financial and personnel management of healthcare organizations.  Analysis of the costs of care and quality of care will be performed.",
+        "Technical and Digital Skills": [
+            "Financial management",
+            "Personnel management",
+            "Strategic resource utilization",
+            "Cost analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Resource negotiation",
+            "Team collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quality of care analysis",
+            "Strategic planning",
+            "Problem-solving in resource allocation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational resource design",
+            "Leadership in healthcare settings",
+            "Strategic management of resources",
+            "Healthcare business model comprehension"
+        ]
+    },
+    {
+        "courseCode": "NURS 816",
+        "courseTitle": "DNP Executive Practicum I",
+        "academicLevel": "graduate",
+        "courseDescription": "This practicum focuses on the application of nurse executive leadership skills in the practice environment. Focus will be on the role of the nurse executive and evidence-based research.",
+        "Technical and Digital Skills": [
+            "Application of evidence-based research",
+            "Nursing informatics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Effective communication in nursing leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research",
+            "Evidence-based problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Nursing executive leadership",
+            "Role execution as a nurse executive",
+            "Practice environment management"
+        ]
+    },
+    {
+        "courseCode": "NURS 817",
+        "courseTitle": "DNP Executive Practicum II",
+        "academicLevel": "graduate",
+        "courseDescription": "This experience focuses on the application of executive leadership skills in nursing. Focus will be on the role of the nurse executive and evidence-based research.",
+        "Technical and Digital Skills": [
+            "Evidence-based research application",
+            "Clinical data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Effective communication within healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for executive decision-making",
+            "Problem-solving in healthcare administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Executive leadership application",
+            "Organizational management in nursing",
+            "Strategic planning and implementation"
+        ]
+    },
+    {
+        "courseCode": "NURS 818",
+        "courseTitle": "DNP Executive Practicum III",
+        "academicLevel": "graduate",
+        "courseDescription": "This practicum focuses on the application of executive leadership skills in the practice environment. Focus will be on the role of the nurse executive, evidence-based research and the use of healthcare technology.",
+        "Technical and Digital Skills": [
+            "Application of healthcare technology",
+            "Utilizing evidence-based research tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a healthcare setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in a medical practice environment",
+            "Analysis of evidence-based research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Executive leadership application",
+            "Role fulfillment as a nurse executive"
+        ]
+    },
+    {
+        "courseCode": "NURS 819",
+        "courseTitle": "DNP Executive Practicum IV",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the application of executive leadership skills in the practice environment. Focus will be on the role of the nurse executive, evidence-based research, and practice dissemination.",
+        "Technical and Digital Skills": [
+            "Evidence-based research",
+            "Practice dissemination",
+            "Nursing informatics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Executive communication",
+            "Stakeholder management",
+            "Cross-functional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of healthcare data",
+            "Problem-solving in nursing management",
+            "Evidence-based decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Executive leadership in nursing",
+            "Strategic planning in healthcare",
+            "Team leadership"
+        ]
+    },
+    {
+        "courseCode": "NURS 865",
+        "courseTitle": "DNP Clinical Practicum I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice at an advanced level in a practice-based setting. Focus will be on enhanced clinical skills and evidence-based research.",
+        "Technical and Digital Skills": [
+            "Advanced clinical practice",
+            "Evidence-based research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Inter-disciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem-solving",
+            "Analyzing research findings",
+            "Evidence-based decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical leadership",
+            "Organizing patient care",
+            "Leading healthcare teams"
+        ]
+    },
+    {
+        "courseCode": "NURS 866",
+        "courseTitle": "DNP Clinical Practicum II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice at an advanced level in a practice-based setting. Focus will be on evidence-based practice, teamwork, evidence-based research, and advanced clinical diagnostics.",
+        "Technical and Digital Skills": [
+            "Advanced clinical diagnostics",
+            "Evidence-based research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork",
+            "Effective communication in a practice-based setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Implementing evidence-based practice",
+            "Clinical problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a practice-based setting",
+            "Organizing and managing a health care team"
+        ]
+    },
+    {
+        "courseCode": "NURS 867",
+        "courseTitle": "DNP Clinical Practicum III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice as an expert clinician, a program evaluator, and a team leader within a practice-based setting focusing on evidence-based practice. Healthcare technology will be explored.",
+        "Technical and Digital Skills": [
+            "Healthcare technology usage",
+            "Program evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team leadership",
+            "Interpersonal communication within healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem solving",
+            "Evidence-based practice analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing team tasks within practice-based settings",
+            "Leadership in healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 868",
+        "courseTitle": "DNP Clinical Practicum IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice as an expert clinician, a program evaluator, a team leader, and a change agent with emphasis on translational and evidence-based research.",
+        "Technical and Digital Skills": [
+            "Evidence-based research",
+            "Advanced practice nursing",
+            "Clinical expertise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team leadership",
+            "Effective communication within a healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Program evaluation",
+            "Translation of research into practice",
+            "Solution-oriented approach"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team leadership",
+            "Change management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "NURS 890",
+        "courseTitle": "DNP Nursing Capstone",
+        "academicLevel": "graduate",
+        "courseDescription": "This capstone course is designed to facilitate the ability of the advanced practice nurse to synthesize, translate, and disseminate practice-focused research findings and apply them to practice settings.",
+        "Technical and Digital Skills": [
+            "Research synthesis",
+            "Application of research findings to practice settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Dissemination of research findings",
+            "Effective communication of research outcomes and applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation of research findings into practice",
+            "Critical analysis of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in advanced nursing practice",
+            "Organizing and applying research in practice settings"
+        ]
+    },
+    {
+        "courseCode": "NURS 895",
+        "courseTitle": "Topics in Health Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced doctoral student with an opportunity to investigate specific topics of current interest in the health services.",
+        "Technical and Digital Skills": [
+            "Health services research",
+            "Investigation of healthcare topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting healthcare findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in healthcare contexts",
+            "Analyzing current healthcare issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing healthcare research projects",
+            "Leading healthcare discussions"
+        ]
+    },
+    {
+        "courseCode": "NURS 897",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on research-related competencies of graduate nursing students. Students enroll on an as-needed basis as determined by the instructor.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Medical technology familiarity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with instructor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of medical research data",
+            "Critical evaluation of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "NURS 898",
+        "courseTitle": "Independent Clinical Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on clinical and/or research-related competencies of DNP graduate nursing students. Students enroll on an as-needed basis as determined by the instructor.",
+        "Technical and Digital Skills": [
+            "Clinical competencies",
+            "Research-related competencies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of clinical data",
+            "Application of nursing research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "NURS 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and following graduation requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Meeting critical deadlines"
+        ]
+    },
+    {
+        "courseCode": "NURS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Maintaining active status in doctoral program",
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time Management"
+        ]
+    }
+]

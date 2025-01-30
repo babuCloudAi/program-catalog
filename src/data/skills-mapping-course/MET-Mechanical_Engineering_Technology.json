@@ -1,0 +1,593 @@
+[
+    {
+        "courseTitle": "Computer Aided Drafting",
+        "courseCode": "MET 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Computer based drafting methods are taught with a major emphasis on 'Hands On' practice using 2-D AutoCAD software in the computer lab, along with the various methods of editing, manipulation, visualization and presentation of technical drawings.  This course includes the basic principles of engineering drawing/hand sketching, dimensioning and tolerancing.",
+        "Technical and Digital Skills": [
+            "Computer based drafting methods",
+            "Hands on practice with 2-D AutoCAD software",
+            "Editing, manipulation, visualization and presentation of technical drawings",
+            "Basic principles of engineering drawing/hand sketching",
+            "Dimensioning and tolerancing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate technical drawings and specifications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to troubleshoot and resolve issues in AutoCAD software",
+            "Analyzing and interpreting technical drawings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and organize technical drawings",
+            "Leading drafting projects"
+        ]
+    },
+    {
+        "courseTitle": "Materials and Manufacturing Processes",
+        "courseCode": "MET 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application and characteristics, both physical and chemical, of the materials most commonly used in industry as well as procedures and processes used in converting raw materials into a finished product.",
+        "Technical and Digital Skills": [
+            "Understanding of physical and chemical characteristics of industrial materials",
+            "Knowledge of manufacturing procedures and processes",
+            "Conversion of raw materials into finished products"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of material characteristics",
+            "Problem-solving in manufacturing processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing manufacturing procedures",
+            "Supervision of material conversion process"
+        ]
+    },
+    {
+        "courseTitle": "Strength of Materials Laboratory",
+        "courseCode": "MET 225",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course dealing with the standard methods of inspecting and testing materials used in engineering applications with emphasis on laboratory reports, including presentation and interpretation of experimental data.",
+        "Technical and Digital Skills": [
+            "Standard methods of inspecting engineering materials",
+            "Testing engineering materials",
+            "Experimental data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Laboratory report presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimental data analysis",
+            "Material inspection problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing laboratory procedures",
+            "Managing laboratory equipment"
+        ]
+    },
+    {
+        "courseTitle": "Thermodynamics",
+        "courseCode": "MET 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The basic laws of thermodynamics, properties of fluids, heat, and work and their applications in processes and cycles and an introduction to conduction heat transfer.",
+        "Technical and Digital Skills": [
+            "Understanding of basic laws of thermodynamics",
+            "Knowledge of properties of fluids",
+            "Understanding of heat and work applications",
+            "Understanding of processes and cycles",
+            "Introduction to conduction heat transfer"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing thermodynamic systems",
+            "Problem-solving in heat and work applications",
+            "Analyzing processes and cycles"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Dynamics",
+        "courseCode": "MET 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A fundamental treatment of coplanar and three-dimensional kinematics and kinetics of particles and rigid bodies, including relative motion, mass moment of inertia, Newton's laws, work and energy and impulse and momentum.",
+        "Technical and Digital Skills": [
+            "Understanding of coplanar and three-dimensional kinematics",
+            "Knowledge of kinetics of particles and rigid bodies",
+            "Comprehension of relative motion",
+            "Application of Newton's laws",
+            "Understanding of mass moment of inertia",
+            "Comprehension of work, energy, impulse and momentum principles"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve complex dynamical problems",
+            "Analytical skills to interpret and analyze physical phenomena",
+            "Problem-solving skills in various dynamical scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Design of Machine Elements",
+        "courseCode": "MET 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical analyses of fundamental machine elements such as shafts, springs, and screws. Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings",
+        "Technical and Digital Skills": [
+            "Stress analysis of machine elements",
+            "Design of machine elements",
+            "Understanding of fundamental machine elements such as shafts, springs, and screws",
+            "Understanding of lubrication and bearings"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing problems of synthesis",
+            "Understanding the interrelationships of the design of elements within the sub-assembly"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing design projects",
+            "Coordinating design elements within a sub-assembly"
+        ]
+    },
+    {
+        "courseTitle": "Fluid Mechanics",
+        "courseCode": "MET 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of fluid statics and dynamics, including momentum, energy, Bernoulli's equation, laminar and turbulent fluid flow and friction in pipes, fluid machinery, and open-channel flow.",
+        "Technical and Digital Skills": [
+            "Understanding of fluid statics and dynamics",
+            "Application of Bernoulli's equation",
+            "Knowledge of laminar and turbulent fluid flow",
+            "Skills in handling friction in pipes",
+            "Comprehension of fluid machinery",
+            "Proficiency in open-channel flow"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing momentum and energy in fluid mechanics",
+            "Solving problems related to fluid flow and friction",
+            "Ability to apply theoretical knowledge to practical situations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fluid Mechanics Laboratory",
+        "courseCode": "MET 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course dealing with the verification of fluid equations and principles and the characteristics of fluid machinery with emphasis on presentation and interpretation of experimental data.",
+        "Technical and Digital Skills": [
+            "Verification of fluid equations",
+            "Understanding of fluid machinery",
+            "Interpretation of experimental data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of experimental data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Application of fluid principles"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Heat Transfer",
+        "courseCode": "MET 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of conduction, convection and radiation heat transfer and heat exchangers. Emphasis is on applications and problem solving using current techniques, and modern correlations.",
+        "Technical and Digital Skills": [
+            "Understanding of conduction, convection and radiation heat transfer",
+            "Knowledge of heat exchangers",
+            "Application of modern correlations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving using current techniques",
+            "Analyzing and applying heat transfer principles",
+            "Identifying appropriate heat transfer methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Thermal Applications",
+        "courseCode": "MET 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the applications of thermodynamics.  Topics include the basic steam and gas turbine power cycles, internal combustion engines, introduction to refrigeration systems, gas mixtures, and psychrometrics applied to air conditioning processes.",
+        "Technical and Digital Skills": [
+            "Understanding of thermodynamics",
+            "Knowledge of steam and gas turbine power cycles",
+            "Understanding of internal combustion engines",
+            "Introduction to refrigeration systems",
+            "Understanding of gas mixtures",
+            "Knowledge of psychrometrics applied to air conditioning processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and applying thermodynamics principles",
+            "Analyzing power cycles",
+            "Problem solving in refrigeration systems",
+            "Analysis of gas mixtures"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Thermal Applications Laboratory",
+        "courseCode": "MET 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experiments dealing with applied thermodynamics, mechanical power and energy systems with emphasis on laboratory report writing, including presentation and interpretation of experimental data.",
+        "Technical and Digital Skills": [
+            "Applied thermodynamics",
+            "Mechanical power and energy systems",
+            "Experimental data interpretation",
+            "Laboratory report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of experimental data",
+            "Collaboration in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing thermal application experiments",
+            "Problem-solving in energy systems",
+            "Data analysis and interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory experiments",
+            "Leading a technical team in a lab setting"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "MET 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be repeated for credit.  Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Career Development Services program prior to the semester in which the work experience is to take place.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with department and Career Development Services",
+            "Presentation of work experience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment and evaluation of work experience relevance",
+            "Identification and application of academic relevance in work experience"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing work experience",
+            "Leadership in a professional setting"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "MET 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication",
+            "Professional networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability",
+            "Quick learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "MET 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Study of Selected Topics",
+        "courseCode": "MET 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Mechatronic System Design",
+        "courseCode": "MET 427",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the integrated modeling and optimal design of a physical system, which includes sensors, actuators, electronic components, and its embedded digital control system.  Includes simultaneous optimal design practice with respect to the realization of the design specifications related to different engineering domains.",
+        "Technical and Digital Skills": [
+            "Integrated modeling",
+            "Optimal design of physical systems",
+            "Understanding and implementation of sensors",
+            "Understanding and implementation of actuators",
+            "Electronics components management",
+            "Embedded digital control system implementation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Simultaneous optimal design practice",
+            "Realization of design specifications",
+            "Cross-domain engineering approach"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Mechanical Subsystem Design",
+        "courseCode": "MET 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings.",
+        "Technical and Digital Skills": [
+            "Stress analysis",
+            "Design of screws, belts, clutches, brakes, chains, thin and thick cylinders",
+            "Understanding of lubrication and bearings"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Synthesis of machine elements",
+            "Understanding and applying fundamental principles",
+            "Problem solving for design interrelationships"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of design processes",
+            "Attention to detail in subsystem assemblies"
+        ]
+    },
+    {
+        "courseTitle": "Modeling and Simulation of Mechatronic Systems",
+        "courseCode": "MET 431",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course provides foundations, principles, methods, and tools for modeling and simulation of electro-mechanical components and systems using appropriate modeling techniques. The course is focused on the multi-body dynamics systems, fluid, hydraulic, and electrical systems.",
+        "Technical and Digital Skills": [
+            "Modeling of electro-mechanical components",
+            "Simulation of electro-mechanical systems",
+            "Multi-body dynamics systems modeling",
+            "Fluid systems modeling",
+            "Hydraulic systems modeling",
+            "Electrical systems simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing dynamics of mechanical systems",
+            "Analyzing fluid and hydraulic systems",
+            "Troubleshooting electrical systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Energy Systems",
+        "courseCode": "MET 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the application of thermodynamics to power plants, engines, compressors, turbines, and associated systems. A detailed study is made of fossil fuel power plants with an introductory study of nuclear power and other energy conversion systems.",
+        "Technical and Digital Skills": [
+            "Thermodynamics application",
+            "Fossil fuel power plant operation",
+            "Nuclear power introductory knowledge",
+            "Understanding of energy conversion systems",
+            "Engine, compressor, and turbine operation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Energy system analysis",
+            "Problem-solving in power plant operations",
+            "Analyzing thermodynamics in various systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Refrigeration and Air Conditioning",
+        "courseCode": "MET 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The design and application of refrigeration and air conditioning systems.  Studies are made of compressors, condensers, evaporators, psychometric processes, load calculations and air distribution systems.  High performance vapor compression systems, absorption systems and other cycles are analyzed.",
+        "Technical and Digital Skills": [
+            "Designing refrigeration and air conditioning systems",
+            "Understanding of compressors, condensers, evaporators",
+            "Knowledge of psychometric processes",
+            "Performing load calculations",
+            "Analysing air distribution systems",
+            "Understanding of high performance vapor compression systems",
+            "Knowledge of absorption systems and other cycles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of refrigeration and air conditioning systems",
+            "Troubleshooting of compressors, condensers, evaporators",
+            "Problem-solving in psychometric processes",
+            "Analytical skills in load calculations",
+            "Analyzing air distribution systems",
+            "Analyzing high performance vapor compression systems",
+            "Analyzing absorption systems and other cycles"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Nuclear Systems I",
+        "courseCode": "MET 471",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Reactor physics principles as applied to the design and operation of various types of commercial nuclear power reactors. Topics include sources of radiation and interaction with matter, neutron interactions, diffusion theory, and reactor kinetics.",
+        "Technical and Digital Skills": [
+            "Understanding of reactor physics principles",
+            "Designing various types of commercial nuclear power reactors",
+            "Knowledge of radiation sources and interaction with matter",
+            "Understanding neutron interactions",
+            "Application of diffusion theory",
+            "Understanding reactor kinetics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear systems",
+            "Applying reactor physics principles to solve problems",
+            "Interpreting interactions of radiation and matter",
+            "Applying diffusion theory for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Nuclear Systems II",
+        "courseCode": "MET 472",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Complete study of the nuclear fuel cycle, from mining through fabrication, fuel management in an operating commercial power reactor, spent fuel management, and fuel reprocessing, with emphasis on chemical engineering considerations.",
+        "Technical and Digital Skills": [
+            "Understanding of the nuclear fuel cycle",
+            "Knowledge in mining and fabrication processes",
+            "Management of fuel in an operating commercial power reactor",
+            "Spent fuel management",
+            "Fuel reprocessing",
+            "Chemical engineering considerations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for fuel management",
+            "Problem-solving abilities in fuel reprocessing",
+            "Analyzing chemical engineering considerations"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Marine Engineering I",
+        "courseCode": "MET 475",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course includes: fundamental principles of naval architecture including nomenclature, geometry, stability, hydrostatics, structures, and motions; ship design processes; and a basic introduction to shipboard systems such as HVAC, refrigeration, power generation, propulsion, hydraulics, electronics, cargo handling systems, seawater systems, freshwater systems, and fuel, lube and other oil systems.",
+        "Technical and Digital Skills": [
+            "Understanding of naval architecture principles",
+            "Knowledge of ship design processes",
+            "Understanding of HVAC systems",
+            "Knowledge of refrigeration systems",
+            "Understanding power generation systems",
+            "Knowledge of propulsion systems",
+            "Understanding of hydraulics systems",
+            "Knowledge of electronic systems",
+            "Understanding cargo handling systems",
+            "Knowledge of seawater systems",
+            "Understanding freshwater systems",
+            "Knowledge of fuel, lube and other oil systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting shipboard systems",
+            "Stability analysis",
+            "Hydrostatics analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Marine Engineering II",
+        "courseCode": "MET 476",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course builds upon MET 475 and provides a more in-depth look on how the marine shipbuilding industry is using various software including SIEMENS PLM, 3D CAD modeling and new technologies like laser scanners and augmented reality to reshape the future of shipbuilding, maintenance, and repair processes. Focus will be based on model-based learning and creating a 'digital thread' of information. Students will practice what they learn on shipbuilding concepts using commercial software that is widely used across automotive, aerospace, and marine industries.",
+        "Technical and Digital Skills": [
+            "Using SIEMENS PLM",
+            "3D CAD modeling",
+            "Operating laser scanners",
+            "Utilizing augmented reality",
+            "Model-based learning",
+            "Creating a digital thread of information",
+            "Practicing shipbuilding concepts using commercial software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing marine shipbuilding processes",
+            "Evaluating and applying new technologies in shipbuilding",
+            "Understanding and applying software used in automotive, aerospace, and marine industries"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "High Performance Piston Engines",
+        "courseCode": "MET 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the fundamental principles and performance characteristics of spark ignition and diesel internal combustion engines.  Overview of engine types and their operation, engine design and operating parameters; ideal and semi-empirical models of engine cycles; combustion, fluid flow and thermal considerations in engine design and performance.  Laboratory evaluation of engine performance using flow and dynamometer systems. (cross-listed with MAE 477/MAE 577)",
+        "Technical and Digital Skills": [
+            "Understanding of spark ignition and diesel internal combustion engines",
+            "Knowledge of various engine types and their operation",
+            "Understanding of engine design and operating parameters",
+            "Understanding of ideal and semi-empirical models of engine cycles",
+            "Understanding of combustion, fluid flow and thermal considerations in engine design and performance",
+            "Ability to use flow and dynamometer systems for engine performance evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of engine performance parameters",
+            "Evaluation of engine performance using laboratory tools"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Maintenance Engineering",
+        "courseCode": "MET 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course looks at maintenance systems: predictive, preventative and corrective; large scale maintenance systems, principles of reliability engineering, maritime logistics; planning for maintenance and repair, using and ordering spare parts, technical manuals, system specifications, and shipyard operations.",
+        "Technical and Digital Skills": [
+            "Understanding of maintenance systems: predictive, preventative and corrective",
+            "Knowledge of large scale maintenance systems",
+            "Principles of reliability engineering",
+            "Maritime logistics",
+            "Planning for maintenance and repair",
+            "Using and ordering spare parts",
+            "Understanding technical manuals",
+            "System specifications knowledge",
+            "Knowledge of shipyard operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication for ordering spare parts",
+            "Interpreting and explaining technical manuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing maintenance systems",
+            "Planning and executing maintenance and repair",
+            "Analyzing system specifications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing maintenance and repair",
+            "Managing spare parts orders",
+            "Overseeing shipyard operations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Mechanical Engineering Technology",
+        "courseCode": "MET 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Mechanical Engineering Technology",
+        "courseCode": "MET 496",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

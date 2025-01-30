@@ -1,0 +1,1210 @@
+[
+    {
+        "courseTitle": "Topics in Education",
+        "courseCode": "ELS 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research methodologies in education",
+            "Data analysis in education research",
+            "Literature review techniques in education",
+            "Online learning platforms usage for research purposes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research projects with peers",
+            "Effective presentation of educational findings",
+            "Peer feedback and review processes in education research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of research gaps in educational literature",
+            "Developing research questions in the field of education",
+            "Critical analysis of educational data for research purposes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team coordination for group research projects",
+            "Project management in educational research",
+            "Leading discussions on specialized education topics"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Education",
+        "courseCode": "ELS 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research methodology in education",
+            "Data analysis in education research",
+            "Online learning platforms usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective group collaboration in educational projects",
+            "Presentation of research findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying educational trends and patterns",
+            "Evaluating educational interventions for effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small group discussions in education topics",
+            "Managing time effectively for research projects"
+        ]
+    },
+    {
+        "courseCode": "ELS 597",
+        "courseTitle": "Topics in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research methodology in education",
+            "Literature review skills",
+            "Data analysis in education research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in educational settings",
+            "Collaborative group work in research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of educational research",
+            "Identifying research gaps in education literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in educational research",
+            "Team coordination for group projects in education"
+        ]
+    },
+    {
+        "courseCode": "ELS 598",
+        "courseTitle": "Topics in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research skills in education",
+            "Data analysis techniques in education research",
+            "Utilizing educational technology tools",
+            "Online learning platforms proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with peers on research projects",
+            "Presenting research findings to small groups",
+            "Engaging in discussions on specialized education topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating educational research studies",
+            "Developing solutions to educational challenges",
+            "Analyzing data to draw meaningful conclusions in education research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small group discussions on specialized education topics",
+            "Organizing research projects effectively",
+            "Coordinating group work on mutual education interests"
+        ]
+    },
+    {
+        "courseCode": "ELS 623",
+        "courseTitle": "Design of Service Delivery Plans to Meet the Needs of Military Connected Children and Families",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will apply their foundational and assessment knowledge for supporting military students to a capstone project in service delivery program design. This course will engage participants in surveying and considering a range of services, program elements, and strategies that may be employed to improve educational, social, and emotional school experiences for children of military-related families. Participants will engage in processes for selecting and preparing to implement optimal support strategies and structures to meet the identified needs of military students in their school setting. They will become familiar with and prepared to craft specific plans to utilize, for the benefit of military children, their peers and families: (a) various school, community, and government services; (b) classroom- and school-based programs designed to improve academic achievement and/or emotional well-being; and (c) classroom- and school-based strategies for designing and implementing programs and services that meet the needs of these children and their families.",
+        "Technical and Digital Skills": [
+            "Survey design and analysis",
+            "Program element selection",
+            "Implementation planning",
+            "Utilization of school, community, and government services",
+            "Designing and implementing classroom- and school-based programs and services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in program design",
+            "Communication with military students and families",
+            "Presenting support strategies to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying needs of military students",
+            "Selecting optimal support strategies",
+            "Critical evaluation of service delivery plans",
+            "Designing programs for academic achievement and emotional well-being"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for service delivery",
+            "Preparing and implementing support structures",
+            "Crafting specific plans for military children",
+            "Leading the design and implementation of support programs"
+        ]
+    },
+    {
+        "courseCode": "ELS 660",
+        "courseTitle": "Program Evaluation, Research and Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course principal licensure candidates learn to identify organizational needs, develop research-based strategies to address those needs, and use data-driven planning to implement, monitor, and manage processes involved in implementing change strategies.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodology",
+            "Data-driven planning and implementation",
+            "Monitoring processes",
+            "Change management strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Identifying organizational needs",
+            "Developing research-based strategies",
+            "Effective communication of data insights",
+            "Collaborative planning and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying solutions for organizational needs",
+            "Analyzing research data for decision-making",
+            "Implementing change strategies effectively"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for organizational needs",
+            "Leadership in change management processes",
+            "Managing and monitoring change implementation",
+            "Decision-making based on data-driven insights"
+        ]
+    },
+    {
+        "courseCode": "ELS 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Cooperative Education.",
+        "Technical and Digital Skills": [
+            "Software development",
+            "Database management",
+            "Web development",
+            "Information security",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration",
+            "Written and verbal communication",
+            "Professional networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Troubleshooting",
+            "Data interpretation",
+            "Decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Adaptability",
+            "Conflict resolution"
+        ]
+    },
+    {
+        "courseCode": "ELS 668",
+        "courseTitle": "Internship in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "The internship is designed to establish a bond between theory and practice, while providing opportunities for independent and guided practice, feedback, coaching, and reflection. Ultimately, it will engage prospective administrators in planned and coordinated active learning experiences. Pre- or",
+        "Technical and Digital Skills": [
+            "Data analysis in education",
+            "Educational technology integration",
+            "Learning management system administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Feedback delivery to educators",
+            "Coaching for professional development",
+            "Reflective practice facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Curriculum evaluation",
+            "Instructional improvement planning",
+            "Data-driven decision-making in education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active learning experience design",
+            "Administrative coordination",
+            "Prospective administrator engagement"
+        ]
+    },
+    {
+        "courseCode": "ELS 669",
+        "courseTitle": "Instructional Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Each internship course will require students to complete a minimum of 160 hours in each course.  Course is designed to provide field experiences which will prepare them to serve as instructional and curriculum leadership in K-12 environments.  Student must produce 1) a portfolio with required artifacts; 2) prepare a 10-12 reflective paper according to identified guidelines and 3) complete internship evaluation with mentor and college supervisor at least three times during the term.",
+        "Technical and Digital Skills": [
+            "Curriculum development",
+            "Instructional design",
+            "Portfolio creation",
+            "Reflective writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with mentors",
+            "Presentation skills",
+            "Feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instructional strategies",
+            "Identifying learning gaps",
+            "Problem-solving in educational settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in curriculum development",
+            "Time management",
+            "Collaboration with educational stakeholders"
+        ]
+    },
+    {
+        "courseCode": "ELS 673",
+        "courseTitle": "Critical Issues Research",
+        "academicLevel": "graduate",
+        "courseDescription": "The student completes an in-depth study of a critical issue in his/her profession and documents the work in a critical issue paper.  Student must be able to demonstrate written and oral communication skills and critical and analytical skills in dealing with a major issue in educational leadership. Course to be taken near completion of program.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Documenting research findings",
+            "Information retrieval skills",
+            "Critical issue paper writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication skills",
+            "Oral communication skills",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking skills",
+            "Analytical skills in dealing with major issues",
+            "Evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management skills",
+            "Project management skills",
+            "Leadership skills in educational leadership"
+        ]
+    },
+    {
+        "courseCode": "ELS 697",
+        "courseTitle": "Topics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of selected topics in educational leadership.  Arranged individually with students.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical thinking in educational leadership decision-making",
+        "Organizational and Leadership Skills": "Effective leadership strategies in educational settings"
+    },
+    {
+        "courseCode": "ELS 700",
+        "courseTitle": "Strategic Leadership and Management for School Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to give students entering the ODU Licensure program an understanding of the complex roles and challenges of a school principal, while focusing on the constantly changing nature of administrative responsibility.  Students develop an integrated view of the knowledge base, research and practice of administration within a context of multiple perspectives and a wide range of thinking. The purpose of the course is to increase understanding of education, the role of educational administration, the forces that are moving education into a new era, the transitions that are occurring, and the use of the latest, best practices to improve the education of all children.",
+        "Technical and Digital Skills": [
+            "Utilizing educational management software",
+            "Implementing data-driven decision making tools",
+            "Technology integration for school improvement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Conflict resolution within school settings",
+            "Building strong relationships with staff and students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing educational data to identify areas for improvement",
+            "Developing strategic plans for school enhancement",
+            "Implementing solutions to address educational challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for school improvement initiatives",
+            "Leading change management processes within educational settings",
+            "Developing and implementing a shared vision for school success"
+        ]
+    },
+    {
+        "courseCode": "ELS 701",
+        "courseTitle": "Accountability and Organizational Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an in-depth study of effective data based decision-making practices for contemporary school leaders.  Formative and summative data based decision making practices will be explored, as well as how to work with large and small groups of staff members to analyze multiple measures of data and create school improvement designs for student and school success.  An emphasis is placed on using data to make decisions at the division, school, and classroom levels.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Data-driven decision-making",
+            "Data visualization tools (e.g., Tableau)",
+            "Statistical analysis software (e.g., SPSS, R)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating group data analysis sessions",
+            "Effective communication of data insights to stakeholders",
+            "Conflict resolution in data-driven discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying trends and patterns in data",
+            "Developing actionable strategies based on data analysis",
+            "Evaluating the effectiveness of school improvement designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading data-driven initiatives",
+            "Building a culture of data-driven decision-making",
+            "Implementing data analysis frameworks for continuous improvement"
+        ]
+    },
+    {
+        "courseCode": "ELS 702",
+        "courseTitle": "Educational Politics and Policymaking",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches aspiring school leaders how politics and policy shapes school-based decision making and how school leaders can influence politics and policy processes to improve learning environments for children.  The course focuses contemporary problems that confront school leaders as they work to improve the conditions of learning for their students, faculty and staff.  To effectively address and solve problems school leaders need to understand the processes of policymaking at various educational levels and to develop the relevant skills of policymaking needed at the school level.  Thus, this course addresses the following three essential principles of educational politics and policy as they apply to school level administrators:  political and policy dynamics that influence their work in schools; accurately identify, diagnose, and develop the right solutions to the right problems in order to achieve instructional goals of the school and division; and confront, engage in, and effectively deal with conflict (i.e., politics) emanating from within the school, division, or community in order to achieve school and division learning goals.",
+        "Technical and Digital Skills": [
+            "Understanding policy analysis frameworks",
+            "Using data analytics for decision-making",
+            "Utilizing educational technology for policy implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiating with stakeholders",
+            "Building coalitions for policy change",
+            "Effective public speaking for advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis of educational challenges",
+            "Developing evidence-based solutions",
+            "Conflict resolution strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for policy implementation",
+            "Creating a shared vision among stakeholders",
+            "Leading change management initiatives"
+        ]
+    },
+    {
+        "courseCode": "ELS 710",
+        "courseTitle": "Strategic Communication and External Relations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course serves as an introduction for prospective administrators to the social and political context of the educational environment.  The underlying concept of this course is collaboration.  Today's administrators face a variety of multifaceted challenges in their daily routines.  Therefore, they must recongize the impact of political, socioeconomic situations, community diversity, equity issues, and school community relations on their leadership practices.",
+        "Technical and Digital Skills": [
+            "Understanding of social and political context in educational environments",
+            "Equity issues awareness",
+            "Community diversity recognition",
+            "Impact assessment of political and socioeconomic situations on leadership practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration skills",
+            "Community relations management",
+            "Effective communication with diverse stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of the impact of various factors on leadership practices",
+            "Problem-solving in multifaceted challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership practices in diverse environments",
+            "Management of political and socioeconomic influences",
+            "Adaptation to changing community dynamics"
+        ]
+    },
+    {
+        "courseCode": "ELS 727",
+        "courseTitle": "Learning Theories and Professional Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course exposes students to the essential elements of instructional leadership.  Central to the skills and knowledge necessary to be an effective instructional leader are a deep understanding of the learning sciences that inform us about the essence of effective teaching.  Effective instructional leaders have a solid basis for assessing and promoting high quality instruction, giving them the tools to proactively build a school's organizational capacity of sustained growth in student achievement.  Students will engage in reading, reflection, dialog, writing, problem solving and field-work, designed to build an understanding of how these topics are intrinsically tied to supporting teachers in their classrooms through facilitating better understandings of standards and accountability, effective lesson planning and curriculum development, assessment and grading, classroom management and discipline.",
+        "Technical and Digital Skills": [
+            "Understanding of learning sciences",
+            "Curriculum development",
+            "Assessment and grading",
+            "Classroom management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with teachers",
+            "Facilitating better understanding of standards",
+            "Dialog with stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instruction",
+            "Problem solving in instructional leadership",
+            "Field-work analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Assessing and promoting high quality instruction",
+            "Building organizational capacity for student achievement"
+        ]
+    },
+    {
+        "courseCode": "ELS 728",
+        "courseTitle": "Instructional Leadership and Supervision",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops student's skills, knowledge and dispositions in the area of instructional leadership.  Students will explore how effective instructional leaders can use their integrated knowledge of quality instruction and the core principles of learning to set the mission and vision for the school, facilitate school improvement planning and professional development and finally how instructional supervision is used to integrate these activities and support the growth of individual teachers as well as building organizational capacity.  Effective instructional leaders have a solid basis for assessing and promoting high quality instruction, giving them the tools to proactively build a school's organizational capacity for sustained growth in student achievement.  Students will engage in reading, reflection, dialog, writing, problem solving and field-work, designed to help them build an integrated understanding of those leadership practices that help support teacher instructional growth and those that build organizational capacity for sustained improvement.",
+        "Technical and Digital Skills": [
+            "Instructional leadership principles",
+            "Quality instruction assessment",
+            "Professional development planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating school improvement planning",
+            "Supporting teacher instructional growth",
+            "Building organizational capacity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instructional practices",
+            "Problem-solving in instructional leadership contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Setting mission and vision for the school",
+            "Integrating instructional supervision",
+            "Supporting individual teacher growth"
+        ]
+    },
+    {
+        "courseCode": "ELS 753",
+        "courseTitle": "Educational Finance and Budgeting",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines how public schools are financed, including an analysis of the sources of revenues, the distribution of revenue, and the budgeting and expenditure of revenue.  Special emphasis will be placed on the Virginia funding formula, education as an investment in human capital, and how funding relates to student achievement.  Students will learn the fiscal management skills and understandings necessary to manage the finances of a school or school system, including the study of system and school procedures related to budget planning, budget management, internal school account management, inventory control, and purchasing procedures.",
+        "Technical and Digital Skills": [
+            "Fiscal management skills",
+            "Budget planning",
+            "Budget management",
+            "Internal school account management",
+            "Inventory control",
+            "Purchasing procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information",
+            "Collaboration with school administrators and staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing sources of revenue",
+            "Distribution of revenue analysis",
+            "Student achievement impact assessment on funding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial leadership in school or school system",
+            "Managing school finances effectively"
+        ]
+    },
+    {
+        "courseCode": "ELS 757",
+        "courseTitle": "Educational Law and Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an introduction to law, particularly with respect to federal and state statutes and court decisions dealing with the public schools.  The topics span a wide spectrum of law-related concerns.  The study of law is intended to be practical by providing the legal understanding necessary for a school administrator to negotiate his or her way through the maze of difficult legal and ethical matters commonly faced each day.",
+        "Technical and Digital Skills": [
+            "Understanding federal and state statutes",
+            "Interpreting court decisions",
+            "Legal research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective negotiation skills",
+            "Conflict resolution strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Legal problem-solving",
+            "Ethical decision-making",
+            "Critical thinking in legal contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Legal compliance management",
+            "Ethical leadership practices"
+        ]
+    },
+    {
+        "courseCode": "ELS 795",
+        "courseTitle": "Topics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in educational leadership.",
+        "Technical and Digital Skills": [
+            "Data analysis in education",
+            "Educational technology integration",
+            "Learning management systems implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Conflict resolution in educational settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data-driven decision making in education",
+            "Problem identification and resolution in educational leadership"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in educational leadership",
+            "Team building and motivation in educational settings"
+        ]
+    },
+    {
+        "courseCode": "ELS 797",
+        "courseTitle": "Topics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics in Educational Leadership.",
+        "Technical and Digital Skills": [
+            "Data-driven decision-making",
+            "Technology integration in education",
+            "Online learning platforms utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback delivery",
+            "Conflict resolution in educational settings",
+            "Building strong teacher-student relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Curriculum assessment and improvement",
+            "Identifying and addressing educational challenges",
+            "Data interpretation for educational outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in education",
+            "Team collaboration in school administration",
+            "Implementing change management initiatives in educational institutions"
+        ]
+    },
+    {
+        "courseCode": "ELS 800",
+        "courseTitle": "Strategic Leadership and Management for School Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to give students entering the ODU Licensure program an understanding of the complex roles and challenges of a school principal, while focusing on the constantly changing nature of administrative responsibility.  Students develop an integrated view of the knowledge base, research and practice of administration within a context of multiple perspectives and a wide range of thinking. The purpose of the course is to increase understanding of education, the role of educational administration, the forces that are moving education into a new era, the transitions that are occurring, and the use of the latest, best practices to improve the education of all children.",
+        "Technical and Digital Skills": [
+            "Utilizing educational management software",
+            "Implementing data-driven decision-making tools",
+            "Utilizing digital communication platforms for school administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders (parents, teachers, students)",
+            "Conflict resolution in educational settings",
+            "Building strong relationships with staff and community members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing educational data to identify areas for improvement",
+            "Developing strategies to address challenges in school improvement",
+            "Implementing evidence-based practices for educational reform"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for school improvement initiatives",
+            "Team building and collaboration within educational institutions",
+            "Implementing change management processes in school administration"
+        ]
+    },
+    {
+        "courseCode": "ELS 801",
+        "courseTitle": "Accountability and Organizational Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an in-depth study of effective data based decision-making practices for contemporary school leaders.  Formative and summative data based decision making practices will be explored, as well as how to work with large and small groups of staff members to analyze multiple measures of data and create school improvement designs for student and school success.  An emphasis is placed on using data to make decisions at the division, school, and classroom levels.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Data visualization tools",
+            "Statistical analysis software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating group discussions on data analysis",
+            "Effective communication of data findings to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of data",
+            "Identifying trends and patterns in data for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating school improvement designs based on data analysis",
+            "Leading and managing data-driven decision-making processes"
+        ]
+    },
+    {
+        "courseCode": "ELS 802",
+        "courseTitle": "Educational Politics and Policymaking",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches aspiring school leaders how politics and policy shapes school-based decision making and how school leaders can influence politics and policy processes to improve learning environments for children.  The course focuses contemporary problems that confront school leaders as they work to improve the conditions of learning for their students, faculty, and staff.  To effectively address and solve problems school leaders need to understand the processes of policymaking at various educational levels and to develop the relevant skills of policymaking needed at the school level.  Thus, this course addresses the following three essential principles of educational politics and policy as they apply to school level administrators: political and policy dynamics that influence their work in schools; accurately identify, diagnose, and develop the right solutions to the right problems in order to achieve instructional goals of the school and division; and confront, engage in, and effectively deal with conflict (i.e., politics) emanating from within the school, division, or community in order to achieve school and division learning goals.",
+        "Technical and Digital Skills": [
+            "Understanding of educational policy frameworks",
+            "Data analysis for policy evaluation",
+            "Utilizing digital tools for policy research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation and conflict resolution",
+            "Effective communication with stakeholders in the education system",
+            "Building coalitions for policy advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of educational challenges",
+            "Developing evidence-based policy solutions",
+            "Critical analysis of education policy documents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for policy implementation",
+            "Leading change initiatives in educational settings",
+            "Building a shared vision for educational improvement"
+        ]
+    },
+    {
+        "courseCode": "ELS 810",
+        "courseTitle": "Strategic Communication and External Relations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course serves as an introduction for prospective administrators to the social and political context of the educational environment.  The underlying concept of this course is collaboration.  Today's administrators face a variety of multifaceted challenges in their daily routines.  Therefore, they must recongize the impact of political, socioeconomic situations, community diversity, equity issues, and school community relations on their leadership practices.",
+        "Technical and Digital Skills": [
+            "Understanding of social media platforms",
+            "Data analytics for communication strategies",
+            "SEO optimization for online presence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective public speaking",
+            "Negotiation skills for external relations",
+            "Crisis communication management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing communication metrics",
+            "Identifying communication gaps in external relations",
+            "Developing strategic plans for crisis situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for communication campaigns",
+            "Team management in external relations",
+            "Building and maintaining relationships with stakeholders"
+        ]
+    },
+    {
+        "courseCode": "ELS 811",
+        "courseTitle": "Leadership Theory for Educational Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the necessary knowledge to become an integral part of the educational improvement process at the school, division, and state levels.  Students will analyze and relate the significant educational trends of the past 20 years to the political process, analyzing the impact on school planning.  Students will take an active and vocal role in the discourse and debate about educational policy and practice.  Emphasis will be placed on analyzing the context and implementing planning systems to develop mission, goals and programs that result in educational improvement.",
+        "Technical and Digital Skills": [
+            "Analyzing educational trends",
+            "Implementing planning systems",
+            "Developing mission and goals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Taking an active and vocal role in educational policy discourse",
+            "Debating educational policy and practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of educational trends on school planning",
+            "Implementing programs for educational improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational improvement processes at school, division, and state levels",
+            "Implementing strategies for educational improvement"
+        ]
+    },
+    {
+        "courseCode": "ELS 815",
+        "courseTitle": "Leadership for Equity and Inclusive Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the theories and practices that help educational leaders ensure that students with special needs receive an equitable and inclusive education.   Emphasis is on perspectives of difference versus deviance, historical foundations of specialized programs, current social and legal contexts that influence programming, questions of social justice, and possibilities for the inclusion of all students.  While this course addresses the needs of all students, concentration is on individuals with disabilities and the laws that safeguard their rights.",
+        "Technical and Digital Skills": [
+            "Understanding of special education laws and regulations",
+            "Adapting curriculum for students with disabilities",
+            "Utilizing assistive technology in education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students, parents, and staff regarding special needs",
+            "Collaborating with stakeholders to create inclusive environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying barriers to inclusive education and proposing solutions",
+            "Analyzing data to track progress of students with special needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing and implementing inclusive education policies",
+            "Leading a team to support students with disabilities"
+        ]
+    },
+    {
+        "courseCode": "ELS 821",
+        "courseTitle": "Policy and Politics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the theories and practices needed to build relationships and support from the state political process, the local community, businesses, and media.  Emphasis will be placed on the use of influence, and its impact on relationships, policies, and programs.  Focus is placed on developing a shared vision to bring schools and communities together as partners in improving student learning.  Two-way communication mechanisms for school improvement using political influence and power are examined.",
+        "Technical and Digital Skills": [
+            "Understanding of political processes",
+            "Use of influence and power in policy-making",
+            "Analyzing media impact on policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Building relationships with stakeholders",
+            "Two-way communication mechanisms for school improvement",
+            "Developing a shared vision for school-community partnership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Analyzing the impact of influence on policies",
+            "Identifying opportunities for policy change"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading school-community partnerships",
+            "Developing strategies for policy implementation",
+            "Managing relationships with state political processes and local community"
+        ]
+    },
+    {
+        "courseCode": "ELS 827",
+        "courseTitle": "Learning Theories and Professional Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course exposes students to the essential elements of instructional leadership.  Central to the skills and knowledge necessary to be an effective instructional leader are a deep understanding of the learning sciences that inform us about the essence of effective teaching.  Effective instructional leaders have a solid basis for assessing and promoting high quality instruction, giving them the tools to proactively build a school's organizational capacity of sustained growth in student achievement.  Students will engage in reading, reflection, dialog, writing, problem solving and field-work, designed to build an understanding of how these topics are intrinsically tied to supporting teachers in their classrooms through facilitating better understandings of standards and accountability, effective lesson planning and curriculum development, assessment and grading, classroom management and discipline.",
+        "Technical and Digital Skills": [
+            "Understanding of learning sciences",
+            "Curriculum development knowledge",
+            "Assessment and grading skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with teachers",
+            "Facilitating better understanding of standards",
+            "Engaging in dialog with stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instruction quality",
+            "Identifying areas for improvement in teaching practices",
+            "Problem-solving in classroom management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instructional leadership",
+            "Building organizational capacity for growth in student achievement",
+            "Supporting teachers through effective lesson planning"
+        ]
+    },
+    {
+        "courseCode": "ELS 828",
+        "courseTitle": "Instructional Leadership and Supervision",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops student's skills, knowledge and dispositions in the area of instructional leadership.  Students will explore how effective instructional leaders can use their integrated knowledge of quality instruction and the core principles of learning to set the mission and vision for the school, facilitate school improvement planning and professional development and finally how instructional supervision is used to integrate these activities and support the growth of individual teachers as well as building organizational capacity.  Effective instructional leaders have a solid basis for assessing and promoting high quality instruction, giving them the tools to proactively build a school's organizational capacity for sustained growth in student achievement.  Students will engage in reading, reflection, dialog, writing, problem solving and field-work, designed to help them build an integrated understanding of those leadership practices that help support teacher instructional growth and those that build organizational capacity for sustained improvement.",
+        "Technical and Digital Skills": [
+            "Instructional technology integration",
+            "Data-driven decision making",
+            "Online learning platforms management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating professional development sessions",
+            "Providing constructive feedback to teachers",
+            "Building relationships with staff and stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing student performance data",
+            "Identifying instructional improvement opportunities",
+            "Developing school improvement plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Setting school mission and vision",
+            "Supervising and supporting teachers' instructional growth",
+            "Building organizational capacity for sustained improvement"
+        ]
+    },
+    {
+        "courseCode": "ELS 831",
+        "courseTitle": "Accountability Systems in Public Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the design, development, implementation, and alignment of public education accountability systems at the federal, state, and local levels.  Particular attention is given to how the design and implementation of accountability systems affects educational equity and school reform efforts.",
+        "Technical and Digital Skills": [
+            "Understanding of educational data systems",
+            "Data analysis in education",
+            "Evaluation of assessment data",
+            "Implementation of accountability measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with stakeholders in education",
+            "Presentation of accountability data",
+            "Collaboration with educators and policymakers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of equity issues in education data",
+            "Analysis of school reform impact",
+            "Problem-solving for data-driven decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for accountability systems",
+            "Leadership in educational policy implementation",
+            "Organizational alignment for equitable outcomes"
+        ]
+    },
+    {
+        "courseCode": "ELS 835",
+        "courseTitle": "Organizational Theory and Behavior in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course includes the psychology of organizational behaviors, theories of managing people, individual and organizational learning, individual motivation and organizational behavior, interpersonal communications and perceptions, group dynamics, problem management, managing multigroup work, managing diversity, leadership and organizational culture, leadership and decision making, the effective exercise of power and influence, supervision and employee development, organizational analysis, and managing change.",
+        "Technical and Digital Skills": [
+            "Organizational analysis",
+            "Managing change",
+            "Leadership and decision making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communications and perceptions",
+            "Effective exercise of power and influence",
+            "Supervision and employee development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem management",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Theories of managing people",
+            "Individual motivation and organizational behavior",
+            "Group dynamics",
+            "Managing diversity",
+            "Leadership and organizational culture"
+        ]
+    },
+    {
+        "courseCode": "ELS 853",
+        "courseTitle": "Educational Finance and Budgeting",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines how public schools are financed, including an analysis of the sources of revenues, the distribution of revenue, and the budgeting and expenditure of revenue.  Special emphasis will be placed on the Virginia funding formula, education as an investment in human capital, and how funding relates to student achievement.  Students will learn the fiscal management skills and understandings necessary to manage the finances of a school or school system, including the study of system and school procedures related to budget planning, budget management, internal school account management, inventory control, and purchasing procedures.",
+        "Technical and Digital Skills": [
+            "Budget planning",
+            "Budget management",
+            "Internal school account management",
+            "Inventory control",
+            "Purchasing procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information",
+            "Collaboration with school staff for budgeting decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of revenue sources",
+            "Evaluation of budgeting strategies",
+            "Identification of cost-saving measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Fiscal management of school finances",
+            "Understanding of Virginia funding formula",
+            "Leadership in financial decision-making"
+        ]
+    },
+    {
+        "courseCode": "ELS 857",
+        "courseTitle": "Educational Law and Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an introduction to law, particularly with respect to federal and state statutes and court decisions dealing with the public schools.  The topics span a wide spectrum of law-related concerns.  The study of law is intended to be practical by providing the legal understanding necessary for a school administrator to negotiate his or her way through the maze of difficult legal and ethical matters commonly faced each day.",
+        "Technical and Digital Skills": [
+            "Understanding of federal and state statutes",
+            "Knowledge of court decisions related to public schools",
+            "Legal research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills for legal and ethical matters",
+            "Effective communication with stakeholders in education",
+            "Conflict resolution in legal contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of legal issues in education",
+            "Decision-making based on legal understanding",
+            "Ethical reasoning in school administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for legal compliance in schools",
+            "Leading legal and ethical initiatives in education"
+        ]
+    },
+    {
+        "courseCode": "ELS 869",
+        "courseTitle": "Instructional Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Course is designed to provide field experiences that will prepare students to serve as instructional and curriculum leadership in K-12 environments.  Student must 1) produce a portfolio with required artifacts; 2) prepare a 10-12 page reflective paper according to identified guidelines and 3) complete internship evaluation with mentor and college supervisor at least three times during the term.  Each internship course will require students to complete a minimum of 160 hours.",
+        "Technical and Digital Skills": [
+            "Curriculum development",
+            "Portfolio creation",
+            "Reflective paper writing",
+            "Internship evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with mentors and supervisors",
+            "Presentation of artifacts",
+            "Feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying areas for growth in instructional practices",
+            "Analyzing internship experiences for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for completing 160 hours",
+            "Leadership in instructional settings"
+        ]
+    },
+    {
+        "courseCode": "ELS 871",
+        "courseTitle": "Educational Systems Planning and Futures",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers the theoretical framework of strategic, operational, cooperative and future planning in education, leading to the development of a cyclic planning process which includes the appropriate tasks, steps and skills to effect administrative and policy change.",
+        "Technical and Digital Skills": [
+            "Strategic planning in education",
+            "Operational planning in education",
+            "Cooperative planning in education",
+            "Future planning in education",
+            "Cyclic planning process development",
+            "Administrative change skills",
+            "Policy change skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in educational planning",
+            "Collaboration in planning tasks",
+            "Presentation of planning outcomes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of planning information",
+            "Identification of planning issues",
+            "Solution generation for planning challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in educational planning",
+            "Organizational skills for planning tasks",
+            "Management of planning processes"
+        ]
+    },
+    {
+        "courseCode": "ELS 874",
+        "courseTitle": "Advanced School Finance and Operations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines social justice issues related to the financial, political, and operational aspects of America's public schools.  The politics of current legislation, court cases, finances, and operations of the school system are included.",
+        "Technical and Digital Skills": [
+            "Financial analysis",
+            "Budgeting",
+            "Data analysis in educational context",
+            "Legislation analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data",
+            "Collaboration with stakeholders in school system"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Identifying operational inefficiencies",
+            "Policy analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic financial planning",
+            "Decision-making in educational settings",
+            "Leading operational improvements"
+        ]
+    },
+    {
+        "courseCode": "ELS 876",
+        "courseTitle": "Leadership for Social Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course, students study and engage in dialogue related to the critical role of education in a democratic society in a rapidly changing and increasingly complex world.  Through a focused discussion of theories and concepts such as democratic schools, social justice, critical theory and power, feminism, critical race theory, and difference/normalization, students come to understand the possible roles education can play in society and their need to continuously reflect on their own vision for leadership in public schools.",
+        "Technical and Digital Skills": [
+            "Critical evaluation of online information",
+            "Digital literacy for social justice advocacy",
+            "Utilizing social media for activism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating dialogue on social justice issues",
+            "Conflict resolution in diverse settings",
+            "Building coalitions for social change"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing power dynamics in educational settings",
+            "Identifying systemic barriers to social justice",
+            "Developing strategies for inclusive leadership"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating inclusive environments in schools",
+            "Implementing diversity initiatives in education",
+            "Advocating for equity in educational policies"
+        ]
+    },
+    {
+        "courseCode": "ELS 878",
+        "courseTitle": "Leadership for Teaching and Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course, participants examine what is currently known and explore what needs to be known about pedagogy in a context of school renewal.  The foundational perspective for the course is social justice in which course participants seek ways to transform teaching/instruction so that all schools work for all students particularly those students who historically have been disenfranchised from receiving an equitable education.",
+        "Technical and Digital Skills": [
+            "Pedagogy understanding",
+            "Social justice perspective in teaching",
+            "Equitable education implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating discussions on social justice in education",
+            "Building inclusive learning environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing disparities in educational outcomes",
+            "Implementing strategies for equitable education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading school renewal initiatives",
+            "Transforming teaching practices for all students"
+        ]
+    },
+    {
+        "courseCode": "ELS 879",
+        "courseTitle": "Field Research in School Administration and Supervision",
+        "academicLevel": "graduate",
+        "courseDescription": "Field study approach to problems related to school administration and supervision.",
+        "Technical and Digital Skills": [
+            "Data collection methods",
+            "Statistical analysis software proficiency",
+            "Database management for research purposes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing stakeholders",
+            "Effective communication of research findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of administrative issues",
+            "Developing solutions based on data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research initiatives",
+            "Leading research teams in the field"
+        ]
+    },
+    {
+        "courseCode": "ELS 880",
+        "courseTitle": "Multicultural Curriculum Leadership and Globalization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines social justice issues related to the curriculum leadership aspect of America's public schools and abroad.  This course is designed to provide advanced understanding of the curriculum development process through conception, implementation, and evaluation with a particular focus on multiculturalism.  Theoretical and philosophical bases of curriculum development are addressed as well as current trends including brain-based learning, multiculturalism, globalization, organizational thinking and the strategic change process.",
+        "Technical and Digital Skills": [
+            "Curriculum development process understanding",
+            "Brain-based learning application",
+            "Globalization trends analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in multicultural settings",
+            "Collaborative curriculum development",
+            "Presentation of multicultural concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of multicultural curriculum",
+            "Strategic change process analysis",
+            "Multiculturalism impact assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Multicultural curriculum implementation planning",
+            "Leadership in diverse educational settings",
+            "Organizational thinking in curriculum development"
+        ]
+    },
+    {
+        "courseCode": "ELS 883",
+        "courseTitle": "Contemporary Issues in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of current issues in education, as well as the political, financial, and social issues affecting education leadership.  The course will explore relationships between current issues, historical perspectives, philosophical theories, and sociologic influences.  The exploration of contemporary issues related to equity and achievement will serve as a critical component of the class.",
+        "Technical and Digital Skills": [
+            "Researching educational technology trends",
+            "Utilizing online learning platforms",
+            "Data analysis for educational outcomes",
+            "Implementing digital learning tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with diverse stakeholders in education",
+            "Presenting findings on contemporary issues in education",
+            "Facilitating group discussions on educational equity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data on educational achievement gaps",
+            "Identifying solutions for improving educational equity",
+            "Evaluating the impact of social issues on educational outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on education policy changes",
+            "Creating action plans for addressing contemporary educational challenges",
+            "Managing projects related to educational reform"
+        ]
+    },
+    {
+        "courseCode": "ELS 895",
+        "courseTitle": "Topics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in educational leadership.",
+        "Technical and Digital Skills": [
+            "Educational technology implementation",
+            "Data analysis for decision-making in education",
+            "Online learning platforms management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders in education",
+            "Conflict resolution within educational institutions",
+            "Collaborative decision-making in leadership roles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting educational data",
+            "Identifying and addressing challenges in educational leadership",
+            "Developing strategies for improving educational outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for educational institutions",
+            "Creating a positive organizational culture in education",
+            "Leading change initiatives in educational settings"
+        ]
+    },
+    {
+        "courseCode": "ELS 896",
+        "courseTitle": "Topics in Urban Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in urban educational leadership.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Effective communication with diverse stakeholders in urban educational settings",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of urban educational leadership strategies",
+        "Organizational and Leadership Skills": "Strategic planning for urban educational improvement initiatives"
+    },
+    {
+        "courseCode": "ELS 897",
+        "courseTitle": "Topics in Educational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent Study, topics in Educational Leadership.",
+        "Technical and Digital Skills": [
+            "Research methodology in education",
+            "Data analysis in educational settings",
+            "Online learning platforms management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders in education",
+            "Conflict resolution in educational environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying trends in educational data",
+            "Developing strategies for improving educational outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in educational leadership",
+            "Team building in educational settings"
+        ]
+    },
+    {
+        "courseCode": "ELS 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "1-12 credits.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review analysis",
+            "Data collection techniques",
+            "Statistical analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Professional writing skills",
+            "Collaboration with research participants",
+            "Feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Hypothesis testing",
+            "Research design and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project planning",
+            "Resource allocation",
+            "Team coordination"
+        ]
+    },
+    {
+        "courseCode": "ELS 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Data analysis using software tools",
+            "Research methodology",
+            "Information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration in research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research data",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Team coordination in research projects"
+        ]
+    },
+    {
+        "courseCode": "ELS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status in doctoral program",
+            "Understanding graduate credit hour requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with academic advisors",
+            "Networking with fellow doctoral students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning course schedules to meet graduation deadlines",
+            "Addressing challenges in the doctoral program"
+        ],
+        "Organizational and Leadership Skills": [
+            "Taking ownership of academic progress",
+            "Time management for doctoral studies"
+        ]
+    }
+]

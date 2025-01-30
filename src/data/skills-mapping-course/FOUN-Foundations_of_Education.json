@@ -1,0 +1,785 @@
+[
+    {
+        "courseTitle": "Learning to Learn",
+        "courseCode": "FOUN 101S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Learning is essential to human development and is a primary goal of formal schooling. Further, the nature of work is ever changing and the need to adapt to changing environments by learning new skills in new domains is essential for future success. In this educational psychology course, students will focus on the theoretical and empirical study of the science of learning. Students will gain insights into learning processes and achieve a deeper understanding of their own learning, including how to enhance their learning in various contexts.",
+        "Technical and Digital Skills": [
+            "Understanding of theoretical learning processes",
+            "Familiarity with empirical study methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of learning processes and methods",
+            "Collaborative learning techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of learning processes",
+            "Adaptability to new learning domains",
+            "Critical evaluation of learning contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Management of learning enhancement techniques"
+        ]
+    },
+    {
+        "courseTitle": "Learning and Development",
+        "courseCode": "FOUN 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on educational psychology theory and research related to student learning and development. There will be an emphasis on how to incorporate research based principles in designing instruction, motivating students, and promoting a positive classroom climate based on how students learn and develop.",
+        "Technical and Digital Skills": [
+            "Instructional design using research based principles",
+            "Promotion of positive classroom climate design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Motivating students",
+            "Establishing effective communication in classroom"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing educational psychology theories",
+            "Application of research to problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing classroom environment",
+            "Leadership in educational settings"
+        ]
+    },
+    {
+        "courseTitle": "Assessment of Learning",
+        "courseCode": "FOUN 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on exploring and implementing ethical assessment principles in a K-12 setting in order to ensure equity amongst a diverse population of students. Students will discuss and develop assessments for formative and summative purposes. They will analyze and interpret assessment data to measure and promote student success. State assessment programs will be discussed including social justice implications. The purpose of this course is to prepare future educators to analyze instructional situations, identify instructional targets, and determine appropriate assessment tools to monitor and support student learning.",
+        "Technical and Digital Skills": [
+            "Implementing assessment principles",
+            "Developing formative and summative assessments",
+            "Analyzing and interpreting assessment data",
+            "Understanding state assessment programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing assessment principles and programs",
+            "Promoting student success through communication",
+            "Handling diversity in educational settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing instructional situations",
+            "Identifying instructional targets",
+            "Determining appropriate assessment tools",
+            "Measuring student success"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ensuring equity amongst diverse student population",
+            "Promoting social justice in education",
+            "Supporting and monitoring student learning"
+        ]
+    },
+    {
+        "courseCode": "FOUN 611",
+        "courseTitle": "Introduction to Research Methods in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The primary goal of the course is to provide students with the knowledge and skills to access, evaluate, and synthesize empirical research. The course examines types of educational research and criteria for evaluating empirical studies. It introduces various types of research questions and associated research designs, components of research reports, sampling, validity of measures, threats to internal and external validity, and simple statistics.",
+        "Technical and Digital Skills": [
+            "Accessing empirical research",
+            "Understanding research reports",
+            "Basic statistical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating research findings",
+            "Collaborative research review"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating empirical research",
+            "Synthesizing research findings",
+            "Addressing threats to internal and external validity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research materials",
+            "Leading research discussions",
+            "Designing research projects"
+        ]
+    },
+    {
+        "courseCode": "FOUN 612",
+        "courseTitle": "Applied Research Methods in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The primary goal of this course is to provide students with the knowledge and skills to write a research proposal and conduct research.  It is intended for those students who are completing a thesis to meet their program requirements, those planning on pursuing a doctoral degree, or those who anticipate conducting research for any other reasons.  The course examines types of educational research and criteria for selection of topics for research projects; describes criteria for effective collection and organization of data; review of literature, analysis of data and proposal writing.",
+        "Technical and Digital Skills": [
+            "Writing research proposals",
+            "Conducting educational research",
+            "Effective data collection and organization",
+            "Literature review",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Writing clear and concise proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selecting appropriate research topics",
+            "Analyzing and interpreting data",
+            "Critical evaluation of literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Coordinating research activities"
+        ]
+    },
+    {
+        "courseCode": "FOUN 640",
+        "courseTitle": "Fundamentals of Measurement and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course stresses the use of measurement and assessment for evaluation and decision making focusing on basic concepts applicable to all types of assessment:  statistical concepts, reliability, validity, and interpretive frameworks for cognitive and non-cognitive measures.",
+        "Technical and Digital Skills": [
+            "Understanding of measurement and assessment techniques",
+            "Application of statistical concepts",
+            "Assessing reliability and validity of data",
+            "Interpretation of cognitive and non-cognitive measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting assessment results",
+            "Communicating statistical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation and decision making based on assessment",
+            "Analyzing reliability and validity of data",
+            "Application of interpretive frameworks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing assessment processes",
+            "Leading assessment-driven decision making"
+        ]
+    },
+    {
+        "courseCode": "FOUN 641",
+        "courseTitle": "Assessment and Evaluation of Student Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "The valid use of formative and summative assessment and evaluation principles for monitoring and promoting students' learning and development will be addressed.  Students will learn how to construct and use a variety of formal and informal teacher assessment procedures.",
+        "Technical and Digital Skills": [
+            "Assessment construction",
+            "Evaluation principles application",
+            "Formative and summative assessment procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback provision",
+            "Promotion of student learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Monitoring student development",
+            "Evaluation of student learning progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and implementing assessment procedures",
+            "Leadership in student learning and development"
+        ]
+    },
+    {
+        "courseCode": "FOUN 650",
+        "courseTitle": "Human Development and Student Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on understanding children's and adolescents' physical, social, emotional, intellectual, and speech/language development; integrating and incorporating children and adolescent differences (economic, social, racial, ethnic, religious, physical, and mental) into understanding developmental issues as they relate to instruction, including the identification and instruction of students with exceptionalities as well as special needs.  Research related to the classroom application of these theories is examined and evaluated based on principles of research design and interpretation.  Student must be a participant in the Teacher Residency Grant.",
+        "Technical and Digital Skills": [
+            "Identification and instruction of students with exceptionalities",
+            "Conducting and evaluating research related to classroom application of developmental theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and integrating children and adolescent differences",
+            "Incorporating economic, social, racial, ethnic, religious, physical, and mental variations into developmental understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting research design principles",
+            "Addressing developmental issues in relation to instruction",
+            "Understanding physical, social, emotional, intellectual, and speech/language development in children and adolescents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse classrooms",
+            "Implementing instructional strategies for students with special needs"
+        ]
+    },
+    {
+        "courseCode": "FOUN 722",
+        "courseTitle": "Introduction to Applied Statistics and Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to basic topics in statistical analysis, including descriptive statistics and simple inferential statistics such as correlation, regression, t-tests, one-way analysis of variance, and chi-square.",
+        "Technical and Digital Skills": [
+            "Descriptive statistics",
+            "Inferential statistics",
+            "Correlation analysis",
+            "Regression analysis",
+            "T-tests",
+            "One-way analysis of variance",
+            "Chi-square tests"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical data analysis",
+            "Data interpretation",
+            "Hypothesis testing",
+            "Problem-solving using statistical methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "FOUN 812",
+        "courseTitle": "Research Design and Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the application of advanced research design as it is applied in various educational disciplines. It provides an in-depth examination of quantitative research approaches, sampling techniques, threats to validity, ethical considerations and reviewing, writing quantitative methodology descriptions for research proposals and reports.",
+        "Technical and Digital Skills": [
+            "Advanced research design",
+            "Quantitative research approaches",
+            "Sampling techniques",
+            "Writing quantitative methodology descriptions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical considerations in research",
+            "Reviewing research proposals and reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Threats to research validity identification",
+            "Designing research proposals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research design process",
+            "Leading research projects"
+        ]
+    },
+    {
+        "courseCode": "FOUN 813",
+        "courseTitle": "Program Evaluation in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines procedures and problems in the design and utilization of program evaluation in education. Identifies evaluation purposes and the methods of evaluation especially as affected by organizational behavior, ethical considerations, and political influences. Evaluation methodology includes, but is not limited to, design considerations, data utilization, and teacher evaluation. Both quantitative and qualitative strategies will be covered.",
+        "Technical and Digital Skills": [
+            "Designing evaluation methodology",
+            "Utilizing data for evaluation",
+            "Applying quantitative strategies",
+            "Applying qualitative strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and adhering to ethical considerations in evaluation",
+            "Managing political influences in evaluation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying evaluation purposes",
+            "Addressing problems in program evaluation design",
+            "Analyzing teacher performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding organizational behavior's impact on evaluation",
+            "Managing design considerations in program evaluation"
+        ]
+    },
+    {
+        "courseCode": "FOUN 816",
+        "courseTitle": "Single Subject Research Designs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the student knowledge and skills that relate to single subject methodology.  It includes an overview of historical and philosophical foundations, basic issues in behavioral assessment, and single subject research and design methodology, including trend and statistical analysis in single subject research.  Students will analyze critically empirical research and be able to plan, implement, and evaluate original research.",
+        "Technical and Digital Skills": [
+            "Single subject methodology",
+            "Behavioral assessment",
+            "Single subject research and design methodology",
+            "Trend and statistical analysis in single subject research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical analysis of empirical research",
+            "Presentation of research plans and findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and implementing original research",
+            "Evaluation of original research",
+            "Critical analysis of empirical research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research planning and implementation",
+            "Original research evaluation"
+        ]
+    },
+    {
+        "courseCode": "FOUN 818",
+        "courseTitle": "Analysis with Large Datasets",
+        "academicLevel": "graduate",
+        "courseDescription": "This course concentrates on sample designs, design-based estimation/inference, data preparation, and analysis of complex survey data in education.",
+        "Technical and Digital Skills": [
+            "Sample designs",
+            "Design-based estimation/inference",
+            "Data preparation",
+            "Complex survey data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Statistical analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "FOUN 822",
+        "courseTitle": "Applied Linear Models in Educational Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the general linear model with emphasis on concepts and applications of multiple linear regression (MLR) to problems in educational research.  Topics include estimation and interpretation of MLR models, relationships between MLR and analysis of variance (ANOVA), logistic regression analysis, and trend analysis.",
+        "Technical and Digital Skills": [
+            "Understanding of general linear model",
+            "Application of multiple linear regression (MLR)",
+            "Estimation and interpretation of MLR models",
+            "Understanding of analysis of variance (ANOVA)",
+            "Logistic regression analysis",
+            "Trend analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting findings from regression analysis",
+            "Explaining complex statistical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of statistical methods to educational research problems",
+            "Analytical interpretation of statistical results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing statistical projects",
+            "Leading research analysis"
+        ]
+    },
+    {
+        "courseCode": "FOUN 823",
+        "courseTitle": "Analysis of Variance Applied to Educational Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction of analysis of variance models as applied in education and human services, including two-way and three-way factorial designs, analysis of covariance, repeated-measures, and mixed-model analysis.",
+        "Technical and Digital Skills": [
+            "Understanding of variance models",
+            "Applying two-way and three-way factorial designs",
+            "Conducting analysis of covariance",
+            "Implementing repeated-measures",
+            "Executing mixed-model analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting variance analysis results",
+            "Problem-solving through statistical methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing statistical data",
+            "Leading research projects involving variance analysis"
+        ]
+    },
+    {
+        "courseCode": "FOUN 824",
+        "courseTitle": "Design and Analysis for Causal Inference in Educational Contexts",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to research design and statistical analysis for studies intended to support causal inferences.  Topics include experimental, quasi-experimental, and ex post facto design and appropriate models for data analysis.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Statistical analysis",
+            "Understanding of experimental, quasi-experimental, and ex post facto design",
+            "Data analysis modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Inference drawing",
+            "Causal analysis",
+            "Analyzing experimental and non-experimental data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "FOUN 825",
+        "courseTitle": "Applied Multilevel Modeling in Educational Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on advanced applications of statistics that are used in educational research in various educational disciplines.  Specifically, the course will offer an introduction to hierarchical linear modeling (HLM) of nested data as applied to education.  Topics include conceptual and statistical background of two- and three-level designs, cross-level interaction effects, and application of multilevel models for repeated measures designs.  Emphasis is on estimation, interpretation, and diagnostics for multilevel models of continuous outcomes.",
+        "Technical and Digital Skills": [
+            "Application of hierarchical linear modeling (HLM)",
+            "Understanding of two- and three-level designs",
+            "Interpretation of cross-level interaction effects",
+            "Application of multilevel models for repeated measures designs",
+            "Estimation and diagnostics for multilevel models of continuous outcomes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced statistical analysis",
+            "Interpretation of complex statistical data",
+            "Problem-solving with hierarchical linear modeling"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "FOUN 826",
+        "courseTitle": "Applied Structural Equation Modeling in Educational Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to structural equation modeling and related multivariate procedures applied to research problems in education. Topics include a brief review of exploratory factor analysis, confirmatory (structural) factor analysis, path analysis, and structural equation modeling with observed and latent variables.",
+        "Technical and Digital Skills": [
+            "Structural equation modeling",
+            "Exploratory factor analysis",
+            "Confirmatory factor analysis",
+            "Path analysis",
+            "Working with observed and latent variables"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex statistical concepts",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Multivariate analysis",
+            "Analytical thinking in addressing educational research problems",
+            "Critical evaluation of statistical outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Coordinating statistical analyses"
+        ]
+    },
+    {
+        "courseCode": "FOUN 827",
+        "courseTitle": "Applied Logistic Regression",
+        "academicLevel": "graduate",
+        "courseDescription": "A practical and conceptual introduction to applying logistic and probit regression models to typical questions in the social sciences.  Will utilize SPSS for practical applications covering simple and multiple regression models, interactions and curvilinear effects, multinomial models, testing of assumptions, and select advanced applications such as propensity score matching and missing data analysis.",
+        "Technical and Digital Skills": [
+            "Applying logistic and probit regression models",
+            "Utilizing SPSS for practical applications",
+            "Performing simple and multiple regression models",
+            "Interpreting interactions and curvilinear effects",
+            "Executing multinomial models",
+            "Testing of assumptions",
+            "Applying advanced applications such as propensity score matching",
+            "Performing missing data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting statistical data",
+            "Solving problems using logistic and probit regression models",
+            "Identifying and addressing data anomalies",
+            "Critical evaluation of models and assumptions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "FOUN 830",
+        "courseTitle": "Theories of Learning and Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "The course consists of critical discussion and analysis of major learning theories that have influenced learning and instruction in today's schools.  Applications of current research to instructional design will be emphasized.",
+        "Technical and Digital Skills": [
+            "Applications of learning theories",
+            "Instructional design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion",
+            "Communicating complex theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of learning theories",
+            "Critical evaluation of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of research to instruction",
+            "Leadership in instructional design"
+        ]
+    },
+    {
+        "courseCode": "FOUN 831",
+        "courseTitle": "Human Development in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the domain of human development to education students by promoting their construction of a developmental perspective and adoption of a developmental theory to understand education-relevant phenomena. The course will cover central tenets of the developmental psychological perspective, several contemporary developmental approaches, and contexts of development relevant to educational processes. Furthermore, the course aims to promote students' skills in pursuing scientific knowledge about educational topics of interest in human development. The course will address life-span processes; however, the primary emphasis will be on processes and ages associated with formal educational settings (K-16).",
+        "Technical and Digital Skills": [
+            "Researching educational topics",
+            "Applying developmental theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding educational phenomena",
+            "Communicating educational theories and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Constructing a developmental perspective",
+            "Analyzing lifespan processes",
+            "Evaluating contemporary developmental approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adopting a developmental theory for understanding education",
+            "Planning and conducting research on educational topics"
+        ]
+    },
+    {
+        "courseCode": "FOUN 835",
+        "courseTitle": "Motivation in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The course consists of critical discussion and analysis of major theories of motivation and research supporting these theories. Applications to education and classroom instruction will be emphasized. Equity concerns related to how to motivate students placed at risk will also be examined.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication to motivate students",
+            "Understanding and addressing equity concerns in motivation",
+            "Classroom instruction techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of motivation theories",
+            "Application of research to practical situations",
+            "Addressing motivational challenges in students at risk"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic application of motivational theories",
+            "Leadership in classroom instruction",
+            "Managing and promoting equity in classrooms"
+        ]
+    },
+    {
+        "courseCode": "FOUN 836",
+        "courseTitle": "Metacognition and Self-Regulated Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "The course consists of critical discussion and analysis of major theories and research on metacognition and self-regulated learning. Applications to education and classroom instruction will be emphasized. Strategies to promote self-regulated learning among diverse and at-risk students will also be examined.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion and presentation of critical theories",
+            "Communication strategies for diverse student populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of major theories on metacognition and self-regulated learning",
+            "Evaluation of research on metacognition and self-regulated learning",
+            "Development of strategies to promote self-regulated learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of theories to classroom instruction",
+            "Leadership in promoting self-regulated learning"
+        ]
+    },
+    {
+        "courseCode": "FOUN 840",
+        "courseTitle": "Educational Measurement and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of advanced educational measurement and assessment ideologies as well as methods. Students will identify, critique, construct and administer educational measures. Psychometric topics such as reliability and validity will be explored as well as advanced assessment issues such as scale construction and item response theory.",
+        "Technical and Digital Skills": [
+            "Advanced educational measurement",
+            "Constructing educational measures",
+            "Administering educational measures",
+            "Understanding of psychometric topics like reliability and validity",
+            "Scale construction",
+            "Item response theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critiquing educational measures",
+            "Communicating complex psychometric concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate educational measures",
+            "Analyzing assessment issues",
+            "Evaluating reliability and validity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing the process of educational measure construction",
+            "Leading the administration of educational measures"
+        ]
+    },
+    {
+        "courseCode": "FOUN 850",
+        "courseTitle": "Sociological and Philosophical Foundations of Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the relationship between education and society by reviewing a variety of theoretical perspectives and empirical studies. Topics include: social mobility and stratification; social reproduction; the dynamics of race, class, and gender in education; social capital; the student-teacher relationship; teaching as a profession; and higher education.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding student-teacher relationships",
+            "Understanding dynamics of race, class, and gender in education",
+            "Effective communication of theoretical perspectives and empirical studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social mobility and stratification",
+            "Critical evaluation of social reproduction and social capital",
+            "Understanding higher education systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of educational studies",
+            "Leadership within a teaching profession"
+        ]
+    },
+    {
+        "courseCode": "FOUN 867",
+        "courseTitle": "Teaching and Research Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced graduate students in the Ph.D. Educational Psychology, Research and Evaluation program or other Ph.D. programs will have the opportunity to participate in research, consulting, an internship, or assisting in teaching research and statistics courses.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Statistical analysis",
+            "Data interpretation",
+            "Educational psychology theory application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching and presentation skills",
+            "Consultation and advisory skills",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification in educational psychology",
+            "Solution formulation for educational issues",
+            "Critical evaluation of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Leadership in educational settings",
+            "Mentoring and guidance"
+        ]
+    },
+    {
+        "courseCode": "FOUN 869",
+        "courseTitle": "Teaching Statistics Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced graduate students in the Ph.D. Educational Research, Evaluation and Educational Psychology concentration or other Ph.D. concentrations will have the opportunity to participate in research, consulting, internship, or assisting in teaching research methods and statistics courses.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Statistical analysis",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching skills",
+            "Consulting and advising",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in statistical analysis",
+            "Critical evaluation of research data",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project and internship management",
+            "Leadership in research settings",
+            "Organizing course material"
+        ]
+    },
+    {
+        "courseCode": "FOUN 870",
+        "courseTitle": "Formative Assessment of Student Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "Educators in various leadership and instructional roles need strong skills and knowledge in contemporary assessment of student learning. This course addresses a wide range of student assessment topics which makes connections among assessment practices, self-regulated learning, motivation, feedback, and engagement at the classroom and school levels. Students will learn how to develop, build and sustain formative assessment programs.",
+        "Technical and Digital Skills": [
+            "Developing formative assessment programs",
+            "Utilization of assessment tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Providing effective feedback",
+            "Engaging students in the learning process"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment analysis",
+            "Application of self-regulated learning strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in classroom and school levels",
+            "Motivating students",
+            "Organizing and managing assessment practices"
+        ]
+    },
+    {
+        "courseCode": "FOUN 881",
+        "courseTitle": "Dissertation Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Instructor approval required. The primary goal of the course is to develop a dissertation proposal. It is intended for doctoral students who have completed all other coursework. The course covers literature reviews, proposal writing, and obtaining approval from Human Subjects committees. Outlets for disseminating the research findings will be explored.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Proposal writing",
+            "Research dissemination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with Human Subjects committees",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of literature",
+            "Identifying research gaps",
+            "Designing research methodology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Obtaining approval from committees"
+        ]
+    },
+    {
+        "courseCode": "FOUN 895",
+        "courseTitle": "Special Topics in Educational Psychology and Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in Educational Psychology and/or Program Evaluation.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodologies",
+            "Program evaluation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning",
+            "Problem solving in educational settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Organizing research findings",
+            "Leadership in educational settings"
+        ]
+    },
+    {
+        "courseCode": "FOUN 897",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will be used for independent studies with Educational Psychology and Program Evaluation faculty members.",
+        "Technical and Digital Skills": [
+            "Educational research methods",
+            "Program evaluation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback interpretation and application"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of educational programs",
+            "Problem identification and solution formulation in educational psychology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent work management",
+            "Self-guided learning"
+        ]
+    },
+    {
+        "courseCode": "FOUN 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Dissertation credit.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Citation and referencing",
+            "Research database navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Constructive feedback reception",
+            "Scholarly discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thesis formulation",
+            "Literature review analysis",
+            "Research methodology application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseCode": "FOUN 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Self-directed communication",
+            "Status reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-motivation",
+            "Independent research skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Academic project management"
+        ]
+    }
+]

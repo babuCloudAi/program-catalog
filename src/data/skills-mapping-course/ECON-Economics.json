@@ -1,0 +1,1635 @@
+[
+    {
+        "courseTitle": "Principles of Macroeconomics",
+        "courseCode": "ECON 201S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Development of the theory of supply and demand, and their interaction in a market economy.  Classical, Keynesian, and monetarist explanations of inflation and unemployment are presented and analyzed.  Emphasis is placed on income determination, fiscal policy, monetary policy, and the issue of government efforts to improve economic performance.",
+        "Technical and Digital Skills": [
+            "Economic modeling",
+            "Data analysis using economic indicators",
+            "Understanding fiscal and monetary policy tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic concepts to a non-specialist audience",
+            "Collaborating on economic research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing economic data to make policy recommendations",
+            "Evaluating the impact of government interventions on the economy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic research teams",
+            "Developing strategies for economic policy implementation"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Microeconomics",
+        "courseCode": "ECON 202S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of how individuals and businesses interact in a market economy.  Emphasis is placed on consumer behavior, price and output decisions of firms, the economic efficiency of the resulting allocation of society's resources, and the gains from international trade and impact of trade barriers.",
+        "Technical and Digital Skills": [
+            "Understanding market trends and data analysis",
+            "Economic modeling and forecasting",
+            "Utilizing economic software for analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex economic concepts in a simple manner",
+            "Effective communication of market research findings to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing consumer behavior data to make informed decisions",
+            "Evaluating economic efficiency and resource allocation scenarios",
+            "Identifying gains from international trade and proposing strategies to mitigate trade barriers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic research projects",
+            "Coordinating with team members to analyze market data effectively"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Principles of Macroeconomics",
+        "courseCode": "ECON 226S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors section of ECON 201S.",
+        "Technical and Digital Skills": [
+            "Economic modeling",
+            "Data analysis in economics",
+            "Excel for economic analysis",
+            "Statistical software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic research findings",
+            "Collaborating on economic projects",
+            "Effective communication of economic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic data interpretation",
+            "Policy analysis",
+            "Forecasting economic trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing economic research projects",
+            "Leading economic discussions and debates",
+            "Organizing economic data effectively"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Principles of Microeconomics",
+        "courseCode": "ECON 227S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors section of ECON 202S.",
+        "Technical and Digital Skills": [
+            "Economic modeling using software tools",
+            "Data analysis with Excel or statistical software",
+            "Graphical representation of economic data",
+            "Statistical analysis of economic trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic analysis findings",
+            "Collaborating on economic research projects with peers",
+            "Participating in economic debates or discussions",
+            "Communicating complex economic concepts clearly"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting economic data to make informed decisions",
+            "Analyzing economic policies and their impact on society",
+            "Critical evaluation of economic theories",
+            "Creating economic models to predict outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group projects on economic topics",
+            "Organizing economic research presentations",
+            "Managing time effectively for coursework and study",
+            "Delegating tasks in group assignments"
+        ]
+    },
+    {
+        "courseTitle": "Managerial Economics",
+        "courseCode": "ECON 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the application of economic theory and methodology to managerial decision making and strategy.  Key topics are demand analysis, economic forecasting, production, cost analysis, the economics of organization, market structure and strategic behavior, pricing techniques, and government regulation and its implications for firm behavior.  Emphasis is placed on the global context of managerial decisions.",
+        "Technical and Digital Skills": [
+            "Economic forecasting",
+            "Cost analysis",
+            "Pricing techniques",
+            "Government regulation analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of economic analysis",
+            "Global context understanding in decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Demand analysis",
+            "Market structure analysis",
+            "Strategic behavior evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic decision-making in economic contexts",
+            "Team coordination for managerial strategies"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Microeconomic Theory",
+        "courseCode": "ECON 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Develops methods of microeconomic analysis beyond the principles level.  Major emphasis is placed on consumer behavior and demand, production and cost, market organization, distribution theory, and welfare theory.",
+        "Technical and Digital Skills": [
+            "Econometric modeling",
+            "Statistical analysis in economics",
+            "Market analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic insights",
+            "Collaborative research in economics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Microeconomic data interpretation",
+            "Optimization of economic models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economics research"
+        ]
+    },
+    {
+        "courseTitle": "Economics, Causality, and Analytics",
+        "courseCode": "ECON 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "To make sense of the modern world and evaluate information through the lens of economics, it is imperative to be able to understand economic data, how it is used, how to use it, and what conclusions can be drawn from it. This course will explore the idea of causal inference (understanding if and how X causes Y to happen) and how economists and researchers evaluate potential causal relationships. Students will learn about how economists think about causality conceptually as well as econometric techniques using data with the R statistical programming language.",
+        "Technical and Digital Skills": [
+            "Understanding economic data",
+            "Econometric techniques using R",
+            "Statistical programming in R"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic insights",
+            "Collaborative data analysis discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Causal inference evaluation",
+            "Evaluating potential causal relationships in economics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "ECON 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised internship in economics.  Approval for enrollment and allowable credits is determined by the department CAP advisor and the Career Development Services in the semester prior to enrollment. Credit for internship and practicum in economics may not both be applied to meeting requirements for the major.",
+        "Technical and Digital Skills": [
+            "Economic data analysis",
+            "Statistical modeling in economics",
+            "Econometrics software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with supervisors and colleagues",
+            "Networking within the economics field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic data",
+            "Problem-solving in economic research scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in an economics setting",
+            "Leadership in economic research projects"
+        ]
+    },
+    {
+        "courseTitle": "Practicum in Economics",
+        "courseCode": "ECON 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application of economic theory and principles to a practical problem of interest to a sponsoring community organization.  (Qualifies as a CAP experience.)",
+        "Technical and Digital Skills": [
+            "Economic modeling software proficiency",
+            "Data analysis using statistical tools",
+            "Financial modeling skills",
+            "Excel data manipulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of economic analysis to non-experts",
+            "Collaboration with community organizations",
+            "Presentation skills for conveying economic insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of economic theory to practical problems",
+            "Critical evaluation of economic data",
+            "Identifying solutions to economic challenges faced by community organizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for economic research projects",
+            "Leading a team in economic analysis",
+            "Organizing and prioritizing economic research tasks"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Economics",
+        "courseCode": "ECON 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics, the title of which will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Statistical analysis software proficiency",
+            "Econometric modeling",
+            "Data visualization using software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic data",
+            "Collaborative research and group projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic data interpretation",
+            "Forecasting economic trends",
+            "Policy analysis and evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economic research",
+            "Team coordination for economic analysis"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Economics",
+        "courseCode": "ECON 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics, the title of which will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Statistical analysis using software like R or Stata",
+            "Data visualization with tools like Tableau or Power BI",
+            "Econometric modeling and forecasting techniques",
+            "Financial modeling and analysis using Excel or Python"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic research findings to diverse audiences",
+            "Collaborating with team members on economic projects",
+            "Effective written communication for economic reports and proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic data interpretation and trend analysis",
+            "Policy impact assessment and evaluation",
+            "Identifying and resolving economic issues through quantitative analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic research teams on projects",
+            "Project management for economic data collection and analysis",
+            "Decision-making based on economic data and analysis"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in Economics",
+        "courseCode": "ECON 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides students with a set of practical skills useful in economic research and in the presentation of research results.  Includes training in the use of various software packages, the Internet, and regression analysis for conducting economic research.",
+        "Technical and Digital Skills": [
+            "Regression analysis",
+            "Software packages usage",
+            "Internet research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Transportation Economics",
+        "courseCode": "ECON 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the transportation system in the United States including its development, pricing, and regulation.  Special attention is given to railroads, highways, pipeline, water and air transportation; and the roles that these modes of transportation play in economic development.",
+        "Technical and Digital Skills": [
+            "Understanding transportation system development",
+            "Pricing strategies in transportation",
+            "Regulation in transportation industry",
+            "Knowledge of railroads, highways, pipeline, water, and air transportation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of economic concepts in transportation",
+            "Collaboration with stakeholders in transportation projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing economic impact of different transportation modes",
+            "Identifying inefficiencies in transportation systems",
+            "Developing solutions for economic development through transportation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading transportation projects",
+            "Coordinating transportation initiatives for economic growth"
+        ]
+    },
+    {
+        "courseTitle": "Labor Market Economics",
+        "courseCode": "ECON 407W/507",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Economic analysis of various facets of labor markets. Emphasis is placed on the analysis of labor supply, labor demand, wage determination, earnings differentials and inequality, occupational choice, human capital investment, labor market discrimination, mobility and immigration, impact of unions, and  unemployment.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Statistical analysis of labor market data",
+            "Economic modeling for labor supply and demand",
+            "Data visualization for wage determination analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing for economic analysis reports",
+            "Presenting labor market research findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying factors contributing to labor market inequality",
+            "Analyzing the impact of labor market discrimination on economic outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects on labor market trends",
+            "Leading discussions on labor market policies and their implications"
+        ]
+    },
+    {
+        "courseTitle": "Public Economics",
+        "courseCode": "ECON 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the interaction between government and the economy, with particular emphasis on the role of the federal government.  Topics that address the motivation for government involvement in the economy include market failure, income inequality, and redistribution of income.  Specific programs studied include Medicare/Medicaid, welfare programs, and the social security system.",
+        "Technical and Digital Skills": [
+            "Understanding government economic policies",
+            "Data analysis for policy evaluation",
+            "Budget analysis techniques",
+            "Financial modeling for public programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings to non-specialist audiences",
+            "Negotiating policy recommendations with stakeholders",
+            "Team collaboration on policy research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating economic impact of government interventions",
+            "Identifying inefficiencies in public programs",
+            "Forecasting budget implications of policy changes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research teams on economic policy studies",
+            "Managing timelines and resources for policy analysis projects"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Mathematical Economics",
+        "courseCode": "ECON 425",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course focus is on the use of differential and integral calculus, matrix algebra, difference equations and classical optimization theory in the presentation and development of economic theory.",
+        "Technical and Digital Skills": [
+            "Differential and integral calculus application",
+            "Matrix algebra manipulation",
+            "Difference equations application",
+            "Classical optimization theory understanding"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in economic theory analysis",
+            "Optimization problem-solving skills",
+            "Mathematical modeling proficiency"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Industrial Organization and Public Policy",
+        "courseCode": "ECON 427/527",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of market structures and the conduct and performance of business firms in different market structures.  The emphasis is on the theory and measurement of industrial concentration and public policy responses to industrial concentration.",
+        "Technical and Digital Skills": [
+            "Market structure analysis",
+            "Measurement of industrial concentration",
+            "Public policy analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in market analysis",
+            "Data interpretation for policy decisions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Health Economics: A Global Perspective",
+        "courseCode": "ECON 435/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the student to the economics of health care and the application of health economics to health care problems, the issues surrounding those problems, and the potential solutions to those problems.  The course will emphasize institutional features of the health care industry, the market for health care, the political economy of health care, and government involvement in the delivery of health care.  Further, the course will survey the delivery of health care in other countries and provide a global perspective on selected health care issues such as AIDS, water and air quality, and the aging of the population.",
+        "Technical and Digital Skills": [
+            "Economic analysis in health care",
+            "Understanding health care market dynamics",
+            "Utilizing economic models for health care issues",
+            "Researching global health care systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings in health care",
+            "Collaborating with experts in health economics",
+            "Effective communication of health care policy recommendations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health care data",
+            "Identifying solutions for health care problems",
+            "Critical evaluation of global health care issues",
+            "Developing evidence-based health care policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health care research projects",
+            "Managing health care policy implementation",
+            "Coordinating international health care initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Sports Economics",
+        "courseCode": "ECON 436",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the student to the economics of sports in America.  The course will emphasize institutional features of the sport industry.  Specific topics included are: sports franchises as profit-maximizing firms; monopoly and antitrust rules as applied to the sports industry; public finance of sports; costs and benefits of a sports franchise to a city: the labor economics of professional sports; discrimination in sports; and the economics of college sports.  This course may not be applied toward the major in economics as an economics elective or toward the minor in economics or the M.A. in economics.  (It could, however, be used as a non-economics elective for the major.)",
+        "Technical and Digital Skills": [
+            "Economic analysis in sports industry",
+            "Monopoly and antitrust rules application in sports",
+            "Public finance analysis in sports",
+            "Labor economics in professional sports",
+            "Data analysis in sports economics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic insights in sports industry",
+            "Collaborative research on sports economics topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic data in sports industry",
+            "Identifying costs and benefits in sports franchise analysis",
+            "Analyzing discrimination in sports from an economic perspective"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on sports economics topics",
+            "Organizing research projects on sports economics"
+        ]
+    },
+    {
+        "courseTitle": "Urban Economics",
+        "courseCode": "ECON 445W/545",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the economic factors which give rise to the formation of urban centers and which contribute to the following problems: urban poverty, housing conditions, traffic congestion, and the fiscal crisis faced by modern cities.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Economic analysis",
+            "Urban planning software proficiency",
+            "Data visualization tools",
+            "Statistical software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing skills",
+            "Public speaking",
+            "Data interpretation and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in urban economics",
+            "Problem identification and resolution",
+            "Data-driven decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in urban economics research",
+            "Team collaboration on urban economic projects"
+        ]
+    },
+    {
+        "courseTitle": "Natural Resource and Environmental Economics",
+        "courseCode": "ECON 447W/547",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics discussed include conservation and scarcity, market failure, fishery management, benefit-cost analysis, water resource development, environmental quality, recreation, energy, and marine resources.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Benefit-cost analysis",
+            "Fishery management techniques",
+            "Water resource development strategies",
+            "Energy resource analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing skills for environmental economics",
+            "Presenting economic data and analysis",
+            "Collaborating with stakeholders in environmental decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Market failure analysis",
+            "Environmental impact assessment",
+            "Recreation demand modeling",
+            "Marine resource valuation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for environmental economics research",
+            "Leading environmental policy discussions",
+            "Organizing and facilitating group projects in the field of natural resources"
+        ]
+    },
+    {
+        "courseTitle": "International Economics",
+        "courseCode": "ECON 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the principles of trade theory and policy with an overall exposition of the principles of international finance.  The main objective of the course is to provide knowledge of analytical tools used by economists in analyzing contemporary international economic problems.",
+        "Technical and Digital Skills": [
+            "Analytical tools proficiency",
+            "International finance analysis",
+            "Trade theory understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic analysis",
+            "Team collaboration on economic projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Contemporary international economic problem analysis",
+            "Critical evaluation of economic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economic analysis",
+            "Leadership in economic decision-making"
+        ]
+    },
+    {
+        "courseTitle": "History of Economic Thought",
+        "courseCode": "ECON 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the history of economic theory with attention to the economic ideas and philosophy of Adam Smith, David Ricardo, Karl Marx, J.M. Keynes and other major figures in the development of economics.",
+        "Technical and Digital Skills": [
+            "Research skills in economic literature",
+            "Data analysis using historical economic data",
+            "Utilizing digital archives for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting historical economic ideas and theories",
+            "Engaging in academic debates on economic philosophy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of economic theories on historical events",
+            "Evaluating the evolution of economic thought over time"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on economic theories",
+            "Organizing research projects on key economic thinkers"
+        ]
+    },
+    {
+        "courseTitle": "Economic Development",
+        "courseCode": "ECON 454W/554",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is intended to provide an introduction to the problems of economic development in the Third World, including the problems of economic growth, income distribution, poverty, urbanization, uneven development, agricultural policy, economic planning, industrial policy, trade policy, balance of payments, finance, and currency crises.  To illustrate these issues we will examine the problems of certain individual countries, such as Brazil, Korea, Philippines, India, Mexico, Kenya, Indonesia, and Thailand.  The course tries to strike a balance between economic theory and institutional economics.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Economic modeling",
+            "Data analysis",
+            "Policy analysis",
+            "Research skills",
+            "Statistical analysis",
+            "Financial modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Report writing",
+            "Presentation skills",
+            "Cross-cultural communication",
+            "Negotiation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem-solving skills",
+            "Policy evaluation",
+            "Data interpretation",
+            "Research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team collaboration",
+            "Strategic planning",
+            "Decision-making skills",
+            "Policy implementation"
+        ]
+    },
+    {
+        "courseTitle": "Comparative Economic Systems",
+        "courseCode": "ECON 455/555",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines and compares different economies from around the world, including such economies as the UK, France, Germany, Sweden, Japan, India, Korea, Russia, and China.  Students look at the economic growth, GDP per capita, unemployment, inflation, income distribution, economic efficiency, institutions, policies, industrial structure, legal infrastructure, and international trade of these economies.  Students study the functioning of markets and the problems of market and government failure.  The course addresses the question, what is the best way to organize society.",
+        "Technical and Digital Skills": [
+            "Understanding economic indicators like GDP, unemployment, and inflation",
+            "Analyzing economic data using statistical software",
+            "Researching economic policies and institutions",
+            "Comparing international trade data between economies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic analysis findings to a diverse audience",
+            "Collaborating with peers on comparative research projects",
+            "Debating the merits of different economic systems with classmates"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market failures and proposing solutions",
+            "Analyzing the impact of government interventions on economic efficiency",
+            "Evaluating the effectiveness of legal infrastructure on market operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on economic system comparisons",
+            "Organizing research materials from multiple economies",
+            "Delegating tasks effectively in group projects"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics in Economics",
+        "courseCode": "ECON 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Taught on an occasional basis.  A study of selected topics, the title of which will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical thinking in economic analysis, data interpretation and forecasting, qualitative and quantitative research methods",
+        "Organizational and Leadership Skills": "Research project management, team collaboration in data collection and analysis"
+    },
+    {
+        "courseTitle": "Readings in Economics",
+        "courseCode": "ECON 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to provide the advanced student in economics an opportunity to do independent study under the guidance of a member of the faculty.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis techniques",
+            "Statistical software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with faculty mentor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic literature",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management for independent study"
+        ]
+    },
+    {
+        "courseCode": "ECON 502",
+        "courseTitle": "Transportation Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of the transportation system in the United States including its development, pricing, and regulation.  Special attention is given to railroads, highways, pipeline, water and air transportation; and the roles that these modes of transportation play in economic development.",
+        "Technical and Digital Skills": [
+            "Understanding transportation systems in the US",
+            "Analysis of transportation pricing models",
+            "Regulatory knowledge in transportation industry",
+            "Knowledge of railroads, highways, pipelines, water, and air transportation systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of transportation economic concepts",
+            "Collaboration with stakeholders in transportation sector"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing economic impact of different transportation modes",
+            "Identifying inefficiencies in transportation systems",
+            "Developing strategies for improving transportation efficiency"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading transportation economic research projects",
+            "Managing transportation-related data and information"
+        ]
+    },
+    {
+        "courseCode": "ECON 507",
+        "courseTitle": "Labor Market Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Economic analysis of various facets of labor markets. Emphasis is placed on the analysis of labor supply, labor demand, wage determination, earnings differentials and inequality, occupational choice, human capital investment, labor market discrimination, mobility and immigration, impact of unions, and  unemployment.",
+        "Technical and Digital Skills": [
+            "Economic analysis of labor markets",
+            "Wage determination analysis",
+            "Earnings differentials analysis",
+            "Human capital investment analysis",
+            "Labor market discrimination analysis",
+            "Impact of unions analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting labor market analysis findings",
+            "Collaborating on labor market research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing labor supply and demand",
+            "Analyzing occupational choice factors",
+            "Analyzing mobility and immigration effects",
+            "Analyzing unemployment trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading labor market research teams",
+            "Organizing labor market data for analysis"
+        ]
+    },
+    {
+        "courseCode": "ECON 521",
+        "courseTitle": "Public Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the interaction between government and the economy, with particular emphasis on the role of the federal government.  Topics that address the motivation for government involvement in the economy include market failure, income inequality, and redistribution of income.  Specific programs studied include Medicare/Medicaid, welfare programs, and the social security system.",
+        "Technical and Digital Skills": [
+            "Understanding of government economic policies",
+            "Analysis of government programs impact on economy",
+            "Data analysis for economic policy evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings to diverse audiences",
+            "Collaborating with policymakers and economists",
+            "Negotiating policy recommendations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market failures in the economy",
+            "Analyzing income inequality data",
+            "Developing redistribution strategies based on economic indicators"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic research projects",
+            "Managing economic policy analysis teams",
+            "Organizing economic impact assessments"
+        ]
+    },
+    {
+        "courseCode": "ECON 527",
+        "courseTitle": "Industrial Organization and Public Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of market structures and the conduct and performance of business firms in different market structures.  The emphasis is on the theory and measurement of industrial concentration and public policy responses to industrial concentration.",
+        "Technical and Digital Skills": [
+            "Market structure analysis",
+            "Industrial concentration measurement",
+            "Public policy analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of market conduct",
+            "Performance analysis of business firms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 531",
+        "courseTitle": "Money and Banking",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the nature and functions of money and credit, the commercial banking system, the Federal Reserve System, the quantity theory of money, the theory of income determination, the balance of payments and exchange rates, and the history of monetary policy in the United States.",
+        "Technical and Digital Skills": [
+            "Understanding of the Federal Reserve System",
+            "Quantitative analysis of monetary policy",
+            "Knowledge of balance of payments and exchange rates",
+            "Financial data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial information",
+            "Collaboration with banking professionals",
+            "Clear communication of economic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of monetary theories",
+            "Financial data analysis",
+            "Identification of trends in banking systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic decision-making in monetary policy",
+            "Management of financial resources",
+            "Leadership in economic discussions"
+        ]
+    },
+    {
+        "courseCode": "ECON 535",
+        "courseTitle": "Health Economics: A Global Perspective",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the student to the economics of health care and the application of health economics to health care problems, the issues surrounding those problems, and the potential solutions to those problems.  The course will emphasize institutional features of the health care industry, the market for health care, the political economy of health care, and government involvement in the delivery of health care.  Further, the course will survey the delivery of health care in other countries and provide a global perspective on selected health care issues such as AIDS, water and air quality, and the aging of the population.",
+        "Technical and Digital Skills": [
+            "Understanding health care economics principles",
+            "Analyzing health care data",
+            "Utilizing economic models in health care analysis",
+            "Comparative health care systems analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting health care economic findings",
+            "Collaborating with international health care professionals",
+            "Negotiating health care policy recommendations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying inefficiencies in health care systems",
+            "Developing solutions for health care challenges",
+            "Utilizing economic tools for health care decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading global health care research projects",
+            "Managing cross-cultural health care teams",
+            "Implementing health care policy changes"
+        ]
+    },
+    {
+        "courseCode": "ECON 545",
+        "courseTitle": "Urban Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of the economic factors which give rise to the formation of urban centers and which contribute to the following problems: urban poverty, housing conditions, traffic congestion, and the fiscal crisis faced by modern cities.",
+        "Technical and Digital Skills": [
+            "Urban economic modeling",
+            "City data analysis",
+            "GIS mapping software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings to diverse audiences",
+            "Collaborating with urban planners and policymakers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of urban poverty",
+            "Developing solutions for housing issues in urban areas",
+            "Analyzing traffic patterns for congestion reduction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading urban economic research projects",
+            "Coordinating city-wide economic development initiatives"
+        ]
+    },
+    {
+        "courseCode": "ECON 547",
+        "courseTitle": "Natural Resource and Environmental Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics discussed include conservation and scarcity, market failure, fishery management, benefit-cost analysis, water resource development, environmental quality, recreation, energy, and marine resources.",
+        "Technical and Digital Skills": [
+            "Benefit-cost analysis",
+            "Fishery management techniques",
+            "Water resource development strategies",
+            "Energy resource evaluation",
+            "Marine resource management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic analysis findings",
+            "Collaborating with stakeholders on resource management plans",
+            "Negotiating agreements for resource use"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Market failure identification",
+            "Conservation and scarcity analysis",
+            "Environmental quality assessment",
+            "Recreation impact evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading resource management projects",
+            "Organizing data for economic modeling",
+            "Coordinating interdisciplinary teams for environmental impact studies"
+        ]
+    },
+    {
+        "courseCode": "ECON 551",
+        "courseTitle": "History of Economic Thought",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the history of economic theory with attention to the economic ideas and philosophy of Adam Smith, David Ricardo, Karl Marx, J.M. Keynes and other major figures in the development of economics.",
+        "Technical and Digital Skills": [
+            "Research skills in economic literature analysis",
+            "Data analysis with economic data sets",
+            "Digital research methods for historical economic texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex economic theories in a clear and engaging manner",
+            "Collaborating with peers on historical economic research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and comparing economic theories from different historical periods",
+            "Identifying key economic ideas and philosophies in historical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on historical economic theories",
+            "Organizing research materials for historical economic analysis"
+        ]
+    },
+    {
+        "courseCode": "ECON 554",
+        "courseTitle": "Economic Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is intended to provide an introduction to the problems of economic development in the Third World, including the problems of economic growth, income distribution, poverty, urbanization, uneven development, agricultural policy, economic planning, industrial policy, trade policy, balance of payments, finance, and currency crises.  To illustrate these issues we will examine the problems of certain individual countries, such as Brazil, Korea, Philippines, India, Mexico, Kenya, Indonesia, and Thailand.  In the course we try to strike a balance between economic theory and institutional economics.",
+        "Technical and Digital Skills": [
+            "Economic policy analysis",
+            "Trade policy evaluation",
+            "Financial analysis",
+            "Industrial policy implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective cross-cultural communication",
+            "Negotiation skills in economic planning",
+            "Presentation of economic data",
+            "Team collaboration in economic projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of economic challenges",
+            "Economic modeling and forecasting",
+            "Policy impact assessment",
+            "Data-driven decision-making in economic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic economic planning",
+            "Project management in economic development initiatives",
+            "Leading economic policy teams",
+            "Conflict resolution in economic policy debates"
+        ]
+    },
+    {
+        "courseCode": "ECON 555",
+        "courseTitle": "Comparative Economic Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines and compares different economies from around the world, including such economies as the UK, France, Germany, Sweden, Japan, India, Korea, Russia, and China.  Students look at the economic growth, GDP per capita, unemployment, inflation, income distribution, economic efficiency, institutions, policies, industrial structure, legal infrastructure, and international trade of these economies.  Students study the functioning of markets and the problems of market and government failure.  The course addresses the question, what is the best way to organize society?",
+        "Technical and Digital Skills": [
+            "Economic data analysis",
+            "Market structure evaluation",
+            "International trade analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings",
+            "Debating economic theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of economic systems",
+            "Identifying market failures",
+            "Policy analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic discussions",
+            "Organizing economic data for comparison"
+        ]
+    },
+    {
+        "courseCode": "ECON 595",
+        "courseTitle": "Selected Topics in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Taught on an occasional basis.  A study of selected topics, the title of which will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of economic data",
+        "Organizational and Leadership Skills": "Research project management"
+    },
+    {
+        "courseCode": "ECON 607",
+        "courseTitle": "Managerial Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the MBA student to the use of economic analysis to aid managerial decision-making.  Topics include demand and supply, theory of optimizing behavior, demand elasticity, production, cost analysis and pricing with and without market power.  Other topics include an introduction to game theory, alternative pricing techniques and the internal organization of firms.",
+        "Technical and Digital Skills": [
+            "Economic analysis for decision-making",
+            "Demand and supply analysis",
+            "Cost analysis",
+            "Pricing strategies",
+            "Game theory applications in economics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic insights",
+            "Collaboration within a managerial team",
+            "Negotiation skills for pricing strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Optimizing behavior analysis",
+            "Critical evaluation of demand elasticity",
+            "Problem-solving in production scenarios",
+            "Analyzing alternative pricing techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Internal organization of firms",
+            "Strategic leadership in decision-making",
+            "Team coordination for effective managerial outcomes"
+        ]
+    },
+    {
+        "courseCode": "ECON 618",
+        "courseTitle": "Global Macroeconomics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the measurement of macroeconomic variables and their movements over time.  Short-run and long-run models of the macroeconomy are covered along with institutional factors of financial markets.  The course mixes theory with real world applicability.  Students will examine critical economic policy issues of the day.",
+        "Technical and Digital Skills": [
+            "Macroeconomic data analysis",
+            "Econometric modeling",
+            "Financial market analysis",
+            "Understanding economic policy issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic data and analysis",
+            "Collaboration on real-world economic projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of macroeconomic variables and trends",
+            "Development of short-run and long-run macroeconomic models",
+            "Identification of institutional factors impacting financial markets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economic analysis",
+            "Decision-making in economic policy analysis"
+        ]
+    },
+    {
+        "courseCode": "ECON 625",
+        "courseTitle": "Mathematical Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the use of mathematical techniques in solving complex economic problems.  Primary emphasis is given to matrix algebra, differential calculus, constrained optimization techniques and dynamic optimization techniques.",
+        "Technical and Digital Skills": [
+            "Matrix algebra",
+            "Differential calculus",
+            "Constrained optimization techniques",
+            "Dynamic optimization techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical modeling",
+            "Economic problem-solving",
+            "Optimization problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 650",
+        "courseTitle": "International Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of international trade theory, commercial policy, foreign exchange markets, open economy macroeconomics, and balance of payments.  The course provides the theoretical basis to understand contemporary international economic issues. (Credit may not be applied toward the M.A. in economics.)",
+        "Technical and Digital Skills": [
+            "Understanding international trade theory",
+            "Analysis of foreign exchange markets",
+            "Macroeconomic modeling for open economies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic analysis",
+            "Cross-cultural communication in global economics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic policies",
+            "Analyzing balance of payments data",
+            "Forecasting economic trends in international markets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on global economic issues",
+            "Organizing research on contemporary international economic topics"
+        ]
+    },
+    {
+        "courseCode": "ECON 668",
+        "courseTitle": "Economics Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is a practicum in the field of economics applying theories, concepts, and quantitative tools in a professional environment.",
+        "Technical and Digital Skills": [
+            "Economic modeling",
+            "Statistical analysis tools",
+            "Quantitative data analysis",
+            "Excel proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic findings",
+            "Collaborating with team members on projects",
+            "Professional email communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying economic theories to real-world scenarios",
+            "Interpreting quantitative results",
+            "Identifying trends in economic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines",
+            "Taking initiative in research projects",
+            "Coordinating group tasks effectively"
+        ]
+    },
+    {
+        "courseCode": "ECON 695",
+        "courseTitle": "Selected Topics in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in economics specifically designed for school teachers.  (Credit may not be applied toward the M.A. in economics or the MBA.)",
+        "Technical and Digital Skills": [
+            "Economic data analysis",
+            "Statistical modeling in economics",
+            "Econometric analysis techniques",
+            "Data visualization in economics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic concepts",
+            "Engaging students in economic discussions",
+            "Clear communication of complex economic theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic data",
+            "Developing economic models",
+            "Interpreting economic trends and forecasts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curriculum planning for economics courses",
+            "Mentoring and guiding students in economic research projects"
+        ]
+    },
+    {
+        "courseCode": "ECON 696",
+        "courseTitle": "Selected Topics in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in economics are covered in this course.",
+        "Technical and Digital Skills": [
+            "Econometric modeling",
+            "Statistical software proficiency",
+            "Data analysis using R or Stata"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic research findings",
+            "Collaborative data analysis discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic policy analysis",
+            "Forecasting economic trends",
+            "Critical evaluation of economic theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic research projects",
+            "Managing economic data collection processes"
+        ]
+    },
+    {
+        "courseCode": "ECON 697",
+        "courseTitle": "Readings in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual readings in a selected field under the direction of a faculty member of the department.",
+        "Technical and Digital Skills": [
+            "Data analysis using statistical software",
+            "Econometric modeling techniques",
+            "Financial modeling skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic research findings",
+            "Participating in academic discussions",
+            "Collaborating with faculty members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically analyzing economic literature",
+            "Understanding complex economic theories",
+            "Applying economic concepts to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for independent research",
+            "Taking initiative in selecting and analyzing readings",
+            "Leading group discussions on economic topics"
+        ]
+    },
+    {
+        "courseCode": "ECON 698",
+        "courseTitle": "Economic Methodology and Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Students writing the capstone empirical research paper will take this course. Under the supervision of a faculty member, students will discuss theoretical models, analytical techniques, data analysis, and policy recommendations resulting from their capstone research project.",
+        "Technical and Digital Skills": [
+            "Analytical techniques",
+            "Data analysis",
+            "Statistical modeling",
+            "Policy analysis",
+            "Empirical research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing theoretical models",
+            "Presenting research findings",
+            "Collaborating with faculty members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Analyzing policy recommendations",
+            "Applying theoretical models to real-world data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Capstone research project management",
+            "Supervising research process"
+        ]
+    },
+    {
+        "courseCode": "ECON 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research for thesis.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methodology",
+            "Data analysis tools",
+            "Thesis writing software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Peer feedback incorporation",
+            "Collaboration with advisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design",
+            "Data interpretation",
+            "Critical thinking in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research",
+            "Project planning",
+            "Effective communication with stakeholders"
+        ]
+    },
+    {
+        "courseCode": "ECON 700",
+        "courseTitle": "Economic Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the skills necessary to successfully identify, acquire, manage, and analyze economic data. The course primarily focuses on the application of statistical methods in support of economic analysis. During the course, students will (1) develop research hypotheses; (2) identify data to test the hypotheses; (3) utilize coding to access and obtain data, (4) use descriptive statistics to discuss the properties of the data, (5) explore the bivariate least squares estimator, and (6) interpret and present the results of economic analysis.",
+        "Technical and Digital Skills": [
+            "Statistical analysis",
+            "Coding for data access and manipulation",
+            "Descriptive statistics",
+            "Bivariate least squares estimator"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic analysis results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing research hypotheses",
+            "Identifying data for testing hypotheses"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 701",
+        "courseTitle": "Advanced Microeconomic Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course considers microeconomic theory as a means of organizing the behavior of individuals and firms in economic settings. The course provides the theoretical framework for microeconomic research in business and in government. The theory of the household and the theory of the firm will be presented in detail along with consideration of distribution theory and welfare theory. The material will be presented with the aid of graphical techniques, logic, calculus, matrix algebra, and optimization techniques.",
+        "Technical and Digital Skills": [
+            "Calculus application in microeconomics",
+            "Matrix algebra for economic modeling",
+            "Optimization techniques in economic analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of microeconomic research findings",
+            "Collaboration in microeconomic projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of microeconomic theories",
+            "Application of graphical techniques in economic analysis",
+            "Distribution theory evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading microeconomic research projects",
+            "Organizing data for economic research"
+        ]
+    },
+    {
+        "courseCode": "ECON 703",
+        "courseTitle": "Advanced Macroeconomic Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents classical and modern macroeconomic models, including the Solow growth model, the Ramsey infinite horizon model, the overlapping generations model, and the endogenous growth model. The course also explores classical and modern models of monetary policy. This course provides students with mathematical and analytical tools and techniques to analyze macroeconomic issues including the impact of monetary and fiscal policy and the interaction among inflation, unemployment, and interest rates.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Analytical tools",
+            "Macroeconomic modeling",
+            "Monetary policy analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic analysis",
+            "Collaboration on macroeconomic research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of macroeconomic models",
+            "Analysis of monetary and fiscal policy impacts",
+            "Interpretation of inflation, unemployment, and interest rate interactions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for economic research",
+            "Team coordination for macroeconomic analysis"
+        ]
+    },
+    {
+        "courseCode": "ECON 706",
+        "courseTitle": "Econometrics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Single-equation econometric models; serial correlation, heteroscedasticity, specification error, missing observations, and errors-in-variables and forecasting.",
+        "Technical and Digital Skills": [
+            "Single-equation econometric modeling",
+            "Serial correlation analysis",
+            "Heteroscedasticity identification",
+            "Specification error detection",
+            "Forecasting techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Missing observations handling",
+            "Errors-in-variables identification",
+            "Data interpretation for econometric models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 707",
+        "courseTitle": "Econometrics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Multi-equation econometric models; problems such as identification, single-equation estimation, estimation of equation systems, and model evaluation techniques; time-series models such as autoregressive and moving average models; forecasting with time-series models.",
+        "Technical and Digital Skills": [
+            "Multi-equation econometric modeling",
+            "Identification techniques",
+            "Single-equation estimation",
+            "Equation systems estimation",
+            "Model evaluation techniques",
+            "Time-series modeling",
+            "Autoregressive models",
+            "Moving average models",
+            "Time-series forecasting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of econometric models",
+            "Statistical analysis of multiple equations",
+            "Time-series data analysis",
+            "Forecasting accuracy assessment"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 708",
+        "courseTitle": "Econometrics III",
+        "academicLevel": "graduate",
+        "courseDescription": "Issues in cross-section and panel data, focuses on problems such as selection bias, heterogeneity, unobserved heterogeneity, treatment effects, truncation and censoring.  The course covers multivariate techniques such as principal component analysis and factor analysis, along with event studies and nonparametric and semiparametric estimators.",
+        "Technical and Digital Skills": [
+            "Panel data analysis",
+            "Selection bias identification",
+            "Multivariate techniques (e.g., PCA, factor analysis)",
+            "Event studies analysis",
+            "Nonparametric and semiparametric estimators"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Heterogeneity analysis",
+            "Treatment effects identification",
+            "Truncation and censoring resolution",
+            "Critical evaluation of data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 752",
+        "courseTitle": "International Trade",
+        "academicLevel": "graduate",
+        "courseDescription": "Pure theory of international trade, mathematical models of trade, instruments of trade policy, theory and practice of economic integration, trade liberalization issues from international and regional viewpoints.",
+        "Technical and Digital Skills": [
+            "Understanding mathematical models of trade",
+            "Knowledge of trade policy instruments",
+            "Ability to analyze economic integration theory",
+            "Familiarity with trade liberalization issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of trade concepts",
+            "Collaboration on international trade projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of international trade theories",
+            "Problem-solving in trade policy implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in international trade negotiations",
+            "Organizational skills in managing trade projects"
+        ]
+    },
+    {
+        "courseCode": "ECON 754",
+        "courseTitle": "Economic Development",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the problems of economic development in the third world, including the problems of economic growth, income distribution, poverty, urbanization, uneven development, agricultural policy, economic planning, industrial policy, trade policy, balance of payments, finance, and currency crises.",
+        "Technical and Digital Skills": [
+            "Economic policy analysis",
+            "Financial modeling",
+            "Statistical analysis of economic data",
+            "Trade policy evaluation",
+            "Balance of payments analysis",
+            "Currency crisis forecasting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic research findings",
+            "Negotiating economic agreements",
+            "Collaborating on economic development projects",
+            "Effective communication of economic policies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of economic problems",
+            "Developing solutions for income distribution issues",
+            "Analyzing poverty trends",
+            "Developing urbanization strategies",
+            "Creating agricultural policy recommendations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic development initiatives",
+            "Managing economic planning projects",
+            "Coordinating industrial policy implementation",
+            "Guiding finance and currency crisis response efforts"
+        ]
+    },
+    {
+        "courseCode": "ECON 795",
+        "courseTitle": "Selected Topics in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced student with an opportunity to study independently or in small groups and investigate specific topics of current interest in the field of economics.",
+        "Technical and Digital Skills": [
+            "Statistical analysis software proficiency",
+            "Econometrics modeling",
+            "Data visualization tools mastery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic findings",
+            "Collaborative research in small groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic data",
+            "Identification of economic trends and patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Small group investigation coordination"
+        ]
+    },
+    {
+        "courseCode": "ECON 801",
+        "courseTitle": "Advanced Microeconomic Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course considers microeconomic theory as a means of organizing the behavior of individuals and firms in economic settings. The course provides the theoretical framework for microeconomic research in business and in government. The theory of the household and the theory of the firm will be presented in detail along with consideration of distribution theory and welfare theory. The material will be presented with the aid of graphical techniques, logic, calculus, matrix algebra, and optimization techniques.",
+        "Technical and Digital Skills": [
+            "Calculus application in microeconomics",
+            "Matrix algebra for economic analysis",
+            "Optimization techniques in microeconomics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in microeconomic analysis",
+            "Graphical techniques interpretation for economic models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 803",
+        "courseTitle": "Advanced Macroeconomic Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents classical and modern macroeconomic models, including the Solow growth model, the Ramsey infinite horizon model, the overlapping generations model, and the endogenous growth model. The course also explores classical and modern models of monetary policy. This course provides students with mathematical and analytical tools and techniques to analyze macroeconomic issues including the impact of monetary and fiscal policy and the interaction among inflation, unemployment, and interest rates.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Analytical tools proficiency",
+            "Monetary policy modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of economic analysis",
+            "Effective communication of complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Macroeconomic issue analysis",
+            "Impact assessment of monetary and fiscal policy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economic analysis",
+            "Team collaboration in economic research"
+        ]
+    },
+    {
+        "courseCode": "ECON 806",
+        "courseTitle": "Econometrics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Single-equation econometric models; serial correlation, heteroscedasticity, specification error, missing observations, and errors-in-variables and forecasting.",
+        "Technical and Digital Skills": [
+            "Econometric modeling",
+            "Serial correlation analysis",
+            "Heteroscedasticity detection",
+            "Specification error identification",
+            "Forecasting methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Error-in-variables analysis",
+            "Missing observations handling",
+            "Statistical inference in econometrics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 807",
+        "courseTitle": "Econometrics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Multi-equation econometric models; problems such as identification, single-equation estimation, estimation of equation systems, and model evaluation techniques; time-series models such as autoregressive and moving average models; forecasting with time-series models.",
+        "Technical and Digital Skills": [
+            "Multi-equation econometric modeling",
+            "Identification techniques",
+            "Single-equation estimation methods",
+            "Equation systems estimation",
+            "Model evaluation techniques",
+            "Time-series modeling",
+            "Autoregressive models",
+            "Moving average models",
+            "Forecasting with time-series models"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of econometric models",
+            "Problem-solving in model identification",
+            "Analytical skills in model estimation",
+            "Analyzing time-series data for forecasting"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 808",
+        "courseTitle": "Econometrics III",
+        "academicLevel": "graduate",
+        "courseDescription": "Issues in cross-section and panel data, focuses on problems such as selection bias, heterogeneity, unobserved heterogeneity, treatment effects, truncation and censoring.  The course covers multivariate techniques such as principal component analysis and factor analysis, along with event studies and nonparametric and semiparametric estimators.",
+        "Technical and Digital Skills": [
+            "Multivariate techniques (e.g., principal component analysis, factor analysis)",
+            "Event studies",
+            "Nonparametric and semiparametric estimators"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification and mitigation of selection bias",
+            "Dealing with heterogeneity in data",
+            "Handling truncation and censoring in datasets"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ECON 852",
+        "courseTitle": "International Trade",
+        "academicLevel": "graduate",
+        "courseDescription": "Pure theory of international trade, mathematical models of trade, instruments of trade policy, theory and practice of economic integration, trade liberalization issues from international and regional viewpoints.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling of trade",
+            "Understanding trade policy instruments",
+            "Economic integration analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting economic insights",
+            "Negotiating trade agreements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing trade liberalization issues",
+            "Critical evaluation of international trade theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading economic integration projects",
+            "Managing trade policy implementation"
+        ]
+    },
+    {
+        "courseCode": "ECON 854",
+        "courseTitle": "Economic Development",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the problems of economic development in the third world, including the problems of economic growth, income distribution, poverty, urbanization, uneven development, agricultural policy, economic planning, industrial policy, trade policy, balance of payments, finance, and currency crises.",
+        "Technical and Digital Skills": [
+            "Economic policy analysis",
+            "Financial modeling",
+            "Trade policy evaluation",
+            "Currency crisis management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective policy communication",
+            "Stakeholder engagement",
+            "Negotiation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic growth forecasting",
+            "Poverty alleviation strategies",
+            "Urbanization impact assessment",
+            "Agricultural policy evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic economic planning",
+            "Policy implementation management",
+            "Team coordination for economic projects"
+        ]
+    },
+    {
+        "courseCode": "ECON 895",
+        "courseTitle": "Selected Topics in Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced student with an opportunity to study independently or in small groups and investigate specific topics of current interest in the field of economics.",
+        "Technical and Digital Skills": [
+            "Statistical analysis software proficiency",
+            "Econometrics modeling",
+            "Data visualization with R or Python"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of economic findings",
+            "Collaborative research in small groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of economic theories",
+            "Empirical research design and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in economic research",
+            "Leading and coordinating group discussions on economic topics"
+        ]
+    },
+    {
+        "courseCode": "ECON 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Literature review proficiency",
+            "Technical writing abilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Professional communication with faculty and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for thesis completion",
+            "Independent project management"
+        ]
+    },
+    {
+        "courseCode": "ECON 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaboration with peers",
+            "Professional writing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Experimental design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project coordination",
+            "Team supervision"
+        ]
+    }
+]

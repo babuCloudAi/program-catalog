@@ -1,0 +1,294 @@
+[
+    {
+        "courseTitle": "Interdisciplinary Theory and Concepts",
+        "courseCode": "IDS 300W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the history, concepts and application of interdisciplinary study.  This course includes an analysis of similarities and differences in academic disciplines and the application of interdisciplinary approaches to a specific topic of study.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Writing intensive coursework",
+            "Researching academic disciplines",
+            "Application of interdisciplinary approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Presenting research findings",
+            "Collaborative topic study"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of academic disciplines",
+            "Critical evaluation of interdisciplinary concepts",
+            "Problem solving through interdisciplinary approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research findings",
+            "Leading interdisciplinary discussions",
+            "Coordinating group study on specific topics"
+        ]
+    },
+    {
+        "courseTitle": "Digital Writing",
+        "courseCode": "IDS 307T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to issues of writing in various digital environments like web pages, email, blogs, wikis, and discussion boards. It also introduces fundamentals of hypertext authoring, digital and visual rhetoric, and image manipulation.",
+        "Technical and Digital Skills": [
+            "Writing in digital environments",
+            "Hypertext authoring",
+            "Image manipulation",
+            "Digital rhetoric",
+            "Visual rhetoric"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication through emails",
+            "Writing engaging blog content",
+            "Contributing to discussion boards"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting writing style to various digital platforms",
+            "Analyzing and implementing visual elements in digital writing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Internship in Interdisciplinary Studies",
+        "courseCode": "IDS 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An opportunity to integrate service and applied learning experience with interdisciplinary perspectives.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary communication",
+            "Collaboration across diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration of interdisciplinary perspectives",
+            "Application of academic learning to real-world problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in service-based projects",
+            "Organization and management of applied learning experiences"
+        ]
+    },
+    {
+        "courseTitle": "Internship in Sustainability and Conservation Leadership",
+        "courseCode": "IDS 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "As part of the Sustainability and Conservation Leadership minor, this graded internship will provide an opportunity to integrate service and applied learning experience with interdisciplinary perspectives. 300 hours are required for the 3-credit option, and 600 hours are required for the 6-credit option.",
+        "Technical and Digital Skills": [
+            "Understanding of sustainability and conservation concepts",
+            "Data collection and management",
+            "Using digital tools for communication and organization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective teamwork and collaboration",
+            "Clear and concise communication",
+            "Ability to present complex topics in an understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex environmental problems",
+            "Applying interdisciplinary knowledge to solve real-world issues",
+            "Critical evaluation of sustainability practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management and organization",
+            "Leadership in a sustainability context",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "IDS 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Mitigation and Adaptation Studies",
+        "courseCode": "IDS 466W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will be introduced to the science underpinning mitigation of human-induced changes in the Earth system, including but not limited to climate change and sea level rise, and adaptation to the impacts of these changes. The course will cover the environmental hazards and the opportunities and limitations for conservation, mitigation and adaptation. This is a writing intensive course. Cross listed with BIOL 466W and OEAS 466W.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental science",
+            "Knowledge on climate change and sea level rise",
+            "Understanding of conservation, mitigation and adaptation strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive course skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of environmental hazards",
+            "Understanding the impacts of human-induced changes in the Earth system"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Sustainability Leadership",
+        "courseCode": "IDS 467",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this class, students will discover what makes a leader for sustainability. They will consider a range of global and local crises from a leadership point of view in the context of sustainability science, which addresses the development of communities in a rapidly changing social, economic, and environmental system-of-systems environment. The course will be based on taking a problem-motivated and solution-focused approach to the challenges considered. The course includes a service learning project focusing on a leadership experience in solving a real-world environmental problem.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration for service learning projects",
+            "Communication for problem solving in environmental systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-motivated approach to sustainability challenges",
+            "Analyzing socio-economic and environmental systems",
+            "Solution-focused approach to environmental problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership for sustainability",
+            "Project management for service learning projects",
+            "Strategic thinking for addressing global and local crises"
+        ]
+    },
+    {
+        "courseTitle": "IDS Electronic Portfolio Project",
+        "courseCode": "IDS 493",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The preparation of an electronic portfolio integrating the student's academic study, work experiences, skill identification and work products.  Alternative formats are used for varying uses of the portfolio.",
+        "Technical and Digital Skills": [
+            "Portfolio creation",
+            "Digital formatting",
+            "Multimedia integration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of academic study",
+            "Communication of work experiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of relevant skills",
+            "Selection and organization of work products"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of portfolio content",
+            "Independent project management"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Interdisciplinary Studies",
+        "courseCode": "IDS 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.",
+        "Technical and Digital Skills": [
+            "Nonprofit program development",
+            "Product development",
+            "Business initiative planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative innovation",
+            "Professional networking",
+            "Dialogue with faculty members and professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem solving",
+            "Innovation in problem-solving",
+            "Integrative thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project leadership",
+            "Organizational planning",
+            "Business leadership"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Integrative Studies",
+        "courseCode": "IDS 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Focused study of selected topics linking perspectives, research and applications from a variety of disciplines.  Emphasis is on disciplinary synthesis.",
+        "Technical and Digital Skills": [
+            "Cross-disciplinary research",
+            "Interdisciplinary applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative thinking",
+            "Cross-disciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of interdisciplinary research",
+            "Problem-solving across multiple disciplines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing interdisciplinary projects",
+            "Leading interdisciplinary teams"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Interdisciplinary Studies",
+        "courseCode": "IDS 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Specialized knowledge in chosen topic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Small group collaboration",
+            "Knowledge sharing",
+            "Presenting specialized information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of specialized topics",
+            "Creative problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leading small group discussions"
+        ]
+    },
+    {
+        "courseTitle": "IDS Individualized Senior Project",
+        "courseCode": "IDS 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a vehicle for the execution of the senior project requirement of the Interdisciplinary Studies Program. The project will be negotiated between the student, faculty sponsors, and the program. Open only to individualized integrative studies majors.",
+        "Technical and Digital Skills": [
+            "Project development",
+            "Cross-disciplinary integration",
+            "Project execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with faculty and program",
+            "Clear communication of project plan and progress"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification and analysis",
+            "Creative problem-solving across disciplines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Stakeholder management"
+        ]
+    },
+    {
+        "courseCode": "IDS 596",
+        "courseTitle": "Topics in Interdisciplinary Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Researching specialized topics",
+            "Analyzing academic resources",
+            "Use of digital learning platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Small group collaboration",
+            "Presenting research findings",
+            "Peer-to-peer learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex academic topics",
+            "Critical thinking",
+            "Decision making in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Academic leadership in group studies",
+            "Organizing academic resources"
+        ]
+    }
+]

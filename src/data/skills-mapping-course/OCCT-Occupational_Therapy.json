@@ -1,0 +1,791 @@
+[
+    {
+        "courseCode": "OCCT 721",
+        "courseTitle": "Foundations of Occupational Therapy Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the historical and philosophical foundations that have shaped the profession of occupational therapy, its domain, values, and theories, and the foundations of practice with individuals, groups, and populations. Students explore the value of occupation and the role of occupational therapy in promoting health and wellness.",
+        "Technical and Digital Skills": [
+            "Understanding of occupational therapy theories",
+            "Knowledge of health and wellness promotion"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Interacting with individuals and populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing occupational therapy practices",
+            "Identifying values in occupational therapy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the history and philosophy of occupational therapy",
+            "Strategic planning for health and wellness promotion"
+        ]
+    },
+    {
+        "courseCode": "OCCT 749",
+        "courseTitle": "Occupations I",
+        "academicLevel": "graduate",
+        "courseDescription": "Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students conduct biomechanical assessments and identify essential performance for health and function.",
+        "Technical and Digital Skills": [
+            "Biomechanical assessments",
+            "Analysis of body and body systems",
+            "Identification of essential performance for health and function"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of assessment results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of domains and dimensions of occupations",
+            "Analytical evaluation of occupational performance skills and patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of health assessment data",
+            "Planning and conducting assessments"
+        ]
+    },
+    {
+        "courseCode": "OCCT 750",
+        "courseTitle": "Occupations II",
+        "academicLevel": "graduate",
+        "courseDescription": "Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students will examine the structures and function of the central, autonomic and peripheral nervous systems and apply neuroscience principles to clinical conditions that disrupt human engagement and performance.",
+        "Technical and Digital Skills": [
+            "Analysis of occupational domains",
+            "Understanding of body structures and functions",
+            "Knowledge of central, autonomic and peripheral nervous systems",
+            "Application of neuroscience principles to clinical conditions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical evaluation of occupational performance skills and patterns",
+            "Problem solving for human engagement and performance disruptions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and structuring knowledge of body and body systems",
+            "Leadership in applying neuroscience principles to clinical conditions"
+        ]
+    },
+    {
+        "courseCode": "OCCT 751",
+        "courseTitle": "Occupations III",
+        "academicLevel": "graduate",
+        "courseDescription": "Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students examine human development and occupational patterns across the lifespan and the cultures that enable individuals, groups and populations to optimally participate in occupations that promote health.",
+        "Technical and Digital Skills": [
+            "Analysis of occupational domains",
+            "Examination of body structures, functions, and processes",
+            "Understanding of human development and occupational patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Group collaboration",
+            "Understanding and addressing diverse needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing occupational performance skills and patterns",
+            "Evaluating health promotion through occupations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing information on body systems",
+            "Leading discussions on occupational patterns across the lifespan"
+        ]
+    },
+    {
+        "courseCode": "OCCT 752",
+        "courseTitle": "Occupation, Health and Wellness Across the Lifespan",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine human development, occupational patterns, and cultural influences across the lifespan that enable individuals, groups and populations to optimally participate in occupations that promote health. Students apply critical reasoning to consider the impact of disorders on participation and health.",
+        "Technical and Digital Skills": [
+            "Occupational pattern analysis",
+            "Health promotion strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Empathy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reasoning",
+            "Impact assessment",
+            "Human development understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare leadership",
+            "Program planning and evaluation"
+        ]
+    },
+    {
+        "courseCode": "OCCT 753",
+        "courseTitle": "Pediatric Habilitation and Rehabilitation: Theory and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine occupations and the evaluation and treatment of physical, developmental, psychosocial, and mental health disorders of children and youth. Students design evaluation and intervention plans for clients receiving services in hospital, developmental, and school settings.",
+        "Technical and Digital Skills": [
+            "Occupational evaluation",
+            "Designing intervention plans",
+            "Physical and mental health assessment",
+            "Developmental disorder evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Psychosocial evaluation",
+            "Communication with children and youth",
+            "Collaboration with healthcare team",
+            "Client-centered communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Treatment planning",
+            "Analyzing individual needs and developmental progress",
+            "Problem solving for diverse client needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple client cases",
+            "Leading treatment and intervention plans",
+            "Organizing health and development data",
+            "Leadership in healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "OCCT 754",
+        "courseTitle": "Professional Reasoning and the Occupational Therapy Process",
+        "academicLevel": "graduate",
+        "courseDescription": "Students utilize professional and clinical reasoning to apply the occupational therapy process in client care. Students analyze information that supports team collaboration, clinical decision making, effective client care, and service reporting.",
+        "Technical and Digital Skills": [
+            "Clinical decision making",
+            "Service reporting",
+            "Application of occupational therapy process in client care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration",
+            "Effective client care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzation of information",
+            "Professional and clinical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Client care management"
+        ]
+    },
+    {
+        "courseCode": "OCCT 756",
+        "courseTitle": "Professional Identity and Ethical Formation",
+        "academicLevel": "graduate",
+        "courseDescription": "Students integrate foundational concepts to promote professionalism, ethical reasoning, therapeutic use of self, and lifelong competent and interprofessional practice. Students examine professional identity and the role of professional relationships in occupational therapy practice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Constructive communication in a professional setting",
+            "Establishing effective professional relationships",
+            "Therapeutic use of self"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical reasoning",
+            "Critical evaluation of professional identities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting professionalism",
+            "Lifelong competent practice",
+            "Interprofessional practice leadership"
+        ]
+    },
+    {
+        "courseCode": "OCCT 768",
+        "courseTitle": "Fieldwork I Pediatrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Immersed in a setting that serves the needs of children and youth, students develop a summary of a client’s occupational history and experiences, patterns of daily living, interests, values, needs, and relevant environments and contexts, and examine client-centered outcomes.",
+        "Technical and Digital Skills": [
+            "Developing client occupational history summaries",
+            "Analyzing patterns of daily living",
+            "Examining client-centered outcomes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding client values and needs",
+            "Interpreting client's interests and relevant environments",
+            "Effective communication with children and youth"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing client’s occupational history and experiences",
+            "Assessing needs of children and youth",
+            "Evaluating the impact of relevant environments and contexts on client"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing case information",
+            "Leading client-centered discussions",
+            "Planning and organizing client assessments"
+        ]
+    },
+    {
+        "courseCode": "OCCT 821",
+        "courseTitle": "Elements of Research I: Theories of Inquiry and Scholarly Literature",
+        "academicLevel": "graduate",
+        "courseDescription": "Students develop knowledge of the application of statistics for the healthcare professional. Students utilize descriptive statistics, normality, parametric and non-parametric hypothesis testing and simple linear regression to evaluate research and form clinical decisions.",
+        "Technical and Digital Skills": [
+            "Application of statistics",
+            "Use of descriptive statistics",
+            "Understanding normality",
+            "Parametric and non-parametric hypothesis testing",
+            "Simple linear regression"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating research",
+            "Forming clinical decisions",
+            "Statistical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "OCCT 822",
+        "courseTitle": "Elements of Research II: Using Evidence to Inform Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students apply knowledge of practice and research to design effective intervention to meet clients’ needs. Students design clinical questions related to diagnosis, prognosis, and intervention, and critically appraise the research literature on a topic of interest to the practice community.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Literature appraisal",
+            "Clinical question formulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client needs assessment",
+            "Effective communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Evidence-based intervention design",
+            "Critical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning",
+            "Client-oriented service delivery"
+        ]
+    },
+    {
+        "courseCode": "OCCT 841",
+        "courseTitle": "Education and Learning in Healthcare and Academic Settings",
+        "academicLevel": "graduate",
+        "courseDescription": "Students explore teaching and learning theory, threshold concepts, and signature pedagogy in occupational therapy academic and fieldwork education. Activity analysis and learning strategies to promote health literacy, performance, engagement, and behavioral change are examined.",
+        "Technical and Digital Skills": [
+            "Activity analysis",
+            "Applying learning theories",
+            "Creating strategies for health literacy",
+            "Implementing signature pedagogy in occupational therapy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Promoting engagement in learning",
+            "Facilitating behavioral change",
+            "Teaching occupational therapy concepts",
+            "Promoting health literacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and applying threshold concepts",
+            "Analysing learning strategies for effectiveness",
+            "Problem-solving for performance improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in academic and fieldwork education",
+            "Organizing teaching and learning processes",
+            "Leading behavioral change initiatives"
+        ]
+    },
+    {
+        "courseCode": "OCCT 843",
+        "courseTitle": "Leadership and Advocacy",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will examine approaches to professional development and strategic planning and examine their leadership competencies. They will discuss roles and responsibilities and develop a professional leadership and business plan.",
+        "Technical and Digital Skills": [
+            "Strategic planning",
+            "Business plan development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Team leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Leadership competency analysis",
+            "Professional development strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership role definition",
+            "Responsibility management",
+            "Professional leadership plan development"
+        ]
+    },
+    {
+        "courseCode": "OCCT 845",
+        "courseTitle": "Health Care Policy and Program Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Factors, forces, and dynamics of the healthcare system and service delivery environment are examined, and students compare the interrelationships of health policy, healthcare, and practice. Students conduct an epidemiological analysis of a challenging healthcare issue.",
+        "Technical and Digital Skills": [
+            "Epidemiological analysis",
+            "Healthcare system analysis",
+            "Policy analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Presentation of complex health issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy evaluation",
+            "Health issue identification and analysis",
+            "Decision making in healthcare management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare service delivery management",
+            "Policy implementation"
+        ]
+    },
+    {
+        "courseCode": "OCCT 847",
+        "courseTitle": "Therapeutic Relationships and Client Communication",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the elements of developing and maintaining relationships, communicating with clients and members of the team, and resolving interpersonal challenges in the roles of practitioner, practice scholar, and leader/advocate.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Developing and maintaining relationships",
+            "Effective client communication",
+            "Team communication",
+            "Resolving interpersonal challenges"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conflict resolution",
+            "Problem solving in a client-practitioner relationship"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in practice and advocacy",
+            "Organizational skills in a therapeutic setting"
+        ]
+    },
+    {
+        "courseCode": "OCCT 848",
+        "courseTitle": "Fieldwork I Adults",
+        "academicLevel": "graduate",
+        "courseDescription": "Students conduct an occupation-based assessment of a client in a clinical or community-based setting that serves the needs of adults with disabilities. Students examine occupational performance and its impact on participation and health and wellness in individuals and groups.",
+        "Technical and Digital Skills": [
+            "Occupation-based assessment",
+            "Clinical evaluation",
+            "Community-based assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Effective rapport building with clients",
+            "Understanding and responding to client needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing occupational performance",
+            "Identification of health and wellness needs",
+            "Developing individual and group intervention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Project coordination in clinical or community-based settings",
+            "Leadership in client care"
+        ]
+    },
+    {
+        "courseCode": "OCCT 850",
+        "courseTitle": "Adult Rehabilitation: Theory and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine occupations and the evaluation and treatment of physical, psychosocial, and mental health disorders of adults. Students design evaluation and intervention plans for clients receiving services in acute and sub-acute care, inpatient and outpatient rehabilitation, and community-based settings.",
+        "Technical and Digital Skills": [
+            "Designing evaluation and intervention plans",
+            "Understanding of physical, psychosocial, and mental health disorders",
+            "Knowledge of acute and sub-acute care",
+            "Understanding of inpatient and outpatient rehabilitation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication and consultation",
+            "Interdisciplinary collaboration in healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of occupational disorders",
+            "Treatment planning for diverse health conditions",
+            "Analyzing rehabilitation needs in various settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Organizing client care in multiple settings",
+            "Leading rehabilitation teams"
+        ]
+    },
+    {
+        "courseCode": "OCCT 851",
+        "courseTitle": "Productive Aging and Rehabilitation: Theory and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the aging process and the evaluation and treatment of physical, developmental, psychosocial, and mental health disorders of older adults. Students design evaluation and intervention plans for clients receiving services in home, community, and skilled nursing settings.",
+        "Technical and Digital Skills": [
+            "Designing evaluation plans",
+            "Creating intervention plans",
+            "Understanding physical, developmental, psychosocial, and mental health disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Cross-disciplinary collaboration",
+            "Therapeutic relationship building",
+            "Empathy for older adults"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating aging processes",
+            "Analyzing client needs",
+            "Adapting interventions to individual client circumstances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Coordinating client care across home, community, and skilled nursing settings"
+        ]
+    },
+    {
+        "courseCode": "OCCT 853",
+        "courseTitle": "Mental Health Promotion and Recovery: Theory and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the influence of psychosocial factors on occupational performance and participation in individuals, groups, and populations. Use of self as a therapeutic agent and group process skills are emphasized.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Use of self as a therapeutic agent",
+            "Group process skills",
+            "Ability to communicate psychosocial factors and their impact on occupational performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of psychosocial factors",
+            "Evaluation of occupational performance",
+            "Identification and implementation of strategies for mental health promotion and recovery"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in group processes",
+            "Organizing and implementing therapeutic interventions"
+        ]
+    },
+    {
+        "courseCode": "OCCT 854",
+        "courseTitle": "Technology and Environment Adaptation",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the role of technology in the occupational therapy process from evaluation to intervention planning and implementation. The regulation and ethics of technology use in therapy are considered and students explore the array of technological resources available for patient care.",
+        "Technical and Digital Skills": [
+            "Use of technology in occupational therapy",
+            "Exploration of technological resources for patient care",
+            "Evaluation and implementation of therapeutic technology",
+            "Understanding of technology regulation and ethics in therapy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care communication",
+            "Ethical communication in therapy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the role of technology in occupational therapy",
+            "Planning and implementation of therapeutic interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Regulation and ethics of technology use in therapy",
+            "Intervention planning and implementation"
+        ]
+    },
+    {
+        "courseCode": "OCCT 855",
+        "courseTitle": "Occupational Adaptation in the Community",
+        "academicLevel": "graduate",
+        "courseDescription": "Students apply professional reasoning and activity analysis to meet clients’ occupational needs. Students analyze, grade, modify, and adapt occupations and activities to support occupational performance and participation.",
+        "Technical and Digital Skills": [
+            "Professional reasoning",
+            "Activity analysis",
+            "Occupation modification",
+            "Adapting activities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding clients' occupational needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and grading occupations",
+            "Identifying ways to support occupational performance and participation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing occupational adaptation strategies"
+        ]
+    },
+    {
+        "courseCode": "OCCT 857",
+        "courseTitle": "Fieldwork I Psychosocial",
+        "academicLevel": "graduate",
+        "courseDescription": "Students conduct evaluations and design a group-based intervention in a clinical or community-based setting that serves the needs of adults with disabilities. Students examine occupational performance and its impact on participation and health and wellness in individuals and groups.",
+        "Technical and Digital Skills": [
+            "Conducting clinical evaluations",
+            "Designing group-based interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with adults with disabilities",
+            "Working effectively in a community-based setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing occupational performance",
+            "Analyzing impact on individual and group health and wellness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing group-based interventions",
+            "Leading in a clinical or community-based setting"
+        ]
+    },
+    {
+        "courseCode": "OCCT 858",
+        "courseTitle": "Elements of Research III: Critical Analysis of Occupational Therapy Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Students analyze the external and internal criticisms of the profession and examine the evidence addressing practice. Students examine the body of evidence addressing an intervention of interest and complete a systematic review of the evidence.",
+        "Technical and Digital Skills": [
+            "Conducting systematic reviews",
+            "Research analysis",
+            "Critical evaluation of professional literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating critiques of professional practice",
+            "Presenting evidence-based findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing external and internal criticisms of a profession",
+            "Evaluating the validity of a body of evidence",
+            "Identifying effective interventions based on evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing a body of research for review",
+            "Leading evidence-based practice initiatives"
+        ]
+    },
+    {
+        "courseCode": "OCCT 859",
+        "courseTitle": "Elements of Research IV: Scholarship of Practice Approaches and Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Students explore research approaches and design and participate in grant writing and a mentored research project with a faculty member that links theory and practice, facilitates understanding of complex real-world issues, and facilitates knowledge translation.",
+        "Technical and Digital Skills": [
+            "Grant writing",
+            "Research design",
+            "Knowledge translation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Mentorship communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding complex real-world issues",
+            "Linking theory and practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in research projects"
+        ]
+    },
+    {
+        "courseCode": "OCCT 868",
+        "courseTitle": "Fieldwork II A",
+        "academicLevel": "graduate",
+        "courseDescription": "In this twelve-week full-time course, students are provided supervised field experiences applying the occupational therapy process with individuals, groups and/or populations with occupational performance and participation needs.",
+        "Technical and Digital Skills": [
+            "Application of occupational therapy processes",
+            "Understanding of occupational performance and participation needs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals and groups",
+            "Adapting communication style to different populations",
+            "Supervised interaction with patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clients' needs",
+            "Tailoring therapy processes for individual needs",
+            "Evaluating effectiveness of occupational therapy interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing supervised field experiences",
+            "Leading therapy sessions for individuals and groups"
+        ]
+    },
+    {
+        "courseCode": "OCCT 869",
+        "courseTitle": "Fieldwork II B",
+        "academicLevel": "graduate",
+        "courseDescription": "In this twelve-week full-time course, students are provided supervised field experiences applying the occupational therapy process with individuals, groups and/or populations with occupational performance and participation needs.",
+        "Technical and Digital Skills": [
+            "Occupational therapy application",
+            "Individual rehabilitation techniques",
+            "Group rehabilitation strategies",
+            "Population-level occupational therapy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Stakeholder coordination",
+            "Supervised teamwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Needs assessment",
+            "Treatment strategy development",
+            "Outcome evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervised fieldwork",
+            "Case management",
+            "Therapy planning and execution"
+        ]
+    },
+    {
+        "courseCode": "OCCT 870",
+        "courseTitle": "Community and Population Health",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the role of occupation in health promotion, health education, and prevention of illness. Key concepts of population health, social determinates of health, health promotion, and health behavior will be applied to develop community and population-based approaches.",
+        "Technical and Digital Skills": [
+            "Health data analysis",
+            "Digital health promotion strategies",
+            "Understanding of health-related software and applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Health education communication",
+            "Community engagement and dialogue",
+            "Cross-cultural communication in health contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social determinants of health",
+            "Developing population-based health approaches",
+            "Preventive health strategy formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing health promotion campaigns",
+            "Leadership in community health settings",
+            "Organizing health-related community events"
+        ]
+    },
+    {
+        "courseCode": "OCCT 871",
+        "courseTitle": "Professional Development Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine their knowledge, skills and professional competencies and establish a resume and professional development plan. Students examine the value of supervision and mentorship relationships.",
+        "Technical and Digital Skills": [
+            "Resume building",
+            "Professional portfolio creation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Relationship management",
+            "Professional networking",
+            "Negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Professional competency assessment",
+            "Career planning",
+            "Self-evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervisory skills",
+            "Mentorship skills",
+            "Professional development planning"
+        ]
+    },
+    {
+        "courseCode": "OCCT 890",
+        "courseTitle": "Practice-Scholar Seminar I",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine the formation of their identity as an occupation-based practice scholar and ethical leader and explore challenges in service delivery systems of significance to occupational therapy’s value and role in health and wellness promotion.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Ethical communication",
+            "Exploring service delivery systems",
+            "Promoting occupational therapy values"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying challenges in service delivery systems",
+            "Promoting health and wellness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical leadership",
+            "Identity formation as a practice scholar",
+            "Service delivery system management"
+        ]
+    },
+    {
+        "courseCode": "OCCT 891",
+        "courseTitle": "Practice-Scholar Seminar II",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine innovative approaches to service delivery and discuss their formative capstone experience and their potential role as a practitioner, practice scholar, and leader/advocate in health management and promotion.",
+        "Technical and Digital Skills": [
+            "Innovative service delivery",
+            "Health management strategies",
+            "Health promotion strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate",
+            "Presenting capstone experiences",
+            "Health advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of service delivery methods",
+            "Evaluation of capstone experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in health management",
+            "Advocacy in health promotion",
+            "Organizing capstone experiences"
+        ]
+    },
+    {
+        "courseCode": "OCCT 892",
+        "courseTitle": "Practice-Scholar Seminar III",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine their capacity for leadership and advocacy for the role of occupation in achieving health and wellbeing of individuals, groups, and populations. Students reflect on their own plans for leadership and advocacy in their upcoming capstone project.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Advocacy for occupational roles",
+            "Reflection and self-assessment",
+            "Effective communication for leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Examination and analysis of leadership capacity",
+            "Evaluation of health and wellbeing strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in health and wellbeing",
+            "Planning and executing capstone projects",
+            "Advocacy and leadership strategy development"
+        ]
+    },
+    {
+        "courseCode": "OCCT 893",
+        "courseTitle": "Doctoral Capstone",
+        "academicLevel": "graduate",
+        "courseDescription": "The doctoral capstone project is a 14-week full-time experiential course designed to develop students’ skills role related focus areas. Students implement an individually mentored, increasingly self-directed capstone project as the culminating learning activity of the doctoral program.",
+        "Technical and Digital Skills": [
+            "Project implementation",
+            "Capstone project development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentorship communication",
+            "Feedback implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Project troubleshooting",
+            "Self-directed problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-leadership",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "OCCT 894",
+        "courseTitle": "Practice Scholar Symposium",
+        "academicLevel": "graduate",
+        "courseDescription": "The synthesis of knowledge gained throughout the didactic curriculum, service-learning and field experiences, and in-depth scholarly capstone experience and project is demonstrated through the completion and presentation of a scholarly product.",
+        "Technical and Digital Skills": [
+            "Research synthesis",
+            "Use of digital tools for scholarly work",
+            "Presentation design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Communication of scholarly findings",
+            "Collaboration in service-learning and field experiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Knowledge integration",
+            "Critical evaluation of research",
+            "Problem-solving through capstone projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in service-learning and field experiences",
+            "Organizing and executing a scholarly project"
+        ]
+    }
+]

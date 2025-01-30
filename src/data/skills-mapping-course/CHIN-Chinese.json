@@ -1,0 +1,182 @@
+[
+    {
+        "courseTitle": "Beginning Chinese",
+        "courseCode": "CHIN 111F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the fundamental elements of the Chinese language within a cultural context. Emphasis is placed on building a foundation of basic listening, speaking, reading, and writing skills. The course includes Chinese Pinyin phonetic system, character formation, basic sentence structures, and Chinese culture and cultural activities. Students are expected to comprehend and respond to essential topics in Chinese and demonstrate their cultural awareness.",
+        "Technical and Digital Skills": [
+            "Chinese Pinyin phonetic system",
+            "Character formation",
+            "Basic sentence structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Basic listening skills",
+            "Basic speaking skills",
+            "Basic reading skills",
+            "Basic writing skills",
+            "Cultural awareness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comprehension of essential topics in Chinese"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Chinese",
+        "courseCode": "CHIN 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course continues to focus on the fundamental elements of the Chinese language within a cultural context. Emphasis is placed on the development of basic listening, speaking, reading, and writing skills. The course includes Chinese basic sentence patterns and real-life topics on Chinese cultural activities. Students are expected to comprehend and respond with grammatical accuracy to spoken and simple written Chinese and demonstrate their cultural awareness.",
+        "Technical and Digital Skills": [
+            "Listening comprehension in Chinese",
+            "Speaking fluently in Chinese",
+            "Reading Chinese characters",
+            "Writing in Chinese",
+            "Understanding Chinese sentence patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in Chinese cultural activities",
+            "Demonstrating cultural awareness in Chinese context",
+            "Responding with grammatical accuracy in Chinese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing spoken Chinese for comprehension",
+            "Evaluating written Chinese for understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Chinese",
+        "courseCode": "CHIN 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest.",
+        "Technical and Digital Skills": [
+            "Translation proficiency",
+            "Chinese character recognition",
+            "Language software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Chinese",
+            "Collaborative language practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Chinese texts for meaning",
+            "Identifying language patterns"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Chinese Language and Culture I",
+        "courseCode": "CHIN 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course takes students to an advanced level of communicative competence and language social interaction. The course includes more complex sentence patterns and Chinese cultural activities. Students learn to respond to topics of interest to college-age students, such as campus life, career planning, and Chinese cultural traditions. Students are exposed to the speech of native speakers in real cultural situations and develop sensitivity to communicative strategies and cultural competency.",
+        "Technical and Digital Skills": [
+            "Advanced Chinese language proficiency",
+            "Cultural competency in Chinese language",
+            "Real-world cultural situations analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicative competence in Chinese language",
+            "Language social interaction skills",
+            "Sensitive to communicative strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Responding to topics of interest",
+            "Critical evaluation of cultural traditions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Chinese Language and Culture II",
+        "courseCode": "CHIN 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course takes students to a higher level of communicative competence and language social interaction. The course gradually introduces more formal speech and written-style language in the real cultural context. The course trains students to interpret textual and cultural meanings and to express their opinions and cultural understanding by using connected paragraph length discourse.",
+        "Technical and Digital Skills": [
+            "Interpreting textual and cultural meanings",
+            "Formal speech and written-style language proficiency",
+            "Connected paragraph length discourse",
+            "Cultural understanding",
+            "Language social interaction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing opinions effectively",
+            "Cultural communication",
+            "Language social interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural meanings",
+            "Interpretation of written-style language in cultural context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Chinese",
+        "courseCode": "CHIN 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected topics, genres, authors and/or literary, cultural, sociopolitical, or historical movements in the Chinese-speaking world. May be repeated for credit if the topic is different.",
+        "Technical and Digital Skills": [
+            "Literary analysis in Chinese texts",
+            "Research methods in Chinese studies",
+            "Cultural interpretation in Chinese-speaking world"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of cultural insights",
+            "Collaborative research on Chinese topics",
+            "Effective communication of historical movements in Chinese-speaking world"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of literary genres in Chinese",
+            "Historical analysis of sociopolitical movements in Chinese-speaking world"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Chinese",
+        "courseCode": "CHIN 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seminars engage students in in-depth study of a specified topic through readings, research and oral and written student reports. Special attention is paid to theoretical and bibliographic issues. Topics vary according to the areas of expertise and professional interests of departmental faculty. May be repeated if topics are different.",
+        "Technical and Digital Skills": [
+            "Chinese language proficiency",
+            "Reading and writing in Chinese characters",
+            "Translation skills",
+            "Understanding Chinese culture and history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in discussion in Chinese",
+            "Presenting research findings in Chinese",
+            "Collaborating on group projects in Chinese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Chinese texts for meaning and context",
+            "Interpreting Chinese language nuances",
+            "Evaluating different perspectives on Chinese topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions in Chinese",
+            "Organizing research materials in Chinese",
+            "Managing time effectively for Chinese language study"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Chinese",
+        "courseCode": "CHIN 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. May be repeated for credit if the topic is different.",
+        "Technical and Digital Skills": [
+            "Chinese character recognition",
+            "Pinyin pronunciation",
+            "Chinese text input methods",
+            "Chinese language software applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in group discussions in Chinese",
+            "Presenting on Chinese cultural topics",
+            "Engaging in conversational Chinese with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Chinese texts for meaning and context",
+            "Identifying grammatical structures in Chinese sentences",
+            "Solving translation challenges in Chinese language"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

@@ -1,0 +1,1607 @@
+[
+    {
+        "courseTitle": "Cybersecurity SFS LeADERS",
+        "courseCode": "CYSE 001",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course outlines the curricular and co-curricular requirements for Scholarship for Service Students in the Cyber LeADERS program.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network security implementation",
+            "Vulnerability assessment tools",
+            "Cyber threat intelligence analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of security findings",
+            "Collaborative incident response coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security incidents",
+            "Forensic analysis of cyber attacks",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for cybersecurity initiatives",
+            "Team coordination for security projects"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Explorers and University Orientation",
+        "courseCode": "CYSE 100",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to cyber hygiene and orientation to university life.",
+        "Technical and Digital Skills": [
+            "Cyber hygiene practices",
+            "Basic information security principles",
+            "Digital privacy awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a technical environment",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying and addressing cybersecurity threats"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for academic success",
+            "Team coordination in group projects"
+        ]
+    },
+    {
+        "courseTitle": "Cybersecurity, Technology, and Society",
+        "courseCode": "CYSE 200T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will explore how technology is related to cybersecurity from an interdisciplinary orientation. Attention is given to the way that technologically-driven cybersecurity issues are connected to cultural, political, legal, ethical, and business domains.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Cyber threat detection methods",
+            "Network security implementation",
+            "Encryption techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical concepts to non-technical stakeholders",
+            "Collaboration with diverse teams on security projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity threats",
+            "Root cause analysis of security breaches",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity initiatives",
+            "Leading cross-functional security teams",
+            "Ethical decision-making in cybersecurity contexts"
+        ]
+    },
+    {
+        "courseTitle": "Cybersecurity and the Social Sciences",
+        "courseCode": "CYSE 201S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the social, political, legal, criminological, and economic dimensions of cybersecurity through a social science framework.  Students are introduced to a human-factors approach to understanding cybersecurity threats.  Attention is given to the social factors that contribute to cyber incidents and the political and legal mechanisms that are developed to control the behaviors of those who create risks and cybersecurity incidents.  The class also explores how cybersecurity is studied by social scientists in various social science disciplines.",
+        "Technical and Digital Skills": [
+            "Understanding information security principles",
+            "Analyzing cyber incidents",
+            "Knowledge of cybersecurity threats and trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting social science approaches to cybersecurity",
+            "Communicating cybersecurity risks to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity information",
+            "Identifying social factors contributing to cyber incidents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing political and legal mechanisms for cybersecurity control",
+            "Leading interdisciplinary cybersecurity research projects"
+        ]
+    },
+    {
+        "courseTitle": "Information Literacy for Cybersecurity",
+        "courseCode": "CYSE 202G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an in-depth introduction to information literacy from library and information science, information ethics, and computer science perspectives along with applications to cybersecurity research and professional activity. This course is aligned with Old Dominion University’s general education learning outcomes for information literacy.",
+        "Technical and Digital Skills": [
+            "Information security principles",
+            "Cybersecurity research methodologies",
+            "Computer science applications in cybersecurity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cybersecurity concepts",
+            "Collaboration in cybersecurity research and projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information for cybersecurity purposes",
+            "Analytical thinking in cybersecurity research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity initiatives",
+            "Leadership in cybersecurity teams"
+        ]
+    },
+    {
+        "courseTitle": "Basic Cybersecurity Programming and Networking",
+        "courseCode": "CYSE 250",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the cybersecurity-centric programming and networking concepts. Students will develop problem solving skills by using low-level programming languages (including C and assembly) and learn fundamentals of network protocols. This course is the technical base for students to take cybersecurity major courses. No prior knowledge of programming and networking is assumed.",
+        "Technical and Digital Skills": [
+            "Low-level programming languages (C and assembly)",
+            "Network protocols fundamentals",
+            "Cybersecurity programming concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using programming languages",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Linux System for Cybersecurity",
+        "courseCode": "CYSE 270",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the basic operations in major Linux distros for cybersecurity using both graphical interface and command line interface. Students will learn about the basic installation and configuration, file systems management, shell scripts, and user authentication in Linux systems. This course is the technical base for students to take cybersecurity major courses.",
+        "Technical and Digital Skills": [
+            "Linux distros operations",
+            "Graphical interface navigation",
+            "Command line interface usage",
+            "Installation and configuration in Linux systems",
+            "File systems management in Linux",
+            "Shell script writing in Linux",
+            "User authentication in Linux"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting Linux system issues",
+            "Critical evaluation of Linux system configurations",
+            "Analyzing security vulnerabilities in Linux systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Windows System Management and Security",
+        "courseCode": "CYSE 280",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces tools and techniques used to configure, manage and implement Windows and its security-related features. Students will install, configure, manage and secure Windows client & server operating systems and related networking environment using a variety of software tools. This course also details how to mitigate malware threats, identify security issues by using auditing and the Advanced Threat Analysis feature in Windows Server, secure virtualization platform, and use new deployment options for enhancing the security.",
+        "Technical and Digital Skills": [
+            "Windows system configuration",
+            "Windows system management",
+            "Windows security features implementation",
+            "Installation of Windows client & server operating systems",
+            "Configuration of Windows client & server operating systems",
+            "Management of Windows client & server operating systems",
+            "Securing Windows client & server operating systems",
+            "Networking environment setup for Windows",
+            "Mitigation of malware threats on Windows systems",
+            "Auditing for security issue identification",
+            "Utilization of Advanced Threat Analysis feature in Windows Server",
+            "Securing virtualization platform",
+            "Deployment options for enhanced security on Windows"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying security vulnerabilities",
+            "Analyzing security incidents",
+            "Problem-solving in Windows system management",
+            "Analyzing malware threats"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Cybersecurity",
+        "courseCode": "CYSE 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of the field of cybersecurity. It covers core cybersecurity topics including computer system architectures, critical infrastructures, cyber threats and vulnerabilities, cryptography, information assurance, network security, and risk assessment and management. Students are expected to become familiar with fundamental security concepts, technologies and practices, and develop a foundation for further study in cybersecurity.",
+        "Technical and Digital Skills": [
+            "Understanding computer system architectures",
+            "Implementing cryptography techniques",
+            "Network security protocols",
+            "Risk assessment and management practices"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber threats and vulnerabilities",
+            "Analyzing information assurance strategies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cybersecurity Techniques and Operations",
+        "courseCode": "CYSE 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces tools and techniques used to secure and analyze large computer networks and systems. Students will explore and map networks using a variety of diagnostic software tools, learn advanced packet analysis, configure firewalls, write intrusion detection rules, perform forensic investigation, and practice techniques for penetration testing.",
+        "Technical and Digital Skills": [
+            "Network mapping using diagnostic software tools",
+            "Advanced packet analysis",
+            "Firewall configuration",
+            "Writing intrusion detection rules",
+            "Forensic investigation techniques",
+            "Penetration testing"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of network security",
+            "Identifying vulnerabilities in systems",
+            "Analyzing and interpreting diagnostic results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cybersecurity Internship",
+        "courseCode": "CYSE 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internships provide a personalized exploration of structured employment within the major. This course mandates an initial or ongoing internship that the student obtains, as assignments are rooted in their concurrent internship experience. Course assignments will define the employment relationship, articulate learning outcomes, and offer opportunities for reflection to enhance the student’s academic, career, and professional readiness. Students must complete 50 hours of site work per course credit.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network security fundamentals",
+            "Penetration testing techniques",
+            "Incident response procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of security risks",
+            "Collaboration with cross-functional teams on security projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Critical evaluation of security incidents",
+            "Forensic analysis of security breaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of security initiatives",
+            "Team coordination for security incident response"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Cybersecurity",
+        "courseCode": "CYSE 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics in cybersecurity.",
+        "Technical and Digital Skills": [
+            "Network security protocols",
+            "Penetration testing techniques",
+            "Cryptographic algorithms",
+            "Security incident response procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of security risks to non-technical stakeholders",
+            "Collaboration with cross-functional teams on security initiatives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Forensic analysis of security incidents",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading security awareness training programs",
+            "Developing and implementing security policies and procedures"
+        ]
+    },
+    {
+        "courseTitle": "Law and Digital Forensics",
+        "courseCode": "CYSE 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will focus on the intersection of digital forensics and the criminal justice system, namely how digital forensics is understood and applied to key criminal justice, constitutional and statutory considerations within the criminal justice system.  Students will explore such topics as the nature and types of cybercrime; search and seizure principles in the digital world; finding, handling and maintaining chain of custody of digital evidence; interviewing individuals relating to digital evidence and related activities; and testifying in court about digital evidence matters.",
+        "Technical and Digital Skills": [
+            "Digital forensics techniques",
+            "Chain of custody procedures",
+            "Handling digital evidence",
+            "Testifying in court about digital evidence",
+            "Cybercrime investigation methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing individuals for digital evidence",
+            "Effective courtroom communication",
+            "Report writing for digital forensics cases"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of digital evidence",
+            "Analyzing and interpreting digital data",
+            "Problem-solving in cybercrime scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing chain of custody processes",
+            "Leading digital forensic investigations",
+            "Coordinating with law enforcement agencies for evidence collection"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Law",
+        "courseCode": "CYSE 406",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course tackles two major cyber law subjects. The first part of the course examines various U.S. laws and legal considerations that impact the digital and cyberspace worlds from traditional civil, and to a lesser extent, traditional criminal perspectives. The second part will familiarize cyber operations professionals about the extent of and limitations on their authorities to ensure operations in cyberspace are in compliance with U.S. law, regulations, directives and policies. The course will also introduce students to miscellaneous cybersecurity topics such as the Federal Acquisition Requirements.",
+        "Technical and Digital Skills": [
+            "Understanding U.S. cyber laws",
+            "Knowledge of legal considerations in cyberspace",
+            "Compliance with U.S. law in cyber operations",
+            "Familiarity with cybersecurity topics such as Federal Acquisition Requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of legal implications to non-legal professionals",
+            "Collaboration with various stakeholders in cyber operations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of legal information in cyberspace",
+            "Problem-solving in ensuring compliance with U.S. laws and regulations in cyber operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in ensuring legal compliance in cyber operations",
+            "Organizing and managing legal considerations in cyberspace"
+        ]
+    },
+    {
+        "courseTitle": "Digital Forensics",
+        "courseCode": "CYSE 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the basic concepts and technologies of digital forensics. Students will learn the fundamental techniques and tools utilized for collecting, processing, and preserving digital evidence on computers, mobile devices, networks, and cloud computing environments. Students will also engage in oral and written communication to report digital forensic findings and prepare court presentation materials.",
+        "Technical and Digital Skills": [
+            "Digital evidence collection techniques",
+            "Data preservation methods",
+            "Forensic tools operation",
+            "Mobile device forensics",
+            "Network forensics",
+            "Cloud forensics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication for reporting findings",
+            "Written communication for court presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of digital evidence",
+            "Analysis of forensic data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Crime and Computer Applications",
+        "courseCode": "CYSE 409",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The purpose of this interdisciplinary course is to introduce students to the ways in which computers are involved in the commission and the investigation of crime. Students will learn the fundamentals of cryptography and steganography and the tools used to perform these activities Students will also use forensic software to identify, gather, and verify relevant digital evidence. Cross-listed with CRJS 409.",
+        "Technical and Digital Skills": [
+            "Cryptography fundamentals",
+            "Steganography techniques",
+            "Forensic software usage",
+            "Digital evidence identification",
+            "Digital evidence gathering",
+            "Digital evidence verification"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cyber Defense Fundamentals",
+        "courseCode": "CYSE 416/516",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards. (Offered fall)",
+        "Technical and Digital Skills": [
+            "Information security principles",
+            "Cryptographic algorithms",
+            "Network security protocols",
+            "Hands-on experience in security systems analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security systems",
+            "Analyzing security vulnerabilities",
+            "Applying security models and concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Digital Leadership",
+        "courseCode": "CYSE 417",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores technology as it relates to leadership experiences. Theories, case studies and real world examples are analyzed to show both successful and unsuccessful uses of online and digital approaches that inform leaders' communication strategies.  Students will explore how their own digital identities may impact their futures as leaders. They will also learn how to create digital identities that will shape their professional identities throughout their careers.",
+        "Technical and Digital Skills": [
+            "Understanding digital communication tools",
+            "Creating and managing online platforms",
+            "Utilizing data analytics for decision-making",
+            "Implementing information security measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Crafting effective digital communication strategies",
+            "Building online presence and personal brand",
+            "Engaging with diverse digital audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing digital trends and patterns",
+            "Evaluating the impact of digital initiatives",
+            "Identifying and addressing digital communication challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading digital transformation initiatives",
+            "Developing digital leadership strategies",
+            "Managing digital teams and projects"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Physical System Security",
+        "courseCode": "CYSE 419/519",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures.",
+        "Technical and Digital Skills": [
+            "Understanding of computing and networking principles",
+            "Knowledge of physical processes integration with technology",
+            "Hands-on experience in CPS infrastructures",
+            "Identifying critical vulnerabilities in CPS systems",
+            "Implementing practical countermeasures for CPS security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with team members on CPS security projects",
+            "Communicating technical concepts to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing CPS security challenges and potential risks",
+            "Troubleshooting security issues in CPS environments",
+            "Critical evaluation of CPS security solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading CPS security projects",
+            "Managing resources effectively for CPS security implementations"
+        ]
+    },
+    {
+        "courseTitle": "Applied Machine Learning in Cybersecurity",
+        "courseCode": "CYSE 420/520",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the concepts and technologies of machine learning with a focus on applications related to cybersecurity. The objectives are to learn fundamental knowledge and practical experience and identify the use case of machine learning techniques in cybersecurity. The course will discuss traditional and advanced machine learning techniques, e.g., neural network, deep convolutional neural network, generative adversarial network, and transfer learning algorithms. Students will engage in oral and written communication by reporting and presenting the materials of the course project.",
+        "Technical and Digital Skills": [
+            "Machine learning concepts",
+            "Neural network implementation",
+            "Deep convolutional neural network application",
+            "Generative adversarial network usage",
+            "Transfer learning algorithms",
+            "Cybersecurity principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation skills",
+            "Report writing abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying use cases for machine learning in cybersecurity",
+            "Critical evaluation of machine learning techniques for cybersecurity"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cybersecurity Strategy and Policy",
+        "courseCode": "CYSE 425W/525",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This writing intensive course explores cybersecurity policy and strategy and introduces students to the essentials of strategy development and policy making in cybersecurity. Topics considered include planning principles in cyber strategy; risk management and cybersecurity policy; the connections between cybersecurity policies, businesses, and governmental institutions; the knowledge, skills, and abilities needed to develop and implement cybersecurity policy; the social, political and ethical implications that arise in cybersecurity policies and strategies; strategies to assess cybersecurity policy; and the ties between national security and cybersecurity policy.",
+        "Technical and Digital Skills": [
+            "Risk management in cybersecurity",
+            "Development of cybersecurity policy",
+            "Assessment of cybersecurity policy",
+            "Understanding national security implications in cybersecurity policy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cybersecurity strategies",
+            "Collaboration with governmental institutions and businesses on cybersecurity policies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity information",
+            "Identifying ethical implications in cybersecurity policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in cybersecurity policy development and implementation",
+            "Strategic planning in cybersecurity policy"
+        ]
+    },
+    {
+        "courseTitle": "Cyber War",
+        "courseCode": "CYSE 426/526",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the national security dimensions of cybersecurity and examines cyber war in international relations. Exploration of cyber war begins with an examination of cybersecurity as a component of national security and investigates the topics of U.S National Cybersecurity and other national approaches to cyber war.  The topics of cyber deterrence, cyber as a military domain, the roles of international organizations in cyber war, cyber terrorism, the role of social media, and information warfare will be discussed.  The international dimension of cybersecurity is also discussed.",
+        "Technical and Digital Skills": [
+            "Information security",
+            "Cyber warfare tactics",
+            "Network penetration testing",
+            "Incident response planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cyber threats",
+            "Collaboration on threat intelligence sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber threats",
+            "Forensic analysis of cyber incidents",
+            "Risk assessment in cyber warfare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for cybersecurity defense",
+            "Leading cyber incident response teams"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Cybersecurity Risk Management",
+        "courseCode": "CYSE 430/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the broad topic of risk management and how risk, threats, and vulnerabilities impact information systems. Areas of instruction include how to assess and manage risk based on defining an acceptable level of risk for information systems. Elements of a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP), and computer incident response team (CIRT) plan will also be discussed.",
+        "Technical and Digital Skills": [
+            "Risk assessment",
+            "Information security",
+            "Business impact analysis (BIA)",
+            "Business continuity plan (BCP)",
+            "Disaster recovery plan (DRP)",
+            "Computer incident response team (CIRT) plan"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of risk",
+            "Vulnerability assessment"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Techniques Cybersecurity Risk Management",
+        "courseCode": "CYSE 431/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Expert-level approach on the Risk Management Framework (RMF) system Authorization to Operation (ATO), including Continuous cATO. Curriculum that is aligned to the NIST SP 800-53, Revision 5. Advanced topics include Assess and Authorize, System Categorization, Security Control Assessment, System Test Results, Plan of Action and Milestones (POA&M), and Continuous Monitoring (CONMON).",
+        "Technical and Digital Skills": [
+            "Risk Management Framework (RMF) system Authorization to Operation (ATO)",
+            "Continuous cATO implementation",
+            "NIST SP 800-53, Revision 5 alignment",
+            "Assess and Authorize",
+            "System Categorization",
+            "Security Control Assessment",
+            "System Test Results analysis",
+            "Plan of Action and Milestones (POA&M) management",
+            "Continuous Monitoring (CONMON) execution"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Risk assessment and mitigation strategies",
+            "Problem identification and resolution in cybersecurity",
+            "Data analysis for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk management planning",
+            "Team coordination for cybersecurity projects",
+            "Leadership in implementing cybersecurity measures",
+            "Effective communication of risk assessment results"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Risk CSF/CMMC",
+        "courseCode": "CYSE 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces cybersecurity, the NIST Cybersecurity Framework (CSF), and the Cybersecurity Maturity Model Certification (CMMC) program. Topics to be addressed include the risk management fundamentals, IT risk management, and cyber risk controls; cyber threats and vulnerabilities; data security and sanitization; the NIST CSF, including its core functions, categories, and subcategories; and the CMMC comprising its levels, domains, and implementation guidelines.",
+        "Technical and Digital Skills": [
+            "Information security fundamentals",
+            "Cyber risk management",
+            "Data security protocols",
+            "Risk assessment techniques",
+            "Understanding NIST Cybersecurity Framework (CSF)",
+            "Implementing Cybersecurity Maturity Model Certification (CMMC)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cyber risks",
+            "Collaboration with IT and security teams",
+            "Presenting cybersecurity findings to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying cyber threats and vulnerabilities",
+            "Analyzing data security gaps",
+            "Developing risk mitigation strategies",
+            "Critical evaluation of cyber risk controls"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cyber risk assessments",
+            "Coordinating implementation of security measures",
+            "Managing cross-functional cybersecurity projects",
+            "Guiding teams in compliance with CMMC guidelines"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Risk FedRAMP/Audit",
+        "courseCode": "CYSE 433/533",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the Federal Risk and Authorization Management Program (FedRAMP) and Auditing. Topics to be addressed include an overview of the FedRAMP framework, including its objectives, components, and stages; the needed documents and guidelines to develop system security plans and security assessment reports; the NIST Risk Management Framework (RMF) comprising its different stages and the adoption mechanism; FISMA compliance and auditing assessment; and real-world case studies and future challenges.",
+        "Technical and Digital Skills": [
+            "Understanding of FedRAMP framework",
+            "Development of system security plans",
+            "Creation of security assessment reports",
+            "Knowledge of NIST Risk Management Framework (RMF)",
+            "FISMA compliance",
+            "Auditing assessment in cybersecurity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of audit findings",
+            "Collaboration with audit teams",
+            "Presentation of audit reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identification of security vulnerabilities",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity audits",
+            "Leading audit teams",
+            "Strategic planning for audit processes"
+        ]
+    },
+    {
+        "courseTitle": "Ethical Hacking and Penetration Testing",
+        "courseCode": "CYSE 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the basic terminologies used in ethical hacking and useful tools in relation to penetration testing on Kali Linux. Students will learn to explore the vulnerabilities in various systems and operate the industry-leading tools and framework to perform the penetration testing on different target systems.",
+        "Technical and Digital Skills": [
+            "Ethical hacking techniques",
+            "Penetration testing tools",
+            "Kali Linux usage",
+            "Vulnerability assessment",
+            "Operating industry-leading tools",
+            "Framework operation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying vulnerabilities",
+            "Critical evaluation of systems",
+            "Penetration testing on target systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Entrepreneurship in Cybersecurity",
+        "courseCode": "CYSE 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. The course can be delivered either as an independent project for individual students or as group projects similar to those sometimes offered in topics courses.",
+        "Technical and Digital Skills": [
+            "Information security principles",
+            "Cyber threat intelligence analysis",
+            "Network security protocols",
+            "Penetration testing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching cybersecurity solutions to investors",
+            "Negotiation skills for partnerships",
+            "Effective communication with technical and non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Incident response planning and execution",
+            "Critical evaluation of cybersecurity tools and technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Building and leading cybersecurity teams",
+            "Strategic planning for cybersecurity initiatives",
+            "Risk management in cybersecurity projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Cybersecurity",
+        "courseCode": "CYSE 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected cybersecurity topics designed to permit small groups of qualified students to work on subjects of mutual interest. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network security configurations",
+            "Cyber threat detection techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity threats",
+            "Forensic analysis of security incidents"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Cybersecurity",
+        "courseCode": "CYSE 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected cybersecurity topics designed to permit small groups of qualified students to work on subjects of mutual interest. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Information security protocols implementation",
+            "Network penetration testing",
+            "Encryption techniques mastery"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity threats",
+            "Incident response planning",
+            "Vulnerability assessment techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Cybersecurity",
+        "courseCode": "CYSE 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Penetration testing techniques",
+            "Network security configurations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of cybersecurity findings",
+            "Collaborative research with peers and instructors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Incident response planning",
+            "Critical evaluation of cybersecurity solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity",
+            "Team coordination for cybersecurity projects"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Cybersecurity",
+        "courseCode": "CYSE 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Penetration testing tools",
+            "Network security configurations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of security risks",
+            "Collaboration on security assessments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability identification",
+            "Incident response planning",
+            "Security risk assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity",
+            "Team coordination for security projects"
+        ]
+    },
+    {
+        "courseCode": "CYSE 516",
+        "courseTitle": "Cyber Defense Fundamentals",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards. (Offered fall)",
+        "Technical and Digital Skills": [
+            "Understanding cybersecurity theory",
+            "Implementing information protection and assurance",
+            "Securing computer systems and networks",
+            "Knowledge of security models and concepts",
+            "Hands-on experience in cryptographic algorithms",
+            "Familiarity with security fundamental principles",
+            "Understanding Internet security protocol and standards"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing modern security systems",
+            "Identifying vulnerabilities and attacking security systems",
+            "Critical evaluation of security measures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 519",
+        "courseTitle": "Cyber Physical System Security",
+        "academicLevel": "graduate",
+        "courseDescription": "Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures.",
+        "Technical and Digital Skills": [
+            "Understanding of Cyber Physical Systems (CPS)",
+            "Knowledge of computing and networking in CPS",
+            "Hands-on experience with CPS infrastructures",
+            "Ability to identify critical vulnerabilities in CPS",
+            "Implementing practical countermeasures in CPS",
+            "Knowledge of CPS security challenges"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on CPS security projects",
+            "Presenting findings on CPS vulnerabilities",
+            "Effective communication of CPS security concepts to non-technical audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing CPS security risks",
+            "Identifying potential security threats in CPS",
+            "Developing solutions for CPS security challenges",
+            "Critical evaluation of CPS security measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading CPS security projects",
+            "Coordinating CPS security teams",
+            "Prioritizing CPS security tasks",
+            "Managing resources for CPS security initiatives"
+        ]
+    },
+    {
+        "courseCode": "CYSE 520",
+        "courseTitle": "Applied Machine Learning in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the concepts and technologies of machine learning with a focus on applications related to cybersecurity. The objectives are to learn fundamental knowledge and practical experience and identify the use case of machine learning techniques in cybersecurity. The course will discuss traditional and advanced machine learning techniques, e.g., neural network, deep convolutional neural network, generative adversarial network, and transfer learning algorithms. Students will engage in oral and written communication by reporting and presenting the materials of the course project.",
+        "Technical and Digital Skills": [
+            "Machine learning concepts and technologies",
+            "Neural network implementation",
+            "Deep convolutional neural network application",
+            "Generative adversarial network understanding",
+            "Transfer learning algorithms usage",
+            "Cybersecurity fundamentals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of course project materials",
+            "Written communication of findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of machine learning in cybersecurity",
+            "Identifying use cases for machine learning techniques",
+            "Critical evaluation of machine learning models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity applications",
+            "Team collaboration on machine learning projects"
+        ]
+    },
+    {
+        "courseCode": "CYSE 525",
+        "courseTitle": "Cybersecurity Strategy and Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores cybersecurity policy and strategy and introduces students to the essentials of strategy development and policy making in cybersecurity. Topics considered include planning principles in cyber strategy; risk management and cybersecurity policy; the connections between cybersecurity policies, businesses, and governmental institutions; the knowledge, skills, and abilities needed to develop and implement cybersecurity policy; the social, political and ethical implications that arise in cybersecurity policies and strategies; strategies to assess cybersecurity policy; and the ties between national security and cybersecurity policy.",
+        "Technical and Digital Skills": [
+            "Risk management in cybersecurity",
+            "Development of cybersecurity policies",
+            "Assessment of cybersecurity policy",
+            "Understanding of national security and cybersecurity policy ties"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cybersecurity strategies",
+            "Collaboration with governmental institutions and businesses on cybersecurity policies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity information",
+            "Strategic planning in cyber strategy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of cybersecurity policies",
+            "Ethical considerations in cybersecurity policy making"
+        ]
+    },
+    {
+        "courseCode": "CYSE 526",
+        "courseTitle": "Cyber War",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the national security dimensions of cybersecurity and examines cyber war in international relations. Exploration of cyber war begins with an examination of cybersecurity as a component of national security and investigates the topics of U.S National Cybersecurity and other national approaches to cyber war. The topics of cyber deterrence, cyber as a military domain, the roles of international organizations in cyber war, cyber terrorism, the role of social media, and information warfare will be discussed. The international dimension of cybersecurity is also discussed.",
+        "Technical and Digital Skills": [
+            "Information security",
+            "National cybersecurity understanding",
+            "Cyber war strategies analysis",
+            "Understanding of cyber deterrence",
+            "Knowledge of cyber terrorism tactics",
+            "Familiarity with social media impact on cyber war",
+            "Understanding of information warfare techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber war information",
+            "Strategic analysis of international cyber relations",
+            "Identification of cyber threats and vulnerabilities",
+            "Risk assessment in cyber war scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "CYSE 530",
+        "courseTitle": "Introduction to Cybersecurity Risk Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the broad topic of risk management and how risk, threats, and vulnerabilities impact information systems. Areas of instruction include how to assess and manage risk based on defining an acceptable level of risk for information systems. Elements of a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP), and computer incident response team (CIRT) plan will also be discussed.",
+        "Technical and Digital Skills": [
+            "Risk assessment",
+            "Threat analysis",
+            "Vulnerability management",
+            "Business impact analysis (BIA)",
+            "Business continuity plan (BCP)",
+            "Disaster recovery plan (DRP)",
+            "Computer incident response team (CIRT) plan"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of risks",
+            "Collaboration with stakeholders on risk management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Risk mitigation strategies",
+            "Incident response planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk management planning and execution",
+            "Team coordination in response to cybersecurity incidents"
+        ]
+    },
+    {
+        "courseCode": "CYSE 531",
+        "courseTitle": "Advanced Techniques Cybersecurity Risk Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Expert-level approach on the Risk Management Framework (RMF) system Authorization to Operation (ATO), including Continuous cATO. Curriculum that is aligned to the NIST SP 800-53, Revision 5. Advanced topics include Assess and Authorize, System Categorization, Security Control Assessment, System Test Results, Plan of Action and Milestones (POA&M), and Continuous Monitoring (CONMON).",
+        "Technical and Digital Skills": [
+            "Risk Management Framework (RMF) system Authorization",
+            "Continuous Authorization to Operate (cATO)",
+            "NIST SP 800-53, Revision 5 alignment",
+            "Assess and Authorize",
+            "System Categorization",
+            "Security Control Assessment",
+            "System Test Results",
+            "Plan of Action and Milestones (POA&M)",
+            "Continuous Monitoring (CONMON)"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Risk analysis and mitigation strategies",
+            "Problem identification and resolution in cybersecurity contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 532",
+        "courseTitle": "Cyber Risk CSF/CMMC",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces cybersecurity, the NIST Cybersecurity Framework (CSF), and the Cybersecurity Maturity Model Certification (CMMC) program. Topics to be addressed include the risk management fundamentals, IT risk management, and cyber risk controls; cyber threats and vulnerabilities; data security and sanitization; the NIST CSF, including its core functions, categories, and subcategories; and the CMMC comprising its levels, domains, and implementation guidelines.",
+        "Technical and Digital Skills": [
+            "Information security fundamentals",
+            "Risk management in IT",
+            "Data security protocols",
+            "Cyber threat analysis",
+            "NIST Cybersecurity Framework implementation",
+            "CMMC levels and domains understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cyber risks",
+            "Collaboration on risk mitigation strategies",
+            "Presentation of cybersecurity findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber threats and vulnerabilities",
+            "Analyzing data security gaps",
+            "Developing cyber risk controls",
+            "Problem-solving in risk management scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cyber risk assessment teams",
+            "Implementing cybersecurity frameworks within organizations",
+            "Strategic planning for cyber risk management"
+        ]
+    },
+    {
+        "courseCode": "CYSE 533",
+        "courseTitle": "Cyber Risk FedRAMP/Audit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the Federal Risk and Authorization Management Program (FedRAMP) and Auditing. Topics to be addressed include an overview of the FedRAMP framework, including its objectives, components, and stages; the needed documents and guidelines to develop system security plans and security assessment reports; the NIST Risk Management Framework (RMF) comprising its different stages and the adoption mechanism; FISMA compliance and auditing assessment; and real-world case studies and future challenges.",
+        "Technical and Digital Skills": [
+            "Understanding FedRAMP framework",
+            "Developing system security plans",
+            "Creating security assessment reports",
+            "Implementing NIST Risk Management Framework (RMF)",
+            "Ensuring FISMA compliance",
+            "Conducting auditing assessments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with auditors and stakeholders",
+            "Presenting audit findings",
+            "Effective documentation of security measures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing security vulnerabilities",
+            "Identifying compliance gaps",
+            "Resolving audit findings",
+            "Critical evaluation of security measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading security compliance initiatives",
+            "Coordinating audit activities",
+            "Managing security documentation"
+        ]
+    },
+    {
+        "courseCode": "CYSE 595",
+        "courseTitle": "Topics in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected cybersecurity topics designed to permit small groups of qualified students to work on subjects of mutual interest. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network penetration testing",
+            "Cyber threat analysis",
+            "Encryption techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity tools",
+            "Vulnerability assessment",
+            "Incident response planning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 596",
+        "courseTitle": "Topics in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected cybersecurity topics designed to permit small groups of qualified students to work on subjects of mutual interest. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network security implementation",
+            "Cyber threat analysis",
+            "Encryption techniques",
+            "Penetration testing methodologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security vulnerabilities",
+            "Incident response planning",
+            "Forensic investigation techniques",
+            "Risk assessment methodologies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 597",
+        "courseTitle": "Tutorial Work in Special Topics in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Information security protocols implementation",
+            "Network penetration testing",
+            "Security incident response planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of security risks",
+            "Collaboration on cybersecurity projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Incident forensics analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cybersecurity task forces",
+            "Developing cybersecurity strategy"
+        ]
+    },
+    {
+        "courseCode": "CYSE 598",
+        "courseTitle": "Tutorial Work in Special Topics in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Information security protocols implementation",
+            "Network penetration testing",
+            "Cyber threat analysis",
+            "Vulnerability assessment tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of cybersecurity findings",
+            "Collaboration on research papers",
+            "Clear communication of technical concepts to non-technical audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cybersecurity research",
+            "Incident response planning",
+            "Forensic analysis of security incidents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity research",
+            "Team coordination for conference presentations",
+            "Leading discussions on cybersecurity topics"
+        ]
+    },
+    {
+        "courseCode": "CYSE 600",
+        "courseTitle": "Cybersecurity Principles",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of the field of cybersecurity. It covers core cybersecurity topics including computer system architectures, critical infrastructures, cyber threats and vulnerabilities, cryptography, cryptographic protocol design, information assurance, network security, and risk assessment and management. Students are expected to become familiar with fundamental security concepts, technologies and practices, and develop a foundation for further study in cybersecurity.",
+        "Technical and Digital Skills": [
+            "Understanding computer system architectures",
+            "Knowledge of critical infrastructures",
+            "Implementing cryptographic protocols",
+            "Network security implementation",
+            "Risk assessment and management"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber threats and vulnerabilities",
+            "Analyzing cryptography methods",
+            "Identifying information assurance practices"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 601",
+        "courseTitle": "Advanced Cybersecurity Techniques and Operations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces tools and techniques used to secure and analyze large computer networks and systems. It will include significant hands-on lab work. Students will explore and map networks using a variety of diagnostic software tools, learn advanced packet analysis, configure firewalls, write intrusion detection rules, perform malware detection, forensic investigation, and practice techniques for penetration testing.",
+        "Technical and Digital Skills": [
+            "Network mapping using diagnostic software tools",
+            "Advanced packet analysis",
+            "Firewall configuration",
+            "Intrusion detection rule creation",
+            "Malware detection techniques",
+            "Forensic investigation methods",
+            "Penetration testing practices"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of network security issues",
+            "Troubleshooting network vulnerabilities",
+            "Analyzing malware behavior",
+            "Identifying patterns in network traffic"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 602",
+        "courseTitle": "Advanced Techniques for Cyber Defense",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers a deep dive into advanced cybersecurity techniques and operations, aiming to bolster cyber defense strategies. Participants will explore state-of-the-art methodologies encompassing threat analysis, incident response, ethical hacking, secure network architecture, and proactive mitigation strategies. Through immersive, hands-on experiences and real-world simulations, learners will develop the expertise required to adeptly secure digital environments against ever-evolving cyber threats. This course may be used as a leveling course.",
+        "Technical and Digital Skills": [
+            "Threat analysis",
+            "Incident response",
+            "Ethical hacking",
+            "Secure network architecture",
+            "Proactive mitigation strategies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Real-world simulations",
+            "Cyber threat detection"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 603",
+        "courseTitle": "Advanced Cybersecurity Law and Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses two major cyber law subject matters. The first part of the course examines various U.S. laws and legal considerations that impact the digital and cyberspace worlds from civil and criminal perspectives. The second part, which builds upon the first, will familiarize cyber operations professionals about the extent of and limitations on their authorities to ensure operations in cyberspace are in compliance with U.S. law, regulations, directives and policies.",
+        "Technical and Digital Skills": [
+            "Understanding of U.S. cyber laws",
+            "Compliance with U.S. laws and regulations in cyberspace",
+            "Knowledge of cyber operations authorities and limitations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of legal considerations in cyberspace",
+            "Analyzing cyber operations compliance with laws and policies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 605",
+        "courseTitle": "Leadership and Management in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces skills to manage technical professionals and lead strategic change in their organization. Based on the basic operations and functionality of cybersecurity systems, students will learn the management of cybersecurity technical professionals, including how to effectively lead and manage teams, how to launch and assess organizational change initiatives, and how to work effectively within an interdependent group to achieve common goals.",
+        "Technical and Digital Skills": [
+            "Cybersecurity systems operations",
+            "Management of cybersecurity professionals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team leadership",
+            "Interdependent group collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of organizational change initiatives",
+            "Critical evaluation of technical information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Launching organizational change initiatives",
+            "Leading and managing cybersecurity teams"
+        ]
+    },
+    {
+        "courseCode": "CYSE 607",
+        "courseTitle": "Advanced Digital Forensics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the concepts and technologies of digital forensics. Students will learn the advanced techniques and tools utilized for collecting, processing, and preserving digital evidence on computers, mobile devices, networks, and cloud computing environments. Students will also engage in oral and written communication to report digital forensic findings and prepare court presentation materials.",
+        "Technical and Digital Skills": [
+            "Advanced data recovery techniques",
+            "Network forensics analysis",
+            "Cloud forensics tools and methodologies",
+            "Mobile device forensics",
+            "Evidence preservation procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective oral presentation of digital forensic findings",
+            "Clear and concise report writing for court presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of digital evidence",
+            "Identification of digital artifacts",
+            "Complex data analysis for forensic investigations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple digital forensic cases simultaneously",
+            "Leading a digital forensic team effectively"
+        ]
+    },
+    {
+        "courseCode": "CYSE 608",
+        "courseTitle": "Windows System for Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches the basic fundamentals of using and creating Windows Server domains using PowerShell. It also covers topics like active directory, server administration, and technologies such as Group Policy, Network Policy Server (NPS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP). Additionally, it includes lessons on disk management, firewall administration, and Windows Server Networking Services like IPv4, IPv6, and more. This course may be used as a leveling course.",
+        "Technical and Digital Skills": [
+            "PowerShell scripting",
+            "Active Directory management",
+            "Server administration",
+            "Group Policy configuration",
+            "Network Policy Server (NPS) setup",
+            "Domain Name System (DNS) configuration",
+            "Dynamic Host Configuration Protocol (DHCP) setup",
+            "Disk management",
+            "Firewall administration",
+            "Windows Server Networking Services setup (IPv4, IPv6)"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting Windows Server issues",
+            "Critical evaluation of server configurations",
+            "Analyzing network traffic for security threats"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 609",
+        "courseTitle": "Fundamentals of Linux System for Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the basic operations in major Linux distros for cybersecurity using both graphical interface and command-line interface. Students will learn about the basic installation and configuration, file systems management, shell scripts, and user authentication in Linux systems. This course may be used as a leveling course.",
+        "Technical and Digital Skills": [
+            "Linux command-line operations",
+            "Linux graphical interface operations",
+            "Linux installation and configuration",
+            "File systems management in Linux",
+            "Shell scripting in Linux",
+            "User authentication in Linux"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of Linux system information",
+            "Troubleshooting in Linux environments",
+            "Analyzing system logs in Linux"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 610",
+        "courseTitle": "Advanced Cryptography",
+        "academicLevel": "graduate",
+        "courseDescription": "This course studies advanced topics in cryptography. It begins with an overview of necessary background in algebra and number theory, private- and public-key cryptosystems, and basic signature schemes. It then upgrades the design and analysis of modern cryptography, including how the security model is defined, how practical cryptographic algorithms work, and how to exploit flaws in the current models of cryptography.",
+        "Technical and Digital Skills": [
+            "Algebra and number theory",
+            "Private-key cryptosystems",
+            "Public-key cryptosystems",
+            "Signature schemes",
+            "Design and analysis of modern cryptography",
+            "Practical cryptographic algorithms",
+            "Exploiting flaws in cryptography models"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cryptography",
+            "Security model definition",
+            "Identifying flaws in security systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 615",
+        "courseTitle": "Mobile and Wireless Security",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of wireless and mobile security providing students with practical and theoretical experiences. Topics include smartphone security, mobile Internet security, mobile location privacy, and wireless ad hoc, mesh, and sensor network security.",
+        "Technical and Digital Skills": [
+            "Mobile security protocols implementation",
+            "Wireless network encryption",
+            "Mobile application security testing",
+            "Ad hoc network configuration",
+            "Sensor network monitoring"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying vulnerabilities in mobile systems",
+            "Analyzing network traffic patterns",
+            "Troubleshooting mobile security issues",
+            "Critical evaluation of mobile security solutions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 625",
+        "courseTitle": "Advanced Ethical Hacking and Penetration Testing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches students the underlying principles and many of the techniques associated with the cybersecurity practice known as penetration testing or ethical hacking. The course covers planning, reconnaissance, scanning, exploitation, post-exploitation, and result reporting. Students will discover how system vulnerabilities can be exploited and learns to avoid such problems.",
+        "Technical and Digital Skills": [
+            "Penetration testing techniques",
+            "System vulnerabilities exploitation",
+            "Information security principles",
+            "Result reporting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system vulnerabilities",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 626",
+        "courseTitle": "Web Archiving Theory, Practice, and Implications",
+        "academicLevel": "graduate",
+        "courseDescription": "An interdisciplinary introduction to web archiving fundamentals including web crawling, collection development and summarization including planning, analyzing, and sharing collections.  Includes a review of ethical and legal issues, trustworthiness, preservation, security, and cultural impact of web archiving.",
+        "Technical and Digital Skills": [
+            "Web crawling techniques",
+            "Collection development strategies",
+            "Information security in archiving",
+            "Data summarization methods",
+            "Preservation techniques for web content"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective sharing of web collections",
+            "Ethical considerations in web archiving",
+            "Legal issues in archiving practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of web content",
+            "Trustworthiness assessment of archived data",
+            "Cultural impact analysis of web archiving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing web archiving projects",
+            "Leadership in archiving initiatives"
+        ]
+    },
+    {
+        "courseCode": "CYSE 630",
+        "courseTitle": "Introduction to Cybersecurity Risk Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the broad topic of risk management and how risk, threats, and vulnerabilities impact information systems. Areas of instruction include how to assess and manage risk based on defining an acceptable level of risk for information systems. Elements of a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP), and computer incident response team (CIRT) plan will also be discussed.",
+        "Technical and Digital Skills": [
+            "Risk assessment techniques",
+            "Business impact analysis (BIA)",
+            "Business continuity plan (BCP)",
+            "Disaster recovery plan (DRP)",
+            "Computer incident response team (CIRT) plan"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of risk factors",
+            "Identification of threats and vulnerabilities",
+            "Risk management decision-making"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 631",
+        "courseTitle": "Advanced Techniques Cybersecurity Risk Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Expert-level approach on the Risk Management Framework (RMF) system Authorization to Operation (ATO), including Continuous cATO. Curriculum that is aligned to the NIST SP 800-53, Revision 5. Advanced topics include Assess and Authorize, System Categorization, Security Control Assessment, System Test Results, Plan of Action and Milestones (POA&M), and Continuous Monitoring (CONMON).",
+        "Technical and Digital Skills": [
+            "Risk Management Framework (RMF) system Authorization to Operation (ATO)",
+            "Continuous cATO implementation",
+            "NIST SP 800-53, Revision 5 alignment",
+            "Assess and Authorize process",
+            "System Categorization",
+            "Security Control Assessment",
+            "System Test Results analysis",
+            "Plan of Action and Milestones (POA&M) management",
+            "Continuous Monitoring (CONMON) practices"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security information",
+            "Risk assessment and mitigation strategies",
+            "Problem identification in security controls",
+            "Continuous improvement planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in security assessments",
+            "Team coordination for authorization processes",
+            "Leadership in security control implementation and monitoring"
+        ]
+    },
+    {
+        "courseCode": "CYSE 632",
+        "courseTitle": "Cyber Risk CSF/CMMC",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces cybersecurity, the NIST Cybersecurity Framework (CSF), and the Cybersecurity Maturity Model Certification (CMMC) program. Topics to be addressed include the risk management fundamentals, IT risk management, and cyber risk controls; cyber threats and vulnerabilities; data security and sanitization; the NIST CSF, including its core functions, categories, and subcategories; and the CMMC comprising its levels, domains, and implementation guidelines.",
+        "Technical and Digital Skills": [
+            "Information security fundamentals",
+            "Risk management principles",
+            "Cyber threat analysis",
+            "Data security protocols",
+            "Understanding NIST CSF core functions, categories, and subcategories",
+            "Implementing CMMC levels and domains"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cyber risks",
+            "Collaboration on risk mitigation strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber threats and vulnerabilities",
+            "Analyzing data security and sanitization methods",
+            "Problem-solving for implementing cyber risk controls"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cyber risk management initiatives",
+            "Organizing cyber risk assessment processes"
+        ]
+    },
+    {
+        "courseCode": "CYSE 633",
+        "courseTitle": "Cyber Risk FedRAMP/Audit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the Federal Risk and Authorization Management Program (FedRAMP) and Auditing. Topics to be addressed include an overview of the FedRAMP framework, including its objectives, components, and stages; the needed documents and guidelines to develop system security plans and security assessment reports; the NIST Risk Management Framework (RMF) comprising its different stages and the adoption mechanism; FISMA compliance and auditing assessment; and real-world case studies and future challenges.",
+        "Technical and Digital Skills": [
+            "Understanding of FedRAMP framework",
+            "Developing system security plans",
+            "Security assessment report preparation",
+            "Knowledge of NIST Risk Management Framework (RMF)",
+            "FISMA compliance understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of audit findings",
+            "Collaboration with audit teams",
+            "Presentation of audit reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security assessments",
+            "Risk analysis and mitigation strategies",
+            "Incident response planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for FedRAMP compliance",
+            "Leading audit teams",
+            "Managing compliance deadlines"
+        ]
+    },
+    {
+        "courseCode": "CYSE 635",
+        "courseTitle": "AI Security and Privacy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on Machine Learning (ML) security and privacy. Students will understand and explore the vulnerabilities of the ML models, learn how to develop and deploy defenses to mitigate possible attacks, and gain hands-on experience to protect private data during model training and testing.",
+        "Technical and Digital Skills": [
+            "Machine Learning security protocols",
+            "ML model vulnerability assessment",
+            "Developing defense mechanisms for ML models",
+            "Implementing privacy protection during model training/testing"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying potential attacks on ML models",
+            "Critical evaluation of ML security measures",
+            "Troubleshooting security breaches in ML systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 640",
+        "courseTitle": "Introduction to Cyber Risk Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a comprehensive introduction to the principles, processes, and best practices of cyber risk management. It delves into how risks, threats, and vulnerabilities influence information systems. Key areas of study include determining and managing acceptable risk levels for these systems. Participants will gain insights into components such as a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP), and the structure of a computer incident response team (CIRT) plan. The course also emphasizes compliance laws, standards, best practices, and methods for effective risk assessments.",
+        "Technical and Digital Skills": [
+            "Information security principles",
+            "Business impact analysis (BIA)",
+            "Business continuity plan (BCP)",
+            "Disaster recovery plan (DRP)",
+            "Computer incident response team (CIRT) plan structure",
+            "Risk assessment methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of risk assessments",
+            "Collaboration on compliance laws and standards"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of risks, threats, and vulnerabilities",
+            "Problem-solving in determining acceptable risk levels"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing best practices in cyber risk management",
+            "Leading a computer incident response team (CIRT)"
+        ]
+    },
+    {
+        "courseCode": "CYSE 645",
+        "courseTitle": "Advanced Cybersecurity Risk Management Practices",
+        "academicLevel": "graduate",
+        "courseDescription": "Expert-level approach on the Risk Management Framework (RMF) system Authorization to Operation (ATO), including Continuous cATO. Curriculum that is aligned to the NIST SP 800-53, Revision 5. Advanced topics include Assess and Authorize, System Categorization, Security Control Assessment, System Test Results, Plan of Action and Milestones (POA&M), and Continuous Monitoring (CONMON).",
+        "Technical and Digital Skills": [
+            "Risk Management Framework (RMF) system Authorization to Operation (ATO)",
+            "Continuous cATO implementation",
+            "NIST SP 800-53, Revision 5 compliance",
+            "Assess and Authorize procedures",
+            "System Categorization techniques",
+            "Security Control Assessment methods",
+            "System Test Results analysis",
+            "Plan of Action and Milestones (POA&M) development",
+            "Continuous Monitoring (CONMON) strategies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security information",
+            "Risk assessment and mitigation",
+            "Incident response planning",
+            "Vulnerability identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for cybersecurity initiatives",
+            "Team coordination in risk management processes",
+            "Decision-making in security operations",
+            "Leadership in implementing security measures"
+        ]
+    },
+    {
+        "courseCode": "CYSE 695",
+        "courseTitle": "Advanced Topics in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected cybersecurity topics designed to permit small groups of qualified students to work on subjects of mutual interest. These courses will appear in the course schedule, and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Advanced information security techniques",
+            "Penetration testing methodologies",
+            "Network intrusion detection systems",
+            "Forensic analysis tools",
+            "Security analytics platforms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of security vulnerabilities",
+            "Reverse engineering malware",
+            "Incident response planning",
+            "Security risk assessment",
+            "Threat intelligence analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CYSE 697",
+        "courseTitle": "Independent Study in Cybersecurity",
+        "academicLevel": "graduate",
+        "courseDescription": "This course allows students to develop specialized expertise by independent study (supervised by a faculty member).",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Network penetration testing",
+            "Security analytics tools",
+            "Cyber threat intelligence analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of security findings",
+            "Collaboration with security teams",
+            "Client reporting on security vulnerabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Vulnerability assessment and remediation",
+            "Incident response planning",
+            "Security risk assessment and mitigation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cybersecurity",
+            "Leading security incident response teams",
+            "Creating cybersecurity policies and procedures"
+        ]
+    },
+    {
+        "courseCode": "CYSE 698",
+        "courseTitle": "Master's Project",
+        "academicLevel": "graduate",
+        "courseDescription": "This capstone course provides opportunities to synthesize and apply the knowledge and skills to solve real-world cyber security problems.",
+        "Technical and Digital Skills": [
+            "Cyber security knowledge",
+            "Real-world problem solving skills",
+            "Information security analysis",
+            "Network security implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cyber security solutions",
+            "Collaborative problem solving",
+            "Presentation of findings to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber security issues",
+            "Application of knowledge to real-world scenarios",
+            "Identification of security vulnerabilities",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cyber security context",
+            "Team coordination for problem solving",
+            "Decision making in security incident response scenarios"
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "courseCode": "PAUP 890",
+        "courseTitle": "Dissertation Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "A multidisciplinary seminar that focuses on the design, implementation, and evaluation of urban programs under real-life conditions in the field.  Students and faculty work with urban decision makers utilizing problem-solving skills and analysis.",
+        "Technical and Digital Skills": [
+            "Urban program design",
+            "Program implementation",
+            "Program evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with urban decision makers",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in urban context",
+            "Real-life condition analysis",
+            "Program analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collaborative leadership",
+            "Project management in urban context"
+        ]
+    },
+    {
+        "courseCode": "PAUP 895",
+        "courseTitle": "Advanced Topics in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in public administration.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Effective communication in public administration",
+            "Policy advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Strategic decision making in public administration",
+            "Crisis management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Public leadership",
+            "Organizational behavior in public sector",
+            "Program management in public administration"
+        ]
+    },
+    {
+        "courseCode": "PAUP 898",
+        "courseTitle": "Directed Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research on a specific problem. A written report is required.",
+        "Technical and Digital Skills": [
+            "Conducting research",
+            "Writing research reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with supervisor",
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research problems",
+            "Analyzing research data",
+            "Drawing conclusions from research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research project",
+            "Adhering to research timelines"
+        ]
+    },
+    {
+        "courseCode": "PAUP 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "An approved research project, written under the supervision of a faculty advisor, in which the student demonstrates the capacity of design and completes independent applied research.  The completed project must be approved by the dissertation committee.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Applied research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty advisor",
+            "Presenting research findings to the dissertation committee"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Critical analysis of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work planning",
+            "Leadership in research execution"
+        ]
+    }
+]

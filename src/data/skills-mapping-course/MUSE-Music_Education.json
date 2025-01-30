@@ -1,0 +1,78 @@
+[
+    {
+        "courseTitle": "Music Education Applied Piano Lesson",
+        "courseCode": "MUSE 141",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to support the continued training and development of piano skills needed in the elementary, secondary choral, and private vocal studio setting. This course is only for Bachelor of Music, Music Education majors in the Vocal, Guitar, or Keyboard concentration.",
+        "Technical and Digital Skills": [
+            "Piano technique refinement",
+            "Music software proficiency",
+            "Audio recording and editing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical expression",
+            "Performance feedback",
+            "Collaborative music making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem solving",
+            "Repertoire selection",
+            "Music theory analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for practice sessions",
+            "Organizing and leading musical performances",
+            "Teaching and mentoring in a studio setting"
+        ]
+    },
+    {
+        "courseTitle": "Freshman Seminar 1 for Music Education Students",
+        "courseCode": "MUSE 150",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students make the most out of their experience as a student at ODU, create a sense of community among music education majors, and prepare students for the expectations of being a college student in the Diehn School of Music.",
+        "Technical and Digital Skills": [
+            "Understanding of music theory",
+            "Basic instrument proficiency",
+            "Digital music resources navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer collaboration",
+            "Effective communication within music community",
+            "Active participation in group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of musical pieces",
+            "Creative problem-solving in music compositions",
+            "Critical thinking for musical performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline for regular music practice",
+            "Leadership in group performances",
+            "Event organization"
+        ]
+    },
+    {
+        "courseTitle": "Freshman Seminar II for Music Education Students",
+        "courseCode": "MUSE 151",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a professional community for emerging music educators. Discussion and fieldwork will focus on the application of instructional and learning strategies for guiding critical and creative music thinking, teaching and learning in a variety of music educational contexts.",
+        "Technical and Digital Skills": [
+            "Application of instructional strategies",
+            "Guiding critical and creative music thinking",
+            "Teaching strategies in various music educational contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in professional community discussions",
+            "Communication within the field of music education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and adapting learning strategies for music education",
+            "Critical thinking in music education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in music education",
+            "Organizing and conducting fieldwork in music education"
+        ]
+    }
+]

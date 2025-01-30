@@ -1,0 +1,579 @@
+[
+    {
+        "courseTitle": "Beginning Japanese",
+        "courseCode": "JAPN 111F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces basic speaking, listening, reading, and writing skills, including the three forms of written Japanese: Hiragana, Katakana, and Kanji. Students will have the opportunity to interact with Japanese students on campus through the coursework. The course enhances speaking and listening skills and provides awareness of the Japanese style of communication.  Analyzing Japanese sentence structures and grammar leads students to be aware of the different value systems of a high context culture.",
+        "Technical and Digital Skills": [
+            "Basic speaking in Japanese",
+            "Basic listening in Japanese",
+            "Reading and writing in Hiragana, Katakana, and Kanji"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with Japanese students",
+            "Understanding Japanese style of communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Japanese sentence structures and grammar"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for non-majors. These courses will appear in the course schedule  and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "Use of translation tools",
+            "Basic knowledge of Japanese culture and history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal and written communication in Japanese",
+            "Cross-cultural communication",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis of Japanese literature",
+            "Interpretation of cultural context",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for non-majors. These courses will appear in the course schedule  and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Basic understanding of Japanese language",
+            "Use of language learning apps and tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conversational Japanese",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation of Japanese texts",
+            "Understanding and applying Japanese grammar rules"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Japanese",
+        "courseCode": "JAPN 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The main focus of this course is to build communication skills, developing the basic language skills acquired in JAPN 111F. Students may have an opportunity to exchange emails with a Japanese speaker in addition to direct or online conversation. Through this interaction, skills to negotiate meaning are gained. Use of authentic TV materials introduces pragmatic features that are unique to Japanese. Through systematic explicit instruction of the skills using pragmatic elements, skills for a Japanese style of communication are enhanced.",
+        "Technical and Digital Skills": [
+            "Email communication in Japanese",
+            "Online conversation in Japanese",
+            "Use of authentic TV materials for language learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiating meaning in Japanese",
+            "Understanding and applying Japanese pragmatic features",
+            "Enhancing Japanese style of communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting and understanding contextual Japanese language",
+            "Decoding linguistic nuances in Japanese"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for non-majors.  These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Basic Japanese language proficiency",
+            "Usage of digital language learning tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective oral and written communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation of Japanese texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for non-majors.  These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "basic understanding of Japanese culture",
+            "use of digital language learning tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "verbal and written communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation skills",
+            "understanding of complex Japanese sentence structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate to Advanced Japanese I",
+        "courseCode": "JAPN 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course aims to develop the oral and written communicative proficiency gained up until the JAPN 212 course. Students learn vocabulary, sentence structures, kanji, communication skills, and various aspects of Japanese culture. Throughout the course, students evaluate and monitor their own progress and utilize feedback from others for further progress.",
+        "Technical and Digital Skills": [
+            "Advanced proficiency in Japanese vocabulary",
+            "Advanced proficiency in Japanese sentence structures",
+            "Advanced proficiency in Japanese kanji",
+            "Effective use of feedback tools for learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Advanced oral communication in Japanese",
+            "Advanced written communication in Japanese",
+            "Effective feedback sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-evaluation of language skills",
+            "Analyzing and utilizing feedback for learning improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Progress monitoring"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate to Advanced Japanese II",
+        "courseCode": "JAPN 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course aims to develop the oral and written communicative proficiency gained up until the JAPN301 course. Students learn vocabulary, sentence structures, kanji, communication skills, and various aspects of Japanese culture. Throughout the course, students evaluate and monitor their own progress and utilize feedback from others for further progress.",
+        "Technical and Digital Skills": [
+            "Advanced vocabulary acquisition",
+            "Advanced sentence structure comprehension",
+            "Advanced kanji recognition and writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Japanese",
+            "Written communication in Japanese",
+            "Understanding and interpreting feedback in Japanese",
+            "Understanding various aspects of Japanese culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-evaluation of language proficiency",
+            "Utilizing feedback for language improvement"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Speaking and Writing Workshop",
+        "courseCode": "JAPN 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, each student will work with a Japanese speaker as a mentor to learn natural communication skills in both speaking and writing. Keeping a journal in the blog style and having the entries revised by their mentor, students will utilize a variety of learned sentence structures and expand their vocabulary.",
+        "Technical and Digital Skills": [
+            "Writing in blog style",
+            "Utilizing digital platforms for language learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Natural communication skills in speaking and writing",
+            "Interactive learning with a mentor",
+            "Expanding vocabulary"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Utilizing a variety of sentence structures",
+            "Revision and improvement of written content"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Kanji Skills for Reading Japanese",
+        "courseCode": "JAPN 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the basic structure of kanji, which is one of the forms of written Japanese, and the history behind its creation as well as cultural aspects of kanji usage in Japanese society. Identifying radicals or parts of kanji, and understanding the system of Kanji compounds, makes it possible to easily guess the meaning of kanji characters.  Advanced reading skills are efficiently developed by guessing the meaning of kanji.   Daily journal writing on authentic novels or newspaper articles builds vocabulary and enhances flexibility with reference materials.",
+        "Technical and Digital Skills": [
+            "Identifying radicals or parts of kanji",
+            "Understanding the system of Kanji compounds",
+            "Advanced reading skills",
+            "Vocabulary building"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written Japanese communication",
+            "Understanding cultural aspects of kanji usage in Japanese society"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Guessing the meaning of kanji characters",
+            "Enhancing flexibility with reference materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Daily journal writing",
+            "Understanding historical context of kanji"
+        ]
+    },
+    {
+        "courseTitle": "Japan: A Cultural Odyssey",
+        "courseCode": "JAPN 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Exploration of Japanese culture and society from local and global perspectives. Topics may include language, arts, literature, music, food, traditional and contemporary culture, entertainment, media, religion, gender, education and work. The course aims to foster in-depth cultural understanding beyond stereotypes and to develop critical thinking and analytical skills to reflect on one's own experiences and assumptions about cultural similarities and differences. All readings, discussions, and lectures in English. No knowledge of Japanese is necessary. Cross-listed with WCS 310.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Inter-cultural communication",
+            "Participation in group discussions",
+            "Active listening",
+            "Understanding and respecting cultural differences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Reflection on personal experiences and assumptions",
+            "Analytical skills to understand cultural similarities and differences"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Global Conversations",
+        "courseCode": "JAPN 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is primarily a conversation course to develop linguistic and cultural proficiency in verbal communication. Task-oriented communication strategies in cross-cultural training will be practiced by presenting students with models that demonstrate appropriate linguistic and cultural competencies. Students will practice these skills by role-playing, giving presentations, enriching self-awareness with practiced in-group discussions on various topics (such as, prejudice, racism, values, and customs) that dispel stereotypes and foster more in-depth social-cultural understanding, and with participation in guided cultural encounters. Students will improve their listening and comprehension skills and deepen cultural proficiency by learning how to communicate and collaborate with other people and cultures in a global age.",
+        "Technical and Digital Skills": [
+            "Verbal communication proficiency",
+            "Task-oriented communication strategies",
+            "Cultural competency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Role-playing",
+            "Public presentations",
+            "Group discussions",
+            "Cross-cultural collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deconstruction of stereotypes",
+            "Social-cultural understanding",
+            "Listening and comprehension"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guiding cultural encounters",
+            "Fostering inclusive discussions",
+            "Promoting self-awareness"
+        ]
+    },
+    {
+        "courseTitle": "Writing Around the World",
+        "courseCode": "JAPN 312W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a writing intensive course designed with writing assignments that examine various cultural contexts that enable students to understand cultural content, style, audience and organization. The main objective of the course is increased awareness of and sensitivity to appropriate word choice and syntax in the language. Students will engage in writing for different cultural audiences and in varied contexts such as literary, artistic and media expressions around the world. Special emphasis is placed on the methodology of close reading as students hone the analytics skills and vocabulary necessary to interpret idioms, regionalism, cultural expressions and overall intercultural skills observed in various genres and cultures. Students will analyze compelling global issues and the diverse cultural perspectives that inform them.",
+        "Technical and Digital Skills": [
+            "Writing for different cultural audiences",
+            "Appropriate word choice and syntax in language",
+            "Interpreting idioms, regionalism, and cultural expressions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding cultural content, style, audience and organization",
+            "Engaging in literary, artistic and media expressions",
+            "Interpreting overall intercultural skills observed in various genres and cultures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Close reading methodology",
+            "Analyzing compelling global issues",
+            "Understanding diverse cultural perspectives"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "World Cultures and Contexts",
+        "courseCode": "JAPN 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores Japanese culture and society from traditional to current perspectives. Through readings, discussions, interviews, and reflections, the course aims to foster deeper understanding of current Japanese culture where lifestyles, customs, and value systems are rapidly changing. Students have an opportunity to develop their critical thinking, especially by analyzing what they learn from their interviews with Japanese people and comparing this to information they gained from their readings. Major topics this semester include group consciousness and social relationships, food and society, history of Japanese language.",
+        "Technical and Digital Skills": [
+            "Reading comprehension",
+            "Online research",
+            "Digital interviews"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication",
+            "Cultural sensitivity",
+            "Oral and written communication",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Cultural analysis",
+            "Comparative analysis",
+            "Reflection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project organization",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseTitle": "Japanese Society and Language",
+        "courseCode": "JAPN 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the social and cultural aspects of the Japanese language. It examines actual language use in various social settings and contexts by different people, including the use of regional dialects, gendered language, speech levels, and fictional role languages.",
+        "Technical and Digital Skills": [
+            "Understanding of regional dialects",
+            "Comprehension of gendered language",
+            "Knowledge of speech levels",
+            "Familiarity with fictional role languages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting language use in different social settings",
+            "Communicating effectively in various contexts",
+            "Adapting language use to different audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social and cultural aspects of language",
+            "Decoding language patterns in different contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a study of selected topics in Japanese. Topics vary with the semester and the instructor. Expectations for materials covered and produced for the class vary with the level (higher-level classes will have higher expectations). Contact the Japanese Program Coordinator for details about specific topics covered in a given semester.",
+        "Technical and Digital Skills": [
+            "Understanding of complex Japanese linguistic structures",
+            "Ability to translate Japanese materials to English",
+            "Proficiency in Japanese writing systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Fluency in spoken Japanese",
+            "Cultural sensitivity and understanding",
+            "Interpreting non-verbal cues in Japanese culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading of Japanese texts",
+            "Critical evaluation of Japanese linguistic patterns",
+            "Understanding and interpreting complex Japanese narratives"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in Japanese.  These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "Japanese text translation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural communication in Japanese",
+            "Interpersonal communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Japanese text interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Analyzing Japanese Conversation",
+        "courseCode": "JAPN 422/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines Japanese conversation from a comparative perspective using the framework of Conversation Analysis. It explores the basic mechanisms of social interaction in English and Japanese spoken discourse with a particular focus on everyday talk.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "English language proficiency",
+            "Understanding of Conversation Analysis framework"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Verbal communication in Japanese and English"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Discourse analysis",
+            "Comparative analysis",
+            "Understanding and interpreting social interactions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Japanese Language Acquisition and Teaching",
+        "courseCode": "JAPN 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to fundamental principles of second language acquisition (SLA) and teaches them practical skills to develop course materials and class activities informed by SLA principles. The course covers world language learning and teaching in general but focuses on Japanese as a second or world language when working on course material and activity development.",
+        "Technical and Digital Skills": [
+            "Development of course materials",
+            "Creation of class activities",
+            "Implementing principles of second language acquisition in teaching"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching Japanese as a world language",
+            "Conveying principles of second language acquisition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing language learning techniques",
+            "Adapting teaching methods based on SLA principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing language lessons",
+            "Leading language learning activities"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a study of selected topics in Japanese. Topics vary with the semester and the instructor. Expectations for materials covered and produced for the class vary with the level (higher-level classes will have higher expectations). Contact the Japanese Program Coordinator for details about specific topics covered in a given semester.",
+        "Technical and Digital Skills": [
+            "Proficiency in Japanese language",
+            "Understanding of various Japanese topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate effectively in Japanese",
+            "Understanding and respecting Japanese culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing various topics in Japanese",
+            "Critical interpretation of Japanese texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Japanese",
+        "courseCode": "JAPN 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in Japanese.  These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "Translation tools usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Inter-cultural communication",
+            "Verbal and written communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding context in translations",
+            "Interpreting complex Japanese expressions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Japanese",
+        "courseCode": "JAPN 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Reading and interpreting academic literature in Japanese",
+            "Writing academic papers in Japanese"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one conferencing with instructor",
+            "Presenting research findings",
+            "Discussion and feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection and refinement",
+            "Critical analysis of Japanese literature",
+            "Synthesis of information from multiple sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management for independent study",
+            "Ownership of research process"
+        ]
+    },
+    {
+        "courseCode": "JAPN 522",
+        "courseTitle": "Analyzing Japanese Conversation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines Japanese conversation from a comparative perspective using the framework of Conversation Analysis. It explores the basic mechanisms of social interaction in English and Japanese spoken discourse with a particular focus on everyday talk.",
+        "Technical and Digital Skills": [
+            "Conversation Analysis",
+            "Comparative discourse analysis",
+            "Understanding of basic mechanisms of Japanese spoken discourse"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding of social interaction norms in Japanese culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative linguistic analysis",
+            "Analysis of everyday talk in Japanese"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "JAPN 595",
+        "courseTitle": "Topics in Japanese",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a study of selected topics in Japanese. Topics vary with the semester and the instructor. Expectations for materials covered and produced for the class vary with the level (higher-level classes will have higher expectations). Contact the Japanese Program Coordinator for details about specific topics covered in a given semester.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "Japanese cultural knowledge",
+            "Use of language learning software",
+            "Use of Japanese dictionaries and reference materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Japanese",
+            "Understanding and interpreting non-verbal cues in Japanese culture",
+            "Active listening in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of Japanese texts",
+            "Translation and interpretation skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for self-study",
+            "Self-directed learning",
+            "Adaptability to changing course topics"
+        ]
+    },
+    {
+        "courseCode": "JAPN 596",
+        "courseTitle": "Topics in Japanese",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected topics in Japanese.  These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Japanese language proficiency",
+            "Usage of language learning software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Verbal and written communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation between English and Japanese",
+            "Understanding and interpreting Japanese culture and societal issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions in Japanese",
+            "Organizing study groups for peer learning"
+        ]
+    },
+    {
+        "courseCode": "JAPN 697",
+        "courseTitle": "Tutorial Work in Japanese",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Proficiency in reading in Japanese",
+            "Writing papers in Japanese"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one discussions with instructor",
+            "Articulating research findings",
+            "Effective communication in Japanese"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection",
+            "Critical analysis",
+            "Problem-solving in a foreign language"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project planning",
+            "Time management"
+        ]
+    }
+]

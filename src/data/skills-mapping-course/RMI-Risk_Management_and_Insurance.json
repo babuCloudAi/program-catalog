@@ -1,0 +1,232 @@
+[
+    {
+        "courseTitle": "Principles of Risk Management and Insurance",
+        "courseCode": "RMI 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Recommended elective for non-business as well as business majors. The primary focus of this introductory course is on evaluating life, health, retirement, property, liability and personnel exposures to loss and analyzing the methods for managing these risks. Risk management and insurance techniques for dealing with potential losses to individuals and organizations will be emphasized. Classwork and a group project will also cover emerging risks, such as cyber risk, and technologies disrupting the industry. Students receiving a B or better in this course can have it count as the CPCU 500 course of the Chartered Property-Casualty Underwriter (CPCU) professional designation.",
+        "Technical and Digital Skills": [
+            "Risk evaluation",
+            "Loss analysis",
+            "Management of insurance techniques",
+            "Understanding of emerging risks and technologies",
+            "Knowledge of cyber risk"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group project collaboration",
+            "Presentation of risk analysis and management strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and evaluation of exposure to loss",
+            "Analysis of risk management methods",
+            "Evaluation of emerging risks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Risk management planning",
+            "Leadership in risk management scenarios"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "RMI 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only. May be repeated for credit up to a maximum of 6 credits. Approval for enrollment and allowable credits are determined by the risk management and insurance advisor and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective Communication with Career Development Services",
+            "Interacting with advisors effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and adhering to policy for granting credit"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk Management",
+            "Insurance Policy Understanding",
+            "Self-organization for meeting course credit requirements"
+        ]
+    },
+    {
+        "courseTitle": "Insurance Internship",
+        "courseCode": "RMI 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A faculty supervised, professionally oriented project. Approval for enrollment and allowable credits is determined by the Risk Management advisor.  A transfer student must have completed one semester at Old Dominion University.",
+        "Technical and Digital Skills": [
+            "Risk management",
+            "Insurance policy understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Collaborative work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in risk management",
+            "Analytical thinking in insurance context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in a professional context"
+        ]
+    },
+    {
+        "courseTitle": "Life and Health Insurance",
+        "courseCode": "RMI 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course uses a broad-based financial planning approach in considering the nature and importance of individual life and health risks and uses of individual life and health insurance in treating these risks. The implications of various legal, tax, and accounting considerations on businesses and individuals are discussed. The course also provides an overview of the operational aspects of life insurers, including organization, underwriting, actuarial, reinsurance, marketing, investment, taxation, and accounting functions. Cases are employed.",
+        "Technical and Digital Skills": [
+            "Understanding insurance underwriting",
+            "Actuarial calculations",
+            "Knowledge of insurance reinsurance",
+            "Understanding of insurance investment",
+            "Insurance taxation knowledge",
+            "Insurance accounting functions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective case discussions",
+            "Communicating insurance risks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Financial planning",
+            "Analyzing legal, tax, and accounting implications on businesses and individuals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Insurance organization management",
+            "Marketing strategies in insurance",
+            "Insurance business planning"
+        ]
+    },
+    {
+        "courseTitle": "Employee Benefit Planning",
+        "courseCode": "RMI 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course considers the ability of group insurance and other private pooling mechanisms to alleviate the financial problems arising from death, disability, medical treatment and retirement. Primary emphasis on design, tax and administrative characteristics as they relate to employer-sponsored benefit programs. Cases are employed.",
+        "Technical and Digital Skills": [
+            "Group insurance management",
+            "Design of employer-sponsored benefit programs",
+            "Administration of private pooling mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Case study presentation",
+            "Communicating administrative characteristics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial problem-solving for death, disability, medical treatment, and retirement scenarios",
+            "Analyzing tax characteristics of benefit programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing benefit programs",
+            "Managing employer-sponsored programs",
+            "Organizing private pooling mechanisms"
+        ]
+    },
+    {
+        "courseTitle": "Property & Liability Insurance Company Operations",
+        "courseCode": "RMI 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course provides a broad overview of the operational activities and current problems of property and liability insurance companies, including organization, regulation, pricing, underwriting, claims, reinsurance, marketing, investment, and accounting functions. Classwork and a group project will also cover emerging risks, such as cyber risk, and technologies disrupting the industry. Students receiving a B or better in this course can have it count as the CPCU 520 course of the Chartered Property-Casualty Underwriter (CPCU) professional designation.",
+        "Technical and Digital Skills": [
+            "Understanding of insurance company operations",
+            "Knowledge of regulatory requirements",
+            "Risk pricing techniques",
+            "Underwriting processes",
+            "Claims handling",
+            "Understanding of reinsurance",
+            "Insurance marketing strategies",
+            "Investment and accounting functions in insurance",
+            "Understanding of emerging risks like cyber risk",
+            "Adaptation to technologies disrupting the insurance industry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration for projects",
+            "Effective communication of insurance concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of current problems in the insurance industry",
+            "Risk assessment and management",
+            "Analysis of insurance pricing",
+            "Evaluation of underwriting decisions",
+            "Claims analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management and coordination in group projects",
+            "Leading discussions on emerging risks and industry disruptions"
+        ]
+    },
+    {
+        "courseTitle": "Risk Analysis and Control",
+        "courseCode": "RMI 413",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Recommended elective for non-business as well as business majors. This course focuses on the risk analysis and control phases of the risk management process in business and governmental organizations. Particular attention is paid to the recognition, measurement, and treatment of traditional and emerging risks, risk financing options other than commercial insurance, and decision making under conditions of uncertainty. Classwork and a group project will also cover emerging risks, such as cyber risk, and technologies disrupting the industry.",
+        "Technical and Digital Skills": [
+            "Risk analysis",
+            "Risk management",
+            "Recognition of traditional and emerging risks",
+            "Measurement of risks",
+            "Treatment of risks",
+            "Risk financing options",
+            "Understanding of commercial insurance",
+            "Understanding of cyber risks and technologies disrupting the industry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group project collaboration",
+            "Communication of risk analysis findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making under conditions of uncertainty",
+            "Identification of emerging risks",
+            "Analysis of risk financing options"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk control implementation",
+            "Leadership in group projects"
+        ]
+    },
+    {
+        "courseTitle": "Enterprise Risk Management",
+        "courseCode": "RMI 443",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed as a capstone course for students majoring or minoring in risk management and insurance. The class will be introduced to all aspects of enterprise risk management (ERM), which is the emerging paradigm in risk management. Classwork and a group project will also cover emerging risks, such as cyber risk, and technologies disrupting the industry.",
+        "Technical and Digital Skills": [
+            "Understanding of Enterprise Risk Management (ERM)",
+            "Knowledge on cyber risk",
+            "Familiarity with technologies disrupting the industry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Project presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk analysis",
+            "Identification of emerging risks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Risk mitigation planning"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics in Risk Management and Insurance",
+        "courseCode": "RMI 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For advanced students in risk management and insurance.",
+        "Technical and Digital Skills": [
+            "Risk modeling",
+            "Insurance policy analysis",
+            "Data analysis",
+            "Understanding of risk management software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of risk assessment",
+            "Collaboration in risk mitigation strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk analysis",
+            "Insurance claim adjustment",
+            "Critical evaluation of risk scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy development",
+            "Risk management strategy planning"
+        ]
+    }
+]

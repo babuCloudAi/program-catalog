@@ -1,0 +1,110 @@
+[
+    {
+        "courseTitle": "Principles of Real Estate",
+        "courseCode": "REST 319",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The fundamentals of real estate productivity and value are developed. Legal elements of real estate transactions, physical aspects of real estate location and production, and economic factors pertinent to real estate.",
+        "Technical and Digital Skills": [
+            "Understanding of real estate transaction laws",
+            "Familiarity with physical aspects of real estate",
+            "Awareness of economic factors impacting real estate"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills for real estate transactions",
+            "Ability to effectively communicate real estate concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze real estate productivity and value",
+            "Ability to evaluate economic factors in real estate"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage real estate transactions",
+            "Understanding of real estate planning and development"
+        ]
+    },
+    {
+        "courseTitle": "Real Estate Internship",
+        "courseCode": "REST 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A faculty supervised, professionally oriented project. Approval for enrollment and allowable credits is determined by the department chair. A transfer student must have completed one semester at Old Dominion University.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with faculty supervisor",
+            "Professional orientation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to new professional environments",
+            "Problem-solving in real estate contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Adherence to departmental guidelines"
+        ]
+    },
+    {
+        "courseTitle": "Real Estate Finance",
+        "courseCode": "REST 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the different financing and ownership arrangements used in real estate transactions.",
+        "Technical and Digital Skills": [
+            "Understanding of different financing models",
+            "Knowledge of different ownership arrangements",
+            "Analyzing real estate transactions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiating real estate deals",
+            "Communicating complex financial concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing different financing options",
+            "Evaluating the financial viability of real estate investments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing real estate transactions",
+            "Leading negotiations on financing and ownership arrangements"
+        ]
+    },
+    {
+        "courseTitle": "Real Estate Appraisal",
+        "courseCode": "REST 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Economic theories of value applied to real estate as a guide to business decisions.",
+        "Technical and Digital Skills": [
+            "Understanding and applying economic theories of value",
+            "Real estate market analysis",
+            "Data analysis for business decisions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex economic concepts",
+            "Negotiating and influencing business decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of real estate values",
+            "Analyzing economic trends and their impact on real estate",
+            "Quantitative problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making based on economic theories",
+            "Leading real estate valuation projects"
+        ]
+    },
+    {
+        "courseTitle": "Real Estate Investment Analysis",
+        "courseCode": "REST 454",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examination of developments in real estate valuation and investment with use of computer terminal models.",
+        "Technical and Digital Skills": [
+            "Use of computer terminal models",
+            "Real estate valuation software proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of real estate investment developments",
+            "Valuation of real estate properties"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

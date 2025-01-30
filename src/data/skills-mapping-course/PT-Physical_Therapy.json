@@ -1,0 +1,933 @@
+[
+    {
+        "courseCode": "PT 621",
+        "courseTitle": "Introduction to Physical Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory course where students will develop physical therapy clinical skills.  Content focuses on patient handling techniques including positioning and draping, bed mobility and transfer training, wheelchair management and gait training with the use of assistive devices.  Basic medical terminology, communication, proper body mechanics and safety are also introduced.",
+        "Technical and Digital Skills": [
+            "Patient handling techniques",
+            "Bed mobility and transfer training",
+            "Wheelchair management",
+            "Gait training with the use of assistive devices",
+            "Basic medical terminology",
+            "Proper body mechanics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing patient physical needs",
+            "Applying appropriate physical therapy techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient safety management"
+        ]
+    },
+    {
+        "courseCode": "PT 627",
+        "courseTitle": "Theory and Practice I",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the first course in a series that covers physical therapy interventions. The focus is on therapeutic exercise to address an individual's impairments, functional deficits, and well-being. Students will learn where different types of exercises fit into the healing and recovery timeline.",
+        "Technical and Digital Skills": [
+            "Understanding of therapeutic exercise",
+            "Knowledge of different types of exercises",
+            "Understanding of healing and recovery timeline"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient assessment",
+            "Communicating exercise plans",
+            "Adjusting plans based on patient feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying individual impairments",
+            "Determining functional deficits",
+            "Creating personalized exercise plans for recovery"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing exercise interventions",
+            "Monitoring patient progress",
+            "Adapting plans based on recovery timeline"
+        ]
+    },
+    {
+        "courseCode": "PT 628",
+        "courseTitle": "Theory and Practice II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the theory, clinical techniques, and the evidence behind using common physical agents in physical therapy, including massage, electrotherapy, thermal and non-thermal modalities.  The course also addresses theories of pain management and management of wounds and burns. The format of the class will combine lecture with an extensive laboratory component.",
+        "Technical and Digital Skills": [
+            "Clinical techniques for physical therapy",
+            "Usage of physical agents in therapy",
+            "Electrotherapy application",
+            "Thermal and non-thermal modalities application",
+            "Massage techniques",
+            "Pain management techniques",
+            "Management of wounds and burns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating theoretical concepts",
+            "Explaining physical therapy techniques to patients",
+            "Discussing pain management strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate physical therapy techniques",
+            "Evaluating effectiveness of modalities",
+            "Assessing and managing pain",
+            "Managing wounds and burns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory components",
+            "Coordinating physical therapy procedures",
+            "Leading pain management efforts"
+        ]
+    },
+    {
+        "courseCode": "PT 630",
+        "courseTitle": "Mechanical Properties of Human Tissues in Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "This one-credit course surrounds the basic structure and function of loose and dense connective tissues, bone, articular cartilage, muscle and nerve. It will address how these tissues function under normal and pathological conditions and the implications for physical therapy.  The course will also prepare the student to read and interpret the medical and scientific literature relative to histology and clinical practice.",
+        "Technical and Digital Skills": [
+            "Understanding of human tissue histology",
+            "Knowledge of connective tissues, bone, articular cartilage, muscle and nerve functions",
+            "Interpretation of medical and scientific literature",
+            "Identification of pathological conditions in human tissues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of histological concepts and findings",
+            "Collaboration with medical professionals for physical therapy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of human tissues under normal and pathological conditions",
+            "Application of histological knowledge to physical therapy",
+            "Interpretation and application of scientific literature to clinical practice"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PT 634",
+        "courseTitle": "Clinical Sciences I",
+        "academicLevel": "graduate",
+        "courseDescription": "The first class in a series of lectures designed to acquaint the student with the clinical areas related to pathological conditions frequently encountered in physical therapy practice. The course develops an understanding of health models, disease processes and highlights common pathologies by body system central to the care of the patient.",
+        "Technical and Digital Skills": [
+            "Understanding of health models",
+            "Knowledge of disease processes",
+            "Familiarity with common pathologies by body system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care communication",
+            "Information sharing with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of pathological conditions",
+            "Application of knowledge to physical therapy practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient care",
+            "Prioritization of pathological conditions"
+        ]
+    },
+    {
+        "courseCode": "PT 635",
+        "courseTitle": "Clinical Sciences II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to acquaint the student with medical aspects and pathological conditions associated with musculoskeletal disorders and surgical procedures involving the musculoskeletal system with a subunit related to cancer.",
+        "Technical and Digital Skills": [
+            "Understanding of medical aspects of musculoskeletal disorders",
+            "Knowledge of pathological conditions related to musculoskeletal system",
+            "Familiarity with surgical procedures involving the musculoskeletal system",
+            "Understanding of cancer-related subunits"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex medical concepts",
+            "Explaining pathological conditions to non-medical personnel"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing medical cases related to musculoskeletal disorders",
+            "Evaluating pathological conditions and surgical procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing medical information and patient data",
+            "Leading discussions on case studies involving musculoskeletal disorders and surgical procedures"
+        ]
+    },
+    {
+        "courseCode": "PT 638",
+        "courseTitle": "Exercise Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of human physiology as it relates to exercise and the clinical practice of physical therapy.  Energy systems and cardiopulmonary physiology will be covered, including electrocardiogram interpretation, as well as resistance training and weight loss.",
+        "Technical and Digital Skills": [
+            "Understanding of human physiology",
+            "Energy systems comprehension",
+            "Cardiopulmonary physiology knowledge",
+            "Interpretation of electrocardiogram",
+            "Application of resistance training",
+            "Implementation of weight loss techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex physiological concepts",
+            "Patient communication in a physical therapy context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physiological responses to exercise",
+            "Understanding and solving problems related to physical therapy"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PT 640",
+        "courseTitle": "Patient Evaluation I",
+        "academicLevel": "graduate",
+        "courseDescription": "A beginning course in patient examination skills which focuses on history/interviewing skills, vital signs, range of motion, surface anatomy palpation, reflex testing, sensation testing, edema testing, and manual muscle testing.",
+        "Technical and Digital Skills": [
+            "Vital signs monitoring",
+            "Range of motion assessment",
+            "Surface anatomy palpation",
+            "Reflex testing",
+            "Sensation testing",
+            "Edema testing",
+            "Manual muscle testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient interviewing",
+            "Explaining medical procedures to patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient symptoms",
+            "Identifying abnormalities in patient evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing patient health records",
+            "Leading patient examinations"
+        ]
+    },
+    {
+        "courseCode": "PT 641",
+        "courseTitle": "Patient Evaluation II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course builds upon PT 640 with the focus on gait, posture, and musculoskeletal examination/evaluation. Emphasis will be on examination tests and measures, orthopedic special tests, beginning differential diagnosis, and linking evaluation to intervention choices.",
+        "Technical and Digital Skills": [
+            "Gait and posture examination",
+            "Musculoskeletal evaluation",
+            "Orthopedic special tests",
+            "Beginning differential diagnosis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of evaluation results",
+            "Interpersonal skills with patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physical examination results",
+            "Linking evaluation to intervention choices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing patient evaluation process",
+            "Leading patient intervention decisions"
+        ]
+    },
+    {
+        "courseCode": "PT 655",
+        "courseTitle": "Clinical Problem Solving I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course integrates material from first-year courses using case scenario role playing, short case vignettes, and standardized patients to facilitate clinical skill competencies and clinical decision making. Also covered are professional topics such as interprofessional collaboration competencies (IPEC), direct access, the ICF model, documentation, and emergency procedures.",
+        "Technical and Digital Skills": [
+            "Clinical skill competencies",
+            "Direct access",
+            "Emergency procedures",
+            "Documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration competencies (IPEC)",
+            "Role playing",
+            "Communication with standardized patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical decision making",
+            "Case scenario analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of ICF model",
+            "Leadership in direct access scenarios",
+            "Organization of emergency procedures"
+        ]
+    },
+    {
+        "courseCode": "PT 656",
+        "courseTitle": "Clinical Problem Solving II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is one in the series of clinical problem-solving courses. It focuses on simulated patient experiences and discussion in orthopedic physical therapy. The course will emphasize critical thinking, problem solving and differential diagnosis as well as development and progression of plans of care for orthopedic patients.",
+        "Technical and Digital Skills": [
+            "Simulated patient experiences",
+            "Orthopedic physical therapy techniques",
+            "Differential diagnosis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration in healthcare"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem solving",
+            "Development and progression of plans of care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Patient care coordination"
+        ]
+    },
+    {
+        "courseCode": "PT 665",
+        "courseTitle": "Biomechanics/Kinesiology I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will review the musculoskeletal system with emphasis on normal movement of the spine and extremities and the coordinated muscle activity necessary to produce that movement. Students will learn manual muscle testing techniques. The course will also introduce basic concepts such as types of muscle contractions, torque production, and joint reaction forces.",
+        "Technical and Digital Skills": [
+            "Understanding of the musculoskeletal system",
+            "Manual muscle testing techniques",
+            "Knowledge of muscle contractions",
+            "Understanding torque production",
+            "Understanding joint reaction forces"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing normal movement of the spine and extremities",
+            "Evaluating coordinated muscle activity necessary for movement"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PT 666",
+        "courseTitle": "Biomechanics/Kinesiology II",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn to assess the measurement of motion and forces in normal human movement. Trigonometry will be employed in the problem-solving section of the course as the student assesses forces, vectors and loads.",
+        "Technical and Digital Skills": [
+            "Application of trigonometry in biomechanics",
+            "Measurement of human motion",
+            "Assessment of forces, vectors and loads in human movement"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using trigonometry",
+            "Analytical assessment of human motion and forces",
+            "Vector and load analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PT 669",
+        "courseTitle": "Clinical Experience I",
+        "academicLevel": "graduate",
+        "courseDescription": "This first full-time clinical education experience begins at the end of the first academic year of the program and is designed to permit progressive responsibility in patient evaluation and treatment based upon material learned in classes during the first year.  Each student is required to provide one in-service presentation during the clinical learning experience.",
+        "Technical and Digital Skills": [
+            "Patient evaluation",
+            "Medical treatment techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "In-service presentation",
+            "Patient communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Progressive patient care responsibility",
+            "Application of academic knowledge to real-life situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PT 695",
+        "courseTitle": "Topics in Physical Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PT 792",
+        "courseTitle": "Neuroscience I",
+        "academicLevel": "graduate",
+        "courseDescription": "Neuroscience I is the first in a series of courses that provide the student with an understanding of integrated neuroanatomy and neurophysiology.  Emphasis will be placed upon basic neurophysiologic principles at the cellular level.",
+        "Technical and Digital Skills": [
+            "Understanding of integrated neuroanatomy",
+            "Knowledge of neurophysiology",
+            "Comprehension of neurophysiologic principles at the cellular level"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing neurophysiologic principles",
+            "Critical thinking in neuroanatomy"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PT 793",
+        "courseTitle": "Neuroscience II",
+        "academicLevel": "graduate",
+        "courseDescription": "Neuroscience II is the second course in the sequence. From the foundation of Neuroscience I, the course will build to the progressively higher order of structural functional relationships that control behavior.",
+        "Technical and Digital Skills": [
+            "Understanding of structural functional relationships",
+            "Knowledge of higher order behavior control",
+            "Advanced neuroscience concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of complex neuroscience patterns",
+            "Analyzing structural functional relationships"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PT 810",
+        "courseTitle": "Scientific Inquiry I",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the first in a series of courses that prepare the graduate to critically analyze and use scientific literature to improve clinical decision-making and practice.  This course introduces the terminology and strategies of evidence-based practice applied to physical therapy.  It emphasizes the basic concepts such as research design, measurement principles and basic statistics.",
+        "Technical and Digital Skills": [
+            "Understanding and applying research design",
+            "Measurement principles",
+            "Basic statistical analysis",
+            "Terminology of evidence-based practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of scientific literature",
+            "Applied evidence-based practice to physical therapy",
+            "Improvement of clinical decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PT 822",
+        "courseTitle": "Scientific Inquiry II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a continuation of the graduate's preparation to practice critical analysis skills related to scientific literature. Its emphasis is placed on creating the components of research reports and concepts associated with judging the quality and value of research. Students will complete a systematic review of the literature.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research report writing",
+            "Quality assessment of scientific research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating research findings",
+            "Creating comprehensive research reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of scientific literature",
+            "Systematic review of literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing scientific literature",
+            "Organizing research reports"
+        ]
+    },
+    {
+        "courseCode": "PT 826",
+        "courseTitle": "Theory and Practice III",
+        "academicLevel": "graduate",
+        "courseDescription": "This is third in a series of four courses in which the student will develop entry-level professional analytical skills in the area of evaluation and treatment with emphasis in the area of orthopedics. This course will expand on the knowledge from spring semester and summer clinical experiences. Teaching methods will include lecture, lab experiences, patient case studies, and demonstrations.",
+        "Technical and Digital Skills": [
+            "Analytical Skills",
+            "Orthopedic Evaluation Techniques",
+            "Orthopedic Treatment Techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient Case Study Analysis",
+            "Demonstrating Treatment Procedures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Clinical Experiences",
+            "Developing Treatment Plans",
+            "Critical Evaluation of Orthopedic Conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing Clinical Experiences",
+            "Leading Treatment Procedures"
+        ]
+    },
+    {
+        "courseCode": "PT 827",
+        "courseTitle": "Theory and Practice IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the fourth in a series of Theory and Practice courses designed to prepare the student to achieve entry-level skills in analysis and management in acute care, the adult client with neurologic dysfunction, and rehabilitation following limb amputation.  The course integrates the theoretical aspects of neurologic physical therapy with the development of cognitive and psychomotor clinical skills.  Practice laboratories, demonstrations, use of audiovisual aids, lectures, laboratory assignments and projects are used to facilitate learning.",
+        "Technical and Digital Skills": [
+            "Analysis and management in acute care",
+            "Neurologic physical therapy",
+            "Rehabilitation following limb amputation",
+            "Use of audiovisual aids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex medical information",
+            "Demonstration of physical therapy techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Neurologic dysfunction analysis",
+            "Cognitive and psychomotor clinical skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory assignments and projects management",
+            "Coordinating practice laboratories"
+        ]
+    },
+    {
+        "courseCode": "PT 836",
+        "courseTitle": "Clinical Sciences III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to emphasize modules in pharmacology, management of chronic pain, functional capacity evaluations, work conditioning, clinical electrophysiology and imaging.",
+        "Technical and Digital Skills": [
+            "Pharmacology knowledge",
+            "Understanding chronic pain management",
+            "Functional capacity evaluations",
+            "Work conditioning expertise",
+            "Clinical electrophysiology knowledge",
+            "Medical imaging skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating patient care plans",
+            "Discussing pharmacology concepts",
+            "Explaining imaging results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient symptoms",
+            "Determining appropriate pain management strategies",
+            "Interpreting electrophysiology results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating patient care",
+            "Managing chronic conditions",
+            "Leading work conditioning programs"
+        ]
+    },
+    {
+        "courseCode": "PT 837",
+        "courseTitle": "Clinical Sciences IV",
+        "academicLevel": "graduate",
+        "courseDescription": "The fourth clinical science course is designed to provide the learner with the foundation to apply clinical science knowledge about an underlying injury or disease to design and implement the appropriate physical therapy care plan for pathologies seen in physical therapy practice.  This course focuses on pathologies seen in the acute care environment, pathologies of the nervous system and limb amputations.",
+        "Technical and Digital Skills": [
+            "Applying clinical science knowledge",
+            "Designing physical therapy care plans",
+            "Implementing physical therapy care plans",
+            "Understanding of pathologies in acute care",
+            "Knowledge of nervous system pathologies",
+            "Understanding of limb amputations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating patient care plans",
+            "Explaining complex pathologies in understandable terms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clinical data for patient care",
+            "Diagnosing underlying injuries or diseases",
+            "Adapting care plans based on individual patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient treatment schedules",
+            "Leading patient care teams"
+        ]
+    },
+    {
+        "courseCode": "PT 842",
+        "courseTitle": "Patient Evaluation III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course allows students to learn and develop the clinical tools and decision-making skills necessary in the evaluation of patients across the continuum of care with special attention paid to patients with various neurological dysfunctions, medically complex patients in the acute care setting and patients with amputations.",
+        "Technical and Digital Skills": [
+            "Clinical tools application",
+            "Patient evaluation techniques",
+            "Specialized care for patients with neurological dysfunctions",
+            "Treatment and care for patients with amputations",
+            "Acute care provision for medically complex patients"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic patient communication",
+            "Collaborative decision-making",
+            "Patient-status reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient case analysis",
+            "Clinical decision making",
+            "Risk assessment and management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care coordination",
+            "Clinical team collaboration",
+            "Healthcare service planning"
+        ]
+    },
+    {
+        "courseCode": "PT 857",
+        "courseTitle": "Clinical Problem Solving III",
+        "academicLevel": "graduate",
+        "courseDescription": "The course uses simulated patient experiences, case studies and discussion around topics in orthopedic physical therapy. The course will emphasize critical thinking, problem solving and differential diagnosis, as well as the development and progression of plans of care for the orthopedic patient.",
+        "Technical and Digital Skills": [
+            "Simulated patient experiences",
+            "Orthopedic physical therapy case studies",
+            "Differential diagnosis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Patient care communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem solving",
+            "Care plan development and progression"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient case management",
+            "Orthopedic patient care coordination"
+        ]
+    },
+    {
+        "courseCode": "PT 858",
+        "courseTitle": "Clinical Problem Solving IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the fourth clinical problem-solving course. It focuses on simulated patient experiences, case studies and discussion of interventions for people with neurologic dysfunction (pediatric and adult), spinal cord injury, and care of patients with medically complex conditions in acute care and intensive care units (ICU).",
+        "Technical and Digital Skills": [
+            "Neurologic dysfunction care procedures",
+            "Spinal cord injury care procedures",
+            "Acute care procedures",
+            "Intensive care unit procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary team collaboration",
+            "Discussing medical interventions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Case study analysis",
+            "Simulated patient problem-solving",
+            "Clinical decision-making",
+            "Evaluating complex medical conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Coordinating interventions",
+            "Conducting clinical discussions"
+        ]
+    },
+    {
+        "courseCode": "PT 870",
+        "courseTitle": "Pediatric Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to prepare the student to achieve entry-level skills in pathology, analysis and management of the pediatric client with neurologic dysfunction.  The course integrates the theoretical aspects of neurologic physical therapy with the development of cognitive and psychomotor clinical skills.  Practice laboratories, demonstrations, use of audiovisual aids, lectures, laboratory assignments and projects are used to facilitate learning.",
+        "Technical and Digital Skills": [
+            "Pathology analysis",
+            "Management of neurologic dysfunction in pediatric clients",
+            "Application of theoretical aspects of neurologic physical therapy",
+            "Use of audiovisual aids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Demonstration of clinical skills",
+            "Collaboration in laboratory assignments and projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of pediatric neurologic dysfunction",
+            "Development of cognitive and psychomotor clinical skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating practice laboratories",
+            "Leading and managing projects"
+        ]
+    },
+    {
+        "courseCode": "PT 875",
+        "courseTitle": "Clinical Experience II",
+        "academicLevel": "graduate",
+        "courseDescription": "This second full-time clinical education experience occurs between the second and third academic years of the program and is designed to permit progressive responsibility in patient evaluation and treatment based upon material learned in classes during the first and second years.",
+        "Technical and Digital Skills": [
+            "Patient evaluation",
+            "Clinical treatment techniques",
+            "Clinical data recording"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interprofessional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient condition analysis",
+            "Treatment strategy formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical time management",
+            "Patient care coordination"
+        ]
+    },
+    {
+        "courseCode": "PT 876",
+        "courseTitle": "Clinical Experience III",
+        "academicLevel": "graduate",
+        "courseDescription": "This third full-time clinical education experience occurs following the final academic semester of the program and is designed to promote the development of an autonomous professional through the synthesis and application of clinical problem solving and clinical reasoning skills. Students will achieve entry-level clinical and administrative practice skills.",
+        "Technical and Digital Skills": [
+            "Clinical problem solving",
+            "Application of clinical reasoning skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional autonomy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem solving",
+            "Application of clinical reasoning skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administrative practice skills",
+            "Development of professional autonomy"
+        ]
+    },
+    {
+        "courseCode": "PT 880",
+        "courseTitle": "Psychosocial Aspects of Patient Care",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses upon the emotional and psychological elements associated with illness and disease.  Students will learn the various societal and personal views of sickness and chronic illness as well as the coping mechanism employed by individuals and families when facing disease and terminal illness.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and empathizing with patients' emotional and psychological states",
+            "Effective communication with patients and families facing disease and terminal illness",
+            "Cultural sensitivity and understanding of societal views of sickness and chronic illness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing individual and societal coping mechanisms for illness",
+            "Identifying and understanding personal views of sickness and chronic illness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supporting patients and families in crisis",
+            "Guiding individuals and families through the coping process"
+        ]
+    },
+    {
+        "courseCode": "PT 881",
+        "courseTitle": "Inter-Professional Case Management for Special Populations",
+        "academicLevel": "graduate",
+        "courseDescription": "This hybrid course facilitates interprofessional health promotion development between graduate-level health professions students in addition to PT management of special populations. Health promotion topics include abuse/mandated reporting, adolescent and LGBTQ health promotion, social and environmental issues, spirituality, death and dying, and supportive environments.",
+        "Technical and Digital Skills": [
+            "Health promotion development",
+            "Understanding of environmental and social issues affecting health",
+            "Knowledge of LGBTQ health issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Understanding and managing sensitive topics in health promotion such as abuse, spirituality, death and dying",
+            "Communicating effectively with special populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and reporting abuse",
+            "Addressing health promotion needs of adolescents and LGBTQ community",
+            "Understanding and addressing social and environmental health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interprofessional health promotion initiatives",
+            "Organizing health promotion activities for special populations",
+            "Managing health promotion in supportive environments"
+        ]
+    },
+    {
+        "courseCode": "PT 882",
+        "courseTitle": "Practice Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide the physical therapy student with a review of the principles and practices of managing and administering physical therapy in various clinical settings.  The course stresses the principles of management administration in patient care in clinical environments.",
+        "Technical and Digital Skills": [
+            "Knowledge of physical therapy practices",
+            "Understanding clinical environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care",
+            "Interacting with fellow staff in clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Managing patient care",
+            "Analyzing clinical environments for better patient care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administration of physical therapy",
+            "Management of various clinical settings"
+        ]
+    },
+    {
+        "courseCode": "PT 883",
+        "courseTitle": "Professional Issues in Physical Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is for the identification, analysis, and discussion of issues currently facing the physical therapy profession.  The issues focus on the ethical questions as well as the role relationships of physical therapists in the greater health care delivery system of the United States.",
+        "Technical and Digital Skills": [
+            "Health care system analysis",
+            "Ethical issue identification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication within healthcare system",
+            "Interpersonal relations within healthcare contexts",
+            "Ethical discussion and dialogue"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical issue analysis",
+            "Health care system problem identification",
+            "Role relationship analysis in healthcare contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within the physical therapy profession",
+            "Organization in health care delivery"
+        ]
+    },
+    {
+        "courseCode": "PT 884",
+        "courseTitle": "Clinical Teaching and Professional Communication",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to meet the needs for patient instruction, education within the classroom and clinic, and peer continuing education.  The focus of the course is on clear communication in the teaching/learning process.",
+        "Technical and Digital Skills": [
+            "Patient instruction",
+            "Education technology utilization",
+            "Digital communication tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear verbal communication",
+            "Peer collaboration",
+            "Active listening",
+            "Feedback delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of learning needs",
+            "Evaluation of instructional effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leadership in clinical settings",
+            "Instructional planning"
+        ]
+    },
+    {
+        "courseCode": "PT 890",
+        "courseTitle": "Differential Diagnosis Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of this seminar will be on the integration of the foundational and clinical sciences to analyze and solve patient-based clinical problems to arrive at a diagnosis. Students will be expected to explain their reasoning and defend their decisions.",
+        "Technical and Digital Skills": [
+            "Integration of foundational and clinical sciences",
+            "Analysis of patient-based clinical problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Defending decisions",
+            "Explaining reasoning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving patient-based clinical problems",
+            "Analyzing clinical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PT 891",
+        "courseTitle": "Seminar in Scientific Inquiry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to facilitate critical inquiry, clinical reasoning, cultural respect, and reflective thinking through formulation of a systematic review or case report on a patient from one of the student’s full-time clinical experiences.  Emphasis in this course is placed upon integrating the best research evidence with clinical experience and patient values to support decisions that affect patient outcomes and quality of life with application to management, education, and clinical practice.",
+        "Technical and Digital Skills": [
+            "Formulation of a systematic review or case report",
+            "Clinical reasoning",
+            "Integrating research evidence with clinical experience",
+            "Application to management, education, and clinical practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural respect",
+            "Communication of patient values",
+            "Presentation of research and clinical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical inquiry",
+            "Reflective thinking",
+            "Decision-making that affects patient outcomes and quality of life"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient outcomes",
+            "Leadership in clinical practice",
+            "Education of clinical processes"
+        ]
+    },
+    {
+        "courseCode": "PT 892",
+        "courseTitle": "Seminar in Inter-Professional Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to challenge the student to interact with other health professionals in making patient care decisions.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Collaborative decision making",
+            "Effective communication with other health professionals",
+            "Active listening",
+            "Empathy in patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient care scenarios",
+            "Critical thinking in healthcare decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading healthcare team discussions",
+            "Organizing patient care plans",
+            "Coordination in a healthcare team"
+        ]
+    },
+    {
+        "courseCode": "PT 893",
+        "courseTitle": "Research Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Research topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PT 895",
+        "courseTitle": "Topics in Physical Therapy I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will expose interprofessional students to current trends in health promotion and illness prevention. Topics will include: Healthy People 2020 objectives, age specific clinical guidelines for health promotion and illness prevention, theories on behavior and motivation, sociocultural issues, and screening for a variety of health problems. Measures for promoting and maintaining health throughout the lifespan will be explored with attention to current research from the literature.",
+        "Technical and Digital Skills": [
+            "Health promotion techniques",
+            "Understanding of age-specific clinical guidelines",
+            "Knowledge of Healthy People 2020 objectives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Sociocultural sensitivity",
+            "Communication of health promotion strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health screening results",
+            "Application of behavior and motivation theories",
+            "Evaluation of health research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health promotion planning",
+            "Management of illness prevention programs"
+        ]
+    },
+    {
+        "courseCode": "PT 896",
+        "courseTitle": "Topics in Physical Therapy II",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will pick from a variety of clinical specialty practice, service learning or research topics to explore in a small group setting.",
+        "Technical and Digital Skills": [
+            "Clinical specialty practice",
+            "Service learning",
+            "Research topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Small group communication",
+            "Peer collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in clinical settings",
+            "Analyzing research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small group discussions",
+            "Organizing service learning experiences"
+        ]
+    }
+]

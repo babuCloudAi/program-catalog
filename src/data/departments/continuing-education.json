@@ -1,0 +1,21 @@
+{
+    "Continuing Education": [
+        {
+            "academicLevel": "graduate",
+            "programs": {
+                "Certificate Programs": [
+                    "Public Sector Leadership Certificate"
+                ]
+            }
+        },
+        {
+            "academicLevel": "undergraduate",
+            "programs": {
+                "Certificate Programs": [
+                    "Digital Forensics Certificate",
+                    "Professional Leadership Certificate"
+                ]
+            }
+        }
+    ]
+}

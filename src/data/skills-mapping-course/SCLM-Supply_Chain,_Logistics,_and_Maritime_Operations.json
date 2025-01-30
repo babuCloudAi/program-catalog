@@ -1,0 +1,365 @@
+[
+    {
+        "courseTitle": "Introduction to Spreadsheet Applications",
+        "courseCode": "SCLM 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The spreadsheet has become one of the most widely used analytical tools in the modern world.  This course introduces students to the use of spreadsheet (e.g., MS Excel).  Topics include: formulas, functions, sorting and filtering, and pivot tables.   Besides the spreadsheet capabilities, the course will cover spreadsheet applications in the supply chain, logistics and maritime industry.",
+        "Technical and Digital Skills": [
+            "Use of spreadsheet (e.g., MS Excel)",
+            "Formulas and functions in spreadsheets",
+            "Sorting and filtering data in spreadsheets",
+            "Creating pivot tables in spreadsheets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting spreadsheet data",
+            "Applying spreadsheet tools in problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Applying spreadsheet applications in supply chain management",
+            "Applying spreadsheet applications in logistics",
+            "Applying spreadsheet applications in the maritime industry"
+        ]
+    },
+    {
+        "courseTitle": "Maritime Leadership, Technology, and Society",
+        "courseCode": "SCLM 303T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the intersections between maritime leadership, technology, and society. It will explain the important elements of the marine transportation and technological systems, which consist of waterways and ports that allow for various modes of transportation to move people and goods to, from, and on the water. Specific topics include an introduction to different types of cargo, how cargo is moved, ship types, ship equipment, ship routes, basic navigation and ship stability, emerging industries including offshore wind and autonomous systems, maritime law, maritime safety, and leadership.",
+        "Technical and Digital Skills": [
+            "Understanding of marine transportation systems",
+            "Knowledge of different types of cargo and how it is moved",
+            "Basic ship navigation skills",
+            "Familiarity with ship equipment",
+            "Awareness of emerging maritime industries such as offshore wind and autonomous systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding of maritime law",
+            "Knowledge of maritime safety protocols"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze different types of cargo and corresponding transportation methods",
+            "Knowledge of ship routes and ability to determine optimal routes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in maritime settings",
+            "Organization of maritime operations",
+            "Management of maritime safety protocols"
+        ]
+    },
+    {
+        "courseTitle": "Operations in a Global Environment",
+        "courseCode": "SCLM 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines strategic, tactical and operational issues in the planning and control of manufacturing and service delivery operations in an increasingly globalized world. This course examines such topics as process design, capacity, materials planning and control, inventory decisions, location and layout, quality and scheduling.",
+        "Technical and Digital Skills": [
+            "Process design",
+            "Materials planning and control",
+            "Inventory decision-making",
+            "Location and layout planning",
+            "Quality control",
+            "Scheduling in operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Collaboration in diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning",
+            "Tactical decision-making",
+            "Operational problem-solving",
+            "Analyzing global operational issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Global supply chain management",
+            "Leadership in global operations",
+            "Organizing global service delivery operations"
+        ]
+    },
+    {
+        "courseTitle": "International Logistics",
+        "courseCode": "SCLM 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course examines international logistics and terms for movement of goods and analyzes how companies enter into foreign markets and participate in international trade. It discusses processes and concepts involved in domestic and international multimodal transportation. It also covers operational issues such as payment, commercial documents, insurance, and customs.",
+        "Technical and Digital Skills": [
+            "Understanding of international logistics",
+            "Knowledge of multimodal transportation",
+            "Familiarity with commercial documents",
+            "Understanding of insurance in international trade",
+            "Knowledge of customs procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with foreign market participants",
+            "Negotiation skills in international trade"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing foreign market entry strategies",
+            "Solving operational issues in international trade",
+            "Analyzing multimodal transportation processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of international logistics",
+            "Organization of payment processes in international trade",
+            "Leadership in international trade operations"
+        ]
+    },
+    {
+        "courseTitle": "Multimodal Freight Transportation",
+        "courseCode": "SCLM 380",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course includes an overview of the key elements of multimodal freight transportation.  It examines modes of transportation, transportation economics, and transportation technology, as well as costing and pricing for transportation. The relationships between intermediaries (including third party-logistics companies), carriers, and shippers are discussed.  It also provides an overview for transportation risk, transportation software as well as issues on global logistics.",
+        "Technical and Digital Skills": [
+            "Understanding of transportation economics",
+            "Knowledge of transportation technology",
+            "Proficiency in transportation software",
+            "Understanding of multimodal freight transportation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with intermediaries, carriers, and shippers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of transportation risk",
+            "Costing and pricing for transportation",
+            "Understanding global logistics issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of relationships between intermediaries, carriers, and shippers"
+        ]
+    },
+    {
+        "courseTitle": "International Transportation Law and Policy",
+        "courseCode": "SCLM 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The logistics activities are increasingly global and are influenced by a system of national and international laws. This complex industry requires an understanding of the regulations and legislation for freight transportation flows. This course will cover domestic and international supply contracts for freight cargo, Incoterms, international law of the sea, maritime jurisdiction, regulation of shipping, carriage of goods, cargo and marine insurance, salvage, marine environmental law, safety at sea, along with other relevant transportation laws.",
+        "Technical and Digital Skills": [
+            "Understanding of national and international laws",
+            "Knowledge of Incoterms",
+            "Understanding of maritime jurisdiction",
+            "Understanding of cargo and marine insurance",
+            "Knowledge of safety at sea regulations",
+            "Understanding of marine environmental law"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate legal and regulatory terms",
+            "Negotiating international supply contracts",
+            "Clarifying legal discrepancies in freight transportation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing freight transportation flows",
+            "Evaluation and application of regulations and legislation",
+            "Problem-solving in the context of salvage"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of freight cargo contracts",
+            "Leading and coordinating in a regulated environment",
+            "Adherence to shipping regulations"
+        ]
+    },
+    {
+        "courseTitle": "Maritime Operations",
+        "courseCode": "SCLM 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the operation of assets related to maritime transportation, including seaports, vessels fleets in the movement of cargo domestic and international cargo. It presents concepts related to organization and operation of ports. It discusses issues involved in planning, investment, communication systems, congestion, pollution, safety, security; intermodal transportation; water and land accessibility; and port competition and cooperation. Examines freight shipping organizations operations. Topics include vessel fleet, shipping markets, operations, costs, insurance, and regulations; and ship types, safety, role of the flag state, pollution, chartering and purchase, and understanding of the shipbuilding and ship repair market.",
+        "Technical and Digital Skills": [
+            "Understanding of maritime transportation",
+            "Knowledge of seaports operation",
+            "Knowledge of vessels fleet operation",
+            "Understanding of ship types",
+            "Knowledge of shipbuilding and ship repair market",
+            "Understanding of port communication systems",
+            "Understanding of intermodal transportation",
+            "Knowledge of shipping markets",
+            "Understanding of maritime insurance and regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cooperation in a port environment",
+            "Effective communication in maritime operations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and investment in maritime operations",
+            "Addressing issues of congestion and pollution",
+            "Ensuring safety and security in maritime operations",
+            "Problem-solving in intermodal transportation",
+            "Understanding and addressing port competition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and operation of ports",
+            "Leadership in freight shipping organizations",
+            "Chartering and purchase in maritime operations"
+        ]
+    },
+    {
+        "courseTitle": "Maritime and Supply Chain Safety and Security",
+        "courseCode": "SCLM 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines methods to anticipate threats and mitigation strategies for securing the supply chain and increasing its resilience.  It provides an overview of international and U.S initiatives to ensure the security of logistics assets, cargo, people, and infrastructure within the maritime and supply chain domain. The course also addresses threats to the international trade (including maritime piracy, terrorism, cyber threats), and state-of-the-art techniques and tools for protecting the industry against cyberattacks, as well as roles and responsibilities of the supply chain actors.",
+        "Technical and Digital Skills": [
+            "Cybersecurity methods",
+            "Risk assessment for supply chain and maritime operations",
+            "Understanding of international and U.S. security initiatives",
+            "Techniques and tools for protecting against cyberattacks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with supply chain actors",
+            "Communication of security risks and mitigation strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Anticipation of threats to supply chain and maritime operations",
+            "Development of mitigation strategies for security risks",
+            "Analysis of potential cyber threats"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in security initiatives",
+            "Management of logistics assets, cargo, people, and infrastructure"
+        ]
+    },
+    {
+        "courseTitle": "Maritime and Supply Chain Risk and Insurance",
+        "courseCode": "SCLM 419",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the risks associated with supply chain operations, including aspects of identification, analysis, assessment, response, and control of the risks associated with the transportation and storage of goods.  It covers risk assessment as a function of threats, vulnerabilities, and consequences for operational performance for all modes of transportation.  Topics include Lloyd's and the London Insurance Market, principles of insurance and law, international liability conventions, institute clauses, exclusions, cargo policies, particular and general average, and salvage insurance.",
+        "Technical and Digital Skills": [
+            "Risk identification and analysis",
+            "Understanding of insurance principles and law",
+            "Knowledge of international liability conventions",
+            "Understanding of institute clauses, exclusions, and cargo policies",
+            "Understanding of particular and general average",
+            "Knowledge of salvage insurance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating risk assessments",
+            "Communicating with insurance market stakeholders",
+            "Negotiating insurance policies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Response planning and control",
+            "Analysis of operational performance",
+            "Threat and vulnerability analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk management",
+            "Coordinating with various modes of transportation",
+            "Managing insurance policies for supply chain operations"
+        ]
+    },
+    {
+        "courseTitle": "Sourcing and Negotiation",
+        "courseCode": "SCLM 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets. This course also covers supply and procurement negotiations. It examines conceptual and practical skills in negotiations.  Students will develop analytical, interpersonal, and communication skills, with an emphasis placed on experiential learning through case studies and role playing.",
+        "Technical and Digital Skills": [
+            "Strategic sourcing of materials and services",
+            "Price/cost analysis",
+            "Quality control",
+            "Purchasing processes",
+            "Supplier selection",
+            "Understanding of legal and ethical issues in sourcing",
+            "Knowledge of third party logistics and freight forwarding",
+            "Acquisition of services and capital assets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supply and procurement negotiations",
+            "Role playing to simulate real-world negotiation scenarios",
+            "Effective interpersonal skills in a business context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of sourcing decisions",
+            "Analytical skills for supplier selection",
+            "Problem-solving in procurement negotiations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in negotiation scenarios",
+            "Organizational skills in managing procurement and supply processes",
+            "Ethical decision-making"
+        ]
+    },
+    {
+        "courseTitle": "Maritime and Supply Chain Execution and Analytics",
+        "courseCode": "SCLM 442",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the performance metrics of the supply chain, including item tracking and visibility of the whole chain, including control tower approaches.  It covers the importance of supply chain information collection, real-time data sharing and basic analytics tools to evaluate and improve the degree of execution of the supply chain and generating insights. Topics include monitoring supply chain processes, end-to-end visibility, collaborative supply chain networks, data integration, and data visualization.",
+        "Technical and Digital Skills": [
+            "Supply chain information collection",
+            "Real-time data sharing",
+            "Use of basic analytics tools",
+            "Data integration",
+            "Data visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative supply chain networks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating and improving supply chain execution",
+            "Monitoring supply chain processes",
+            "Generating insights from data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing end-to-end supply chain visibility",
+            "Implementing control tower approaches for item tracking"
+        ]
+    },
+    {
+        "courseTitle": "Building Sustainable Supply Chains",
+        "courseCode": "SCLM 443",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the environmental impact of supply chain activities, including environmental measurements and strategies to achieve carbon neutrality.  Topics include green network distribution, sustainable sourcing operations, and circular supply chains.",
+        "Technical and Digital Skills": [
+            "Environmental impact measurement",
+            "Sustainable supply chain design",
+            "Green network distribution",
+            "Sustainable sourcing operations",
+            "Circular supply chain implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder engagement for sustainable sourcing",
+            "Communication of sustainability strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Carbon neutrality strategy development",
+            "Analysis of supply chain environmental impact",
+            "Sustainable problem solving",
+            "Green strategy optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in sustainable operations",
+            "Organizing green network distributions",
+            "Strategic planning for circular supply chains"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Maritime and Supply Chain Technology",
+        "courseCode": "SCLM 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the role of technology within the supply chain and how these technologies can be used to improve supply chain performance.  Topics include AI, blockchain and smart contracts, IoT and digital twins, Large Language models (LLM), automation and robotics, digital supply chain transformation, machine learning in supply chain, anti-hacking technologies, autonomous vehicles, and additive manufacturing, among others.",
+        "Technical and Digital Skills": [
+            "Understanding of AI in supply chain",
+            "Blockchain and smart contracts",
+            "IoT and digital twins",
+            "Large Language models (LLM)",
+            "Automation and robotics",
+            "Digital supply chain transformation",
+            "Machine learning in supply chain",
+            "Anti-hacking technologies",
+            "Understanding of autonomous vehicles",
+            "Additive manufacturing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex technical concepts",
+            "Collaborating on technology implementation",
+            "Presenting technology-based supply chain solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing supply chain performance",
+            "Troubleshooting technology-related supply chain issues",
+            "Applying machine learning to solve supply chain problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading digital transformation in supply chains",
+            "Planning and implementing new technologies in supply chains",
+            "Organizing anti-hacking measures"
+        ]
+    }
+]

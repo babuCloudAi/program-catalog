@@ -1,0 +1,207 @@
+[
+    {
+        "courseTitle": "Engineering Technology Information Literacy/Research",
+        "courseCode": "ENGT 111",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamental information literacy and research as applied to engineering technology.  Course includes where and how to efficiently locate and critically evaluate technical information.  Proper use of technical information and the associated ethical and legal issues will be examined.",
+        "Technical and Digital Skills": [
+            "Efficiently locating technical information",
+            "Critical evaluation of technical information",
+            "Understanding ethical and legal issues related to technical information"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Statics",
+        "courseCode": "ENGT 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Scalar methods and free body diagrams are employed in the analysis of discrete and distributed force systems and their application to bodies in external equilibrium. Friction, moment of inertia, and center of gravity are also included.",
+        "Technical and Digital Skills": [
+            "Scalar methods application",
+            "Free body diagram analysis",
+            "Friction calculations",
+            "Moment of inertia calculations",
+            "Center of gravity calculations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of force systems",
+            "Problem-solving in external equilibrium scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Strength of Materials",
+        "courseCode": "ENGT 220",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Mechanical behavior of materials subjected to various external loads. Stress-strain relationships are utilized to design members subjected to shear, axial, bending, and torsional loads. Deformations are predicted and Mohr's circle is introduced.",
+        "Technical and Digital Skills": [
+            "Understanding stress-strain relationships",
+            "Designing members for shear, axial, bending, and torsional loads",
+            "Predicting deformations",
+            "Applying Mohr's circle"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing mechanical behavior of materials under different loads",
+            "Applying stress-strain concepts to real-world scenarios",
+            "Solving problems related to material strength"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Engineering Graphics and Computer Solid Modeling",
+        "courseCode": "ENGT 230",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Graphical communication for engineers studies the concept of 3D parametric modeling and its application in industry. In this course students will learn the fundamentals of sketching, basics of surface design, assembly modeling, and dynamic modeling of mechanisms using industry standard parametric modeling software. Emphasis on developing the skills needed for engineering design.",
+        "Technical and Digital Skills": [
+            "3D parametric modeling",
+            "Sketching",
+            "Surface design",
+            "Assembly modeling",
+            "Dynamic modeling of mechanisms",
+            "Parametric modeling software proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Engineering design skills",
+            "Critical evaluation of design concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Automation and Controls",
+        "courseCode": "ENGT 270",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the design and analysis of feedback control system. Includes the fundamentals of programmable controllers as well as practical applications of interfacing mechanical, electrical, pneumatic and hydraulic feedback control circuits. Computer simulation software is used to model system responses.",
+        "Technical and Digital Skills": [
+            "Design and analysis of feedback control systems",
+            "Programming of programmable controllers",
+            "Interfacing mechanical, electrical, pneumatic, and hydraulic circuits",
+            "Computer simulation software modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting control system issues",
+            "Analyzing system responses",
+            "Optimizing control algorithms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Automation and Controls Laboratory",
+        "courseCode": "ENGT 286",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory and computer simulation of control systems including programmable controllers as well as practical applications of interfacing mechanical, electrical and pneumatic control systems.",
+        "Technical and Digital Skills": [
+            "Control system laboratory techniques",
+            "Computer simulation of control systems",
+            "Programming programmable controllers",
+            "Interfacing mechanical control systems",
+            "Interfacing electrical control systems",
+            "Interfacing pneumatic control systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting control system issues",
+            "Analyzing control system performance",
+            "Optimizing control system parameters"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Technical Analysis",
+        "courseCode": "ENGT 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analytical and computational methods to support upper-division engineering technology courses. Topics include linear algebra, ordinary differential equations of engineering systems, elements of vector analysis, introductory statistical concepts, and software usage/development. MATLAB is used throughout the course to support all the topics. Presentation of various topics is adjusted for CET, EET or MET programs.",
+        "Technical and Digital Skills": [
+            "Analytical methods in engineering technology",
+            "Computational methods in engineering technology",
+            "Linear algebra",
+            "Ordinary differential equations of engineering systems",
+            "Elements of vector analysis",
+            "Introductory statistical concepts",
+            "MATLAB programming",
+            "Software development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in engineering technology",
+            "Problem-solving in engineering systems",
+            "Statistical analysis",
+            "MATLAB problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Geometric Dimensioning and Tolerancing",
+        "courseCode": "ENGT 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.",
+        "Technical and Digital Skills": [
+            "Calculation of fits",
+            "Geometrical tolerances using ANSI-Y14.5M",
+            "Tolerances of form, orientation, and profile",
+            "Designing product drawings"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of geometric tolerances",
+            "Analyzing fits and tolerances",
+            "Solving geometric design problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Senior Design Project",
+        "courseCode": "ENGT 434",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course must be taken in the semester prior to the Senior Project course. A collection of career-related topics pertaining to engineering technology. Topics include engineering codes and standards, engineering ethics, technical report writing, job search and resume writing techniques, patents and property rights, and professional engineering licensure. The course concludes with the selection of the student's project topic for the subsequent Senior Project course.",
+        "Technical and Digital Skills": [
+            "Engineering codes and standards knowledge",
+            "Understanding of patents and property rights",
+            "Professional engineering licensure requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective technical report writing",
+            "Job search strategies",
+            "Resume writing techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of engineering information",
+            "Project topic selection for Senior Project course"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills for Senior Project preparation"
+        ]
+    },
+    {
+        "courseTitle": "Senior Design Project",
+        "courseCode": "ENGT 435W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A capstone course utilizing upper-level coursework involving independent or group design projects under the direction of a sponsoring faculty member.  Projects may involve analytical and/or experimental results. Formal written and oral reports will be required. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Design project management",
+            "Prototyping using CAD software",
+            "Experimental design and execution",
+            "Data analysis for project evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication",
+            "Client interaction and feedback management",
+            "Oral presentation skills for project defense"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of project outcomes",
+            "Identifying and resolving design challenges",
+            "Experimental data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team coordination and task delegation",
+            "Project timeline management",
+            "Leading project meetings and discussions"
+        ]
+    }
+]

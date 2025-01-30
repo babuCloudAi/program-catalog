@@ -1,0 +1,2163 @@
+[
+    {
+        "courseTitle": "Visual Communication",
+        "courseCode": "ARTS 122A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to essential themes and means of visual communication in the fine arts with an emphasis on studio experience in techniques from the different disciplines in studio art.",
+        "Technical and Digital Skills": [
+            "Studio art techniques",
+            "Visual communication tools proficiency",
+            "Digital imaging software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective critique and feedback delivery",
+            "Collaborative project execution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Visual composition analysis",
+            "Conceptual problem-solving in visual design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in visual arts",
+            "Team coordination in studio art projects"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Art as Experience",
+        "courseCode": "ARTS 126A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors section of ARTS 122A.",
+        "Technical and Digital Skills": [
+            "Visual art techniques",
+            "Digital art software proficiency",
+            "Photography skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic expression through different mediums",
+            "Providing and receiving constructive feedback on artwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem solving in art projects",
+            "Analyzing and interpreting art pieces"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing art exhibitions",
+            "Leading collaborative art projects"
+        ]
+    },
+    {
+        "courseTitle": "Two-Dimensional Design and Color Theory",
+        "courseCode": "ARTS 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to pictorial design via an intensive study of the elements and  principles of art and design and Gestalt Theory. These fundamental ideas are reinforced as color theory principles are introduced, such as: additive and subtractive color systems, color interaction, and harmonies as well as the phenomenon of simultaneous contrast.",
+        "Technical and Digital Skills": [
+            "Understanding elements and principles of art and design",
+            "Applying Gestalt Theory in design",
+            "Knowledge of additive and subtractive color systems",
+            "Color interaction principles",
+            "Color harmonies application",
+            "Simultaneous contrast phenomenon understanding"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of design elements",
+            "Analyzing color combinations for effective design",
+            "Identifying and solving design problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Three-Dimensional Design",
+        "courseCode": "ARTS 203",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A basic course examining the relation of form and structure in a three-dimensional environment.",
+        "Technical and Digital Skills": [
+            "3D modeling software proficiency",
+            "Understanding of spatial relationships",
+            "Knowledge of material properties in 3D design",
+            "Ability to create physical prototypes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of 3D design concepts",
+            "Collaboration with team members on design projects",
+            "Receiving and incorporating feedback on design work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of form and structure in 3D design",
+            "Identifying and resolving design challenges",
+            "Experimenting with different design solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines for 3D design projects",
+            "Delegating tasks within a design team",
+            "Taking initiative in proposing new design ideas"
+        ]
+    },
+    {
+        "courseTitle": "Foundational Concepts in Studio Art",
+        "courseCode": "ARTS 204",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students an overview of the options, methods, and strategies by which modern and contemporary artists operate. One of the primary learning outcomes is for students to be conversant with the discourse and ideas that they have inherited as artists, designers, and scholars in the 21st century in order to enrich their own creative practices.",
+        "Technical and Digital Skills": [
+            "Artistic techniques and methods",
+            "Digital art tools proficiency",
+            "Color theory application",
+            "Composition principles understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique delivery",
+            "Collaborative art creation",
+            "Visual storytelling communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Artistic problem-solving strategies",
+            "Visual analysis and interpretation",
+            "Creative decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution in art",
+            "Group art project coordination",
+            "Artistic vision communication"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Digital Photography",
+        "courseCode": "ARTS 211",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to conceptual, technical and historical aspects of photography as a creative medium using digital technology.  Technical areas covered include camera use, digital image processing, and digital printing.  Class time is divided between demonstrations of applicable skills, in class work time, lectures and critiques.",
+        "Technical and Digital Skills": [
+            "Camera operation",
+            "Digital image processing",
+            "Digital printing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critique participation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of image quality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for in-class work"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Glass: Survey",
+        "courseCode": "ARTS 221",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is structured to provide instruction to glass forming, balanced with the history, criticism, and aesthetics of glass art.  It is a basic course in the techniques of glassblowing, flameworking, kiln forming and coldworking, taught through a series of hands-on projects. Lectures, demonstrations, and critiques encourage students to consider both the technical and conceptual manifestations of this material. In addition, the Chrysler Museum’s extensive contemporary and historical glass collection and interaction with visiting and resident glass artists will be utilized.  The course allows students of all skill levels to learn new techniques to advance Io a higher level of art production.",
+        "Technical and Digital Skills": [
+            "Glassblowing techniques",
+            "Flameworking skills",
+            "Kiln forming knowledge",
+            "Coldworking abilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critique participation",
+            "Interaction with visiting and resident artists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of glass art concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Art production advancement strategies"
+        ]
+    },
+    {
+        "courseTitle": "Drawing I: Fundamentals of Drawing",
+        "courseCode": "ARTS 231",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive studio course that fosters observational and visualization skills through a comprehensive exploration of composition, linear perspective, and sighting and measuring techniques. These principles are executed by utilizing line and value with a variety of media including graphite, charcoal, and ink. Investigations of the discipline's historic and contemporary dimensions support the course objectives.",
+        "Technical and Digital Skills": [
+            "Observational drawing techniques",
+            "Visualization skills",
+            "Linear perspective understanding",
+            "Utilization of graphite, charcoal, and ink media"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critique and feedback delivery",
+            "Collaboration with peers in studio setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Composition analysis",
+            "Sighting and measuring techniques application",
+            "Historical and contemporary art analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Painting I",
+        "courseCode": "ARTS 241",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An observational painting course that serves as an introduction to the fundamental concepts and competencies of oil painting. Primary emphasis is on composition, accuracy of color mixing, description of form and space as well as paint application techniques.",
+        "Technical and Digital Skills": [
+            "Oil painting techniques",
+            "Color mixing",
+            "Form and space description",
+            "Paint application methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Printmaking: The Relief Print",
+        "courseCode": "ARTS 254",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to basic relief printing techniques including woodcut, linocut, letterpress, and collograph.",
+        "Technical and Digital Skills": [
+            "Woodcut printing techniques",
+            "Linocut printing techniques",
+            "Letterpress printing techniques",
+            "Collograph printing techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Print I: Intaglio and Relief",
+        "courseCode": "ARTS 257",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A basic introduction to the aesthetic and conceptual possibilities of print media, focusing primarily on Intaglio and Relief printing techniques. Studio projects and demonstrations will be supplemented with lectures and readings exploring the significance of print to contemporary artists.",
+        "Technical and Digital Skills": [
+            "Intaglio printing techniques",
+            "Relief printing techniques",
+            "Studio project execution",
+            "Demonstrations of print media processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting artistic concepts",
+            "Participating in group critiques",
+            "Engaging in discussions on print significance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing aesthetic possibilities of print media",
+            "Evaluating conceptual aspects of print projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing studio projects",
+            "Leading print media demonstrations"
+        ]
+    },
+    {
+        "courseTitle": "Print I: Screenprint and Lithography",
+        "courseCode": "ARTS 258",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A basic introduction to the aesthetic and conceptual possibilities of print media, focusing primarily on Screenprinting and Lithography. Studio projects and demonstrations will be supplemented with lectures and readings exploring the significance of print to contemporary artists.",
+        "Technical and Digital Skills": [
+            "Screenprinting techniques",
+            "Lithography processes",
+            "Print media equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a studio setting",
+            "Collaboration on print projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting print media issues",
+            "Analyzing the impact of different print techniques on artwork"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing print project timelines",
+            "Leading print studio demonstrations"
+        ]
+    },
+    {
+        "courseTitle": "Print I: Letterpress and Book Arts",
+        "courseCode": "ARTS 259",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A basic introduction to the aesthetic and conceptual possibilities of print media, focusing primarily on Letterpress and Book Arts. Studio projects and demonstrations will be supplemented with lectures and readings exploring the significance of print to contemporary artists.",
+        "Technical and Digital Skills": [
+            "Letterpress printing techniques",
+            "Bookbinding methods",
+            "Print media manipulation",
+            "Studio equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a studio setting",
+            "Collaboration with peers on print projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting print errors",
+            "Experimenting with different print materials for optimal results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing print project timelines",
+            "Leading group discussions on the significance of print media in art"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Sculpture",
+        "courseCode": "ARTS 261",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Conceptual thinking in three dimensions; the development of visual capacity and spatial sense through direct experience in materials.",
+        "Technical and Digital Skills": [
+            "Sculpting techniques",
+            "Material manipulation",
+            "Tools handling",
+            "3D modeling software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic collaboration",
+            "Giving and receiving constructive feedback",
+            "Presentation of sculptural ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial reasoning",
+            "Designing sculptures from concept to completion",
+            "Troubleshooting material limitations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Managing resources effectively",
+            "Leading group sculpture projects"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Ceramics",
+        "courseCode": "ARTS 263",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A studio core course designed as an introduction to ceramics.  Students will explore functional and sculptural techniques through handbuilding and wheel-throwing, as well as basic claybody, glaze and firing theory.  Students will also develop a basic understanding of the historical and cultural aspects of ceramics.",
+        "Technical and Digital Skills": [
+            "Handbuilding techniques",
+            "Wheel-throwing techniques",
+            "Claybody theory",
+            "Glaze theory",
+            "Firing theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in studio settings",
+            "Communicating artistic ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ceramic forms",
+            "Solving technical challenges in ceramic creation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively in studio work",
+            "Taking initiative in creative projects"
+        ]
+    },
+    {
+        "courseTitle": "Digital Basics",
+        "courseCode": "ARTS 279",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an introduction to the Macintosh operating system, design industry-standard software programs, and technical applications to visual arts and design production. The course provides an overview of Adobe software programs (Photoshop, Illustrator, InDesign) and techniques for bitmap and vector image creation as well as page layout as used in print design and digital media development.",
+        "Technical and Digital Skills": [
+            "Macintosh operating system proficiency",
+            "Adobe Photoshop image editing",
+            "Adobe Illustrator vector image creation",
+            "Adobe InDesign page layout design",
+            "Bitmap and vector image creation techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of design elements",
+            "Problem-solving in visual arts and design production"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Weaving and Fibers: Introduction",
+        "courseCode": "ARTS 281",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to various looms, tools, materials and techniques used in weaving and fabric dyeing; individual design projects.",
+        "Technical and Digital Skills": [
+            "Knowledge of various looms and tools",
+            "Understanding of fabric dyeing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of design ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in design projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for individual design projects"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Jewelry and Metalsmithing",
+        "courseCode": "ARTS 291",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an introduction to the fundamentals of design and metal fabrication techniques for both jewelry and small objects. Working with precious and non-precious metals, students will learn traditional techniques including sawing, filing, cold connections, soldering, and polishing. A series of structured assignments guide students as they transform their ideas into finished works. Solutions for projects are open to enable the student to explore their own aesthetic while mastering the outlined material. Lectures on historical, contemporary and cultural examples of jewelry inform and inspire students' work.",
+        "Technical and Digital Skills": [
+            "Metal fabrication techniques",
+            "Sawing",
+            "Filing",
+            "Cold connections",
+            "Soldering",
+            "Polishing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Sharing design ideas",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transforming ideas into finished works",
+            "Critical evaluation of design choices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines",
+            "Adapting to different design challenges"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Computer Graphics",
+        "courseCode": "ARTS 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory studio art course for non-art majors. The course is designed to acquaint students with industry standard graphic software, the Macintosh operating system, and its application to digital graphics production. It includes an overview of computer hardware and software used for visual communication.",
+        "Technical and Digital Skills": [
+            "Proficiency in industry standard graphic software",
+            "Macintosh operating system usage",
+            "Digital graphics production",
+            "Computer hardware knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of visual concepts",
+            "Collaboration on digital graphics projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting graphic software issues",
+            "Critical evaluation of visual communication elements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in digital graphics production",
+            "Team coordination for visual communication projects"
+        ]
+    },
+    {
+        "courseTitle": "Photography 2",
+        "courseCode": "ARTS 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course encourages the refinement of technical skills as well as emphasizing the critical framework in which to place photographic imagery.  Assignments will challenge students to think creatively and develop their unique perspective.  Reading, research, and discussion introduce students to the major photographic movements that have shaped current theory.",
+        "Technical and Digital Skills": [
+            "Refinement of technical photography skills",
+            "Understanding photographic imagery",
+            "Researching major photographic movements",
+            "Applying critical framework to photography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in discussions about photographic theory",
+            "Presenting unique perspectives in assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thinking creatively in assignments",
+            "Developing a critical framework for photography"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Lighting for Photography",
+        "courseCode": "ARTS 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class explores controlled lighting for photography both inside and outside the studio. Emphasis is placed on exploring photographic concepts and the creative application of lighting technique and style both inside the studio and on location. Students will also investigate ways to communicate ideas through strong photographic imagery and how photography shapes and influences society through class readings and discussion.",
+        "Technical and Digital Skills": [
+            "Understanding lighting equipment",
+            "Setting up studio lighting",
+            "Utilizing natural light for photography",
+            "Editing photos using software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Providing clear directions to models or clients during photoshoots",
+            "Collaborating with other photographers or assistants on set"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting lighting issues during a photoshoot",
+            "Analyzing different lighting setups to achieve desired effects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing a team of assistants during a photoshoot",
+            "Planning and coordinating multiple shoots in different locations"
+        ]
+    },
+    {
+        "courseTitle": "Darkroom Photography",
+        "courseCode": "ARTS 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will focus on alternative as well as conventional techniques of the black and white darkroom. The class will approach image making with a focus on experimentation. Techniques covered will include photograms, pinhole photography, Van Dyke brown and gelatin silver prints. In addition to production of images, an early history of photography, beginning with the camera obscura, will be discussed. Class sessions will be divided into lecture/slide presentations, critique of students' work, demonstrations, and open lab time. Students will create a final portfolio to be reviewed as a class at the end of the semester.",
+        "Technical and Digital Skills": [
+            "Black and white film development",
+            "Darkroom printing techniques",
+            "Pinhole photography",
+            "Photogram creation",
+            "Van Dyke brown printing",
+            "Gelatin silver prints"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive criticism during critiques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimenting with different darkroom techniques to achieve desired effects",
+            "Analyzing historical context of early photography methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating and organizing a final portfolio for class review"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Glass: Hot and Flame",
+        "courseCode": "ARTS 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is structured to provide instruction to glass forming, balanced with the history, criticism, and aesthetics of glass art.  It is an intermediate course in the techniques of glassblowing, flame working, and coldworking, taught through a series of hands-on projects. Lectures, demonstrations, and critiques will encourage students to consider both the technical and conceptual manifestations of this material.  In addition, the Chrysler Museum’s extensive contemporary and historical glass collection and interaction with visiting and resident glass artists will be utilized.  The course allows students of intermediate levels to learn new techniques to advance to a higher level of art production.",
+        "Technical and Digital Skills": [
+            "Glassblowing techniques",
+            "Flame working skills",
+            "Coldworking methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critique delivery",
+            "Artistic collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conceptual analysis of glass art",
+            "Technique evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning for art production"
+        ]
+    },
+    {
+        "courseTitle": "Drawing II",
+        "courseCode": "ARTS 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an intensive studio course that builds on the perceptual and technical skills developed in ARTS 231. Using a variety of media including ink, charcoal, graphite, and chalk pastels, initial coursework will act as a review of direct observational drawing skills with an introduction to the formal optics of color perception and interaction through the framework of drawing. Students will begin exploring the expressive potential of drawing through thematically-driven projects during the second half of the semester.",
+        "Technical and Digital Skills": [
+            "Ink drawing techniques",
+            "Charcoal drawing techniques",
+            "Graphite drawing techniques",
+            "Chalk pastels drawing techniques",
+            "Color perception in drawing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Sharing and receiving feedback on artwork",
+            "Collaborating on thematically-driven projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting visual information",
+            "Experimenting with different drawing media to achieve desired effects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing thematically-driven projects",
+            "Providing guidance and feedback to peers on their artwork"
+        ]
+    },
+    {
+        "courseTitle": "Painting II",
+        "courseCode": "ARTS 341",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive studio course that builds on the perceptual and technical skills developed in ARTS 241. Coursework includes a review and expansion of direct observational painting skills with exploration into the expressive potential of painting through thematically-driven projects.",
+        "Technical and Digital Skills": [
+            "Direct observational painting skills",
+            "Exploration of expressive potential in painting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Techniques in Abstraction",
+        "courseCode": "ARTS 343",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course serves to expose students to various techniques in contemporary abstraction. Students explore a range of strategies for producing both objective and non-objective abstract work using drawing and/or painting media.",
+        "Technical and Digital Skills": [
+            "Drawing techniques",
+            "Painting techniques",
+            "Media manipulation for abstraction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critiquing abstract work",
+            "Providing constructive feedback on abstract art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimenting with different abstraction techniques",
+            "Analyzing the effectiveness of abstract strategies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Printmaking",
+        "courseCode": "ARTS 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Further investigation of chosen print technique (screenprint, lithography, relief, or intaglio) with special attention to the implementation of color.",
+        "Technical and Digital Skills": [
+            "Screenprint techniques",
+            "Lithography methods",
+            "Relief printing processes",
+            "Intaglio printing procedures",
+            "Color implementation in printmaking"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Color selection and mixing for printmaking",
+            "Troubleshooting printmaking issues",
+            "Experimentation with different techniques to achieve desired results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Print II: The Hybrid Print",
+        "courseCode": "ARTS 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students investigate the integration of traditional print media with digital prints, photographic techniques, and rapid prototyping technologies. Readings and discussions will explore the relationship between analog and digital media. Students choose a conceptual theme that will guide their work throughout the semester.",
+        "Technical and Digital Skills": [
+            "Integration of traditional print media with digital prints",
+            "Photographic techniques",
+            "Rapid prototyping technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in readings and discussions",
+            "Presenting conceptual theme",
+            "Collaborating on projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing relationship between analog and digital media",
+            "Evaluating different media integration approaches",
+            "Troubleshooting technical issues in printmaking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing a cohesive conceptual theme",
+            "Leading project development based on chosen theme",
+            "Managing time effectively for project completion"
+        ]
+    },
+    {
+        "courseTitle": "Print II: Medium Intensive",
+        "courseCode": "ARTS 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students focus on a single print medium from Print I (Intaglio, Relief, Screenprint, Lithography, or Letterpress) for intensive study. Use of color, registration, and alternative techniques will be emphasized within a given medium. Students choose a conceptual theme that will guide their work throughout the semester.",
+        "Technical and Digital Skills": [
+            "Color theory application",
+            "Registration techniques mastery",
+            "Alternative print medium methods proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic concept communication",
+            "Feedback incorporation from peers and instructors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of print outcomes",
+            "Adaptation of techniques to fit conceptual theme"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution based on chosen theme"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Sculpture",
+        "courseCode": "ARTS 361",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Investigation involves the combination of various materials and construction techniques. Each student will improve their skills in fabrication to execute their research and concepts in object making and installation.",
+        "Technical and Digital Skills": [
+            "Materials selection and manipulation",
+            "Construction techniques mastery",
+            "Fabrication skills enhancement",
+            "Object making proficiency",
+            "Installation techniques expertise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of artistic concepts",
+            "Collaboration with other artists on installations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of material choices for artistic expression",
+            "Creative problem-solving in fabrication challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning for large-scale installations",
+            "Leadership in collaborative art projects"
+        ]
+    },
+    {
+        "courseTitle": "Ceramics Studio",
+        "courseCode": "ARTS 362",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an introduction to the use of clay, also known as ceramics. It includes clay forming with pinch pots, slabs, coils and pottery wheels.",
+        "Technical and Digital Skills": [
+            "Clay forming techniques",
+            "Pottery wheel operation",
+            "Kiln firing processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on group projects",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and fixing clay imperfections",
+            "Experimenting with glaze combinations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for project deadlines",
+            "Leading demonstrations for classmates"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Ceramics",
+        "courseCode": "ARTS 363",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will explore functional and sculptural techniques through handbuilding and wheel-throwing, as well as basic claybody, glaze and firing theory. Students will also develop a basic understanding of the historical and cultural aspects of ceramics.  The class includes glaze chemistry, firing procedures, ceramic history and contemporary ceramics.",
+        "Technical and Digital Skills": [
+            "Handbuilding techniques",
+            "Wheel-throwing techniques",
+            "Claybody theory",
+            "Glaze theory",
+            "Firing theory",
+            "Glaze chemistry",
+            "Firing procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative work on ceramic projects",
+            "Discussing historical and cultural aspects of ceramics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ceramic history",
+            "Solving technical challenges in ceramics",
+            "Evaluating contemporary ceramics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing ceramic projects",
+            "Coordinating glazing and firing processes"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "ARTS 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A structured research experience, under the supervision of an art department faculty member. A paper evaluating/analyzing the research, a log of research progress, and satisfactory evaluation by the supervising faculty are required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Paper writing",
+            "Data analysis",
+            "Research progress tracking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with faculty",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Analyzing research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research",
+            "Supervising research progress"
+        ]
+    },
+    {
+        "courseTitle": "Extracurricular Studies",
+        "courseCode": "ARTS 377",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Extracurricular activities may be approved for credit based on objectives, criteria, and evaluative procedures as formally determined by the department and the student prior to the semester in which the activity is to take place.  Such credit is subject to review by the provost.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Establishing objectives and criteria for activities, formal communication with department and students, review procedures with provost",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of activity objectives, criteria, and evaluative procedures",
+        "Organizational and Leadership Skills": "Setting up and managing extracurricular activities, leadership in coordinating with department and students, formal review process with provost"
+    },
+    {
+        "courseTitle": "Extracurricular Studies",
+        "courseCode": "ARTS 378",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Extracurricular activities may be approved for credit based on objectives, criteria, and evaluative procedures as formally determined by the department and the student prior to the semester in which the activity is to take place.  Such credit is subject to review by the provost.",
+        "Technical and Digital Skills": [
+            "Goal setting and planning for extracurricular activities",
+            "Documentation and progress tracking for activities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members",
+            "Conflict resolution in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of activity outcomes",
+            "Adaptation to unexpected challenges during activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and managing a team for extracurricular projects",
+            "Delegating tasks efficiently within a group"
+        ]
+    },
+    {
+        "courseTitle": "Weaving and Fibers: Intermediate",
+        "courseCode": "ARTS 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of techniques related to pattern drafting, advanced loom and off-loom weaving, and fabric painting.",
+        "Technical and Digital Skills": [
+            "Pattern drafting techniques",
+            "Advanced loom weaving",
+            "Off-loom weaving",
+            "Fabric painting techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Jewelry",
+        "courseCode": "ARTS 391",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will expand upon the fundamentals of design and metal fabrication techniques for jewelry. Working with precious and non-precious metals, students will learn traditional techniques including casting, stone setting and production processes. A series of structured assignments guide students as they transform their ideas into finished works. Solutions for projects are open to enable the student to explore their own aesthetic while mastering the outlined material. Lectures on historical, contemporary and cultural examples of jewelry inform and inspire students' work.",
+        "Technical and Digital Skills": [
+            "Metal fabrication techniques",
+            "Casting",
+            "Stone setting",
+            "Production processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in design projects",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transforming ideas into finished works",
+            "Critical evaluation of design choices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines",
+            "Guiding peers in technique mastery"
+        ]
+    },
+    {
+        "courseTitle": "Blacksmithing",
+        "courseCode": "ARTS 392",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers an introduction to the basic tools, materials and techniques used in forging, forming, hardening and tempering steel.  Exploration of form and process in working metal.",
+        "Technical and Digital Skills": [
+            "Forging techniques",
+            "Forming steel",
+            "Hardening steel",
+            "Tempering steel",
+            "Working with metal"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with other blacksmiths",
+            "Communicating techniques to others in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing metal properties for forging",
+            "Troubleshooting equipment issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a team of blacksmiths",
+            "Organizing work processes in a forge"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Metalsmithing",
+        "courseCode": "ARTS 394",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will expand upon the fundamentals of design and metal fabrication techniques for small objects. Working with precious and non-precious metals, students learn traditional techniques including chase and repousse, raising and forming. A series of structured assignments guide students as they transform their ideas into finished works. Solutions for projects are open to enable the student to explore their own aesthetic while mastering the outlined material. Lectures on historical, contemporary and cultural examples of metalsmithing inform and inspire students' work.",
+        "Technical and Digital Skills": [
+            "Metal fabrication techniques",
+            "Chase and repousse techniques",
+            "Raising and forming techniques",
+            "Working with precious and non-precious metals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting finished works",
+            "Explaining design decisions",
+            "Receiving and giving feedback on metalwork projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transforming ideas into finished works",
+            "Adapting techniques to new projects",
+            "Analyzing historical and contemporary examples of metalsmithing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing materials and tools efficiently",
+            "Leading group discussions on metalsmithing techniques"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Studio Art",
+        "courseCode": "ARTS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for non majors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Drawing techniques",
+            "Painting skills",
+            "Sculpting methods",
+            "Digital art tools knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique",
+            "Collaborative art projects",
+            "Artistic vision communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art projects",
+            "Analyzing visual elements",
+            "Experimenting with different art mediums"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing art supplies",
+            "Leading art workshops",
+            "Curating art exhibitions"
+        ]
+    },
+    {
+        "courseTitle": "Senior Show",
+        "courseCode": "ARTS 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the capstone class for all students in the BFA program (except students in the graphic design concentration take ARTS 401). Focusing on the development and articulation of aesthetic vision and studio practice, students will identify key ideas and sources for their work. They will also clarify their methods and concepts to create a finished, exhibition quality project. The class also addresses professional installation, promotion, and documentation of finished work, culminating with an exhibition.",
+        "Technical and Digital Skills": [
+            "Studio practice development",
+            "Professional installation techniques",
+            "Documentation of finished work",
+            "Exhibition quality project creation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of aesthetic vision",
+            "Promotion of finished work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying key ideas and sources for work",
+            "Clarifying methods and concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing exhibition",
+            "Leading the exhibition process"
+        ]
+    },
+    {
+        "courseTitle": "Photography 3",
+        "courseCode": "ARTS 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course focuses on the photographic series examining reportage and contemporary narrative.  Students will work on developing a fully conceived photographic series on a theme developed through guided individual research.  Reading and discussion will provide students a critical framework in which to place their photographic imagery.",
+        "Technical and Digital Skills": [
+            "Photographic series development",
+            "Contemporary narrative photography",
+            "Guided individual research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Critical framework application"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theme development",
+            "Critical evaluation of imagery"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Photo Seminar 1",
+        "courseCode": "ARTS 412/512",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The first of a two-semester sequence of concentrated individual work.  Students will identify a topic and create a complete body of work culminating in the senior show, ARTS 400.  Lectures, readings, discussion, critique, and field trips to develop the articulation of ideas and the clarification of purpose.",
+        "Technical and Digital Skills": [
+            "Photography techniques",
+            "Image editing software proficiency",
+            "Camera settings manipulation",
+            "Lighting setup knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback on photos",
+            "Articulating photography concepts and ideas",
+            "Participation in group discussions and critiques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying visual storytelling opportunities",
+            "Analyzing composition and framing choices",
+            "Troubleshooting equipment issues during photo shoots"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing photo projects",
+            "Coordinating group field trips for photography opportunities",
+            "Taking initiative in exploring new photography techniques"
+        ]
+    },
+    {
+        "courseTitle": "Photo Seminar 2",
+        "courseCode": "ARTS 413/513",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the second in a two-semester sequence of concentrated individual work culminating in the senior show.  Through readings, discussion, critiques, field trips, and intense individual work, students will compile a body of work realizing their personal vision and articulate their ideas through the crafting of an artist statement.",
+        "Technical and Digital Skills": [
+            "Advanced photo editing techniques",
+            "Digital image processing",
+            "Lighting setup and control"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating artistic vision",
+            "Receiving and providing constructive critiques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in photo composition",
+            "Analyzing visual impact of images"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing a cohesive body of work",
+            "Leading discussions and critiques in class"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Glass: Hot and Flame",
+        "courseCode": "ARTS 421",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is structured to provide instruction to glass forming, balanced with the history, criticism, and aesthetics of glass art.  It is an advanced course in the techniques of glassblowing and flame working. Lectures, demonstrations, and critiques will encourage students to consider both the technical and conceptual manifestations of this material.  In addition, the Chrysler Museum’s extensive contemporary and historical glass collection and interaction with visiting and resident glass artists will be utilized.  The course allows students to learn new techniques to advance to a higher level of art production.",
+        "Technical and Digital Skills": [
+            "Glass forming techniques",
+            "Glassblowing skills",
+            "Flame working techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critique analysis",
+            "Interaction with visiting artists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conceptual manifestation evaluation",
+            "New technique implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Art production advancement",
+            "Utilization of museum resources"
+        ]
+    },
+    {
+        "courseTitle": "Drawing Studio",
+        "courseCode": "ARTS 431/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Further concentration on conceptual content and drawing skills, development of individual body of work exploring preferred concepts, subject matter, techniques, and media.  May be repeated for credit.",
+        "Technical and Digital Skills": [
+            "Drawing techniques",
+            "Media exploration",
+            "Conceptual content development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic idea presentation",
+            "Feedback reception and incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of artwork",
+            "Creative problem-solving in art-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning individual body of work",
+            "Leading art exploration projects"
+        ]
+    },
+    {
+        "courseTitle": "Figure Drawing Anatomy",
+        "courseCode": "ARTS 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of visually important aspects of the structural, skeletal and muscular systems of the body.  Anatomical study will be related to drawing from the live model.",
+        "Technical and Digital Skills": [
+            "Understanding of structural, skeletal, and muscular systems",
+            "Anatomical knowledge for drawing",
+            "Ability to analyze anatomical details in live models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating anatomical observations effectively",
+            "Collaborating with live models for accurate representation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying key anatomical features for drawing",
+            "Analyzing different body structures for drawing purposes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively during live drawing sessions",
+            "Providing guidance to peers on anatomical drawing techniques"
+        ]
+    },
+    {
+        "courseTitle": "Figure Drawing/ Composition",
+        "courseCode": "ARTS 433/533",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course places the emphasis on advanced composition using the figure as the central theme.  The figure's expressive potential, along with a study of historical responses to figure drawing, will be examined in depth.",
+        "Technical and Digital Skills": [
+            "Advanced figure drawing techniques",
+            "Composition principles",
+            "Historical figure drawing analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic expression through figure drawing",
+            "Critique and feedback on figure compositions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting and applying historical figure drawing styles",
+            "Creative problem-solving in figure composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing complex figure compositions",
+            "Leading figure drawing projects"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Painting and Drawing",
+        "courseCode": "ARTS 441",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive studio course that builds upon skills developed in ARTS 331 and ARTS 341. Students pursue various approaches to the development of pictorial space and investigate the connection between formal decision making, media use, and individual expression within their work.",
+        "Technical and Digital Skills": [
+            "Advanced painting techniques",
+            "Drawing skills refinement",
+            "Media experimentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Collaboration on art projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art composition",
+            "Critical evaluation of artistic decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing personal art projects",
+            "Leading group art exhibitions"
+        ]
+    },
+    {
+        "courseTitle": "Painting and Drawing Studio",
+        "courseCode": "ARTS 442/542",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students develop an individual body of work exploring preferred concepts, subject matter, techniques, and media in close consultation with faculty. Written proposal by students required at registration.",
+        "Technical and Digital Skills": [
+            "Various painting techniques",
+            "Drawing skills development",
+            "Exploration of different media types"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty for consultation",
+            "Articulating concepts and ideas in written proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of own work",
+            "Experimenting with new techniques and approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing personal artistic development",
+            "Taking initiative in exploring preferred concepts and subject matters"
+        ]
+    },
+    {
+        "courseTitle": "Hybrid Approaches to Painting and Drawing",
+        "courseCode": "ARTS 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course emphasizes hybrid approaches to contemporary drawing and painting including the integration of digital processes into studio practice and production. Students will be introduced to various applications and techniques regularly used in contemporary painting and drawing, including generating digital imagery, diorama construction and image compositing. Traditional and nontraditional media and subjects may be used to assist in the fulfillment of students’ analytical and expressive intentions.",
+        "Technical and Digital Skills": [
+            "Digital painting techniques",
+            "Image compositing",
+            "Diorama construction",
+            "Using various digital applications for drawing and painting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing ideas visually",
+            "Providing constructive feedback on artwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing visual compositions",
+            "Experimenting with different media to achieve desired effects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing projects in various media",
+            "Managing time effectively to meet project deadlines"
+        ]
+    },
+    {
+        "courseTitle": "Printmaking III",
+        "courseCode": "ARTS 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students create a body of personal work based on their research and interests. Readings, discussion, and presentations situate students’ practice within contemporary print discourses.",
+        "Technical and Digital Skills": [
+            "Printmaking techniques mastery",
+            "Digital editing of prints",
+            "Color separation for prints",
+            "Knowledge of printmaking tools and equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting and discussing personal work",
+            "Participating in group discussions",
+            "Providing constructive feedback on peers' work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing contemporary print discourses",
+            "Adapting traditional printmaking techniques to modern contexts",
+            "Experimenting with different printmaking processes to achieve desired outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing personal project timelines",
+            "Leading group discussions on printmaking concepts",
+            "Organizing and curating a final exhibition of personal work"
+        ]
+    },
+    {
+        "courseTitle": "Letterpress Printmaking",
+        "courseCode": "ARTS 455/555",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A visual and literary investigation of language and wordplay using foundry and wood type and a Vandercook SP-20 proofing press.  Projects include expressive printed impressions of personal poetry and song lyric, political rant, and broadsides for entertainment or proselytizing.  A theme group project, such as a folio or a bound book, is usually assigned.",
+        "Technical and Digital Skills": [
+            "Handling foundry and wood type",
+            "Operating Vandercook SP-20 proofing press",
+            "Printing techniques for expressive impressions",
+            "Knowledge of typography and design principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on theme group projects",
+            "Providing constructive feedback on printed work",
+            "Presenting and explaining design choices to peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting printing issues",
+            "Experimenting with different ink and paper combinations for desired results",
+            "Adapting designs to fit printing constraints"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and coordinating group project timelines",
+            "Supervising and guiding team members in project execution",
+            "Managing resources effectively for printmaking projects"
+        ]
+    },
+    {
+        "courseTitle": "2D Seminar",
+        "courseCode": "ARTS 456",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers both theoretical and practical concerns within contemporary 2D art (painting, drawing, print. A combination of reading, writing, and critique develop and deepen the trajectory of students' creative practice.",
+        "Technical and Digital Skills": [
+            "Painting techniques",
+            "Drawing skills",
+            "Printmaking methods",
+            "Digital art software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique",
+            "Feedback delivery",
+            "Collaborative art projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art",
+            "Artistic decision-making",
+            "Critical evaluation of artwork"
+        ],
+        "Organizational and Leadership Skills": [
+            "Art project management",
+            "Art exhibition curation",
+            "Team coordination in art projects"
+        ]
+    },
+    {
+        "courseTitle": "Sculpture Studio",
+        "courseCode": "ARTS 461/561",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experimental work reflecting individual initiative and attitude.",
+        "Technical and Digital Skills": [
+            "Sculpting techniques",
+            "Clay modeling",
+            "Stone carving",
+            "Metalworking skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Receiving and providing constructive feedback on art pieces",
+            "Collaborating with other artists on projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of one's own work",
+            "Troubleshooting technical challenges in sculpting materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing a sculpture project timeline",
+            "Leading a group project in the studio"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Ceramics",
+        "courseCode": "ARTS 463/563",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An advanced course in the science and art of ceramics.  Students will engage in guided independent research, developing their own direction by investigating clay bodies, glazes, firing methods and contemporary ceramic art.",
+        "Technical and Digital Skills": [
+            "Clay body formulation",
+            "Glaze composition",
+            "Firing techniques",
+            "Ceramic art techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of ceramic work",
+            "Peer feedback exchange"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experiment design for ceramic research",
+            "Troubleshooting firing issues",
+            "Creative problem-solving in ceramic art"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research planning",
+            "Project management in ceramics"
+        ]
+    },
+    {
+        "courseTitle": "Assemblage",
+        "courseCode": "ARTS 469/569",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Assemblage combines elements of various art and non-art media and materials. Lectures will be comprised of presentations about relevant artists, gallery and studio visits, and critiques.  Studio time allows students to explore personal directions in the medium.",
+        "Technical and Digital Skills": [
+            "Mixed media techniques",
+            "Studio material manipulation",
+            "Artistic composition",
+            "Gallery presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Art critique articulation",
+            "Effective communication of artistic ideas",
+            "Collaboration with fellow artists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art projects",
+            "Critical evaluation of art pieces and techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personal artistic direction exploration",
+            "Studio time management",
+            "Leading art projects"
+        ]
+    },
+    {
+        "courseTitle": "Art Therapy",
+        "courseCode": "ARTS 472/572",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class is designed to initiate students from both studio art and non-studio backgrounds to the study of art therapy. It examines the history of art therapy in the United States, introduces the Expressive Therapies Continuum (ETC), and explores the application of art therapy techniques and their underlying rationales.",
+        "Technical and Digital Skills": [
+            "Understanding of Expressive Therapies Continuum (ETC)",
+            "Application of art therapy techniques",
+            "Digital art tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy in therapeutic settings",
+            "Effective communication with clients through art",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing underlying rationales of art therapy techniques",
+            "Adapting techniques to individual client needs",
+            "Critical evaluation of therapeutic outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating structured art therapy sessions",
+            "Facilitating group art therapy sessions",
+            "Time management in therapy planning"
+        ]
+    },
+    {
+        "courseTitle": "The Book",
+        "courseCode": "ARTS 473/573",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The book as a work of art.  Lecture will explore historical and technical aspects of book design and production.  Studio work will be devoted to the production of a series of books involving page design, paper selection, printing and binding.",
+        "Technical and Digital Skills": [
+            "Book design",
+            "Paper selection",
+            "Printing techniques",
+            "Book binding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in studio work",
+            "Effective communication of design ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of design choices",
+            "Troubleshooting production issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for book production",
+            "Team coordination in studio work"
+        ]
+    },
+    {
+        "courseTitle": "Weaving and Fibers: Advanced",
+        "courseCode": "ARTS 481/581",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced work in pattern drafting, loom techniques, off-loom weaving and fabric painting.",
+        "Technical and Digital Skills": [
+            "Advanced pattern drafting",
+            "Loom techniques mastery",
+            "Off-loom weaving expertise",
+            "Fabric painting proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of weaving concepts",
+            "Collaboration on intricate weaving projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying complex weaving pattern solutions",
+            "Analyzing fabric painting techniques for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading weaving workshops",
+            "Organizing weaving exhibitions and showcases"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Jewelry and Metalsmithing",
+        "courseCode": "ARTS 491/591",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers further exploration and concentration on jewelry and metalsmithing techniques. Through readings, discussions, self-directed and self-determined projects, students will explore new methods and content to develop an individual body of work. Additional emphasis will be placed on developing supplemental portfolio materials. May be repeated once for credit.",
+        "Technical and Digital Skills": [
+            "Advanced jewelry and metalsmithing techniques",
+            "Portfolio development",
+            "Self-directed project execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in discussions",
+            "Effective presentation of individual body of work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of new methods and content",
+            "Creative problem-solving in metalsmithing projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-determined project management",
+            "Portfolio materials organization"
+        ]
+    },
+    {
+        "courseTitle": "Wood Studio/Furniture Design",
+        "courseCode": "ARTS 492",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An exploration of concepts and techniques in wood sculpture and furniture design and fabrication.",
+        "Technical and Digital Skills": [
+            "Woodworking techniques",
+            "Furniture design principles",
+            "Fabrication skills",
+            "Hand tool proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with team members",
+            "Effective communication of design ideas",
+            "Receiving and giving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying design flaws and proposing solutions",
+            "Troubleshooting fabrication issues",
+            "Analyzing ergonomic considerations in furniture design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in woodworking projects",
+            "Leading a team in furniture fabrication tasks",
+            "Time management for meeting project deadlines"
+        ]
+    },
+    {
+        "courseTitle": "Jewelry and Metalsmithing Studio",
+        "courseCode": "ARTS 493/593",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers further exploration and concentration on jewelry and metalsmithing techniques. Through readings, discussions, self-directed and self-determined projects, students will explore new methods and content to develop an individual body of work. Additional emphasis will be placed on developing supplemental portfolio materials. May be repeated for credit once.",
+        "Technical and Digital Skills": [
+            "Jewelry making techniques",
+            "Metalsmithing techniques",
+            "Portfolio development",
+            "Self-directed project execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in discussions",
+            "Effective communication of artistic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of artwork",
+            "Creative problem-solving in design challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for project completion",
+            "Independent work ethic for self-directed projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Studio Art",
+        "courseCode": "ARTS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on studio projects of mutual interest.",
+        "Technical and Digital Skills": [
+            "Drawing techniques",
+            "Painting methods",
+            "Sculpting skills",
+            "Digital art tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback on artwork",
+            "Collaborating with peers on art projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimenting with different art mediums to achieve desired effects",
+            "Analyzing and interpreting artistic concepts and styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing individual art projects",
+            "Leading group discussions on art topics"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Studio Topics",
+        "courseCode": "ARTS 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent investigation of a subject to be selected under the advisement of the instructor.  Conferences, papers, field trips, portfolios, or exhibitions as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent investigation techniques",
+            "Field trip planning and execution",
+            "Portfolio development",
+            "Exhibition organization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Collaboration with peers on projects",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of chosen subject",
+            "Research methodology",
+            "Identifying relevant sources of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in independent study",
+            "Taking initiative in research direction",
+            "Time management for self-directed work"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Studio Topics",
+        "courseCode": "ARTS 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent investigation of a subject to be selected under the advisement of the instructor.  Conferences, papers, field trips, portfolios, or exhibitions as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research skills",
+            "Portfolio development",
+            "Field trip planning and execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective conference participation",
+            "Clear and concise paper writing",
+            "Presentation skills for exhibitions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of subject matter",
+            "Analytical thinking in selecting topics",
+            "Problem-solving in research process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for independent investigations",
+            "Leadership in selecting and advising on topics"
+        ]
+    },
+    {
+        "courseCode": "ARTS 512",
+        "courseTitle": "Photo Seminar 1",
+        "academicLevel": "graduate",
+        "courseDescription": "The first of a two-semester sequence of concentrated individual work.   Students will identify a topic and create a complete body of work.  Lectures, readings, discussion, critique, and field trips to develop the articulation of ideas and the clarification of purpose.",
+        "Technical and Digital Skills": [
+            "Photography techniques",
+            "Digital image editing",
+            "Camera settings adjustment",
+            "Lighting setup",
+            "File management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating creative ideas",
+            "Receiving and providing constructive critique",
+            "Participating in discussions",
+            "Engaging in field trips"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying visual storytelling opportunities",
+            "Evaluating composition choices",
+            "Resolving technical issues during shoots",
+            "Analyzing visual impact"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning a complete body of work",
+            "Managing time effectively for projects",
+            "Initiating and leading group discussions",
+            "Coordinating field trip logistics"
+        ]
+    },
+    {
+        "courseCode": "ARTS 513",
+        "courseTitle": "Photo Seminar 2",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the second in a two-semester  sequence of concentrated individual work. Through readings, discussion, critiques, field trips, and intense individual work, students will compile a body of work realizing their personal vision and articulate their ideas through the crafting of an artist statement.",
+        "Technical and Digital Skills": [
+            "Advanced photo editing software proficiency",
+            "Digital camera operation and settings mastery",
+            "Lighting techniques for photography",
+            "Image composition principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback during critiques",
+            "Articulating personal vision through artist statement",
+            "Participating in discussions on photography concepts and techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and critiquing own work for improvement",
+            "Adapting to different shooting conditions and adjusting camera settings accordingly",
+            "Identifying and solving technical issues during photo shoots"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing personal photo projects",
+            "Leading and facilitating group discussions on photography topics",
+            "Managing time effectively for field trips and individual work"
+        ]
+    },
+    {
+        "courseCode": "ARTS 531",
+        "courseTitle": "Drawing Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Further concentration on conceptual content and drawing skills, development of individual body of work exploring preferred concepts, subject matter, techniques, and media.  May be repeated for credit.",
+        "Technical and Digital Skills": [
+            "Drawing techniques",
+            "Media exploration",
+            "Conceptual content development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic expression",
+            "Feedback reception and incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of artwork",
+            "Creative problem-solving in art composition"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ARTS 532",
+        "courseTitle": "Figure Drawing Anatomy",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of visually important aspects of the structural, skeletal and muscular systems of the body.  Anatomical study will be related to drawing from the live model.",
+        "Technical and Digital Skills": [
+            "Understanding of skeletal and muscular systems",
+            "Anatomical knowledge for drawing",
+            "Observational drawing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with models",
+            "Collaboration with peers for feedback and critique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting anatomical structures in drawings",
+            "Identifying proportions and relationships in figure drawing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for figure drawing sessions",
+            "Providing constructive feedback to peers"
+        ]
+    },
+    {
+        "courseCode": "ARTS 533",
+        "courseTitle": "Figure Drawing/ Composition",
+        "academicLevel": "graduate",
+        "courseDescription": "This course places the emphasis on advanced composition using the figure as the central theme.  The figure's expressive potential, along with a study of historical responses to figure drawing, will be examined in depth.",
+        "Technical and Digital Skills": [
+            "Advanced figure drawing techniques",
+            "Composition principles",
+            "Use of digital tools for figure drawing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Collaboration with models and peers in figure drawing sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical figure drawing styles and responses",
+            "Experimenting with different composition approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading figure drawing sessions",
+            "Organizing and managing artistic projects related to figure drawing"
+        ]
+    },
+    {
+        "courseCode": "ARTS 542",
+        "courseTitle": "Painting and Drawing Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Students develop an individual body of work exploring preferred concepts, subject matter, techniques, and media in close consultation with faculty. Written proposal by students required at registration.",
+        "Technical and Digital Skills": [
+            "Various painting techniques (e.g., acrylic, watercolor)",
+            "Drawing skills (e.g., sketching, shading)",
+            "Color theory knowledge",
+            "Understanding different painting media (e.g., canvas, paper)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty for consultation",
+            "Receiving and providing constructive feedback on artwork",
+            "Collaborating with peers on art projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimenting with new techniques to solve artistic challenges",
+            "Analyzing and critiquing own work for improvement",
+            "Adapting to unexpected issues during the creative process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing individual art projects",
+            "Managing time effectively to meet project deadlines",
+            "Providing guidance to peers in group projects"
+        ]
+    },
+    {
+        "courseCode": "ARTS 550",
+        "courseTitle": "Printmaking Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Experimental work in selected print media.",
+        "Technical and Digital Skills": [
+            "Print media techniques",
+            "Image transfer methods",
+            "Ink mixing and application",
+            "Plate preparation",
+            "Press operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback on artwork",
+            "Collaborating with other artists on projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting printmaking equipment",
+            "Experimenting with new techniques to achieve desired effects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively to complete projects",
+            "Providing guidance to peers on printmaking processes"
+        ]
+    },
+    {
+        "courseCode": "ARTS 561",
+        "courseTitle": "Sculpture Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Experimental work reflecting individual initiative and attitude.",
+        "Technical and Digital Skills": [
+            "Sculpting techniques",
+            "Working with different sculpting tools",
+            "Understanding of materials like clay, stone, metal, etc."
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback on artwork",
+            "Collaborating with other artists on projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of own work",
+            "Creative problem-solving in sculpting process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for project completion",
+            "Guiding and mentoring other aspiring sculptors"
+        ]
+    },
+    {
+        "courseCode": "ARTS 563",
+        "courseTitle": "Advanced Ceramics",
+        "academicLevel": "graduate",
+        "courseDescription": "An advanced course in the science and art of ceramics.  Students will engage in guided independent research, developing their own direction by investigating clay bodies, glazes, firing methods and contemporary ceramic art.",
+        "Technical and Digital Skills": [
+            "Clay body composition analysis",
+            "Glaze formulation techniques",
+            "Firing method optimization",
+            "Ceramic art design software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of ceramic research findings",
+            "Collaboration with peers on ceramic projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting ceramic production issues",
+            "Experiment design for ceramic material testing",
+            "Analysis of contemporary ceramic art trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for independent research in ceramics",
+            "Guiding peers in ceramic techniques and processes"
+        ]
+    },
+    {
+        "courseCode": "ARTS 569",
+        "courseTitle": "Assemblage",
+        "academicLevel": "graduate",
+        "courseDescription": "Assemblage combines elements of various art and non-art media and materials. Lectures will be comprised of presentations about relevant artists, gallery and studio visits, and critiques.  Studio time allows students to explore personal directions in the medium.",
+        "Technical and Digital Skills": [
+            "Mixed media art techniques",
+            "Material selection and combination",
+            "Studio setup for various mediums"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Presenting personal artistic directions",
+            "Engaging in gallery and studio visits"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of artistic works",
+            "Creative problem-solving in mixed media art",
+            "Adapting techniques to personal style"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning personal artistic projects",
+            "Managing studio time effectively",
+            "Leading discussions on relevant artists and media"
+        ]
+    },
+    {
+        "courseCode": "ARTS 572",
+        "courseTitle": "Art Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "This class is designed to initiate students from both studio art and non-studio backgrounds to the study of art therapy. It examines the history of art therapy in the United States, introduces the Expressive Therapies Continuum (ETC), and explores the application of art therapy techniques and their underlying rationales.",
+        "Technical and Digital Skills": [
+            "Understanding art therapy techniques",
+            "Utilizing the Expressive Therapies Continuum (ETC)",
+            "Applying art therapy principles in practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Empathy and active listening skills",
+            "Building rapport with diverse populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the underlying rationales of art therapy techniques",
+            "Adapting therapy methods to individual needs",
+            "Critical evaluation of therapeutic outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing treatment plans",
+            "Leading group therapy sessions",
+            "Maintaining client records accurately"
+        ]
+    },
+    {
+        "courseCode": "ARTS 573",
+        "courseTitle": "The Book",
+        "academicLevel": "graduate",
+        "courseDescription": "The book as a work of art.  Lecture will explore historical and technical aspects of book design and production.  Studio work will be devoted to the production of a series of books involving page design, paper selection, printing and binding.",
+        "Technical and Digital Skills": [
+            "Book design principles",
+            "Paper selection techniques",
+            "Printing processes",
+            "Book binding methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of design ideas",
+            "Collaboration with team members on book production"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting printing issues",
+            "Analyzing different paper qualities for optimal book design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for book production",
+            "Leading a team in the creation of a series of books"
+        ]
+    },
+    {
+        "courseCode": "ARTS 581",
+        "courseTitle": "Crafts III: Fibers",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced work in pattern drafting, loom techniques, off-loom weaving and fabric painting.",
+        "Technical and Digital Skills": [
+            "Pattern drafting",
+            "Loom techniques",
+            "Off-loom weaving",
+            "Fabric painting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ARTS 591",
+        "courseTitle": "Advanced Jewelry and Metalsmithing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers further exploration and concentration on jewelry and metalsmithing techniques. Through readings, discussions, self-directed and self-determined projects, students will explore new methods and content to develop an individual body of work. Additional emphasis will be placed on developing supplemental portfolio materials. May be repeated once for credit.",
+        "Technical and Digital Skills": [
+            "Advanced jewelry and metalsmithing techniques",
+            "Portfolio development",
+            "Self-directed project management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in discussions",
+            "Effective communication of artistic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of new methods and content",
+            "Problem-solving in jewelry design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-determined project management",
+            "Portfolio organization and presentation"
+        ]
+    },
+    {
+        "courseCode": "ARTS 593",
+        "courseTitle": "Jewelry and Metalsmithing Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers further exploration and concentration on jewelry and metalsmithing techniques. Through readings, discussions, self-directed and self-determined projects, students will explore new methods and content to develop an individual body of work. Additional emphasis will be placed on developing supplemental portfolio materials. May be repeated for credit once.",
+        "Technical and Digital Skills": [
+            "Jewelry making techniques",
+            "Metalsmithing skills",
+            "Portfolio development",
+            "Material exploration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in discussions",
+            "Peer feedback exchange"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in jewelry design",
+            "Critical evaluation of project outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed project management",
+            "Portfolio curation"
+        ]
+    },
+    {
+        "courseCode": "ARTS 595",
+        "courseTitle": "Topics in Studio Art",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on studio projects of mutual interest.",
+        "Technical and Digital Skills": [
+            "Painting techniques",
+            "Sculpting methods",
+            "Digital art tools proficiency",
+            "Photography editing software skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic collaboration",
+            "Providing constructive feedback on artwork",
+            "Communicating artistic vision effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art projects",
+            "Analyzing visual compositions",
+            "Experimenting with different artistic approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for art exhibitions",
+            "Leading art workshops",
+            "Curating art shows"
+        ]
+    },
+    {
+        "courseCode": "ARTS 597",
+        "courseTitle": "Tutorial Work in Special Studio Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent investigation of a subject to be selected under the advisement of the instructor.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Independent investigation of a subject, critical evaluation of information",
+        "Organizational and Leadership Skills": "Under advisement of the instructor, project management"
+    },
+    {
+        "courseCode": "ARTS 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "A structured work experience involving aspects of art, design or craft; film or video making; and/or museum/gallery work.",
+        "Technical and Digital Skills": [
+            "Graphic design software proficiency",
+            "Video editing skills",
+            "Knowledge of museum/gallery operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with artists and designers",
+            "Effective communication with team members and clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art and design projects",
+            "Critical evaluation of artistic concepts and techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in art exhibitions",
+            "Leadership in curating museum/gallery events"
+        ]
+    },
+    {
+        "courseCode": "ARTS 695",
+        "courseTitle": "Graduate Seminar: Special Topics in Contemporary Art",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be specified in the class schedule.  Intensive critical investigations of selected aspects of the visual arts which focus on the role of the artist in contemporary urban society.  May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": [
+            "Visual arts technology applications",
+            "Digital art creation tools",
+            "Contemporary art research databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic interpretation and expression",
+            "Critique and feedback in art discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of contemporary art",
+            "Interpretation of visual symbolism and themes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating art exhibitions",
+            "Leading art discussions and presentations"
+        ]
+    },
+    {
+        "courseCode": "ARTS 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised individual inquiry in specific studio projects relating to the areas of major interest.",
+        "Technical and Digital Skills": [
+            "Studio project implementation",
+            "Software development",
+            "Web development",
+            "Database management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Project presentation",
+            "Effective communication with supervisors",
+            "Collaboration with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research skills",
+            "Critical thinking in project design",
+            "Troubleshooting technical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for project deadlines",
+            "Independent project planning and execution",
+            "Decision-making in project direction"
+        ]
+    },
+    {
+        "courseCode": "ARTS 698",
+        "courseTitle": "Graduate Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised individual inquiry in specific studio projects relating to the areas of major interest.",
+        "Technical and Digital Skills": [
+            "Studio project development",
+            "Software proficiency for specific projects",
+            "Digital design tools mastery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills for studio projects",
+            "Collaboration with peers and mentors",
+            "Clear communication of project goals and progress"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of design choices",
+            "Creative problem-solving in project development",
+            "Iterative refinement of project outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for studio projects",
+            "Team coordination and task delegation",
+            "Leadership in decision-making for project direction"
+        ]
+    },
+    {
+        "courseCode": "ARTS 700",
+        "courseTitle": "Directed Field Experience",
+        "academicLevel": "graduate",
+        "courseDescription": "Intern experiences in museums, community centers and arts programs, teaching assistantships, special apprenticeships, and field projects under the supervision of graduate faculty.  Required of all M.F.A. candidates.",
+        "Technical and Digital Skills": [
+            "Curating museum exhibitions",
+            "Managing community arts programs",
+            "Field project management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with museum staff",
+            "Communicating with community members",
+            "Teaching assistantship interactions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing creative solutions for art projects",
+            "Analyzing field project data",
+            "Evaluating apprenticeship outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading field project teams",
+            "Organizing museum events",
+            "Supervising apprenticeships"
+        ]
+    },
+    {
+        "courseCode": "ARTS 701",
+        "courseTitle": "Thesis Exhibition",
+        "academicLevel": "graduate",
+        "courseDescription": "Required of M.F.A. candidates.  Course requirements to be determined by the student's advisory committee.  Final grade to be determined by the student's thesis review committee.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Presenting artwork effectively, Communicating artistic vision to audience, Collaborating with review committee",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of art pieces, Problem-solving in artistic presentation, Analyzing feedback from committee",
+        "Organizational and Leadership Skills": "Planning exhibition logistics, Leading exhibition setup and coordination, Managing timeline for thesis completion"
+    },
+    {
+        "courseCode": "ARTS 702",
+        "courseTitle": "Documentation",
+        "academicLevel": "graduate",
+        "courseDescription": "Studio work in preparation for required graduate exhibition.  Public exhibition to be approved by the student's advisory committee and must be accompanied by final review.  Documentation may be required.  Required of all M.A. and M.F.A.  candidates.  Final grade to be determined by the student's thesis review committee.",
+        "Technical and Digital Skills": [
+            "Documentation preparation",
+            "Final review process",
+            "Exhibition approval process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with advisory committee",
+            "Presenting documentation to thesis review committee"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of documentation requirements",
+            "Problem-solving in exhibition planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in exhibition organization",
+            "Organizational skills in documentation management"
+        ]
+    },
+    {
+        "courseCode": "ARTS 797",
+        "courseTitle": "Graduate Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised individual inquiry in specific studio projects relating to areas of major interest.  Individual studio spaces will be assigned.",
+        "Technical and Digital Skills": [
+            "Studio project implementation",
+            "Creative design software proficiency",
+            "Technical equipment handling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of studio projects",
+            "Peer feedback incorporation",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of project outcomes",
+            "Adaptation to unforeseen challenges",
+            "Innovative solutions generation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for studio tasks",
+            "Individual workload prioritization",
+            "Team coordination in studio projects"
+        ]
+    },
+    {
+        "courseCode": "ARTS 798",
+        "courseTitle": "Graduate Studio",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised individual inquiry in specific studio projects relating to areas of major interest.  Individual studio spaces will be assigned.",
+        "Technical and Digital Skills": [
+            "Studio project development",
+            "Digital design software proficiency",
+            "Technical implementation of studio projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of project ideas",
+            "Collaboration with peers on studio projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of studio project components",
+            "Identifying and resolving technical issues in project development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of individual studio projects",
+            "Leadership in guiding project development"
+        ]
+    },
+    {
+        "courseCode": "ARTS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status in course registration",
+            "Understanding pass/fail grading system",
+            "Navigating doctoral program requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty and advisors",
+            "Negotiating course workload and expectations",
+            "Building a support network within the program"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategizing course selection for academic progress",
+            "Identifying research topics and methodologies",
+            "Troubleshooting issues related to course requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for balancing course workload",
+            "Setting academic goals and milestones",
+            "Taking initiative in academic pursuits"
+        ]
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "courseCode": "TAX 650",
+        "courseTitle": "Tax Strategies for Business Decisions",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive course in taxation.  Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietor-ships.  The course emphasizes research skills and professional ethics.",
+        "Technical and Digital Skills": [
+            "Tax research",
+            "Understanding of C and S corporations taxation",
+            "Understanding of partnerships taxation",
+            "Understanding of sole proprietorships taxation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional ethics",
+            "Effective communication of tax strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for tax strategies",
+            "Problem-solving in taxation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making in choosing business entity",
+            "Organizing tax strategies",
+            "Leading tax research"
+        ]
+    },
+    {
+        "courseCode": "TAX 651",
+        "courseTitle": "Taxation of Corporations I",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers federal income taxation of corporations and shareholders. Includes organizing a corporation; establishing capital structure; determining tax liability; dividends and other non-liquidating distributions; stock redemptions; and liquidations.",
+        "Technical and Digital Skills": [
+            "Knowledge of federal income taxation of corporations",
+            "Understanding of capital structure",
+            "Determining tax liability",
+            "Knowledge of dividends and other non-liquidating distributions",
+            "Understanding of stock redemptions",
+            "Understanding of liquidations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex tax concepts",
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing corporate financial data for tax purposes",
+            "Problem-solving in tax liability determination"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing a corporation",
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "TAX 652",
+        "courseTitle": "Taxation of Partners and Partnerships",
+        "academicLevel": "graduate",
+        "courseDescription": "Taxation of partners and partnerships: formation, termination, distributions and liquidations, and sales of partnership interests.  Limited partnerships in conjunction with their use as tax shelters, and the multifaceted attributes of family partnerships.",
+        "Technical and Digital Skills": [
+            "Understanding of partnership taxation principles",
+            "Knowledge on formation, termination, distributions and liquidations of partnerships",
+            "Understanding of limited partnerships and their use as tax shelters",
+            "Familiarity with attributes of family partnerships"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex tax concepts",
+            "Ability to negotiate and mediate in tax-related disputes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of partnership taxation scenarios",
+            "Critical evaluation of partnership structures and their tax implications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax compliance for partnerships",
+            "Leadership in tax planning decision-making"
+        ]
+    },
+    {
+        "courseCode": "TAX 653",
+        "courseTitle": "Taxation of Estates and Gifts",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines transfers under federal estate and gift tax laws.  Includes property owned by the decedent; retained life estates; transfers taking effect at death; transfers with retained powers; concurrent property interest; powers of appointment; valuation problems; expenses, debts, and taxes; charitable bequests; marital deduction; taxable inter vivos gifts; gift splitting and credits; consideration of Chapter 14 and asset freezing techniques; and transfer taxation of life insurance.",
+        "Technical and Digital Skills": [
+            "Understanding of federal estate and gift tax laws",
+            "Knowledge of property valuation",
+            "Understanding of asset freezing techniques",
+            "Familiarity with transfer taxation of life insurance",
+            "Understanding of transfers with retained powers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex tax laws",
+            "Communication of charitable bequests"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of estate and gift tax laws",
+            "Problem-solving in valuation issues",
+            "Analysis of concurrent property interest",
+            "Understanding and application of Chapter 14",
+            "Analytical review of inter vivos gifts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing tax-related paperwork",
+            "Leadership in taxation decision-making"
+        ]
+    },
+    {
+        "courseCode": "TAX 654",
+        "courseTitle": "Income Taxation of Estates, Trusts & Beneficiaries",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines simple, complex, and revocable trusts; trusts accumulation distributions; income in respect of decedents; trust accounting income; distributable net income; terminations; excess deductions; basis rules; and the decedent's final income tax return.",
+        "Technical and Digital Skills": [
+            "Understanding of simple, complex, and revocable trusts",
+            "Knowledge of trust accumulation distributions",
+            "Comprehension of income in respect of decedents",
+            "Understanding of trust accounting income",
+            "Knowledge of distributable net income",
+            "Understanding of terminations",
+            "Knowledge of excess deductions",
+            "Understanding of basis rules",
+            "Knowledge of decedent's final income tax return"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex taxation concepts",
+            "Communicating tax implications to clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing trust accounting income",
+            "Problem solving for terminations",
+            "Analyzing distributable net income",
+            "Analyzing excess deductions",
+            "Analyzing basis rules"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax documentation",
+            "Leading client meetings on tax matters"
+        ]
+    },
+    {
+        "courseCode": "TAX 655",
+        "courseTitle": "Taxation of Corporations II",
+        "academicLevel": "graduate",
+        "courseDescription": "Analyzes the different types of taxable and tax-free acquisitions and reorganizations.  Includes determining tax consequences for corporations and shareholders involved in an acquisition or reorganization and analyzing necessary requirements for a tax-free corporate division (spin-off).  Covers aspects of filing consolidated federal income tax returns.",
+        "Technical and Digital Skills": [
+            "Analyzing taxable and tax-free acquisitions",
+            "Determining tax consequences for corporations and shareholders",
+            "Analyzing requirements for tax-free corporate division",
+            "Filing consolidated federal income tax returns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining tax consequences to stakeholders",
+            "Presenting tax strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing tax implications of acquisitions and reorganizations",
+            "Identifying tax-free opportunities in corporate divisions",
+            "Interpreting federal tax return guidelines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax-related aspects of corporate reorganizations",
+            "Leading tax strategy planning sessions"
+        ]
+    },
+    {
+        "courseCode": "TAX 656",
+        "courseTitle": "Taxation of Deferred Compensation",
+        "academicLevel": "graduate",
+        "courseDescription": "Discusses federal income taxation of deferred compensation plans with emphasis on qualified retirement plans.  Reviews plan qualification requirements, reporting and disclosure requirements, and distribution rules.  Includes discussion of specific types of plans such as Sec. 401(K) and ESOPs.",
+        "Technical and Digital Skills": [
+            "Understanding of federal income taxation",
+            "Knowledge of deferred compensation plans",
+            "Familiarity with qualified retirement plans",
+            "Understanding of plan qualification requirements",
+            "Understanding of reporting and disclosure requirements",
+            "Knowledge of distribution rules",
+            "Understanding of Sec. 401(K) and ESOPs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex tax concepts",
+            "Ability to explain different types of deferred compensation plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing taxation scenarios",
+            "Evaluating different deferred compensation plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Compliance with tax reporting and disclosure requirements"
+        ]
+    },
+    {
+        "courseCode": "TAX 657",
+        "courseTitle": "State and Local Taxation",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines state levying of individual income, corporate income, property, sales, and excise taxes.",
+        "Technical and Digital Skills": [
+            "Understanding of individual income tax",
+            "Corporate income tax analysis",
+            "Property tax assessment",
+            "Sales and excise tax calculation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Comparative tax analysis",
+            "Tax legislation interpretation",
+            "Critical evaluation of tax systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Tax policy management"
+        ]
+    },
+    {
+        "courseCode": "TAX 658",
+        "courseTitle": "Tax Aspects of International Business",
+        "academicLevel": "graduate",
+        "courseDescription": "Taxation of foreign persons conducting business in the U.S. including FIRPTA, source of income rules, and residency requirements; taxation of U.S. individuals and businesses doing business abroad including FSCs, CFCs, FHP Co's and possessions corporations.",
+        "Technical and Digital Skills": [
+            "Understanding of FIRPTA",
+            "Knowledge of source of income rules",
+            "Familiarity with residency requirements",
+            "Comprehension of FSCs, CFCs, FHP Co's taxation",
+            "Understanding of possessions corporations' taxation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex tax regulations to clients",
+            "Communicating tax strategies and implications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting international tax laws",
+            "Analyzing tax implications for various business scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax compliance for international businesses",
+            "Leading tax strategy planning"
+        ]
+    },
+    {
+        "courseCode": "TAX 660",
+        "courseTitle": "Taxation of Property Transactions",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers determination of realized and recognized gains and losses and their tax treatment on property dispositions.  Includes consequences of property transactions, such as depreciation, depletion, basis and capital gains problems.",
+        "Technical and Digital Skills": [
+            "Determination of realized and recognized gains and losses",
+            "Understanding of tax treatment on property dispositions",
+            "Knowledge of property transaction consequences",
+            "Understanding of depreciation and depletion",
+            "Calculation of basis and capital gains"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of tax implications on property transactions",
+            "Problem-solving in capital gains issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "TAX 661",
+        "courseTitle": "Taxation of the Small Business Corporation",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers federal income taxation of S corporations including election eligibility; termination of status; treatment of income and deduction items; distributions; and basis of stock and debt.  Also discusses compensation arrangements in closely held corporations; fiscal year issues; personal service corporations; the advantages of C corporations versus S corporations; corporation liquidation and redemption rules; and the S corporations' built-in gains tax.",
+        "Technical and Digital Skills": [
+            "Understanding of federal income taxation of S corporations",
+            "Knowledge of election eligibility",
+            "Understanding of treatment of income and deduction items",
+            "Understanding of corporation liquidation and redemption rules",
+            "Knowledge of S corporations' built-in gains tax"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex tax issues to clients",
+            "Ability to discuss compensation arrangements in closely held corporations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze fiscal year issues",
+            "Ability to assess advantages of C corporations versus S corporations",
+            "Problem-solving tax-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of tax processes",
+            "Leadership in resolving tax-related issues"
+        ]
+    },
+    {
+        "courseCode": "TAX 662",
+        "courseTitle": "Tax Procedure and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Discusses procedures for dealing with the IRS.  Includes sources of IRS policy; processing returns; auditing returns; rulings and determination letters; assessments and collections; and interest and civil penalties.",
+        "Technical and Digital Skills": [
+            "Understanding of IRS policies and procedures",
+            "Processing tax returns",
+            "Auditing tax returns",
+            "Interpretation of rulings and determination letters",
+            "Knowledge of assessments and collections",
+            "Understanding of interest and civil penalties"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with IRS representatives",
+            "Ability to explain complex tax procedures to clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing tax return data for accuracy",
+            "Identifying potential IRS audit triggers",
+            "Problem-solving in disputes with IRS rulings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax return processing workflow",
+            "Leading client meetings on tax issues"
+        ]
+    },
+    {
+        "courseCode": "TAX 695",
+        "courseTitle": "Selected Topics in Taxation",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the unique rules applicable to federal taxation of farmers and ranchers.  Also, covers the basics on the new Limited Liability Company and Virginia law on LLCs.  Topics may vary each year.",
+        "Technical and Digital Skills": [
+            "Understanding of federal taxation rules for farmers and ranchers",
+            "Familiarity with Limited Liability Company basics",
+            "Knowledge of Virginia law on LLCs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex tax laws and regulations",
+            "Effective communication of varied taxation topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of various tax laws and regulations",
+            "Problem-solving in tax-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to organize and manage tax-related information",
+            "Understanding and application of tax law changes"
+        ]
+    },
+    {
+        "courseCode": "TAX 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Individually supervised research projects in selected tax areas.  Approval of supervising professor as to topic and evaluation of project required at time of registration.",
+        "Technical and Digital Skills": [
+            "Research methods",
+            "Data collection and analysis",
+            "Tax law comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Liaising with supervising professor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying relevant tax issues",
+            "Critical evaluation of tax laws",
+            "Solution development for tax problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Adherence to deadlines"
+        ]
+    }
+]

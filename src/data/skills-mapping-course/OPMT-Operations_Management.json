@@ -1,0 +1,198 @@
+[
+    {
+        "courseTitle": "Operations Management",
+        "courseCode": "OPMT 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines strategic, tactical and operational issues in the planning and control of manufacturing and service delivery systems.  This course examines such topics as process design, capacity and materials planning and control, inventory management, facility layout, quality and work management.",
+        "Technical and Digital Skills": [
+            "Process design",
+            "Capacity and materials planning",
+            "Inventory management",
+            "Facility layout",
+            "Quality and work management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic, tactical and operational planning",
+            "Service delivery system analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of manufacturing systems",
+            "Control of service delivery systems"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "OPMT 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.  Student participation in a professional work experience.  Available for pass/fail grading only.  (qualifies as a CAP experience)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Collaboration with department advisers and Career Development Services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability in a professional work environment",
+            "Critical evaluation of work experience"
+        ],
+        "Organizational and Leadership Skills": [
+            "Professional work experience",
+            "Time management",
+            "Planning and scheduling"
+        ]
+    },
+    {
+        "courseTitle": "SAP Applications",
+        "courseCode": "OPMT 455",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the concept of enterprise resource planning. Students will learn SAP (Systems, Applications and Products in Data Processing) enterprise software to manage business operations and customer relations by analyzing and presenting data stats in an engaging way, and producing meaningful and insightful business solutions.",
+        "Technical and Digital Skills": [
+            "Understanding of enterprise resource planning",
+            "Proficiency in SAP enterprise software",
+            "Data analysis",
+            "Data presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Customer relationship management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Business operations management",
+            "Creating insightful business solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of business operations",
+            "Leading in customer relations"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics in Operations Management",
+        "courseCode": "OPMT 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected advanced topics in operations management.  Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Independent Study in Operations Management",
+        "courseCode": "OPMT 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with mentor",
+            "Presenting research findings",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing issues in operations management",
+            "Critical evaluation of information",
+            "Applying theoretical knowledge to practical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "OPMT 615",
+        "courseTitle": "Operations & Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the issues related to process, layout, production planning, materials management, quality, and lean manufacturing.  The effects of these issues on productivity, firm performance, and customer satisfaction will be discussed.  Furthermore, supply chain design, integration, and sustainability are discussed and analyzed.",
+        "Technical and Digital Skills": [
+            "Process optimization",
+            "Layout planning",
+            "Production planning",
+            "Materials management",
+            "Quality control",
+            "Lean manufacturing practices",
+            "Supply chain design",
+            "Supply chain integration",
+            "Supply chain sustainability"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder management",
+            "Cross-functional collaboration",
+            "Communication of productivity, performance, and customer satisfaction metrics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of supply chain performance",
+            "Problem-solving in production planning",
+            "Analyzing effects of manufacturing issues on productivity, firm performance, and customer satisfaction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination and management",
+            "Leadership in supply chain design and integration",
+            "Implementation of sustainable practices in supply chain"
+        ]
+    },
+    {
+        "courseCode": "OPMT 695",
+        "courseTitle": "Selected Topics in Operations Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in operations management.",
+        "Technical and Digital Skills": [
+            "Operations management software",
+            "Inventory control",
+            "Supply chain management",
+            "Lean manufacturing principles",
+            "Quality control techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdepartmental coordination",
+            "Negotiation with suppliers",
+            "Presentation of operational strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Operational problem identification and resolution",
+            "Process optimization",
+            "Resource allocation",
+            "Risk management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership",
+            "Strategic planning and execution",
+            "Performance improvement"
+        ]
+    },
+    {
+        "courseCode": "OPMT 697",
+        "courseTitle": "Independent Study in Operations Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Operations management software proficiency",
+            "Data analysis tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty member",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem-solving",
+            "Operations analysis and optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "OPMT 795",
+        "courseTitle": "Study of selected topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

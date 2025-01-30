@@ -1,0 +1,137 @@
+[
+    {
+        "courseTitle": "Introduction to Bioelectrics",
+        "courseCode": "BIOE 454/554",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease. Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing, defibrillation, electrotherapy, electroporation, and electrotherapy in wound healing. In addition, ultrashort electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding electrical properties of cells and tissues",
+            "Knowledge of electrocardiography",
+            "Familiarity with cardiac pacing and defibrillation",
+            "Electrotherapy techniques",
+            "Electroporation methods",
+            "Application of ultrashort electrical pulses for intracellular manipulation",
+            "Plasma application in biological systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing endogenous electric fields in the body",
+            "Problem-solving in the diagnosis and treatment of diseases using electrical and magnetic signals",
+            "Critical evaluation of different electrotherapy approaches"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BIOE 554",
+        "courseTitle": "Introduction to Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease. Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing, defibrillation, electrotherapy, electroporation, and electrotherapy in wound healing. In addition, ultrashort electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding electrical properties of cells and tissues",
+            "Interpreting electrocardiography results",
+            "Applying electrotherapy in wound healing",
+            "Utilizing ultrashort electrical pulses for intracellular manipulation",
+            "Implementing plasmas in biological systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex bioelectric concepts to non-experts",
+            "Collaborating with healthcare professionals on treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing endogenous electric fields in the body",
+            "Troubleshooting issues with cardiac pacing devices",
+            "Evaluating the effectiveness of electroporation techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects related to bioelectrics",
+            "Leading a team in conducting experiments on electrical stimuli in disease diagnosis"
+        ]
+    },
+    {
+        "courseCode": "BIOE 754",
+        "courseTitle": "Advanced Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.",
+        "Technical and Digital Skills": [
+            "Pulsed power technology",
+            "Electrical stimuli generation",
+            "Medical applications of bioelectrics",
+            "Tumor ablation techniques",
+            "Gene electrotransfer methods",
+            "Cold plasma decontamination procedures",
+            "Cardiac arrhythmia treatment protocols"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biological response analysis",
+            "Critical evaluation of bioelectrics applications",
+            "Problem-solving in bioelectrics scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BIOE 755",
+        "courseTitle": "Biomembranes and Ion Channels",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will give an overview of the structure and dynamics of biomembranes, the ion channels that are embedded in them, and the electrical properties of biomembranes. Topics include molecular dynamics modeling of biomembranes, membrane damage and repair, ion channel dynamics and their experimental assessment using patch clamping, and excitability in neurons and cardiomyocytes.",
+        "Technical and Digital Skills": [
+            "Molecular dynamics modeling",
+            "Patch clamping techniques",
+            "Electrical properties analysis",
+            "Data interpretation in ion channel dynamics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of biomembrane structures",
+            "Problem-solving in membrane damage and repair",
+            "Analytical skills in assessing ion channel dynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BIOE 854",
+        "courseTitle": "Advanced Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.",
+        "Technical and Digital Skills": [
+            "Pulsed power technology",
+            "Electrical stimuli generation",
+            "Medical applications of bioelectrics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of biological responses to electrical stimuli",
+            "Evaluation of medical applications of bioelectrics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BIOE 891",
+        "courseTitle": "Graduate Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This course can be taken either as an attendee or as a presenter. Attendees will receive a pass/fail grade based on whether they satisfy the attendance requirements. Presenters will receive a letter grade for their presentation from a committee of faculty in the audience.",
+        "Technical and Digital Skills": [
+            "Presentation design",
+            "Public speaking",
+            "Committee evaluation",
+            "Digital presentation tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Attendance tracking",
+            "Committee feedback incorporation",
+            "Audience engagement",
+            "Feedback analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of presentation content",
+            "Critique incorporation",
+            "Audience response analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Presentation planning",
+            "Committee coordination",
+            "Time management",
+            "Effective communication with faculty"
+        ]
+    }
+]

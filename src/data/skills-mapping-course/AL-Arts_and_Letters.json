@@ -1,0 +1,314 @@
+[
+    {
+        "courseTitle": "Topics in Arts and Letters",
+        "courseCode": "AL 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topics course in the area of arts and letters.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of literary works",
+        "Organizational and Leadership Skills": "Managing research projects in the humanities"
+    },
+    {
+        "courseTitle": "Topics in Arts and Letters",
+        "courseCode": "AL 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topics course in the area of arts and letters.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of literature and art, Interpretation of historical context, Comparative analysis of artistic movements",
+        "Organizational and Leadership Skills": "Time management for research projects, Leading group discussions on artistic themes"
+    },
+    {
+        "courseTitle": "Topics in Arts and Letters",
+        "courseCode": "AL 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topics course in the area of arts and letters.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of literature and art, Interpretation of historical context, Research skills in arts and humanities",
+        "Organizational and Leadership Skills": "Effective time management for research projects, Group collaboration in artistic endeavors"
+    },
+    {
+        "courseTitle": "Topics in Arts and Letters",
+        "courseCode": "AL 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topics course in the area of arts and letters.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of literature, Research methodology, Interpretation of historical texts",
+        "Organizational and Leadership Skills": "Project management in the arts, Team coordination for creative projects, Decision-making in artistic contexts"
+    },
+    {
+        "courseTitle": "Topics in Humanities",
+        "courseCode": "AL 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An interdisciplinary study of selected topics in the humanities.  These courses will appear in the course schedule booklet, and will be more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research methods",
+            "Literature analysis tools",
+            "Historical data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of humanities research findings",
+            "Collaborative writing and editing for academic publications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Interpretation of complex philosophical texts",
+            "Comparative analysis of cultural artifacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for interdisciplinary research projects",
+            "Facilitation of group discussions on humanities topics"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Social Studies",
+        "courseCode": "AL 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An interdisciplinary study of selected topics in social studies.  These courses will appear in the course schedule booklet, and will be more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research methods",
+            "Data analysis techniques",
+            "Literature review skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative group work abilities",
+            "Strong writing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking skills",
+            "Analyzing complex social issues",
+            "Research design and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Facilitation of discussions and debates",
+            "Team coordination abilities"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Humanities",
+        "courseCode": "AL 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An advanced study of selected topics in humanities.",
+        "Technical and Digital Skills": [
+            "Research methodology in humanities",
+            "Digital archives navigation",
+            "Online database querying",
+            "Data visualization tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating on interdisciplinary projects",
+            "Effective communication in academic settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sources",
+            "Analyzing historical texts",
+            "Identifying themes and trends in humanities research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research materials",
+            "Leading group discussions",
+            "Time management for research projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Social Studies",
+        "courseCode": "AL 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An advanced study of selected topics in social studies.",
+        "Technical and Digital Skills": [
+            "Research methodologies in social sciences",
+            "Data analysis techniques for social studies",
+            "Utilizing statistical software for social research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings to diverse audiences",
+            "Collaborating with peers on research projects",
+            "Effective communication of complex social concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Analyzing social trends and patterns",
+            "Interpreting complex social data sets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on social issues",
+            "Time management for research projects",
+            "Organizing research materials and resources"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Arts and Letters Topics",
+        "courseCode": "AL 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills for gathering information",
+            "Utilizing online databases for academic research",
+            "Digital formatting of papers and bibliographies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructors for guidance",
+            "Presenting research findings in a clear and engaging manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of texts and sources",
+            "Identifying themes and connections between different works"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting and delving into a specific topic"
+        ]
+    },
+    {
+        "courseCode": "AL 595",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "An advanced study of selected topics in humanities.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature analysis techniques",
+            "Digital archival research",
+            "Cultural data visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating on interdisciplinary projects",
+            "Communicating complex ideas to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Interpreting complex texts",
+            "Developing theoretical frameworks for analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Leading group discussions",
+            "Organizing academic conferences"
+        ]
+    },
+    {
+        "courseCode": "AL 596",
+        "courseTitle": "Topics in Social Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "An advanced study of selected topics in social studies.",
+        "Technical and Digital Skills": [
+            "Research methods",
+            "Data analysis",
+            "Digital literacy",
+            "Online research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative research techniques",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research design",
+            "Data interpretation",
+            "Evidence-based reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team coordination",
+            "Time management",
+            "Resource allocation"
+        ]
+    },
+    {
+        "courseCode": "AL 597",
+        "courseTitle": "Tutorial Work in Arts and Letters Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills for independent study",
+            "Literature review techniques",
+            "Citation management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills for conferences",
+            "Oral communication skills for discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literature",
+            "Identifying themes and patterns in texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Leading discussions in conferences"
+        ]
+    },
+    {
+        "courseCode": "AL 695",
+        "courseTitle": "Topics in Arts and Letters",
+        "academicLevel": "graduate",
+        "courseDescription": "An interdisciplinary study of selected topics in arts and letters.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of literary works, interdisciplinary research methods, identifying themes and patterns in arts and letters",
+        "Organizational and Leadership Skills": "Project management in the arts, leading interdisciplinary discussions, coordinating collaborative projects"
+    },
+    {
+        "courseCode": "AL 797",
+        "courseTitle": "Tutorial Work in Arts and Letters Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Literature review techniques",
+            "Citation management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in written form",
+            "Presentation skills",
+            "Collaboration with instructor and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of texts",
+            "Identifying themes and patterns in literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting and exploring topics"
+        ]
+    },
+    {
+        "courseCode": "AL 895",
+        "courseTitle": "Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar on special interdisciplinary topics for small groups of qualified students.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "AL 897",
+        "courseTitle": "Tutorial Work in Arts and Letters Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills in arts and letters topics",
+            "Utilizing digital resources for study",
+            "Utilizing online databases for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructors",
+            "Collaborative work on research projects with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literary works",
+            "Identifying themes and motifs in arts and letters topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting and researching a topic"
+        ]
+    }
+]

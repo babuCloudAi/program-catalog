@@ -1,0 +1,44 @@
+[
+    {
+        "courseTitle": "Beginning Hebrew I",
+        "courseCode": "HEBR 111F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drill and discussion of grammar principles, written exercises and reading assignments.",
+        "Technical and Digital Skills": [
+            "Hebrew aural comprehension",
+            "Hebrew grammar principles",
+            "Hebrew oral drill",
+            "Hebrew written exercises",
+            "Hebrew reading assignments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Hebrew",
+            "Written communication in Hebrew"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and applying Hebrew grammar rules",
+            "Deciphering Hebrew reading assignments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Hebrew",
+        "courseCode": "HEBR 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Oral drill and discussion of grammar principles, written exercises and reading assignments.",
+        "Technical and Digital Skills": [
+            "Grammar principles application",
+            "Written Hebrew exercises",
+            "Hebrew reading comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral Hebrew communication",
+            "Discussion participation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deciphering complex Hebrew sentences",
+            "Grammar troubleshooting"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

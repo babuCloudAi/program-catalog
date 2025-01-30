@@ -1,0 +1,3277 @@
+[
+    {
+        "courseTitle": "Beginning Piano Class",
+        "courseCode": "MUSC 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction, practical training, and development of basic piano skills, including the playing of scales, arpeggios, chords, and simple songs; sight reading, transposition, harmonization of melodies, and improvisation.  (For music majors only)",
+        "Technical and Digital Skills": [
+            "Playing scales",
+            "Playing arpeggios",
+            "Playing chords",
+            "Playing simple songs",
+            "Sight reading",
+            "Transposition",
+            "Harmonization of melodies",
+            "Improvisation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical interpretation",
+            "Melodic analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline in practice",
+            "Time management for practice sessions"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Piano Class",
+        "courseCode": "MUSC 102",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction, practical training, and development of basic piano skills, including the playing of scales, arpeggios, chords, and simple songs; sight reading, transposition, harmonization of melodies, and improvisation.  (For music majors only)",
+        "Technical and Digital Skills": [
+            "Playing scales",
+            "Playing arpeggios",
+            "Playing chords",
+            "Sight reading",
+            "Transposition",
+            "Harmonization",
+            "Improvisation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting music notations",
+            "Adapting to different music keys"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for practice sessions"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Piano Class",
+        "courseCode": "MUSC 103",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continued practical training and development of basic piano skills.  (For music majors only)",
+        "Technical and Digital Skills": [
+            "Advanced hand coordination",
+            "Fingering techniques",
+            "Intermediate sight-reading",
+            "Musical notation interpretation",
+            "Tempo control",
+            "Dynamics interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical expression",
+            "Performance skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Note identification",
+            "Scale and chord progression analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Practice regimen planning",
+            "Performance preparation"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Voice Class",
+        "courseCode": "MUSC 107",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction, practical training, and development of basic singing skills.",
+        "Technical and Digital Skills": [
+            "Basic singing techniques",
+            "Vocal exercises",
+            "Practical vocal training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performing in front of others",
+            "Expressing emotions through voice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-assessment of singing performance",
+            "Improving vocal range and tone"
+        ],
+        "Organizational and Leadership Skills": [
+            "Discipline and consistency in vocal practice",
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Live Audio Engineering",
+        "courseCode": "MUSC 113",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers fundamentals of live audio engineering, rudimentary acoustics, auditory perception and psychoacoustical concepts. Students will learn to assemble sound reinforcement systems for small and large ensembles and examine how sound is perceived by the human ear. Topics such as signal flow, cabling, mixing, busing and monitoring will be addressed. Sound Recording Technology majors must earn a grade of C or better to progress to MUSC 115.",
+        "Technical and Digital Skills": [
+            "Understanding of acoustics and psychoacoustics",
+            "Assembling sound reinforcement systems",
+            "Perception of sound by the human ear",
+            "Knowledge of signal flow",
+            "Cabling",
+            "Mixing",
+            "Busing",
+            "Monitoring"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing auditory perception issues",
+            "Troubleshooting sound reinforcement systems",
+            "Optimizing signal flow"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of sound equipment",
+            "Management of sound systems for small and large ensembles"
+        ]
+    },
+    {
+        "courseTitle": "The Fundamentals of Music Theory",
+        "courseCode": "MUSC 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed specifically for non-music majors and focuses on the fundamentals of music theory. It introduces the basics of music – such as rhythm, melody, and harmony – and may progress into intermediate topics such as chord progressions and aural skill development.",
+        "Technical and Digital Skills": [
+            "Understanding of rhythm",
+            "Understanding of melody",
+            "Understanding of harmony",
+            "Knowledge of chord progressions",
+            "Aural skill development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing musical structures",
+            "Identifying musical patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Musicianship Fundamentals",
+        "courseCode": "MUSC 121",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the knowledge of and skills in music theory fundamentals necessary to prepare for upper levels of music theory. Non-music majors may take the course if there is room and with the permission of the instructor.",
+        "Technical and Digital Skills": [
+            "Music theory understanding",
+            "Ability to apply music theory fundamentals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Permission seeking from instructor",
+            "Ability to communicate with peers and instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex music theory"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Music in History and Culture",
+        "courseCode": "MUSC 126A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of major composers and their works in the historical context of different style periods, including a discussion of the central philosophical and cultural issues of each period.  Students will be required to attend at least three musical events and turn in written critiques.",
+        "Technical and Digital Skills": [
+            "Critiquing musical performances",
+            "Identifying historical and stylistic elements in music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication for critiques",
+            "Active listening during musical events"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the cultural and philosophical context of music",
+            "Evaluating the works of major composers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for event attendance",
+            "Organizing thoughts for written critiques"
+        ]
+    },
+    {
+        "courseTitle": "Functional Piano Skills",
+        "courseCode": "MUSC 130",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical training and development of piano skills needed in the elementary, secondary choral, and private vocal studio setting. Focus will be placed on preparing for the piano barrier exam for music education majors (including technical skills, rehearsal skills, and sight reading). (For Music Education vocal/guitar/keyboard majors only.)",
+        "Technical and Digital Skills": [
+            "Piano technical skills",
+            "Rehearsal skills",
+            "Sight reading",
+            "Preparation for piano barrier exam"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instruction communication in a private vocal studio setting",
+            "Interpersonal skills in a choral setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of piano performances",
+            "Adapting rehearsal techniques to different settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing piano rehearsals",
+            "Leading a choral or private vocal studio"
+        ]
+    },
+    {
+        "courseTitle": "Freshman Seminar for Music Students",
+        "courseCode": "MUSC 150",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students make the most out of their experience as a student at ODU, create a sense of community among music students, and prepare students for the expectations of being a college student in the Diehn School of Music. Musicians' health topics, among others, will be presented to enhance student rehearsal and performance practices.",
+        "Technical and Digital Skills": [
+            "Performance practices",
+            "Rehearsal techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community building among music students",
+            "Peer collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and adhering to college expectations",
+            "Applying health knowledge to enhance performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adapting to university life",
+            "Self-discipline in rehearsal and performance"
+        ]
+    },
+    {
+        "courseTitle": "Music and Ideas",
+        "courseCode": "MUSC 160",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to cultivate a nuanced comprehension of the intellectual dimensions of music, equipping students with the analytical skills essential for critical engagement with diverse musical genres and concepts. Through the development of critical thought and the utilization of scholarly tools, students will explore intriguing questions, laying a foundation upon which they will construct additional musical knowledge and expertise during their tenure at the Diehn School of Music.",
+        "Technical and Digital Skills": [
+            "Critical analysis of diverse musical genres",
+            "Utilization of scholarly tools for research",
+            "Understanding intellectual dimensions of music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of musical concepts",
+            "Discussion and presentation of musical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical engagement with diverse musical genres and concepts",
+            "Formulation of intriguing questions regarding music",
+            "Nuanced comprehension of music"
+        ],
+        "Organizational and Leadership Skills": [
+            "Development of a foundation for further musical knowledge and expertise",
+            "Planning and execution of in-depth musical research"
+        ]
+    },
+    {
+        "courseTitle": "Music Theory 1",
+        "courseCode": "MUSC 221",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Music Theory 1 is a foundational course and topics within this course include the basics of music notation, clefs, simple and compound meters, major and minor scales and keys signatures, modes, intervals, triads, seventh chords, inversions, Roman numerals, and an introduction to species counterpoint. This course includes discussions of the pedagogy of music fundamentals.",
+        "Technical and Digital Skills": [
+            "Music notation",
+            "Understanding of clefs",
+            "Understanding of simple and compound meters",
+            "Knowledge of major and minor scales and keys signatures",
+            "Understanding of modes",
+            "Knowledge of intervals",
+            "Understanding of triads",
+            "Knowledge of seventh chords",
+            "Understanding of inversions",
+            "Knowledge of Roman numerals",
+            "Introduction to species counterpoint"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in discussions",
+            "Communication of musical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of musical structures",
+            "Problem-solving in music composition and arrangement"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Music Theory 2",
+        "courseCode": "MUSC 222",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics for this course include functionalizing two-part counterpoint, introduction to SATB part-writing, function theory, cadences, and connecting the tonic and dominant areas. Other topics include chordal harmonies, realizing figured bass, the submediant and mediant harmonies, motives and motivic analysis, twelve-bar blues, popular song forms/chord symbols/chord extensions/harmonic schemas, and an introduction to jazz theory.",
+        "Technical and Digital Skills": [
+            "Functionalizing two-part counterpoint",
+            "Introduction to SATB part-writing",
+            "Function theory",
+            "Realizing figured bass",
+            "Motivic analysis",
+            "Understanding twelve-bar blues",
+            "Understanding popular song forms, chord symbols, chord extensions, harmonic schemas",
+            "Introduction to jazz theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Connecting the tonic and dominant areas",
+            "Understanding chordal harmonies",
+            "Understanding the submediant and mediant harmonies"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Aural Skills 2",
+        "courseCode": "MUSC 224",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural Skills 2 continues to develop melodic, rhythmic, and harmonic dictation as well as sight-singing/solfege, aural recognition, and writing of various intervals and triads.",
+        "Technical and Digital Skills": [
+            "Melodic dictation",
+            "Rhythmic dictation",
+            "Harmonic dictation",
+            "Sight-singing/solfege",
+            "Aural recognition",
+            "Writing of various intervals and triads"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Aural communication",
+            "Musical expression"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Melodic analysis",
+            "Rhythmic analysis",
+            "Harmonic analysis",
+            "Sight-singing analysis",
+            "Intervals and triads recognition"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music in History and Culture",
+        "courseCode": "MUSC 264A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to be an introduction to the appreciation and understanding of music through music listening activities and a survey of music history.  Basic principles and elements of music are discussed in relation to contexts within a variety of musical styles including classical, jazz, popular, and world music.  Regular and repeated listening is an important part of the course in addition to required concert attendance.",
+        "Technical and Digital Skills": [
+            "Music listening and appreciation",
+            "Understanding basic principles and elements of music",
+            "Knowledge of various musical styles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Concert etiquette and attendance",
+            "Discussion and interpretation of music in historical and cultural context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of different musical styles",
+            "Critical listening skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for regular and repeated listening",
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Music in World Cultures",
+        "courseCode": "MUSC 266",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required for music majors. Available to qualified non-majors. Exploration of music and cultures of the world in terms of function, style, genre, instruments, performers, and individual works. This course offers an exploration of the global mosaic of musical expressions.",
+        "Technical and Digital Skills": [
+            "Music genre identification",
+            "Recognizing different musical instruments",
+            "Understanding various music styles and functions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Discussion and presentation of musical expressions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing musical works",
+            "Critical listening and evaluation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Special topics",
+        "courseCode": "MUSC 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Foundations of Music Education",
+        "courseCode": "MUSC 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce the historical, philosophical, and sociological foundations and contemporary issues of American public education. Also included is an introduction to music education methods and learning theories as they relate to PreK-12 music education, the study of the Virginia Standards of Learning, the National Core Arts Standards for Music and an investigation into teaching for musical understanding, designing musical problems, lesson planning and assessment.  In addition, the course will include reading and writing assignments and discussion with teachers and young musicians. All students will complete a 30-hour observation experience in an appropriate PreK-12 setting specific to music education. In order to receive the required school observation placement, students must complete the ODU Teacher Education background check/clearance process prior to the beginning of this course and register for the observation placement on the Teacher Education web pages. See the advisor for more information. Students are expected independently to register for and take the Praxis Core examination or equivalent while enrolled in this course.",
+        "Technical and Digital Skills": [
+            "Understanding of music education methods",
+            "Knowledge of Virginia Standards of Learning",
+            "Familiarity with National Core Arts Standards for Music",
+            "Ability to design musical problems",
+            "Lesson planning",
+            "Assessment methods in music education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate with teachers and young musicians",
+            "Reading and writing assignments related to music education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Teaching for musical understanding",
+            "Investigation into teaching methods",
+            "Analyzing and implementing learning theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and completing a 30-hour observation experience in a PreK-12 setting",
+            "Initiative to complete background check/clearance process",
+            "Independently registering for and taking the Praxis Core examination"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: High Brass Class",
+        "courseCode": "MUSC 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students.  Designed to develop basic skills of playing and teaching the trumpet and F horn.  (offered fall semesters)",
+        "Technical and Digital Skills": [
+            "Basic trumpet playing",
+            "Basic F horn playing",
+            "Understanding of musical notations",
+            "Understanding of brass instrument mechanics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching trumpet and F horn skills",
+            "Conveying musical concepts effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adjusting teaching methods based on student's learning style",
+            "Troubleshooting instrumental issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and structuring music lessons",
+            "Directing and leading instrumental practice"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Low Brass Class",
+        "courseCode": "MUSC 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Designed to develop basic skills of playing and teaching  trombone, euphonium, and tuba.  (offered spring semesters)",
+        "Technical and Digital Skills": [
+            "Playing trombone",
+            "Playing euphonium",
+            "Playing tuba",
+            "Teaching trombone",
+            "Teaching euphonium",
+            "Teaching tuba"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating musical techniques",
+            "Instructing in a classroom setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Troubleshooting instrument issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a music class",
+            "Planning lesson sequences"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Clarinet and Oboe Class",
+        "courseCode": "MUSC 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Designed to develop basic skills of playing and teaching the clarinet and oboe, which serves as a foundation for the other woodwind instruments (offered fall semesters).",
+        "Technical and Digital Skills": [
+            "Playing clarinet",
+            "Playing oboe",
+            "Understanding and teaching the foundations of woodwind instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching techniques for clarinet and oboe",
+            "Communicating musical concepts",
+            "Instructional skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual students",
+            "Analyzing student progress",
+            "Troubleshooting performance techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Lesson planning for instrumental instruction",
+            "Leading student rehearsals"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Woodwind Class",
+        "courseCode": "MUSC 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Designed to develop basic skills of playing and teaching flute, bassoon, and saxophone (offered spring semesters).",
+        "Technical and Digital Skills": [
+            "Flute playing",
+            "Bassoon playing",
+            "Saxophone playing",
+            "Music teaching techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one teaching",
+            "Group communication",
+            "Feedback delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem solving",
+            "Performance analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Music instruction planning"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Upper Strings Class",
+        "courseCode": "MUSC 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Designed to develop basic skills of playing and teaching the violin and viola and to explore instructional materials used with these instruments.  (offered fall semesters)",
+        "Technical and Digital Skills": [
+            "Playing the violin and viola",
+            "Understanding and applying instructional materials for violin and viola"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching violin and viola",
+            "Presenting instructional materials effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adjusting teaching methods based on student progress",
+            "Analyzing student performance on violin and viola"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning music lessons",
+            "Leading music classes"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Lower Strings Class",
+        "courseCode": "MUSC 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. The course is designed to develop basic skills of playing and teaching cello and string bass and to evaluate instructional materials used with these instruments.  Introduces heterogeneous teaching and rehearsal techniques using all four stringed instruments.  (offered spring semesters)",
+        "Technical and Digital Skills": [
+            "Playing cello and string bass",
+            "Applying heterogeneous teaching techniques",
+            "Evaluating instructional materials for stringed instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching cello and string bass",
+            "Conducting rehearsals for all four stringed instruments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying effective instructional materials for stringed instruments",
+            "Implementing different teaching techniques based on individual student needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading rehearsals for all four stringed instruments",
+            "Organizing and planning lessons for cello and string bass"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Percussion Class I",
+        "courseCode": "MUSC 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Class lessons on all percussion instruments and the study of teaching methods for these instruments.  (offered spring semesters)",
+        "Technical and Digital Skills": [
+            "Playing various percussion instruments",
+            "Understanding and applying teaching methods for percussion instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining musical concepts",
+            "Providing feedback and guidance to students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Identifying areas for improvement in student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading music classes",
+            "Organizing course material and structure"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Music for the Elementary Classroom Teacher",
+        "courseCode": "MUSC 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students gain skills and experience related to the use of music in elementary school.",
+        "Technical and Digital Skills": [
+            "Music selection for various age groups",
+            "Use of musical instruments",
+            "Integration of music technology in classroom"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Classroom music instruction",
+            "Engaging students in music activities",
+            "Communicating the importance of music education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting music lessons to different learning styles",
+            "Creating engaging and educational music activities",
+            "Evaluating students' musical progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom music program management",
+            "Coordinating music events and performances",
+            "Leading group music activities"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Conducting",
+        "courseCode": "MUSC 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The development of basic skills and techniques necessary for conducting choral and instrumental ensembles.",
+        "Technical and Digital Skills": [
+            "Musical notation reading",
+            "Understanding of instrumental and choral techniques",
+            "Conducting patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Non-verbal communication",
+            "Musical direction",
+            "Interpersonal coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem-solving",
+            "Analytical listening"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ensemble management",
+            "Leadership in musical setting",
+            "Organizing rehearsals"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Percussion Class II",
+        "courseCode": "MUSC 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all instrumental music education students. Class lessons on all percussion instruments and the study of teaching methods for these instruments. (offered fall semesters)",
+        "Technical and Digital Skills": [
+            "Percussion instrument techniques",
+            "Teaching methods for percussion instruments",
+            "Instrument care and maintenance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one instrumental coaching",
+            "Group teaching dynamics",
+            "Verbal communication of musical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of teaching methods for individual students",
+            "Troubleshooting instrument issues",
+            "Analyzing student progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Lesson planning and organization",
+            "Leadership in a classroom setting",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Recital Attendance",
+        "courseCode": "MUSC 311+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is required of all music majors and music minors for six semesters of their enrollment as a music major or a music minor. The successful completion of the course requires attendance at a specified number of approved recitals, concerts, and events each semester.",
+        "Technical and Digital Skills": [
+            "Understanding of musical compositions",
+            "Knowledge of different musical genres"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Understanding and interpreting musical performances"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical listening",
+            "Performance evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Event scheduling"
+        ]
+    },
+    {
+        "courseTitle": "Digital Audio Workstation Essentials",
+        "courseCode": "MUSC 315",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the fundamentals of Digital Audio Workstations (DAWs) with a focus on Pro Tools. Students will learn basic editing techniques and gain proficiency in creating, arranging and comping tracks, workflow optimization through shortcuts, and basic mixing techniques Additionally, the course delves into the fundamentals of microphone choices and placement. This course emphasizes basic signal flow, the recording process, and troubleshooting skills necessary for a successful audio recording session.",
+        "Technical and Digital Skills": [
+            "Pro Tools proficiency",
+            "Basic audio editing techniques",
+            "Creating, arranging and comping tracks",
+            "Workflow optimization through shortcuts",
+            "Basic mixing techniques",
+            "Understanding of microphone choices and placement",
+            "Basic signal flow understanding",
+            "Recording process knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting audio recording sessions"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Popular Songwriting Techniques",
+        "courseCode": "MUSC 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the craft of songwriting.  Covering contemporary song forms, techniques of lyric and melody writing as well as popular harmony and analysis, the course prepares students to write hit songs.  Students will learn how to effectively demo their own songs, successfully collaborate, write jingles and copyright their own material.",
+        "Technical and Digital Skills": [
+            "Songwriting",
+            "Lyric and melody writing",
+            "Harmony and analysis",
+            "Demo creation",
+            "Jingle writing",
+            "Copyrighting material"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in songwriting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Song analysis",
+            "Creative problem solving in song composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing creative projects"
+        ]
+    },
+    {
+        "courseTitle": "Studio Recording Principles",
+        "courseCode": "MUSC 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Expanding on the digital audio workstation skills gained in MUSC 315, this course introduces the student to modern multitrack recording techniques. Topics include microphone choice and placement, recording studio signal flow, the use of a large-format console, precise and creative audio editing, file structure and organization, and the basics of signal processing. Students apply this knowledge through guided in-class activities and practical group studio sessions designed to enhance their problem-solving, communication, and critical listening skills. This course is for Bachelor of Music with Emphasis in Sound Recording Technology majors only.",
+        "Technical and Digital Skills": [
+            "Digital audio workstation skills",
+            "Modern multitrack recording techniques",
+            "Microphone choice and placement",
+            "Recording studio signal flow",
+            "Use of a large-format console",
+            "Precise and creative audio editing",
+            "File structure and organization",
+            "Basics of signal processing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group communication during studio sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving during in-class activities and practical group studio sessions",
+            "Critical listening"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of file structures",
+            "Leadership during group studio sessions"
+        ]
+    },
+    {
+        "courseTitle": "Music Theory 3",
+        "courseCode": "MUSC 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Music Theory 3 further develops skills learned previously in the theory sequence and introduces new topics including: writing and identifying diatonic sequences, spelling and resolving secondary dominants and leading-tone chords of V and scale degrees other than V, modulatory techniques (sequences, pivot chord, direct, common-tone), common-tone chords, NS chromatic modulations. Musical forms including binary, ternary, variation, Baroque forms, Sonata Form, etc. will be introduced and identification skills developed.",
+        "Technical and Digital Skills": [
+            "Writing and identifying diatonic sequences",
+            "Spelling and resolving secondary dominants and leading-tone chords of V and scale degrees other than V",
+            "Modulatory techniques including sequences, pivot chord, direct, common-tone",
+            "Understanding and applying common-tone chords and NS chromatic modulations",
+            "Identifying different musical forms such as binary, ternary, variation, Baroque forms, Sonata Form"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Sharing musical ideas and concepts with others",
+            "Presenting musical analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting different musical forms",
+            "Resolving complex musical sequences and chords",
+            "Applying modulatory techniques to solve musical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing individual music study",
+            "Leading group discussions on music theory topics"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Music Theory and Post-Tonal Compositional Techniques",
+        "courseCode": "MUSC 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics explored in this course include: part-writing advanced chromatic harmonies and modulations, altered and extended chords, twentieth-century rhythmic techniques, pitch-class sets, analyzing with modes, scales, collections, and set theory, primitivism, basics of twelve-tone theory, and composing with twelve tones. Other topics explored include theoretical elements of composing after 1945, such as graphic and text notation, chance and indeterminacy, minimalism, post-modern music, and more recent trends.",
+        "Technical and Digital Skills": [
+            "Part-writing advanced chromatic harmonies and modulations",
+            "Understanding and use of altered and extended chords",
+            "Application of twentieth-century rhythmic techniques",
+            "Understanding and analyzing with modes, scales, collections, and set theory",
+            "Comprehension of primitivism",
+            "Understanding and application of twelve-tone theory",
+            "Composing with twelve tones",
+            "Understanding and application of graphic and text notation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting and explaining complex music theoretical concepts",
+            "Collaborating on complex musical compositions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing music compositions with modes, scales, collections, and set theory",
+            "Interpreting and applying theoretical elements of composing after 1945"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing complex music compositions",
+            "Leading and directing musical compositions"
+        ]
+    },
+    {
+        "courseTitle": "Aural Skills 3",
+        "courseCode": "MUSC 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A continuation of MUSC 224 and in close connection with topics covered in MUSC 321. Topics covered include chordal and chromatic harmony as well as written and keyboard work emphasizing skill development in harmonic modulation.",
+        "Technical and Digital Skills": [
+            "Chordal harmony understanding",
+            "Chromatic harmony understanding",
+            "Written musical notation",
+            "Keyboard work",
+            "Harmonic modulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Harmonic analysis",
+            "Modulation problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Aural Skills - Tonal and Beyond",
+        "courseCode": "MUSC 324",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A continuation of MUSC 323; recommended in conjunction with MUSC 322. Further development of skills learned in MUSC 323 with an additional focus on post-tonal techniques.",
+        "Technical and Digital Skills": [
+            "Aural Recognition of Post-Tonal Techniques",
+            "Advanced Music Transcription",
+            "Enhanced Tonal Comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative Musicianship",
+            "Music Score Interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Complex Rhythm Identification",
+            "Melodic Dictation",
+            "Harmony Analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music Business and Entrepreneurship",
+        "courseCode": "MUSC 333",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Musicians in the twenty-first century must be equipped to meet the ever-changing demands of the contemporary music industry through the development of an entrepreneurial mindset and the utilization of both musical and extra-musical skills, which will allow them to create and build sustainable careers. This course offers a foundation upon which students can develop the musical careers they seek and provides first-hand experience with some of the basic tools modern musicians need to succeed.",
+        "Technical and Digital Skills": [
+            "Understanding of contemporary music industry",
+            "Utilization of musical and extra-musical tools",
+            "Development of entrepreneurial mindset"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Career building and sustainability",
+            "Collaboration with industry peers",
+            "Communication of musical ideas and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to changing demands in the music industry",
+            "Identifying opportunities for career growth and sustainability"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management for career development",
+            "Leadership in musical projects",
+            "Strategic planning for musical career"
+        ]
+    },
+    {
+        "courseTitle": "Music Technology Survey",
+        "courseCode": "MUSC 335T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This introductory course will explore the impact of technology on music performance, composition, and education through in-class lecture, hands-on demonstration, and lab projects. Topics covered include but are not limited to: basic acoustics, basic audio signal flow for live performance and recording, microphone basics for live performance and recording, an introduction to sequencing and recording software and Digital Audio Workstations, MIDI and synthesis, basics of mixing, editing, an introduction to music notation software and uses, creation of 'music minus one' projects for pedagogical purposes, and an exploration of common file formats for distribution and publication.",
+        "Technical and Digital Skills": [
+            "Understanding basic acoustics",
+            "Understanding audio signal flow for live performance and recording",
+            "Using microphones for live performance and recording",
+            "Introduction to sequencing and recording software",
+            "Understanding and using Digital Audio Workstations",
+            "Working with MIDI and synthesis",
+            "Basics of mixing and editing music",
+            "Introduction to music notation software",
+            "Creating 'music minus one' projects",
+            "Understanding common file formats for music distribution and publication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting audio signal flow",
+            "Editing and mixing soundtracks",
+            "Creating and implementing 'music minus one' projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing different music projects",
+            "Leading a music performance or recording session"
+        ]
+    },
+    {
+        "courseTitle": "Electronic Music",
+        "courseCode": "MUSC 336",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This introductory course is designed to give students a historical overview of mechanical and electronic music through topical study and listening examples.  Additionally, students will create their own electronic music compositions using analog, digital and virtual hardware/software.",
+        "Technical and Digital Skills": [
+            "Understanding of mechanical and electronic music history",
+            "Usage of analog and digital hardware",
+            "Usage of virtual hardware/software",
+            "Electronic music composition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of own electronic music composition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and contemporary electronic music",
+            "Problem solving in music composition with hardware/software"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of music creation project",
+            "Time management in composing"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Improvisation I",
+        "courseCode": "MUSC 337",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce students to the basic concepts of Jazz improvisation, including harmonic and melodic implications.",
+        "Technical and Digital Skills": [
+            "Understanding of Jazz harmonics",
+            "Comprehension of melodic implications in Jazz",
+            "Practical skills in Jazz improvisation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing musical ideas through improvisation",
+            "Collaborative improvisation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing harmonic structures",
+            "Creating melodic responses to harmonic progressions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a jazz improvisation session",
+            "Organizing musical ideas within an improvised framework"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Improvisation II",
+        "courseCode": "MUSC 338",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a continuation of MUSC 337, and will delve further into more advanced techniques used in Jazz improvisation.",
+        "Technical and Digital Skills": [
+            "Advanced Jazz improvisation techniques",
+            "Musical notation reading",
+            "Instrumental proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical collaboration",
+            "Expressing emotions through music"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem-solving",
+            "Analyzing and interpreting jazz compositions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Band ensemble coordination",
+            "Leading musical improvisation sessions"
+        ]
+    },
+    {
+        "courseTitle": "Synthesis and Sound Design Techniques for Music Production",
+        "courseCode": "MUSC 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the fascinating world of sound synthesis and sound design through practical hands-on assignments using industry-standard techniques and by exploring the technology and historical evolution. The course will focus on subtractive synthesis; a core knowledge for creating one's own sounds to use in music.",
+        "Technical and Digital Skills": [
+            "Understanding of sound synthesis",
+            "Practical application of subtractive synthesis",
+            "Sound design using industry-standard techniques",
+            "Knowledge of music production technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical evolution of sound synthesis and sound design",
+            "Creating unique sounds for music production"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing sound design projects",
+            "Leading sound design process using subtractive synthesis"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Film Music",
+        "courseCode": "MUSC 344",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for music and non-music majors interested in the fascinating world of film scoring. Through a combination of historical exploration and in-depth analysis of musical and narrative elements, students will gain a comprehensive understanding of how music enhances storytelling in the world of film and television.",
+        "Technical and Digital Skills": [
+            "Historical exploration of film scoring",
+            "Analysis of musical and narrative elements in film and television"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating complex musical concepts",
+            "Discussions on storytelling through music"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing how music enhances storytelling",
+            "Critical evaluation of film scores"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Diction for Singers",
+        "courseCode": "MUSC 345",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course dealing with correct principles of effective diction essential to the singing of English and Italian songs.  (offered every fall)",
+        "Technical and Digital Skills": [
+            "Understanding of diction principles",
+            "Proficiency in singing English and Italian songs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective vocal communication",
+            "Interpretation and delivery of song lyrics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting singing techniques for different languages",
+            "Analyzing and correcting diction errors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Diction for Singers",
+        "courseCode": "MUSC 346",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course dealing with correct principles of effective diction essential to the singing of German and French songs.  (offered every spring)",
+        "Technical and Digital Skills": [
+            "Understanding of effective diction principles",
+            "Proficiency in singing German and French songs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in German and French",
+            "Expressive singing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and correction of diction errors",
+            "Analysis of song lyrics for correct pronunciation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music Notation",
+        "courseCode": "MUSC 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the art of music notation through exploring the history of music engraving practices, hands-on experience writing music manuscript (hand-written) and the use of modern notation software (Finale, Sibelius, etc.) with MIDI implementation.",
+        "Technical and Digital Skills": [
+            "Understanding of music engraving practices",
+            "Hand-written music manuscript creation",
+            "Use of modern notation software like Finale and Sibelius",
+            "MIDI implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting and applying historical music notation practices",
+            "Troubleshooting issues with notation software"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for hands-on music writing",
+            "Project management in music manuscript creation"
+        ]
+    },
+    {
+        "courseTitle": "Critical Listening in Audio Production",
+        "courseCode": "MUSC 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students develop critical listening skills through aural analysis, ear training, drill and practice, and comparative analyses. Topics covered include spectral balance and equalization, spatial attributes and reverberation, dynamic range control, distortion and noise, audio clip edit points, analysis of sound, frequencies, effects and processing, delays and decays, and master frequencies. Students are expected to identify frequency ranges, specific audio signatures, distortion, edits, and digit manipulation through aural examinations.",
+        "Technical and Digital Skills": [
+            "Aural analysis",
+            "Ear training",
+            "Spectral balance and equalization",
+            "Spatial attributes and reverberation",
+            "Dynamic range control",
+            "Distortion and noise analysis",
+            "Audio clip editing",
+            "Frequency analysis",
+            "Audio effects and processing",
+            "Delays and decays management",
+            "Mastering frequencies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Comparative analysis",
+            "Critical listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying frequency ranges",
+            "Recognizing specific audio signatures",
+            "Detecting distortion",
+            "Identifying edits",
+            "Digit manipulation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music Production I",
+        "courseCode": "MUSC 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to give students hands-on experience working with both hardware and software in the modern MIDI Production studio. Topics covered include MIDI recording, sequencing, editing, and playback techniques, virtual instruments and hardware synthesizers, tracking and mixing in a DAW, and file formats and distribution.",
+        "Technical and Digital Skills": [
+            "Working with hardware in a MIDI Production studio",
+            "MIDI recording",
+            "Sequencing",
+            "Editing",
+            "Playback techniques",
+            "Working with virtual instruments and hardware synthesizers",
+            "Tracking and mixing in a DAW",
+            "Understanding file formats and distribution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting hardware and software issues in a MIDI Production studio"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing multiple file formats",
+            "Sequencing tasks in a MIDI Production process"
+        ]
+    },
+    {
+        "courseTitle": "History of Western Art Music from Ancient through Baroque",
+        "courseCode": "MUSC 361",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the development of western art music, from Ancient Greece through the Baroque, highlighting the influence of historical events upon musical developments.",
+        "Technical and Digital Skills": [
+            "Music analysis",
+            "Historical research",
+            "Digital music resources navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating musical concepts",
+            "Presenting historical context and influence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of musical pieces",
+            "Analyzing historical influences on musical development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent research coordination"
+        ]
+    },
+    {
+        "courseTitle": "History of Western Art Music from Classical through Modern",
+        "courseCode": "MUSC 362W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the development of western art music, from Classical through Modern, showing the influence of historical events upon musical development.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Researching historical events",
+            "Analyzing musical compositions",
+            "Writing academic papers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating complex ideas",
+            "Discussing historical context and influence",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical contexts",
+            "Interpreting musical developments",
+            "Critical thinking",
+            "Problem-solving in historical research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research materials",
+            "Planning and executing a comprehensive research project",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Music Industry Internship",
+        "courseCode": "MUSC 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An opportunity to integrate service and applied learning experience with music industry perspectives.",
+        "Technical and Digital Skills": [
+            "Understanding of music industry platforms",
+            "Digital marketing for music",
+            "Audio editing and production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Networking within the music industry",
+            "Effective communication with industry professionals",
+            "Collaboration with artist management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of music industry trends",
+            "Strategic planning for music promotion",
+            "Problem-solving in event management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in music production",
+            "Leadership in team collaborations",
+            "Organization of music events"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Combo",
+        "courseCode": "MUSC 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This ensemble will explore Jazz literature, focusing primarily on the small group format.  Previous experience with improvisation is necessary for all participants.",
+        "Technical and Digital Skills": [
+            "Jazz improvisation",
+            "Understanding of Jazz literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ensemble collaboration",
+            "Expressive musical communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Improvisation under performance pressure",
+            "Adapting to ensemble dynamics in real-time"
+        ],
+        "Organizational and Leadership Skills": [
+            "Musical arrangement for small groups",
+            "Lead or support roles within a Jazz ensemble"
+        ]
+    },
+    {
+        "courseTitle": "Ensemble",
+        "courseCode": "MUSC 371+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One to three rehearsal periods per week, depending on the ensemble.  Students will participate in rehearsals and public performances.",
+        "Technical and Digital Skills": [
+            "Musical instrument proficiency",
+            "Reading sheet music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative rehearsal",
+            "Public performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical arrangement interpretation",
+            "Performance critique and adjustment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals",
+            "Coordinating group performance"
+        ]
+    },
+    {
+        "courseTitle": "Studio class ensemble for strings",
+        "courseCode": "MUSC 372+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Studio class ensemble for strings. Meets once a week.",
+        "Technical and Digital Skills": [
+            "String instrument proficiency",
+            "Music reading abilities",
+            "Digital sheet music software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical collaboration",
+            "Non-verbal communication",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem solving",
+            "Musical interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "F. Ludwig Diehn Chorale",
+        "courseCode": "MUSC 376+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a performance-based course. It is designed to train music majors and non-majors in small ensemble choral techniques. This choral ensemble is an audition-only group.",
+        "Technical and Digital Skills": [
+            "Choral techniques",
+            "Auditioning skills",
+            "Performance skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group communication",
+            "Performance presentation",
+            "Musical expression"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical interpretation",
+            "Group harmonization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ensemble coordination",
+            "Rehearsal organization",
+            "Performance planning"
+        ]
+    },
+    {
+        "courseTitle": "Extracurricular Studies",
+        "courseCode": "MUSC 377",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Extracurricular activities may be approved for credit based on objectives, criteria, and evaluative procedures as formally determined by the department and the student prior to the semester in which the activity is to take place.  Credit is subject to review by the provost.",
+        "Technical and Digital Skills": [
+            "Understanding and applying department criteria",
+            "Evaluative procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative planning",
+            "Negotiation with faculty and department"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Objective setting",
+            "Adapting to varying extracurricular activities",
+            "Meeting evaluative standards"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing extracurricular activities",
+            "Self-management",
+            "Leadership in student activities"
+        ]
+    },
+    {
+        "courseTitle": "Symphonic Band",
+        "courseCode": "MUSC 380",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Symphonic Band is a large ensemble for woodwind, brass and percussion players open to all university students with an audition for ensemble seating. Students will participate in rehearsals and concerts.",
+        "Technical and Digital Skills": [
+            "Playing woodwind instruments",
+            "Playing brass instruments",
+            "Playing percussion instruments",
+            "Music rehearsal techniques",
+            "Concert performance techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative ensemble performance",
+            "Non-verbal communication during performances"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music interpretation",
+            "Adapting to ensemble dynamics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following conductor's leadership",
+            "Organizing personal practice schedule",
+            "Maintaining concert etiquette"
+        ]
+    },
+    {
+        "courseTitle": "Concert Choir",
+        "courseCode": "MUSC 381+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Participation in rehearsals and public performances of the Concert Choir.",
+        "Technical and Digital Skills": [
+            "Musical notation reading",
+            "Voice control",
+            "Pitch recognition",
+            "Harmonic blending"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performance etiquette",
+            "Audience engagement",
+            "Team collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem solving",
+            "Performance critique and feedback integration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals",
+            "Self-discipline",
+            "Singing in a group setting"
+        ]
+    },
+    {
+        "courseTitle": "Wind Ensemble",
+        "courseCode": "MUSC 382+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Participation in rehearsals and public performances of the band.  Three rehearsal periods per week.",
+        "Technical and Digital Skills": [
+            "Instrument playing techniques",
+            "Musical notation reading",
+            "Digital music recording and editing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ensemble cooperation",
+            "Musical interpretation communication",
+            "Public performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music piece analysis",
+            "Troubleshooting music performance issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Rehearsal organization",
+            "Leading sectional practices",
+            "Coordinating public performances"
+        ]
+    },
+    {
+        "courseTitle": "Symphony Orchestra",
+        "courseCode": "MUSC 383+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Participation in rehearsals and public performances of the University Symphony Orchestra.  Rehearsals two days per week and dress rehearsals TBA.",
+        "Technical and Digital Skills": [
+            "Instrument playing",
+            "Music reading",
+            "Rehearsal participation",
+            "Public performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with orchestra members",
+            "Communication with conductor",
+            "Performance etiquette"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of musical scores",
+            "Adapting to tempo changes",
+            "Performance adjustments based on feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals",
+            "Discipline and commitment",
+            "Leadership in ensemble sections"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Orchestra",
+        "courseCode": "MUSC 384+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This instrumental group will explore and perform standard jazz literature for the Jazz Ensemble and the contemporary Jazz Orchestra.",
+        "Technical and Digital Skills": [
+            "Reading standard jazz literature",
+            "Performing jazz ensemble pieces",
+            "Understanding contemporary jazz orchestra compositions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative performance",
+            "Musical expression"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting musical scores",
+            "Improvisation in jazz"
+        ],
+        "Organizational and Leadership Skills": [
+            "Performance coordination",
+            "Leading ensemble sections"
+        ]
+    },
+    {
+        "courseTitle": "Monarch Basketball Band",
+        "courseCode": "MUSC 385+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Basketball band performs at all home Men's and Women's basketball games and selected tournament performances.",
+        "Technical and Digital Skills": [
+            "Musical instrument proficiency",
+            "Sound system operation",
+            "Digital music sheet usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team coordination",
+            "Public performance",
+            "Non-verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quick adaptation to new music pieces",
+            "Problem-solving during live performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for synchronized performances",
+            "Leadership in group performance"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Choir",
+        "courseCode": "MUSC 386+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Vocal jazz ensemble, performing standard jazz choir literature.",
+        "Technical and Digital Skills": [
+            "Vocal techniques",
+            "Understanding of jazz choir literature",
+            "Performance of jazz music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performing in a group",
+            "Effective auditory communication",
+            "Non-verbal communication during performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting and executing musical notation",
+            "Improvisation during performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating performances",
+            "Following conductor's guidance",
+            "Time management during rehearsals and performances"
+        ]
+    },
+    {
+        "courseTitle": "Madrigal Singers",
+        "courseCode": "MUSC 388+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Small vocal ensemble focusing on a cappella classical music.",
+        "Technical and Digital Skills": [
+            "Understanding of classical music structures",
+            "A capella vocal techniques",
+            "Harmony and counterpoint",
+            "Pitch control",
+            "Tone production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging audience through performance",
+            "Collaborative singing",
+            "Non-verbal communication skills",
+            "Intra-group coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of musical score",
+            "Improvisation and adaptation in performance",
+            "Error detection and correction in singing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following conductor's cues",
+            "Adherence to ensemble protocols",
+            "Time management and punctuality"
+        ]
+    },
+    {
+        "courseTitle": "Brass Choir",
+        "courseCode": "MUSC 389+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Brass Ensemble consisting of trumpets, horns, trombones, euphoniums, and tubas.  Performing works written for brass as well as  arrangements of choral, orchestral, jazz, pop, and show music.",
+        "Technical and Digital Skills": [
+            "Playing various brass instruments",
+            "Interpretation of different musical genres",
+            "Music arrangement skills",
+            "Understanding of musical notation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ensemble playing",
+            "Listening skills",
+            "Non-verbal communication",
+            "Collaboration with diverse group of musicians"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem solving",
+            "Ability to analyze and interpret musical pieces",
+            "Adapting to different musical styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals",
+            "Following a conductor's guidance",
+            "Leading a section of the ensemble"
+        ]
+    },
+    {
+        "courseTitle": "Monarch Marching Band",
+        "courseCode": "MUSC 390",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The Monarch Marching Band will meet only during the fall semester and perform at all home and some away football games and other selected events.  Students will participate in rehearsals and performances.",
+        "Technical and Digital Skills": [
+            "Playing musical instruments",
+            "Reading sheet music",
+            "Understanding marching band formations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordinating with band members",
+            "Responding to conductor's cues",
+            "Performing in public"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to changing performance environments",
+            "Improvising in case of mistakes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals and performances",
+            "Leadership in band sections"
+        ]
+    },
+    {
+        "courseTitle": "Commercial Music Ensemble",
+        "courseCode": "MUSC 391+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An ensemble comprised of a rhythm section and a few vocalists. Students will play musical covers and original songs in weekly rehearsals, and performs a live concert and/or records in the studio. Can be taken a maximum of 2 times for credit.",
+        "Technical and Digital Skills": [
+            "Music performance",
+            "Sound recording",
+            "Musical arrangement",
+            "Instrument playing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration",
+            "Live performance",
+            "Verbal communication with band members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music composition",
+            "Improvisation",
+            "Adapting to change in live performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Band coordination",
+            "Time management",
+            "Performance planning"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Music",
+        "courseCode": "MUSC 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for credit within a major.  These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Music analysis",
+            "Understanding of different music genres",
+            "Basic knowledge of music theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Articulating musical concepts",
+            "Discussion participation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of musical pieces",
+            "Critical evaluation of music"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Music",
+        "courseCode": "MUSC 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for credit within a major.  These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Understanding of various music genres",
+            "Knowledge of music history",
+            "Ability to analyze music composition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of musical concepts",
+            "Discussion of music themes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of musical compositions",
+            "Critical evaluation of music"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Music",
+        "courseCode": "MUSC 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "music-related software usage",
+            "digital note-taking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Regular communication with instructor",
+            "presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection",
+            "critical analysis of music-related topics",
+            "problem-solving in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "time management",
+            "project organization"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Music",
+        "courseCode": "MUSC 398",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital music resources navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Topic selection and development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project-oriented learning"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Elementary Vocal and General Methods",
+        "courseCode": "MUSC 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to student teaching for all students in music education.  Focuses on  materials and methods of vocal and general instruction for elementary music classrooms. (offered fall semesters)",
+        "Technical and Digital Skills": [
+            "Knowledge of vocal and general music instruction materials",
+            "Utilization of digital tools for music education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively teaching music to elementary students",
+            "Communicating complex musical concepts in an understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting music teaching methods to diverse student needs",
+            "Evaluating the effectiveness of different music teaching materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and structuring music lessons",
+            "Leading music classroom activities"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Practicum (Elementary Vocal and General)",
+        "courseCode": "MUSC 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to the Teacher Candidate Internship (student teaching) for all students in music education. Enables students to observe master classroom teachers and to test accumulated teaching practices in elementary school vocal and general classroom settings. 20 hours of music classroom observation required. Also, in order to receive the required school practicum placement, students must have completed the ODU Office of Clinical Experiences background check/clearance process prior to the beginning of this course. The clearance process takes eight weeks. Students must register for the practicum placement on the Office of Clinical Experiences web pages prior to the course drop/add deadline. Students should contact their advisor for more information. (offered fall and spring semesters)",
+        "Technical and Digital Skills": [
+            "Classroom observation techniques",
+            "Application of accumulated teaching practices",
+            "Familiarity with standard background check procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with master teachers",
+            "Classroom interaction with elementary school students",
+            "Collaboration with the Office of Clinical Experiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of teaching strategies in real-world situations",
+            "Adaptability to various classroom settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Meeting practicum placement registration deadlines",
+            "Management of practicum hours",
+            "Leadership in elementary school vocal and general classroom settings"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Secondary Vocal Methods",
+        "courseCode": "MUSC 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to the Teacher Candidate Internship (student teaching) for all students in music education with voice, keyboard or guitar concentration. Focuses on methods of vocal instruction, materials and rehearsal methods for secondary vocal classroom settings. (offered spring semesters)",
+        "Technical and Digital Skills": [
+            "Vocal instruction methods",
+            "Understanding of voice, keyboard or guitar concentration",
+            "Knowledge of rehearsal methods for secondary vocal classroom settings",
+            "Familiarity with materials relevant to secondary vocal music education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to convey musical concepts to students",
+            "Effective communication in teacher-student scenarios",
+            "Adaptability to different learning styles and abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of teaching methods based on individual student needs",
+            "Ability to assess and improve vocal techniques",
+            "Analysis of student progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management in a musical setting",
+            "Planning and organizing music lessons",
+            "Leading rehearsals"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Practicum (Secondary Vocal)",
+        "courseCode": "MUSC 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to student teaching for all students in music education with voice, keyboard or guitar concentration. Enables students to observe master teachers and to test accumulated teaching practices in secondary school vocal classroom settings. 20 hours of observation required. Passing score of 160 on the Praxis Subject assessment, music content knowledge examination (formerly Praxis II) and passing scores on the VCLA are requirements of this course.  Also, in order to receive the required school practicum placement, students must have completed the ODU Office of Clinical Experiences background check/clearance process prior to the beginning of this course. The clearance process takes eight weeks. Students must register for the practicum placement on the Office of Clinical Experiences web pages prior to the course drop/add deadline. Students should contact their advisor for more information. (offered fall and spring semesters).",
+        "Technical and Digital Skills": [
+            "Music content knowledge",
+            "Voice, keyboard or guitar proficiency",
+            "Knowledge of teaching practices for secondary school vocal settings",
+            "Understanding of Praxis Subject assessment and VCLA requirements",
+            "Ability to navigate and register on the Office of Clinical Experiences web pages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to observe and learn from master teachers",
+            "Communication with secondary school students in a vocal classroom setting",
+            "Interacting with advisor for course-related information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to adapt teaching practices based on observed methods",
+            "Analyzing and understanding music content knowledge examination"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and completing the ODU Office of Clinical Experiences background check/clearance process",
+            "Organizing time to complete 20 hours of observation",
+            "Leadership in a secondary school vocal classroom setting"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Secondary Instrumental Methods",
+        "courseCode": "MUSC 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to the Teacher Candidate Internship (student teaching) for all students in music education with an instrumental music concentration.  Focuses on methods of instruction, materials and rehearsal methods for secondary instrumental classrooms. (offered spring semesters)",
+        "Technical and Digital Skills": [
+            "Understanding of instrumental music instruction methods",
+            "Knowledge of relevant materials for music education",
+            "Familiarity with rehearsal methods for secondary instrumental classrooms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate effective instructional methods",
+            "Interpersonal skills for managing student relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to adapt instruction methods to different classroom needs",
+            "Problem-solving skills in handling rehearsals and teaching situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership skills in conducting rehearsals",
+            "Organizational skills in preparing materials and plans for music education"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Practicum (Secondary Instrumental)",
+        "courseCode": "MUSC 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to the Teacher Candidate Internship (student teaching) for all students in music education with instrumental music concentration. Enables students to observe master teachers and to test accumulated teaching practices in secondary school instrumental classrooms. Passing score of 160 on the Praxis Subject assessment, music content knowledge examination (formerly Praxis II) and passing scores on the VCLA are requirements of this course. Also, in order to receive the required school practicum placement, students must have completed the ODU Office of Clinical Experiences background check/clearance process prior to the beginning of this course. The clearance process takes eight weeks. Students must register for the practicum placement on the Office of Clinical Experiences web pages prior to the course drop/add deadline. Students should contact their advisor for more information. Offered fall and spring semesters.",
+        "Technical and Digital Skills": [
+            "Instrumental music techniques",
+            "Understanding of Praxis Subject assessment",
+            "Knowledge of VCLA scores",
+            "Understanding of ODU Office of Clinical Experiences background check/clearance process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Observational skills for master teachers",
+            "Effective communication in a classroom setting",
+            "Building rapport with secondary school students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critiquing and improving teaching practices",
+            "Analyzing music content knowledge",
+            "Adaptability to different classroom environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Teaching leadership",
+            "Organizing practicum placement",
+            "Planning and executing lesson plans"
+        ]
+    },
+    {
+        "courseTitle": "Music Education: Instrumental Techniques",
+        "courseCode": "MUSC 409",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required prior to the Teacher Candidate Internship (student teaching) for all students in music education with the vocal, keyboard and guitar concentration. Focuses on development of vocal majors' ability to read instrumental scores; provides vocal majors an understanding of families of instruments.",
+        "Technical and Digital Skills": [
+            "Instrumental score reading",
+            "Understanding of different families of instruments",
+            "Vocal techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching music techniques",
+            "Communicating musical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting instrumental scores",
+            "Analyzing different families of instruments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning music lessons",
+            "Leading music sessions"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of Music",
+        "courseCode": "MUSC 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to assist students in enhancing their understanding of the aesthetic response to music in various settings.  Students will learn to integrate their understanding of musical aptitude as it relates to human growth and development.  In addition, students will study the psychological implication of personality types as they develop, implement, and assess their pedagogical approach.",
+        "Technical and Digital Skills": [
+            "Understanding of musical aptitude",
+            "Application of music in different settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting the impact of music in human growth and development",
+            "Implementing pedagogical methodology in relation to music"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing pedagogical approach in relation to music",
+            "Analyzing the psychological implications of personality types in relation to music"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing pedagogical approach based on psychological insights",
+            "Integrating musical understanding within educational settings"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Choral Conducting",
+        "courseCode": "MUSC 413",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course deals with the analysis, interpretation, and conducting of varied choral literature.",
+        "Technical and Digital Skills": [
+            "Analysis of choral literature",
+            "Interpretation of choral literature",
+            "Conducting Techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating musical intent",
+            "Leading choral rehearsals",
+            "Collaborating with accompanists and soloists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem-solving",
+            "Analytical listening",
+            "Interpreting musical scores"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing choral rehearsals",
+            "Leading a choral group",
+            "Planning concert programs"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Instrumental Conducting",
+        "courseCode": "MUSC 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course deals with the analysis, interpretation, and conducting of varied instrumental literature.",
+        "Technical and Digital Skills": [
+            "Instrumental literature analysis",
+            "Instrumental conducting",
+            "Music interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying musical interpretations",
+            "Coordinating with musicians"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing musical compositions",
+            "Identifying and interpreting musical patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading musical ensembles",
+            "Organizing rehearsals",
+            "Managing musical performances"
+        ]
+    },
+    {
+        "courseTitle": "The Art and Craft of Mixing",
+        "courseCode": "MUSC 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, students learn how to mix music that supports the emotion of the song and engages listeners. Topics include effective session preparation, advanced editing techniques, musical balancing, creative use of audio effects, and automation techniques. Students will work with pre-recorded multitracks, completing numerous mixes using plug-ins and outboard signal processors, and will receive in-depth critical feedback from their instructor and peers. Through this process, students will develop the critical listening and technical skills to confidently creatively shape sound. This course is for Bachelor of Music with Emphasis in Sound Recording Technology majors only.",
+        "Technical and Digital Skills": [
+            "Mixing music",
+            "Session preparation",
+            "Advanced editing techniques",
+            "Musical balancing",
+            "Creative use of audio effects",
+            "Automation techniques",
+            "Working with pre-recorded multitracks",
+            "Using plug-ins and outboard signal processors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Providing critical feedback",
+            "Receiving critical feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical listening",
+            "Confidently creatively shaping sound"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Arranging for the Contemporary Musician and Producer",
+        "courseCode": "MUSC 416",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students learn how to arrange music for rhythm sections, vocals, and diverse ensembles, including brass, woodwinds and strings. This course uniquely addresses the evolving landscape of modern music production, bridging the gap between virtual instruments and recording musicians in the studio. As the recording process evolves, so do the demands on musical arrangement and orchestration. This course provides students with the essential tools and techniques to adapt their arrangements to meet the needs of contemporary recording processes.",
+        "Technical and Digital Skills": [
+            "Music arrangement for diverse ensembles",
+            "Understanding of modern music production",
+            "Proficiency in virtual instruments",
+            "Knowledge of contemporary recording processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with musicians in a studio setting",
+            "Effective communication of arrangement ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting arrangements to meet recording needs",
+            "Analyzing the requirements of different musical sections",
+            "Creating solutions for evolving recording processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting and leading diverse ensembles",
+            "Organizing music arrangements for multiple instrument types"
+        ]
+    },
+    {
+        "courseTitle": "Music Production Techniques",
+        "courseCode": "MUSC 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a comprehensive exploration of record production, focusing on creative and technical aspects. Topics include pre-production, song arrangement choices, collaboration with artists, and advanced mixing skills. The final project involves planning, producing, and presenting a complete music production project, with peer feedback and analysis. Students in this course will develop essential skills for successful music careers, emphasizing creativity and technical proficiency.",
+        "Technical and Digital Skills": [
+            "Record production",
+            "Song arrangement",
+            "Collaboration with artists",
+            "Advanced mixing skills",
+            "Music project planning and producing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with artists",
+            "Presenting music production projects",
+            "Giving and receiving peer feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Making song arrangement choices",
+            "Creative problem-solving in music production",
+            "Analyzing peer feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing music production projects",
+            "Leading creative collaborations"
+        ]
+    },
+    {
+        "courseTitle": "Counterpoint",
+        "courseCode": "MUSC 421",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the contrapuntal techniques of sixteenth century composers and their influence upon composers of the eighteenth through twentieth centuries.  (offered fall, even years)",
+        "Technical and Digital Skills": [
+            "Understanding of Sixteenth Century Contrapuntal Techniques",
+            "Knowledge of Eighteenth to Twentieth Century Composers' Techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Historical Musical Techniques",
+            "Critical Evaluation of Composers' Influences"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Form and Analysis",
+        "courseCode": "MUSC 422/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural analysis study and analysis of the principal traditional musical forms.  Stylistic and harmonic analysis as it related to score study will be discussed.  (offered spring, even years)",
+        "Technical and Digital Skills": [
+            "Aural analysis",
+            "Stylistic and harmonic analysis",
+            "Score study"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Musical form analysis",
+            "Harmonic pattern identification"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Orchestration",
+        "courseCode": "MUSC 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the range, musical functions, and technical characteristics of the instruments and their color possibilities in various combinations. Practical experience in scoring for small and large ensembles.  (offered fall, odd years)",
+        "Technical and Digital Skills": [
+            "Understanding musical functions",
+            "Knowledge of technical characteristics of instruments",
+            "Practical scoring for small and large ensembles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative work in ensembles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing instrument color possibilities in various combinations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing different instruments in an ensemble"
+        ]
+    },
+    {
+        "courseTitle": "Marching Band Techniques and Arranging",
+        "courseCode": "MUSC 426/526",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will learn how to chart and arrange music for the marching band.  In addition, basic vocal arranging techniques will be discussed.  Students will be required to observe different styles of school marching bands.",
+        "Technical and Digital Skills": [
+            "Music charting",
+            "Music arranging",
+            "Understanding of vocal arranging techniques",
+            "Observation and analysis of different marching band styles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of musical ideas",
+            "Adaptability to different styles and techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical listening",
+            "Critical evaluation of musical arrangements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and structuring music arrangements",
+            "Leadership in directing and coordinating band performances"
+        ]
+    },
+    {
+        "courseTitle": "Music Production II",
+        "courseCode": "MUSC 435",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course builds upon the fundamentals experienced in the introductory MIDI course.  Topics include: advanced sequencing techniques, looping, editing, data manipulation, patch and control changes through real-time recording, patch editing, storage and retrieval, incorporation of external hardware, sampling, and an introduction to the incorporation of digital audio.",
+        "Technical and Digital Skills": [
+            "Advanced sequencing techniques",
+            "Looping",
+            "Editing",
+            "Data manipulation",
+            "Patch and control changes through real-time recording",
+            "Patch editing",
+            "Storage and retrieval",
+            "Incorporation of external hardware",
+            "Sampling",
+            "Introduction to the incorporation of digital audio"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in sequencing techniques",
+            "Analytical skills in data manipulation",
+            "Problem-solving in storage and retrieval",
+            "Analytical skills in patch editing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing external hardware",
+            "Leadership in controlling real-time recording",
+            "Organizing digital audio incorporation"
+        ]
+    },
+    {
+        "courseTitle": "Scoring for Film",
+        "courseCode": "MUSC 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a hands-on course in the art of film composition. Students will analyze iconic film scores from Bernard Herrmann to John Powell, exploring music's narrative impact, gain insight into the modern composer’s workflow and diverse skill sets, and apply the techniques learned in practical projects, transitioning from sketch to demo using a DAW. The course culminates in a recording session for the final project. This projects allows students to practice film spotting, thematic writing, sketch to demo production, arranging and music preparation for a live recording experience. Students elevate their skills in writing music that uniquely supports and enhances visual storytelling.",
+        "Technical and Digital Skills": [
+            "Film composition",
+            "Analysis of iconic film scores",
+            "Application of music to narrative",
+            "Understanding and applying a modern composer’s workflow",
+            "Transitioning from sketch to demo using a DAW",
+            "Film spotting",
+            "Thematic writing",
+            "Arranging music",
+            "Music preparation for a live recording experience"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration during recording sessions",
+            "Understanding and interpreting the narrative requirements for music composition"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and evaluation of film scores",
+            "Applying techniques learned in practical projects",
+            "Evaluating and enhancing music that supports visual storytelling"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and executing a final project",
+            "Leading a recording session"
+        ]
+    },
+    {
+        "courseTitle": "Applied Music Pedagogy",
+        "courseCode": "MUSC 445/545",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Teaching techniques, literature in the performing area.  Seminar deals with resource materials.  Laboratory:  observation and teaching under supervision.",
+        "Technical and Digital Skills": [
+            "Teaching techniques",
+            "Literature analysis in the performing area",
+            "Utilization of resource materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supervised teaching",
+            "Seminar presentation",
+            "Observational learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing teaching resources",
+            "Identifying suitable teaching techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leading seminar discussions",
+            "Organizing teaching resources"
+        ]
+    },
+    {
+        "courseTitle": "Applied Music Literature",
+        "courseCode": "MUSC 446",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Teaching techniques, literature in the performing area.  Seminar portion of the course deals with resource materials.  Laboratory portion of the course includes observation and teaching under supervision.",
+        "Technical and Digital Skills": [
+            "Teaching techniques",
+            "Use of resource materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying musical concepts",
+            "Instructional communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of music literature",
+            "Adapting teaching methods based on observation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Instructional leadership under supervision"
+        ]
+    },
+    {
+        "courseTitle": "History of Jazz",
+        "courseCode": "MUSC 460/560",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will study the historical development of jazz as an American art form.  The emotion and meaning of this style will be investigated as well as the historical and contemporary aesthetic response.  Emphasis will include the defining role of African American artists.  The influence of jazz on the development of contemporary American music will be discussed.  Written critiques of live performances will be required.",
+        "Technical and Digital Skills": [
+            "Music critique writing",
+            "Historical research",
+            "Online research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural appreciation",
+            "Articulating historical and contemporary aesthetic responses",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of music performances",
+            "Analysis of historical developments",
+            "Interpretation of cultural influences"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "History of Recorded Music",
+        "courseCode": "MUSC 461/561",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course covers how music has co-evolved with technology, the entertainment business, and cultural trends. The main theme is how recording technology has evolved, and with it, the music making and music listening experiences. Students will expand their musical vocabulary through the study of numerous musical genres, listening to and discussing the essential elements of impactful records, and learning about key artists, composers, producers, engineers, and other music professionals (both past and present). Students will gain a better understanding of the role music plays in the entertainment industry, including with film, TV, games, social media, live events, and more.",
+        "Technical and Digital Skills": [
+            "Understanding of recording technology evolution",
+            "Knowledge of various musical genres",
+            "Insights into the role of music in different entertainment platforms",
+            "Awareness of the music making and music listening experiences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of essential elements of impactful records",
+            "Appreciation and knowledge sharing about key artists, composers, producers, engineers, and other music professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of the co-evolution of music and technology",
+            "Understanding the impact of cultural trends on music"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Hip-Hop Music and Culture",
+        "courseCode": "MUSC 462/562",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Hip-hop, from local roots to global dominance, has sparked extensive journalistic and academic exploration primarily focused on its social and cultural impacts. This course delves into the historical factors shaping hip-hop's origin and evolution, examines its global success and translation both musically and linguistically, and engages in contemplation regarding the essence and direction of hip-hop. No prior musical experience or knowledge of music notation is required, but students will develop a basic set of skills for discussing the structure and function of hip-hop songs.",
+        "Technical and Digital Skills": [
+            "Understanding of hip-hop music structure",
+            "Basic music notation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and analysis of hip-hop songs",
+            "Exploration of social and cultural impacts of hip-hop"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical factors shaping hip-hop",
+            "Critical contemplation on the essence and direction of hip-hop"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Music of the 20th Century to the Present",
+        "courseCode": "MUSC 466/566",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the techniques and styles in music in the twentieth and twenty-first century (offered spring).",
+        "Technical and Digital Skills": [
+            "Understanding of different music techniques",
+            "Knowledge of various music styles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and articulate understanding of music techniques and styles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical listening",
+            "Critical evaluation of music structures and styles"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music History from the Ancient to Baroque Era",
+        "courseCode": "MUSC 491/591",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of music history (specific topics vary) including historical perspective in relation to style and development of music, and the function of music in society and culture.  Topics will be from the Ancient through the Baroque era (offered fall semester).",
+        "Technical and Digital Skills": [
+            "Historical research techniques",
+            "Music analysis",
+            "Understanding of different musical styles and their development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating historical and musical concepts",
+            "Critical discussion of musical pieces"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical context of musical pieces",
+            "Critical thinking and interpretation of music history"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Organizing and presenting historical research"
+        ]
+    },
+    {
+        "courseTitle": "Music History from the Classical through Modern Era",
+        "courseCode": "MUSC 492/592",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of music history (specific topics vary) including historical perspective in relation to style and development of music, and the function of music in society and culture.  Topics will be from the Classical through Modern era.",
+        "Technical and Digital Skills": [
+            "Historical music analysis",
+            "Understanding of various music styles",
+            "Knowledge of music development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of historical findings",
+            "Discussion and interpretation of music pieces"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of music pieces",
+            "Analysis of music's role within society and culture"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Music in the Romantic Era",
+        "courseCode": "MUSC 494/594",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of music history from the late works of Beethoven to Mahler and Strauss.  A discussion of musical style within the context of cultural history. (spring semesters, even years)",
+        "Technical and Digital Skills": [
+            "Historical music interpretation",
+            "Understanding of musical style",
+            "Knowledge of Beethoven, Mahler, and Strauss' works"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Articulating historical and cultural context",
+            "Presenting musical interpretations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing musical style within historical context",
+            "Comparative analysis of different composers' works",
+            "Critical evaluation of musical pieces"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Music",
+        "courseCode": "MUSC 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Music",
+        "courseCode": "MUSC 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Music theory knowledge",
+            "Music composition software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent research",
+            "Critical analysis of music topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Music",
+        "courseCode": "MUSC 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Writing academic papers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of musical works",
+            "Problem-solving in music theory or history"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-guided study",
+            "Meeting deadlines for papers and conferences"
+        ]
+    },
+    {
+        "courseCode": "MUSC 510",
+        "courseTitle": "Psychology of Music",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to assist students in enhancing their understanding of the aesthetic response to music in various settings.  Students will learn to integrate their understanding of musical aptitude as it relates to human growth and development.  In addition, students will study the psychological implication of personality types as they develop, implement, and assess their pedagogical approach.",
+        "Technical and Digital Skills": [
+            "Integration of musical aptitude knowledge",
+            "Application of pedagogical approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding personality types",
+            "Communicating aesthetic responses"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of pedagogical approaches",
+            "Analysis of human growth and development patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of pedagogical approach",
+            "Managing different personality types in various settings"
+        ]
+    },
+    {
+        "courseCode": "MUSC 522",
+        "courseTitle": "Form and Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Aural analysis study and analysis of the principal traditional musical forms.  Stylistic and harmonic analysis as it related to score study will be discussed.",
+        "Technical and Digital Skills": [
+            "Aural analysis study",
+            "Stylistic analysis",
+            "Harmonic analysis",
+            "Score study"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Musical form analysis",
+            "Stylistic interpretation",
+            "Harmonic interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 526",
+        "courseTitle": "Marching Band Techniques and Arranging",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn how to chart and arrange music for the marching band. In addition, basic vocal arranging techniques will be discussed. Students will be required to observe different styles of school marching bands.",
+        "Technical and Digital Skills": [
+            "Charting music for marching band",
+            "Vocal arranging techniques",
+            "Recognizing and differentiating marching band styles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Observation and analysis of different school marching band styles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting music arrangements to fit band style",
+            "Problem solving in arranging complex music charts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing music pieces for band performance",
+            "Leading a music arrangement process"
+        ]
+    },
+    {
+        "courseCode": "MUSC 540",
+        "courseTitle": "Scoring for Film",
+        "academicLevel": "graduate",
+        "courseDescription": "This is a hands-on course in the art of film composition. Students will analyze iconic film scores from Bernard Herrmann to John Powell, exploring music's narrative impact, gain insight into the modern composer’s workflow and diverse skill sets, and apply the techniques learned in practical projects, transitioning from sketch to demo using a DAW. The course culminates in a recording session for the final project. This projects allows students to practice film spotting, thematic writing, sketch to demo production, arranging and music preparation for a live recording experience. Students elevate their skills in writing music that uniquely supports and enhances visual storytelling.",
+        "Technical and Digital Skills": [
+            "Film composition",
+            "Film scoring",
+            "Thematic writing",
+            "Use of Digital Audio Workstation (DAW)",
+            "Music arrangement",
+            "Music preparation for live recording",
+            "Transitioning from sketch to demo"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in recording sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing film scores",
+            "Film spotting",
+            "Creation of music that supports and enhances visual storytelling"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for practical projects",
+            "Leading a live recording session"
+        ]
+    },
+    {
+        "courseCode": "MUSC 545",
+        "courseTitle": "Applied Music Pedagogy",
+        "academicLevel": "graduate",
+        "courseDescription": "Teaching techniques, literature in the performing area.  Seminar deals with resource materials.  Laboratory:  observation and teaching under supervision.",
+        "Technical and Digital Skills": [
+            "Understanding and utilizing resource materials",
+            "Teaching techniques",
+            "Knowledge of literature in the performing areas"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supervised teaching",
+            "Communicating complex information about music performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting music literature",
+            "Adapting teaching techniques to individual students"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and instructing during laboratory sessions",
+            "Supervising and directing music performances"
+        ]
+    },
+    {
+        "courseCode": "MUSC 560",
+        "courseTitle": "History of Jazz",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will study the historical development of jazz as an American art form.  The emotion and meaning of this style will be investigated as well as the historical and contemporary aesthetic response.  Emphasis will include the defining role of African American artists.  The influence of jazz on the development of contemporary American music will be discussed. A research paper will be required.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Writing research papers",
+            "Analysis of historical and contemporary aesthetic responses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral and written communication",
+            "Cultural sensitivity and appreciation",
+            "Interpreting and conveying complex historical and artistic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Critical evaluation of music and art",
+            "Analysis of cultural influence and impact"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent learning",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseCode": "MUSC 561",
+        "courseTitle": "History of Recorded Music",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers how music has co-evolved with technology, the entertainment business, and cultural trends. The main theme is how recording technology has evolved, and with it, the music making and music listening experiences. Students will expand their musical vocabulary through the study of numerous musical genres, listening to and discussing the essential elements of impactful records, and learning about key artists, composers, producers, engineers, and other music professionals (both past and present). Students will gain a better understanding of the role music plays in the entertainment industry, including with film, TV, games, social media, live events, and more.",
+        "Technical and Digital Skills": [
+            "Knowledge of various musical genres",
+            "Understanding of evolving recording technology",
+            "Understanding of music's role in various entertainment mediums"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing and analyzing essential elements of impactful records",
+            "Learning about key music professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cultural trends and their impact on music",
+            "Understanding and analyzing the co-evolution of music and technology"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 562",
+        "courseTitle": "Hip-Hop Music and Culture",
+        "academicLevel": "graduate",
+        "courseDescription": "Hip-hop, from local roots to global dominance, has sparked extensive journalistic and academic exploration primarily focused on its social and cultural impacts. This course delves into the historical factors shaping hip-hop's origin and evolution, examines its global success and translation both musically and linguistically, and engages in contemplation regarding the essence and direction of hip-hop. No prior musical experience or knowledge of music notation is required, but students will develop a basic set of skills for discussing the structure and function of hip-hop songs.",
+        "Technical and Digital Skills": [
+            "Understanding of hip-hop music structure",
+            "Basic music notation skills",
+            "Understanding of musical and linguistic translation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on cultural impact",
+            "Understanding and conveying complex cultural concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and cultural factors",
+            "Critical thinking on the evolution and direction of hip-hop"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 571",
+        "courseTitle": "Musicians' Health: Music and Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to assist music students to enhance their understanding of musicians' health issues in order to prepare them to achieve their desired performance potential.",
+        "Technical and Digital Skills": [
+            "Understanding of musicians' health issues",
+            "Knowledge of performance enhancement techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of health issues to other musicians",
+            "Empathy for health-related challenges faced by musicians"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and mitigation of health issues affecting musical performance",
+            "Analysis of performance potential and underlying health factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management of health for consistent performance",
+            "Advocacy for musicians' health within a musical ensemble or organization"
+        ]
+    },
+    {
+        "courseCode": "MUSC 591",
+        "courseTitle": "Music History from the Ancient to Baroque Era",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of music history (specific topics vary) including historical perspective in relation to style and development of music, and the function of music in society and culture.  Topics will be from the Ancient through the Baroque era (offered fall semester).",
+        "Technical and Digital Skills": [
+            "Historical music analysis",
+            "Knowledge of music development from Ancient to Baroque Era"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of music historical findings",
+            "Discussion about the role of music in society and culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of musical style evolution",
+            "Understanding of the societal and cultural influences on music"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Leading discussions on music history topics"
+        ]
+    },
+    {
+        "courseCode": "MUSC 592",
+        "courseTitle": "Music History from the Classical through Modern Era",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of music history (specific topics vary) including historical perspective in relation to style and development of music, and the function of music in society and culture.  Topics will be from the Classical through Modern era.",
+        "Technical and Digital Skills": [
+            "Researching historical music topics",
+            "Identifying musical style and development trends",
+            "Understanding the role of music in various cultural contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting music history findings",
+            "Discussing music history topics",
+            "Debating different perspectives on music development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical music styles",
+            "Interpreting the societal impact of music",
+            "Critical evaluation of music development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research findings",
+            "Leading group discussions on music history"
+        ]
+    },
+    {
+        "courseCode": "MUSC 594",
+        "courseTitle": "Music in the Romantic Era",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of music history from the late works of Beethoven to Mahler and Strauss.  A discussion of musical style within the context of cultural history. (offered spring, even years)",
+        "Technical and Digital Skills": [
+            "Music historical analysis",
+            "Understanding of musical styles of the Romantic period",
+            "Knowledge of works by Beethoven, Mahler, and Strauss"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of musical styles within cultural history context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical listening",
+            "Critical evaluation of musical works"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 600",
+        "courseTitle": "Introduction to Graduate Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course should be taken among the first courses in the Master of Music Education program.  Introduces graduate students to basic skills in Music Education research, including bibliographic searches, on-line searches, computer data analysis, and conventions of scholarly writing for reporting findings.",
+        "Technical and Digital Skills": [
+            "Bibliographic searches",
+            "Online searches",
+            "Computer data analysis",
+            "Scholarly writing for reporting findings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Research problem identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Adherence to scholarly conventions"
+        ]
+    },
+    {
+        "courseCode": "MUSC 602",
+        "courseTitle": "Analytical Techniques",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines techniques and concepts applied to compositions of the eighteenth, nineteenth, and twentieth centuries as well as modern music, through analysis of contrapuntal and harmonic textures, form, and performance practice.",
+        "Technical and Digital Skills": [
+            "Analysis of contrapuntal and harmonic textures",
+            "Understanding of eighteenth, nineteenth, and twentieth centuries compositions",
+            "Performance practice in modern music"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of music compositions",
+            "Problem-solving through music analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 603",
+        "courseTitle": "Principles of Music Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Methods, techniques, principles, and tools of music education, with reference to various types of school situations.",
+        "Technical and Digital Skills": [
+            "Understanding of various music education methods",
+            "Proficiency in using music education tools",
+            "Knowledge of different music techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to adapt teaching methods to different school situations",
+            "Effective communication of musical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of music education techniques",
+            "Solving problems related to music education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing music education sessions",
+            "Leading music education activities"
+        ]
+    },
+    {
+        "courseCode": "MUSC 604",
+        "courseTitle": "Foundations of Music Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course involves the study of the philosophical, psychological and historical foundations of music related to curriculum development.",
+        "Technical and Digital Skills": [
+            "Curriculum development",
+            "Understanding of music history",
+            "Knowledge in philosophical and psychological aspects of music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of music-related concepts",
+            "Ability to discuss and explain historical and philosophical contexts of music"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical and psychological effects on music",
+            "Problem-solving in curriculum development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and integrating historical, philosophical, and psychological elements into curriculum",
+            "Leading music education curriculum development"
+        ]
+    },
+    {
+        "courseCode": "MUSC 605",
+        "courseTitle": "Literature of the Wind Ensemble",
+        "academicLevel": "graduate",
+        "courseDescription": "The course centers upon the study of the performance, review and analysis of music for the Symphonic Band and Wind Ensemble.  Suited especially to the needs of directors of secondary school and other nonprofessional wind ensembles.",
+        "Technical and Digital Skills": [
+            "Music performance",
+            "Music review",
+            "Analysis of musical composition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback",
+            "Communicating musical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the structure and style of wind ensemble music",
+            "Developing strategies for improving ensemble performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and managing nonprofessional wind ensembles",
+            "Organizing ensemble rehearsals"
+        ]
+    },
+    {
+        "courseCode": "MUSC 606",
+        "courseTitle": "Choral Music Literature",
+        "academicLevel": "graduate",
+        "courseDescription": "Survey of choral literature and practical performance practices from the Renaissance to the present.",
+        "Technical and Digital Skills": [
+            "Understanding of different choral literature",
+            "Knowledge of practical performance practices",
+            "Ability to identify different periods of choral music from Renaissance to present"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate musical ideas",
+            "Ability to perform choral music in a group"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting choral literature",
+            "Identifying and resolving performance issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading choral performance rehearsals",
+            "Organizing choral literature study"
+        ]
+    },
+    {
+        "courseCode": "MUSC 607",
+        "courseTitle": "Orff Schulwerk Level I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of basic Orff Schulwerk techniques.  Level I pedagogy includes instruction in the use of pentatonic scale, ostinato, elemental forms, improvisation, basic body movement and basic soprano recorder skills.",
+        "Technical and Digital Skills": [
+            "Basic Orff Schulwerk techniques",
+            "Use of pentatonic scale",
+            "Creation and use of ostinato",
+            "Elemental forms",
+            "Improvisation skills",
+            "Basic body movement",
+            "Basic soprano recorder skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music improvisation",
+            "Understanding and application of elemental forms"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MUSC 609",
+        "courseTitle": "Literature of the Orchestra",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of standard repertoire written for string and symphony orchestra, including score analysis and study of historical context and performance practice. Selected educational repertoire will also be explored in relation to similar counterparts in the standard repertoire. Suited for music educators and developing conductors.",
+        "Technical and Digital Skills": [
+            "Score analysis",
+            "Historical context study",
+            "Performance practice comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical repertoires communication",
+            "Educational repertoire discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Repertoire comparison analysis",
+            "Performance practice analysis",
+            "Historical context analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Music conducting",
+            "Education repertoire organization"
+        ]
+    },
+    {
+        "courseCode": "MUSC 610",
+        "courseTitle": "Orff Schulwerk Level III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will build upon the skills and concepts introduced in Orff Schulwerk Levels I and II.  Recorder technique will be expanded upon as well as eurhythmics and special topics.",
+        "Technical and Digital Skills": [
+            "Advanced Recorder Technique",
+            "Eurhythmics",
+            "Understanding and Applying Orff Schulwerk Concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching and Communicating Orff Schulwerk Concepts",
+            "Collaborative Learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music Analysis",
+            "Creative Problem Solving in Musical Contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading Music Sessions",
+            "Organizing Music Learning Modules"
+        ]
+    },
+    {
+        "courseCode": "MUSC 611",
+        "courseTitle": "Current Trends in Elementary and Secondary Music",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed for public school music teachers.  This course involves the study of current methodology, its practice and uses in the elementary and secondary general/vocal/instrumental music program.",
+        "Technical and Digital Skills": [
+            "Study of current music methodologies",
+            "Knowledge about general/vocal/instrumental music programs in schools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain and demonstrate musical techniques",
+            "Ability to communicate music program objectives and methodologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current music methodologies",
+            "Adapting teaching methods to suit different music programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing music programs",
+            "Leading a music class effectively"
+        ]
+    },
+    {
+        "courseCode": "MUSC 612",
+        "courseTitle": "Organization and Administration of Instrumental Music",
+        "academicLevel": "graduate",
+        "courseDescription": "The course involves the study of effective organization and implementation techniques for elementary and secondary instrumental ensembles; includes particular problems in the administration of high school instrumental groups.",
+        "Technical and Digital Skills": [
+            "Instrumental ensemble organization",
+            "Instrumental group administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating with ensemble members",
+            "Dealing with administration-related issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and resolving administration issues",
+            "Addressing particular problems in high school instrumental groups"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing elementary and secondary instrumental ensembles",
+            "Leading and managing high school instrumental groups"
+        ]
+    },
+    {
+        "courseCode": "MUSC 613",
+        "courseTitle": "Workshop in Music Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course centers upon the development of performance and instructional skills in various aspects of music education.  May be repeated twice with different emphases.",
+        "Technical and Digital Skills": [
+            "Performance skill development",
+            "Instructional skill development",
+            "Understanding various aspects of music education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective teaching methods",
+            "Clear presentation of music concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to various aspects of music education",
+            "Developing unique performance techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing and implementing lesson plans",
+            "Leading music instructional sessions"
+        ]
+    },
+    {
+        "courseCode": "MUSC 614",
+        "courseTitle": "Workshop in Instrumental Music",
+        "academicLevel": "graduate",
+        "courseDescription": "The course centers upon the development of performance and instrumental skills in various aspects of instrumental music.  May be repeated twice with different emphases.",
+        "Technical and Digital Skills": [
+            "Instrumental performance",
+            "Sound mixing and editing",
+            "Use of digital music software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performance communication",
+            "Collaborative music creation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music interpretation",
+            "Instrument tuning and maintenance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ensemble coordination",
+            "Music rehearsal organization"
+        ]
+    },
+    {
+        "courseCode": "MUSC 615",
+        "courseTitle": "Workshop in Choral Music",
+        "academicLevel": "graduate",
+        "courseDescription": "This course centers upon the development of conducting techniques, performance and instructional skills in various aspects of choral music.  May be repeated twice with different emphases.",
+        "Technical and Digital Skills": [
+            "Choral conducting techniques",
+            "Performance skills in choral music",
+            "Instructional skills in choral music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication during choral instruction",
+            "Building rapport within a choral group"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting conducting techniques to specific choral music",
+            "Identifying and addressing performance issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in conducting a choral group",
+            "Organizing and managing choral rehearsals"
+        ]
+    },
+    {
+        "courseCode": "MUSC 616",
+        "courseTitle": "Advanced Conducting Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Involves conducting techniques as applied to various mixed ensembles.  Emphasizes the technical considerations common to all phases of choral and instrumental conducting with special concern for school problems.",
+        "Technical and Digital Skills": [
+            "Conducting techniques",
+            "Instrumental conducting",
+            "Choral conducting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ensemble coordination",
+            "Effective communication with different ensemble members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing school-related conducting problems",
+            "Adapting conducting techniques to different mixed ensembles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse musical ensembles",
+            "Organizing rehearsal processes",
+            "Motivating ensemble members"
+        ]
+    },
+    {
+        "courseCode": "MUSC 630",
+        "courseTitle": "Research in Music Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Types of research, selection of problems, location of educational information, collection and classification of data, organization, presentation and interpretation of materials in the area of music education.",
+        "Technical and Digital Skills": [
+            "Data collection",
+            "Data classification",
+            "Research in music education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of research problems",
+            "Interpretation of research materials",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of research materials"
+        ]
+    },
+    {
+        "courseCode": "MUSC 635",
+        "courseTitle": "Technology in the Music Classroom",
+        "academicLevel": "graduate",
+        "courseDescription": "This course supports music educators in their goal of producing engaging educational experiences for their students. Topics include essential audio skills, basic video production, the entertainment business, music composition for various contexts, music apps, and more. Students learn through practical projects, receiving detailed feedback on their work. The technological tools would be put within the context of culture, current musical and business trends, and creative pedagogy.",
+        "Technical and Digital Skills": [
+            "Essential audio skills",
+            "Basic video production",
+            "Understanding of the entertainment business",
+            "Music composition for various contexts",
+            "Utilizing music applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving detailed feedback",
+            "Understanding and applying current musical and business trends"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creating engaging educational experiences",
+            "Creative pedagogy",
+            "Adapting to various musical contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading practical projects",
+            "Applying technological tools within cultural contexts"
+        ]
+    },
+    {
+        "courseCode": "MUSC 636",
+        "courseTitle": "Techniques of Jazz Education in the Secondary School",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will deal with rehearsal techniques for the Jazz Ensemble, including articulation, style, phrasing, literature, and improvisational techniques.  In addition, Jazz history and literature will be discussed in detail.",
+        "Technical and Digital Skills": [
+            "Rehearsal techniques for the Jazz Ensemble",
+            "Articulation techniques",
+            "Style techniques",
+            "Phrasing techniques",
+            "Literature techniques",
+            "Improvisational techniques",
+            "Jazz history knowledge",
+            "Understanding of Jazz literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within an ensemble",
+            "Teaching and conveying complex techniques",
+            "Instructing improvisational methods",
+            "Explaining historical context and literature"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Jazz literature",
+            "Solving rehearsal challenges",
+            "Improvisation problem-solving",
+            "Style and phrasing analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a Jazz ensemble",
+            "Organizing rehearsal schedules",
+            "Managing ensemble dynamics",
+            "Literature selection and organization"
+        ]
+    },
+    {
+        "courseCode": "MUSC 680",
+        "courseTitle": "Performing Ensembles",
+        "academicLevel": "graduate",
+        "courseDescription": "Students are expected to help with sectional rehearsals and do in-depth score study on all music being performed.",
+        "Technical and Digital Skills": [
+            "Score interpretation",
+            "Instrumental techniques",
+            "Music rehearsing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear oral communication",
+            "Collaborative rehearsal",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music analysis",
+            "Problem-solving during rehearsal",
+            "Critical listening"
+        ],
+        "Organizational and Leadership Skills": [
+            "Rehearsal planning and management",
+            "Leadership during sectional rehearsals"
+        ]
+    },
+    {
+        "courseCode": "MUSC 692",
+        "courseTitle": "Portfolio",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to guide the student who is completing the Pedagogical Concentration in developing a professional teaching portfolio. It would typically be taken during the last semester of the degree program. The portfolio will be completed in digital format suitable for professional use. It will include information in the following areas: professional foundations, scholarship, performance, applied pedagogy and other professional data pertinent to the focus of the student.",
+        "Technical and Digital Skills": [
+            "Developing a professional teaching portfolio",
+            "Creating digital format portfolios"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting professional foundations",
+            "Communicating scholarship information",
+            "Presenting performance data",
+            "Communicating applied pedagogy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing professional data",
+            "Determining pertinent information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing a professional teaching portfolio",
+            "Leading professional development via portfolio creation"
+        ]
+    },
+    {
+        "courseCode": "MUSC 695",
+        "courseTitle": "Topics in Music",
+        "academicLevel": "graduate",
+        "courseDescription": "These courses will appear in the course schedule. Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed for individualized study.  Independent study projects will be related to music education and done under the supervision of a certified faculty member.",
+        "Technical and Digital Skills": [
+            "Musical notation",
+            "Music theory and concepts",
+            "Digital music production tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with faculty",
+            "Presentation of musical knowledge and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical analysis",
+            "Adaptive learning and problem solving in music education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project planning and execution",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "MUSC 698",
+        "courseTitle": "Thesis Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Application of research procedures in music education, culminating in student study of selected topics.",
+        "Technical and Digital Skills": [
+            "Application of research procedures",
+            "Music education research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings",
+            "Discussion of research topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for topic selection",
+            "Problem-solving in research procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of research",
+            "Self-leadership in independent study"
+        ]
+    },
+    {
+        "courseCode": "MUSC 699",
+        "courseTitle": "Thesis for Master of Music Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Completion of thesis for the Master of Music Education degree.",
+        "Technical and Digital Skills": [
+            "Music notation software",
+            "Audio editing software",
+            "Digital music production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with advisors",
+            "Receiving and implementing feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design",
+            "Data analysis in music education",
+            "Critical evaluation of music education literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Academic writing"
+        ]
+    },
+    {
+        "courseCode": "MUSC 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active participation in academic discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed research and study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline",
+            "Project management"
+        ]
+    }
+]

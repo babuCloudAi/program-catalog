@@ -1,0 +1,32 @@
+[
+    {
+        "courseTitle": "Perspectives in American Studies",
+        "courseCode": "AMST 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An exploration of current methodological approaches utilized in the interdisciplinary field of American Studies.  Through integrative themes that cut across time, place and cultural identity, this course will allow students to build a working definition of civilization in the United States.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research methods",
+            "Cultural identity analysis",
+            "Civilization definition building"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of integrative themes",
+            "Methodological approaches evaluation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in American Studies",
+        "courseCode": "AMST 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Rotating course content in American Studies, with interdisciplinary focus.  Course can be used to fulfill a requirement in the American Studies minor.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Interdisciplinary collaboration",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of interdisciplinary topics",
+        "Organizational and Leadership Skills": "Managing interdisciplinary projects"
+    }
+]

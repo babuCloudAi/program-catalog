@@ -1,0 +1,148 @@
+[
+    {
+        "courseTitle": "Beginning Italian I",
+        "courseCode": "ITAL 101F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drills and discussion of grammar principles; written exercises, and reading assignments.",
+        "Technical and Digital Skills": [
+            "Italian aural comprehension",
+            "Oral drills in Italian",
+            "Understanding of Italian grammar principles",
+            "Written exercises in Italian",
+            "Italian reading comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Italian",
+            "Interpersonal interaction in a foreign language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Italian grammar rules",
+            "Solving language-based problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Italian II",
+        "courseCode": "ITAL 102F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drill and discussion of grammar principles; written exercises, and reading assignments.",
+        "Technical and Digital Skills": [
+            "Aural comprehension in Italian",
+            "Oral drill in Italian",
+            "Written Italian exercises",
+            "Reading Italian assignments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of grammar principles in Italian",
+            "Oral communication in Italian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and applying Italian grammar rules"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Italian I",
+        "courseCode": "ITAL 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drills and discussion of grammar principles; written exercises, and readings assignments.",
+        "Technical and Digital Skills": [
+            "Aural comprehension",
+            "Oral language drills",
+            "Grammar principles application",
+            "Written Italian exercises",
+            "Italian readings comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral Italian communication",
+            "Interpreting Italian language aurally",
+            "Writing in Italian language",
+            "Reading and understanding Italian text"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and correcting grammar errors",
+            "Understanding complex Italian texts",
+            "Solving language comprehension issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Italian II",
+        "courseCode": "ITAL 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drills and discussion of grammar principles; written exercises, and reading assignments.",
+        "Technical and Digital Skills": [
+            "Italian aural comprehension",
+            "Italian oral expression",
+            "Italian grammar principles",
+            "Italian written exercises",
+            "Italian reading comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conversational Italian",
+            "Italian cultural understanding",
+            "Public speaking in Italian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Italian grammar problem solving",
+            "Understanding and interpreting Italian texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "ITAL 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "ITAL 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Italian",
+        "courseCode": "ITAL 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Italian language fluency",
+            "Cultural communication",
+            "Cross-cultural understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation",
+            "Contextual understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Italian",
+        "courseCode": "ITAL 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Italian language proficiency",
+            "Cross-cultural communication",
+            "Verbal and written communication in Italian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation and analysis of Italian texts",
+            "Understanding and interpreting Italian culture and societal issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

@@ -1,0 +1,1448 @@
+[
+    {
+        "courseTitle": "Acting One",
+        "courseCode": "DANC 152R",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the physical and vocal principles of performance coupled with an opportunity to increase awareness of the constructed nature of social interactions. Students will explore confident self-expression through the physical, vocal, emotional and technical aspects of acting, as an art form and a daily experience, in a format that encourages freedom of imagination and personal growth. Emphasis is on the fundamental communication skills of presence, body language, imagination, and social communication.",
+        "Technical and Digital Skills": [
+            "Physical performance techniques",
+            "Vocal performance techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Confident self-expression",
+            "Body language interpretation",
+            "Social communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of performance",
+            "Emotional analysis for character development"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Dance and Its Audience",
+        "courseCode": "DANC 185A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to acquaint students with the components of theatrical dance performance, its historical and ethnic origins, its role as a creative expression of peoples and societies and its relationship to other art forms.  Through films, videos, live performances, guest speakers, readings and discussions, students consider philosophical approaches to language, communication, aesthetics and style of choreography.",
+        "Technical and Digital Skills": [
+            "Understanding theatrical dance components",
+            "Analyzing historical and ethnic origins of dance",
+            "Utilizing videos and films for dance analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in discussions about dance",
+            "Presenting findings on choreography styles",
+            "Collaborating with guest speakers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating philosophical approaches to dance",
+            "Analyzing the relationship between dance and other art forms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing live performances for analysis",
+            "Leading group discussions on dance performances"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.",
+        "Technical and Digital Skills": [
+            "Choreography techniques",
+            "Dance composition software proficiency",
+            "Understanding of music editing software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dancers and choreographers",
+            "Effective feedback delivery in dance rehearsals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different dance styles",
+            "Identifying and solving technical issues in dance performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals and performances",
+            "Time management for choreographing multiple pieces"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Dance technique proficiency",
+            "Choreography creation",
+            "Music editing for dance routines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with dancers and choreographers",
+            "Giving constructive feedback during rehearsals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Troubleshooting technical issues during performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Managing time effectively for multiple dance routines"
+        ]
+    },
+    {
+        "courseTitle": "Ballet Technique 1",
+        "courseCode": "DANC 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to ballet technique.",
+        "Technical and Digital Skills": [
+            "Ballet terminology",
+            "Proper body alignment",
+            "Basic foot positions",
+            "Arm movements",
+            "Leg movements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Following choreography instructions",
+            "Collaborating with other dancers",
+            "Receiving and providing feedback on technique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying areas for improvement in personal technique",
+            "Adapting to different styles of ballet",
+            "Analyzing video recordings of own performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for practice sessions",
+            "Taking on leadership roles in group performances",
+            "Providing guidance to less experienced dancers"
+        ]
+    },
+    {
+        "courseTitle": "Modern Dance Technique 1",
+        "courseCode": "DANC 211",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to modern dance technique.",
+        "Technical and Digital Skills": [
+            "Movement technique mastery",
+            "Choreography creation",
+            "Music synchronization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group coordination in dance routines",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Troubleshooting movement challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Time management for individual practice"
+        ]
+    },
+    {
+        "courseTitle": "Yoga",
+        "courseCode": "DANC 235",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to yoga postures, breathing exercises, and relaxation techniques that promote health, alleviate stress, improve skeletal alignment, and increase muscular strength and flexibility.  Students are also introduced to the history and philosophy of yoga.",
+        "Technical and Digital Skills": [
+            "Yoga postures",
+            "Breathing exercises",
+            "Relaxation techniques",
+            "Skeletal alignment techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Demonstration of yoga poses",
+            "Instruction of relaxation techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of students' progress",
+            "Adaptation of exercises for different skill levels"
+        ],
+        "Organizational and Leadership Skills": [
+            "Class management",
+            "Planning and structuring yoga sessions"
+        ]
+    },
+    {
+        "courseTitle": "Pilates Mat Class I",
+        "courseCode": "DANC 241",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce students to the Pilates method. Students will learn beginning-level Pilates exercises on the mat.",
+        "Technical and Digital Skills": [
+            "Understanding Pilates method principles",
+            "Performing beginning-level Pilates exercises on the mat"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Demonstrating exercises clearly to students",
+            "Providing clear instructions for proper form"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and correcting students' form errors during exercises"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing class time effectively",
+            "Providing individualized feedback to students"
+        ]
+    },
+    {
+        "courseTitle": "Pilates Mat Class 2",
+        "courseCode": "DANC 242",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A continuation of the study of the Pilates method. Students will learn intermediate-level Pilates exercises on the mat.",
+        "Technical and Digital Skills": [
+            "Intermediate-level Pilates exercises on the mat"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tap Dance I",
+        "courseCode": "DANC 251",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to tap dance styles including classic, hoof and rhythm. Fundamental movements such as time steps, grab-offs, riffs, etc. are incorporated using counterpoint rhythms and challenges.  Students gain an understanding of tap dance as an American art form.",
+        "Technical and Digital Skills": [
+            "Mastering fundamental tap dance movements like time steps, grab-offs, riffs",
+            "Understanding counterpoint rhythms in tap dance",
+            "Applying tap dance styles including classic, hoof, and rhythm"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with peers in tap dance routines",
+            "Communicating effectively with instructors to improve technique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and adapting to different tap dance styles",
+            "Identifying and correcting rhythm challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group tap dance performances",
+            "Organizing practice schedules and performances"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Filmmaking",
+        "courseCode": "DANC 271",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce the beginning student to making movies. Students will learn the basics of working with cameras, lights, sound recording, video editing and post production. This is a hands-on production course.",
+        "Technical and Digital Skills": [
+            "Camera operation",
+            "Lighting setup",
+            "Sound recording techniques",
+            "Video editing software proficiency",
+            "Post-production processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in film production",
+            "Effective communication with team members",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting technical issues on set",
+            "Creative problem-solving in film making scenarios",
+            "Critical analysis of film elements for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in film production",
+            "Time management for efficient workflow",
+            "Team coordination and leadership in a production setting"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses appear in the course schedule, and are fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography design",
+            "Dance technique mastery",
+            "Music editing for routines",
+            "Video editing for performance recordings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback delivery",
+            "Collaborative dance creation",
+            "Conflict resolution in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Creative problem-solving for performance challenges",
+            "Analyzing dance movements for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Event planning for performances",
+            "Time management for multiple routines"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses appear in the course schedule, and are fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography techniques",
+            "Dance notation systems",
+            "Video editing for dance performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Providing constructive feedback to fellow dancers",
+            "Collaborating with choreographers and dancers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Troubleshooting technical issues during performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Organizing dance events and performances"
+        ]
+    },
+    {
+        "courseTitle": "Ballet in Context",
+        "courseCode": "DANC 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the history, theory, and practice of Ballet.",
+        "Technical and Digital Skills": [
+            "Ballet technique mastery",
+            "Choreography composition",
+            "Music interpretation for dance",
+            "Costume design for ballet performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with fellow dancers",
+            "Communicating with choreographers and directors",
+            "Giving and receiving feedback during rehearsals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Solving technical challenges in dance routines",
+            "Analyzing historical ballet performances for inspiration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Organizing costume fittings and stage rehearsals",
+            "Managing time effectively during intense performance schedules"
+        ]
+    },
+    {
+        "courseTitle": "Ballet Technique 2",
+        "courseCode": "DANC 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of ballet technique.",
+        "Technical and Digital Skills": [
+            "Advanced ballet technique",
+            "Precision in movements",
+            "Mastering complex choreography",
+            "Understanding musicality in dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with other dancers",
+            "Receiving and giving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Identifying and correcting technical errors in performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group rehearsals",
+            "Managing time effectively during practice sessions"
+        ]
+    },
+    {
+        "courseTitle": "Ballet Technique 3",
+        "courseCode": "DANC 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of ballet technique at an intermediate level.",
+        "Technical and Digital Skills": [
+            "Intermediate ballet techniques",
+            "Footwork precision",
+            "Body alignment",
+            "Musicality in movement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in group routines",
+            "Feedback reception and implementation in class",
+            "Non-verbal communication through body language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to personal strengths and weaknesses",
+            "Analyzing and improving dance technique based on feedback",
+            "Identifying and correcting errors in movement patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group warm-ups and exercises",
+            "Time management in practice sessions",
+            "Setting personal dance goals and tracking progress"
+        ]
+    },
+    {
+        "courseTitle": "Modern Dance in Context",
+        "courseCode": "DANC 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the history, theory, and practice of Modern Dance.",
+        "Technical and Digital Skills": [
+            "Modern dance techniques",
+            "choreography composition",
+            "movement analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with other dancers",
+            "giving and receiving feedback on performances"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical and theoretical aspects of modern dance",
+            "adapting choreography to different contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "organizing group performances"
+        ]
+    },
+    {
+        "courseTitle": "Modern Dance Technique 2",
+        "courseCode": "DANC 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of modern dance technique.",
+        "Technical and Digital Skills": [
+            "Advanced modern dance techniques",
+            "Choreography skills",
+            "Music synchronization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with fellow dancers",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different styles",
+            "Identifying and correcting dance technique errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group dance rehearsals",
+            "Time management for dance practice"
+        ]
+    },
+    {
+        "courseTitle": "Modern Dance Technique 3",
+        "courseCode": "DANC 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of modern dance technique at an intermediate level.",
+        "Technical and Digital Skills": [
+            "Advanced modern dance techniques",
+            "Choreography composition",
+            "Music editing for dance routines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in group dance performances",
+            "Giving and receiving constructive feedback in dance rehearsals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting dance moves to different music styles",
+            "Solving choreography challenges in real-time during performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Organizing dance showcases and performances"
+        ]
+    },
+    {
+        "courseTitle": "Jazz in Context",
+        "courseCode": "DANC 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the history, theory, and practice of Jazz.",
+        "Technical and Digital Skills": [
+            "Music theory fundamentals",
+            "Instrument proficiency",
+            "Audio production techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with other musicians",
+            "Improvisational communication",
+            "Giving and receiving feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transcribing music by ear",
+            "Analyzing chord progressions",
+            "Adapting to different musical styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a musical ensemble",
+            "Planning and organizing rehearsals",
+            "Managing time effectively during performances"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Dance 1",
+        "courseCode": "DANC 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to jazz dance technique.",
+        "Technical and Digital Skills": [
+            "Jazz dance technique execution",
+            "Rhythm interpretation",
+            "Body alignment awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in group routines",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles within jazz",
+            "Identifying and correcting personal dance technique errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Taking initiative in group choreography",
+            "Assisting peers in mastering dance sequences"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Dance 2",
+        "courseCode": "DANC 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of jazz dance technique.",
+        "Technical and Digital Skills": [
+            "Advanced jazz dance techniques",
+            "Choreography skills",
+            "Musicality in dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with other dancers",
+            "Effective communication with dance instructors",
+            "Group performance coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Identifying and correcting dance technique errors",
+            "Creative problem-solving in dance routines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Organizing group performances",
+            "Time management for dance practice"
+        ]
+    },
+    {
+        "courseTitle": "Extreme Moves (Conditioning for Dancers)",
+        "courseCode": "DANC 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the extended physical technique known as Extreme Moves. The Extreme Moves training method focuses on the body’s alignment with regard to how forces are present, how they act upon it, and how to build strength to resist or collaborate with these forces. Students will work with props such as large physio balls, elastic bands, mats and the wall in order to improve their core strength, balance, upper and lower body strength and alignments. Through physical practice, readings and videos, students will learn the conceptual framework for Extreme Moves.",
+        "Technical and Digital Skills": [
+            "Body alignment techniques",
+            "Working with physio balls",
+            "Using elastic bands for strength training",
+            "Utilizing mats for balance exercises",
+            "Incorporating the wall for support and alignment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with peers during physical practice",
+            "Communicating alignment adjustments with fellow dancers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing forces acting on the body during movements",
+            "Identifying areas of strength improvement based on physical practice outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group warm-up sessions",
+            "Organizing and structuring personal practice routines"
+        ]
+    },
+    {
+        "courseTitle": "Pilates Equipment Lab 1",
+        "courseCode": "DANC 341",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will focus on learning beginning and some intermediate exercises on the Pilates equipment, which includes the Reformer, Cadillac, Lo Chair and Magic Circle.",
+        "Technical and Digital Skills": [
+            "Understanding Pilates equipment (Reformer, Cadillac, Lo Chair, Magic Circle)",
+            "Equipment setup and maintenance",
+            "Proper usage of equipment for exercises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear communication of exercise instructions to clients",
+            "Providing feedback on clients' form and technique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting exercises for different fitness levels and needs",
+            "Analyzing clients' progress and adjusting workout plans accordingly"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing equipment usage schedule",
+            "Leading group equipment classes effectively"
+        ]
+    },
+    {
+        "courseTitle": "Pilates Equipment Lab 2",
+        "courseCode": "DANC 342",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will focus on learning intermediate and some advanced exercises on the Pilates equipment, which includes the Reformer, Cadillac, Low Chair and Magic Circle.",
+        "Technical and Digital Skills": [
+            "Intermediate and advanced Pilates equipment exercises",
+            "Reformer exercises",
+            "Cadillac exercises",
+            "Low Chair exercises",
+            "Magic Circle exercises"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Rhythmic Analysis",
+        "courseCode": "DANC 360",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of basic music theory specifically designed for the dancer.  Emphasis is on score reading, accompaniment for dance, note values and rhythms as they directly relate to choreography in a classroom as well as in the rehearsal studio.  Students perform movement studies based on rhythmic structures.",
+        "Technical and Digital Skills": [
+            "Score reading",
+            "Accompaniment for dance",
+            "Note values understanding",
+            "Rhythmic structure analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of musical interpretations",
+            "Collaboration with accompanists and dancers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying rhythmic patterns",
+            "Adapting movements to complex rhythms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading movement studies based on rhythmic structures",
+            "Organizing choreography in relation to music"
+        ]
+    },
+    {
+        "courseTitle": "Hip Hop Dance & Culture 1",
+        "courseCode": "DANC 361",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore hip hop dance and culture from several points of entry: movement, historical, political, aesthetic, sonic, and geographical.  The historical focus of the course locates hip-hop dance as a personal, interactive, and cultural expression. Students will navigate through the evolution of hip hop dance and culture from its birthplace in the Bronx, NY through its development into a global phenomenon.  The course will discuss the elements of hip hop culture: DJ, B-Boy/Girl, Graffiti Art, MC, and Beat Box, and how they intersect.  Students will explore how hip-hop influences and is influenced by geopolitics, race, gender, and other social structures.",
+        "Technical and Digital Skills": [
+            "Hip hop dance techniques",
+            "Music mixing for dance routines",
+            "Video editing for performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with fellow dancers",
+            "Presenting dance concepts to the group",
+            "Providing constructive feedback to peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creating choreography for a performance",
+            "Adapting dance moves to different music styles",
+            "Analyzing the historical and cultural context of hip hop dance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Planning and coordinating group performances",
+            "Managing time effectively during practice sessions"
+        ]
+    },
+    {
+        "courseTitle": "Hip Hop Dance & Culture 2",
+        "courseCode": "DANC 362",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will continue to explore hip hop dance and culture from several points of entry: movement, historical, political, aesthetic, sonic, and geographical.  The historical focus of the course locates hip hop dance as a personal, interactive, and cultural expression. Students will navigate deeper through the evolution of hip hop dance and culture from its birthplace in the Bronx, NY through its development into a global phenomenon.  The course will continue its discussion on the elements of hip hop culture: DJ, B-Boy/Girl, Graffiti Art, MC, and Beat Box, and how they intersect.  Students will continue to explore how hip-hop influences and is influenced by geopolitics, race, gender, and other social structures.",
+        "Technical and Digital Skills": [
+            "Hip hop dance techniques",
+            "Understanding of hip hop music production",
+            "Knowledge of hip hop history and evolution",
+            "Awareness of cultural intersections in hip hop"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in group dance routines",
+            "Effective communication of dance concepts and ideas",
+            "Respectful engagement with diverse cultural perspectives in hip hop"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of hip hop lyrics and themes",
+            "Creative choreography development",
+            "Adaptation of dance styles to varying music genres"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals and performances",
+            "Organizing group dance projects",
+            "Facilitating discussions on the social impact of hip hop"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "DANC 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation for credit based on the academic relevance of the work experience, criteria and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience takes place. Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Work experience in relevant field",
+            "Academic research skills",
+            "Information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with supervisors",
+            "Report writing for evaluation purposes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of work experience outcomes",
+            "Problem-solving in real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in work setting",
+            "Leadership in work environment"
+        ]
+    },
+    {
+        "courseTitle": "Field experience in dance",
+        "courseCode": "DANC 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Field experience in dance.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective verbal communication during performances",
+            "Collaborating with other dancers and choreographers",
+            "Receiving and providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Organizing dance routines and schedules",
+            "Leading rehearsals",
+            "Managing group dynamics"
+        ]
+    },
+    {
+        "courseTitle": "Dance Composition 1",
+        "courseCode": "DANC 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed for dance majors or minors, this course is a study of the elements and craft of choreography through practical and written experience.  Time, space and dynamics are explored through assigned movement studies.  Projects are designed for the creative development of personal movement repertoire and compositional skills for the dancer, choreographer and dance educator.",
+        "Technical and Digital Skills": [
+            "Choreography techniques",
+            "Movement studies analysis",
+            "Craft of choreography",
+            "Personal movement repertoire development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback delivery",
+            "Collaborative choreography",
+            "Verbal articulation of dance concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in choreography",
+            "Critical analysis of dance elements",
+            "Adaptation of movement to different contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning for choreography",
+            "Group coordination in dance composition",
+            "Facilitation of movement exploration"
+        ]
+    },
+    {
+        "courseTitle": "Production/Performance Lab",
+        "courseCode": "DANC 373",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students opportunities to participate in productions in Theatre, Dance or Film. These positions provide hands-on experience in the discipline. Cross-listed with THEA 373.",
+        "Technical and Digital Skills": [
+            "Hands-on experience in Theatre, Dance or Film production",
+            "Technical aspects of production (lighting, sound, etc.)",
+            "Knowledge of production equipment and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with team members in production",
+            "Effective communication with directors and crew members",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting technical issues during production",
+            "Adapting to last-minute changes in performance",
+            "Critical analysis of performance outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing production schedules and timelines",
+            "Taking on leadership roles within a production team",
+            "Delegating tasks effectively"
+        ]
+    },
+    {
+        "courseTitle": "Production/Performance Lab",
+        "courseCode": "DANC 374",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students opportunities to participate in productions in Theatre, Dance or Film. These positions provide hands-on experience in the discipline. Cross-listed with THEA 374.",
+        "Technical and Digital Skills": [
+            "Hands-on experience in Theatre, Dance, or Film production",
+            "Technical production skills in Theatre, Dance, or Film",
+            "Cross-listed with THEA 374"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in production teams",
+            "Effective communication in a production environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in production challenges",
+            "Analytical skills in performance evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in production roles",
+            "Organizational skills in coordinating performances"
+        ]
+    },
+    {
+        "courseTitle": "Improvisation",
+        "courseCode": "DANC 390",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An exploration of creativity through structured exercises, games and problems. Students participate in experiential studies that explore improvisational approaches, devices and elements to gain skills in the art of improvisation. This course also includes group discussions of reading assignments and feedback sessions following the improvisations performed in class. Through readings, journal writings, and in-class exercises, students develop the skills to articulate what they see, feel and respond to as artists, performers, and observers. Cross-listed with THEA 390.",
+        "Technical and Digital Skills": [
+            "Improvisational techniques",
+            "Performance skills",
+            "Artistic expression"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in group settings",
+            "Giving and receiving feedback",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quick thinking",
+            "Adapting to unexpected situations",
+            "Creative problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Facilitating feedback sessions",
+            "Time management in performance settings"
+        ]
+    },
+    {
+        "courseTitle": "Functional Anatomy for Movement Practices",
+        "courseCode": "DANC 393",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an analysis of human motion through a study of anatomy, kinesiology and movement fundamentals.",
+        "Technical and Digital Skills": [
+            "Anatomy knowledge",
+            "Kinesiology understanding",
+            "Movement fundamentals analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of anatomical concepts",
+            "Collaboration with peers in movement analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of human motion",
+            "Problem-solving in movement mechanics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on anatomical topics",
+            "Organizing study groups for practical application of concepts"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses appear in the course schedule, and are more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography design",
+            "Music editing for dance routines",
+            "Video editing for performance recordings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive feedback on dance performances",
+            "Collaborating with other dancers and instructors on routines"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Identifying and correcting technical errors in dance movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals and coordinating group performances",
+            "Planning and scheduling practice sessions and performances"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses appear in the course schedule, and and are more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography design",
+            "Dance technique mastery",
+            "Music synchronization",
+            "Costume design for performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative dance creation",
+            "Giving and receiving constructive feedback during rehearsals",
+            "Team coordination for group performances"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Addressing technical challenges in dance routines",
+            "Finding creative solutions to staging limitations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Time management for performance preparation",
+            "Managing a dance group or team"
+        ]
+    },
+    {
+        "courseTitle": "Ballet Technique 4",
+        "courseCode": "DANC 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of ballet technique at an intermediate level.",
+        "Technical and Digital Skills": [
+            "Advanced ballet techniques",
+            "precision in movements",
+            "musicality in dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in group routines",
+            "feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Correcting body alignment",
+            "troubleshooting movement errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group warm-ups",
+            "choreographing dance sequences"
+        ]
+    },
+    {
+        "courseTitle": "Ballet Technique 5",
+        "courseCode": "DANC 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of ballet technique at an advanced level.",
+        "Technical and Digital Skills": [
+            "Advanced ballet techniques",
+            "Precision in movements",
+            "Understanding of complex choreography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with fellow dancers",
+            "Effective communication with instructors for feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Analyzing and correcting body alignment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group performances",
+            "Time management for rehearsals and performances"
+        ]
+    },
+    {
+        "courseTitle": "Modern Dance Technique 5",
+        "courseCode": "DANC 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of modern dance technique at an advanced level.",
+        "Technical and Digital Skills": [
+            "Advanced modern dance techniques",
+            "Choreography skills",
+            "Body alignment and control",
+            "Musicality in dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with other dancers",
+            "Giving and receiving constructive feedback",
+            "Expressing emotions through movement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem solving in choreography",
+            "Adapting to different dance styles and techniques",
+            "Critical analysis of dance performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Time management in dance practice",
+            "Setting goals for personal dance improvement"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Dance 3",
+        "courseCode": "DANC 423",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of jazz dance technique at an intermediate/advanced level.",
+        "Technical and Digital Skills": [
+            "Advanced jazz dance technique",
+            "Choreography skills",
+            "Physical fitness for dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with other dancers",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Creating solutions for performance challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance routines",
+            "Time management for rehearsals and performances"
+        ]
+    },
+    {
+        "courseTitle": "Jazz Dance 4",
+        "courseCode": "DANC 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of jazz dance technique at an intermediate/advanced level.",
+        "Technical and Digital Skills": [
+            "Advanced jazz dance techniques",
+            "Choreography skills",
+            "Musicality in dance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dance partners",
+            "Effective communication with instructors and fellow dancers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different dance styles",
+            "Creative problem-solving in choreography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance routines",
+            "Organizing group performances"
+        ]
+    },
+    {
+        "courseTitle": "Hip Hop Dance and Culture 3",
+        "courseCode": "DANC 463",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course locates hip hop dance as a personal, interactive, and cultural expression. The course will focus primarily on the movement elements (Breakin, Popping, Locking, Party Dances, and Choreographic elements) of Hip Hop, deepening the breadth of knowledge students have been exposed to in DANC 361 and DANC 362.",
+        "Technical and Digital Skills": [
+            "Breakin techniques",
+            "Popping techniques",
+            "Locking techniques",
+            "Choreographic elements mastery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative dance practice",
+            "Feedback exchange with peers",
+            "Engaging with diverse dance styles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing movement patterns",
+            "Creating innovative choreography",
+            "Adapting to different music genres"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance routines",
+            "Coordinating group performances",
+            "Event planning for showcases"
+        ]
+    },
+    {
+        "courseTitle": "Hip Hop Dance and Culture 4",
+        "courseCode": "DANC 464",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course locates hip hop dance as a personal, interactive, and cultural expression. The course will continue its study of the movement elements (Breakin, Popping, Locking, Party Dances, and choreographic elements) of Hip Hop, deepening the breadth of knowledge students have been exposed to in Hip Hop DANC 361, DANC 362 and DANC 463. Lastly a major focus of this course will be a test of self and how each student embraces the cypher and its many elements as a tool to continue the exploration into knowledge production, creative expression, and critical inquiry",
+        "Technical and Digital Skills": [
+            "Breakin",
+            "Popping",
+            "Locking",
+            "Party Dances",
+            "choreographic elements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in cyphers",
+            "Expressing cultural identity through dance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical inquiry into Hip Hop culture",
+            "Creative expression through dance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Embracing the cypher as a tool for knowledge production"
+        ]
+    },
+    {
+        "courseTitle": "Dance Composition 2",
+        "courseCode": "DANC 470",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course builds on the skills developed in Dance Composition 1, including the exploration of time, space and dynamics, with a focus on constructing fully realized group and solo dance compositions.",
+        "Technical and Digital Skills": [
+            "Choreography techniques",
+            "Group dance composition",
+            "Solo dance composition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with dancers",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing movement sequences",
+            "Identifying spatial relationships in dance compositions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group rehearsals",
+            "Managing time effectively during choreography"
+        ]
+    },
+    {
+        "courseTitle": "Production/Performance Lab",
+        "courseCode": "DANC 473",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students opportunities to participate in productions in Theatre, Dance or Film. These positions provide hands-on experience in the discipline. Cross-listed with THEA 473.",
+        "Technical and Digital Skills": [
+            "Hands-on production experience in Theatre, Dance, or Film",
+            "Technical aspects of production (lighting, sound, camera operation)",
+            "Utilizing production equipment and software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with production team members",
+            "Effective communication within a production setting",
+            "Providing and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting technical issues during productions",
+            "Adapting to unexpected challenges in a production environment",
+            "Analyzing and implementing creative solutions to production problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing production schedules and timelines",
+            "Coordinating tasks among production team members",
+            "Taking on leadership roles within a production"
+        ]
+    },
+    {
+        "courseTitle": "Production/Performance Lab",
+        "courseCode": "DANC 474",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students opportunities to participate in productions in Theatre, Dance or Film. These positions provide hands-on experience in the discipline. Cross-listed with THEA 474.",
+        "Technical and Digital Skills": [
+            "Hands-on experience in Theatre, Dance, or Film production",
+            "Technical knowledge of production equipment",
+            "Digital editing skills for Film production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with team members in production",
+            "Effective communication with production staff and actors/performers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting technical issues during production",
+            "Critical evaluation of performance outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing production schedules and deadlines",
+            "Providing direction and leadership to production team members"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Teaching Dance",
+        "courseCode": "DANC 489",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers basic methods of movement education as applied to the teaching of ballet, modern dance, jazz, and movement for children.  An understanding of anatomical structure and mechanics is utilized in the analysis of student performance in dance class.  Specific objectives for dance exercises are explored.  Practical experiences in the planning, organization and structure of technique classes of various styles are designed to prepare students as dance educators.",
+        "Technical and Digital Skills": [
+            "Anatomical understanding for movement analysis",
+            "Planning and structuring technique classes",
+            "Utilizing technology in dance education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Providing feedback on student performance",
+            "Collaborating with other educators in lesson planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing student performance in dance class",
+            "Addressing challenges in teaching various dance styles",
+            "Adapting teaching methods to cater to different learning styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing dance classes",
+            "Leading and guiding students in technique development",
+            "Managing classroom dynamics and behavior"
+        ]
+    },
+    {
+        "courseTitle": "Pedagogy for Dance Educators",
+        "courseCode": "DANC 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Methods and instructional theories and strategies of movement education as applied to the teaching of ballet, modern dance, jazz, and movement for children.  Practical experience in the structure, organization and assessment of dance arts programs for the K-12 public school setting.",
+        "Technical and Digital Skills": [
+            "Instructional technology implementation",
+            "Curriculum design using digital tools",
+            "Assessment software utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students of varying ages",
+            "Collaboration with other educators for program development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods for different dance styles",
+            "Analyzing student progress data to inform instructional decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Program structuring and scheduling",
+            "Leading and managing dance arts programs for K-12 settings"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses appear in the course schedule, and are more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography techniques",
+            "Dance composition software proficiency",
+            "Video editing for dance performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dancers and choreographers",
+            "Providing constructive feedback on performances"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of dance movements and styles",
+            "Creative problem-solving in choreographing routines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Event planning for dance showcases"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dance",
+        "courseCode": "DANC 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses appear in the course schedule, and are more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography design",
+            "Dance technique mastery",
+            "Music editing for performances",
+            "Video editing for dance documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative dance creation",
+            "Giving and receiving constructive feedback during rehearsals",
+            "Effective communication in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in dance routines",
+            "Analyzing movement patterns for improvement",
+            "Adapting choreography to different skill levels or abilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Time management for multiple performances or events",
+            "Event planning for dance showcases"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "courseCode": "DANC 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Choreography software proficiency",
+            "Video editing for dance performances",
+            "Sound editing for dance routines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback delivery on dance techniques",
+            "Collaborative choreography planning with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of dance performances",
+            "Creative problem-solving in choreography challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Event planning for dance showcases"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "courseCode": "DANC 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication in dance terminology",
+            "Articulating dance concepts clearly in writing",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of dance performances",
+            "Identifying patterns and trends in dance movements",
+            "Developing unique choreographic ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting and researching dance topics",
+            "Leading discussions and presentations on chosen dance topics"
+        ]
+    },
+    {
+        "courseTitle": "Senior Project",
+        "courseCode": "DANC 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Completion of a major research project during one's senior year on a topic of particular interest to the student.  Topics to be selected under the direction of an instructor with conferences as appropriate.  (Qualifies as a CAP experience.)",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data collection",
+            "Data analysis",
+            "Presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructors",
+            "Conducting conferences",
+            "Collaboration with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying research gaps",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Initiative in topic selection"
+        ]
+    },
+    {
+        "courseCode": "DANC 595",
+        "courseTitle": "Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses appear in the course schedule, and are more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography design",
+            "Music editing for dance routines",
+            "Video editing for dance performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dance partners",
+            "Giving and receiving constructive feedback on dance techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting dance routines to different music styles",
+            "Troubleshooting technical issues during performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Scheduling and coordinating dance performances"
+        ]
+    },
+    {
+        "courseCode": "DANC 596",
+        "courseTitle": "Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses appear in the course schedule, and are more fully described in a booklet distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Choreography creation",
+            "Dance routine design",
+            "Music editing for performances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dancers",
+            "Effective feedback delivery to peers",
+            "Public speaking during dance presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting choreography to different music styles",
+            "Troubleshooting dance routine transitions",
+            "Analyzing dance movements for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading dance rehearsals",
+            "Time management for group practices",
+            "Event planning for dance showcases"
+        ]
+    },
+    {
+        "courseCode": "DANC 597",
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodologies in dance",
+            "Digital video editing for performance analysis",
+            "Online collaboration tools for dance research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills for dance research findings",
+            "Collaborative writing and editing for academic papers in dance",
+            "Feedback and critique in dance research discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of dance performances and choreography",
+            "Identifying trends in dance history and theory",
+            "Developing research questions in dance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for independent study in dance",
+            "Leading group discussions on specialized dance topics",
+            "Time management for research and writing in dance"
+        ]
+    },
+    {
+        "courseCode": "DANC 598",
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Choreography design software proficiency",
+            "Video editing for dance performances",
+            "Sound editing for dance routines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective feedback delivery on dance performances",
+            "Collaboration with other dancers and instructors",
+            "Presentation skills for sharing research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in choreography",
+            "Critical analysis of dance performances",
+            "Research methodology for dance studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Coordination of dance projects",
+            "Leading group discussions and conferences"
+        ]
+    },
+    {
+        "courseCode": "DANC 697",
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills for gathering dance-related information",
+            "Digital media editing for dance videos",
+            "Online collaboration tools for remote dance practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructors and peers for feedback",
+            "Collaborative decision-making on dance routines",
+            "Presentation skills for sharing dance progress"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of different dance styles",
+            "Identifying and addressing technical challenges in dance movements",
+            "Creative problem-solving for choreography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for balancing dance practice and study",
+            "Leading dance rehearsals and coordinating group performances",
+            "Event planning for showcasing dance projects"
+        ]
+    },
+    {
+        "courseCode": "DANC 698",
+        "courseTitle": "Tutorial Work in Special Topics in Dance",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills in dance",
+            "Digital resources utilization for dance studies",
+            "Understanding dance terminology and notation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructors and peers in the field of dance",
+            "Collaborative work on dance projects",
+            "Presenting findings and insights from dance research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of dance performances and choreography",
+            "Identifying trends and patterns in dance history and culture",
+            "Developing new perspectives on dance through independent study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing individual study plans",
+            "Taking initiative in exploring new areas of dance research",
+            "Leading discussions and presentations on selected dance topics"
+        ]
+    }
+]

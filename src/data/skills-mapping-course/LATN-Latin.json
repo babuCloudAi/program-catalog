@@ -1,0 +1,139 @@
+[
+    {
+        "courseTitle": "Beginning Latin I",
+        "courseCode": "LATN 101F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to Latin literature and Roman civilization.",
+        "Technical and Digital Skills": [
+            "Reading and understanding Latin literature",
+            "Familiarity with Latin grammar and sentence structure",
+            "Knowledge of Roman history and culture"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Translating Latin prose and verse",
+            "Articulating understanding of Roman civilization in discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deciphering Latin texts",
+            "Analyzing Roman civilization context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Latin II",
+        "courseCode": "LATN 102F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Latin is immortal!  Roman mythology, the destruction of Pompeii, and the rise of the Colosseum are some of the topics.  Reading Latin and building your vocabulary are reinforced with interactive student activities and videos.",
+        "Technical and Digital Skills": [
+            "Reading Latin",
+            "Vocabulary building",
+            "Interactive activities",
+            "Video comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions on Roman history",
+            "Explaining and discussing mythological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting Latin text",
+            "Analyzing historical events",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for self-study",
+            "Leading discussions on historical topics",
+            "Organizing and memorizing vocabulary"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Latin I",
+        "courseCode": "LATN 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Latin Lives!  Roman mythology, gladiator fights, and comedy in the theater are some of the topics.  Advanced Latin readings and grammar are reinforced with interactive student activities and videos.",
+        "Technical and Digital Skills": [
+            "Advanced Latin readings",
+            "Understanding of Latin grammar",
+            "Interactive activities participation",
+            "Utilization of educational videos"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and interpretation of Roman mythology",
+            "Engagement in collaborative learning activities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of Latin texts",
+            "Understanding and interpreting historical context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management for independent study"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Latin II",
+        "courseCode": "LATN 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Carpe diem!  The poetry of Catullus and Horace is funny, nasty and philosophical.  Translate analyze, and compare their poetry to our culture today.  Also read parts of Ovid's Metamorphoses the mythology book which kept Latin alive through the Dark Ages until its resurgence in the Renaissance.",
+        "Technical and Digital Skills": [
+            "Latin translation",
+            "Cultural analysis",
+            "Comparative literature analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Articulating complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis",
+            "Historical context analysis",
+            "Comparative analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Latin",
+        "courseCode": "LATN 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  Study Roman literature, culture, and its influence.  Translate, analyze, discuss relevance to today's world.",
+        "Technical and Digital Skills": [
+            "Translation of Latin texts",
+            "Analysis of Roman literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion on relevance of Roman culture",
+            "Presenting interpretations of Latin texts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cultural influences",
+            "Comparative analysis of historical and contemporary relevance"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Latin",
+        "courseCode": "LATN 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule booklet and will be more fully described in a booklet distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Latin language proficiency",
+            "Historical research using digital databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings",
+            "Peer collaboration for discussion and feedback",
+            "Critical feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading of Latin texts",
+            "Historical context interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Project management for research tasks"
+        ]
+    }
+]

@@ -1,0 +1,2165 @@
+[
+    {
+        "courseTitle": "Sales Techniques",
+        "courseCode": "SEPS 100",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an introductory course that emphasizes the concept of determining customer needs, wants, and desires and matching them to products and services for a long-term sales relationship.",
+        "Technical and Digital Skills": [
+            "Identifying customer needs through analytics",
+            "Using CRM tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective verbal communication",
+            "Building long-term relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Matching products to customer needs",
+            "Analyzing customer wants and desires"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing customer relationships",
+            "Sales planning"
+        ]
+    },
+    {
+        "courseTitle": "Advertising and Promotion",
+        "courseCode": "SEPS 102",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an introductory course designed to teach the fundamental product and service promotion processes of planning and producing advertising and promotion campaigns.",
+        "Technical and Digital Skills": [
+            "Planning advertising and promotion campaigns",
+            "Producing advertising and promotion campaigns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting promotion strategies",
+            "Collaborating on campaign production"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing effectiveness of advertising strategies",
+            "Resolving issues during campaign production"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing campaign production process",
+            "Leading promotional planning sessions"
+        ]
+    },
+    {
+        "courseTitle": "Topics in STEM Education and Professional Studies",
+        "courseCode": "SEPS 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics of current interest in the area of STEM Education and Professional Studies.",
+        "Technical and Digital Skills": [
+            "Understanding emerging STEM technologies",
+            "STEM education methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex STEM concepts",
+            "Collaborative problem-solving in STEM"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of STEM education trends",
+            "Critical evaluation of STEM research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading STEM education initiatives",
+            "Organizing professional STEM activities"
+        ]
+    },
+    {
+        "courseTitle": "Dress, Culture and Society",
+        "courseCode": "SEPS 203S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an analysis of dress in cultures around the world while developing an understanding of its relationship to human beings as biological, aesthetic, and social animals. Human beings dress their bodies to communicate identity and to receive personal satisfaction. Students will discover how global fashion, age, gender, ethnicity, and income influence the fashion industry and our lives.",
+        "Technical and Digital Skills": [
+            "Analysis of global fashion trends",
+            "Research methodologies related to cultural studies",
+            "Understanding of the fashion industry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of personal identity through dress",
+            "Understanding and interpreting cultural differences in dress",
+            "Engaging with diverse perspectives on fashion and culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of fashion in relation to age, gender, ethnicity, and income",
+            "Analysis of the relationship between dress and identity",
+            "Understanding of the societal impact of fashion"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Retail Merchandising and Buying",
+        "courseCode": "SEPS 208",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course intorduces students to the fundamentals of retail merchandising and explores retail buyers' skills and responsibilities including identifying customers and vendors, retail mathematics, buying plans, and merchandise control.",
+        "Technical and Digital Skills": [
+            "Understanding of retail mathematics",
+            "Development and implementation of buying plans",
+            "Merchandise control"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Identification and interaction with customers and vendors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Customer and vendor identification and analysis",
+            "Retail mathematics problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Merchandising management",
+            "Planning and executing buying plans"
+        ]
+    },
+    {
+        "courseTitle": "The Fashion Industry",
+        "courseCode": "SEPS 220",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed for marketing education and fashion students.  It covers fashion as a force which alters patterns of change and growth in the fashion industry to include designers, manufacturers, buyers, retailers, and customers.  Students explore the latest trends in style and materials.",
+        "Technical and Digital Skills": [
+            "Understanding of fashion trends",
+            "Knowledge of various materials used in fashion",
+            "Understanding the role of designers, manufacturers, buyers, retailers, and customers in the fashion industry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with different stakeholders in the fashion industry"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze fashion trends",
+            "Understanding of the factors that influence changes in the fashion industry"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and adapt to changes in the fashion industry"
+        ]
+    },
+    {
+        "courseTitle": "Visual Merchandising and Display",
+        "courseCode": "SEPS 223A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the best practices and effective strategies in visual merchandising. It will provide the basic framework with which prospective merchandisers plan and construct visual displays that enhance the selling of merchandise and ideas.",
+        "Technical and Digital Skills": [
+            "Designing visual displays",
+            "Planning visual merchandising strategies",
+            "Basic understanding of merchandise sales"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting visual merchandising ideas",
+            "Collaboration in visual merchandising strategy development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating the effectiveness of visual displays",
+            "Enhancing merchandise sales through visual strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing merchandise and display resources",
+            "Leading visual merchandising initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Survey of Dress and Costume",
+        "courseCode": "SEPS 234",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Whether high fashion or low, glitz or grunge, from revolutionary politics to the new machine age, war and depression to growth and prosperity, fashion dress and costume goes hand-in-hand with history.  This course examines the evolution of dress and costume and finds innovation at every turn.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Fashion analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Contextual communication",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Pattern recognition",
+            "Trend analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Historical chronology",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Topics of current interest in the area of STEM Education and Professional Studies",
+        "courseCode": "SEPS 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics of current interest in the area of STEM Education and Professional Studies.",
+        "Technical and Digital Skills": [
+            "Adapting to new STEM technologies",
+            "Understanding of current STEM software tools",
+            "Application of modern digital tools in STEM education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting STEM concepts",
+            "Collaborative learning in STEM",
+            "Effective communication in professional settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current issues in STEM",
+            "Critical evaluation of STEM studies",
+            "Problem solving in STEM contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading STEM-focused teams",
+            "Organizing STEM projects",
+            "Leadership in professional STEM settings"
+        ]
+    },
+    {
+        "courseTitle": "Observation and Participation",
+        "courseCode": "SEPS 297",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students observe middle and/or high school classes for 30 clock hours.  Assist teachers and students in practical settings.  Relate principles and theories of education and specialty content to actual practice in the classrooms and schools.  Attend seminars related to contemporary school practices.",
+        "Technical and Digital Skills": [
+            "Knowledge of educational theories and principles",
+            "Understanding of specialty content relevant to the observed classes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with teachers and students",
+            "Active listening",
+            "Observation and interpretation of classroom interactions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of educational theories to practical situations",
+            "Analyzing classroom situations",
+            "Problem-solving in a classroom setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Assisting teachers in practical settings",
+            "Participating in educational seminars",
+            "Applying leadership skills in a classroom environment"
+        ]
+    },
+    {
+        "courseTitle": "Workforce Supervision Management",
+        "courseCode": "SEPS 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Explores the skills and knowledge required of successful supervisors: leading, motivating, setting goals, delegating, budgeting, interviewing, negotiating, counseling, coaching, conducting meetings, and handling grievances.",
+        "Technical and Digital Skills": [
+            "Budgeting",
+            "Delegating tasks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing",
+            "Negotiating",
+            "Counseling",
+            "Coaching",
+            "Conducting meetings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Handling grievances",
+            "Goal setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership",
+            "Motivation",
+            "Task delegation",
+            "Goal setting"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Consumer Behavior",
+        "courseCode": "SEPS 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to enhance a student's understanding of what drives customers' wants and needs for fashion merchandise. Students examine the forces that affect consumer buying behavior and how they relate to the marketing of fashion.",
+        "Technical and Digital Skills": [
+            "Market research",
+            "Trend analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding customer needs",
+            "Relating consumer behavior to marketing strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing consumer buying behavior",
+            "Predicting fashion trends based on consumer behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for fashion marketing",
+            "Decision making based on consumer behavior analysis"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "SEPS 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "Understanding of academic relevance",
+            "Ability to follow evaluative procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with department and the Cooperative Education program",
+            "Ability to present work experience in a relevant academic context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to identify and evaluate academic relevance of work experience",
+            "Critical thinking to meet established criteria"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning work experience prior to the semester",
+            "Ability to adhere to formally determined procedures"
+        ]
+    },
+    {
+        "courseTitle": "Education and Training of Adults",
+        "courseCode": "SEPS 389",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An in-depth overview of education and training of adults.  Attention is given to adult learning theory and strategies for facilitating the learning process.  Aspects of the course will focus on helping students understand and visualize jobs and careers in adult education and training.",
+        "Technical and Digital Skills": [
+            "Understanding of adult learning theories",
+            "Utilizing strategies for facilitating the learning process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating adult learning",
+            "Visualizing jobs and careers in adult education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of adult learning theories in problem-solving",
+            "Analyzing various strategies for facilitating learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in adult education and training",
+            "Organizing adult learning processes",
+            "Career planning and development in adult education"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Occupational Education",
+        "courseCode": "SEPS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Peer feedback",
+            "Presentation of group findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem identification",
+            "Creative Problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Group coordination",
+            "Task delegation",
+            "Leadership in small group settings"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Systems Development",
+        "courseCode": "SEPS 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students learn how to design and develop classroom instructional materials including career and technical education and training curricula and programs for youths and adults.  Skills in this area include the selection and use of materials, including media and computers and evaluation of pupil performance.  Training specialist students learn to develop instructional materials using the instructional systems design process. Career and technical education students learn to plan instruction, to implement competency-based and standards-based education, and to modify and use the Virginia career and technical education curriculum guides.",
+        "Technical and Digital Skills": [
+            "Design and development of classroom instructional materials",
+            "Use of media and computers for instruction",
+            "Development of instructional materials using the instructional systems design process",
+            "Implementation of competency-based and standards-based education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of instructional materials",
+            "Communication of curriculum guide modifications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of appropriate instructional materials",
+            "Evaluation of pupil performance",
+            "Modification of the Virginia career and technical education curriculum guides"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning of instruction",
+            "Implementation of career and technical education programs"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Career and Technical Education",
+        "courseCode": "SEPS 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to teach career and technical education majors to plan, develop, and administer a comprehensive program of career and technical education for high school students and adults.  Students also develop an understanding of the historical and sociological foundations underlying the role, development and organization of public education in the United States.",
+        "Technical and Digital Skills": [
+            "Program development",
+            "Program administration",
+            "Understanding of historical and sociological foundations of education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional planning for diverse student populations",
+            "Effective communication within an educational context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of educational systems",
+            "Development of comprehensive educational plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Educational program leadership",
+            "Organizational understanding of public education in the United States"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Methods in Occupational Studies",
+        "courseCode": "SEPS 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to develop a student's ability to use basic instructional techniques and methods applicable to career and technical education, and adults in business, government, and industrial organizations.  It involves videotaped micro-teaching demonstrations and presentations.",
+        "Technical and Digital Skills": [
+            "Basic instructional techniques",
+            "Utilization of video technology in teaching",
+            "Presentation creation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in teaching",
+            "Presentation skills",
+            "Micro-teaching demonstrations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of teaching methods to various professional contexts",
+            "Evaluation of teaching techniques effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instructional planning",
+            "Leadership in classroom or training settings",
+            "Organization of instructional materials"
+        ]
+    },
+    {
+        "courseTitle": "Directed Work Experience",
+        "courseCode": "SEPS 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student must be employed the summer prior to his/her senior year in an emphasis-related job approved by the instructor.  The student work is supervised by a job supervisor and the course instructor in a cooperative effort.  Must complete a job package that describes all aspects of the organization.",
+        "Technical and Digital Skills": [
+            "Industry-specific technical skills",
+            "Understanding of organizational systems and processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with job supervisor and course instructor",
+            "Adapting to workplace culture",
+            "Active listening and feedback exchange"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing job tasks and processes",
+            "Identifying and resolving workplace issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding company structure and hierarchy",
+            "Time management",
+            "Self-leadership and initiative taking"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Classroom Issues and Practices in Career and Technical Education",
+        "courseCode": "SEPS 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of classroom issues and practices for prospective career and technical teachers.  The course covers classroom management and safety, communication processes, reading in the content area and child abuse and neglect recognition and intervention.  Students learn the legal requirements and alternative teaching strategies for serving students with special needs.  Students visit schools for a 30-hour student observation.  PRAXIS II and VCLA are course completion requirements.",
+        "Technical and Digital Skills": [
+            "Classroom management and safety",
+            "Understanding and implementing legal requirements for special needs education",
+            "Reading in the content area",
+            "Child abuse and neglect recognition and intervention"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication processes within a classroom",
+            "Alternative teaching strategies for students with special needs",
+            "Interacting with students during 30-hour observation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing classroom issues",
+            "Implementing effective teaching practices",
+            "Analyzing and adapting to student needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading classroom activities",
+            "Managing diverse student needs",
+            "PRAXIS II and VCLA preparation and completion"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Forecasting Market Trip",
+        "courseCode": "SEPS 409/509",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the study of planning and conducting a fashion buying trip to one of the major fashion markets in the United States like the Las Vegas Magic Trade Show.  The students envision themselves as buyers in action and learn how trend forecasting and creative presentations help market fashion products and services to trade customers and consumers.",
+        "Technical and Digital Skills": [
+            "Trend forecasting",
+            "Fashion product and service marketing",
+            "Creative presentations for trade shows"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with vendors",
+            "Effective communication with trade customers",
+            "Presentation skills for consumers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Market analysis",
+            "Fashion trend analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting a fashion buying trip",
+            "Organizing a trade show booth",
+            "Leadership in buying decisions"
+        ]
+    },
+    {
+        "courseTitle": "The Foreign Fashion Market Trip",
+        "courseCode": "SEPS 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students plan and conduct a fashion buying trip to a foreign market in Europe or Asia, and learn how to buy merchandise in the global marketplace.  The course requires students to go on the trip as well as attend the pre- and post-trip classes.",
+        "Technical and Digital Skills": [
+            "Global fashion market analysis",
+            "Foreign exchange and financial transactions",
+            "Digital tools for market research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation with foreign vendors",
+            "Presentation of market findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in foreign markets",
+            "Analyzing market trends",
+            "Evaluating merchandise quality and value"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting a fashion buying trip",
+            "Time management",
+            "Leadership during overseas operations"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Merchandising",
+        "courseCode": "SEPS 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for marketing education and fashion students. It includes advanced merchandising math concepts used in the merchandising industry.  Topics include pricing and re-pricing merchandise, creating and analyzing six-month plans, maintaining inventory control, and solving problems that are typically experienced in the merchandising field.",
+        "Technical and Digital Skills": [
+            "Merchandising math concepts",
+            "Pricing and re-pricing strategies",
+            "Creating and analyzing six-month plans",
+            "Inventory management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Reporting and presenting merchandising data",
+            "Communication with vendors and stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting merchandising problems",
+            "Analyzing merchandising trends",
+            "Forecasting and Inventory analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in merchandising",
+            "Budget planning",
+            "Inventory control leadership"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Research",
+        "courseCode": "SEPS 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to apply diverse research methods to explore the complex dynamics in fashion. Utilizing an interdisciplinary approach, students will engage in diverse topics in fashion bridging the gap between theory and practice.",
+        "Technical and Digital Skills": [
+            "Applying diverse research methods",
+            "Interdisciplinary approach to fashion research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement in diverse fashion topics",
+            "Bridging the gap between theory and practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex dynamics in fashion"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing interdisciplinary research",
+            "Leading fashion theory to practice transformations"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Product Development",
+        "courseCode": "SEPS 422",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students work step-by-step through the preproduction processes of apparel product development:  planning, forecasting, fabricating, developing silhouettes and specifications, pricing, and sourcing.  The course demonstrates how these processes must be coordinated to get the right product to retail when consumers want it and at a price they are willing to pay.",
+        "Technical and Digital Skills": [
+            "Planning and coordinating preproduction processes",
+            "Fabricating prototypes",
+            "Developing silhouettes and specifications",
+            "Pricing strategies",
+            "Sourcing materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with team members",
+            "Communicating with suppliers",
+            "Understanding consumer needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Forecasting product demands",
+            "Analyzing market trends",
+            "Balancing product quality and cost",
+            "Problem-solving throughout the product development process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing timelines for product release",
+            "Coordinating various product development stages",
+            "Leading a product development team"
+        ]
+    },
+    {
+        "courseTitle": "Fashion, Textiles, and Construction Analysis",
+        "courseCode": "SEPS 424/524",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores information related to new technological advances in the textile/apparel industry and determines consumer preferences and concepts of fashion product quality.  It includes the development of standards for judging qualities of merchandise.  Fabrics are examined to determine the value they provide to the apparel and accessories customer.",
+        "Technical and Digital Skills": [
+            "Application of new textile technologies",
+            "Determining fabric value",
+            "Understanding consumer preferences in fashion and apparels",
+            "Evaluating quality standards for merchandise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Product presentation",
+            "Communication of consumer preferences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of apparel and accessory quality",
+            "Assessment of consumer preferences",
+            "Evaluation of textile value"
+        ],
+        "Organizational and Leadership Skills": [
+            "Development of quality standards for merchandise",
+            "Understanding and applying new technologies in textile industry"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Marketing",
+        "courseCode": "SEPS 427",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explains key concepts of fashion marketing and illustrates how they are applied within the fashion industry. Using examples and case studies, students will examine how marketers develop and apply strategies that meet consumer needs for fashion products.",
+        "Technical and Digital Skills": [
+            "Fashion marketing strategies",
+            "Understanding consumer needs for fashion products"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within the fashion industry"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and application of case studies",
+            "Evaluation and development of marketing strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and execution of marketing strategies"
+        ]
+    },
+    {
+        "courseTitle": "Web-Based Organization for Fashion",
+        "courseCode": "SEPS 431/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the basic communications foundations needed to conceive, plan, develop, implement, and maintain a Web-based organization for fashion.  Upon completion, students will understand what is required to plan, launch and maintain a successful online venture, limited only by the willingness of the student to explore these technological advances.",
+        "Technical and Digital Skills": [
+            "Web development",
+            "Understanding of online ventures",
+            "Exploring technological advances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication in planning and implementing web-based organization",
+            "Collaboration in maintaining online ventures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning for online ventures",
+            "Analyzing and maintaining web-based systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and launching online ventures",
+            "Leadership in maintaining a successful online venture"
+        ]
+    },
+    {
+        "courseTitle": "International Retailing",
+        "courseCode": "SEPS 435/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines globalization and the development of an integrated global economy.  Primary emphasis is placed on the strategies for successful global business expansion for retailers in international markets.",
+        "Technical and Digital Skills": [
+            "Global market analysis",
+            "International business strategy development",
+            "Digital marketing for international markets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation in international business",
+            "Presentation of business expansion strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk analysis in global markets",
+            "Strategic decision making",
+            "Problem-solving in context of international business"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in diverse business environments",
+            "Organizational strategy for global expansion",
+            "Project management for international expansions"
+        ]
+    },
+    {
+        "courseTitle": "Fashion Global Sourcing/Supply Chain Management",
+        "courseCode": "SEPS 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the role of global sourcing in the strategic positioning of retailers in the global economy.  Emphasis is placed on economic, political, logistical, and ethical factors affecting world trade and global sourcing decisions.",
+        "Technical and Digital Skills": [
+            "Understanding of global sourcing principles",
+            "Knowledge of world trade logistics",
+            "Ability to evaluate economic factors affecting global sourcing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Navigating political factors in global sourcing",
+            "Ethical decision making in global sourcing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic positioning in the global economy",
+            "Analysis of global sourcing decisions",
+            "Analysis and management of logistical factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making in global sourcing",
+            "Strategic management of global sourcing",
+            "Leadership in ethical sourcing decisions"
+        ]
+    },
+    {
+        "courseTitle": "Assessment, Evaluation and Improvement",
+        "courseCode": "SEPS 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares training and educational professionals to plan for and conduct assessments to use in planning instructional programs, evaluate individual learning, monitor student progress, measure program effectiveness and efficiency, and evaluate the return on investments of training courses and programs.",
+        "Technical and Digital Skills": [
+            "Planning instructional programs",
+            "Conducting assessments",
+            "Measuring program effectiveness and efficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating assessment results",
+            "Instructional coaching"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating individual learning",
+            "Monitoring student progress",
+            "Analyzing return on investments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision making based on assessments",
+            "Leadership in educational settings",
+            "Program management"
+        ]
+    },
+    {
+        "courseTitle": "E-Commerce and Social Media in Fashion",
+        "courseCode": "SEPS 456",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to understand the expanding fields of e-commerce and social media. It will focus on examining features available in social media and the web/mobile technologies and their ability to improve fashion marketing strategies.",
+        "Technical and Digital Skills": [
+            "Understanding of e-commerce platforms",
+            "Knowledge of social media platforms",
+            "Web and mobile technologies",
+            "Digital marketing for fashion"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Social media communication",
+            "Online customer engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social media features",
+            "Evaluating effectiveness of digital marketing strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning digital marketing campaigns",
+            "Managing online fashion branding"
+        ]
+    },
+    {
+        "courseTitle": "Senior Project: Merchandise Retailing",
+        "courseCode": "SEPS 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A senior capstone course in which fashion and business knowledge and skills are applied to plan and implement a merchandise retailing business.  Students must submit a professional quality written report and present results to a panel of consultants. Course to be taken final semester before graduation.",
+        "Technical and Digital Skills": [
+            "Business plan creation",
+            "Merchandise retailing strategies",
+            "Fashion industry knowledge",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting business plans",
+            "Professional communication",
+            "Collaboration with consultants"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Business problem-solving",
+            "Retail business analysis",
+            "Merchandise planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in retail business",
+            "Organizational planning"
+        ]
+    },
+    {
+        "courseTitle": "Career and Professional Development",
+        "courseCode": "SEPS 481",
+        "academicLevel": "undergraduate",
+        "courseDescription": "To provide the senior-level  student majoring in occupational and technical studies with the skills and techniques necessary to bridge the gap from college to career.  Focus is on the generation of a professional portfolio and experiential learning that will transfer into today's job market. This course should be taken in the final semester before graduation.",
+        "Technical and Digital Skills": [
+            "Creating a professional portfolio",
+            "Experiential learning techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Presenting portfolio"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career planning",
+            "Job market analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career transition management",
+            "Self-leadership"
+        ]
+    },
+    {
+        "courseTitle": "Student Teaching Mentored",
+        "courseCode": "SEPS 484/584",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Classroom placement in school systems for students to apply content and methodologies.  The student is mentored by a school mentor and university faculty.  This course is for newly hired teachers on provisional contracts.",
+        "Technical and Digital Skills": [
+            "Content application",
+            "Implementation of teaching methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentee-Mentor Communication",
+            "Classroom Management",
+            "Interaction with students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Teaching problem-solving",
+            "Analytical evaluation of student's learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a classroom",
+            "Organizational coordination with school and university mentors",
+            "Leadership in provisional teaching environments"
+        ]
+    },
+    {
+        "courseTitle": "Student Teaching",
+        "courseCode": "SEPS 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Five days per week, full semester.  Available for pass/fail grading only.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Classroom communication",
+            "Student engagement",
+            "Feedback delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Lesson planning",
+            "Adapting teaching methods to individual student needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Time management",
+            "Leadership in educational settings"
+        ]
+    },
+    {
+        "courseTitle": "Middle School Student Teaching for Technical Education",
+        "courseCode": "SEPS 486/586",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Classroom placement for student teaching in a middle school technology laboratory.  Students apply content and methodology under the supervision of a cooperating teacher and university faculty member. Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Understanding of technology laboratory equipment",
+            "Application of technical education content",
+            "Implementation of teaching methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Cooperating with teaching supervisors",
+            "Conveying technical concepts to a middle school audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adjusting teaching approaches based on student feedback",
+            "Analyzing student performance",
+            "Problem-solving in a technology laboratory setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Planning and organizing lessons",
+            "Leading a technology laboratory class"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Occupational Education",
+        "courseCode": "SEPS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics designed to permit small groups of qualified students to work in subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Specialized subject knowledge",
+            "Research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Knowledge sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding specialized topics",
+            "Applying research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Group facilitation"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Career and Technical Education",
+        "courseCode": "SEPS 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics designed to permit small groups of qualified students to work in subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research on specialized topics",
+            "Knowledge in specific technical fields",
+            "Usage of digital tools for learning and research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Small group collaboration",
+            "Peer-to-peer learning",
+            "Presenting specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying relevant resources for specialized topics",
+            "Critical evaluation of specialized information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Coordinating group study sessions",
+            "Leading discussions on specialized topics"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Occupational Education",
+        "courseCode": "SEPS 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SEPS 500",
+        "courseTitle": "Instructional Systems Development",
+        "academicLevel": "graduate",
+        "courseDescription": "Students learn how to design and develop classroom instructional materials including career and technical education and training curricula and programs for youths and adults.  Skills in this area include the selection and use of materials, including media and computers and evaluation of pupil performance.  Training specialist students learn to develop instructional materials using the instructional systems design process. Career and technical education students learn to plan instruction, to implement competency-based and standards-based education, and to modify and use the Virginia career and technical education curriculum guides.",
+        "Technical and Digital Skills": [
+            "Design and development of instructional materials",
+            "Use of media and computers for instruction",
+            "Instructional systems design process",
+            "Modifying and using Virginia career and technical education curriculum guides"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with students of different age groups",
+            "Presenting and explaining instructional materials",
+            "Conveying the objectives and requirements of career and technical education programs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of pupil performance",
+            "Selection of appropriate instructional materials",
+            "Implementation of competency-based and standards-based education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning instruction",
+            "Developing training curricula and programs",
+            "Leadership skills in an educational setting"
+        ]
+    },
+    {
+        "courseCode": "SEPS 501",
+        "courseTitle": "Foundations of Career and Technical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to teach career and technical education majors to plan, develop, and administer a comprehensive program of career and technical education for high school students and adults.  Students also develop an understanding of the historical and sociological foundations underlying the role, development and organization of public education in the United States.",
+        "Technical and Digital Skills": [
+            "Program Development",
+            "Program Administration",
+            "Understanding Public Education Systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective Communication in Education Settings",
+            "Interpersonal Skills for Educational Leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comprehensive Program Planning",
+            "Analyzing Educational Sociological Foundations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational Skills in Education",
+            "Leadership in Technical Education"
+        ]
+    },
+    {
+        "courseCode": "SEPS 502",
+        "courseTitle": "Instructional Methods in Occupational Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to develop a student's ability to use basic instructional techniques and methods applicable to career and technical education, and adults in business, government, and industrial organizations.  It involves videotaped micro-teaching demonstrations.",
+        "Technical and Digital Skills": [
+            "Basic instructional techniques",
+            "Videotaping and editing micro-teaching demonstrations",
+            "Understanding career and technical education methods",
+            "Utilization of teaching methods applicable for business, government, and industrial organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of instructional techniques",
+            "Presentation of videotaped demonstrations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to different occupational contexts",
+            "Evaluating the effectiveness of different instructional techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading instructional demonstrations",
+            "Planning and organizing micro-teaching sessions"
+        ]
+    },
+    {
+        "courseCode": "SEPS 503",
+        "courseTitle": "Methods in Career and Technical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "A practical study and application of recommended methods of teaching career and technical education to high school students.  Video-taped micro-teaching demonstrations are included.  The course should be taken the semester prior to student teaching.",
+        "Technical and Digital Skills": [
+            "Use of video recording equipment",
+            "Technical education teaching methods",
+            "Application of career education techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Delivering effective teaching demonstrations",
+            "Communicating technical concepts to students",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Analysing student performance",
+            "Problem-solving in a teaching context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of teaching demonstrations",
+            "Leadership in a classroom setting",
+            "Preparation for student teaching"
+        ]
+    },
+    {
+        "courseCode": "SEPS 508",
+        "courseTitle": "Advanced Classroom Issues and Practices in Career and Technical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of classroom issues and practices for prospective career and technical teachers.  The course covers classroom management and safety, communication processes, reading in the content area and child abuse and neglect recognition and intervention.  Students learn the legal requirements and alternative teaching strategies for serving students with special needs.  Students visit schools for a 30-hour student observation.  PRAXIS II completion is a course requirement.",
+        "Technical and Digital Skills": [
+            "Child abuse and neglect recognition and intervention",
+            "PRAXIS II completion",
+            "Classroom safety protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication processes",
+            "Alternative teaching strategies for serving students with special needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Classroom management strategies",
+            "Reading in the content area"
+        ],
+        "Organizational and Leadership Skills": [
+            "Observation and assessment",
+            "Compliance with legal requirements"
+        ]
+    },
+    {
+        "courseCode": "SEPS 509",
+        "courseTitle": "Fashion Forecasting Market Trip",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the study of planning and conducting a fashion buying trip to one of the major fashion markets in the United States like the Las Vegas Magic Trade Show.  The students envision themselves as buyers in action and learn how trend forecasting and creative presentations help market fashion products and services to trade customers and consumers.",
+        "Technical and Digital Skills": [
+            "Fashion trend forecasting",
+            "Creating creative presentations",
+            "Understanding of fashion markets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with trade customers",
+            "Effective communication with consumers",
+            "Presentation of fashion products and services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of fashion market trends",
+            "Decision making on buying trip",
+            "Critical evaluation of fashion products"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting a fashion buying trip",
+            "Leading fashion buying operations",
+            "Organizing fashion products and services for market"
+        ]
+    },
+    {
+        "courseCode": "SEPS 510",
+        "courseTitle": "The Foreign Fashion Market Trip",
+        "academicLevel": "graduate",
+        "courseDescription": "Students plan and conduct a fashion buying trip to a foreign market in Europe or Asia, and learn how to buy merchandise in the global marketplace.  The course requires students to go on the trip as well as attend the pre- and post-trip classes.",
+        "Technical and Digital Skills": [
+            "International fashion buying techniques",
+            "Identifying quality merchandise",
+            "Effective use of digital travel tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation with foreign suppliers",
+            "Collaborative trip planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Foreign market analysis",
+            "Addressing logistical challenges",
+            "Problem-solving in unfamiliar environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic trip planning",
+            "Time management",
+            "Leadership in group travel situations"
+        ]
+    },
+    {
+        "courseCode": "SEPS 511",
+        "courseTitle": "Fashion Show Production",
+        "academicLevel": "graduate",
+        "courseDescription": "Students plan and produce a fashion show.  They examine each behind-the-scenes step from concept to execution as they organize and stage a show that is profitable, entertaining, and aesthetically pleasing.",
+        "Technical and Digital Skills": [
+            "Fashion show production",
+            "Concept development",
+            "Event staging"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork",
+            "Negotiation",
+            "Effective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Profitability analysis",
+            "Aesthetic judgment",
+            "Entertainment value assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership",
+            "Event planning and organization"
+        ]
+    },
+    {
+        "courseCode": "SEPS 523",
+        "courseTitle": "Visual Merchandising and Display",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to introduce students to the best practices and effective strategies in visual merchandising.  It will provide the basic framework with which prospective merchandisers plan and construct visual displays that enhance the selling of merchandise and ideas.",
+        "Technical and Digital Skills": [
+            "Planning visual displays",
+            "Constructing visual displays",
+            "Understanding merchandising best practices",
+            "Implementing effective merchandising strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating merchandising ideas visually",
+            "Collaborating with team for display construction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing display effectiveness",
+            "Solving visual merchandising issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing merchandising plans",
+            "Leading visual display construction projects"
+        ]
+    },
+    {
+        "courseCode": "SEPS 531",
+        "courseTitle": "Web-Based Organization for Fashion",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the basic communications foundations needed to conceive, plan, develop, implement, and maintain a Web-based organization for fashion.  Upon completion, students will understand what is required to plan, launch and maintain a successful online venture, limited only by the willingness of the student to explore these technological advances.",
+        "Technical and Digital Skills": [
+            "Web development",
+            "Understanding online ventures",
+            "Exploring technological advances"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication for conception and planning of web-based organization"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning an online venture",
+            "Maintaining a web-based organization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning",
+            "Implementation of web-based organization",
+            "Maintaining an online venture"
+        ]
+    },
+    {
+        "courseCode": "SEPS 535",
+        "courseTitle": "International Retailing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines globalization and the development of an integrated global economy.  Primary emphasis is placed on the strategies for successful global business expansion for retailers in international markets.",
+        "Technical and Digital Skills": [
+            "Understanding of globalization and integrated global economy",
+            "Knowledge of international markets",
+            "Strategic planning for global business expansion"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation skills in an international context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of international markets",
+            "Identifying and overcoming barriers to global expansion"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Leadership in an international context"
+        ]
+    },
+    {
+        "courseCode": "SEPS 540",
+        "courseTitle": "Fashion Global Sourcing/Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the role of global sourcing in the strategic positioning of retailers in the global economy.  Emphasis is placed on economic, political, logistical, and ethical factors affecting world trade and global sourcing decisions.",
+        "Technical and Digital Skills": [
+            "Understanding of economic factors in global sourcing",
+            "Knowledge of political factors affecting world trade",
+            "Logistical planning and management",
+            "Ethical decision-making in global sourcing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills for global sourcing",
+            "Effective communication in a global context",
+            "Cultural sensitivity and adaptability"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic decision making for global sourcing",
+            "Analytical skills for evaluating global markets",
+            "Solution development for logistical challenges",
+            "Ethical problem-solving in global contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in global sourcing decisions",
+            "Organizational skills for managing complex supply chains",
+            "Strategic planning for global market positioning"
+        ]
+    },
+    {
+        "courseCode": "SEPS 550",
+        "courseTitle": "Assessment, Evaluation and Improvement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares training and educational professionals to plan for and conduct assessments to use in planning instructional programs, evaluate individual learning, monitor student progress, measure program effectiveness and efficiency, and evaluate the return on investments of training courses and programs.",
+        "Technical and Digital Skills": [
+            "Planning instructional programs",
+            "Conducting assessments",
+            "Measuring program effectiveness and efficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of assessment results",
+            "Collaboration with other educational professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating individual learning",
+            "Monitoring student progress",
+            "Evaluating return on investment of training courses and programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing assessments",
+            "Leading evaluation processes",
+            "Improving educational and training programs"
+        ]
+    },
+    {
+        "courseCode": "SEPS 584",
+        "courseTitle": "Student Teaching Mentored",
+        "academicLevel": "graduate",
+        "courseDescription": "Classroom placement in school systems for students to apply content and methodologies.  The student is mentored by a school mentor and university faculty.  This course is for newly hired teachers on provisional contracts.",
+        "Technical and Digital Skills": [
+            "Application of educational content",
+            "Implementation of teaching methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentorship",
+            "Collaboration with school staff and university faculty",
+            "Clear communication with students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching strategies to individual student needs",
+            "Classroom management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a classroom setting",
+            "Planning and organization of lesson plans",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SEPS 586",
+        "courseTitle": "Middle School Student Teaching for Technical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Classroom placement for student teaching in a middle school technology laboratory.  Students apply content and methodology under the supervision of a cooperating teacher and university faculty member. Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Understanding of middle school technology lab equipment",
+            "Methodology application",
+            "Content application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with supervising teacher",
+            "Communication with university faculty member",
+            "Teaching middle school students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Identifying and solving technical issues in the lab"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leadership in a technical lab setting",
+            "Organizing lab activities"
+        ]
+    },
+    {
+        "courseCode": "SEPS 595",
+        "courseTitle": "Topics in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit small groups of qualified students to work in subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Specialized subject matter expertise",
+            "Independent research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative group work",
+            "Effective communication of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification in specialized fields",
+            "Solution development for complex, specialized issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project organization within small group settings",
+            "Leadership within a specialized team"
+        ]
+    },
+    {
+        "courseCode": "SEPS 596",
+        "courseTitle": "Topics in Career and Technical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit small groups of qualified students to work in subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Subject matter expertise",
+            "Specialized technical knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Small group collaboration",
+            "Effective communication within groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing specialized problems",
+            "Critical evaluation of specialized topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group activities",
+            "Leading discussions on specialized topics"
+        ]
+    },
+    {
+        "courseCode": "SEPS 597",
+        "courseTitle": "Independent Study in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SEPS 636",
+        "courseTitle": "Problems in Occupational and Technical Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Taken the last semester of graduate work. Practice in the use of statistical and analytical techniques in solving problems in occupational and technical studies related to secondary, community college, and training environments.",
+        "Technical and Digital Skills": [
+            "Use of statistical techniques",
+            "Analytical techniques",
+            "Technical problem-solving"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem resolution",
+            "Analytical thinking",
+            "Statistical problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing problem-solving processes",
+            "Leading problem-solving initiatives"
+        ]
+    },
+    {
+        "courseCode": "SEPS 695",
+        "courseTitle": "Topics in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Subject-specific technical knowledge",
+            "Digital research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Presentation of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic-specific critical analysis",
+            "Creative problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership within a group setting"
+        ]
+    },
+    {
+        "courseCode": "SEPS 696",
+        "courseTitle": "Topics in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group communication",
+            "Presenting ideas and findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing specialized subjects",
+            "Problem-solving in group settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination",
+            "Leading group discussions"
+        ]
+    },
+    {
+        "courseCode": "SEPS 697",
+        "courseTitle": "Independent Study in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study under the supervision of a graduate faculty member.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed learning",
+            "Independent problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "SEPS 698",
+        "courseTitle": "Thesis in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Research and writing of the master’s thesis and scheduled conferences with the candidate’s advisor.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Academic writing",
+            "Usage of referencing software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with academic advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Analyzing data",
+            "Formulating solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SEPS 740",
+        "courseTitle": "Readings in Occupational and Technical Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "A guided review of the literature to determine the history, development, and issues of occupational and technical education, including specialization in technology education, career and technical education specialties, and human resources training.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Understanding of technology education",
+            "Career and technical education specialties",
+            "Human resources training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting findings from literature review",
+            "Effective communication of education theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of literature",
+            "Historical analysis",
+            "Issue identification and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guided research",
+            "Development of education strategies"
+        ]
+    },
+    {
+        "courseCode": "SEPS 750",
+        "courseTitle": "Trends and Issues in Training: Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to explore the issues and trends in developing and implementing technology-based training with emphasis on modeling and simulation.",
+        "Technical and Digital Skills": [
+            "Understanding of technology-based training",
+            "Modeling techniques",
+            "Simulation techniques",
+            "Implementation of training technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicate technology-based training strategies",
+            "Collaboration in developing training technologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing trends and issues in technology-based training",
+            "Problem-solving in the implementation phase"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading technology-based training development",
+            "Organizing simulations and modeling"
+        ]
+    },
+    {
+        "courseCode": "SEPS 760",
+        "courseTitle": "Trends and Issues in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares training and educational professionals to plan for and conduct assessments to use in planning research findings and issues related to tech prep and other articulated programs being established in secondary schools, community colleges, and four-year institutions.",
+        "Technical and Digital Skills": [
+            "Planning for tech prep",
+            "Establishing articulated programs in various educational institutions",
+            "Conducting educational assessments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaborating with secondary schools, community colleges, and four-year institutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing issues related to tech prep and other articulated programs",
+            "Evaluating the effectiveness of training and educational programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting research",
+            "Leading educational program development and implementation"
+        ]
+    },
+    {
+        "courseCode": "SEPS 761",
+        "courseTitle": "Foundations of Adult Education and Training",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of adult education and training in many settings including the community college, business, industry, labor, government, the military, and social service agencies of many types. An attempt will be made to assess the important trends or directions such activities are taking, including the needs of non-traditional learners and education and labor.",
+        "Technical and Digital Skills": [
+            "Understanding of various educational settings",
+            "Knowledge of adult education trends",
+            "Recognition of non-traditional learners' needs",
+            "Awareness of the intersection of education and labor"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to adapt communication to diverse learning environments",
+            "Collaboration skills with different stakeholders",
+            "Effective communication with non-traditional learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of educational trends and directions",
+            "Identification of learning needs in different environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in educational settings",
+            "Organizational skills in diverse learning environments",
+            "Ability to navigate education and labor systems"
+        ]
+    },
+    {
+        "courseCode": "SEPS 762",
+        "courseTitle": "Administration and Management of Education and Training Programs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course deals with organizational policy, human and financial resources, facilities, and the planning process as applied to occupational education and adult training programs.",
+        "Technical and Digital Skills": [
+            "Resource allocation",
+            "Financial management",
+            "Policy development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdepartmental communication",
+            "Conflict resolution",
+            "Team collaboration",
+            "Stakeholder communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Program evaluation",
+            "Strategic planning",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational strategy",
+            "Human resource management",
+            "Leadership in education and training environments"
+        ]
+    },
+    {
+        "courseCode": "SEPS 765",
+        "courseTitle": "Trends and Issues of Economic and Workforce Development",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of economic trends and issues that lead to workforce development decisions. Focus is on planning for educational and training programs to meet workforce needs dictated by local and regional economic issues. This course is designed for community college and school system personnel.",
+        "Technical and Digital Skills": [
+            "Analysis of economic trends",
+            "Planning for educational and training programs",
+            "Understanding local and regional economic issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with various personnel",
+            "Working collaboratively with different departments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying workforce needs",
+            "Analyzing and interpreting economic data",
+            "Making informed decisions based on economic trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning and organization",
+            "Leadership in community college and school system environments"
+        ]
+    },
+    {
+        "courseCode": "SEPS 785",
+        "courseTitle": "Curriculum Development in Occupational Education and Training",
+        "academicLevel": "graduate",
+        "courseDescription": "A course designed to prepare students to design and develop curriculum for occupational education and training courses and programs. Included is a focus on articulation between secondary and post-secondary curriculum.",
+        "Technical and Digital Skills": [
+            "Curriculum development",
+            "Designing educational programs",
+            "Understanding of secondary and post-secondary education systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating curriculum objectives",
+            "Effective communication with various stakeholders in education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying gaps in existing curriculums",
+            "Strategic planning and development of curriculums"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in curriculum development",
+            "Leadership in educational settings"
+        ]
+    },
+    {
+        "courseCode": "SEPS 787",
+        "courseTitle": "Career and Technical Education Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "Learn the various curriculum options taught in secondary schools under the auspices of career and technical education. Work from an administrative standpoint to learn the mission and goals of the various subject areas and plan to direct such efforts.",
+        "Technical and Digital Skills": [
+            "Curriculum planning",
+            "Understanding of diverse technical subject areas",
+            "Educational administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional oversight",
+            "Collaborative planning",
+            "Effective communication with various stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic curriculum development",
+            "Analyzing educational goals",
+            "Evaluation and improvement of curriculum"
+        ],
+        "Organizational and Leadership Skills": [
+            "Educational leadership",
+            "Organizing academic efforts",
+            "Planning and executing educational missions"
+        ]
+    },
+    {
+        "courseCode": "SEPS 788",
+        "courseTitle": "Instructional Strategies for Innovation in Training and Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Learning and teaching styles are considered as a basis for developing instructional strategies to maximize occupational and technical education at all levels, including secondary, the community college, and senior institutions. Relevant learning theories and knowledge of self, learner, and the environment are blended to enhance the participants' instructional strategies.",
+        "Technical and Digital Skills": [
+            "Developing instructional strategies",
+            "Understanding of learning theories",
+            "Knowledge of different learning and teaching styles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding learner needs",
+            "Adapting to different learning environments",
+            "Communicating complex concepts in an understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing learners' needs",
+            "Implementing suitable teaching strategies",
+            "Evaluating effectiveness of instructional strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse learning environments",
+            "Organizing instructional strategies",
+            "Promoting innovation in the learning process"
+        ]
+    },
+    {
+        "courseCode": "SEPS 790",
+        "courseTitle": "Practicum in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Individually prescribed instruction under the supervision of a graduate faculty member. Study intended to professionally fulfill development of graduate candidates.",
+        "Technical and Digital Skills": [
+            "Adaptation to prescribed instruction",
+            "Use of educational technologies",
+            "Subject-specific proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback reception",
+            "Professional correspondence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed problem solving",
+            "Critical self-evaluation",
+            "Adaptability to supervision"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Individual initiative",
+            "Professional development planning"
+        ]
+    },
+    {
+        "courseCode": "SEPS 795",
+        "courseTitle": "Topics in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Specialized topic research",
+            "Usage of academic databases",
+            "Digital tools for collaborative work"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Discussion and negotiation of topics",
+            "Effective communication of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of specialized topics",
+            "Critical thinking",
+            "Problem-solving in group settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project organization",
+            "Leadership within a group setting",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SEPS 797",
+        "courseTitle": "Independent Study in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study under the supervision of a graduate faculty member.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisor",
+            "Constructive feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Task prioritization",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseCode": "SEPS 835",
+        "courseTitle": "Research Design for Occupational and Technical Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Analyses of current research and needs in occupational and technical studies.  Students analyze the literature and develop a research focus for future graduate studies.",
+        "Technical and Digital Skills": [
+            "Literature analysis",
+            "Research design",
+            "Knowledge in occupational and technical studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Articulating research focus"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current research and needs",
+            "Developing a research focus"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research design",
+            "Leading research focus discussions"
+        ]
+    },
+    {
+        "courseCode": "SEPS 840",
+        "courseTitle": "Readings in Occupational and Technical Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "A guided review of the literature to determine the history, development, and issues of occupational and technical education, including specialization in technology education, career and technical education specialties, and human resources training.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Specialization in technology education",
+            "Understanding of human resources training systems",
+            "Knowledge of occupational and technical education history and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication for literature review",
+            "Effective research and information gathering"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Critical evaluation of occupational and technical education issues",
+            "Ability to identify trends and patterns in literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and synthesizing information",
+            "Leading discussions on occupational and technical education issues"
+        ]
+    },
+    {
+        "courseCode": "SEPS 850",
+        "courseTitle": "Trends and Issues in Training: Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to explore the issues and trends in developing and implementing technology-based training with emphasis on modeling and simulation.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling and simulation technologies",
+            "Knowledge of technology-based training development",
+            "Implementation of technology-based training systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating technical training concepts",
+            "Facilitation of technology-based training sessions",
+            "Cross-functional collaboration for system implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of technology-based training needs",
+            "Analysis of technology-based training effectiveness",
+            "Troubleshooting of modeling and simulation systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading technology-based training initiatives",
+            "Organizing and managing technology-based training programs",
+            "Strategic planning for training technology implementation"
+        ]
+    },
+    {
+        "courseCode": "SEPS 860",
+        "courseTitle": "Trends and Issues in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Trends in philosophy, workforce needs, curriculum and teaching procedures in occupational and technical education. Analysis of research findings and issues related to tech prep and other articulated programs being established in secondary schools, community colleges, and four-year institutions.",
+        "Technical and Digital Skills": [
+            "Analysis of research findings",
+            "Understanding of tech prep and other articulated programs",
+            "Knowledge of occupational and technical education trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of analytical findings",
+            "Collaboration in educational settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and analyzing workforce needs",
+            "Critical evaluation of educational curriculum and teaching procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing and implementing educational programs",
+            "Adapting to changing workforce needs and trends"
+        ]
+    },
+    {
+        "courseCode": "SEPS 861",
+        "courseTitle": "Foundations of Adult Education and Training",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of adult education and training in many settings including the community college, business, industry, labor, government, the military, and social service agencies of many types. An attempt will be made to assess the important trends or directions such activities are taking, including the needs of non-traditional learners and education and labor.",
+        "Technical and Digital Skills": [
+            "Understanding of adult education systems",
+            "Knowledge of training methodologies in various settings",
+            "Assessment of education trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with non-traditional learners",
+            "Interacting with stakeholders in various sectors",
+            "Cultural sensitivity in diverse learning environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing needs of non-traditional learners",
+            "Assessing the efficacy of training programs",
+            "Identifying trends in adult education and training"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing education and training programs",
+            "Leading diverse learning communities",
+            "Promoting inclusivity in adult education"
+        ]
+    },
+    {
+        "courseCode": "SEPS 862",
+        "courseTitle": "Administration and Management of Education and Training Programs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course deals with organizational policy, human and financial resources, facilities, and the planning process as applied to occupational education and adult training programs.",
+        "Technical and Digital Skills": [
+            "Resource allocation",
+            "Digital documentation",
+            "Online learning platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Inter-departmental communication",
+            "Negotiating",
+            "Conflict resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Financial planning and analysis",
+            "Problem-solving in resource management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Leadership in education",
+            "Organizational policy development"
+        ]
+    },
+    {
+        "courseCode": "SEPS 865",
+        "courseTitle": "Trends and Issues of Economic and Workforce Development",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of economic trends and issues that lead to workforce development decisions. Focus is on planning for educational and training programs to meet workforce needs dictated by local and regional economic issues. This course is designed for community college and school system personnel.",
+        "Technical and Digital Skills": [
+            "Economic trend analysis",
+            "Workforce development research",
+            "Educational program planning",
+            "Training program planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder communication",
+            "Cross-departmental collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic issue identification",
+            "Needs assessment for workforce",
+            "Strategic planning for workforce development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making for workforce development",
+            "Leadership in educational and training programs"
+        ]
+    },
+    {
+        "courseCode": "SEPS 868",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised assignment to an agency operating an occupational education or training program.",
+        "Technical and Digital Skills": [
+            "Understanding of occupational education or training program operations",
+            "Familiarity with industry-specific tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with agency staff and colleagues",
+            "Building professional relationships",
+            "Adapting to professional environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing operational challenges",
+            "Analyzing effectiveness of training programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Responsibility for assigned tasks",
+            "Understanding and following agency hierarchy and procedures"
+        ]
+    },
+    {
+        "courseCode": "SEPS 885",
+        "courseTitle": "Curriculum Development in Occupational Education and Training",
+        "academicLevel": "graduate",
+        "courseDescription": "A course designed to prepare students to design and develop curriculum for occupational education and training courses and programs. Included is a focus on articulation between secondary and post-secondary curriculum.",
+        "Technical and Digital Skills": [
+            "Curriculum design",
+            "Curriculum development",
+            "Understanding of occupational education structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating curriculum objectives",
+            "Collaboration with secondary and post-secondary institutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Curriculum gap analysis",
+            "Adaptation of curriculum to occupational needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curriculum project management",
+            "Leadership in curriculum development initiatives"
+        ]
+    },
+    {
+        "courseCode": "SEPS 887",
+        "courseTitle": "Career and Technical Education Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "Learn the various curriculum options taught in secondary schools under the auspices of career and technical education. Work from an administrative standpoint to learn the mission and goals of the various subject areas and plan to direct such efforts.",
+        "Technical and Digital Skills": [
+            "Understanding of various curriculum options",
+            "Administration of technical education programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating mission and goals",
+            "Collaborating with educators and administrators"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and directing educational efforts",
+            "Analyzing the effectiveness of different curriculums"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational initiatives",
+            "Organizing curriculum planning and implementation"
+        ]
+    },
+    {
+        "courseCode": "SEPS 888",
+        "courseTitle": "Instructional Strategies for Innovation in Training and Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Learning and teaching styles are considered as a basis for developing instructional strategies to maximize occupational and technical education at all levels, including secondary, the community college, and senior institutions. Relevant learning theories and knowledge of self, learner, and the environment are blended to enhance the participants' instructional strategies.",
+        "Technical and Digital Skills": [
+            "Developing instructional strategies",
+            "Understanding of learning theories",
+            "Adapting teaching styles",
+            "Knowledge of different educational levels"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with learners",
+            "Understanding and addressing individual learning styles",
+            "Creating an inclusive learning environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing learning environments",
+            "Addressing learning challenges",
+            "Incorporating feedback into instructional strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse learning environments",
+            "Leading educational innovation",
+            "Organizing instruction for different levels of education"
+        ]
+    },
+    {
+        "courseCode": "SEPS 889",
+        "courseTitle": "Instructional Technology in Education and Training",
+        "academicLevel": "graduate",
+        "courseDescription": "A course that provides insights about trends, issues, and the applications of instructional technologies as they may be applied to education and training environments. Topics include selected technical processes and electronic media to solve practical problems in educations and training.",
+        "Technical and Digital Skills": [
+            "Understanding of instructional technologies",
+            "Application of electronic media in education and training",
+            "Knowledge of selected technical processes in education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technological solutions",
+            "Collaboration in problem-solving contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of educational and training issues",
+            "Use of technology to solve practical problems in education and training",
+            "Analysis of trends and issues in instructional technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of technological solutions in educational and training environments"
+        ]
+    },
+    {
+        "courseCode": "SEPS 890",
+        "courseTitle": "Practicum in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Individually prescribed instruction under the supervision of a graduate faculty member. Study intended to professionally fulfill development of graduate candidates.",
+        "Technical and Digital Skills": [
+            "Industry-specific technical skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Feedback reception",
+            "Collaboration with supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to professional feedback",
+            "Applying academic knowledge to practical situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Task prioritization",
+            "Professional development planning"
+        ]
+    },
+    {
+        "courseCode": "SEPS 895",
+        "courseTitle": "Topics in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The department offers selected topics designed to permit groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Specialized knowledge acquisition",
+            "In-depth research on specific topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative learning",
+            "Group discussions",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Solution development",
+            "Analytical reading"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent study scheduling",
+            "Leadership in group projects"
+        ]
+    },
+    {
+        "courseCode": "SEPS 897",
+        "courseTitle": "Independent Study in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study under the supervision of a graduate faculty member.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Effective communication with supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-guided problem solving",
+            "Independent research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management",
+            "Independent project management"
+        ]
+    },
+    {
+        "courseCode": "SEPS 899",
+        "courseTitle": "Dissertation in Occupational Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Work on pre-selected dissertation topics under the direction of dissertation committee chair.",
+        "Technical and Digital Skills": [
+            "Academic research",
+            "Data analysis",
+            "Usage of research databases",
+            "Citation management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with committee chair",
+            "Presenting research findings",
+            "Collaboration within a committee"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of research gaps",
+            "Evaluation of scholarly literature",
+            "Hypothesis testing",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-direction",
+            "Meeting deadlines"
+        ]
+    }
+]

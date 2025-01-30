@@ -1,0 +1,161 @@
+[
+    {
+        "courseTitle": "Foundations of Art Education",
+        "courseCode": "ARTE 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces historical, philosophical, and sociological foundations and contemporary issues of American public education, including the history and philosophies of art in education, best practice methods, and learning theories in PreK-12 schools, cultural institutions, and museum settings. Virginia Standards of Learning, National Core Arts Standards for Art, and an introduction to teaching for the understanding of visual art, visual inquiry, lesson planning, and assessment will be addressed. All students will complete a 30-hour observation experience in an appropriate PreK-12 setting specific to art education. Students are required to independently register for and take the VCLA.",
+        "Technical and Digital Skills": [
+            "Lesson planning in art education",
+            "Assessment methods in art education",
+            "Understanding of visual art standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Observation and communication in PreK-12 settings",
+            "Presenting art concepts to students and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art education methods",
+            "Adapting teaching strategies to different learning styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading art education activities",
+            "Organizing art education materials and resources"
+        ]
+    },
+    {
+        "courseTitle": "Elementary Art Education Methods and Classroom Management",
+        "courseCode": "ARTE 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will attend to issues of children’s art making and how the visual arts can empower learning in a variety of settings. Through site visitations students will broaden their understanding of age-appropriate pedagogical practices while also exploring various artmaking materials and classroom management strategies. Through research and thought provoking hands-on activities students will develop critical thinking skills and increase their awareness of content knowledge. Students will begin work on developing their portfolios. Thirty hour practicum in an elementary setting required. (Offered spring semester; to be taken sophomore year.)",
+        "Technical and Digital Skills": [
+            "Artmaking materials knowledge",
+            "Portfolio development",
+            "Visual arts pedagogy understanding",
+            "Age-appropriate pedagogical practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with children",
+            "Classroom management strategies",
+            "Site visitation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking skills development",
+            "Content knowledge awareness enhancement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Practicum in an elementary setting",
+            "Portfolio development",
+            "Classroom management strategies implementation"
+        ]
+    },
+    {
+        "courseTitle": "Secondary Art Education Methods and Classroom Management",
+        "courseCode": "ARTE 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to address theoretical and practical aspects of curriculum development and classroom management with an emphasis on honoring diversity and advocating for equity in secondary art education learning environments.  Pedagogy will focus on implementing studio based lessons, including current approaches to digital technology. Through research and site visits students will broaden their understanding of age-appropriate pedagogical practices. Students will critically reflect on their development as an educator while understanding their role as an advocate for the field of art education. Work on portfolios is continued. Thirty hour practicum in a secondary setting required. (Offered fall semester; to be taken junior year.)",
+        "Technical and Digital Skills": [
+            "Implementing studio-based lessons",
+            "Utilizing digital technology in art education",
+            "Portfolio development",
+            "Practicum in a secondary setting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Advocating for equity in art education",
+            "Collaborating with diverse students and colleagues",
+            "Presenting research findings",
+            "Reflecting on personal development as an educator"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing age-appropriate pedagogical practices",
+            "Critically evaluating art education approaches",
+            "Researching effective teaching methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing curriculum",
+            "Managing classroom dynamics",
+            "Advocating for the field of art education",
+            "Leading site visits and research projects"
+        ]
+    },
+    {
+        "courseTitle": "Curriculum and Instruction in Art Education",
+        "courseCode": "ARTE 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to prepare students for their upcoming capstone and student teaching internship from the inception of an idea to writing units of instruction for K-12 classrooms and museum and cultural institution settings. Students will use foundational knowledge to design comprehensive curriculum including relevant assessments. Students will review current topics and practice through reading, research and writing in the field of art education. Students will focus on dispositions of visual art educators as defined by NEAE national standards as well as the development of culturally relevant pedagogy. (Offered spring semester; to be taken junior year.)",
+        "Technical and Digital Skills": [
+            "Designing curriculum for K-12 classrooms",
+            "Utilizing digital tools for instruction",
+            "Creating assessments for art education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with students and educators",
+            "Communicating effectively with diverse groups",
+            "Presenting instructional units"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating current topics in art education",
+            "Researching best practices in the field",
+            "Analyzing cultural relevance in pedagogy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing comprehensive curriculum",
+            "Leading discussions on visual art education",
+            "Implementing NEAE national standards"
+        ]
+    },
+    {
+        "courseTitle": "Capstone in Art Education",
+        "courseCode": "ARTE 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to provide advanced art education students with substantial practical experience in planning, developing, administering, and evaluating a program of visual arts education for young learners in a local museum setting for Saturday Morning Art Classes (SMAC). Students will reflect critically on their personal practice through arts-based methods and writing activities, as well as curate a final art exhibition for participants and their families. Student portfolios will include all needed components, with the exception of documentation of their student teaching or museum and cultural institutions internship. This course includes the final BFA show. (Offered fall semester; to be taken in the senior year.)",
+        "Technical and Digital Skills": [
+            "Planning visual arts education programs",
+            "Developing art curriculum for young learners",
+            "Administering art education programs",
+            "Curating art exhibitions",
+            "Portfolio preparation for BFA show"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Reflecting critically on personal practice",
+            "Engaging in arts-based methods",
+            "Writing activities for self-reflection",
+            "Communicating with participants and families"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating art education programs",
+            "Critical thinking in program development",
+            "Analyzing student progress and outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading visual arts education programs",
+            "Managing program logistics",
+            "Curating final art exhibition",
+            "Portfolio organization and presentation"
+        ]
+    },
+    {
+        "courseTitle": "Museum and Cultural Institutions Internship",
+        "courseCode": "ARTE 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internship with educational programming and the facilitation of learning for young learners in a museum or cultural institution.  Current partners include the Virginia Museum of Contemporary Art, the Chrysler Museum of Art, and the Hermitage Museum School of Visual Arts. (Offered spring semester; to be taken in the senior year.)",
+        "Technical and Digital Skills": [
+            "Educational programming",
+            "Learning facilitation for young learners",
+            "Museum operations management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with museum staff",
+            "Communication with young learners",
+            "Public speaking during museum tours"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing interactive educational activities",
+            "Adapting learning materials for different age groups"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational programs",
+            "Coordinating with museum partners",
+            "Managing schedules for learning activities"
+        ]
+    }
+]

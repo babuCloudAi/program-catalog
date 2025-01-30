@@ -1,0 +1,52 @@
+{
+    "School of Data Science": [
+        {
+            "academicLevel": "graduate",
+            "programs": {
+                "Master of Science Programs": [
+                    "Data Science and Analytics with a Concentration in Artificial Intelligence and Machine Learning (MS)",
+                    "Data Science and Analytics with a Concentration in Business Intelligence and Analytics (MS)",
+                    "Data Science and Analytics with a Concentration in Engineering and Big Data Analysis (MS)",
+                    "Data Science and Analytics with a Concentration in Geospatial Analytics (MS)",
+                    "Data Science and Analytics with a Concentration in Physics (MS)"
+                ]
+            },
+            "courses": {
+                "Data Science (DASC)": [
+                    "DASC 596",
+                    "DASC 597",
+                    "DASC 620",
+                    "DASC 690",
+                    "DASC 771",
+                    "DASC 795",
+                    "DASC 871",
+                    "DASC 895"
+                ]
+            }
+        },
+        {
+            "academicLevel": "undergraduate",
+            "programs": {
+                "Bachelor of Science Program": [
+                    "Data Science (BS)"
+                ],
+                "Minor Program": [
+                    "Data Science Minor"
+                ]
+            },
+            "courses": {
+                "Data Science (DASC)": [
+                    "DASC 205S",
+                    "DASC 300",
+                    "DASC 357E",
+                    "DASC 368",
+                    "DASC 434",
+                    "DASC 436W",
+                    "DASC 494",
+                    "DASC 496/596",
+                    "DASC 497/597"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,885 @@
+[
+    {
+        "courseTitle": "Spatial Visualization",
+        "courseCode": "ENGN 100",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course introduces students to spatial visualization/thinking. The objective of the course is to enhance students' ability of thinking in three dimensions. The course covers student experience with spatial visualization/thinking, design and representation, and strategic use. Educational interventions and testing to improve three-dimensional visualization skills are used. The course does not count towards College of Engineering & Technology graduation credit.",
+        "Technical and Digital Skills": [
+            "Spatial design",
+            "3D modeling software proficiency",
+            "Visualization tools expertise",
+            "Technical drawing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of spatial concepts",
+            "Collaborative design discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial problem-solving techniques",
+            "Critical evaluation of spatial representations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in spatial design",
+            "Leading spatial visualization projects"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Engineering",
+        "courseCode": "ENGN 108",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A one-semester course covering topics in civil, environmental, mechanical, electrical and computer engineering.",
+        "Technical and Digital Skills": [
+            "Civil engineering principles",
+            "Environmental engineering concepts",
+            "Mechanical engineering basics",
+            "Electrical engineering fundamentals",
+            "Computer engineering fundamentals"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing engineering problems",
+            "Applying mathematical concepts to engineering scenarios",
+            "Troubleshooting technical issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Engineering and Technology",
+        "courseCode": "ENGN 121",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces engineering and engineering technology disciplines, and develops problem-solving and teamwork skills required in the design and commissioning of an engineered product.  Students will collaborate in hands-on, group projects to understand the engineering design process and explore roles and responsibilities in an engineering team. Students will develop technical skills, such as identifying, formulating, and solving engineering problems, prototype creation and testing, representation and analysis of data using software packages to form conclusions and solve problems. Students will also learn professional skills needed to become successful engineering students and engineers including, but not limited to teamwork, project management, communication (written, oral, and graphical), engineering ethics, information literacy, and critical reading skills.",
+        "Technical and Digital Skills": [
+            "Identifying engineering problems",
+            "Formulating engineering problems",
+            "Prototype creation and testing",
+            "Data analysis using software packages",
+            "Representation and analysis of data",
+            "Software package utilization for problem-solving"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork in engineering projects",
+            "Project management",
+            "Communication (written, oral, and graphical)",
+            "Engineering ethics",
+            "Information literacy",
+            "Critical reading skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding engineering design process",
+            "Collaborative problem-solving",
+            "Critical evaluation of information",
+            "Prototype testing and analysis",
+            "Forming conclusions based on data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Roles and responsibilities in an engineering team",
+            "Professional skills for engineering students and engineers",
+            "Leadership in engineering projects"
+        ]
+    },
+    {
+        "courseTitle": "Computer Programming for Engineering",
+        "courseCode": "ENGN 122",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to engineering problem-solving through computer programming. Topics include computational thinking, program design, algorithm development, and testing. Programming language concepts will include variables, data types and expressions, assignment, control-flow statements, and functions. Laboratory exercises involve C++ and Matlab to solve engineering problems (information processing, simulation, data analysis).",
+        "Technical and Digital Skills": [
+            "C++ programming",
+            "Matlab programming",
+            "Algorithm development",
+            "Data analysis",
+            "Simulation techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Computational thinking",
+            "Program design",
+            "Testing strategies",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Special Topics in Engineering I",
+        "courseCode": "ENGN 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Interdisciplinary or multidisciplinary topics for first year students enrolled in engineering or engineering technology majors.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary problem-solving",
+            "Multidisciplinary research methods",
+            "Engineering technology applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration in diverse fields",
+            "Presentation of complex engineering concepts to non-engineers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration of knowledge from different engineering disciplines",
+            "Critical evaluation of interdisciplinary solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in a multidisciplinary environment",
+            "Team leadership in engineering projects"
+        ]
+    },
+    {
+        "courseTitle": "Special Topics in Engineering II",
+        "courseCode": "ENGN 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Interdisciplinary or multidisciplinary topics for second year students enrolled in engineering or engineering technology majors.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary problem-solving",
+            "Multidisciplinary project collaboration",
+            "Engineering technology application",
+            "Data analysis in engineering",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication in engineering projects",
+            "Presentation of interdisciplinary topics",
+            "Clear and concise technical writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of engineering information",
+            "Innovative problem-solving approaches",
+            "Analyzing engineering data for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading multidisciplinary engineering teams",
+            "Project management in engineering contexts",
+            "Organizing engineering research materials"
+        ]
+    },
+    {
+        "courseTitle": "e-Engineering",
+        "courseCode": "ENGN 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the theory and best practices involved in conducting physically-dispersed engineering team collaboration.  Student teams will apply e-Engineering concepts using a distributed product engineering scenario.  Course module topics include project management, virtual teaming, distributed collaborative tools, and scenario-specific engineering skills.",
+        "Technical and Digital Skills": [
+            "Virtual team collaboration",
+            "Project management tools",
+            "Distributed collaborative tools",
+            "Scenario-specific engineering skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in virtual teams",
+            "Collaboration in physically-dispersed teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of distributed engineering scenarios",
+            "Problem-solving in virtual team settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading virtual teams",
+            "Managing distributed product engineering projects"
+        ]
+    },
+    {
+        "courseTitle": "Fundamentals of Engineering Review",
+        "courseCode": "ENGN 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares the engineering and engineering technology students for the Fundamentals of Engineering Examination.",
+        "Technical and Digital Skills": [
+            "Engineering principles review",
+            "Mathematical problem-solving",
+            "Technical calculations practice",
+            "Engineering software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective study group communication",
+            "Peer tutoring skills",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Engineering problem analysis",
+            "Critical thinking in engineering contexts",
+            "Practice exams for analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for exam preparation",
+            "Study schedule planning",
+            "Leadership in study groups"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Engineering Design for Teachers",
+        "courseCode": "ENGN 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is for K-12 teachers seeking endorsement. No credit will be given to students pursuing majors in the College of Engineering and Technology. The major focus of this course is to expose students to the design process, research and analysis, teamwork, communication methods, global and human impacts, engineering standards, and technical documentation. Topics include engineering design process, modeling, sketching, measurement, statistics and applied geometry, engineering drawing standards, CAD solid modeling, reverse engineering, consumer product design innovation, graphic design and virtual design teams.",
+        "Technical and Digital Skills": [
+            "CAD solid modeling",
+            "reverse engineering",
+            "technical documentation",
+            "engineering drawing standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "teamwork",
+            "communication methods",
+            "virtual design teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "research and analysis",
+            "statistical analysis",
+            "applied geometry"
+        ],
+        "Organizational and Leadership Skills": [
+            "engineering standards",
+            "consumer product design innovation"
+        ]
+    },
+    {
+        "courseTitle": "Statics for Teachers",
+        "courseCode": "ENGN 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is for K-12 teachers seeking endorsement. No credit will be given to students pursuing majors in the College of Engineering and Technology. Scalar methods and free body diagrams are employed in the analysis of discrete and distributed force systems and their application to bodies in external equilibrium. Friction, moment of inertia, and center of gravity are also included.",
+        "Technical and Digital Skills": [
+            "Scalar methods application",
+            "Free body diagram analysis",
+            "Friction calculations",
+            "Moment of inertia calculations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of force systems",
+            "Problem-solving in external equilibrium scenarios",
+            "Center of gravity calculations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Thermodynamics for Teachers",
+        "courseCode": "ENGN 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is for K-12 teachers seeking endorsement. No credit will be given to students pursuing majors in the College of Engineering and Technology. The basic laws of thermodynamics, properties of fluids, heat and work and their applications in processes and cycles, and an introduction to conduction heat transfer will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding basic laws of thermodynamics",
+            "Knowledge of properties of fluids",
+            "Ability to apply heat and work concepts in processes and cycles",
+            "Introduction to conduction heat transfer"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing thermodynamic processes",
+            "Evaluating heat transfer scenarios",
+            "Problem-solving with thermodynamic principles"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Veterans in Engineering and Engineering Technology Seminar",
+        "courseCode": "ENGN 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course aims to augment the transition from service to student to engineer through helping the veteran achieve a sense of belonging to the engineering profession through class discussions, seminars, and workshops designed to develop their identities as engineers and increase their feeling of belonging in engineering fields through self-efficacy and help with their persistence to degree completion. Class activities are designed to build a sense of community and increase students' relevance by helping students develop a career identity in engineering.",
+        "Technical and Digital Skills": [
+            "Engineering software proficiency (e.g., CAD, MATLAB)",
+            "Problem-solving using engineering tools",
+            "Data analysis in engineering projects",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication in engineering projects",
+            "Networking within the engineering community",
+            "Conflict resolution in engineering teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in engineering problem-solving",
+            "Analyzing engineering data for decision-making",
+            "Troubleshooting technical issues in engineering projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering endeavors",
+            "Leading engineering teams towards project goals",
+            "Time management in engineering workloads"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Uncrewed Aerial Systems",
+        "courseCode": "ENGN 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces Small Uncrewed Aircraft Systems (sUAS) types and platforms (such as multirotor, fixed wing, hybrids) and explores mission planning, applications, payloads, flight authorization processes, and crew resource management. Additionally, this course introduces operation of autonomous vehicles in the National Airspace System including Universal Traffic Management, radio frequency allocations, and airport usage, including knowledge of government and industry compliance standards. Attention will be paid to topics of system integration for operations efficiency, risk management, safety, and human factors and human / machine interface in autonomous systems. Includes case studies.",
+        "Technical and Digital Skills": [
+            "Understanding Small Uncrewed Aircraft Systems (sUAS) types and platforms",
+            "Mission planning for sUAS",
+            "Applications of sUAS technology",
+            "Payload management for sUAS",
+            "Flight authorization processes for sUAS",
+            "Knowledge of Universal Traffic Management for autonomous vehicles",
+            "Radio frequency allocations for autonomous vehicles",
+            "Understanding airport usage for autonomous vehicles",
+            "Compliance standards in government and industry for autonomous vehicles",
+            "System integration for operational efficiency in autonomous systems",
+            "Risk management in autonomous systems",
+            "Knowledge of safety protocols for autonomous systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective crew resource management for sUAS operations",
+            "Communication skills for operating autonomous vehicles in National Airspace System",
+            "Case study analysis and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and managing human factors in autonomous systems",
+            "Analyzing human-machine interface in autonomous systems",
+            "Critical evaluation of system integration for operations efficiency",
+            "Risk assessment and mitigation in autonomous systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in autonomous systems operations",
+            "Efficient crew coordination for autonomous vehicle missions",
+            "Adherence to compliance standards for government and industry regulations"
+        ]
+    },
+    {
+        "courseTitle": "Multirotor UAS Design and Construction",
+        "courseCode": "ENGN 486",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A look at engineering multi-rotor Uncrewed Aerial System (UAS) design. Course topics will include Stability and control of UAS, Electric propulsion and battery technology. Overview of sensors (lidar, sonar, vision etc.); autopilot design and automatic control; airframe structural design of UAS; Flight dynamics and simulation for UAS. Accompanying laboratory topics include motor/propeller testing, building small quadcopters, understanding system elements, PID tuning, programming UAS, and autonomous drone operations. Students will learn to specify all components including motors, propellers, power system, autopilot, GPS, power monitor, frame, etc.  Additional topics will include autopilot setup, firmware configuration, telemetry configuration, ground station setup and sensor specifications and integration (lidar, sonar, radar, optical flow). Mission planning, and test flights will complete the course.",
+        "Technical and Digital Skills": [
+            "Stability and control of UAS",
+            "Electric propulsion and battery technology",
+            "Understanding sensors (lidar, sonar, vision)",
+            "Autopilot design and automatic control",
+            "Flight dynamics and simulation for UAS",
+            "Motor/propeller testing",
+            "Building small quadcopters",
+            "PID tuning",
+            "Programming UAS",
+            "Autonomous drone operations",
+            "Specifying components (motors, propellers, power system, autopilot, GPS, etc.)",
+            "Autopilot setup",
+            "Firmware configuration",
+            "Telemetry configuration",
+            "Ground station setup",
+            "Sensor specifications and integration (lidar, sonar, radar, optical flow)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on drone design and construction projects",
+            "Communicating technical information effectively to team members",
+            "Presenting project findings and results",
+            "Coordinating mission planning and test flights with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data from sensors for flight optimization",
+            "Troubleshooting technical issues with drones",
+            "Optimizing PID tuning for flight stability",
+            "Designing solutions for autonomous drone operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading drone design and construction projects",
+            "Organizing team tasks and responsibilities",
+            "Managing project timelines and deadlines",
+            "Providing guidance and direction to team members"
+        ]
+    },
+    {
+        "courseTitle": "Fixed Wing and VTOL UAS Design and Construction",
+        "courseCode": "ENGN 487",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers fixed wing aerodynamics and aircraft performance, propeller performance; basic stability and automatic control of aircraft. Introduction to vertical takeoff and landing, hybrid UAS design including tail sitting and lift-to-cruise configurations. Electric propulsion: motor selection, prop matching and system integration. Basic airframe structural design methods. Instrumentation for autonomous flight. Accompanying laboratory topics include: building small fixed wing/VTOL aircraft; autopilot configuration; flight test, planning and operations.",
+        "Technical and Digital Skills": [
+            "Fixed wing aerodynamics analysis",
+            "Propeller performance evaluation",
+            "Electric propulsion system integration",
+            "Basic airframe structural design methods",
+            "Autopilot configuration for autonomous flight",
+            "Instrumentation for autonomous flight"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative aircraft design",
+            "Effective communication in flight test operations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Flight test planning and execution",
+            "Critical evaluation of aircraft performance data",
+            "Troubleshooting autopilot configurations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small fixed wing/VTOL aircraft construction teams",
+            "Coordinating flight test operations"
+        ]
+    },
+    {
+        "courseTitle": "Autonomous Mission Platforms Systems Integration",
+        "courseCode": "ENGN 488",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This interdisciplinary class is a mission based, collaborative course with majors across the college working alongside industry partners and or mentors. Students will work in teams to research, design, build (or rebuild existing) Unmanned Vehicles and apply them toward ecologically, humanitarian or 'customer based' focused projects.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Vehicle design principles",
+            "Systems integration",
+            "Prototyping and testing",
+            "Data analysis for decision-making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative teamwork",
+            "Effective communication with industry partners and mentors",
+            "Presentation of project findings",
+            "Client relationship management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in design and implementation",
+            "Troubleshooting technical issues",
+            "Optimizing vehicle performance",
+            "Risk assessment and mitigation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Delegating tasks within a team",
+            "Adapting to changing project requirements",
+            "Conflict resolution"
+        ]
+    },
+    {
+        "courseTitle": "Multidisciplinary Topics in Engineering and Technology",
+        "courseCode": "ENGN 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special interdisciplinary or multidisciplinary topics of interest with emphasis on emerging areas in engineering.",
+        "Technical and Digital Skills": [
+            "Emerging technology implementation",
+            "Interdisciplinary research methodologies",
+            "Data visualization tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective interdisciplinary communication",
+            "Team collaboration in diverse areas of engineering"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of emerging technologies",
+            "Integration of multiple engineering disciplines for problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in interdisciplinary settings",
+            "Leading cross-functional engineering teams"
+        ]
+    },
+    {
+        "courseCode": "ENGN 602T",
+        "courseTitle": "Engineering for Secondary School Teachers",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to foundations of design and civil, environmental, electrical, mechanical, and computer engineering.  The course will consist of secondary school appropriate content and concepts that directly correlate with the state and local school systems' science and mathematics curriculum.  May lead to a Project Lead the Way certification when applicable.",
+        "Technical and Digital Skills": [
+            "Design principles in engineering",
+            "Civil engineering concepts",
+            "Environmental engineering basics",
+            "Electrical engineering fundamentals",
+            "Mechanical engineering principles",
+            "Computer engineering essentials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively explaining engineering concepts to secondary school students",
+            "Collaborating with other teachers to integrate engineering into science and math curriculum"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying engineering problem-solving methods to real-world scenarios",
+            "Analyzing and evaluating engineering solutions for different problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering projects in a secondary school setting",
+            "Organizing and managing engineering-related activities for students"
+        ]
+    },
+    {
+        "courseCode": "ENGN 603T",
+        "courseTitle": "Engineering Seminar for Teachers",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory seminar on specific multi-disciplinary or interdisciplinary engineering topics for MS or HS teachers.",
+        "Technical and Digital Skills": [
+            "Multi-disciplinary engineering concepts",
+            "Interdisciplinary engineering topics",
+            "Engineering principles understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of engineering concepts",
+            "Collaboration with other teachers on engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of engineering information",
+            "Problem-solving in engineering scenarios",
+            "Analytical thinking in engineering contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering projects in a classroom setting",
+            "Organizing engineering seminar materials for teaching purposes"
+        ]
+    },
+    {
+        "courseCode": "ENGN 611",
+        "courseTitle": "Financial Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Financial engineering management, accounting, financial reports and analysis, capital budgeting, investment decisions.",
+        "Technical and Digital Skills": [
+            "Financial modeling",
+            "Accounting principles",
+            "Data analysis",
+            "Capital budgeting techniques",
+            "Investment evaluation methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial reports",
+            "Collaboration with cross-functional teams on financial projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial data interpretation",
+            "Risk assessment and management",
+            "Critical evaluation of financial information",
+            "Problem-solving in complex financial scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in financial engineering",
+            "Decision-making in financial strategy",
+            "Leading financial analysis teams"
+        ]
+    },
+    {
+        "courseCode": "ENGN 612",
+        "courseTitle": "Analysis of Organizational Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to fundamental concepts in the analysis of organizations.  Examination of social, structural, procedural, and environmental aspects by systems approach.  Modules include:  History and systems of organizations and management; Basic organizational systems and models; Organizational behavior models; Integration of systems perspectives; and Organizational structures.",
+        "Technical and Digital Skills": [
+            "Systems approach analysis",
+            "Organizational systems modeling",
+            "Data analysis for organizational structures",
+            "Understanding organizational behavior models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of organizational analysis findings",
+            "Collaboration in systems perspective integration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of organizational information",
+            "Identification of structural inefficiencies in organizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Systems thinking in organizational management",
+            "Leadership in integrating systems perspectives"
+        ]
+    },
+    {
+        "courseCode": "ENGN 620",
+        "courseTitle": "The Entrepreneurial Engineer",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide engineers and engineering technologists with the knowledge, skills and experience needed to create products and services that will be attractive to consumer markets and to bring those products and services to market in new commercial ventures.  Topics covered include: how to evaluate entrepreneurial opportunities in the engineering field; elements of a viable business plan; governance models; management succession planning; use of social media; and creating an ethical engineering enterprise in the global economy.",
+        "Technical and Digital Skills": [
+            "Product development",
+            "Market research",
+            "Business plan creation",
+            "Social media utilization",
+            "Ethical engineering practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching ideas",
+            "Negotiation skills",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Opportunity evaluation",
+            "Critical thinking in business contexts",
+            "Risk assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Governance models understanding",
+            "Management succession planning",
+            "Team coordination in new ventures"
+        ]
+    },
+    {
+        "courseCode": "ENGN 621",
+        "courseTitle": "The Entrepreneurial Engineer",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide engineers and engineering technologists with the knowledge, skills and experience needed to create products and services that will be attractive to consumer markets and to bring those products and services to market in new commercial ventures. Topics covered include: How to evaluate entrepreneurial opportunities in the engineering field; elements of a viable business plan; governance models; management succession planning; use of social media; and creating an ethical engineering enterprise in the global economy.",
+        "Technical and Digital Skills": [
+            "Market research analysis",
+            "Business plan development",
+            "Social media marketing strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching ideas to investors",
+            "Negotiation skills in business deals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of entrepreneurial opportunities",
+            "Critical thinking in business decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management succession planning",
+            "Ethical leadership in engineering ventures"
+        ]
+    },
+    {
+        "courseCode": "ENGN 623",
+        "courseTitle": "Leadership and Human Dynamics for the Entrepreneurial Engineer",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the concepts, skills, and characteristics of effective and successful entrepreneurial leaders in the 21st century. The course covers leadership for entrepreneurial engineers through case studies and literature review in areas such as the fundamentals of leadership, ethical leadership, social capital, emotional intelligence, and three-dimensional leadership.",
+        "Technical and Digital Skills": [
+            "Case study analysis",
+            "Literature review skills",
+            "Understanding of social capital",
+            "Emotional intelligence assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Active listening techniques",
+            "Conflict resolution strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of leadership concepts",
+            "Analyzing ethical dilemmas in leadership",
+            "Decision-making under uncertainty"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse teams",
+            "Creating a culture of innovation",
+            "Implementing three-dimensional leadership models"
+        ]
+    },
+    {
+        "courseCode": "ENGN 625",
+        "courseTitle": "Business Planning for Entrepreneurial Engineers",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the capstone of the Entrepreneurship and Innovation graduate certificate for engineers. With data and expertise through prior certificate coursework, students develop and present a comprehensive and viable entrepreneurial business plan in engineering. Topics covered include: Product lifecycle management, marketing and strategic planning, entrepreneurial finance, and effective presentation techniques. The final presentation is delivered to a panel of ODU faculty and engineering practitioners who provide sound feedback to the student.",
+        "Technical and Digital Skills": [
+            "Product lifecycle management",
+            "Entrepreneurial finance",
+            "Effective presentation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting comprehensive business plans",
+            "Receiving and implementing feedback from panel members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of business proposals",
+            "Identifying market opportunities and risks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing strategic plans for business growth",
+            "Leading and managing project teams"
+        ]
+    },
+    {
+        "courseCode": "ENGN 630",
+        "courseTitle": "Advanced Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "A one-semester course covering advanced topics in bioelectrics.  The course will cover advanced application of pulsed power and plasma in the medical, biological and environmental fields. (Cross-listed with ECE 630).",
+        "Technical and Digital Skills": [
+            "Advanced application of pulsed power",
+            "Plasma technology in medical, biological, and environmental fields",
+            "Knowledge of ECE 630 concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of bioelectrics applications",
+            "Analyzing complex bioelectrics data",
+            "Problem-solving in bioelectrics research"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENGN 671",
+        "courseTitle": "Carbon-Free Clean Energy",
+        "academicLevel": "graduate",
+        "courseDescription": "Nuclear power and nuclear energy; solar energy; wind energy; geothermal energy; hydroelectric power; hydrogen as energy resource; hydrogen fuel cells; hybrid technologies; global economics and environmental impacts of carbon-free energy.",
+        "Technical and Digital Skills": [
+            "Understanding nuclear power technology",
+            "Solar panel installation and maintenance",
+            "Wind turbine operation and maintenance",
+            "Geothermal energy system design",
+            "Hydroelectric power generation operation",
+            "Hydrogen fuel cell technology implementation",
+            "Knowledge of hybrid energy systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members on energy projects",
+            "Collaboration with stakeholders for project implementation",
+            "Presenting carbon-free energy proposals to decision-makers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting issues in renewable energy systems",
+            "Analyzing environmental impacts of different energy sources",
+            "Optimizing energy production for efficiency"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for carbon-free energy initiatives",
+            "Leading a team in the implementation of clean energy projects",
+            "Strategic planning for transitioning to carbon-free energy sources"
+        ]
+    },
+    {
+        "courseCode": "ENGN 672",
+        "courseTitle": "Energy Systems Management",
+        "academicLevel": "graduate",
+        "courseDescription": "System management principles; energy systems safety and security; automation and control; environmental effects and comparative risk assessment; energy storage; carbon sequestration; energy systems scale up issues; energy systems integration; hybrid systems; energy systems optimization; effects of public policies on energy systems management.",
+        "Technical and Digital Skills": [
+            "Energy systems safety and security",
+            "Automation and control",
+            "Energy storage technologies",
+            "Carbon sequestration methods",
+            "Energy systems optimization techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of energy system concepts",
+            "Collaboration on energy systems integration projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative risk assessment in energy systems",
+            "Critical evaluation of energy system scale-up issues",
+            "Identifying optimization opportunities in energy systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in energy systems",
+            "Leadership in implementing public policies affecting energy systems management"
+        ]
+    },
+    {
+        "courseCode": "ENGN 695",
+        "courseTitle": "Multidisciplinary Topics in Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Special interdisciplinary or multidisciplinary topics of interest with emphasis on emerging areas in engineering.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary problem-solving",
+            "Emerging technology implementation",
+            "Cross-functional collaboration",
+            "Advanced data analytics",
+            "Innovative engineering techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication across disciplines",
+            "Team coordination in diverse projects",
+            "Presenting complex engineering concepts to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of emerging technologies",
+            "Innovative solutions to complex engineering challenges",
+            "Adaptability to changing interdisciplinary requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading multidisciplinary teams",
+            "Strategic project planning in engineering contexts",
+            "Decision-making in cross-functional environments"
+        ]
+    },
+    {
+        "courseCode": "ENGN 697",
+        "courseTitle": "Independent Study in Energy Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual analytical, experimental, computational and/or design study selected by the student and supervised by the course instructor.",
+        "Technical and Digital Skills": [
+            "Analytical skills in energy engineering",
+            "Experimental design in energy systems",
+            "Computational modeling in energy analysis",
+            "Design study in renewable energy technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings in energy engineering",
+            "Communicating project progress to supervisor",
+            "Collaborating with peers on energy-related projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of energy data",
+            "Analyzing experimental results in energy systems",
+            "Identifying solutions to energy efficiency challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing independent energy projects",
+            "Leading a research study in energy engineering",
+            "Managing time effectively for energy analysis tasks"
+        ]
+    },
+    {
+        "courseCode": "ENGN 811",
+        "courseTitle": "Methodologies for Advanced Engineering Projects",
+        "academicLevel": "graduate",
+        "courseDescription": "Critical evaluation of published literature; experimental design and analysis; optimization methods; pre-project planning; definition of scope, projects risks, technical, economical, social, and political constraints; execution strategies; effective proposal development.",
+        "Technical and Digital Skills": [
+            "Experimental design and analysis",
+            "Optimization methods",
+            "Effective proposal development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective proposal development",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of published literature",
+            "Risk assessment",
+            "Project scope definition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Pre-project planning",
+            "Execution strategies"
+        ]
+    },
+    {
+        "courseCode": "ENGN 812",
+        "courseTitle": "Engineering Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Effective communication techniques, strategic planning, building collaborative relationships, conflict management, building high-performance teams, risk management, managing innovations.",
+        "Technical and Digital Skills": [
+            "Strategic planning",
+            "Risk management",
+            "Innovation management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication techniques",
+            "Building collaborative relationships",
+            "Conflict management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in decision-making",
+            "Problem-solving strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Building high-performance teams"
+        ]
+    },
+    {
+        "courseCode": "ENGN 813",
+        "courseTitle": "Engineering Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "Scope of engineering ethics, moral reasoning and ethical theories, the engineer's responsibility for safety, responsibilities to the employer, responsibilities to the public, rights of engineers, global issues, professional codes of ethics, case studies.",
+        "Technical and Digital Skills": [
+            "Understanding of professional codes of ethics in engineering",
+            "Knowledge of global ethical issues in engineering",
+            "Familiarity with ethical theories in engineering ethics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ethical responsibilities to employers and the public",
+            "Conflict resolution in ethical dilemmas",
+            "Respectful engagement in discussions on engineering ethics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ethical considerations in engineering decisions",
+            "Analyzing case studies to identify ethical implications",
+            "Problem-solving in complex ethical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading ethical discussions within engineering teams",
+            "Taking responsibility for safety in engineering projects",
+            "Demonstrating ethical leadership in engineering practices"
+        ]
+    },
+    {
+        "courseCode": "ENGN 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis",
+            "Information security",
+            "Programming proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Team collaboration",
+            "Written communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Problem-solving techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership skills",
+            "Time management"
+        ]
+    }
+]

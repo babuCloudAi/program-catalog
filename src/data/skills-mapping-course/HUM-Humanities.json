@@ -1,0 +1,412 @@
+[
+    {
+        "courseCode": "HUM 595",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected Humanities topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Facilitating group discussions",
+            "Articulating complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing complex texts",
+            "Drawing insights from diverse sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Planning and organizing group discussions",
+            "Leading intellectual debates"
+        ]
+    },
+    {
+        "courseCode": "HUM 597",
+        "courseTitle": "Tutorial Work in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a Humanities topic to be selected under the direction of an instructor. Program director approval required.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital humanities tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with instructor and program director",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of humanities subjects",
+            "Problem identification and resolution in research process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HUM 601",
+        "courseTitle": "Introduction to the Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "This class introduces students to the study of the humanities with a focus on the enduring questions and ideas of human history.  These include questions of culture, reality, society, power, truth, communication, and mediation.  Students address these questions and ideas by engaging with some of the great works of social theory from the twentieth century.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Understanding of social theories",
+            "Critical evaluation of historical texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement with complex ideas",
+            "Discussion of theoretical concepts",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reading",
+            "Interpretation of abstract ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Analysis and synthesis of complex literature",
+            "Independent study management",
+            "Critical dialogue leading"
+        ]
+    },
+    {
+        "courseCode": "HUM 602",
+        "courseTitle": "Critical Methods in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "This class instructs students in various theoretical and methodological approaches for conducting research within the humanistic disciplines.   Students will become familiar with literary theory, critical/cultural studies, historical methods, qualitative social scientific approaches, and visual studies, as well as the conduct of research across disciplinary boundaries.",
+        "Technical and Digital Skills": [
+            "Conducting qualitative research",
+            "Applying visual studies methods",
+            "Understanding and applying literary theory",
+            "Utilizing critical/cultural studies methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating across disciplinary boundaries"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting historical methods",
+            "Analyzing humanistic disciplines through various theoretical approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing interdisciplinary research",
+            "Leading cultural studies discussions"
+        ]
+    },
+    {
+        "courseCode": "HUM 603",
+        "courseTitle": "Strategic Professional Development Pro-Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar will guide students pursuing academic or non-academic professions to prepare and to build a professional development strategy for various careers using their Humanities degree.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Verbal communication",
+            "Written communication",
+            "Professional networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career strategy development",
+            "Adaptability to various professions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Self-management",
+            "Career progression planning"
+        ]
+    },
+    {
+        "courseCode": "HUM 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "This course allows graduate students in Humanities to pursue a structured work experience in a field relevant to a student's course of study.  Student will work with a supervisor at the work site and a faculty advisor in Humanities.  Requirements include a formal essay connected to the experience, portfolio, and satisfactory evaluation by the supervisor.  Permission of Humanities director required.  Pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Writing formal essays",
+            "Creating a portfolio"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with supervisor",
+            "Interacting with Humanities faculty advisor",
+            "Receiving and implementing feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to work site demands",
+            "Connecting academic study with practical work"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing work under dual supervision",
+            "Organizing a relevant work experience",
+            "Seeking permission from director"
+        ]
+    },
+    {
+        "courseCode": "HUM 693",
+        "courseTitle": "Capstone Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Option for students who do not want to pursue a traditional thesis. Individual projects must be approved by the program director. The capstone project must include a scholarly paper, but the 'project' component can include creative works, art installations, film and video, interactive and born-digital works, as well as other forms of community engagement. Projects are developed with help of supervisor.",
+        "Technical and Digital Skills": [
+            "Developing creative works",
+            "Creating art installations",
+            "Film and video production",
+            "Designing interactive and born-digital works"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement",
+            "Collaborative project development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Project conceptualization",
+            "Project implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Coordinating with a supervisor"
+        ]
+    },
+    {
+        "courseCode": "HUM 696",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected Humanities topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": [
+            "Researching specific humanities topics",
+            "Using digital tools for humanities study",
+            "Analyzing digital resources in humanities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Discussion and debate on humanities topics",
+            "Collaboration on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of humanities topics",
+            "Problem-solving in humanities research",
+            "Interpretation of humanities sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing humanities research projects",
+            "Coordinating group discussions on humanities topics",
+            "Leading peer reviews of research"
+        ]
+    },
+    {
+        "courseCode": "HUM 697",
+        "courseTitle": "Tutorial Work in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a Humanities topic to be selected under the direction of an instructor. Program director approval required.",
+        "Technical and Digital Skills": [
+            "Digital research techniques",
+            "Using academic databases",
+            "Citation and referencing tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presenting research findings",
+            "Constructive feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection and refinement",
+            "Identifying reliable sources",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Time management",
+            "Meeting academic deadlines"
+        ]
+    },
+    {
+        "courseCode": "HUM 698",
+        "courseTitle": "Capstone Project and Thesis Preparation Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "A graduate writing seminar dedicated to workshopping and developing and finalizing students' required long-term creative and research projects.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Research methodologies",
+            "Referencing and citation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Workshop participation",
+            "Peer feedback and critique",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Problem identification and formulation",
+            "Development of research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HUM 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Course requirement for thesis option.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Oral presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research methodology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HUM 704",
+        "courseTitle": "Technology and the Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A seminar providing foundations for and experience in the critical examination of technologies and their human and social impact. Topics will vary and may include AI, innovation, social media, robotics, healthcare, gaming, art, and music.",
+        "Technical and Digital Skills": [
+            "Understanding of AI",
+            "Understanding of social media platforms",
+            "Understanding of robotics",
+            "Insights into healthcare technologies",
+            "Knowledge of gaming technologies",
+            "Understanding of digital art and music technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion of technological issues",
+            "Communicating complex technological ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of technologies",
+            "Analysis of social impact of technologies",
+            "Evaluation of human impact of technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on varied technology topics"
+        ]
+    },
+    {
+        "courseCode": "HUM 795",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected Humanities topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active Listening",
+            "Engaging class discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of topics",
+            "Analyzing and synthesizing information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseCode": "HUM 797",
+        "courseTitle": "Tutorial Work in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a Humanities topic to be selected under the direction of an instructor. Program director approval required.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Digital archival research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with instructors",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical or literary data",
+            "Critical evaluation of sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "HUM 895",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected Humanities topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interpreting and conveying complex ideas",
+            "Active listening for understanding diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing and synthesizing diverse information",
+            "Adapting to varying topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline to study independently",
+            "Flexibility to navigate diverse topics",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HUM 896",
+        "courseTitle": "Topics in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected Humanities topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": [
+            "Research using digital resources",
+            "Understanding of selected digital humanities topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral and written discussion of selected topics",
+            "Collaborative analysis of topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of humanities topics",
+            "Problem-solving in topic discussions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on selected topics",
+            "Organizing research materials"
+        ]
+    },
+    {
+        "courseCode": "HUM 897",
+        "courseTitle": "Tutorial Work in Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a Humanities topic to be selected under the direction of an instructor. Program director approval required.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital humanities tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of humanities topics",
+            "Solution development for research challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed project management",
+            "Strategic planning for research"
+        ]
+    },
+    {
+        "courseCode": "HUM 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed learning",
+            "Independent research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project management"
+        ]
+    }
+]

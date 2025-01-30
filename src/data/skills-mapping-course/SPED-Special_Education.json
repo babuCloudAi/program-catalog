@@ -1,0 +1,3051 @@
+[
+    {
+        "courseTitle": "Fundamentals of Human Growth and Development: Birth through Adolescence",
+        "courseCode": "SPED 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course contributes to an understanding of the physical, social, emotional, speech and language, and intellectual development of infants, toddlers, children, and adolescents. Furthermore, it promotes the ability to use this understanding in guiding learning experiences and relating meaningfully to preK-12, special education, and secondary education students. The interaction of infants, toddlers, children, and adolescents with economic, social, racial, ethnic, religious, physical, and intellectual differences is explored, as well as developmental issues related to giftedness or disability and the impact of family disruptions, child abuse, and substance abuse.",
+        "Technical and Digital Skills": [
+            "Understanding of physical, social, emotional, speech and language, and intellectual development",
+            "Knowledge of developmental issues related to giftedness or disability",
+            "Understanding the impact of family disruptions, child abuse, and substance abuse"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to relate meaningfully to preK-12, special education, and secondary education students",
+            "Understanding and managing interactions of infants, toddlers, children, and adolescents with various socioeconomic, racial, ethnic, religious, physical, and intellectual differences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to use understanding of human development in guiding learning experiences",
+            "Analyzing the impact of various factors on human development",
+            "Evaluating developmental issues related to giftedness or disability"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guiding learning experiences for individuals of different development stages",
+            "Managing interactions within diverse environments"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Special Education: Legal Aspects and Characteristics",
+        "courseCode": "SPED 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course provides an introduction and overview of the field of special education from the perspective that it is a subsection of general education and that the field is in transition by virtue of philosophical, legislative, and programmatic changes.  Legal aspects, regulatory requirements, and critical analyses of research are addressed. The course includes a broad overview of the characteristics, identification, instructional needs, and accommodation necessary for creating appropriate educational and vocational environments for students with disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of special education legislative and regulatory requirements",
+            "Knowledge of research analysis in special education",
+            "Familiarity with educational and vocational accommodations for students with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate effectively with students with disabilities",
+            "Skills in advocating for the needs of students with disabilities",
+            "Collaboration with general education teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting special education laws and regulations",
+            "Identification of characteristics and instructional needs of students with disabilities",
+            "Critical analysis of research in special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational and vocational planning for students with disabilities",
+            "Organizing inclusive educational environments",
+            "Implementing programmatic changes in special education"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Design I: Learner Characteristics and Assessment",
+        "courseCode": "SPED 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The intent of this course is to provide pre-service and in-service teachers with: (a) knowledge of the characteristics of K-12 students with learning differences who are accessing either the general curriculum or the adapted curriculum, and (b) the ability to develop knowledge and skill in the selection, administration, scoring and interpretation of standardized/norm-referenced and criterion-referenced assessments for exceptional learners. Administering formal and informal assessment tools for the development of an IEP are emphasized. The use of assessment data to improve evidence-based instruction and student performance is discussed.",
+        "Technical and Digital Skills": [
+            "Administration of standardized/norm-referenced and criterion-referenced assessments",
+            "Use of assessment tools for IEP development",
+            "Interpretation of assessment data for instruction improvement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and accommodating learning differences in K-12 students",
+            "Communication with exceptional learners",
+            "Presentation of assessment data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of appropriate assessment tools",
+            "Scoring of diverse assessments",
+            "Analyzing assessment data to improve student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and administration of assessments",
+            "Development and implementation of IEPs",
+            "Leadership in evidence-based instruction"
+        ]
+    },
+    {
+        "courseTitle": "Directed Field Experience in Special Education",
+        "courseCode": "SPED 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides variable hours of direct participation in a community or educational setting with individuals with special needs.  The course includes specific skills of program planning, implementation, evaluation and classroom management. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Program planning",
+            "Classroom management",
+            "Program implementation and evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Direct communication with individuals with special needs",
+            "Collaboration with community or educational setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Needs assessment",
+            "Program evaluation",
+            "Issue resolution in a special education setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in a special education setting",
+            "Leadership in community or educational environment",
+            "Organizing and managing a practicum"
+        ]
+    },
+    {
+        "courseTitle": "Characteristics and Medical Aspects of Disabling Conditions",
+        "courseCode": "SPED 404/504",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course reviews medical conditions present among individuals with disabilities and implications for classroom instruction.",
+        "Technical and Digital Skills": [
+            "Understanding medical conditions",
+            "Clinical information application",
+            "Knowledge in disability education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Special needs instruction",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting instructional strategies",
+            "Analyzing individual learning needs",
+            "Problem-solving for special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing inclusive classrooms",
+            "Leading special education programs",
+            "Organizing disability-related resources"
+        ]
+    },
+    {
+        "courseTitle": "Students with Diverse Learning Needs in the General Education Classroom",
+        "courseCode": "SPED 406/506",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces general education teachers to the legal aspects and educational needs of at-risk students and those with disabilities.  Emphasis is on characteristics of children with special needs and procedures for effective academic, behavioral, and social integration of these children in the general education classroom.",
+        "Technical and Digital Skills": [
+            "Understanding of the legal aspects of education",
+            "Knowledge of educational needs of at-risk students and those with disabilities",
+            "Familiarity with procedures for effective academic, behavioral, and social integration of special needs children"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students of diverse learning needs",
+            "Ability to communicate legal and educational requirements to staff and parents",
+            "Empathy and understanding for students with special needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to identify and address academic and behavioral issues",
+            "Analytical skills to assess the effectiveness of integration strategies",
+            "Problem-solving skills to adapt and optimize procedures for diverse student needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in implementing and maintaining inclusive classroom environments",
+            "Organizational skills to manage diverse learning needs within a single classroom",
+            "Ability to lead and guide staff in supporting students with special needs"
+        ]
+    },
+    {
+        "courseTitle": "Classroom and Behavioral Management Techniques for Students with Diverse Needs",
+        "courseCode": "SPED 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses classroom management techniques and individual interventions based upon behavioral, cognitive, affective, social, and ecological theory and practice. The course focuses on the field of applied behavior analysis, including best practices in the areas of data collection, program selection, program implementation, and data analysis. Positive behavior management, supports, and functional behavioral assessment for students with diverse learning needs will be emphasized.",
+        "Technical and Digital Skills": [
+            "Applied behavior analysis",
+            "Data collection methods",
+            "Program selection techniques",
+            "Program implementation strategies",
+            "Data analysis methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Positive behavior management",
+            "Adapting communication for students with diverse learning needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Behavioral intervention planning",
+            "Functional behavioral assessment",
+            "Analyzing behavioral patterns",
+            "Cognitive and affective theory application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management techniques",
+            "Leadership in diverse learning environments",
+            "Organizing and implementing support systems"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Design II: Curricular Procedures and Individualized Education Planning",
+        "courseCode": "SPED 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The intent of this course is to provide preservice and in-service teachers with: (a) knowledge of research-based instruction for PreK-12 students with disabilities and those who are gifted; (b) knowledge and skill in using data collection to make decisions about student progress, instruction, program, accommodations and teaching methodology for exceptional learners, and (c) knowledge and skill in planning, developing and implementing individual educational plans and group instruction for diverse exceptional learners who are accessing the general education curriculum and the standards of learning or the adapted education curriculum and the aligned or essentialized standards of learning.",
+        "Technical and Digital Skills": [
+            "Research-based instruction design",
+            "Data collection and analysis for student progress",
+            "Planning and implementing individual educational plans",
+            "Developing group instruction for diverse exceptional learners"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with PreK-12 students with disabilities and gifted learners",
+            "Communicating teaching methodology for exceptional learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Making decisions about instruction and program based on data analysis",
+            "Adapting teaching methodology for exceptional learners based on individual educational plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing instruction program for PreK-12 students",
+            "Leading the implementation of individual and group instruction for diverse learners"
+        ]
+    },
+    {
+        "courseTitle": "Collaboration and Transitions",
+        "courseCode": "SPED 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the complex issues surrounding families and children with disabilities and transitions across the lifespan, as well as effective collaboration with families and professionals to support inclusion and/or effective early intervention services, educational services, and transition services for students at-risk and students with disabilities.  Emphasis is on successful professional collaboration and effective relationships in educational, transition, and family settings.",
+        "Technical and Digital Skills": [
+            "Knowledge of early intervention services",
+            "Understanding of educational services",
+            "Familiarity with transition services for students at-risk and students with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional collaboration",
+            "Maintaining effective relationships in educational, transition, and family settings",
+            "Effective communication with families and professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing complex issues surrounding families and children with disabilities",
+            "Supporting transitions across the lifespan"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in supporting inclusion",
+            "Organizing early intervention services",
+            "Managing educational and transition services"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Strategies to Meet Diverse Learning Needs in Math",
+        "courseCode": "SPED 418/518",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers instructional strategies necessary to teach mathematics to students with diverse learning needs in elementary and secondary settings. Students will study and apply pedagogy-based research on how learning takes place and strategies for differentiating instruction for the unique needs of diverse learners. Students will address and apply effective research-based methodology and evaluation standards.",
+        "Technical and Digital Skills": [
+            "Applying pedagogy-based research",
+            "Differentiating instruction methodologies",
+            "Applying evaluation standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding diverse learning needs",
+            "Adapting communication for diverse learners",
+            "Presenting complex mathematical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing individual learning needs",
+            "Developing strategies for unique learning needs",
+            "Evaluating effectiveness of instructional strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse groups of learners",
+            "Organizing differentiated instruction",
+            "Implementing effective teaching strategies"
+        ]
+    },
+    {
+        "courseTitle": "Instructional Strategies for Students Accessing the Adapted Curriculum",
+        "courseCode": "SPED 428/528",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the characteristics and instructional strategies of students accessing the adapted curriculum. Emphasis is on assessment, program development, academic, and functional skills instruction. This course addresses the needs of individuals with severe and/or profound multiple disabilities. 45 Hour Practicum",
+        "Technical and Digital Skills": [
+            "Adapted curriculum development",
+            "Special needs assessment",
+            "Functional skills instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with individuals with multiple disabilities",
+            "Instructional strategy communication",
+            "Practicum feedback and communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Special needs assessment analysis",
+            "Adapted curriculum problem solving",
+            "Functional skills instruction analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instructional program development",
+            "Practicum organization",
+            "Leadership in special needs education"
+        ]
+    },
+    {
+        "courseTitle": "Characteristics of Students with Visual Impairments",
+        "courseCode": "SPED 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of the characteristics of and services to persons with visual impairments, including the impact of visual impairment on infants' and children's growth and development, child and adolescent emotional and social development, and family interaction patterns.  It considers the educational, conceptual, psycho-social, and physical implications of a visual impairment.",
+        "Technical and Digital Skills": [
+            "Understanding of visual impairments",
+            "Knowledge of services for people with visual impairments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy towards persons with visual impairments",
+            "Effective communication with persons with visual impairments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of visual impairment on growth and development",
+            "Assessing the psycho-social implications of visual impairments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing services for persons with visual impairments",
+            "Leading and guiding families with visually impaired members"
+        ]
+    },
+    {
+        "courseTitle": "Braille Code",
+        "courseCode": "SPED 433/533",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides instruction in the development, use, and application of the Braille literary code and its implications for educational/literacy programs for students with visual disabilities.  Students will develop the skills to read and write contracted and uncontracted Braille, while acquiring instructional methodologies for teaching children who are blind to read and write.  Sources of Braille materials for educational purposes are identified.",
+        "Technical and Digital Skills": [
+            "Reading contracted and uncontracted Braille",
+            "Writing contracted and uncontracted Braille",
+            "Identifying sources of Braille materials for educational purposes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional methodologies for teaching Braille to children",
+            "Effective communication with visually impaired students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching approaches to individual student needs",
+            "Evaluating the effectiveness of Braille educational programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing literacy programs for students with visual disabilities",
+            "Organizing Braille instructional materials"
+        ]
+    },
+    {
+        "courseTitle": "Medical and Educational Implications of Visual Impairments",
+        "courseCode": "SPED 434/534",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides an introduction to anatomy and physiology of the visual system and the educational implications of visual pathology.  Topics include anatomy of the human eye, normal visual development, pathology of the eye, examination procedures for the identification of visual pathology, and the effects of pathology on visual learning and development. Practicum requires a minimum of 25 hours.",
+        "Technical and Digital Skills": [
+            "Understanding of human eye anatomy",
+            "Knowledge of normal visual development",
+            "Identification of eye pathology",
+            "Conducting examination procedures for visual pathology",
+            "Assessing effects of pathology on visual learning and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating pathology findings",
+            "Interacting with patients during examinations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing visual pathology results",
+            "Determining implications of visual pathology on learning and development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing clinical practicum hours",
+            "Coordinating patient examination procedures"
+        ]
+    },
+    {
+        "courseTitle": "Orientation and Mobility",
+        "courseCode": "SPED 435/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides the foundation for understanding the components and essence of orientation and mobility.  Establishes how the need for independent travel in the blind population created the field of O&M.  Explores the philosophy and history of orientation and mobility including cane instruction, dog guides and methods of travel.  Addresses techniques in developing orientation skills and basic mobility instruction.  Motor and concept skill development are emphasized.  Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Understanding the components of orientation and mobility",
+            "Basic mobility instruction",
+            "Cane instruction techniques",
+            "Understanding of dog guide methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with the blind population",
+            "Instructional techniques for independent travel",
+            "Practicum application and communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing orientation skills",
+            "Identifying needs for independent travel in blind population",
+            "Concept skill development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Motor skill development",
+            "Leading and managing practicum sessions",
+            "Adapting to individual needs and capabilities for independent travel"
+        ]
+    },
+    {
+        "courseTitle": "Curriculum and Assessment of Students with Visual Impairments",
+        "courseCode": "SPED 436/536",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides students with knowledge and understanding of the educational assessment of students with visual impairments and additional disabilities including deaf-blindness.  Students will practice assessing and planning educational programs for students with visual impairments.  Addresses assessment of technology for students with visual impairments.  Examines determination of learning needs and appropriate learning media, relationship of assessment, IEP development, and placement.  Practicum requires a minimum of 25 hours.",
+        "Technical and Digital Skills": [
+            "Assessment of technology for students with visual impairments",
+            "Understanding of educational assessments",
+            "Planning educational programs for students with visual impairments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with students with visual impairments and additional disabilities",
+            "Communicating assessment results",
+            "Developing individualized education plans (IEPs)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determining learning needs",
+            "Choosing appropriate learning media",
+            "Analyzing assessment results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating practicum hours",
+            "Leading IEP development",
+            "Managing student placement decisions"
+        ]
+    },
+    {
+        "courseTitle": "Assistive Technology for Diverse Students",
+        "courseCode": "SPED 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides lectures for pre-service and in-service teachers and related service providers of special populations in the use of assistive technology (AT) devices and services, and augmentative alternative communication (AAC) systems for instructional programs and computer applications. Study will involve compliance with federal and state laws, and national and state standards related to providing assistive technology to diverse students.",
+        "Technical and Digital Skills": [
+            "Use of assistive technology devices",
+            "Understanding of augmentative alternative communication systems",
+            "Knowledge of instructional programs and computer applications",
+            "Compliance with federal and state laws regarding assistive technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with diverse students",
+            "Coordinating with related service providers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate assistive technology for individual needs",
+            "Analyzing the effectiveness of assistive technology in instructional programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adherence to national and state standards",
+            "Implementing assistive technology into instructional programs",
+            "Leading special populations in the use of assistive technology"
+        ]
+    },
+    {
+        "courseTitle": "Teaching Students with Severe Physical and Sensorimotor Disabilities",
+        "courseCode": "SPED 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course reviews techniques for working with students who have severe physical and sensorimotor disabilities. Course emphasis is on proper positioning and handling for students with atypical motor/muscle development who function at developmental levels between birth and five years. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Understanding of atypical motor/muscle development",
+            "Techniques for proper positioning and handling of students with severe physical and sensorimotor disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy and understanding towards students with severe disabilities",
+            "Ability to communicate effectively with students at developmental levels between birth and five years"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching techniques to cater to individual student's needs",
+            "Analyzing the effectiveness of the teaching techniques used"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing a 45-hour practicum",
+            "Ability to lead and manage students with diverse needs"
+        ]
+    },
+    {
+        "courseTitle": "Teaching Preschoolers With Diverse Abilities",
+        "courseCode": "SPED 460/560",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students to create high quality learning environments for preschool children (ages 2-5 years) who have diverse strengths and needs. Students will learn how to access curricula and materials, plan for and provide evidence-based instruction, collect data for progress monitoring, and provide adaptations to the environment to support the development of children with and without disabilities. Programming that addresses multiple areas of development, such as social-emotional, communication, motor, and cognition, will be discussed, and students will complete a 10-hour preschool observation.",
+        "Technical and Digital Skills": [
+            "Using digital tools for progress monitoring",
+            "Accessing and utilizing online curricula and materials",
+            "Implementing evidence-based instruction techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with young children",
+            "Understanding and addressing children's diverse communication needs",
+            "Building trust and rapport with preschool children"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and adapting to children's diverse learning needs",
+            "Analyzing progress data to adjust teaching strategies",
+            "Problem-solving for effective environmental adaptations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing lesson plans",
+            "Creating high quality learning environments",
+            "Leading programming that addresses multiple areas of child development"
+        ]
+    },
+    {
+        "courseTitle": "Developmental Assessment of Young Children with Diverse Abilities",
+        "courseCode": "SPED 461/561",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students to use recommended practices for assessing the development of young children with diverse abilities, ages birth to 5 years, in home and inclusive/classroom-based settings. Course content and discussions address the knowledge and skills needed by early intervention, early childhood, and early childhood special educators when gathering developmental information to determine a child’s eligibility, plan intervention and educational activities, and monitor progress across time. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Understanding of recommended practices for child development assessment",
+            "Knowledge of early intervention and special education techniques",
+            "Monitoring and tracking child progress over time"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with young children",
+            "Interacting with children in a home or classroom setting",
+            "Adapting communication strategies for children with diverse abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determining a child’s eligibility for specific programs",
+            "Planning effective intervention and educational activities",
+            "Analyzing developmental information",
+            "Problem-solving in early childhood and special education contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading educational activities",
+            "Managing a practicum of 45 hours",
+            "Leading discussions on child development"
+        ]
+    },
+    {
+        "courseTitle": "Family-Centered Practices in Early Childhood Intervention",
+        "courseCode": "SPED 467/567",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares professionals to partner with families of infants and toddlers (ages birth-three) with developmental delays and disabilities in early intervention programs. Emphasis is placed on the use of family-centered practices that support caregiver and child learning during visits in homes and other community settings. Strategies for collaborating with team members (including the family), writing Individualized Family Service Plans (IFSPs), and providing effective services that facilitate child development during natural family routines and activities will be discussed. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Writing Individualized Family Service Plans (IFSPs)",
+            "Implementing family-centered practices",
+            "Designing effective services for child development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with team members and families",
+            "Facilitating child learning during visits",
+            "Communicating effectively in home and community settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing developmental delays and disabilities",
+            "Adapting strategies for different family routines and activities",
+            "Problem-solving in early intervention programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and coordinating visits in homes and community settings",
+            "Organizing practicum hours",
+            "Managing early intervention programs"
+        ]
+    },
+    {
+        "courseTitle": "Communication/Language Development/Intervention for Students with Significant Disabilities",
+        "courseCode": "SPED 469/569",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines symbolic and non-symbolic communication/language development and acquisition.  Emphasis is on routine-based communication training, communication/language facilitation strategies, augmentative communication systems, and informal/functional communication/language assessment procedures for students in early childhood special education, students with autism, and students with multiple disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of symbolic and non-symbolic communication",
+            "Knowledge of routine-based communication training",
+            "Understanding of augmentative communication systems",
+            "Familiarity with informal/functional communication/language assessment procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to facilitate communication/language strategies",
+            "Experience with routine-based communication training",
+            "Ability to work with students with autism and multiple disabilities",
+            "Capability to implement augmentative communication systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to assess and analyze communication/language development",
+            "Capability to devise strategies for communication/language facilitation",
+            "Problem-solving in augmentative communication systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing individualized communication/language training for students",
+            "Ability to lead and implement communication/language intervention strategies",
+            "Leadership in managing augmentative communication systems"
+        ]
+    },
+    {
+        "courseTitle": "Field Experience Seminar in Special Education",
+        "courseCode": "SPED 483/583",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Explores issues, problems, concerns and processes related to teaching and entering the profession of teaching.  Passing scores on the Virginia Communication and Literacy Assessment (VCLA) and Virginia Reading Assessment (VRA)/ Reading for Virginia Educators (RVE) will be required by the end of the course.",
+        "Technical and Digital Skills": [
+            "Virginia Communication and Literacy Assessment (VCLA) preparation",
+            "Virginia Reading Assessment (VRA)/ Reading for Virginia Educators (RVE) preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a teaching environment",
+            "Building professional relationships in the field of education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing issues and concerns in the profession of teaching",
+            "Analyzing and solving problems related to teaching processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a teaching environment",
+            "Organizational skills for entering the teaching profession"
+        ]
+    },
+    {
+        "courseTitle": "Teacher Candidate Internship for Special Endorsement",
+        "courseCode": "SPED 486/586",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seven weeks will be completed at the elementary level and seven weeks will be completed at the middle/secondary level. Students enrolled at the graduate level complete 9 credit hours.",
+        "Technical and Digital Skills": [
+            "Lesson planning",
+            "Grading and assessment techniques",
+            "Education software use",
+            "Digital communication tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Communication with parents and staff",
+            "Cultural sensitivity and inclusivity",
+            "Conflict resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Classroom management strategies",
+            "Adaptability to different learning styles",
+            "Critical thinking for lesson improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Leadership in classroom settings",
+            "Organization of teaching materials",
+            "Progress tracking"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Special Education",
+        "courseCode": "SPED 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest in the special education field.",
+        "Technical and Digital Skills": [
+            "Understanding of special education regulations and guidelines",
+            "Usage of special education software and digital tools",
+            "Adaptation of conventional teaching methods for special education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students of various learning capabilities",
+            "Collaboration with parents and other educators",
+            "Empathy and patience in dealing with special education students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing and implementing individualized education plans",
+            "Assessing the progress of special education students",
+            "Developing strategies to handle behavioral issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing special education classroom",
+            "Leading a team of special education professionals",
+            "Coordinating with external agencies for student support"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Special Education",
+        "courseCode": "SPED 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of special topics in special education for undergraduate students.",
+        "Technical and Digital Skills": [
+            "Special education methodology",
+            "Use of assistive technology in special education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one teaching strategies",
+            "Effective communication with students with special needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing individualized education programs",
+            "Adapting educational materials for special needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing special education classroom",
+            "Leadership in inclusive education settings"
+        ]
+    },
+    {
+        "courseCode": "SPED 500",
+        "courseTitle": "Foundations of Special Education: Legal Aspects and Characteristics",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides an introduction and overview of the field of special education from the perspective that it is a subsection of general education and that the field is in transition by virtue of philosophical, legislative, and programmatic changes.  Legal aspects, regulatory requirements, and critical analyses of research are addressed. The course includes a broad overview of the characteristics, identification, instructional needs, and accommodation necessary for creating appropriate educational and vocational environments for students with disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding legislative changes in special education",
+            "Knowledge of regulatory requirements in special education",
+            "Identification of characteristics of students with disabilities",
+            "Creating appropriate educational and vocational environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students with disabilities",
+            "Understanding the needs of students with disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of special education research",
+            "Solving issues related to accommodation for students with disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of instructional needs of students with disabilities",
+            "Leading transition in special education field"
+        ]
+    },
+    {
+        "courseCode": "SPED 502",
+        "courseTitle": "Instructional Design I: Learner Characteristics and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide pre-service and in-service teachers with: (a) knowledge of the characteristics of K-12 students with learning differences who are accessing either the general curriculum or the adapted curriculum, and (b) the ability to develop knowledge and skill in the selection, administration, scoring and interpretation of standardized/norm-referenced and criterion-referenced assessments for exceptional learners. Administering formal and informal assessment tools for the development of an IEP are emphasized. The use of assessment data to improve evidence-based instruction and student performance is discussed.",
+        "Technical and Digital Skills": [
+            "Administration of standardized/norm-referenced assessments",
+            "Administration of criterion-referenced assessments",
+            "Use of formal and informal assessment tools for IEP development",
+            "Interpretation of assessment data to inform evidence-based instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing learning differences in K-12 students",
+            "Communication of assessment results and instructional strategies to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and selection of appropriate assessments for exceptional learners",
+            "Analysis and interpretation of assessment results",
+            "Adaptation of instruction based on assessment results to improve student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Development of individualized education plans (IEPs)",
+            "Leadership in evidence-based instruction",
+            "Effective management of diverse learner characteristics"
+        ]
+    },
+    {
+        "courseCode": "SPED 504",
+        "courseTitle": "Characteristics and Medical Aspects of Disabling Conditions",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews medical conditions present among individuals with disabilities and implications for classroom instruction.",
+        "Technical and Digital Skills": [
+            "Understanding of medical conditions",
+            "Knowledge of disability effects",
+            "Implication assessment for classroom instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals with disabilities",
+            "Adapting teaching methods to diverse needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effect of disabilities on learning",
+            "Creating strategies to overcome learning barriers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning inclusive classroom instructions",
+            "Leading the adaptation of instructional methods"
+        ]
+    },
+    {
+        "courseCode": "SPED 506",
+        "courseTitle": "Students with Diverse Learning Needs in the General Education Classroom",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces general education teachers to the legal aspects and educational needs of at-risk students and those with disabilities.  Emphasis is on characteristics of children with special needs and procedures for effective academic, behavioral, and social integration of these children in the general education classroom.",
+        "Technical and Digital Skills": [
+            "Understanding of children's special needs",
+            "Knowledge of legal aspects related to at-risk students and those with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with at-risk students and those with disabilities",
+            "Social integration techniques for children with special needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Procedure development for effective academic and behavioural integration",
+            "Analyzing the characteristics and needs of children with special needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in inclusive classroom settings",
+            "Organizing educational plans for diverse learners"
+        ]
+    },
+    {
+        "courseCode": "SPED 511",
+        "courseTitle": "Classroom and Behavioral Management Techniques for Students with Diverse Needs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses classroom management techniques and individual interventions based upon behavioral, cognitive, affective, social, and ecological theory and practice. The course focuses on the field of applied behavior analysis, including best practices in the areas of data collection, program selection, program implementation, and data analysis. Positive behavior management, supports, and functional behavioral assessment for students with diverse learning needs will be emphasized.",
+        "Technical and Digital Skills": [
+            "Applied behavior analysis",
+            "Data collection techniques",
+            "Program selection",
+            "Program implementation",
+            "Data analysis methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Positive behavior management",
+            "Implementing supports for students with diverse learning needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Functional behavioral assessment",
+            "Identifying and addressing behavioral, cognitive, affective, and social issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management techniques",
+            "Implementing individual interventions based on various theories and practices"
+        ]
+    },
+    {
+        "courseCode": "SPED 515",
+        "courseTitle": "Instructional Design II: Curricular Procedures and Individualized Education Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide preservice and in-service teachers with: (a) knowledge of research-based instruction for PreK-12 students with disabilities and those who are gifted; (b) knowledge and skill in using data collection to make decisions about student progress, instruction, program, accommodations and teaching methodology for exceptional learners, and (c) knowledge and skill in planning, developing and implementing individual educational plans and group instruction for diverse exceptional learners who are accessing the general education curriculum and the standards of learning or the adapted education curriculum and the aligned or essentialized standards of learning.",
+        "Technical and Digital Skills": [
+            "Research-based instruction for PreK-12 students with disabilities and those who are gifted",
+            "Data collection and analysis for decision making",
+            "Planning, developing and implementing individual educational plans and group instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with diverse exceptional learners",
+            "Adapting teaching methodology for exceptional learners",
+            "Implementing accommodations for exceptional learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making based on data collection",
+            "Adaptation of teaching methodology based on student progress",
+            "Developing and implementing individual educational plans and group instruction for diverse learners"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and developing curriculum for diverse exceptional learners",
+            "Leadership in implementing individual educational plans and group instruction",
+            "Using data to guide instruction and program decisions"
+        ]
+    },
+    {
+        "courseCode": "SPED 517",
+        "courseTitle": "Collaboration and Transitions",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the complex issues surrounding families and children with disabilities and transitions across the lifespan, as well as effective collaboration with families and professionals to support inclusion and/or effective early intervention services, educational services, and transition services for students at-risk and students with disabilities.  Emphasis is on successful professional collaboration and effective relationships in educational, transition, and family settings.",
+        "Technical and Digital Skills": [
+            "Understanding of disability and transition issues",
+            "Knowledge of early intervention services",
+            "Familiarity with educational and transition services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration with families and professionals",
+            "Building relationships in various settings",
+            "Supporting inclusion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing complex issues associated with disabilities and transitions",
+            "Developing effective interventions and services",
+            "Identifying at-risk students"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing transitions across the lifespan",
+            "Leading successful professional collaborations",
+            "Coordinating educational, transition, and family services"
+        ]
+    },
+    {
+        "courseCode": "SPED 518",
+        "courseTitle": "Instructional Strategies to Meet Diverse Learning Needs in Math",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers instructional strategies necessary to teach mathematics to students with diverse learning needs in elementary and secondary settings. Students will study and apply pedagogy-based research on how learning takes place and strategies for differentiating instruction for the unique needs of diverse learners. Students will address and apply effective research-based methodology and evaluation standards.",
+        "Technical and Digital Skills": [
+            "Application of pedagogy-based research",
+            "Use of instructional strategies in mathematics",
+            "Differentiation of instruction for diverse learners"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex mathematical concepts",
+            "Adapting communication for diverse learners",
+            "Collaborative research and application"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing unique needs of diverse learners",
+            "Evaluation of research-based methodology",
+            "Evaluation standards"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and applying research findings",
+            "Leading inclusive mathematics instruction",
+            "Coordinating diverse learning strategies"
+        ]
+    },
+    {
+        "courseCode": "SPED 528",
+        "courseTitle": "Instructional Strategies for Students Accessing the Adapted Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the characteristics and instructional strategies of students accessing the adapted curriculum. Emphasis is on assessment, program development, academic, and functional skills instruction. This course addresses the needs of individuals with severe and/or profound multiple disabilities. 45 Hour Practicum",
+        "Technical and Digital Skills": [
+            "Assessment of student needs",
+            "Program development for students with severe and/or profound multiple disabilities",
+            "Academic and functional skills instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with students with severe and/or profound multiple disabilities",
+            "Collaborative program development",
+            "Adapted instructional delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of student needs",
+            "Adaptation and customization of curriculum",
+            "Problem-solving for students with severe and/or profound multiple disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and executing adapted curriculum",
+            "Leading a team in program development",
+            "Managing a practicum"
+        ]
+    },
+    {
+        "courseCode": "SPED 532",
+        "courseTitle": "Characteristics of Students with Visual Impairments",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of the characteristics of and services to persons with visual impairments, including the impact of visual impairment on infants’ and children’s growth and development, child and adolescent emotional and social development, and family interaction patterns.  Considers the educational, conceptual, psycho-social, and physical implications of a visual impairment.",
+        "Technical and Digital Skills": [
+            "Understanding of visual impairments",
+            "Knowledge of impact of visual impairment on development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Interaction with visually impaired individuals",
+            "Understanding family interaction patterns"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing psycho-social implications of visual impairment",
+            "Identifying educational implications of visual impairment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning services for persons with visual impairments",
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "SPED 533",
+        "courseTitle": "Braille Code",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides instruction in the development, use, and application of the Braille literary code and its implications for educational/literacy programs for students with visual disabilities.  Students will develop the skills to read and write contracted and uncontracted Braille, while acquiring instructional methodologies for teaching children who are blind to read and write.  Sources of Braille materials for educational purposes are identified.",
+        "Technical and Digital Skills": [
+            "Reading and writing contracted Braille",
+            "Reading and writing uncontracted Braille",
+            "Identifying sources of Braille materials for educational purposes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional methodologies for teaching Braille to children who are blind"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of Braille literary code in educational/literacy programs for students with visual disabilities"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPED 534",
+        "courseTitle": "Medical and Educational Implications of Visual Impairments",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides an introduction to anatomy and physiology of the visual system and the educational implications of visual pathology.  Topics include anatomy of the human eye, normal visual development, pathology of the eye, examination procedures for the identification of visual pathology, and the effects of pathology on visual learning and development. Practicum of 25 hours required.",
+        "Technical and Digital Skills": [
+            "Understanding of visual system anatomy and physiology",
+            "Knowledge of visual pathology",
+            "Visual examination procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating visual examination results",
+            "Explaining educational implications of visual impairments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and diagnosing visual pathologies",
+            "Analyzing effects of pathology on visual learning and development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating and completing required practicum hours"
+        ]
+    },
+    {
+        "courseCode": "SPED 535",
+        "courseTitle": "Orientation and Mobility",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides the foundation for understanding the components and essence of orientation and mobility.  Establishes how the need for independent travel in the blind population created the field of O&M.  Explores the philosophy and history of orientation and mobility including cane instruction, dog guides and methods of travel.  Addresses techniques in developing orientation skills and basic mobility instruction.  Motor and concept skill development are emphasized.  Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Orientation skill development",
+            "Basic mobility instruction",
+            "Cane instruction",
+            "Dog guide handling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding needs of the blind population",
+            "Adapting teaching methods to individual needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing effectiveness of different travel methods",
+            "Developing motor and concept skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading practicum sessions",
+            "Planning and organizing mobility training sessions"
+        ]
+    },
+    {
+        "courseCode": "SPED 536",
+        "courseTitle": "Curriculum and Assessment of Students with Visual Impairments",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides students with knowledge and understanding of the educational assessment of students with visual impairments and additional disabilities including deaf-blindness.  Students will practice assessing and planning educational programs for students with visual impairments.  Addresses assessment of technology for students with visual impairments.  Examines determination of learning needs and appropriate learning media, relationship of assessment, IEP development, and placement.  Practicum requires a minimum of 25 hours.",
+        "Technical and Digital Skills": [
+            "Understanding of educational assessment of visually impaired students",
+            "Assessment of technology for students with visual impairments",
+            "Planning educational programs for students with visual impairments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with students with additional disabilities including deaf-blindness",
+            "Communication with visually impaired students",
+            "Implementation of Individualized Education Program (IEP)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determination of learning needs and appropriate learning media",
+            "Analyzing assessment results to inform IEP development and placement decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading the development and implementation of IEPs",
+            "Organizing and executing a practicum requiring a minimum of 25 hours"
+        ]
+    },
+    {
+        "courseCode": "SPED 537",
+        "courseTitle": "Assistive Technology for People with Sensory Impairments",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed for professionals and/or students interested in serving the visually impaired/blind population or hearing impaired/deaf population.  It is designed to heighten the awareness of participants to specific technology and resources available to enhance and improve the ability of individuals with visual and hearing impairments to succeed in school, daily living activities and employment.  Knowledge and awareness components of this course will be delivered via distance education.",
+        "Technical and Digital Skills": [
+            "Understanding of assistive technology for visually impaired",
+            "Knowledge of resources for hearing impaired",
+            "Proficiency in distance education tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy and understanding towards people with sensory impairments",
+            "Effective communication with visually and hearing impaired individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to adapt technology to individual needs",
+            "Problem-solving for daily living activities and employment challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and coordinate remote learning",
+            "Leading initiatives for technology access and inclusion"
+        ]
+    },
+    {
+        "courseCode": "SPED 540",
+        "courseTitle": "Assistive Technology for Diverse Students",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides lectures for pre-service and in-service teachers, and related service providers of special populations in use of assistive technology (AT) devices and services, and augmentative and alternative communication (AAC) systems for instructional programs and computer applications. Study will involve compliance with federal and state laws, and national and state educational standards related to providing assistive technology to students with diverse learning needs.",
+        "Technical and Digital Skills": [
+            "Usage of assistive technology devices",
+            "Application of augmentative and alternative communication systems",
+            "Understanding of computer applications for special populations",
+            "Compliance with federal and state laws related to assistive technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional program design for diverse learning needs",
+            "Collaboration with related service providers",
+            "Effective communication with special populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of assistive technology for diverse learning needs",
+            "Analysis of national and state educational standards",
+            "Resolution of compliance issues in assistive technology use"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in providing assistive technology",
+            "Organization of instructional programs using AT and AAC",
+            "Implementation of national and state educational standards"
+        ]
+    },
+    {
+        "courseCode": "SPED 541",
+        "courseTitle": "Teaching Students with Severe Physical and Sensorimotor Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews techniques for working with students who have severe physical and sensorimotor disabilities. Course emphasis is on proper positioning and handling for students with atypical motor/muscle development who function at developmental levels between birth and five years. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Techniques for handling students with atypical motor/muscle development",
+            "Applying proper positioning for students with physical disabilities",
+            "Understanding of sensorimotor disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with students with severe physical and sensorimotor disabilities",
+            "Understanding and responding to non-verbal cues",
+            "Building trust and rapport with physically challenged students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Problem-solving in the context of physical and sensorimotor disabilities",
+            "Analyzing students' progress and adjusting teaching techniques accordingly"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing a practicum",
+            "Leading and inspiring students with severe physical and sensorimotor disabilities",
+            "Coordinating with other educators and healthcare professionals"
+        ]
+    },
+    {
+        "courseCode": "SPED 560",
+        "courseTitle": "Teaching Preschoolers With Diverse Abilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares students to create high quality learning environments for preschool children (ages 2-5 years) who have diverse strengths and needs. Students will learn how to access curricula and materials, plan for and provide evidence-based instruction, collect data for progress monitoring, and provide adaptations to the environment to support the development of children with and without disabilities. Programming that addresses multiple areas of development, such as social-emotional, communication, motor, and cognition, will be discussed, and students will complete a 10-hour preschool observation.",
+        "Technical and Digital Skills": [
+            "Data collection and monitoring",
+            "Programming for diverse developmental areas",
+            "Accessing and using educational curricula and materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with preschool children",
+            "Adapting language and instruction for children with diverse needs",
+            "Observing and understanding children's behaviors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing children's progress",
+            "Adapting learning environments for different needs",
+            "Planning evidence-based instruction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing high quality learning environments",
+            "Leading inclusive preschool programs",
+            "Planning and executing observational studies"
+        ]
+    },
+    {
+        "courseCode": "SPED 561",
+        "courseTitle": "Developmental Assessment of Young Children with Diverse Abilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares students to use recommended practices for assessing the development of young children with diverse abilities, ages birth to 5 years, in home and inclusive/classroom-based settings. Course content and discussions address the knowledge and skills needed by early intervention, early childhood, and early childhood special educators when gathering developmental information to determine a child’s eligibility, plan intervention and educational activities, and monitor progress across time. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Understanding of developmental assessment practices",
+            "Knowledge of early intervention strategies",
+            "Ability to monitor progress over time",
+            "Practical experience with inclusive/classroom-based settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate with diverse children",
+            "Collaboration with other educators",
+            "Presenting and discussing course content"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determining a child's eligibility for specific educational activities",
+            "Planning intervention and educational activities",
+            "Analyzing developmental information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and completing a practicum of 45 hours",
+            "Leadership in early childhood education settings"
+        ]
+    },
+    {
+        "courseCode": "SPED 567",
+        "courseTitle": "Family-Centered Practices in Early Childhood Intervention",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares professionals to partner with families of infants and toddlers (ages birth-three) with developmental delays and disabilities in early intervention programs. Emphasis is placed on the use of family-centered practices that support caregiver and child learning during visits in homes and other community settings. Strategies for collaborating with team members (including the family), writing Individualized Family Service Plans (IFSPs), and providing effective services that facilitate child development during natural family routines and activities will be discussed. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Writing Individualized Family Service Plans (IFSPs)",
+            "Implementing early intervention programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Partnering with families of infants and toddlers",
+            "Collaborating with team members",
+            "Providing effective services that facilitate child development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Implementing strategies for caregiver and child learning during visits",
+            "Facilitating child development during natural family routines and activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing practicum of 45 hours",
+            "Coordinating early intervention programs",
+            "Leading team collaboration in family-centered practices"
+        ]
+    },
+    {
+        "courseCode": "SPED 569",
+        "courseTitle": "Communication/Language Development/Intervention for Students with Significant Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines symbolic and non-symbolic communication/language development and acquisition.  Emphasis is on routine-based communication training, communication/language facilitation strategies, augmentative communication systems, and informal/functional communication/language assessment procedures for students in early childhood special education, students with autism, and students with multiple disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding symbolic and non-symbolic communication/language",
+            "Routine-based communication training",
+            "Communication/language facilitation strategies",
+            "Knowledge of augmentative communication systems",
+            "Informal/functional communication/language assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with students in early childhood special education, students with autism, and students with multiple disabilities",
+            "Facilitating communication/language development",
+            "Implementing augmentative communication systems",
+            "Conducting informal/functional communication/language assessments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing symbolic and non-symbolic communication/language",
+            "Developing personalized communication training",
+            "Adapting communication/language facilitation strategies",
+            "Assessing effectiveness of augmentative communication systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing routine-based communication training sessions",
+            "Leading communication/language facilitation",
+            "Managing augmentative communication systems",
+            "Coordinating informal/functional communication/language assessments"
+        ]
+    },
+    {
+        "courseCode": "SPED 583",
+        "courseTitle": "Field Experience Seminar in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Explores issues, problems, concerns and processes related to teaching and entering the profession of teaching.  Passing scores on the Virginia Communication and Literacy Assessment (VCLA), Praxis II:  Elementary Education Content Test, and Virginia Reading Assessment (VRA)/ Reading for Virginia Educators (RVE) will be required by the end of the course.",
+        "Technical and Digital Skills": [
+            "Understanding of VCLA, Praxis II, and VRA/RVE tests",
+            "Special education teaching methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students, parents, and co-workers",
+            "Cultural awareness and sensitivity in teaching"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing educational issues and concerns",
+            "Developing solutions for teaching-related problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leading educational processes",
+            "Organizing teaching plans"
+        ]
+    },
+    {
+        "courseCode": "SPED 586",
+        "courseTitle": "Teacher Candidate Internship for Special Endorsement",
+        "academicLevel": "graduate",
+        "courseDescription": "Seven weeks will be completed at the elementary level and seven weeks will be completed at the middle/secondary level.",
+        "Technical and Digital Skills": [
+            "Educational technology use",
+            "Digital classroom management tools",
+            "Online learning platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Collaboration with educational staff",
+            "Parent-teacher communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods for different age groups",
+            "Handling classroom challenges",
+            "Assessment and evaluation of student progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Lesson planning",
+            "Leadership in an educational setting"
+        ]
+    },
+    {
+        "courseCode": "SPED 595",
+        "courseTitle": "Topics in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest in the special education field.",
+        "Technical and Digital Skills": [
+            "Understanding of special education curriculum",
+            "Application of assistive technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with special needs students",
+            "Collaboration with parents and other educators",
+            "Empathy and patience in teaching"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods to individual student needs",
+            "Critical evaluation of special education techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management for special education",
+            "Leadership in inclusive education"
+        ]
+    },
+    {
+        "courseCode": "SPED 601",
+        "courseTitle": "English Learners and the Special Education Process",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with information regarding the characteristics of English learners with disabilities, the special education law, and the legal requirements for assessment, evaluation, eligibility determination, and program planning. Progress monitoring, annual reviews, and reevaluation of English learners with disability or suspected of a disability also will be reviewed. The role of parents and community will be examined.",
+        "Technical and Digital Skills": [
+            "Understanding of special education law",
+            "Knowledge of assessment and evaluation methods",
+            "Progress monitoring",
+            "Understanding of reevaluation processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with parents and community",
+            "Cultural sensitivity in interacting with English learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Eligibility determination for special education",
+            "Analytical evaluation of student progress",
+            "Problem-solving for program planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing annual reviews",
+            "Leadership in managing special education processes",
+            "Community engagement"
+        ]
+    },
+    {
+        "courseCode": "SPED 602",
+        "courseTitle": "Principles of Language Learning and Assessment of English Learners with Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with knowledge and skills related to first and second language acquisition, language assessment, response to intervention, program planning, data collection and analysis, and the effective use of interpreters. Special attention is focused upon factors that affect second language acquisition, typical and atypical language development, differentiation for English learners with disabilities, and the bilingual brain.",
+        "Technical and Digital Skills": [
+            "Knowledge of first and second language acquisition",
+            "Understanding of language assessment techniques",
+            "Ability to perform response to intervention",
+            "Skills in program planning",
+            "Proficiency in data collection and analysis",
+            "Competence in using interpreters effectively"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to address factors affecting second language acquisition",
+            "Effective communication with English learners with disabilities",
+            "Understanding of typical and atypical language development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to differentiate instruction for English learners with disabilities",
+            "Problem-solving skills for program planning and response to intervention",
+            "Analytical skills in understanding the bilingual brain and language development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in program planning and intervention",
+            "Organizational skills in data collection and analysis"
+        ]
+    },
+    {
+        "courseCode": "SPED 603",
+        "courseTitle": "Language, Literature Content for English Learners With Disabilities in Inclusive Settings",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines language as the key to learning and the integration of speaking, listening, reading and writing to English learners' (EL) literacy development with a focus on ELs with disabilities. Students will learn phonological and orthographic features of words, factors that influence reading comprehension, how to differentiate instruction, how to teach sentence and paragraph writing, and how to develop academic vocabulary in ELs with disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding phonological and orthographic features of words",
+            "Differentiating instruction for ELs with disabilities",
+            "Teaching sentence and paragraph writing",
+            "Developing academic vocabulary in ELs with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Integrated teaching of speaking, listening, reading and writing to ELs",
+            "Adapting communication to accommodate ELs with disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing factors that influence reading comprehension",
+            "Identifying and addressing learning challenges of ELs with disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing inclusive language and literature lessons",
+            "Leading classroom discussions and activities for ELs with disabilities"
+        ]
+    },
+    {
+        "courseCode": "SPED 604",
+        "courseTitle": "Instructional Strategies for English Learners with Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course details current evidence-based practices to teach English learners with disabilities. Students will learn principles of effective evidence-based instructional strategies and guidelines for selecting them, including the use of technology to teach English learners with disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of evidence-based instructional strategies",
+            "Use of technology in teaching",
+            "Adapting technology for learners with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with English learners with disabilities",
+            "Empathy and understanding towards learners with disabilities",
+            "Collaborative work in inclusive settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of appropriate instructional strategies",
+            "Assessment of learners' needs",
+            "Analyzing effectiveness of instructional strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing lesson plans",
+            "Adapting organizational strategies for learners with disabilities",
+            "Leading inclusive classrooms"
+        ]
+    },
+    {
+        "courseCode": "SPED 610",
+        "courseTitle": "Characteristics of Students Accessing the General Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide pre-service and currently licensed teachers with(a) knowledge of the characteristics of students with disabilities who are accessing the general curriculum, K-12, including, but not limited to learning disabilities, emotional disabilities, and intellectual disabilities; (b) the ability to recognize etiologies, underlying factors, and contributing conditions that impact student learning, and (c) the cultural impact of disabling conditions.",
+        "Technical and Digital Skills": [
+            "Recognizing etiologies and underlying factors",
+            "Understanding various disabilities",
+            "Identifying contributing conditions impacting student learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students with disabilities",
+            "Cultural sensitivity towards disabling conditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effect of disabling conditions on student learning",
+            "Formulating strategies for students with disabilities accessing general curriculum"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse learning environments",
+            "Leadership in inclusive education settings"
+        ]
+    },
+    {
+        "courseCode": "SPED 611",
+        "courseTitle": "Instructional Strategies for Students Accessing the General Education Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "This course emphasizes effective research-based instructional strategies for teaching students with mild/moderate disabilities in grades K-12 who are accessing the general education curriculum. Practicum of 45 hours in middle/secondary-level setting is required.",
+        "Technical and Digital Skills": [
+            "Research-based instructional strategies",
+            "Adapting general curriculum for students with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with students with mild/moderate disabilities",
+            "Effectively teaching diverse learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing student needs",
+            "Developing effective learning strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing classroom environment",
+            "Leading practicum sessions"
+        ]
+    },
+    {
+        "courseCode": "SPED 613",
+        "courseTitle": "Human Growth and Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to give a thorough overview of human development from birth through adolescence and to develop an understanding of what impact physical, social, emotional, and intellectual development may have on the student, the learning environment, and instructional decisions. This course provides an advanced overview of current research and theory in human growth and development and their applications to the classroom. Throughout the course, issues of diversity as it applies to economic, social, racial, ethnic, and religious characteristics will be explored; developmental issues related to giftedness or disability and the impact of family disruptions, child abuse, and substance abuse will be addressed within the context of each topic.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing diversity",
+            "Recognizing and addressing signs of child abuse or substance abuse",
+            "Communicating effectively with individuals of different economic, social, racial, ethnic, and religious backgrounds"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and applying theories of human growth and development",
+            "Assessing the impact of various factors on human development",
+            "Addressing developmental issues related to giftedness or disability"
+        ],
+        "Organizational and Leadership Skills": [
+            "Making informed instructional decisions",
+            "Managing a diverse learning environment",
+            "Leading classroom applications of current research and theory in human growth and development"
+        ]
+    },
+    {
+        "courseCode": "SPED 615",
+        "courseTitle": "Advanced Classroom and Behavior Management Techniques for Students with Diverse Needs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses classroom management techniques and individual interventions based upon behavioral, cognitive, affective, social, and ecological theory and practice. The course focuses on the field of applied behavior analysis, including best practices in the areas of data collection, program selection, program implementation, and data analysis. Positive behavior management, supports, and functional behavioral assessment for students with diverse learning needs will be emphasized.",
+        "Technical and Digital Skills": [
+            "Applied behavior analysis",
+            "Data collection",
+            "Program selection",
+            "Program implementation",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Positive behavior management",
+            "Implementing support for students with diverse learning needs",
+            "Functional behavioral assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of behavioral, cognitive, affective, social, and ecological theories in classroom management",
+            "Identifying appropriate interventions for individual students"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing classroom dynamics",
+            "Implementing individualized intervention programs"
+        ]
+    },
+    {
+        "courseCode": "SPED 618",
+        "courseTitle": "Advanced Instructional Design I: Learner Characteristics and Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide pre-service and in-service teachers with: (a) knowledge of the characteristics of K-12 students with learning differences who are accessing either the general curriculum or the adapted curriculum and (b) the ability to develop knowledge and skill in the selection, administration, scoring and interpretation of standardized/norm-referenced and criterion-referenced assessments for exceptional learners. Administering formal and informal assessment tools for the development of an IEP are emphasized. The use of assessment data to improve evidence-based instruction and student performance is discussed. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Administration of standardized/norm-referenced assessments",
+            "Administration of criterion-referenced assessments",
+            "Use of assessment data to improve instruction",
+            "Application of formal and informal assessment tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and accommodating learning differences in K-12 students",
+            "Interpreting assessment results for exceptional learners",
+            "Developing Individualized Education Programs (IEPs)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of appropriate assessment strategies",
+            "Scoring and interpretation of assessment results",
+            "Utilizing assessment data to improve student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing practicum hours",
+            "Implementation of evidence-based instruction",
+            "Development and execution of specialized curriculum for diverse learners"
+        ]
+    },
+    {
+        "courseCode": "SPED 620",
+        "courseTitle": "Advanced Foundations of Special Education: Legal Aspects and Characteristics",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides an introduction and overview of the field of special education from the perspective that it is a subsection of general education and that the field is in transition by virtue of philosophical, legislative, and programmatic changes.  Legal aspects, regulatory requirements, and critical analyses of research are addressed. The course includes a broad overview of the characteristics, identification, instructional needs, and accommodation necessary for creating appropriate educational and vocational environments for students with disabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of educational law and regulations",
+            "Analysis of academic research",
+            "Identification and accommodation of disabilities",
+            "Creation of suitable educational and vocational environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals with disabilities",
+            "Collaboration with other educational professionals",
+            "Advocacy for students with disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of legislative and programmatic changes",
+            "Development of personalized educational plans",
+            "Problem-solving for accommodation challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in special education settings",
+            "Management of personalized educational plans",
+            "Compliance with educational laws and regulations"
+        ]
+    },
+    {
+        "courseCode": "SPED 621",
+        "courseTitle": "Effective Interventions for Children and Youth with Challenging Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "Students with challenging behavior pose a tremendous challenge to school personnel.  Along with the growing incidence of behavior problems, there has been a dramatic increase in the number of research-supported interventions.  Emphasis is on assessment of the structural and functional properties of problem behavior to facilitate development of interventions that match the nature and severity of the problem behavior.  The course focuses on gaining knowledge of the likely source(s) of challenging behavior, including various strategies to document the environmental determinants of the behavior, establishment of school-wide, classroom-level, and student-specific intervention programs and ways to document the outcome of those interventions.  Attention is given to adult- as well as peer-mediated intervention options for problem behavior  reduction/replacement among children and youth from diverse backgrounds and across categories of exceptionality. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Assessment of structural and functional properties of problem behavior",
+            "Documentation of environmental determinants of behavior",
+            "Establishment of intervention programs",
+            "Outcome documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Adult and peer-mediated intervention",
+            "Working with students from diverse backgrounds and categories of exceptionality"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of interventions that match the nature and severity of the problem behavior",
+            "Identification of the likely sources of challenging behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of school-wide, classroom-level, and student-specific intervention programs",
+            "Supervision of a 45-hour practicum"
+        ]
+    },
+    {
+        "courseCode": "SPED 622",
+        "courseTitle": "Advanced Collaboration and Transitions",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the complex issues surrounding families and children with disabilities and transitions across the lifespan, as well as effective collaboration with families and professionals to support inclusion and/or effective early intervention services, educational services, and transition services for students at-risk and students with disabilities.  Emphasis is on successful professional collaboration and effective relationships in educational, transition, and family settings.",
+        "Technical and Digital Skills": [
+            "Understanding of disability-related transition services",
+            "Knowledge of early intervention services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration with families and professionals",
+            "Building effective relationships in educational, transition, and family settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing complex issues surrounding families and children with disabilities",
+            "Supporting inclusion for students at-risk and students with disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading successful professional collaboration",
+            "Managing transitions across the lifespan"
+        ]
+    },
+    {
+        "courseCode": "SPED 623",
+        "courseTitle": "Adv Instructional Design II: Curriculum Procedures and Individualized Education Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide preservice and in-service teachers with: (a) knowledge of research-based instruction for PreK-12 students with disabilities and those who are gifted; (b) knowledge and skill in using data collection to make decisions about student progress, instruction, program, accommodations and teaching methodology for exceptional learners, and (c) knowledge and skill in planning, developing and implementing individual educational plans and group instruction for diverse exceptional learners who are accessing the general education curriculum and the standards of learning or the adapted education curriculum and the aligned or essentialized standards of learning. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Instructional design for PreK-12 students with disabilities",
+            "Instructional design for PreK-12 students who are gifted",
+            "Data collection for assessment and decision-making",
+            "Planning, developing and implementing individual educational plans",
+            "Planning, developing and implementing group instruction for diverse exceptional learners"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with exceptional learners",
+            "Providing accommodations for exceptional learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis for student progress assessment",
+            "Problem-solving for exceptional learners' educational needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing individualized education plans",
+            "Leading group instruction for diverse exceptional learners"
+        ]
+    },
+    {
+        "courseCode": "SPED 625",
+        "courseTitle": "Characteristics of Students with Autism Spectrum Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "This course includes a review of characteristics, etiology, prevalence, and perspectives of students with autism spectrum disorders.",
+        "Technical and Digital Skills": [
+            "Understanding autism spectrum disorders",
+            "Knowledge of prevalence and etiology of autism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication with autistic students",
+            "Collaborative interaction with parents and other educators"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing characteristics of autism",
+            "Evaluating perspectives on autism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Tailoring educational strategies to individual needs",
+            "Leading inclusive classrooms"
+        ]
+    },
+    {
+        "courseCode": "SPED 626",
+        "courseTitle": "Advanced Procedures in Reading and Writing for Students with Diverse Learning Needs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the professional educator with a variety of educational procedures for students with disabilities in reading and writing, including diagnostic assessment, causal nature of the disability, and evidence-based instructional strategies. Application of evidence-based practices for assessing and teaching students with disabilities who have severe deficits in reading and writing is emphasized.",
+        "Technical and Digital Skills": [
+            "Diagnostic assessment",
+            "Implementation of evidence-based instructional strategies in reading and writing",
+            "Understanding and identification of the causal nature of learning disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional communication for students with disabilities",
+            "Differentiated instruction for diverse learning needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying severe deficits in reading and writing",
+            "Application of evidence-based practices for assessment and instruction",
+            "Problem solving for learning disability related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing individualized education plans",
+            "Leading instructional strategies for students with disabilities"
+        ]
+    },
+    {
+        "courseCode": "SPED 627",
+        "courseTitle": "Instructional Strategies for Students with Autism Spectrum Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "This course includes a review of intervention strategies for students with autism spectrum disorders. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Knowledge of autism spectrum disorders",
+            "Use of digital tools for student engagement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with autistic students",
+            "Empathy and understanding towards students with autism",
+            "Collaborative work with parents and other educators"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing tailored intervention strategies",
+            "Analyzing student behavior and progress",
+            "Problem-solving for student-specific issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of practicum hours",
+            "Leadership in implementing intervention strategies",
+            "Management of student progress records"
+        ]
+    },
+    {
+        "courseCode": "SPED 628",
+        "courseTitle": "Instructional Strategies for Students Accessing the Adapted Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses the characteristics and instructional strategies of students accessing the adapted curriculum. Emphasis is on assessment, program development, academic, and functional skills instruction. This course addresses the needs of individuals with severe and/or profound multiple disabilities. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Assessment techniques",
+            "Program development",
+            "Instructional strategies for adapted curriculum"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing the needs of individuals with severe and/or profound multiple disabilities",
+            "Implementing functional skills instruction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting and applying instructional strategies to cater to individual needs",
+            "Assessing and interpreting student progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and completing a practicum of 45 hours",
+            "Designing and implementing individualized academic programs"
+        ]
+    },
+    {
+        "courseCode": "SPED 630",
+        "courseTitle": "Teaching Preschoolers with Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to prepare students in curricula, materials and methods of instruction for preschool-aged (2 to 6 years) children with special needs.  Programming for self-help,  social, language, motor, and cognitive development are addressed.  Data collection, program organization, and classroom planning are also covered. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Programming for self-help",
+            "Data collection and analysis",
+            "Classroom planning using various tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instruction methods for children with special needs",
+            "Language development techniques",
+            "Social interaction techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing cognitive development issues",
+            "Addressing motor development issues",
+            "Analyzing and adjusting teaching methods based on data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Course and material organization",
+            "Program planning and organization",
+            "Practicum supervision"
+        ]
+    },
+    {
+        "courseCode": "SPED 631",
+        "courseTitle": "Developmental Assessment of Young Children with Diverse Abilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares students to use recommended practices for assessing the development of young children with diverse abilities, ages birth to 5 years, in home and inclusive/classroom-based settings. Course content and discussions address the knowledge and skills needed by early intervention, early childhood, and early childhood special educators when gathering developmental information to determine a child’s eligibility, plan intervention and educational activities, and monitor progress across time. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Implementation of recommended practices for assessing development",
+            "Administration of developmental assessment techniques",
+            "Monitoring of progress across time"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with children of diverse abilities",
+            "Collaborative planning of intervention and educational activities",
+            "Interacting with families in home and classroom-based settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determining a child’s eligibility for intervention",
+            "Analyzing developmental information",
+            "Adapting assessments according to child's needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting a 45-hour practicum",
+            "Leading intervention and educational activities",
+            "Planning and coordinating early intervention strategies"
+        ]
+    },
+    {
+        "courseCode": "SPED 633",
+        "courseTitle": "Teaching Students with Severe Physical and Sensorimotor Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews techniques for working with students who have severe physical and sensorimotor disabilities. Emphasis is on proper positioning and handling for students with atypical motor/muscle development who function at developmental levels between birth and five years. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Techniques for handling atypical motor/muscle development",
+            "Knowledge of severe physical and sensorimotor disabilities",
+            "Understanding of developmental levels between birth and five years"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with students with severe disabilities",
+            "Adapting communication methods for individual needs",
+            "Collaborating with other educational professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying individual student needs",
+            "Adapting techniques for individual students",
+            "Assessing the effectiveness of positioning and handling techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing practicum hours",
+            "Leading inclusive educational environments",
+            "Organizing individualized education plans"
+        ]
+    },
+    {
+        "courseCode": "SPED 636",
+        "courseTitle": "Cortical and Cerebral Visual Impairment",
+        "academicLevel": "graduate",
+        "courseDescription": "This class will provide an overview of cortical visual impairment (CVI) including causes, visual characteristics, assessments, and interventions for students with CVI.",
+        "Technical and Digital Skills": [
+            "Understanding of cortical visual impairment",
+            "Knowledge of assessment techniques for CVI",
+            "Familiarity with interventions for CVI"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex visual characteristics",
+            "Communicating assessment results",
+            "Instructional skills for delivering interventions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing causes of CVI",
+            "Assessing visual characteristics of students with CVI",
+            "Developing tailored interventions based on assessments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating assessment and intervention processes",
+            "Leading a team in implementing interventions",
+            "Organizing resources for CVI interventions"
+        ]
+    },
+    {
+        "courseCode": "SPED 637",
+        "courseTitle": "Infant/Family Intervention and Teamwork",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares professionals from cross-discipline backgrounds to serve families with children who are at-risk and disabled from birth through age three.  Emphasis is place on the development of the individualized family service plan (IFSP), procedures, materials and curriculum for this population. A family-centered approach is stressed. Practicum of 45 hours required.",
+        "Technical and Digital Skills": [
+            "Development of individualized family service plan (IFSP)",
+            "Understanding of procedures, materials and curriculum for at-risk and disabled children"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Family-centered approach",
+            "Cross-discipline collaboration",
+            "Communication with families and children"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of at-risk and disabled children",
+            "Implementation of intervention strategies",
+            "Adapting plans and procedures to individual family needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of cross-disciplinary teams",
+            "Organizing and conducting a 45-hour practicum",
+            "Leading family-centered interventions"
+        ]
+    },
+    {
+        "courseCode": "SPED 638",
+        "courseTitle": "Teaching Methods for Students with Visual Impairments",
+        "academicLevel": "graduate",
+        "courseDescription": "This course emphasizes methods of teaching compensatory skills, the core curriculum, and technology for use by students who are blind and visually impaired.  It addresses curriculum development, adaptations, and teaching methodology for individuals with visual impairments.  In addition, it provides information on adaptations within various educational programs and adaptation of general education classroom materials and procedures for use with blind and low vision children and youth.",
+        "Technical and Digital Skills": [
+            "Adapting general education classroom materials for use with blind and visually impaired students",
+            "Using technology for students who are blind and visually impaired",
+            "Implementing compensatory skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with blind and visually impaired students",
+            "Building rapport with students with visual impairments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing curriculum for visually impaired students",
+            "Creating adaptations within various educational programs",
+            "Problem-solving for educational challenges faced by visually impaired students"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational programs for visually impaired students",
+            "Organizing and adapting classroom procedures for visually impaired students"
+        ]
+    },
+    {
+        "courseCode": "SPED 639",
+        "courseTitle": "Braille Reading and Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides instruction on transcription of advanced braille codes, including: mathematics (UEB and Nemeth) music, foreign language, and other specialized codes.  Introduces techniques for teaching skills in each code.  Explores technology tools used to create braille and tactile materials in addition to other assistive technologies used for instruction in STEM content. Practicum requires a minimum of 15 hours.",
+        "Technical and Digital Skills": [
+            "Transcription of advanced braille codes",
+            "Usage of technology tools for creation of braille and tactile materials",
+            "Understanding of assistive technologies for STEM instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching techniques for different braille codes",
+            "Ability to communicate complex concepts in a simple, understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods based on individual learner's needs",
+            "Problem-solving technical issues with braille technology tools"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing practicum hours",
+            "Instructional planning and execution"
+        ]
+    },
+    {
+        "courseCode": "SPED 640",
+        "courseTitle": "Applied Behavior Analysis: Concepts and Principles",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the concepts and principles of applied behavior analysis; identification of factors that increase or decrease the probability of behavior under specific circumstances.",
+        "Technical and Digital Skills": [
+            "Applied behavior analysis",
+            "Behavior probability identification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of behavioral analysis results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing behavior under specific circumstances",
+            "Identifying factors that influence behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing behavioral analysis projects",
+            "Leading behavior modification initiatives"
+        ]
+    },
+    {
+        "courseCode": "SPED 641",
+        "courseTitle": "Applied Behavior Analysis: Empirical Bases",
+        "academicLevel": "graduate",
+        "courseDescription": "Applications of single-case experimental research designs to the analysis of behavior with emphasis on measurement, visual display of data, and interpretation of results.",
+        "Technical and Digital Skills": [
+            "Application of single-case experimental research designs",
+            "Behavioral analysis",
+            "Data visualization",
+            "Interpretation of analytical results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of analysis results",
+            "Effective communication of complex data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Measurement and quantification of behavior",
+            "Problem-solving in experimental design",
+            "Analytical interpretation of behavioral data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing experimental data",
+            "Leading and conducting behavioral research"
+        ]
+    },
+    {
+        "courseCode": "SPED 642",
+        "courseTitle": "Ethics and Professional Conduct for Behavior Analysts",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a basis in Virginia Behavior Analyst Licensure law, the Behavior Analyst Certification Board’s Ethics Code for Behavior Analysts, disciplinary systems, and professional conduct consistent with the practice of applied behavior analysis.",
+        "Technical and Digital Skills": [
+            "Understanding of Virginia Behavior Analyst Licensure law",
+            "Proficiency in interpreting the Behavior Analyst Certification Board’s Ethics Code",
+            "Knowledge of disciplinary systems relevant to behavior analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ethical guidelines",
+            "Professional conduct in diverse settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ethical dilemmas",
+            "Application of licensure law and ethics code to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Maintaining professional conduct",
+            "Leadership in adhering to ethical guidelines",
+            "Organizational understanding of disciplinary systems"
+        ]
+    },
+    {
+        "courseCode": "SPED 643",
+        "courseTitle": "Applied Behavior Analysis: Assessments and Interventions",
+        "academicLevel": "graduate",
+        "courseDescription": "Identification and assessment of problem behavior and socially-appropriate behaviors, implementation of function-based intervention plans, and design of environments to prevent and address problem behavior.",
+        "Technical and Digital Skills": [
+            "Behavior identification and assessment",
+            "Implementation of function-based intervention plans",
+            "Designing environments to prevent and address problem behavior"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of intervention plans",
+            "Demonstrating empathy and understanding in behavior assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem behavior analysis",
+            "Analyzing the effectiveness of intervention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing behavior interventions",
+            "Managing environments to promote positive behavior"
+        ]
+    },
+    {
+        "courseCode": "SPED 644",
+        "courseTitle": "Applied Behavior Analysis: Applications",
+        "academicLevel": "graduate",
+        "courseDescription": "Application of concepts and principles of behavior analysis to a wide range of populations, settings, and behaviors within the context of more sophisticated clinical and professional issues and environments.",
+        "Technical and Digital Skills": [
+            "Application of behavior analysis principles",
+            "Adapting behavior analysis techniques for diverse settings and populations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in professional environments",
+            "Interacting with diverse populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing behavioral patterns",
+            "Developing solutions for behavioral issues",
+            "Critical assessment of clinical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing professional issues in clinical settings",
+            "Leading behavior analysis initiatives"
+        ]
+    },
+    {
+        "courseCode": "SPED 645",
+        "courseTitle": "Applied Behavior Analysis: Verbal Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "B.F. Skinner's analysis of verbal behavior and the design, development, and implementation of curriculum, language and communication interventions for individuals with language delays.",
+        "Technical and Digital Skills": [
+            "Understanding of B.F. Skinner's analysis of verbal behavior",
+            "Designing language and communication interventions",
+            "Developing curriculum for individuals with language delays",
+            "Implementing language and communication interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals with language delays",
+            "Interacting with individuals of different language abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing verbal behavior",
+            "Assessing the effectiveness of language interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing language intervention programs",
+            "Leading language and communication interventions"
+        ]
+    },
+    {
+        "courseCode": "SPED 646",
+        "courseTitle": "Applied Behavior Analysis: Personnel Supervision and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Application of behavior analytic principles and procedures to personnel supervision and management as well as implementation of evidence-based practices to provide effective supervision to enhance personnel performance across a variety of organizational settings.",
+        "Technical and Digital Skills": [
+            "Application of behavior analytic principles",
+            "Implementation of evidence-based practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective supervision techniques",
+            "Communication in organizational settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing personnel performance",
+            "Problem-solving in a managerial context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personnel supervision",
+            "Management in various organizational settings"
+        ]
+    },
+    {
+        "courseCode": "SPED 668",
+        "courseTitle": "Advanced Teacher Candidate Internship for Special Endorsement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides supervised classroom experiences in settings serving students with disabilities. Enrolled students work collaboratively with classroom teachers to create and implement instructional plans targeting diverse learning needs. Total internship requirement is comprised of 7.5 weeks at the elementary level and 7.5 weeks at the weeks at the middle/secondary level.",
+        "Technical and Digital Skills": [
+            "Instructional planning",
+            "Digital tools for diverse learning",
+            "Understanding of educational software and technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative work with teachers",
+            "Verbal and non-verbal communication with students",
+            "Cultural competency for diverse classrooms",
+            "Clear and effective communication of instructional plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptive teaching strategies for diverse learning needs",
+            "Problem-solving for classroom issues",
+            "Evaluation and adaptation of instructional plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leadership in a classroom setting",
+            "Time management for different instructional periods"
+        ]
+    },
+    {
+        "courseCode": "SPED 669",
+        "courseTitle": "Directed Field Internship Special Education, K-12",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides supervised involvement in a practicum setting where the student and the instructor work together closely to develop curricula and gain expertise in teaching specific topics of importance to special educators. 50 hours per credit.",
+        "Technical and Digital Skills": [
+            "Curriculum development",
+            "Special education teaching methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative curriculum planning",
+            "Instructor-student communication",
+            "Effective communication with special needs students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in special education",
+            "Adaptation of teaching methods to individual learner needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a special education setting",
+            "Organizing and managing special education classroom",
+            "Time management for curriculum planning and delivery"
+        ]
+    },
+    {
+        "courseCode": "SPED 670",
+        "courseTitle": "Transition and Community-Based Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of the role of special educators in preparing students with severe disabilities for post-secondary vocational, residential, educational, community, and recreational settings. Emphasis is placed on developing appropriate curricula, involving students and their families in planning, implementing and evaluating transition programs, and helping students to access the services needed to be successful in adult life.",
+        "Technical and Digital Skills": [
+            "Development of appropriate curricula",
+            "Planning and implementing transition programs",
+            "Evaluating transition programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with students and their families",
+            "Advocacy for students' access to services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying necessary services for student success",
+            "Addressing challenges in vocational, residential, educational, and community settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in transition planning",
+            "Coordinating with community and recreational settings"
+        ]
+    },
+    {
+        "courseCode": "SPED 671",
+        "courseTitle": "Positive Behavior Supports",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed specifically for teachers and other professionals working with individuals who have moderate to severe disabilities, including autism, or with young children who have disabilities. It is required for endorsement in Adapted Curriculum and Early Childhood Special Education. The primary focus is upon the concepts and skills needed (a) to design, implement, and evaluate individualized behavior support programs which derive from functional behavioral assessment, (b) to use effective teaching strategies to build relevant replacement skills, (c) to facilitate generalization and maintenance of skills, (d) to incorporate prevention strategies, (e) to improve the aspects of the student's environment that relate to the problem behavior, and (d) to incorporate, as appropriate, individually designed crisis intervention procedures",
+        "Technical and Digital Skills": [
+            "Designing individualized behavior support programs",
+            "Implementing behavior support programs",
+            "Evaluating behavior support programs",
+            "Applying effective teaching strategies",
+            "Facilitating generalization and maintenance of skills",
+            "Incorporating prevention strategies",
+            "Improving environmental aspects related to problem behavior",
+            "Incorporating individually designed crisis intervention procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with individuals with moderate to severe disabilities",
+            "Working with young children with disabilities",
+            "Building relevant replacement skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting functional behavioral assessment",
+            "Analyzing behavioral patterns",
+            "Identifying problem behavior and designing appropriate interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing individualized education programs",
+            "Leading crisis intervention procedures",
+            "Guiding skills generalization and maintenance"
+        ]
+    },
+    {
+        "courseCode": "SPED 672",
+        "courseTitle": "IEP, Assessment & Program Planning for Adapted Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to develop knowledge and skills about best special education practice in assessment and evaluation for students with severe disabilities, and IEP and educational program planning for those preparing to teach K-12 students with disabilities in the adapted curriculum. Field experience required.",
+        "Technical and Digital Skills": [
+            "Special education practices",
+            "IEP and educational programming",
+            "Assessment and evaluation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with students with severe disabilities",
+            "Collaboration with other educators",
+            "Tailoring communication based on individual student needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate teaching strategies for students with severe disabilities",
+            "Analyzing student performance and needs",
+            "Adapting curriculum to suit individual student requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing educational programs",
+            "Leading IEP planning sessions",
+            "Organizing field experience"
+        ]
+    },
+    {
+        "courseCode": "SPED 673",
+        "courseTitle": "Communication and Severe Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces professionals to augmentative and alternative communication (AAC) for individuals with severe speech and language impairments. It addresses the knowledge and skills that are needed to assess the potential AAC user, to make team decisions, to develop and implement instruction, and to evaluate the effects of instruction. The course is also aimed at motivating, building, and expanding communication, choice-making, and social interaction.",
+        "Technical and Digital Skills": [
+            "Understanding of augmentative and alternative communication (AAC)",
+            "Assessment of potential AAC users",
+            "Development and implementation of AAC instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team decision making",
+            "Motivating AAC users",
+            "Building and expanding communication",
+            "Promoting social interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of AAC instruction effects",
+            "Problem solving in AAC-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of AAC assessment and instruction",
+            "Leadership in AAC team decision making"
+        ]
+    },
+    {
+        "courseCode": "SPED 674",
+        "courseTitle": "Characteristics of Students with Severe Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the academic, social, medical and behavioral characteristics of individuals with severe disabilities such as intellectual disability, autism, traumatic brain injury, and severe/multiple cognitive, physical and/or sensory disabilities. Focuses on etiology, contributing factors, impact on life and family, the challenges of identifying students with disabilities, and the need for intensive instruction, accommodations, and support.",
+        "Technical and Digital Skills": [
+            "Identifying severe disabilities",
+            "Understanding etiology and contributing factors",
+            "Intensive instruction techniques",
+            "Accommodation strategies",
+            "Support strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Understanding impact on life and family",
+            "Behavioral understanding and interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosing severe disabilities",
+            "Creating suitable learning environments",
+            "Adjusting teaching strategies based on individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse learning needs",
+            "Implementing support structures",
+            "Leading inclusive classrooms"
+        ]
+    },
+    {
+        "courseCode": "SPED 675",
+        "courseTitle": "Foundations of Language and Literacy for Diverse Learners",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an understanding of the development of emergent and early literacy in developmentally-typical learners and learners with complex language and learning needs, as well as the inter-relationship of language and literacy development. Emphasis will be placed on identifying effective research-based strategies for promoting and enhancing emergent literacy and early reading and writing skills for children and youth with language and intellectual disabilities and English language learners with disabilities. Field experience is required: course participants must identify an appropriate target student and engage in observation and assessment activities with that student and his/her family during the first half of the course. Final product includes the development of a literacy development plan for the student.",
+        "Technical and Digital Skills": [
+            "Development and Implementation of a Literacy Development Plan",
+            "Observation and Assessment of Learners' Literacy Skills",
+            "Understanding of Complex Language and Learning Needs",
+            "Promotion and Enhancement of Emergent Literacy and Early Reading and Writing Skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective Communication with Diverse Learners",
+            "Interaction with Learners’ Families",
+            "Identification of Appropriate Target Students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Language and Literacy Development",
+            "Identification of Effective Research-Based Strategies",
+            "Problem Solving for Learners with Language and Intellectual Disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of Field Experience",
+            "Leadership in Literacy Development"
+        ]
+    },
+    {
+        "courseCode": "SPED 676",
+        "courseTitle": "Curriculum and Methods-Severe Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on current best practices in curriculum and methods for students with severe disabilities, including specific strategies for teaching students with severe disabilities, general strategies for working with heterogeneous groups of students in inclusive settings, and methods for adapting the general education curriculum to include students with severe disabilities.",
+        "Technical and Digital Skills": [
+            "Adapting general education curriculum",
+            "Implementing specific strategies for teaching students with severe disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with heterogeneous groups of students in inclusive settings",
+            "Communicating effectively with students with severe disabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing unique solutions for individual student needs",
+            "Analysing the effectiveness of teaching strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading inclusive classroom environments",
+            "Organizing and managing individualized learning plans"
+        ]
+    },
+    {
+        "courseCode": "SPED 677",
+        "courseTitle": "Consultation and Collaboration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides professionals in special education, regular education, and related fields with knowledge and communications skills necessary for collaborative consultation and technical assistance to other educators and service providers.",
+        "Technical and Digital Skills": [
+            "Understanding of special education",
+            "Knowledge of regular education",
+            "Familiarity with related fields",
+            "Providing technical assistance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with other educators",
+            "Collaborative consultation",
+            "Service provision communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing educational needs",
+            "Developing consultation strategies",
+            "Problem-solving in an educational context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating educational services",
+            "Leading collaborative consultations",
+            "Organizing technical assistance"
+        ]
+    },
+    {
+        "courseCode": "SPED 678",
+        "courseTitle": "Individualized Supports and Specialized Care of Students with Significant Disabilities",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides an understanding of the unique physical, sensory, communication, and health and medical needs of students with significant disabilities, how these needs impact the educational program, how special education and related services are delivered, and how to design academic, functional and behavioral instruction and adaptations to meet those needs.",
+        "Technical and Digital Skills": [
+            "Designing academic, functional, and behavioral instruction",
+            "Adapting educational programs to meet specific needs",
+            "Understanding and incorporating special education and related services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding unique physical, sensory, and communication needs",
+            "Communicating effectively with students with significant disabilities",
+            "Adapting communication to meet individual needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of disabilities on educational programs",
+            "Identifying and addressing health and medical needs",
+            "Creating individualized supports based on unique student needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing and implementing specialized care plans",
+            "Coordinating with other professionals and stakeholders",
+            "Leading individualized education programs"
+        ]
+    },
+    {
+        "courseCode": "SPED 695",
+        "courseTitle": "Topics in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest in the special education field.",
+        "Technical and Digital Skills": [
+            "Use of educational software",
+            "Digital record keeping",
+            "Assistive technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with special needs students",
+            "Collaboration with multidisciplinary team",
+            "Counseling and mentoring"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Individualized education program planning",
+            "Behavioural analysis and intervention",
+            "Adaptive teaching strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management for special needs students",
+            "Leadership in special education settings",
+            "Coordination of support services"
+        ]
+    },
+    {
+        "courseCode": "SPED 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in special education for graduate students.",
+        "Technical and Digital Skills": [
+            "Special education methodologies",
+            "Educational software utilization",
+            "Adaptation of educational materials to individual needs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one student instruction",
+            "Collaboration with educational professionals",
+            "Communication strategies for special needs students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of individual educational needs",
+            "Development of personalized education plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Adaptive leadership in special education"
+        ]
+    },
+    {
+        "courseCode": "SPED 698",
+        "courseTitle": "Research Project",
+        "academicLevel": "graduate",
+        "courseDescription": "This capstone seminar is one of the culminating assessments for the master's degree in education with a major in advanced special education. Students will design, develop, and deliver an evidence-based professional development program that is aligned with their concentrations. As a culminating activity, this project will reflect the synthesis of coursework, research, and practical experience as these program aspects relate to the needs of school divisions and the education of students from diverse backgrounds.",
+        "Technical and Digital Skills": [
+            "Evidence-based program design",
+            "Research methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional development program delivery",
+            "Communication with diverse educational stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Synthesis of coursework, research, and practical experience",
+            "Adapting programs to the needs of school divisions and diverse students"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in delivering professional development programs"
+        ]
+    },
+    {
+        "courseCode": "SPED 701",
+        "courseTitle": "Historical and Contemporary Research in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers contemporary and historical topics related to problem issues in special education.  This is a course of study that will enable participants to examine various topics in special education and research a position on an issue.",
+        "Technical and Digital Skills": [
+            "Research methodologies in special education",
+            "Understanding of contemporary and historical special education issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting and defending a position on an issue",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical assessment of special education issues",
+            "Problem identification in special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and planning a research project",
+            "Leading discussions on special education issues"
+        ]
+    },
+    {
+        "courseCode": "SPED 702",
+        "courseTitle": "Cognitive Processes and Learning Strategies for Students with Special Needs",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide an overview of research and critical issues relative to the cognitive and affective development of individuals with disabilities.  Research-based interventions that address deficits of cognitive processes will be discussed and specific learning strategies will be presented.",
+        "Technical and Digital Skills": [
+            "Research-based interventions",
+            "Understanding cognitive processes in individuals with disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Empathy towards individuals with disabilities",
+            "Presenting learning strategies effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cognitive development issues",
+            "Designing interventions for cognitive deficits",
+            "Analyzing affective development in individuals with disabilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing learning strategies",
+            "Leading interventions for cognitive deficits"
+        ]
+    },
+    {
+        "courseCode": "SPED 707",
+        "courseTitle": "Advanced Instructional Procedures in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with advanced skills in educational planning, development, and implementation for students with learning problems.  Techniques focus on inclusive and self-contained classroom arrangements.",
+        "Technical and Digital Skills": [
+            "Educational planning",
+            "Development of learning programs",
+            "Implementation of instructional strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Inclusive communication",
+            "Adaptive communication with students with learning problems",
+            "Effective conveyance of learning materials"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing learning problems",
+            "Adapting teaching methods to individual students' needs",
+            "Designing inclusive and self-contained classroom arrangements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Leading diverse classrooms",
+            "Organizing inclusive learning environments"
+        ]
+    },
+    {
+        "courseCode": "SPED 720",
+        "courseTitle": "Curriculum and Instruction: Research Into Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of research methods employed in the field of special education.  Current trends related to curriculum and instruction in general and special education will be investigated.  Strategies and procedures for identifying learner characteristics and application of that knowledge will be included. Implementation of quality curricular modifications and/or instructional accommodations for students with diverse needs in a variety of educational settings and evaluation of instruction will be addressed.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis of learner characteristics",
+            "Implementation of curricular modifications",
+            "Instructional accommodations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Identifying learner characteristics",
+            "Application of knowledge in diverse educational settings",
+            "Communication with students with diverse needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of instruction",
+            "Analysis of current trends in special education",
+            "Strategizing procedures for identifying learner characteristics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of research data",
+            "Leadership in implementing quality curricular modifications",
+            "Management of educational settings with diverse needs"
+        ]
+    },
+    {
+        "courseCode": "SPED 740",
+        "courseTitle": "Concepts and Principles in Behavior Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the basic concepts and principles of behavior analysis and the identification of factors that increase or decrease the probability of behavior under specific circumstances.",
+        "Technical and Digital Skills": [
+            "Behavior analysis",
+            "Identification of behavioral factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of behavioral analysis",
+            "Interpreting behavioral factors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing behavior under specific circumstances",
+            "Problem-solving through behavior analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing behavior analysis data",
+            "Leading discussions on behavior analysis"
+        ]
+    },
+    {
+        "courseCode": "SPED 741",
+        "courseTitle": "Research Methods in Behavior Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Applications of single-case experimental research designs to the analysis of behavior, with emphasis on measurement, visual display of data, and interpretation, intervention and plan evaluation, and research ethics.",
+        "Technical and Digital Skills": [
+            "Application of single-case experimental research designs",
+            "Behavior measurement techniques",
+            "Visual display of data",
+            "Intervention and plan evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpretation of behavior analysis data",
+            "Understanding and applying research ethics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of behavior",
+            "Data interpretation and analysis",
+            "Problem-solving through intervention and plan evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing research designs",
+            "Organizing and visualizing data",
+            "Ethical leadership in research"
+        ]
+    },
+    {
+        "courseCode": "SPED 742",
+        "courseTitle": "Ethics in Behavior Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a basis in Virginia Behavior Analyst Licensure law, the Behavior Analyst Certification Board’s Ethical and Professional Issues  including ethics codes and requirements, the BACB’s code-enforcement mechanisms, and professionalism relevant to the delivery of behavior-analytic services.",
+        "Technical and Digital Skills": [
+            "Understanding of Virginia Behavior Analyst Licensure law",
+            "Knowledge of Behavior Analyst Certification Board’s Ethical and Professional Issues",
+            "Familiarity with BACB’s code-enforcement mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professionalism in service delivery",
+            "Communicating ethical codes and requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ethical issues in behavior analysis",
+            "Applying BACB’s code-enforcement mechanisms in practical situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing professional behavior-analytic services",
+            "Leading ethical compliance in behavior analysis"
+        ]
+    },
+    {
+        "courseCode": "SPED 743",
+        "courseTitle": "Assessments and Interventions I: Positive Behavior Support",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the identification and assessment of problem behavior and socially appropriate behaviors, the development, implementation, and evaluation of function-based intervention plans, and the design of environments to prevent and address problem behavior.",
+        "Technical and Digital Skills": [
+            "Behavior identification and assessment",
+            "Development of function-based intervention plans",
+            "Evaluating intervention plans",
+            "Environment design to prevent and address problem behavior"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of intervention plans",
+            "Sensitivity to socially appropriate behaviors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Behavioral analysis",
+            "Problem-solving for behavioral issues",
+            "Strategic planning for preventing problem behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of intervention plans",
+            "Leadership in implementing intervention plans"
+        ]
+    },
+    {
+        "courseCode": "SPED 744",
+        "courseTitle": "Theory and Philosophy in Behavior Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the underlying theoretical and philosophical foundations of behavior analysis. A special emphasis will be placed on radical, contextual, and methodological behaviorism and their historical roots. Applications to behavior-analytic problem  solving and case conceptualization in applied settings will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of theoretical foundations of behavior analysis",
+            "Knowledge of radical, contextual, and methodological behaviorism",
+            "Application of behavior-analytic problem solving in applied settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Case conceptualization",
+            "Discussion and debate of theoretical perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Behavior-analytic problem solving",
+            "Critical analysis of behavior theories",
+            "Application of behavior theories to real-world situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and interpreting behavior-analytic data",
+            "Application of behavior theory in leadership and organizational contexts"
+        ]
+    },
+    {
+        "courseCode": "SPED 745",
+        "courseTitle": "Assessments and Interventions II: Verbal Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on B. F. Skinner’s analysis of verbal behavior, assessment of verbal behavior, and the development, implementation, and evaluation of interventions to enhance the communicative repertoire of individuals with complex communication needs.",
+        "Technical and Digital Skills": [
+            "Understanding of Skinner's analysis of verbal behavior",
+            "Assessment of verbal behavior",
+            "Development of interventions",
+            "Implementation of interventions",
+            "Evaluation of interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Enhancing communicative repertoire",
+            "Adapting communication strategies for individuals with complex needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing verbal behavior patterns",
+            "Problem-solving for complex communication needs",
+            "Assessing effectiveness of communication interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing an intervention plan",
+            "Leading intervention implementation and evaluation"
+        ]
+    },
+    {
+        "courseCode": "SPED 746",
+        "courseTitle": "Organizational Behavior Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Application of behavior-analytic principles and procedures to personnel supervision and management as well as implementation of evidence-based practices to provide effective supervision and to enhance personnel performance across a variety of organizational settings.",
+        "Technical and Digital Skills": [
+            "Applying behavior-analytic principles",
+            "Implementing evidence-based practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Personnel supervision",
+            "Managing team performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating practices for effectiveness",
+            "Analyzing personnel performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective supervision techniques",
+            "Enhancing personnel performance"
+        ]
+    },
+    {
+        "courseCode": "SPED 769",
+        "courseTitle": "Supervised Fieldwork in Applied Behavior Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised fieldwork experiences that apply University-approved coursework to instruction of children, youth, and their families in the natural environment. As stated in the BCBA Experience Standards, the purpose of supervised fieldwork experiences is to improve and maintain the behavior analytic, professional, and ethical repertoires of the supervisee and facilitate the delivery of high quality services to clients. Students can enroll in supervised fieldwork hours concurrently with the ODU ABA certificate approved sequence coursework.",
+        "Technical and Digital Skills": [
+            "Applied Behavior Analysis",
+            "Instruction delivery",
+            "Understanding of BCBA Experience Standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with children and youth",
+            "Liaising with families",
+            "Professional communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Behavioral analysis",
+            "Problem-solving in natural environments",
+            "Ethical decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervision skills",
+            "Service delivery management",
+            "Organizing fieldwork experiences"
+        ]
+    },
+    {
+        "courseCode": "SPED 797",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in special education for advanced graduate, or doctoral students.",
+        "Technical and Digital Skills": [
+            "Advanced knowledge in special education topics",
+            "Ability to use research tools and platforms for independent study"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex special education concepts",
+            "Proficiency in academic writing and presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of special education literature",
+            "Ability to formulate research questions and hypotheses",
+            "Data analysis in the context of special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project planning and execution in an academic context"
+        ]
+    },
+    {
+        "courseCode": "SPED 801",
+        "courseTitle": "Historical and Contemporary Research in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers contemporary and historical topics related to problem issues in special education.  This is a course of study that will enable participants to examine various topics in special education and research a position on an issue.",
+        "Technical and Digital Skills": [
+            "Research methods in special education",
+            "Data analysis in special education contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Constructive argumentation on special education issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of special education issues",
+            "Problem identification in special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Leadership in collaborative research"
+        ]
+    },
+    {
+        "courseCode": "SPED 802",
+        "courseTitle": "Cognitive Processes and Learning Strategies for Students with Special Needs",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide an overview of research and critical issues relative to the cognitive and affective development of individuals with disabilities.  Research-based interventions that address deficits of cognitive processes will be discussed and specific learning strategies will be presented.",
+        "Technical and Digital Skills": [
+            "Understanding research-based interventions",
+            "Knowledge of cognitive process deficits",
+            "Specialized learning strategy development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals with disabilities",
+            "Interpersonal understanding of cognitive and affective development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of cognitive and affective development",
+            "Identifying and addressing cognitive process deficits",
+            "Adapting learning strategies to individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "SPED 803",
+        "courseTitle": "Scholarly Writing for Doctoral Students",
+        "academicLevel": "graduate",
+        "courseDescription": "This course targets the knowledge and skills required to successfully engage in scholarly writing. Specific course topics include, the use of the American Psychological Association Publication Manual (APA) to guide the basic elements of style (i.e., creating and writing from an outline, manuscript organization, sentence and paragraph construction, marks of punctuation, use of quotations, use of references, bias free language, editing and revising, proofreading, revising drafts, and resubmission), and the development of professional writing skills, such as drafting, writing, editing, revising, responding to reviews, interpreting and synthesizing professional journal articles.",
+        "Technical and Digital Skills": [
+            "Use of American Psychological Association Publication Manual (APA)",
+            "Manuscript organization",
+            "Editing and revising",
+            "Proofreading",
+            "Drafting",
+            "Responding to reviews",
+            "Interpreting professional journal articles",
+            "Synthesizing professional journal articles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional writing",
+            "Use of bias-free language",
+            "Use of quotations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Sentence and paragraph construction",
+            "Revision of drafts",
+            "Resubmission"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating and writing from an outline",
+            "Marks of punctuation",
+            "Use of references"
+        ]
+    },
+    {
+        "courseCode": "SPED 807",
+        "courseTitle": "Advanced Instructional Procedures in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with advanced skills in educational planning, development, and implementation for students with learning problems.  Techniques focus on inclusive and self-contained classroom arrangements.",
+        "Technical and Digital Skills": [
+            "Educational planning",
+            "Development of learning strategies",
+            "Implementation of educational plans",
+            "Adapting classroom arrangements for inclusive education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with students with learning problems",
+            "Adapting communication for inclusive classrooms",
+            "Collaborating with fellow educators for student development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying learning problems",
+            "Creating learning strategies for students with learning problems",
+            "Analyzing the effectiveness of educational plans",
+            "Problem-solving for inclusive and self-contained classroom arrangements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading inclusive classrooms",
+            "Organizing self-contained classrooms",
+            "Planning and coordinating educational plans"
+        ]
+    },
+    {
+        "courseCode": "SPED 815",
+        "courseTitle": "Alternative Strategies for Elementary Students: Prevention and Intervention",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide pre-service and in-service teachers with the knowledge and skill to collaborate with other professionals to identify and remediate students who are at-risk for school problems due to academic challenges and/or behavior, and to effectively support students with identified mild disabilities in general education classrooms.  The course focuses on developing proactive pre-referral interventions and working with general educators to develop and implement effective interventions, accommodations, modifications and supports for students with mild difficulties in general education classes.",
+        "Technical and Digital Skills": [
+            "Developing and implementing effective interventions",
+            "Identifying and remediating students who are at-risk due to academic challenges"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with other professionals",
+            "Supporting students with identified mild disabilities",
+            "Working with general educators"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing academic challenges and behavioral issues",
+            "Proactive pre-referral interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating accommodations, modifications and supports",
+            "Leading proactive pre-referral interventions"
+        ]
+    },
+    {
+        "courseCode": "SPED 820",
+        "courseTitle": "Curriculum and Instruction: Research Into Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of research methods employed in the field of special education.  Current trends related to curriculum and instruction in general and special education will be investigated.  Strategies and procedures for identifying learner characteristics and application of that knowledge will be included. Implementation of quality curricular modifications and/or instructional accommodations for students with diverse needs in a variety of educational settings and evaluation of instruction will be addressed.",
+        "Technical and Digital Skills": [
+            "Research methods in special education",
+            "Implementation of curricular modifications",
+            "Instructional accommodations design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Identifying learner characteristics",
+            "Application of learner knowledge",
+            "Communicating instructional modifications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Investigating current trends in curriculum and instruction",
+            "Analyzing diverse needs in different educational settings",
+            "Evaluating instruction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading curriculum and instruction improvement",
+            "Managing instructional accommodations",
+            "Organizing learner characteristic data"
+        ]
+    },
+    {
+        "courseCode": "SPED 821",
+        "courseTitle": "Critical Issues I: Readings in Special Education and Professional Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "The intent of this course is to provide doctoral candidates the opportunity to further advance their research and professional writing skills and critically evaluate the quality and empirical evidence of critical and timely topics in special education by conducting systematic literature reviews and meta-analysis of published studies. The course stresses APA writing guidelines and style, conducting literature searches, and writing a product that is suitable for publication.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Professional writing",
+            "APA citation and formatting",
+            "Conducting literature searches",
+            "Systematic literature reviews",
+            "Meta-analysis of published studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical evaluation",
+            "Written communication",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem-solving",
+            "Analytical skills",
+            "Interpretation of empirical evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SPED 822",
+        "courseTitle": "Critical Issues II: Research and Professional Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides doctoral candidates an opportunity to (a) become familiar with reading, analyzing, synthesizing, and writing research related to their personal professional interests to contribute to the literature, (b) acquire skills related to developing original research, and (c) develop proposals, presentations, and other scholarly skills necessary for promotion and tenure in higher education and professional institutions. Emphasis is placed on the critical analysis of research and synthesis of the literature that identifies research gaps, and the design of a prospective study or dissertation proposal to examine the topic of interest.",
+        "Technical and Digital Skills": [
+            "Analyzing and synthesizing research",
+            "Writing research related to personal professional interests",
+            "Developing original research",
+            "Designing a prospective study or dissertation proposal"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting proposals",
+            "Writing scholarly articles",
+            "Communicating research gaps and findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Critical analysis of research",
+            "Synthesizing literature",
+            "Developing proposals to examine topics of interest"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Leading scholarly discussions",
+            "Planning and executing research proposals"
+        ]
+    },
+    {
+        "courseCode": "SPED 830",
+        "courseTitle": "Single Subject Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Single Subject Research.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Application of research software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with research peers",
+            "Written communication for research documentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Formulating research questions",
+            "Analyzing research results",
+            "Critical evaluation of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Delegation of research tasks",
+            "Time management in research"
+        ]
+    },
+    {
+        "courseCode": "SPED 868",
+        "courseTitle": "Internship: Research in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides doctoral students the opportunity to design and conduct an independent pilot research study in their area of interest under the guidance of a faculty member while refining their research skills. The successful completion of a 3-credit internship is required to fulfill the research competency of the program.",
+        "Technical and Digital Skills": [
+            "Designing pilot research study",
+            "Conducting independent research",
+            "Refining research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with faculty members",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research areas of interest",
+            "Evaluating research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing independent research projects",
+            "Guiding research process under faculty supervision"
+        ]
+    },
+    {
+        "courseCode": "SPED 893",
+        "courseTitle": "Professional Seminar: Teaching, Research, and Service",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares doctoral candidates to meet professional standards in teaching, research and service in special education in higher education institutions.  Teaching includes an understanding of adult learning and the design, delivery, evaluation of content, and use of technology in college teaching.  Research includes recognizing and critically discussing scholarly work, systematically planning and preparing for research, and developing research proposals.  Service includes identifying professional organizations and agencies and creating integrated professional development programs.  The course is designed to build skills necessary for advancement in higher education and professional institutions.",
+        "Technical and Digital Skills": [
+            "Understanding of adult learning principles",
+            "Designing and delivering educational content",
+            "Evaluating educational content",
+            "Use of technology in college teaching",
+            "Planning and preparing for research",
+            "Developing research proposals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing scholarly work critically",
+            "Communicating teaching content effectively",
+            "Conveying research proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of scholarly work",
+            "Systematic planning for research",
+            "Designing effective teaching content"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating integrated professional development programs",
+            "Identifying professional organizations and agencies",
+            "Leading in higher education and professional institutions"
+        ]
+    },
+    {
+        "courseCode": "SPED 897",
+        "courseTitle": "Independent Study: Teaching in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides doctoral students the opportunity to teach an undergraduate or graduate-level course in special education using various delivery formats such as in-person, synchronous online, or asynchronous online while gaining experiences in teaching at the university level. The successful completion of this course is required to fulfill the teaching competency of the program.",
+        "Technical and Digital Skills": [
+            "Online course delivery",
+            "Synchronous and asynchronous teaching methods",
+            "Use of educational technology tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Interpersonal skills for student engagement",
+            "Teaching and instruction techniques",
+            "Adaptability to diverse learning needs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Curriculum development and adjustment",
+            "Handling and resolving classroom issues",
+            "Assessing student learning needs and tailoring teaching methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Educational leadership",
+            "Time management",
+            "Course planning and organization"
+        ]
+    },
+    {
+        "courseCode": "SPED 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Dissertation.",
+        "Technical and Digital Skills": [
+            "Research tools usage",
+            "Data analysis software",
+            "Academic writing software usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Academic writing",
+            "Stakeholder communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Hypothesis testing",
+            "Problem framing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SPED 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation. All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Academic planning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SPED 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Maintaining active student status",
+            "Planning for graduation requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management",
+            "Self-directed learning"
+        ]
+    }
+]

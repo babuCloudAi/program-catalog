@@ -1,0 +1,461 @@
+[
+    {
+        "courseTitle": "Data, Technology, Society",
+        "courseCode": "DASC 205S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course investigates how data science is transforming not only our sense of science and scientific knowledge, but our sense of ourselves and our communities and our commitments concerning human affairs and institutions generally. Social implications of the digital revolution, including ethical issues associated with algorithmic design and privacy will be examined. Students will use a sociological lens to explore how our increasingly digital lifestyle changes institutions and social relations.",
+        "Technical and Digital Skills": [
+            "Data science techniques",
+            "Algorithmic design",
+            "Information security",
+            "Privacy protection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of technical concepts",
+            "Collaboration in digital environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Ethical decision-making in data science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing digital transformation",
+            "Leading discussions on societal impact of technology"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Data Science",
+        "courseCode": "DASC 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an interdisciplinary overview of data sciences drawing on key elementary topics related to data analytics.  A specific focus is given to the way that decisions made about data from those disciplinary pursuits inform policy, product development, and humanity. Topics addressed include elements of data, data collection, the connections between machine learning and data, survey research, programming with Python and R, statistical learning, model evaluations, digital engineering, and ethical uses of data.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "R programming",
+            "Data collection methods",
+            "Machine learning applications",
+            "Statistical learning techniques",
+            "Programming with Python and R",
+            "Digital engineering principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data analysis findings",
+            "Effective communication of technical concepts",
+            "Collaborative coding using Python and R",
+            "Team-based project work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of data sources",
+            "Model evaluation techniques",
+            "Survey research analysis",
+            "Ethical considerations in data usage",
+            "Outlier detection methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in data science",
+            "Version control for datasets",
+            "Decision-making based on data insights",
+            "Leading data-driven initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Ethics and Data",
+        "courseCode": "DASC 357E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores, from a philosophical perspective, ethical questions arising from collecting, drawing inferences from, and acting on data, especially when these activities are automated and on a large scale. This course will provide students a framework for considering the ethical implications of data usage. Emphasis will be placed on discussing how historic and contemporary examples of potentially unethical practice could be altered to reduce harm and increase equity. Topics to be covered may include, but are not limited to, systematic approaches to assessing ethical issues; privacy and confidentiality; defining research and the responsibilities associated with conducting ethical research; implicit and structural biases in data collection and analysis; freedom of speech; and consent to data collection.",
+        "Technical and Digital Skills": [
+            "Understanding data collection methods",
+            "Data inference techniques",
+            "Automated data analysis tools",
+            "Knowledge of data privacy laws and regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating ethical discussions",
+            "Presenting ethical frameworks",
+            "Collaborating on ethical data projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying unethical data practices",
+            "Analyzing biases in data collection",
+            "Developing ethical data solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading ethical data initiatives",
+            "Implementing data privacy policies",
+            "Managing ethical research projects"
+        ]
+    },
+    {
+        "courseTitle": "Data Science Internship",
+        "courseCode": "DASC 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course allows students to work for an employer in a position related to data science. Students must work for 50 hours per course credit and complete course assignments.",
+        "Technical and Digital Skills": [
+            "Data cleaning techniques",
+            "Machine learning algorithms implementation",
+            "Big data processing (e.g., Spark)",
+            "Data visualization tools (e.g., Tableau)",
+            "Databases management (e.g., MySQL)",
+            "Programming languages (e.g., Python, R)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data findings to stakeholders",
+            "Collaborating with team members on data projects",
+            "Effective communication of technical concepts to non-technical audience",
+            "Reporting on project progress and results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns in data",
+            "Building predictive models",
+            "Optimizing algorithms for efficiency",
+            "Troubleshooting data quality issues",
+            "Developing solutions to complex data problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines and deliverables",
+            "Coordinating with cross-functional teams",
+            "Taking initiative in exploring new data analysis techniques",
+            "Prioritizing tasks effectively",
+            "Providing mentorship to junior team members"
+        ]
+    },
+    {
+        "courseTitle": "Data Science Research Methods",
+        "courseCode": "DASC 434",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the scientific approach to the study of phenomena through large scale quantitative approaches. The course includes the development of a research proposal that will be carried out in the Data Science Capstone Project course.",
+        "Technical and Digital Skills": [
+            "Quantitative research methods",
+            "Data analysis techniques",
+            "Research proposal development",
+            "Data visualization tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration on research projects",
+            "Communication of complex data concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Data interpretation",
+            "Research design",
+            "Critical evaluation of research methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Team coordination for research projects",
+            "Research proposal writing",
+            "Research project planning"
+        ]
+    },
+    {
+        "courseTitle": "Data Science Capstone Project",
+        "courseCode": "DASC 436W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students work individually or in groups to plan, design, and carry out a research project demonstrating expertise with data science. Final papers that report the results for the study are presented in a formal research seminar. The projects reflect knowledge gained from undergraduate work and training received in discipline-specific research methods and statistics courses.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Data visualization using tools like Tableau or PowerBI",
+            "Machine learning algorithms implementation",
+            "Big data processing with Spark",
+            "Statistical modeling with R or Python",
+            "Database management and querying skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex data findings to non-technical audiences",
+            "Collaborating with team members on project planning and execution",
+            "Effective written communication for research papers and formal presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing hypothesis-driven research questions",
+            "Identifying and addressing data quality issues",
+            "Applying advanced statistical techniques to analyze data",
+            "Iterative experimentation and model refinement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research timelines and milestones",
+            "Coordinating group project tasks and responsibilities",
+            "Leading discussions on research methodologies and analysis approaches"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Data Science",
+        "courseCode": "DASC 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. The course can be delivered either as an independent project for individual students or as group projects similar to those sometimes offered in topics courses.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Market research",
+            "Prototyping",
+            "Financial modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching ideas",
+            "Negotiation skills",
+            "Stakeholder management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market gaps",
+            "Risk assessment",
+            "Lean startup methodology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team building",
+            "Decision-making under uncertainty"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Data Science",
+        "courseCode": "DASC 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Machine learning model deployment",
+            "Big data processing frameworks (e.g. Spark)",
+            "Cloud computing platforms (e.g. AWS)",
+            "Natural language processing algorithms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Optimization algorithms for large datasets",
+            "Feature engineering for predictive modeling",
+            "Time-series forecasting methods",
+            "Dimensionality reduction techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "DASC 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research skills",
+            "Literature review techniques",
+            "Data collection methods",
+            "Report writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Presentation skills for conferences",
+            "Networking with experts in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literature",
+            "Identifying gaps in research",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Self-motivation and discipline in study",
+            "Setting and achieving study goals"
+        ]
+    },
+    {
+        "courseCode": "DASC 596",
+        "courseTitle": "Topics in Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Machine learning algorithms implementation",
+            "Big data processing using Hadoop",
+            "Data visualization with Tableau"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation",
+            "Collaborative data analysis in a team setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Optimization techniques for data processing",
+            "Feature engineering for predictive modeling"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for data science projects",
+            "Leading data-driven decision-making processes"
+        ]
+    },
+    {
+        "courseCode": "DASC 597",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research skills",
+            "Literature review techniques",
+            "Data collection methods",
+            "Analytical writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Presentation skills for conferences",
+            "Peer feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research materials",
+            "Problem identification and formulation",
+            "Research methodology selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project planning and execution",
+            "Self-motivation and self-discipline"
+        ]
+    },
+    {
+        "courseCode": "DASC 620",
+        "courseTitle": "Introduction to Data Science and Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore data science as a burgeoning field. Students will learn fundamental principles and techniques that data scientists employ to mine data. They will investigate real life examples where data is used to guide assessments and draw conclusions. This course will introduce software and computing resources available to a data scientist to process, visualize, and model different types of data including big data.  Cross-listed with CS 620.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "Data mining techniques",
+            "Big data processing",
+            "Data visualization tools",
+            "Machine learning algorithms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Collaborative coding using version control systems",
+            "Effective communication of technical concepts to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Outlier detection",
+            "Hypothesis testing",
+            "Data modeling",
+            "Critical evaluation of data sources and methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in data science projects",
+            "Team collaboration in data analysis tasks",
+            "Decision-making based on data-driven insights"
+        ]
+    },
+    {
+        "courseCode": "DASC 690",
+        "courseTitle": "Data Science Capstone Project",
+        "academicLevel": "graduate",
+        "courseDescription": "The culminating course in the proposed MS in Data Science and Analytics degree program will bring students together with faculty and external partners. In consultation with a faculty advisor and a business or industry or government representative, students will be required to develop a project that aims to solve a data science/analytics problem in a real-world business, industry, or government setting. Faculty and business/industry/government representatives will serve as external mentors for the students during this experience. Note that an external mentor is not mandatory but encouraged.",
+        "Technical and Digital Skills": [
+            "Data cleaning and preprocessing",
+            "Machine learning algorithms implementation",
+            "Big data handling with Hadoop/Spark",
+            "Data visualization using Tableau/PowerBI",
+            "Statistical modeling techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective project presentation to diverse audiences",
+            "Collaboration with external partners",
+            "Client communication and expectation management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying data science/analytics problems",
+            "Developing innovative solutions",
+            "Troubleshooting technical issues",
+            "Critical evaluation of model performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management",
+            "Team coordination in a multidisciplinary setting",
+            "Decision-making under uncertainty",
+            "Adaptability to changing project requirements"
+        ]
+    },
+    {
+        "courseCode": "DASC 771",
+        "courseTitle": "Fundamentals of Interpretable Machine Learning and Explainable AI",
+        "academicLevel": "graduate",
+        "courseDescription": "Laws in many countries and states within the U.S. require that predictive models impacting humans be accompanied by an understandable interpretation, yet many such models are based on so called black box models that can’t be easily interpreted or explained. This course will enable students to produce explanations and interpretations for advanced ML and AI algorithms. It will review the state of the science methods for interpretable ML and explainable AI, including graphical and contextual approaches as well as model agnostic and model specific methods for generating understandable explanations and interpretations.  The course will also introduce the concepts of algorithmic bias and model fairness as they relate to explanation and understanding.",
+        "Technical and Digital Skills": [
+            "Understanding of advanced ML and AI algorithms",
+            "Knowledge of model agnostic and model specific methods",
+            "Ability to produce explanations for predictive models",
+            "Familiarity with graphical and contextual approaches",
+            "Understanding of algorithmic bias and model fairness"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of model interpretations",
+            "Generating understandable explanations",
+            "Identifying and addressing algorithmic bias",
+            "Analyzing model fairness issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "DASC 795",
+        "courseTitle": "Topics in Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides the advanced student with an opportunity to study and investigate a variety of topics in the field of data science.",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Machine learning algorithms implementation",
+            "Big data processing with Hadoop or Spark",
+            "Data mining and pattern recognition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative data analysis in a team setting",
+            "Effective communication of technical findings to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Optimizing machine learning models for performance",
+            "Identifying data quality issues and proposing solutions",
+            "Implementing data cleaning and preprocessing techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in data science projects",
+            "Prioritizing tasks in a data-driven environment",
+            "Leading a team in a data science project"
+        ]
+    },
+    {
+        "courseCode": "DASC 871",
+        "courseTitle": "Fundamentals of Interpretable Machine Learning and Explainable AI",
+        "academicLevel": "graduate",
+        "courseDescription": "Laws in many countries and states within the U.S. require that predictive models impacting humans be accompanied by an understandable interpretation, yet many such models are based on so called black box models that can’t be easily interpreted or explained. This course will enable students to produce explanations and interpretations for advanced ML and AI algorithms. It will review the state of the science methods for interpretable ML and explainable AI, including graphical and contextual approaches as well as model agnostic and model specific methods for generating understandable explanations and interpretations. The course will also introduce the concepts of algorithmic bias and model fairness as they relate to explanation and understanding.",
+        "Technical and Digital Skills": [
+            "Interpretable ML algorithms implementation",
+            "Model agnostic methods utilization",
+            "Model specific methods application",
+            "Algorithmic bias detection",
+            "Model fairness assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex ML concepts to non-technical stakeholders",
+            "Presenting interpretable AI results effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Generating understandable explanations for black box models",
+            "Contextual analysis of ML outputs",
+            "Critical evaluation of model interpretations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "DASC 895",
+        "courseTitle": "Topics in Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides the advanced student with an opportunity to study and investigate a variety of topics in the field of data science.",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Machine learning algorithms implementation",
+            "Big data processing tools (e.g., Spark, Hadoop)",
+            "Data mining and pattern recognition methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation to non-technical stakeholders",
+            "Team collaboration on data projects",
+            "Clear documentation of data analysis processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced data cleaning and preprocessing techniques",
+            "Optimization of machine learning models",
+            "Experimental design for hypothesis testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for data science projects",
+            "Delegation and task prioritization in data teams",
+            "Leading data-driven decision-making processes"
+        ]
+    }
+]

@@ -1,0 +1,2998 @@
+[
+    {
+        "courseTitle": "Undergraduate Research Experience in Psychology",
+        "courseCode": "PSYC 197",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.",
+        "Technical and Digital Skills": [
+            "Research data collection",
+            "Psychology related software operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaboration with research team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Research ethics and compliance"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Psychology",
+        "courseCode": "PSYC 201S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the scientific study of psychology, including the methods used to gather and interpret data.  The student is introduced to fundamental terms, theories, and concepts dealing with the biological bases of behavior; learning; perception; cognition and intelligence; personality; psychological disorders; human development; and social processes.  An emphasis is placed on application of concepts and critical thinking.",
+        "Technical and Digital Skills": [
+            "Understanding of psychological methods and data interpretation",
+            "Knowledge of psychological theories and concepts",
+            "Understanding of the biological bases of behavior",
+            "Understanding of cognition and intelligence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Applying psychological theories to social processes",
+            "Understanding human development and behavior",
+            "Understanding of personality and psychological disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of psychological concepts",
+            "Critical thinking",
+            "Interpretation of psychological data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Lifespan Development",
+        "courseCode": "PSYC 203S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A broad contemporary view of the processes of development.  The influences of biological and environmental factors in the development of personality and cognitive functioning are explored.",
+        "Technical and Digital Skills": [
+            "Understanding of biological influences on development",
+            "Knowledge of environmental factors in development",
+            "Understanding of cognitive functioning processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex cognitive concepts",
+            "Communicating the role of environmental and biological factors in development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the interaction between genetic and environmental influences",
+            "Critical evaluation of developmental theories",
+            "Interpreting the effects of different factors on personality development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing complex information on lifespan development",
+            "Leading discussions on developmental theories and concepts"
+        ]
+    },
+    {
+        "courseTitle": "Careers in Psychology",
+        "courseCode": "PSYC 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Exploration of available careers in psychology with a bachelor’s degree as well as career options for individuals after graduate school (e.g., master’s degree, PhD, PsyD, etc.). All assignments will be aimed at helping students learn more about available opportunities and develop skills needed to find a job and/or get into graduate school. This course is recommended during the sophomore or junior year.",
+        "Technical and Digital Skills": [
+            "Research on available psychology career options",
+            "Use of digital job search tools",
+            "Creation of application materials for job and graduate school"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional networking",
+            "Interview communications",
+            "Verbal and written communication for job applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career path analysis",
+            "Evaluation of graduate school options",
+            "Strategic planning for career progression"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Goal setting",
+            "Self-motivation"
+        ]
+    },
+    {
+        "courseTitle": "Industrial/Organizational Psychology",
+        "courseCode": "PSYC 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An application of psychological principles and research to human behavior in work settings. Among the topics covered are personnel selection, training, and evaluation; employee motivation and job satisfaction; and organizational leadership and theory.",
+        "Technical and Digital Skills": [
+            "Personnel selection methodologies",
+            "Training program development",
+            "Performance evaluation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within organizational settings",
+            "Interactions in a workplace environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of employee motivation and job satisfaction",
+            "Research application to workplace behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of organizational leadership and theory",
+            "Strategic thinking in organizational context"
+        ]
+    },
+    {
+        "courseTitle": "Social Psychology",
+        "courseCode": "PSYC 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The behavior of the individual as affected by other people and groups. Interpersonal attraction, attitude change, group dynamics, and the application of psychology to social problems are among the topics covered.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding interpersonal attraction",
+            "Interpreting group dynamics",
+            "Communicating psychology principles to social problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of individuals on group behavior",
+            "Evaluating attitude change",
+            "Applying social psychology principles to real-world issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Applying group dynamics to team leadership",
+            "Influencing attitude and behavior change within organizations"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Clinical Psychology",
+        "courseCode": "PSYC 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course surveys the evolution and future of clinical psychology, covering research, assessment and intervention, and subspecialities.",
+        "Technical and Digital Skills": [
+            "Clinical research methodologies",
+            "Psychological assessment techniques",
+            "Understanding of psychological intervention strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Empathetic listening",
+            "Building trust with clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis and treatment planning",
+            "Critical evaluation of psychological research",
+            "Analyzing behavioral patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Ethical decision-making",
+            "Leading therapeutic interventions"
+        ]
+    },
+    {
+        "courseTitle": "Health Psychology",
+        "courseCode": "PSYC 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course examines how psychological states (e.g., anxiety, stress) influence physical health. The course also examines how physical states (e.g., illness, pain, injury) influence psychological health. Topics include the impact of stress on health and proneness to illness; coping with illness, injury and trauma; and the role of health-enhancing behaviors in maintaining physical health.",
+        "Technical and Digital Skills": [
+            "Understanding of psychophysiological processes",
+            "Knowledge of health-enhancing behaviors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication with individuals coping with illness, injury or trauma",
+            "Ability to convey complex psychological concepts in understandable terms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of psychological impacts on physical health",
+            "Identifying and understanding the influence of stress and anxiety on health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of health-enhancing behaviors",
+            "Leading discussions about health psychology topics"
+        ]
+    },
+    {
+        "courseTitle": "Institutionalization of Human-Centered Computing",
+        "courseCode": "PSYC 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the fundamental principles of human-computer interaction. Emphasis is placed on leadership knowledge needed to implement human-centered design practices into an organization's culture.",
+        "Technical and Digital Skills": [
+            "Basic Knowledge of Human-Computer Interaction",
+            "Fundamentals of Human-Centered Design",
+            "Implementing Human-Centered Design in Digital Platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining Human-Centered Design Concepts",
+            "Communicating the Importance of Human-Centered Design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the Effectiveness of Human-Centered Design",
+            "Solving Usability Issues in Digital Platforms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in Implementing Human-Centered Design",
+            "Incorporating Human-Centered Design in Organizational Culture"
+        ]
+    },
+    {
+        "courseTitle": "Positive Psychology",
+        "courseCode": "PSYC 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines and discusses psychological theories and research that focus on human strengths and potential. Factors that contribute to happiness and a fulfilling life are emphasized. Lectures, self-assessments and experiential exercises are used to understand how to cultivate a meaningful life.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Facilitating self-assessments",
+            "Leading experiential exercises",
+            "Discussing psychological theories",
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing psychological research",
+            "Identifying factors contributing to happiness",
+            "Understanding human strengths and potential"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and interpreting self-assessments",
+            "Leading experiential exercises",
+            "Cultivating a meaningful life"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of Criminal Behavior",
+        "courseCode": "PSYC 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of crime from a psychological perspective. Topics include theories of criminal behavior, violent and non-violent crime, sexual offenses, insanity, addiction, white collar crime, and other criminal behaviors.",
+        "Technical and Digital Skills": [
+            "Crime data analysis",
+            "Psychological profiling",
+            "Understanding of addiction disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Verbal communication",
+            "Empathy towards crime victims"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of criminal behavior",
+            "Analyzing crime patterns",
+            "Understanding and interpreting psychological theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Professional ethics",
+            "Decision-making in criminal justice",
+            "Crisis management"
+        ]
+    },
+    {
+        "courseTitle": "Quantitative Methods",
+        "courseCode": "PSYC 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The application of inferential statistical principles to psychological research problems.",
+        "Technical and Digital Skills": [
+            "Application of statistical principles",
+            "Understanding psychological research methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Inferential statistics",
+            "Problem-solving in psychological research context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Research Methods in Psychology",
+        "courseCode": "PSYC 318W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of research principles and techniques in psychology. Experimental design and interpretation is stressed.  Students learn to locate and read technical articles and to report on research projects in the style of the American Psychological Association.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Reading and understanding technical articles",
+            "Reporting on research projects in APA style",
+            "Understanding experimental design and interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive reports",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying research principles",
+            "Analyzing and interpreting research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Organizing and prioritizing research tasks",
+            "Leading research initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of the Exceptional Child",
+        "courseCode": "PSYC 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the psychological development of the child with physical, emotional, social, intellectual, and educational disabilities.",
+        "Technical and Digital Skills": [
+            "Analysis of psychological development",
+            "Understanding of physical, emotional, social, intellectual, and educational disabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy for children with disabilities",
+            "Effective communication with children with varied abilities",
+            "Collaboration with parents and professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical assessment of child behavior",
+            "Developing effective strategies to support exceptional children",
+            "Problem-solving for disability-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interventions for exceptional children",
+            "Organizing resources for child support",
+            "Managing individual education plans"
+        ]
+    },
+    {
+        "courseTitle": "The Psychology of Adolescence",
+        "courseCode": "PSYC 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the processes of development during adolescence. Covers topics such as the influences of biological, emotional, social, and cognitive factors on personality development and adjustment of the adolescent.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding adolescent emotional responses",
+            "Effective communication with adolescents",
+            "Interpreting adolescent social behavior"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing influences on adolescent development",
+            "Adjustment strategies for adolescent issues",
+            "Evaluating cognitive factors impacting adolescence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guiding adolescents towards positive personality development",
+            "Organizing effective adolescent development programs"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of Gender",
+        "courseCode": "PSYC 324",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Concepts and theories of sex and gender, including models of how gender roles are developed and maintained, will be examined. Major research findings regarding gender will be reviewed.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and explaining gender roles",
+            "Discussing theories of gender"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research findings",
+            "Critical evaluation of theories and models of gender"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing and maintaining models of gender roles"
+        ]
+    },
+    {
+        "courseTitle": "Drugs and Behavior",
+        "courseCode": "PSYC 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the effects of psychoactive drugs on behavior and the factors involved in drug use. Current research literature is discussed.",
+        "Technical and Digital Skills": [
+            "Drug research literature review",
+            "Understanding of psychoactive drug effects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of research literature"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of drug use factors",
+            "Interpretation of research results",
+            "Critical evaluation of drug behavior studies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Personnel Psychology",
+        "courseCode": "PSYC 343",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The application of psychological principles and research to the development and improvement of personnel subsystems in business and industry.  Emphasis is placed on the assessment, selection and training of workers and manager.",
+        "Technical and Digital Skills": [
+            "Psychological principle application",
+            "Personnel subsystem development",
+            "Worker and manager assessment",
+            "Worker and manager selection",
+            "Training program development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of psychological principles",
+            "Collaboration in personnel subsystem development",
+            "Effective feedback and assessment communication",
+            "Communication during selection process"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of personnel subsystems",
+            "Identification of improvement areas in personnel subsystems",
+            "Problem-solving in worker and manager selection",
+            "Training needs analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in personnel subsystem improvement",
+            "Organizational skills in assessment and selection processes",
+            "Leadership skills in training program development",
+            "Organizational change management"
+        ]
+    },
+    {
+        "courseTitle": "Human Factors",
+        "courseCode": "PSYC 344",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The application and evaluation of psychological principles and research relating human behavior to the design of tools, technology, and the work environment.",
+        "Technical and Digital Skills": [
+            "Application of psychological principles to design",
+            "Understanding of technology and tool design",
+            "Research relating human behavior to work environment design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding human behavior",
+            "Communicating design principles effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of psychological principles",
+            "Research analysis",
+            "Critical evaluation of tool and technology design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Organizational Psychology",
+        "courseCode": "PSYC 345",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course emphasizes the study of human behavior in organizations. Topics include leadership, motivation, group behavior, communications, power and politics, and organization change.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpreting group behavior",
+            "Effective communication within organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing human behavior in organizations",
+            "Identifying and proposing solutions for issues related to power and politics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within organizations",
+            "Motivating team members",
+            "Implementing organizational change"
+        ]
+    },
+    {
+        "courseTitle": "Child Psychology",
+        "courseCode": "PSYC 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The development of children within their diverse environments is examined. A focus is on the methods used to understand how children experience their world.",
+        "Technical and Digital Skills": [
+            "Research methods in child psychology",
+            "Data Collection and Analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding children's perspectives",
+            "Communicating with children effectively",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of child development",
+            "Analysis of environmental influences on child development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing child assessments",
+            "Leading child-focused interventions"
+        ]
+    },
+    {
+        "courseTitle": "The Psychology of Adulthood and Aging",
+        "courseCode": "PSYC 353",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of adults with emphasis on aging. Current theories and research as well as the characteristics, lifestyles, and activities of adulthood and aging will be discussed.",
+        "Technical and Digital Skills": [
+            "Research analysis",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within different age groups",
+            "Empathetic understanding of aging adults"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of psychological theories",
+            "Analysis of behavioral patterns in adults"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of resources for aging adults",
+            "Leading discussions on adult and aging lifestyles"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of Sex",
+        "courseCode": "PSYC 363",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of critical issues in human sexuality; gender and sexual identity, sexual arousal and erotic behavior, relationship development, and sexual dysfunction and deviation disorders.",
+        "Technical and Digital Skills": [
+            "Understanding human sexuality",
+            "Knowledge of sexual disorders and deviations",
+            "Expertise in gender and sexual identity studies",
+            "Familiarity with relationship development theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication on sensitive topics",
+            "Compassionate listening",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing sexual behavior patterns",
+            "Critical evaluation of sexual dysfunction cases",
+            "Observation and interpretation of erotic behaviors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Teaching Assistant I",
+        "courseCode": "PSYC 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course affords students the opportunity to earn course credit for their work in supporting instructors and engaging with their peers in an undergraduate level course. It is designed for motivated and academically inclined students who wish to contribute to the educational environment and gain valuable, practical experience. Students work with instructors to identify appropriate tasks to be completed. 1-3 credits may be earned based on the number of hours involved in direct activities for the assigned class (3 credits = 9 hours per week; 2 credits = 6 hours per week; 1 credit = 3 hours per week). Students must be selected by the instructor. Positions are not guaranteed. Maximum of 6 credit hours allowed between PSYC 365 and PSYC 366.",
+        "Technical and Digital Skills": [
+            "Academic research",
+            "Subject-specific knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective communication with students and instructors",
+            "Peer engagement",
+            "Peer tutoring"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Task identification",
+            "Problem-solving in an academic context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization",
+            "Leadership in an academic setting",
+            "Collaborative work with instructors"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Teaching Assistant II",
+        "courseCode": "PSYC 366",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course affords students the opportunity to earn course credit for their work in supporting instructors and engaging with their peers in an undergraduate level course. It is designed for motivated and academically inclined students who wish to contribute to the educational environment and gain valuable, practical experience. Students work with instructors to identify appropriate tasks to be completed. 1-3 credits may be earned based on the number of hours involved in direct activities for the assigned class (3 credits = 9 hours per week; 2 credits = 6 hours per week; 1 credit = 3 hours per week). Students must be selected by the instructor. Positions are not guaranteed. Maximum of 6 credit hours allowed between PSYC 365 and PSYC 366.",
+        "Technical and Digital Skills": [
+            "Course content comprehension",
+            "Task identification and completion",
+            "Academic research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer engagement",
+            "Instructor support",
+            "Educational contribution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Task prioritization",
+            "Academic problem-solving",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Leadership in an academic setting",
+            "Organizational skills for managing course credits"
+        ]
+    },
+    {
+        "courseTitle": "General Internship in Psychology",
+        "courseCode": "PSYC 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only. Students engage in academically relevant work-related activities in non-clinical settings. Available for pass/fail grading only. Students should work with the Instructor to identify their placement in the semester prior to enrollment. A maximum of 6 credits of PSYC 368 and/or PSYC 369 can be counted towards the major in Psychology. Pre- or",
+        "Technical and Digital Skills": [
+            "Psychology fundamentals",
+            "Academic research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Cultural sensitivity and adaptability"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification and analysis",
+            "Critical thinking",
+            "Adaptability in non-clinical settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Collaboration with supervisors"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Internship in Psychology",
+        "courseCode": "PSYC 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only. Students engage in academically relevant work activities in clinical settings. Available for pass/fail grading only. Students should work with the Instructor to identify their placement in the semester prior to enrollment. Instructor approval is required prior to registration. A maximum of 6 credits of PSYC 368 and/or PSYC 369 can be counted towards the major in Psychology.",
+        "Technical and Digital Skills": [
+            "Clinical practice in psychology",
+            "Academic research in clinical settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with patients",
+            "Collaboration with clinical teams",
+            "Negotiating placement assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical problem solving",
+            "Applying psychological theories to real-world situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing work in clinical settings",
+            "Leadership within a clinical team",
+            "Navigating academic and clinical hierarchies"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Supervision in Psychology",
+        "courseCode": "PSYC 371",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students doing clinical internships at designated clinical placements must also enroll in this course taught by a faculty member. This seminar addresses the special issues in the areas of safety, confidentiality, and professionalism that arise in clinical settings. Students doing general (non-clinical) internships may also enroll in the course with permission of the Instructor. A maximum of 2 credits of PSYC 371 can be counted towards the major in psychology.",
+        "Technical and Digital Skills": [
+            "Management of clinical data",
+            "Understanding of confidentiality protocols in clinical settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication in clinical settings",
+            "Effective liaison with clinical staff",
+            "Interpersonal skills for diverse clinical environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Safety issue resolution in clinical environments",
+            "Analytical skills for assessing professional issues in clinical settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in clinical settings",
+            "Organizational skills for managing clinical internships",
+            "Supervisory skills in a clinical context"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Psychology",
+        "courseCode": "PSYC 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics that may not be offered on a regular basis.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective communication",
+            "Emotional intelligence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Understanding and interpreting human behavior",
+            "Problem-solving based on psychological principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding group dynamics",
+            "Motivation strategies",
+            "Leadership in psychological contexts"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Psychology",
+        "courseCode": "PSYC 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics that may not be offered on a regular basis.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication",
+            "Active listening",
+            "Empathy",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task organization",
+            "Leadership in group settings"
+        ]
+    },
+    {
+        "courseTitle": "History of Psychology",
+        "courseCode": "PSYC 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the historical development of modern psychology. The major systems and their influences on contemporary American psychology are studied.",
+        "Technical and Digital Skills": [
+            "Researching historical and contemporary psychological theories",
+            "Interpreting historical documents and texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining psychological theories",
+            "Debating the influence of historical systems on modern psychology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the historical development of psychology",
+            "Critically evaluating the influence of major psychological systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing historical information in a coherent manner",
+            "Leading discussions about the history of psychology"
+        ]
+    },
+    {
+        "courseTitle": "Psychopathology",
+        "courseCode": "PSYC 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of psychopathology, covering various behavior disorders, their descriptions, characteristics, and causation. Methods of therapeutic technique are reviewed.",
+        "Technical and Digital Skills": [
+            "Understanding of various behavior disorders",
+            "Knowledge of therapeutic techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy for individuals with behavior disorders",
+            "Effective verbal communication for therapy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosing behavior disorders",
+            "Analyzing causes of behavior disorders",
+            "Implementing therapeutic techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing treatment plans for individuals",
+            "Leading therapeutic sessions"
+        ]
+    },
+    {
+        "courseTitle": "Theories of Personality",
+        "courseCode": "PSYC 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the structure of personality and the dimensions along which individuals differ. The contributions of major personality theorists and the implications of current research are considered.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding personality differences",
+            "Effective communication with diverse personalities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of personality theories",
+            "Analysis of personality research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and managing individual differences in a team",
+            "Applying personality theories to leadership strategies"
+        ]
+    },
+    {
+        "courseTitle": "Human Cognition",
+        "courseCode": "PSYC 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of the ways in which people learn and think. Current models of human memory and cognition are considered in relation to the evidence on human thinking capabilities. The role of language in thought and knowledge acquisition is also explored.",
+        "Technical and Digital Skills": [
+            "Understanding of human memory models",
+            "Comprehension of cognitive models",
+            "Knowledge of the role of language in thought and knowledge acquisition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of cognitive theories",
+            "Effective communication of complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Evaluation of cognitive models",
+            "Analysis of human thinking capabilities"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Psychological Tests",
+        "courseCode": "PSYC 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the history, theory and applications of psychological testing.",
+        "Technical and Digital Skills": [
+            "Psychometric test application",
+            "Data analysis",
+            "Understanding of psychological testing theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpretation and explanation of test results",
+            "Ethical communication of psychological findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of psychological theories",
+            "Analysis of historical testing methodologies",
+            "Understanding and solving complex psychological problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of psychological testing processes",
+            "Leadership in ethical testing application"
+        ]
+    },
+    {
+        "courseTitle": "Sensation and Perception",
+        "courseCode": "PSYC 413",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the processes by which humans obtain information about the environment through the eyes, ears, and other sensory systems.",
+        "Technical and Digital Skills": [
+            "Understanding of sensory systems",
+            "Analysis of sensory information"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of sensory analysis",
+            "Interpreting sensory signals in a social context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sensory information",
+            "Analysis of environmental cues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Principles of Learning",
+        "courseCode": "PSYC 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course focuses on basic learning principles and processes; classical conditioning, instrumental conditioning, discrimination, attention, appetitive and aversive conditioning.",
+        "Technical and Digital Skills": [
+            "Understanding of classical conditioning",
+            "Knowledge of instrumental conditioning",
+            "Appetitive and aversive conditioning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex psychological concepts",
+            "Interpreting psychological theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing learning behaviors",
+            "Identifying patterns in learning processes",
+            "Discrimination analysis",
+            "Attention analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Statistics and Computer Applications",
+        "courseCode": "PSYC 417",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course covers advanced statistical methods and computer applications that build on knowledge and skills acquired in PSYC 317.",
+        "Technical and Digital Skills": [
+            "Advanced statistical methods",
+            "Computer applications",
+            "Software utilization",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex statistical methods",
+            "Presenting results of computer applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical problem solving",
+            "Data interpretation",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Data organization",
+            "Prioritization of tasks"
+        ]
+    },
+    {
+        "courseTitle": "Cross-Cultural Psychology",
+        "courseCode": "PSYC 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A wide variety of psychological research and theory relevant to human behavior in different cultures is examined and the impact of culture on human behavior is discussed.  The course examines cross-cultural research conducted by scholars around the world.  In addition to factual knowledge, emphasis is placed on critical thinking and problem solving.",
+        "Technical and Digital Skills": [
+            "Cross-cultural research analysis",
+            "Utilization of scholarly databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Effective communication across cultures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Cross-cultural problem solving",
+            "Analysis of human behavior in different cultures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical leadership in a multicultural context",
+            "Organizing cross-cultural research"
+        ]
+    },
+    {
+        "courseTitle": "Physiological Psychology",
+        "courseCode": "PSYC 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of the biological bases of behavior including mental illness, motivation, learning, memory and language.",
+        "Technical and Digital Skills": [
+            "Understanding of biological bases of behavior",
+            "Knowledge of mental illness",
+            "Understanding of learning mechanisms",
+            "Memory analysis",
+            "Language interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of complex biological concepts",
+            "Empathy for mental illness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of behavioral patterns",
+            "Diagnosing mental illnesses",
+            "Problem solving in learning",
+            "Memory analysis",
+            "Language analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing information on various aspects of physiological psychology",
+            "Leading discussions on mental illnesses and their biological bases"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of African Americans",
+        "courseCode": "PSYC 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the issues and perspectives related to the psychological evolution of African Americans in the United States. Particular emphasis is placed on exploring the discipline of psychology from an Afrocentric focus.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and respecting cultural differences",
+            "Active listening",
+            "Effective verbal and non-verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of psychological theories and perspectives",
+            "Understanding and interpreting psychological concepts from an Afrocentric focus"
+        ],
+        "Organizational and Leadership Skills": [
+            "Cultural awareness and sensitivity",
+            "Emotional intelligence",
+            "Resilience and adaptability",
+            "Promoting inclusivity and diversity"
+        ]
+    },
+    {
+        "courseTitle": "Honors Program in Psychology",
+        "courseCode": "PSYC 487",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only.  With psychology faculty supervision, student develops an honors thesis proposal for approval by the Psychology Honors Program committee. See section on Honors Program in Psychology in this Catalog.",
+        "Technical and Digital Skills": [
+            "Research proposal writing",
+            "Data gathering and analysis",
+            "Use of psychological research software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Thesis presentation",
+            "Interacting with psychology faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thesis problem formulation",
+            "Critical evaluation of psychological literature",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Independent study",
+            "Adherence to psychology research ethics"
+        ]
+    },
+    {
+        "courseTitle": "Honors Program in Psychology",
+        "courseCode": "PSYC 488",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only.  With psychology faculty supervision, student conducts the supervised honors research and documents it in a thesis for approval by the Psychology Honors Program committee.  Student also participates in a required seminar to discuss and present the research.  See section on Honors Program in Psychology in this Catalog.",
+        "Technical and Digital Skills": [
+            "Conducting research under supervision",
+            "Documenting research in a thesis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Participating in seminars",
+            "Collaborating with faculty members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting supervised research",
+            "Interpreting research data",
+            "Critical evaluation of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution",
+            "Working under supervision"
+        ]
+    },
+    {
+        "courseTitle": "Readings in Psychology",
+        "courseCode": "PSYC 489",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course may be taken only once.  An individualized course in which the student does library research and writes a paper.",
+        "Technical and Digital Skills": [
+            "Library research",
+            "Academic writing",
+            "Citation and referencing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Data analysis",
+            "Thesis development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning"
+        ]
+    },
+    {
+        "courseTitle": "Readings in Psychology",
+        "courseCode": "PSYC 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course may be taken only once.  An individualized course in which the student does library research and writes a paper.",
+        "Technical and Digital Skills": [
+            "Library research",
+            "Academic writing",
+            "Online resource navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Information synthesis and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic papers",
+            "Problem identification and research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Psychology",
+        "courseCode": "PSYC 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The entrepreneurship is a course designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.",
+        "Technical and Digital Skills": [
+            "Product development",
+            "Business model formulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty and professionals",
+            "Effective communication of business ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Innovation application",
+            "Problem identification and solution formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in business initiative development",
+            "Project coordination",
+            "Nonprofit program management"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Psychology",
+        "courseCode": "PSYC 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics that may not be offered regularly.  These special topics will appear in the course listing each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Empathetic communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Understanding psychological theories",
+            "Interpreting psychological research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding group dynamics",
+            "Facilitation"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "PSYC 496",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The department offers selected topics that may not be offered regularly. These special topics will appear in the course listing each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Supervised Research",
+        "courseCode": "PSYC 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only.  Student and faculty supervisor develop and approve a contract of required research activities for the semester, such as attending research lab meetings, data collection, coding and/or analysis, library research, etc.",
+        "Technical and Digital Skills": [
+            "Data collection",
+            "Data coding",
+            "Data analysis",
+            "Library research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Attending and participating in research lab meetings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design",
+            "Problem-solving in research context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Conducting supervised research"
+        ]
+    },
+    {
+        "courseTitle": "Supervised Research",
+        "courseCode": "PSYC 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For ODU psychology majors only.  Student and faculty supervisor develop and approve a contract of required research activities for the semester, such as attending research lab meetings, data collection, coding and/or analysis, library research, etc.",
+        "Technical and Digital Skills": [
+            "Data collection",
+            "Coding",
+            "Library research",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordinating with faculty supervisor",
+            "Participation in research lab meetings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing research activity contract",
+            "Analyzing research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing research activities",
+            "Meeting contract requirements"
+        ]
+    },
+    {
+        "courseCode": "PSYC 651",
+        "courseTitle": "Developmental Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers topics related to the physical, cognitive, social and emotional aspects of growth, from conception to death.  It focuses on human growth and development, but other organisms are also considered.",
+        "Technical and Digital Skills": [
+            "Understanding of human growth and development",
+            "Knowledge of physical, cognitive, social and emotional aspects of growth",
+            "Comparative analysis of growth in different organisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of psychological concepts",
+            "Understanding and empathy towards different stages of human development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of human developmental stages",
+            "Problem-solving related to developmental issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of developmental timelines",
+            "Ability to guide individuals through different stages of development"
+        ]
+    },
+    {
+        "courseCode": "PSYC 661",
+        "courseTitle": "Psychopathology",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides a conceptual basis for the study of abnormal behavior. Students conduct an in-depth review of the literature related to the classification, etiology, and treatment of mental disorders.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research on mental disorder classifications",
+            "Understanding of etiology studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining psychopathological concepts",
+            "Discussing research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing mental disorder case studies",
+            "Critical evaluation of psychopathological literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent research",
+            "Organizing and synthesizing research findings"
+        ]
+    },
+    {
+        "courseCode": "PSYC 662",
+        "courseTitle": "Human-Computer Interface Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Course introduces students to the fundamental principles of human-computer interaction.  Exposes students to basic psychological concepts and shows how they are used to create effective interface designs.  Covers both theoretical and practical aspects of interface design.",
+        "Technical and Digital Skills": [
+            "Understanding of fundamental principles of human-computer interaction",
+            "Application of basic psychological concepts in interface designs",
+            "Theoretical and practical aspects of interface design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex interface designs",
+            "Communicating the importance of user-friendly designs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying psychological concepts to solve design problems",
+            "Evaluating the effectiveness of interface designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing design concepts",
+            "Leading interface design projects"
+        ]
+    },
+    {
+        "courseCode": "PSYC 664",
+        "courseTitle": "Personality Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers history of personality theory and assessment and psychometrics, and introduces tools and techniques aimed at understanding individual differences in personality and assessment of major psychopathology.",
+        "Technical and Digital Skills": [
+            "Understanding psychometrics",
+            "Use of personality assessment tools",
+            "Knowledge in personality theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding individual differences in personality",
+            "Assessing major psychopathology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing personality assessments",
+            "Critical evaluation of personality theories"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 667",
+        "courseTitle": "Practicum in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will receive supervised training in an applied setting in the area of clinical or industrial psychology.",
+        "Technical and Digital Skills": [
+            "Industrial psychology applications",
+            "Clinical psychology applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathic communication",
+            "Professional interaction in a clinical or industrial setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Practical problem-solving in a clinical or industrial setting",
+            "Analytical thinking in applied psychology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervised leadership in a clinical or industrial setting",
+            "Organizational understanding of psychology practices"
+        ]
+    },
+    {
+        "courseCode": "PSYC 697",
+        "courseTitle": "Selected Topics in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides opportunities for advanced investigations of selected topics in psychology.  May be taken by students beyond the first year of graduate study who wish to pursue topics not covered by regularly scheduled courses.",
+        "Technical and Digital Skills": [
+            "Advanced research methodologies",
+            "Usage of psychological databases",
+            "Data analysis using psychology-specific software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Presentation of complex psychological concepts",
+            "Written communication for academic publishing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of psychological literature",
+            "Identification and exploration of unexplored topics",
+            "Development of innovative research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Self-directed learning",
+            "Leadership in collaborative research settings"
+        ]
+    },
+    {
+        "courseCode": "PSYC 698",
+        "courseTitle": "Research in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual project under guidance of a research advisor.  Required for students choosing thesis option.  Limited to a total of 3 hours of credit.",
+        "Technical and Digital Skills": [
+            "Research planning",
+            "Data collection",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with research advisor",
+            "Presenting research findings",
+            "Negotiation and decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research problems",
+            "Critical thinking",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-guidance",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PSYC 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual project under guidance of a research advisor.  Required for students choosing thesis option.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Academic writing",
+            "Citation and referencing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Effective feedback reception",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic identification and formulation",
+            "Hypothesis testing",
+            "Critical thinking and evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PSYC 713",
+        "courseTitle": "Research Methods in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover research design and methodology.  Topics may include experimental, quasi-experimental, single subject and survey research; validity; reliability; confounds; measurement; sampling; inductive inference.  Additionally, this course will cover Responsible Conduct of Research, including completion of CITI course, protection of human subjects, University Human Subjects Committee and IRB, APA Style, paper structure, references, tables, figures, etc., research proposal writing, including searching for sources, writing, oral presentation, data collection and management issues (e.g., Qualtrics, SONA, data cleaning).  Students are required to complete a Research Proposal with Introduction and Methods and Data Analysis Plan and give an oral presentation of research proposal.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Research methodology",
+            "Data collection",
+            "Data management",
+            "Data cleaning",
+            "Use of Qualtrics and SONA",
+            "APA Style formatting",
+            "Creation of tables and figures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of research proposal",
+            "Writing research proposal",
+            "Responsible conduct of research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Inductive inference",
+            "Understanding of validity, reliability, confounds",
+            "Experiment design",
+            "Survey research",
+            "Creation of data analysis plan"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Protection of human subjects in research",
+            "Compliance with University Human Subjects Committee and IRB",
+            "Source search and utilization"
+        ]
+    },
+    {
+        "courseCode": "PSYC 722",
+        "courseTitle": "Occupational Health Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines multidisciplinary research and theories on issues related to individual and organizational well-being and health.  Occupational health psychology (OHP) emphasizes the promotion of wellness and the prevention of injuries and illnesses in the workplace.  Through lectures/presentations, discussions, and research activities, students will learn about OHP theory and practice.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis",
+            "Understanding of OHP theory and practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation skills",
+            "Promotion of wellness in the workplace"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Multidisciplinary research analysis",
+            "Prevention strategies for injuries and illnesses in the workplace"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promotion of organizational well-being and health",
+            "Leadership in health prevention activities"
+        ]
+    },
+    {
+        "courseCode": "PSYC 727",
+        "courseTitle": "Analysis of Variance and Experimental Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of the basic descriptive and inferential statistical procedures with a heavy emphasis on fundamental and advanced analysis of variance techniques.  Topics include contrasts, factorial designs, within-subject and mixed designs, and analysis of covariance.  Course materials are covered in the context of classical experimental and quasi-experimental design.",
+        "Technical and Digital Skills": [
+            "Descriptive statistical procedures",
+            "Inferential statistical procedures",
+            "Analysis of variance techniques",
+            "Contrasts",
+            "Factorial designs",
+            "Within-subject and mixed designs",
+            "Analysis of covariance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex statistical concepts",
+            "Presenting findings from statistical analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Critical evaluation of experimental design",
+            "Applying contrasts in analysis",
+            "Use of factorial designs in problem solving",
+            "Analysis of covariance for problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing statistical projects",
+            "Organizing statistical data",
+            "Designing and implementing experiments"
+        ]
+    },
+    {
+        "courseCode": "PSYC 728",
+        "courseTitle": "Regressional and Correlational Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Course covers correlation with heavy emphasis on regression analysis in the context of the general linear model.  Topics include partial correlations, categorical and continuous interactions, non-linear regression, and multivariate statistics.  Course materials are covered in the context of correlational designs and survey research.",
+        "Technical and Digital Skills": [
+            "Regression analysis",
+            "Understanding of the general linear model",
+            "Working with partial correlations",
+            "Understanding categorical and continuous interactions",
+            "Non-linear regression",
+            "Multivariate statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting statistical findings",
+            "Collaborative data analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting correlation data",
+            "Survey research analysis",
+            "Designing and implementing correlational designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing data for analysis",
+            "Leading statistical research projects"
+        ]
+    },
+    {
+        "courseCode": "PSYC 731",
+        "courseTitle": "Human Cognition",
+        "academicLevel": "graduate",
+        "courseDescription": "An investigation of the ways in which people process and retain information, make decisions, and solve problems.  Current models of structures and processes of human memory and cognition are discussed with particular emphasis on neurocognitive evidence of the brain mechanisms involved in cognition.",
+        "Technical and Digital Skills": [
+            "Understanding of neurocognitive evidence",
+            "Familiarity with cognitive models and processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to interpret and communicate complex cognitive data",
+            "Interpreting neurocognitive evidence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cognitive data",
+            "Problem-solving based on cognitive models",
+            "Decision making based on cognitive data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 735",
+        "courseTitle": "Health Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on contemporary theory and research topics in health psychology.  The course examines psychological and behavioral issues affecting health maintenance, coping with life-threatening illnesses and chronic diseases, and health promotion.  The course uses the biopsychosocial (mind-body) model as an organizing framework, emphasizing the dynamic interactions among biological, social, personality, and behavioral factors jointly in influencing people’s health.  The course is conducted as a seminar.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Understanding of the biopsychosocial model",
+            "Application of contemporary theory in health psychology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex health psychology theories",
+            "Empathy and understanding when dealing with life-threatening illnesses and chronic diseases"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of health psychology research",
+            "Analyzing interactions among biological, social, personality, and behavioral factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading seminar discussions",
+            "Organizing research findings",
+            "Promoting health maintenance"
+        ]
+    },
+    {
+        "courseCode": "PSYC 736",
+        "courseTitle": "Multilevel Models: HLM",
+        "academicLevel": "graduate",
+        "courseDescription": "Social science data frequently have a hierarchical or multilevel structure as a consequence of sampling designs or repeated measures. The purpose of the course is to introduce students to the basic principles and applications of hierarchical linear modeling in social science research. Topics covered include an introduction to multilevel analyses, random intercept models, random slope models, hypotheses testing, hierarchical models for limited dependent variables, model fitting, three-level models, and repeated-measures applications.",
+        "Technical and Digital Skills": [
+            "Understanding of multilevel analyses",
+            "Application of hierarchical linear modeling",
+            "Knowledge of random intercept models",
+            "Knowledge of random slope models",
+            "Application of hierarchical models for limited dependent variables",
+            "Model fitting",
+            "Understanding of three-level models",
+            "Understanding and application of repeated-measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex statistical concepts",
+            "Explaining model hypotheses and results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypotheses testing",
+            "Analyzing social science data",
+            "Understanding and solving problems related to multilevel data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 740",
+        "courseTitle": "Quasi-Experimental Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Quasi-experimental methods is a course to teach techniques for research designs not conducive to randomized-control trials.  The philosophy of these techniques, issues of validity, and analyses are discussed.  Comparisons with randomized-control trials as well as means to strengthen quasi-methodologies for better general causal inferences are presented.",
+        "Technical and Digital Skills": [
+            "Research design techniques",
+            "Analysis of validity issues",
+            "Comparative analysis of research designs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of research methods",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Causal inference",
+            "Strengthening quasi-methodologies",
+            "Addressing research design challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 741",
+        "courseTitle": "Sensation and Perception",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of human sensation and perception emphasizing historical contributions, recent theoretical and methodological developments, and empirical findings.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Understanding of empirical findings",
+            "Knowledge of theoretical and methodological developments in sensation and perception"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex concepts in understandable terms",
+            "Discussing theoretical and methodological developments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing empirical findings",
+            "Evaluating historical contributions to the field",
+            "Critical analysis of theoretical and methodological developments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing empirical findings",
+            "Managing historical data",
+            "Leading discussions on theoretical and methodological developments"
+        ]
+    },
+    {
+        "courseCode": "PSYC 744",
+        "courseTitle": "Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.",
+        "Technical and Digital Skills": [
+            "Creating qualitative assessments",
+            "Conducting quantitative assessments",
+            "Program evaluation methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working in small groups",
+            "Presenting evaluation findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing program results",
+            "Designing program evaluations",
+            "Critical evaluation of program outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading program evaluation projects",
+            "Coordinating group tasks"
+        ]
+    },
+    {
+        "courseCode": "PSYC 745",
+        "courseTitle": "Psychometric Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces classical test theory, including definitions and equations for test reliability, standard error of measurement, and related statistics.  Additional topics include scaling, item statistics useful in test constructions, norms commonly used in educational and psychological testing, test validity and exploratory factor analysis.  If time permits, Item Response (IRT) and Generalizability Theory are introduced.",
+        "Technical and Digital Skills": [
+            "Understanding of classical test theory",
+            "Calculation of test reliability",
+            "Comprehension of standard error of measurement",
+            "Scaling",
+            "Item statistics analysis",
+            "Understanding educational and psychological testing norms",
+            "Test validity assessment",
+            "Exploratory factor analysis",
+            "Introduction to Item Response Theory (IRT)",
+            "Introduction to Generalizability Theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Test construction",
+            "Identification of validity in testing",
+            "Factor analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 746",
+        "courseTitle": "Structural Equation Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.",
+        "Technical and Digital Skills": [
+            "Linear structural equation modeling",
+            "Estimation techniques",
+            "Measurement models",
+            "Confirmatory factor analysis",
+            "Hierarchical factor analysis",
+            "Structural equations",
+            "Longitudinal models",
+            "Multisample analyses",
+            "Mean structures analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex data",
+            "Critical evaluation of statistical models",
+            "Problem-solving through mathematical modeling"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 747",
+        "courseTitle": "Multivariate Methods for the Social/Behavioral Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is focused on methods and techniques for analyzing multivariate data. Emphasis includes both conceptual and computational aspects of the most commonly used analytical tools when experimental units have multiple measures. A goal of the course is to avoid the extremes of \"plug n chug\" analyses on the one hand and theorems and proofs on the other to provide generalizable working knowledge of multivariate statistics. Featured techniques are MANOVA, MANCOVA, profile analysis, discriminant analysis, canonical correlation, principal components analysis, and exploratory factor analysis.",
+        "Technical and Digital Skills": [
+            "Analyzing multivariate data",
+            "Understanding and application of MANOVA",
+            "Understanding and application of MANCOVA",
+            "Performing profile analysis",
+            "Performing discriminant analysis",
+            "Performing canonical correlation",
+            "Understanding and application of principal components analysis",
+            "Performing exploratory factor analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Avoiding extreme analysis methods",
+            "Applying generalizable working knowledge of multivariate statistics"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 748",
+        "courseTitle": "Categorical Methods for the Social/Behavioral Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to review the linear regression model and move into categorical methods.  Featured methods are inference using proportions and odds ratios, multi-way contingency tables, logistic regression, and loglinear models.  The generalized linear model is also introduced.",
+        "Technical and Digital Skills": [
+            "Linear regression modeling",
+            "Inference using proportions and odds ratios",
+            "Understanding of multi-way contingency tables",
+            "Proficiency in logistic regression",
+            "Ability to apply loglinear models",
+            "Understanding of generalized linear model"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for inference making",
+            "Problem-solving using logistic regression",
+            "Ability to interpret multi-way contingency tables"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 749",
+        "courseTitle": "Advanced Social Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses the behavior of the human as a member of a group.  Topics include attitude theory and change, interpersonal attraction, group dynamics, and related theory and applied research techniques.",
+        "Technical and Digital Skills": [
+            "Applied research techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding group dynamics",
+            "Interpersonal attraction theory"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Attitude theory and change",
+            "Behavioral analysis in group settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing group dynamics"
+        ]
+    },
+    {
+        "courseCode": "PSYC 750",
+        "courseTitle": "Organizational Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of organizational behavior and theory.  Topics include leadership, motivation, teams, social processes at work, workplace relationships, organization structure and environments, and organizational development and change.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding social processes at work",
+            "Managing workplace relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Motivational strategies",
+            "Team dynamics analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership approaches",
+            "Organizational structure design",
+            "Managing organizational change",
+            "Organizational development strategies"
+        ]
+    },
+    {
+        "courseCode": "PSYC 763",
+        "courseTitle": "Personnel Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of personnel psychology. Topics include reliability and validity, job analysis, performance criteria, performance appraisal, employee recruitment, employee selection, and training and development.",
+        "Technical and Digital Skills": [
+            "Job analysis",
+            "Performance appraisal",
+            "Employee recruitment",
+            "Employee selection",
+            "Training and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in recruitment and selection processes",
+            "Providing constructive performance feedback",
+            "Personnel development communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Reliability and validity assessment",
+            "Identifying performance criteria",
+            "Analyzing job roles and responsibilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic personnel planning",
+            "Leadership in employee development and training",
+            "Organizational decision-making in recruitment and selection"
+        ]
+    },
+    {
+        "courseCode": "PSYC 770",
+        "courseTitle": "Human Factors Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "The application and evaluation of psychological principles and research relating human behavior to the design of tools, technology, and the work environment.  Theory, methods, and application are emphasized.",
+        "Technical and Digital Skills": [
+            "Application of psychological principles",
+            "Evaluation of research",
+            "Design of tools and technology",
+            "Design of work environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting human behavior",
+            "Communicating psychological principles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing human-tool interaction",
+            "Applying psychological theories to real-world problems",
+            "Evaluating effectiveness of tool and technology designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing psychological methods in organizational design",
+            "Leading human-centered design processes"
+        ]
+    },
+    {
+        "courseCode": "PSYC 771",
+        "courseTitle": "Ergonomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic overview and application of anthropometry, biomechanics, functional anatomy, mechanics, and human physiology for the design of industrial tools, equipment, and workstations.",
+        "Technical and Digital Skills": [
+            "Understanding of anthropometry",
+            "Knowledge in biomechanics",
+            "Familiarity with functional anatomy",
+            "Mechanics comprehension",
+            "Human physiology understanding",
+            "Design of industrial tools",
+            "Equipment design",
+            "Workstation design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of anthropometric data",
+            "Biomechanical problem solving",
+            "Functional anatomy analysis",
+            "Mechanical problem resolution",
+            "Human physiology analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 776",
+        "courseTitle": "Human-Computer Interaction",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of the physical, cognitive, and performance capabilities and limitations of humans as they interact with modern computer systems. Emphasis is placed on the tools, techniques and procedures for the assessment and effective design of computer hardware, software and displays of information.",
+        "Technical and Digital Skills": [
+            "Understanding of computer hardware and software",
+            "Proficiency in using different tools and techniques for system assessment",
+            "Designing effective computer displays of information"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate technical specifications",
+            "Working collaboratively in a technology-focused environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of physical, cognitive, and performance capabilities of humans",
+            "Analyzing and optimizing user-computer interaction",
+            "Problem-solving in design and implementation of computer systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing design and assessment processes",
+            "Leading in a tech-oriented environment"
+        ]
+    },
+    {
+        "courseCode": "PSYC 780",
+        "courseTitle": "Ethics, Professional Standards, and Responsible Conduct",
+        "academicLevel": "graduate",
+        "courseDescription": "Ethical principles, APA codes, laws, policies and approaches to ethical decision making will be applied to case studies involving dilemmas and issues in several areas of the professional activities of psychologists.  Students will prepare an ethical and/or professional issue paper and a self-reflection on acculturation into professional ethics and standards.",
+        "Technical and Digital Skills": [
+            "Understanding and application of APA codes",
+            "Understanding laws and policies related to professional ethics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ethical decisions",
+            "Writing professional issue papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision making",
+            "Case study analysis",
+            "Critical evaluation of ethical dilemmas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-reflection on acculturation into professional ethics and standards",
+            "Leadership in ethical situations"
+        ]
+    },
+    {
+        "courseCode": "PSYC 781",
+        "courseTitle": "Advanced Ergonomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic overview of the application of anthropometry, biomechanics, ergonomics, cognition and perception within workplace environments.  Particular focus on the analysis and prevention of accidents at work.  Course requires considerable practice in technical writing.",
+        "Technical and Digital Skills": [
+            "Application of anthropometry",
+            "Application of biomechanics",
+            "Application of ergonomics",
+            "Understanding of cognition and perception",
+            "Technical writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical and safety information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of workplace environments",
+            "Prevention of accidents at work"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing safety measures",
+            "Organizing and presenting technical information"
+        ]
+    },
+    {
+        "courseCode": "PSYC 792",
+        "courseTitle": "Advanced Seminar in Physiological Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will investigate the biological underpinnings of behavior and explore what is currently known about their role in movement, emotions, mental illness, sexual behavior, memory, states of consciousness, sensory perception, thought and language, and several neuro-psychiatric disorders.  Through active learning exercises, i.e., class discussion, reports, critiques, oral presentations, and a final research paper or proposal, students will apply and demonstrate their acquired knowledge and critical thinking skills to the biological basis of human behavior.",
+        "Technical and Digital Skills": [
+            "Research in biological basis of human behavior",
+            "Understanding of neuro-psychiatric disorders",
+            "Knowledge in sensory perception, thought and language",
+            "Understanding of sexual behavior, memory and states of consciousness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Class discussion",
+            "Report writing",
+            "Oral presentations",
+            "Critiquing research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of human behavior",
+            "Application of acquired knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research paper or proposal development",
+            "Active learning exercises"
+        ]
+    },
+    {
+        "courseCode": "PSYC 801",
+        "courseTitle": "Empirically-Supported Therapies",
+        "academicLevel": "graduate",
+        "courseDescription": "Empirically-Supported Therapies is designed to foster the integration of clinical science and the practice of psychotherapy. Course objectives include learning how to identify, evaluate, and implement empirically supported interventions for various psychological disorders.",
+        "Technical and Digital Skills": [
+            "Identifying empirically supported interventions",
+            "Evaluating effectiveness of interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating therapeutic interventions",
+            "Building therapeutic relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of therapeutic interventions",
+            "Problem-solving within psychotherapy context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing empirically supported interventions",
+            "Leading therapeutic sessions"
+        ]
+    },
+    {
+        "courseCode": "PSYC 810",
+        "courseTitle": "Seminar in Professional Aspects of Industrial/Organizational Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics covered include standards of professional behavior of I/O psychologists, the governance of psychology, I/O psychology professional associations, and professional opportunities for I/O psychologists.",
+        "Technical and Digital Skills": [
+            "Knowledge of I/O psychology standards",
+            "Understanding of professional associations in I/O psychology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional behavior in I/O psychology",
+            "Networking with professional associations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of professional opportunities in I/O psychology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of the governance of psychology",
+            "Planning and management of professional opportunities in I/O psychology"
+        ]
+    },
+    {
+        "courseCode": "PSYC 813",
+        "courseTitle": "Research Methods in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover research design and methodology.  Topics may include experimental, quasi-experimental, single subject and survey research; validity; reliability; confounds; measurement; sampling; inductive inference.  Additionally, this course will cover Responsible Conduct of Research, including completion of CITI course, protection of human subjects, University Human Subjects Committee and IRB, APA Style, paper structure, references, tables, figures, etc., research proposal writing, including searching for sources, writing, oral presentation, data collection and management issues (e.g., Qualtrics, SONA, data cleaning).  Students are required to complete a Research Proposal with Introduction and Methods and Data Analysis Plan and give an oral presentation of research proposal.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Methodology",
+            "Data collection",
+            "Data management",
+            "Data cleaning",
+            "Use of Qualtrics",
+            "Use of SONA"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Writing research proposals",
+            "APA style writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Inductive inference",
+            "Measurement",
+            "Sampling",
+            "Validity",
+            "Reliability",
+            "Identifying and addressing confounds"
+        ],
+        "Organizational and Leadership Skills": [
+            "Completion of CITI course",
+            "Protection of human subjects",
+            "Compliance with University Human Subjects Committee and IRB",
+            "Research proposal writing",
+            "Data analysis planning"
+        ]
+    },
+    {
+        "courseCode": "PSYC 815",
+        "courseTitle": "Teaching Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar on the pedagogy of teaching as applied to the discipline of psychology.  Topics include syllabus preparation, lecture and discussion methods, assessment and grading, and teaching portfolio development.",
+        "Technical and Digital Skills": [
+            "Syllabus preparation",
+            "Assessment and grading methods",
+            "Teaching portfolio development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lecture and discussion methods",
+            "Providing feedback",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting teaching methods for different learning styles",
+            "Evaluating student performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Educational leadership",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PSYC 822",
+        "courseTitle": "Occupational Health Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines multidisciplinary research and theories on issues related to individual and organizational well-being and health.  Occupational health psychology (OHP) emphasizes the promotion of wellness and the prevention of injuries and illnesses in the workplace.  Through lectures/presentations, discussions, and research activities, students will learn about OHP theory and practice.",
+        "Technical and Digital Skills": [
+            "Conducting occupational health research",
+            "Understanding and applying OHP theory",
+            "Examining multidisciplinary research on occupational health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conducting effective discussions on occupational health issues",
+            "Presenting research findings on occupational health"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing issues related to individual and organizational well-being",
+            "Preventing injuries and illnesses in the workplace"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting wellness in the workplace",
+            "Leading initiatives for prevention of injuries and illnesses"
+        ]
+    },
+    {
+        "courseCode": "PSYC 827",
+        "courseTitle": "Analysis of Variance and Experimental Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of the basic descriptive and inferential statistical procedures with a heavy emphasis on fundamental and advanced analysis of variance techniques.  Topics include contrasts, factorial designs, within-subject and mixed designs, and analysis of covariance.  Course materials are covered in the context of classical experimental and quasi-experimental design.",
+        "Technical and Digital Skills": [
+            "Understanding of basic descriptive and inferential statistical procedures",
+            "Proficiency in advanced analysis of variance techniques",
+            "Knowledge of contrasts, factorial designs, within-subject and mixed designs, and analysis of covariance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply statistical procedures to solve problems",
+            "Analytical skills to interpret and analyze statistical data",
+            "Capability to use analysis of variance in problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of classical experimental and quasi-experimental design",
+            "Ability to formulate and implement statistical procedures in an organized manner"
+        ]
+    },
+    {
+        "courseCode": "PSYC 828",
+        "courseTitle": "Regressional and Correlational Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Course covers correlation with heavy emphasis on regression analysis in the context of the general linear model.  Topics include partial correlations, categorical and continuous interactions, non-linear regression, and multivariate statistics.  Course materials are covered in the context of correlational designs and survey research.",
+        "Technical and Digital Skills": [
+            "Regression analysis",
+            "Partial correlations",
+            "Categorical and continuous interactions",
+            "Non-linear regression",
+            "Multivariate statistics",
+            "Survey research"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis in the context of the general linear model",
+            "Interpretation of correlational designs",
+            "Understanding and applying statistical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 831",
+        "courseTitle": "Human Cognition",
+        "academicLevel": "graduate",
+        "courseDescription": "An investigation of the ways in which people process and retain information, make decisions, and solve problems.  Current models of structures and processes of human memory and cognition are discussed with particular emphasis on neurocognitive evidence of the brain mechanisms involved in cognition.",
+        "Technical and Digital Skills": [
+            "Cognition Modeling",
+            "Neurocognitive Systems Understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Information Processing",
+            "Decision-Making",
+            "Problem-Solving",
+            "Analyzing Brain Mechanisms"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 833",
+        "courseTitle": "Grant and Manuscript Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is designed: (1) to teach students to write article-length scholarly manuscripts in APA format of publishable quality, and (2) to teach students the critical components of grant applications.  By the end of this course, each student will have prepared a manuscript that is ready for submission to a peer-reviewed journal and have completed sections of a federal grant application.",
+        "Technical and Digital Skills": [
+            "Writing scholarly manuscripts in APA format",
+            "Understanding and applying the components of federal grant applications",
+            "Preparing manuscripts for submission to peer-reviewed journals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written communication",
+            "Adapting writing style for peer-reviewed journals and grant applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing critical components of grants",
+            "Structuring and presenting academic arguments in writing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing complex writing projects",
+            "Navigating the process of grant application and academic submission"
+        ]
+    },
+    {
+        "courseCode": "PSYC 835",
+        "courseTitle": "Health Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on contemporary theory and research topics in health psychology.  The course examines psychological and behavioral issues affecting health maintenance, coping with life-threatening illnesses and chronic diseases, and health promotion.  The course uses the biopsychosocial (mind-body) model as an organizing framework, emphasizing the dynamic interactions among biological, social, personality, and behavioral factors jointly in influencing people's health.  The course is conducted as a seminar.",
+        "Technical and Digital Skills": [
+            "Knowledge of biopsychosocial model",
+            "Understanding of behavioral factors in health",
+            "Understanding of psychological factors in health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex health concepts simplistically",
+            "Effectively communicating health promotion strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health maintenance issues",
+            "Critical evaluation of health-related issues",
+            "Researching and understanding chronic diseases and life-threatening illnesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and synthesizing health research",
+            "Leading health promotion initiatives"
+        ]
+    },
+    {
+        "courseCode": "PSYC 836",
+        "courseTitle": "Multilevel Models: HLM",
+        "academicLevel": "graduate",
+        "courseDescription": "Social science data frequently have a hierarchical or multilevel structure as a consequence of sampling designs or repeated measures. The purpose of the course is to introduce students to the basic principles and applications of hierarchical linear modeling in social science research. Topics covered include an introduction to multilevel analyses, random intercept models, random slope models, hypotheses testing, hierarchical models for limited dependent variables, model fitting, three-level models, and repeated-measures applications.",
+        "Technical and Digital Skills": [
+            "Hierarchical linear modeling",
+            "Multilevel analyses",
+            "Application of random intercept models",
+            "Application of random slope models",
+            "Hierarchical models for limited dependent variables",
+            "Model fitting",
+            "Understanding three-level models",
+            "Handling repeated-measures applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining multilevel models",
+            "Presenting research findings",
+            "Collaborating in research teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypotheses testing",
+            "Analyzing social science data",
+            "Handling hierarchical or multilevel structured data",
+            "Applying sampling designs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating research activities",
+            "Managing multilevel modeling projects"
+        ]
+    },
+    {
+        "courseCode": "PSYC 837",
+        "courseTitle": "Longitudinal Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce students to the theory and practice of longitudinal data analysis. It will examine a number of approaches for modeling change (in continuous outcomes) and event occurrence (broadly defined, in categorical or ordinal outcomes), including a careful treatment of the metric of time as well as missing data. Students will learn to develop, implement, interpret, and report research involving longitudinal data analyses. The use of statistical software is also illustrated.",
+        "Technical and Digital Skills": [
+            "Longitudinal data analysis",
+            "Modeling change in continuous outcomes",
+            "Event occurrence modeling in categorical or ordinal outcomes",
+            "Treatment of metric of time",
+            "Handling missing data",
+            "Use of statistical software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpretation of research results",
+            "Reporting research involving longitudinal data analyses"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing longitudinal data analysis models",
+            "Implementing longitudinal data analysis methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 840",
+        "courseTitle": "Quasi-Experimental Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Quasi-experimental methods is a course to teach techniques for research designs not conducive to randomized-control trials.  The philosophy of these techniques, issues of validity, and analyses are discussed.  Comparisons with randomized-control trials as well as means to strengthen quasi-methodologies for better general causal inferences are presented.",
+        "Technical and Digital Skills": [
+            "Understanding of research design techniques",
+            "Analysis of validity issues",
+            "Comparison of different trial methods",
+            "Strengthening of quasi-methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for causal inference",
+            "Problem-solving for research design challenges",
+            "Critical evaluation of validity issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 841",
+        "courseTitle": "Sensation and Perception",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of human sensation and perception emphasizing historical contributions, recent theoretical and methodological developments, and empirical findings.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Methodological analysis",
+            "Empirical research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting historical contributions",
+            "Communicating theoretical developments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theoretical analysis",
+            "Critical evaluation of empirical findings"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 844",
+        "courseTitle": "Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.",
+        "Technical and Digital Skills": [
+            "Conducting qualitative assessments",
+            "Conducting quantitative assessments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating in small groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Program evaluation",
+            "Creating assessments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a program evaluation"
+        ]
+    },
+    {
+        "courseCode": "PSYC 845",
+        "courseTitle": "Psychometric Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces classical test theory, including definitions and equations for test reliability, standard error of measurement, and related statistics.  Additional topics include scaling, item statistics useful in test construction, norms commonly used in educational and psychological testing, test validity, and exploratory factor analysis.  If time permits, Item Response Theory (IRT) and Generalizability Theory are introduced.",
+        "Technical and Digital Skills": [
+            "Understanding classical test theory",
+            "Calculating and interpreting test reliability",
+            "Calculating and interpreting standard error of measurement",
+            "Scaling",
+            "Understanding item statistics for test construction",
+            "Understanding norms used in educational and psychological testing",
+            "Test validity",
+            "Performing exploratory factor analysis",
+            "Understanding Item Response Theory (IRT)",
+            "Understanding Generalizability Theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting psychometric data",
+            "Evaluating the reliability and validity of tests",
+            "Solving problems related to test construction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 846",
+        "courseTitle": "Structural Equation Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.",
+        "Technical and Digital Skills": [
+            "Linear structural equation modeling",
+            "Estimation and measurement models",
+            "Confirmatory and hierarchical factor analysis",
+            "Structural equations",
+            "Longitudinal models",
+            "Multisample analyses",
+            "Mean structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking to interpret complex models",
+            "Problem-solving for model estimation and measurement",
+            "Utilization of factor analysis in problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 847",
+        "courseTitle": "Multivariate Methods for the Social/Behavioral Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is focused on methods and techniques for analyzing multivariate data. Emphasis includes both conceptual and computational aspects of the most commonly used analytical tools when experimental units have multiple measures. A goal of the course is to avoid the extremes of \"plug n chug\" analyses on the one hand and theorems and proofs on the other to provide generalizable working knowledge of multivariate statistics. Featured techniques are MANOVA, MANCOVA, profile analysis, discriminant analysis, canonical correlation, principal components analysis, and exploratory factor analysis.",
+        "Technical and Digital Skills": [
+            "Multivariate data analysis",
+            "Computational statistics",
+            "Working knowledge of MANOVA",
+            "Working knowledge of MANCOVA",
+            "Proficiency in profile analysis",
+            "Discriminant analysis",
+            "Canonical correlation",
+            "Principal components analysis",
+            "Exploratory factor analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conceptual understanding of multivariate statistical tools",
+            "Avoidance of 'plug n chug' analyses",
+            "Generalizable working knowledge of multivariate statistics",
+            "Analytical interpretation of multiple measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 848",
+        "courseTitle": "Categorical Methods for the Social/Behavioral Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to review the linear regression model and move into categorical methods.  Featured methods are inference using proportions and odds ratios, multi-way contingency tables, logistic regression, and loglinear models.  The generalized linear model is also introduced.",
+        "Technical and Digital Skills": [
+            "Understanding of linear regression models",
+            "Application of categorical methods",
+            "Inference using proportions and odds ratios",
+            "Working with multi-way contingency tables",
+            "Implementing logistic regression",
+            "Using loglinear models",
+            "Familiarity with the generalized linear model"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills to infer from proportions and odds ratios",
+            "Problem-solving ability to apply different models based on the nature of data",
+            "Critical thinking for interpreting results from different models"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 849",
+        "courseTitle": "Advanced Social Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses the behavior of the human as a member of a group.  Topics include attitude theory and change, interpersonal attraction, group dynamics, and related theory and applied research techniques.",
+        "Technical and Digital Skills": [
+            "Applied research techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding group dynamics",
+            "Interpersonal attraction theory"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Attitude theory and change",
+            "Behavior analysis within group contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of group dynamics",
+            "Facilitating attitude change"
+        ]
+    },
+    {
+        "courseCode": "PSYC 850",
+        "courseTitle": "Organizational Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of organizational behavior and theory.  Topics include leadership, motivation, teams, social processes at work, workplace relationships, organization structure and environments, and organizational development and change.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Maintaining effective workplace relationships",
+            "Understanding and managing social processes at work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing organizational behavior and theory",
+            "Implementing organizational development and change"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership",
+            "Motivation techniques",
+            "Team management",
+            "Understanding organization structure and environments"
+        ]
+    },
+    {
+        "courseCode": "PSYC 851",
+        "courseTitle": "Organizational Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "This course concerns the study of leadership and its effects on organizational behavior and effectiveness as well as employee well-being and health. Emphasis will be placed on classic and contemporary leadership theory and research.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Conflict resolution",
+            "Effective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of organizational behavior",
+            "Critical evaluation of leadership theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding classic and contemporary leadership theory",
+            "Enhancing organizational effectiveness",
+            "Promoting employee well-being"
+        ]
+    },
+    {
+        "courseCode": "PSYC 853",
+        "courseTitle": "Job Attitudes and Motivation",
+        "academicLevel": "graduate",
+        "courseDescription": "The course focuses on the major concepts, issues, principles, and findings of job attitudes and motivation at the workplace. The student who successfully completes this course should be able to apply knowledge and skills to workplace issues regarding job attitudes and motivation, as well as stimulate ideas for future research projects.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Applying knowledge and skills to workplace issues regarding job attitudes and motivation",
+            "Stimulating ideas for future research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying knowledge and skills to resolve workplace issues",
+            "Analyzing job attitudes and motivation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding major concepts, issues, principles, and findings of job attitudes and motivation",
+            "Leading and motivating team members"
+        ]
+    },
+    {
+        "courseCode": "PSYC 854",
+        "courseTitle": "Organizational Development and Change",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar discusses models and theories of organizational change and interventions that are commonly used to foster organizational development and effectiveness. Students participate in an organizational consulting project to apply lessons learned in the classroom.",
+        "Technical and Digital Skills": [
+            "Organizational consulting",
+            "Implementation of organizational change models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative project work",
+            "Communication in a consulting setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of organizational effectiveness",
+            "Problem-solving in organizational development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in organizational change",
+            "Project management in a consulting context"
+        ]
+    },
+    {
+        "courseCode": "PSYC 858",
+        "courseTitle": "ODU Clinical and Ethical Issues",
+        "academicLevel": "graduate",
+        "courseDescription": "Weekly seminars address professional and ethical issues in the practice of clinical psychology.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Engaging in professional dialogue",
+            "Ethical communication in clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision-making",
+            "Problem-solving in clinical psychology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adherence to professional ethical guidelines",
+            "Leadership in clinical psychology settings"
+        ]
+    },
+    {
+        "courseCode": "PSYC 863",
+        "courseTitle": "Personnel Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of personnel psychology. Topics include reliability and validity, job analysis, performance criteria, performance appraisal, employee recruitment, employee selection, and training and development.",
+        "Technical and Digital Skills": [
+            "Job analysis",
+            "Performance appraisal",
+            "Employee recruitment",
+            "Employee selection",
+            "Training and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal skills for employee recruitment",
+            "Communication skills for performance appraisal"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Reliability and validity analysis",
+            "Performance criteria evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership skills in employee selection and recruitment",
+            "Organizational skills in training and development"
+        ]
+    },
+    {
+        "courseCode": "PSYC 864",
+        "courseTitle": "Human Resource Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers research findings, methodologies, and evaluation designs for the training and development of personnel in organizations.  Specific topics include needs assessment, learning principles and system design.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Evaluation design",
+            "Personnel training system design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Needs assessment communication",
+            "Relaying research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Needs assessment analysis",
+            "Applying learning principles",
+            "Evaluation of training effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Training program design and implementation",
+            "Personnel development planning"
+        ]
+    },
+    {
+        "courseCode": "PSYC 865",
+        "courseTitle": "Psychology of Personnel Selection",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the topics of recruitment, job performance, interviews, internet-based testing, and psychological constructs for use in employee selection (e.g., intelligence, personality).",
+        "Technical and Digital Skills": [
+            "Internet-based testing",
+            "Understanding of psychological constructs like intelligence, personality",
+            "Recruitment techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conducting job interviews",
+            "Effective communication in recruitment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of job performance",
+            "Evaluation of employee selection methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing recruitment processes",
+            "Leading personnel selection procedures"
+        ]
+    },
+    {
+        "courseCode": "PSYC 867",
+        "courseTitle": "Human Performance Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the job analysis and performance appraisal/management (PA/MA). Specific topics include job analysis methods; use of job analysis results for various HR functions; performance assessment/appraisal methods; multi-source feedback; employee reactions to and use of PA/MA information; rater cognitive processes and affect; rater goals, bias, and accuracy; and organizational practical and legal issues surrounding job analysis and PA/PM.",
+        "Technical and Digital Skills": [
+            "Job analysis methods",
+            "Performance appraisal methods",
+            "Multi-source feedback analysis",
+            "Rater cognitive processes analysis",
+            "Assessment of legal issues related to job analysis and performance appraisal"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating PA/MA information",
+            "Addressing employee reactions to PA/MA",
+            "Identifying and addressing rater bias"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing job analysis results",
+            "Evaluating rater goals, bias, and accuracy",
+            "Resolving practical and legal issues related to job analysis and PA/PM"
+        ],
+        "Organizational and Leadership Skills": [
+            "Utilizing job analysis results for HR functions",
+            "Managing rater goals and accuracy",
+            "Leading organizational practical and legal issues resolution"
+        ]
+    },
+    {
+        "courseCode": "PSYC 868",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is designed to provide individual students with advanced on-the-job professional experience. Internship assignments must be approved by the student's program of study. Direct supervision is given by an experienced professional at the internship setting.",
+        "Technical and Digital Skills": [
+            "Direct supervision",
+            "On-the-job professional experience"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with experienced professionals",
+            "Effective communication in a professional setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to new professional environments",
+            "Applying academic knowledge to real-world problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a professional setting",
+            "Self-directed learning under supervision"
+        ]
+    },
+    {
+        "courseCode": "PSYC 870",
+        "courseTitle": "Human Factors Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "The application and evaluation of psychological principles and research relating human behavior to the design of tools, technology, and the work environment.  Theory, methods, and application are emphasized.",
+        "Technical and Digital Skills": [
+            "Application of psychological principles",
+            "Evaluation of psychological research",
+            "Design of tools and technology",
+            "Work environment design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of psychological principles",
+            "Collaboration in a work environment design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of human behavior",
+            "Problem-solving in design",
+            "Applying theory to practical application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a design team",
+            "Organizing psychological research"
+        ]
+    },
+    {
+        "courseCode": "PSYC 871",
+        "courseTitle": "Ergonomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic overview and application of anthropometry, biomechanics, functional anatomy, mechanics, and human physiology for the design of industrial tools, equipment, and workstations.",
+        "Technical and Digital Skills": [
+            "Application of anthropometry",
+            "Basics of biomechanics",
+            "Functional anatomy",
+            "Mechanics",
+            "Understanding of human physiology",
+            "Designing industrial tools",
+            "Equipment design",
+            "Workstation design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification of ergonomic deficiencies",
+            "Development of ergonomic solutions",
+            "Application of biomechanical principles to problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 872",
+        "courseTitle": "Methods, Measures, Techniques, and Tools in Human Factors",
+        "academicLevel": "graduate",
+        "courseDescription": "Experiential survey of methods, measures, techniques, and prototyping tools available for human factors investigations in laboratory and field settings.  The design and execution of experimental investigations utilizing the measures and tools are emphasized.",
+        "Technical and Digital Skills": [
+            "Use of prototyping tools",
+            "Execution of experimental investigations",
+            "Human factors investigations in laboratory and field settings"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Design of experimental investigations",
+            "Analyzing and interpreting measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting experiments"
+        ]
+    },
+    {
+        "courseCode": "PSYC 876",
+        "courseTitle": "Human-Computer Interaction",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of the physical, cognitive, and performance capabilities and limitations of humans as they interact with modern computer systems.  Emphasis is placed on the tools, techniques and procedures for the assessment and effective design of computer hardware, software and displays of information.",
+        "Technical and Digital Skills": [
+            "Understanding of computer hardware and software",
+            "Designing effective computer displays",
+            "Applying techniques and procedures for system assessment",
+            "Utilizing tools for system design and assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing human-computer interaction performance",
+            "Cognitive analysis of human interaction with computer systems",
+            "Understanding and addressing physical limitations of human-computer interaction"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PSYC 877",
+        "courseTitle": "Theories, Models and Simulations in Human Factors",
+        "academicLevel": "graduate",
+        "courseDescription": "Survey of the historical and philosophical bases for the use of theories, models, and simulations in human factors applications with a critical evaluation of existing theories, mathematical and cognitive models, and simulations in terms of actual and potential contributions to the field.",
+        "Technical and Digital Skills": [
+            "Understanding of theories, models and simulations in human factors",
+            "Application of cognitive models",
+            "Assessing the effectiveness of simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical evaluation and feedback",
+            "Articulation of theoretical concepts",
+            "Presenting analytical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of existing theories, models and simulations",
+            "Analytical thinking",
+            "Problem-solving using mathematical models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing critical evaluations",
+            "Leading discussions on theoretical concepts",
+            "Strategic implementation of models and simulations"
+        ]
+    },
+    {
+        "courseCode": "PSYC 878",
+        "courseTitle": "Advanced Cognition and Information Processing",
+        "academicLevel": "graduate",
+        "courseDescription": "Historical survey of human information processing literature, detailed review of recent developments in cognitive psychology, and examination of the purposes, role and scope of cognitive engineering.",
+        "Technical and Digital Skills": [
+            "Understanding human information processing literature",
+            "Knowledge of cognitive psychology",
+            "Understanding of cognitive engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explanation of cognitive psychology concepts",
+            "Presentation of findings in cognitive engineering"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of human information processing literature",
+            "Critical evaluation of cognitive psychology theories",
+            "Assessment of the purposes, role, and scope of cognitive engineering"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 879",
+        "courseTitle": "Careers",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the developmental processes, facilitators, and barriers individuals encounter in their work lives.  It provides a theoretical foundation in the careers literature and introduces contemporary research in the area.  Work-family conflict, mentoring, organizational socialization, and career success are among the topics covered.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding work-family conflict",
+            "Understanding and utilizing mentorship",
+            "Understanding organizational socialization"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing career success",
+            "Understanding barriers in career development",
+            "Analyzing facilitators in career development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing work-life balance",
+            "Leveraging mentorship for career growth",
+            "Navigating organizational socialization"
+        ]
+    },
+    {
+        "courseCode": "PSYC 880",
+        "courseTitle": "Ethics, Professional Standards, and Responsible Conduct",
+        "academicLevel": "graduate",
+        "courseDescription": "Ethical principles, APA codes, laws, policies and approaches to ethical decision making will be applied to case studies involving dilemmas and issues in several areas of the professional activities of psychologists.  Students will prepare an ethical and/or professional issue paper and a self-reflection on acculturation into professional ethics and standards.",
+        "Technical and Digital Skills": [
+            "Understanding of APA codes",
+            "Knowledge of professional ethics and standards",
+            "Familiarity with legal and policy aspects in professional psychology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical decision making",
+            "Case study analysis",
+            "Written communication for issue papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and application of ethical principles",
+            "Reflective thinking for self-acculturation into professional ethics",
+            "Approaches to resolving ethical dilemmas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Handling professional issues",
+            "Adherence to professional standards",
+            "Promoting responsible conduct"
+        ]
+    },
+    {
+        "courseCode": "PSYC 881",
+        "courseTitle": "Advanced Ergonomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic overview of the application of anthropometry, biomechanics, ergonomics, cognition and perception within workplace environments.  Particular focus on the analysis and prevention of accidents at work.  Course requires considerable practice in technical writing.",
+        "Technical and Digital Skills": [
+            "Application of anthropometry",
+            "Biomechanics usage",
+            "Ergonomics application",
+            "Cognition and perception application in workplace",
+            "Technical writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of accident analysis",
+            "Clear articulation of preventive measures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Workplace accident analysis",
+            "Prevention of workplace accidents",
+            "Understanding and application of cognition and perception"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and coordinating accident prevention measures",
+            "Leading initiatives for workplace safety"
+        ]
+    },
+    {
+        "courseCode": "PSYC 882",
+        "courseTitle": "Attention and Human Performance",
+        "academicLevel": "graduate",
+        "courseDescription": "Survey of theories of attention, factors that influence human performance, and human performance assessment in human-machine systems.  Topics include dual-task performance, vigilance, workload, arousal, fatigue, stress, human error, psychophysiology, and neuroergonomics.",
+        "Technical and Digital Skills": [
+            "Understanding of human-machine systems",
+            "Psychophysiological assessment",
+            "Neuroergonomics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Human performance assessment",
+            "Vigilance analysis",
+            "Dual-task performance evaluation",
+            "Workload analysis",
+            "Arousal and fatigue assessment",
+            "Human error analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Stress management",
+            "Systematic approach to human performance",
+            "Understanding and managing factors influencing human performance"
+        ]
+    },
+    {
+        "courseCode": "PSYC 883",
+        "courseTitle": "Research in Clinical Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual project under guidance of a research advisor.",
+        "Technical and Digital Skills": [
+            "Conducting literature reviews",
+            "Using research databases",
+            "Applying statistical analysis software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaborating with research advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research questions",
+            "Designing research methodology",
+            "Interpreting research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing individual research timelines",
+            "Leading a research project"
+        ]
+    },
+    {
+        "courseCode": "PSYC 890",
+        "courseTitle": "ODU Internship in Clinical/Community Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Must be enrolled in psychology doctorate program.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Building therapeutic relationships",
+            "Communicating psychological concepts",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Psychological assessment",
+            "Developing treatment plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient caseload",
+            "Leading interdisciplinary team discussions"
+        ]
+    },
+    {
+        "courseCode": "PSYC 892",
+        "courseTitle": "Advanced Seminar in Physiological Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will investigate the biological underpinnings of behavior and explore what is currently known about their role in movement, emotions, mental illness, sexual behavior, memory, states of consciousness, sensory perception, thought and language, and several neuro-psychiatric disorders.  Through active learning exercises, i.e., class discussion, reports, critiques, oral presentations, and a final research paper or proposal, students will apply and demonstrate their acquired knowledge and critical thinking skills to the biological basis of human behavior.",
+        "Technical and Digital Skills": [
+            "Research in physiological psychology",
+            "Understanding of neuro-psychiatric disorders",
+            "Analysis of sensory perception and consciousness states",
+            "Exploration of biological basis of human behavior"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Class discussion",
+            "Oral presentations",
+            "Writing reports and critiques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Application of psychological knowledge",
+            "Analysis of emotional and sexual behavior",
+            "Investigation of mental illnesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active learning exercises",
+            "Final research paper or proposal preparation"
+        ]
+    },
+    {
+        "courseCode": "PSYC 894",
+        "courseTitle": "ODU Clinical Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "1-6 credits each semester for variable credit.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 896",
+        "courseTitle": "Topics in Psychology II",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Empathetic communication",
+            "Effective feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Psychological assessment",
+            "Diagnostic skills",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making",
+            "Conflict resolution",
+            "Leadership in group dynamics"
+        ]
+    },
+    {
+        "courseCode": "PSYC 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research in preparation for the dissertation.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Use of academic research databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Academic writing",
+            "Presentation of research findings",
+            "Collaboration with academic advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of academic literature",
+            "Formulation of research questions",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project planning and execution",
+            "Self-direction in research"
+        ]
+    },
+    {
+        "courseCode": "PSYC 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active status maintenance"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Continuous learning",
+            "self-discipline"
+        ]
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "courseTitle": "Business Analytics I",
+        "courseCode": "BNAL 206",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to methods of business analytics.  Topics are concentrated in descriptive analytics, which include descriptive statistics, normal and binomial distributions, decision making under uncertainty and under risk, decision analysis incorporating sample information, sampling distributions and Central Limit Theorem, interval estimation, and hypothesis testing. Business and economic applications are emphasized. Computer software, as a tool for problem solving, is utilized where appropriate.",
+        "Technical and Digital Skills": [
+            "Descriptive statistics",
+            "Normal and binomial distributions",
+            "Decision analysis",
+            "Sampling distributions",
+            "Hypothesis testing",
+            "Utilization of computer software for problem solving"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Decision making under uncertainty and under risk",
+            "Critical evaluation of information",
+            "Problem-solving in business and economic applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Business Analytics II",
+        "courseCode": "BNAL 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced descriptive and predictive analytics topics include advanced hypothesis testing, analysis of frequency data, correlation analysis, simple and multiple regression, and time series forecasting. Prescriptive analytics topics include linear programming formulation and managerial analysis, and distribution models. PERT/CPM models are also covered. Computer software is utilized throughout the course. Emphasis is on the interpretation of the various outcomes of the application of business analytics tools.",
+        "Technical and Digital Skills": [
+            "Advanced hypothesis testing",
+            "Correlation analysis",
+            "Simple and multiple regression",
+            "Time series forecasting",
+            "Linear programming formulation",
+            "Computer software utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of frequency data",
+            "Prescriptive analytics",
+            "Managerial analysis",
+            "Distribution models",
+            "PERT/CPM models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "BNAL 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": [
+            "Enrollment process management",
+            "Credit determination procedures",
+            "Career services coordination",
+            "Departmental regulations compliance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with Career Development Services",
+            "Collaboration with departmental staff",
+            "Professional etiquette in enrollment discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making on course approval",
+            "Analyzing credit requirements",
+            "Resolving enrollment conflicts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating between departments",
+            "Leading discussions on credit allocation",
+            "Managing departmental regulations"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "BNAL 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.  (Qualifies as a CAP experience.)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of information",
+        "Organizational and Leadership Skills": "Project management skills"
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "BNAL 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.  Student participation in a professional work experience. (Qualifies as a CAP experience.)",
+        "Technical and Digital Skills": [
+            "Professional work experience in the field",
+            "Industry-specific tools and software",
+            "Practical application of theoretical knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisors and colleagues",
+            "Networking within the industry",
+            "Professional behavior in a work setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in a real-world context",
+            "Adaptability to changing work environments",
+            "Critical evaluation of work experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a professional setting",
+            "Taking initiative in projects",
+            "Team collaboration and coordination"
+        ]
+    },
+    {
+        "courseTitle": "Data Visualization and Exploration",
+        "courseCode": "BNAL 403/503",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to concepts and processes, technologies, and methodologies that are commonly used in data visualization that an organization may use to enhance its descriptive, predictive, and prescriptive methods for making fact-based decisions.",
+        "Technical and Digital Skills": [
+            "Data visualization tools (e.g., Tableau, Power BI)",
+            "Data manipulation techniques",
+            "Understanding of data structures",
+            "Knowledge of visualization best practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data findings effectively",
+            "Collaborating with team members on visualization projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying trends and patterns in data",
+            "Selecting appropriate visualization types for different data sets",
+            "Troubleshooting visualization issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple visualization projects",
+            "Leading a team in creating visualizations"
+        ]
+    },
+    {
+        "courseTitle": "Spreadsheet-Based Data Analysis for Decision Making",
+        "courseCode": "BNAL 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The spreadsheet has become one of the most widely used analytical tools in the modern business environment. This course covers spreadsheet (e.g., Microsoft Excel) capabilities and business applications, with a focus on the use of spreadsheets for modeling, data analysis, and business decision support. Topics include concepts such as functions, pivot table, macros, analytical utilities, database connections, and interactive interfaces. Modeling and analysis in several areas such as forecasting, investment, quality, and sales are covered.",
+        "Technical and Digital Skills": [
+            "Microsoft Excel functions",
+            "Pivot table usage",
+            "Macro creation in Excel",
+            "Database connections in Excel",
+            "Interactive interface design in Excel"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data modeling",
+            "Forecasting techniques",
+            "Investment analysis",
+            "Quality analysis",
+            "Sales analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Prescriptive Analytics of Management Science",
+        "courseCode": "BNAL 407/507",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students are introduced to prescriptive analytics through formulation and solution of mathematical models, with a particular focus on optimization models. The business use of the models, as well as their limitations, is emphasized. Topics include linear, integer, non-linear programming, network models, genetic algorithms, decision analysis, and project management models.",
+        "Technical and Digital Skills": [
+            "Formulation of mathematical models",
+            "Solution of optimization models",
+            "Linear programming",
+            "Integer programming",
+            "Non-linear programming",
+            "Network models",
+            "Genetic algorithms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of optimization models",
+            "Decision analysis",
+            "Project management models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Business Analytics/Big Data Applications",
+        "courseCode": "BNAL 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses advanced business analytics techniques and the application of such techniques to large data sets.  Some alternative business analytics strategies are introduced.  Descriptive, predictive, and prescriptive models are included.  Topics covered in this course include data visualization and exploration, cluster analysis, and developing and calibrating predictive models for big data.  Applications of multivariate, logistic, and probit regression to business analytics are discussed.  Software packages such as SAS/JMP/SPSS may be used.",
+        "Technical and Digital Skills": [
+            "Data visualization techniques",
+            "Cluster analysis",
+            "Predictive modeling development",
+            "Calibration of predictive models for big data",
+            "Multivariate regression analysis",
+            "Logistic regression application",
+            "Probit regression application",
+            "Proficiency in SAS/JMP/SPSS software packages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation",
+            "Collaboration on analytics projects",
+            "Clear communication of analytical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of data",
+            "Identification of patterns and trends in large datasets",
+            "Application of alternative business analytics strategies",
+            "A/B testing design for business analytics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for analytics projects",
+            "Team coordination on data analysis tasks",
+            "Decision-making based on analytics insights"
+        ]
+    },
+    {
+        "courseTitle": "Predictive Analytics for Business",
+        "courseCode": "BNAL 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Predictive analytics techniques for business. Applications include both shorter term forecasting for sales and operations management as well as forecasting for long term planning. Emphasis is on statistical methods to obtain and evaluate forecasts. Statistical models are implemented using standard software such as MINITAB, EXCEL, R, and/or Python.",
+        "Technical and Digital Skills": [
+            "Statistical modeling",
+            "Forecasting techniques",
+            "MINITAB software proficiency",
+            "EXCEL data analysis",
+            "R programming",
+            "Python for data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting forecast results to stakeholders",
+            "Collaborating on forecast models with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating forecast accuracy",
+            "Identifying trends in business data",
+            "Troubleshooting statistical model errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for forecasting initiatives",
+            "Leading a team in implementing predictive analytics solutions"
+        ]
+    },
+    {
+        "courseTitle": "Simulation Modeling and Analysis for Business Systems",
+        "courseCode": "BNAL 476/576",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Simulation modeling is an integral part of the analytics revolution, enabling the creation of models that can represent the variability that exists in many real business systems.  This course covers the theory and application of simulation modeling, with an emphasis on how simulation provides predictive and prescriptive analytics to support business decision-making.  Topics include simulation fundamentals, the project life-cycle, model development, input and output analysis, verification and validation, and the presentation of a simulation study.  We utilize a major commercial simulation software package for assignments and class projects.",
+        "Technical and Digital Skills": [
+            "Simulation modeling software proficiency",
+            "Model development",
+            "Input and output analysis",
+            "Verification and validation of models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of simulation study findings",
+            "Collaboration on simulation projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of simulation results",
+            "Predictive and prescriptive analytics",
+            "Project life-cycle management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing simulation projects",
+            "Leading simulation study presentations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Business Analytics",
+        "courseCode": "BNAL 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected advanced topics in decision sciences.  Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.",
+        "Technical and Digital Skills": [
+            "Statistical modeling",
+            "Data visualization using Tableau",
+            "Predictive analytics with R",
+            "Database querying with SQL"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Collaboration on analytics projects",
+            "Effective communication of technical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Regression analysis",
+            "Data-driven decision-making",
+            "Critical evaluation of business data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for analytics initiatives",
+            "Team coordination on analytics projects",
+            "Strategic planning for data-driven solutions"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "BNAL 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review skills",
+            "Data collection techniques",
+            "Data analysis methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Feedback incorporation",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research design",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project planning",
+            "Self-motivation"
+        ]
+    },
+    {
+        "courseCode": "BNAL 503",
+        "courseTitle": "Data Visualization and Exploration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to concepts and processes, technologies, and methodologies that are commonly used in data visualization that an organization may use to enhance its descriptive, predictive, and prescriptive methods for making fact-based decisions.",
+        "Technical and Digital Skills": [
+            "Data visualization tools (e.g., Tableau, Power BI)",
+            "Data querying and manipulation",
+            "Interactive dashboard creation",
+            "Data cleaning techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation",
+            "Collaboration with stakeholders for data interpretation",
+            "Clear communication of insights to non-technical audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying data patterns and trends",
+            "Data validation and verification",
+            "Selection of appropriate visualization types for different datasets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for data visualization projects",
+            "Prioritizing data visualization tasks based on business needs",
+            "Leading a team in data visualization projects"
+        ]
+    },
+    {
+        "courseCode": "BNAL 507",
+        "courseTitle": "Prescriptive Analytics of Management Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Students are introduced to prescriptive analytics through formulation and solution of mathematical models, with a particular focus on optimization models. The business use of the models, as well as their limitations, is emphasized. Topics include linear, integer, non-linear programming, network models, genetic algorithms, decision analysis, and project management models.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Optimization models",
+            "Linear programming",
+            "Integer programming",
+            "Non-linear programming",
+            "Network models",
+            "Genetic algorithms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in model formulation",
+            "Decision analysis",
+            "Project management modeling"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 515",
+        "courseTitle": "Advanced Business Analytics/Big Data Applications",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses advanced business analytics techniques and the application of such techniques to large data sets. Some alternative business analytics strategies are introduced. Descriptive, predictive, and prescriptive models are included. Topics covered in this course include data visualization and exploration, cluster analysis, and developing and calibrating predictive models for big data. Applications of multivariate, logistic, and probit regression to business analytics are discussed. Software packages such as SAS/JMP/SPSS may be used.",
+        "Technical and Digital Skills": [
+            "Data visualization",
+            "Cluster analysis",
+            "Predictive modeling",
+            "Multivariate regression",
+            "Logistic regression",
+            "Probit regression",
+            "SAS",
+            "JMP",
+            "SPSS"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Developing predictive models",
+            "Calibrating predictive models",
+            "Big data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 532",
+        "courseTitle": "Predictive Analytics for Business",
+        "academicLevel": "graduate",
+        "courseDescription": "Predictive analytics techniques for business. Applications include both shorter term forecasting for sales and operations management as well as forecasting for long term planning. Emphasis is on statistical methods to obtain and evaluate forecasts. Statistical models are implemented using standard software such as MINITAB, EXCEL, R, and/or Python.",
+        "Technical and Digital Skills": [
+            "Statistical modeling in MINITAB",
+            "Forecasting in EXCEL",
+            "Data analysis in R and Python"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting forecast evaluations",
+            "Collaborating on statistical projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating forecast accuracy",
+            "Identifying trends and patterns in data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for forecasting projects"
+        ]
+    },
+    {
+        "courseCode": "BNAL 576",
+        "courseTitle": "Simulation Modeling and Analysis for Business Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Simulation modeling is an integral part of the analytics revolution, enabling the creation of models that can represent the variability that exists in many real business systems. This course covers the theory and application of simulation modeling, with an emphasis on how simulation provides predictive and prescriptive analytics to support business decision-making. Topics include simulation fundamentals, the project life-cycle, model development, input and output analysis, verification and validation, and the presentation of a simulation study.  We utilize a major commercial simulation software package for assignments and class projects.",
+        "Technical and Digital Skills": [
+            "Simulation modeling software proficiency",
+            "Model development",
+            "Input and output analysis",
+            "Verification and validation",
+            "Utilizing commercial simulation software package"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Predictive analytics",
+            "Prescriptive analytics",
+            "Critical evaluation of simulation models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 606",
+        "courseTitle": "Statistics for Managers",
+        "academicLevel": "graduate",
+        "courseDescription": "Statistical tools for solving business problems.  Topics include: sampling distributions, confidence intervals, hypothesis testing, simple and multiple regressions, and time series forecasting.  Emphasis is placed on the application of the tools to business problems.  Microsoft Excel is used to do most of the analysis.",
+        "Technical and Digital Skills": [
+            "Statistical tools application in business",
+            "Microsoft Excel analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Sampling distributions analysis",
+            "Confidence intervals calculation",
+            "Hypothesis testing design",
+            "Regression analysis",
+            "Time series forecasting"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 610",
+        "courseTitle": "Fundamentals of Business Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with some common tools and techniques that are deployed in business analytics. Topics include big data and related terminology, data management, working with data, and statistical and quantitative methods used in descriptive, predictive, and prescriptive analytics.",
+        "Technical and Digital Skills": [
+            "Data management",
+            "Working with data",
+            "Statistical methods",
+            "Quantitative methods",
+            "Big data terminology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Descriptive analytics",
+            "Predictive analytics",
+            "Prescriptive analytics",
+            "Critical evaluation of data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": [
+            "Enrollment approval process understanding",
+            "Credit determination process knowledge",
+            "Departmental regulations comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with Career Development Services",
+            "Collaboration with departmental staff for enrollment",
+            "Professional email etiquette in requesting approvals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying allowable credits for enrollment",
+            "Resolving issues related to enrollment approval",
+            "Analyzing departmental requirements for course selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating with Career Development Services for credit approval",
+            "Leading discussions on course selection with department representatives",
+            "Organizing documentation for enrollment process"
+        ]
+    },
+    {
+        "courseCode": "BNAL 668",
+        "courseTitle": "Internship in Business Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": [
+            "Data visualization using Tableau",
+            "Advanced Excel functions for data analysis",
+            "SQL queries for database manipulation",
+            "Python programming for data processing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights to diverse audiences",
+            "Collaborative data analysis with team members",
+            "Effective communication of technical concepts to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Predictive modeling for business forecasting",
+            "Identifying patterns in large datasets",
+            "Optimizing data processing workflows for efficiency"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for data analytics projects",
+            "Delegating tasks effectively within a team",
+            "Providing guidance on data-driven decision-making processes"
+        ]
+    },
+    {
+        "courseCode": "BNAL 695",
+        "courseTitle": "Selected Topics in Business Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in business analytics offered periodically.",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Predictive modeling using machine learning algorithms",
+            "Big data processing with Hadoop or Spark",
+            "Data mining and pattern recognition methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex analytical findings to non-technical stakeholders",
+            "Collaborating with cross-functional teams on analytics projects",
+            "Effective communication of data-driven recommendations to decision-makers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced statistical analysis for business decision-making",
+            "Optimization modeling for resource allocation and process improvement",
+            "Critical evaluation of data sources and modeling assumptions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading data-driven initiatives within an organization",
+            "Strategic planning for leveraging analytics to achieve business objectives",
+            "Managing and prioritizing multiple analytics projects concurrently"
+        ]
+    },
+    {
+        "courseCode": "BNAL 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data collection techniques",
+            "Data analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Presentation skills for final project",
+            "Collaboration with peers for feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research design",
+            "Identifying research gaps",
+            "Troubleshooting data analysis issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project planning and execution",
+            "Taking initiative in research direction"
+        ]
+    },
+    {
+        "courseCode": "BNAL 711",
+        "courseTitle": "Multivariate Statistical Methods for Business",
+        "academicLevel": "graduate",
+        "courseDescription": "An applied study of statistical methods including analysis of variance, cross-sectional multiple regression, time series regression, panel data methods, discriminant analysis, and generalized linear models. Data analyzed using a computerized statistical package. Emphasizes development of the student's ability to use statistics for independent research.",
+        "Technical and Digital Skills": [
+            "Analysis of variance",
+            "Multiple regression analysis",
+            "Time series regression",
+            "Panel data methods",
+            "Discriminant analysis",
+            "Generalized linear models",
+            "Statistical package proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Independent research using statistics",
+            "Data analysis skills"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 712",
+        "courseTitle": "Advanced Statistical Models in Business Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced statistical models that are commonly encountered in business research.  Topics include confirmatory factor analysis as well as structural equation modeling.  Emphasis is on model development as well as use of statistical software in analyzing realistic business-oriented data sets.",
+        "Technical and Digital Skills": [
+            "Confirmatory factor analysis",
+            "Structural equation modeling",
+            "Statistical software proficiency",
+            "Data analysis using realistic business-oriented datasets"
+        ],
+        "Interpersonal and Communication Skills": [],
+        "Problem-Solving and Analytical Skills": [
+            "Model development",
+            "Statistical analysis of data",
+            "Critical evaluation of statistical models"
+        ],
+        "Organizational and Leadership Skills": []
+    },
+    {
+        "courseCode": "BNAL 721",
+        "courseTitle": "Simulation Modeling for Business and Supply Chain Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers both the theory and application of simulation modeling and analysis to business, supply chain, and logistics systems. Both discrete-event and continuous simulation modeling approaches are covered, using a major commercial simulation package.  Emphasis will be on the use of simulation as a tool to support  business, supply chain, and logistics decision making.",
+        "Technical and Digital Skills": [
+            "Discrete-event simulation modeling",
+            "Continuous simulation modeling",
+            "Application of simulation software",
+            "Data analysis for decision making in business and supply chain",
+            "Logistics systems analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting simulation results to stakeholders",
+            "Collaborating on simulation projects with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of simulation outcomes",
+            "Identifying optimization opportunities in business and supply chain processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading simulation modeling projects",
+            "Coordinating logistics simulation efforts within a team"
+        ]
+    },
+    {
+        "courseCode": "BNAL 722",
+        "courseTitle": "Agent-Based Simulation and Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore both the conceptual and technical aspects of agent-based simulation, particularly as utilized for modeling of business systems.  Students will explore the roots and literature of agent-based modeling and related fields.  Students will also learn to develop agent-based simulation models using a major commercial simulation package.",
+        "Technical and Digital Skills": [
+            "Agent-based simulation development",
+            "Commercial simulation package usage",
+            "Modeling of business systems",
+            "Conceptual understanding of agent-based simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Literature review in agent-based modeling",
+            "Critical analysis of simulation results",
+            "Development of simulation models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 796",
+        "courseTitle": "Selected Topics in Business Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics not offered on a regular basis.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical thinking in data analysis, Advanced statistical modeling, Data-driven decision-making",
+        "Organizational and Leadership Skills": "Project management in data analytics, Team coordination for data projects, Strategic planning in business analytics"
+    },
+    {
+        "courseCode": "BNAL 821",
+        "courseTitle": "Simulation Modeling for Business and Supply Chain Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers both the theory and application of simulation modeling and analysis to business, supply chain, and logistics systems. Both discrete-event and continuous simulation modeling approaches are covered, using a major commercial simulation package.  Emphasis will be on the use of simulation as a tool to support  business, supply chain, and logistics decision making.",
+        "Technical and Digital Skills": [
+            "Discrete-event simulation modeling",
+            "Continuous simulation modeling",
+            "Application of simulation packages",
+            "Logistics systems analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making support using simulation",
+            "Critical evaluation of simulation results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BNAL 822",
+        "courseTitle": "Agent-Based Simulation and Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore both the conceptual and technical aspects of agent-based simulation, particularly as utilized for modeling of business systems.  Students will explore the roots and literature of agent-based modeling and related fields.  Students will also learn to develop agent-based simulation models using a major commercial simulation package.",
+        "Technical and Digital Skills": [
+            "Agent-based simulation development",
+            "Business systems modeling",
+            "Commercial simulation package proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Literature review in agent-based modeling",
+            "Conceptual understanding of agent-based simulation",
+            "Critical analysis of simulation models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

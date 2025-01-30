@@ -1,0 +1,497 @@
+[
+    {
+        "courseTitle": "Elements of Data Science",
+        "courseCode": "BDA 200T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers a non-technical introduction to the emerging and interdisciplinary area of data science. Students will be introduced to the development, fundamental tools, and the impact of data science in a wide range of disciplines such as business, the sciences and engineering. Fundamental data visualization techniques and basic concepts of machine learning will be applied through real-life data science projects. Moreover, students will explore the general framework for ethical thinking and practicing data science, the current challenges, the benefits, the potential harms and risks posed by developing data science models and technology.",
+        "Technical and Digital Skills": [
+            "Data visualization techniques",
+            "Machine learning concepts",
+            "Ethical data science practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Collaborating on real-life data science projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of data",
+            "Identifying potential harms and risks in data science models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing data science projects",
+            "Understanding the general framework for ethical data science"
+        ]
+    },
+    {
+        "courseTitle": "Programming Languages for Data Science",
+        "courseCode": "BDA 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course on programming languages and tools which are relevant to data analytics. Each language or tool is introduced as a separate module and incorporates applications in mathematics and statistics. Examples of included programming languages and tools are MATLAB, Python, R and SAS. Additional languages and tools may be covered based on current trends in data analytics. Students will complete hands-on programming assignments throughout the course.",
+        "Technical and Digital Skills": [
+            "MATLAB programming",
+            "Python programming",
+            "R programming",
+            "SAS programming",
+            "Hands-on programming assignments"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical applications in programming languages",
+            "Statistical applications in programming languages",
+            "Critical thinking in data analytics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Machine Learning",
+        "courseCode": "BDA 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course on machine learning. Machine Learning is the science of discovering pattern and structure and making predictions in data sets. It lies at the interface of mathematics, statistics and computer science. The course gives an elementary summary of modern machine learning tools. Topics include regression, classification, regularization, resampling methods, and unsupervised learning. Students enrolled are expected to have some ability to write computer programs, some knowledge of probability, statistics and linear algebra.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "Machine learning algorithms implementation",
+            "Data preprocessing techniques",
+            "Model evaluation and optimization methods",
+            "Mathematical understanding of regression and classification algorithms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex ML concepts to non-technical stakeholders",
+            "Collaborating with team members on ML projects",
+            "Presenting findings from ML models to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns in data sets",
+            "Selecting appropriate ML algorithms for specific tasks",
+            "Optimizing model performance through iterative experimentation",
+            "Troubleshooting errors in ML algorithms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing ML project timelines and resources",
+            "Coordinating team efforts in developing ML solutions",
+            "Setting priorities in ML project tasks"
+        ]
+    },
+    {
+        "courseTitle": "Modern Statistical Methods for Big Data Analytics",
+        "courseCode": "BDA 431/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The statistical perspective of data mining is emphasized for majority of the course. Both applied aspects (programming, problem solving, and data analysis) and theoretical concepts (learning, understanding, and evaluating methodologies) of data mining will be covered. Topics include Regularization and Kernel Smoothing Methods, Tree-based Methods, Neural Networks and optional topics such as deep learning.",
+        "Technical and Digital Skills": [
+            "Programming in R",
+            "Data mining techniques",
+            "Regularization methods",
+            "Kernel smoothing methods",
+            "Tree-based methods",
+            "Neural Networks",
+            "Deep learning concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of methodologies",
+            "Problem-solving in data analysis",
+            "Statistical perspective in data mining"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Optimization in Data Science",
+        "courseCode": "BDA 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics considered include the solution of non-smooth optimization problems arising in data science, including unconstrained and constrained optimization problems, Lagrange multiplier methods, inequality constraints, Kuhn-Tucker conditions, and applications. Also considered are linear and nonlinear inverse problems, regularization of ill-posed problem including singular value decomposition, and Tikhonov regularization methods and sparse regularization methods,  inverse eigenvalue problems and applications such as compressed sensing, image reconstruction and machine learning.",
+        "Technical and Digital Skills": [
+            "Non-smooth optimization",
+            "Unconstrained optimization",
+            "Constrained optimization",
+            "Lagrange multiplier methods",
+            "Inequality constraints",
+            "Kuhn-Tucker conditions",
+            "Linear inverse problems",
+            "Nonlinear inverse problems",
+            "Regularization of ill-posed problems",
+            "Singular value decomposition",
+            "Tikhonov regularization methods",
+            "Sparse regularization methods",
+            "Inverse eigenvalue problems",
+            "Compressed sensing",
+            "Image reconstruction",
+            "Machine learning applications"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of optimization solutions",
+            "Application of optimization techniques to real-world problems",
+            "Identification of optimal solutions",
+            "Data-driven decision-making"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Senior Project in Big Data Analytics I",
+        "courseCode": "BDA 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to practical applications of big data analytics. Lecture topics include an overview of the various topics in business, engineering, and government currently using big data analytics. Students will choose a project involving a real world application to explore techniques learned during other course work. Course involves written and oral presentations for students to improve communication and teamwork skills.",
+        "Technical and Digital Skills": [
+            "Big data analytics tools (e.g., Hadoop, Spark)",
+            "Data preprocessing techniques",
+            "Machine learning algorithms for big data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written and oral presentation skills for project findings",
+            "Team collaboration in project development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns and trends in large datasets",
+            "Optimizing algorithms for big data processing",
+            "Troubleshooting data quality issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for big data projects",
+            "Delegating tasks within a project team",
+            "Setting project timelines and milestones"
+        ]
+    },
+    {
+        "courseTitle": "Senior Project in Big Data Analytics II",
+        "courseCode": "BDA 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course allows the student to pursue an in-depth exploration of a project initiated in BDA 450. The course involves written and oral presentations for students to improve communication and teamwork skills.",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Machine learning algorithms implementation",
+            "Big data processing frameworks (e.g., Hadoop, Spark)",
+            "Data cleaning and preprocessing methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written and oral presentation skills",
+            "Team collaboration on project tasks",
+            "Providing constructive feedback to team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced data interpretation and analysis",
+            "Identifying patterns and trends in large datasets",
+            "Optimizing algorithms for performance improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills for big data projects",
+            "Delegating tasks and responsibilities within a team",
+            "Leading team meetings and discussions"
+        ]
+    },
+    {
+        "courseCode": "BDA 501",
+        "courseTitle": "Programming Languages for Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory course on programming languages and tools which are relevant to data analytics. Each language or tool is introduced as a separate module and incorporates applications in mathematics and statistics. Examples of included programming languages and tools are MATLAB, Python, R and SAS. Additional languages and tools may be covered based on current trends in data analytics. Students will complete hands-on programming assignments throughout the course.",
+        "Technical and Digital Skills": [
+            "MATLAB programming",
+            "Python programming",
+            "R programming",
+            "SAS programming",
+            "Data analytics tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical concepts",
+            "Collaborative coding on programming assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical applications in programming languages",
+            "Statistical analysis using programming languages",
+            "Hands-on programming assignments solving real-world data problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution for programming assignments",
+            "Time management for completing hands-on assignments"
+        ]
+    },
+    {
+        "courseCode": "BDA 511",
+        "courseTitle": "Introduction to Machine Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory course on machine learning. Machine Learning is the science of discovering pattern and structure and making predictions in data sets. It lies at the interface of mathematics, statistics and computer science. The course gives an elementary summary of modern machine learning tools. Topics include regression, classification, regularization, resampling methods, and unsupervised learning. Students enrolled are expected to have some ability to write computer programs, some knowledge of probability, statistics and linear algebra.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "Data manipulation using Pandas",
+            "Regression analysis",
+            "Classification algorithms",
+            "Regularization techniques",
+            "Resampling methods",
+            "Unsupervised learning methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining machine learning concepts to non-technical audiences",
+            "Collaborating on machine learning projects with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns and structures in data sets",
+            "Making predictions based on data analysis",
+            "Evaluating the performance of machine learning models",
+            "Understanding and applying probability theory"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing machine learning projects timelines and tasks",
+            "Leading a team in implementing machine learning solutions"
+        ]
+    },
+    {
+        "courseCode": "BDA 531",
+        "courseTitle": "Modern Statistical Methods for Big Data Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "The statistical perspective of data mining is emphasized for majority of the course. Both applied aspects (programming, problem solving, and data analysis) and theoretical concepts (learning, understanding, and evaluating methodologies) of data mining will be covered. Topics include Regularization and Kernel Smoothing Methods, Tree-based Methods, Neural Networks and optional topics such as deep learning.",
+        "Technical and Digital Skills": [
+            "Statistical data mining",
+            "Programming skills (e.g., Python)",
+            "Regularization methods",
+            "Kernel smoothing methods",
+            "Tree-based methods",
+            "Neural networks",
+            "Deep learning concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in data analysis",
+            "Critical evaluation of methodologies",
+            "Data interpretation and evaluation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 532",
+        "courseTitle": "Introduction to Optimization in Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics considered include the solution of non-smooth optimization problems arising in data science, including unconstrained and constrained optimization problems, Lagrange multiplier methods, inequality constraints, Kuhn-Tucker conditions, and applications. Also considered are linear and nonlinear inverse problems, regularization of ill-posed problem including singular value decomposition, and Tikhonov regularization methods and sparse regularization methods,  inverse eigenvalue problems and applications such as compressed sensing, image reconstruction and machine learning.",
+        "Technical and Digital Skills": [
+            "Optimization problem solving",
+            "Lagrange multiplier methods",
+            "Inverse problems solving",
+            "Regularization methods (Tikhonov, sparse)",
+            "Eigenvalue problems solving",
+            "Compressed sensing applications",
+            "Image reconstruction techniques",
+            "Machine learning optimization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of optimization solutions",
+            "Constraint handling in optimization problems",
+            "Non-smooth optimization problem solving",
+            "Singular value decomposition understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 611",
+        "courseTitle": "Mathematical Foundations of Machine Learning",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce mathematical foundations of machine learning theory and algorithms. Topics include statistical learning theory, kernel methods and generative models. Some modern machine learning methods such as dictionary learning, deep learning, online learning, and reinforcement learning may also be included, time permitting. Students enrolled are expected to have some knowledge of probability, linear algebra, optimization, and analysis.",
+        "Technical and Digital Skills": [
+            "Probability theory application",
+            "Linear algebra knowledge",
+            "Optimization techniques",
+            "Statistical learning theory understanding",
+            "Kernel methods implementation",
+            "Generative models creation",
+            "Dictionary learning",
+            "Deep learning algorithms",
+            "Online learning strategies",
+            "Reinforcement learning basics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of machine learning algorithms",
+            "Problem-solving in complex mathematical models",
+            "Understanding and solving optimization problems",
+            "Statistical analysis of data",
+            "Analyzing and interpreting machine learning results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 620",
+        "courseTitle": "Large-Scale Optimization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce optimization methods for large-scale problems by exploiting special structures including convexity and sparsity. Topics include introduction to convexity, gradient-related methods, dual methods, sparse optimization methods and nonconvex optimization methods. Students enrolled are expected to have some knowledge of linear algebra, optimization, probability, and analysis.",
+        "Technical and Digital Skills": [
+            "Linear algebra proficiency",
+            "Optimization techniques knowledge",
+            "Probability understanding",
+            "Analysis skills"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Convex optimization",
+            "Gradient methods application",
+            "Dual methods implementation",
+            "Sparse optimization strategies",
+            "Nonconvex optimization approaches"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 632",
+        "courseTitle": "Computational Data Analytics Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Under the guidance of a faculty member in the Department of Mathematics and Statistics, the student will undertake a significant computational data analysis problem. A written report and/or public presentation of results will be required.",
+        "Technical and Digital Skills": [
+            "Data preprocessing techniques",
+            "Machine learning algorithms implementation",
+            "Data visualization using tools like Tableau or Matplotlib"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of data analysis results",
+            "Collaborative software development using platforms like Git"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Feature engineering",
+            "Optimization techniques for model performance improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for data analytics projects",
+            "Team coordination for collaborative problem-solving"
+        ]
+    },
+    {
+        "courseCode": "BDA 640",
+        "courseTitle": "Genomic Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Introductory discussion on central dogma of molecular biology, concepts of transcription, translation, gene regulation, and the need for high throughput methods. Other topics covered are Introduction to R and Bioconductor, Advanced microarray data analysis, NGS data analysis using edgeR in Bioconductor, Network Biology, sequence, pathway informatics, SNPs, GWAS, informatics for genome variants.",
+        "Technical and Digital Skills": [
+            "R programming for genomic data analysis",
+            "Bioconductor usage for NGS data analysis",
+            "Microarray data analysis techniques",
+            "SNP and GWAS analysis methods",
+            "Sequence and pathway informatics",
+            "Informatics for genome variants"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of genomic data",
+            "Network biology analysis",
+            "EdgeR analysis for NGS data",
+            "Transcription and translation understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 721",
+        "courseTitle": "High-Dimensional Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Techniques for obtaining basic tail bounds and concentration inequalities, uniform laws of large numbers, Rademacher complexity of a set, covering and packing in metric spaces, and metric entropy. Also, high dimensional random matrices described in a non-asymptotic framework, with a focus on the estimation of sparse and structured covariance matrix, are studied. The sparse linear regression models and the principal component analysis in the unstructured and sparse setting will be covered.",
+        "Technical and Digital Skills": [
+            "Tail bounds and concentration inequalities",
+            "Rademacher complexity analysis",
+            "Estimation of sparse covariance matrix",
+            "Structured covariance matrix estimation",
+            "Sparse linear regression modeling",
+            "Principal component analysis in unstructured and sparse setting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Metric space covering and packing",
+            "Metric entropy analysis",
+            "Non-asymptotic framework understanding",
+            "High dimensional random matrices interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 731",
+        "courseTitle": "Applied Functional Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the statistical analysis of sample curves or functions. Topics include smoothing, registration, functional principal component analysis, scalar-on-function regression, and functional response models. All these techniques will be applied using the statistical software R.",
+        "Technical and Digital Skills": [
+            "Statistical analysis of sample curves",
+            "Smoothing techniques",
+            "Registration methods",
+            "Functional principal component analysis",
+            "Scalar-on-function regression",
+            "Functional response models",
+            "R programming for data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation for curves or functions",
+            "Identifying patterns in functional data",
+            "Model selection for functional data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 745",
+        "courseTitle": "Transform Methods for Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Various transform methods from the data domain to coefficients of the data in certain discrete bases are studied. Transforms studied include FFT, DCT, wavelet transforms and framelet transform. Both theory and applications of these transforms are covered.",
+        "Technical and Digital Skills": [
+            "Fast Fourier Transform (FFT) implementation",
+            "Discrete Cosine Transform (DCT) application",
+            "Wavelet transforms coding",
+            "Framelet transform analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Signal processing for data interpretation",
+            "Comparative analysis of transform methods",
+            "Error analysis in transform algorithms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 821",
+        "courseTitle": "High-Dimensional Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Techniques for obtaining basic tail bounds and concentration inequalities, uniform laws of large numbers, Rademacher complexity of a set, covering and packing in metric spaces, and metric entropy. Also, high dimensional random matrices described in a non-asymptotic framework, with a focus on the estimation of sparse and structured covariance matrix are studied. The sparse linear regression models and the principal component analysis in the unstructured and sparse setting will be covered.",
+        "Technical and Digital Skills": [
+            "Rademacher complexity analysis",
+            "estimation of covariance matrix",
+            "sparse linear regression modeling",
+            "principal component analysis in high dimensions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Concentration inequalities application",
+            "metric entropy calculation",
+            "sparse matrix estimation",
+            "structured covariance matrix analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 831",
+        "courseTitle": "Applied Functional Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the statistical analysis of sample curves or functions. Topics include smoothing, registration, functional principal component analysis, scalar-on-function regression, functional response models. All these techniques will be applied using the statistical software R.",
+        "Technical and Digital Skills": [
+            "Statistical software R proficiency",
+            "Smoothing techniques implementation",
+            "Functional principal component analysis application",
+            "Scalar-on-function regression coding"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Curves or functions registration problem-solving",
+            "Functional response model development",
+            "Data analysis for sample curves"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BDA 845",
+        "courseTitle": "Transform Methods for Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Various transform methods from the data domain to coefficients of the data in certain discrete bases are studied. Transforms studied include FFT, DCT, wavelet transforms and framelet transform. Both theory and applications of these transforms are covered.",
+        "Technical and Digital Skills": [
+            "Fast Fourier Transform (FFT)",
+            "Discrete Cosine Transform (DCT)",
+            "Wavelet transforms",
+            "Framelet transform",
+            "Signal processing techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Signal decomposition",
+            "Data transformation techniques",
+            "Mathematical analysis of transforms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

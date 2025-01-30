@@ -1,0 +1,95 @@
+[
+    {
+        "courseTitle": "Introduction to the College of Sciences",
+        "courseCode": "SCI 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Presents the relationship between majors in the College of Sciences and the student's career goals for students planning to major in a science.  Provides an orientation to the University emphasizing the learning skills needed for science majors.",
+        "Technical and Digital Skills": [
+            "Understanding of scientific principles",
+            "Application of scientific studies to career goals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of scientific concepts",
+            "Collaboration in a scientific academic setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for scientific studies",
+            "Problem-solving in scientific contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for science majors",
+            "Organizational skills for scientific academic work"
+        ]
+    },
+    {
+        "courseTitle": "The Evolution of Modern Science",
+        "courseCode": "SCI 302T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course outlines the history of science from Aristotle to the present.  Scientific progress has always been coupled with human progress and subject to the politics and culture of the times.  Scientists, in most instances, have been in the mainstream of society.  But, because of their curiosity and innovation, scientists have often clashed with the prevailing culture. (Cross-listed with HIST 386T).",
+        "Technical and Digital Skills": [
+            "Historical research methods",
+            "Critical assessment of scientific literature",
+            "Understanding of scientific methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of complex scientific ideas",
+            "Discussion and debate of historical scientific theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and scientific texts",
+            "Critical evaluation of scientific progress",
+            "Understanding the connection between science and society"
+        ],
+        "Organizational and Leadership Skills": [
+            "Balancing curiosity and innovation with societal norms",
+            "Understanding the role and influence of scientists in society"
+        ]
+    },
+    {
+        "courseTitle": "Responsible Conduct of Research",
+        "courseCode": "SCI 347",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Responsible conduct of research is essential to good science and promoting public confidence in scientific knowledge.  This course will introduce students to responsible conduct of science and scientific research by exploring ethical and professional principles associated with the practice of research.",
+        "Technical and Digital Skills": [
+            "Understanding of scientific research principles",
+            "Knowledge of ethical guidelines in scientific research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining ethical principles",
+            "Promoting public confidence in scientific knowledge"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of ethical dilemmas in research",
+            "Critical evaluation of research conduct"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promotion of responsible research conduct",
+            "Maintaining professional principles in research"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in Math and Sciences",
+        "courseCode": "SCI 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes the tools and techniques used to solve scientific problems. Topics include use and design of experiments, use of statistics to interpret experimental results,mathematical modeling of scientific phenomena, and oral and written presentation of results. Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems.",
+        "Technical and Digital Skills": [
+            "Use of scientific tools and techniques",
+            "Design of experiments",
+            "Use of statistics to interpret experimental results",
+            "Mathematical modeling of scientific phenomena"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of results",
+            "Written presentation of results",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving using mathematics and science",
+            "Analyzing and interpreting experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent inquiries",
+            "Planning and organizing research"
+        ]
+    }
+]

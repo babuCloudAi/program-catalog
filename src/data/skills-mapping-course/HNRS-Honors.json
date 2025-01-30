@@ -1,0 +1,609 @@
+[
+    {
+        "courseTitle": "Honors General Education Abroad (Humanities)",
+        "courseCode": "HNRS 100",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Taught in an international setting, special honors sections of general education courses meeting one of the following lower-division general education requirements:  oral communication, information literacy, language and culture, literature, human creativity, human behavior, interpreting the past, the impact of technology, or philosophy and ethics.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Understanding the impact of technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication",
+            "Cultural communication",
+            "Understanding human behavior"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Literature analysis",
+            "Interpreting historical events",
+            "Philosophical reasoning",
+            "Ethical decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing information",
+            "Leading discussions"
+        ]
+    },
+    {
+        "courseTitle": "Honors General Education Abroad (Sciences)",
+        "courseCode": "HNRS 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Taught in an international setting, special honors sections of general education courses meeting one of the following lower-division general education requirements: mathematical skills, information literacy, the nature of science, and the impact of technology.",
+        "Technical and Digital Skills": [
+            "Mathematical computations",
+            "Information literacy",
+            "Understanding of scientific principles",
+            "Technology impact analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presenting scientific findings",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Scientific analysis",
+            "Technological problem-solving",
+            "Mathematical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in international settings",
+            "Leadership in cross-cultural settings"
+        ]
+    },
+    {
+        "courseTitle": "Engineering Student Success",
+        "courseCode": "HNRS 109",
+        "academicLevel": "undergraduate",
+        "courseDescription": "For Perry Honors College students, the course introduces students to the engineering profession. The course covers math skills with engineering applications, as well as study skills and strategies for a successful transition into college. An application-oriented, hands-on approach to reinforce math topics used in core engineering courses will be used in the course. The course prepares prospective engineering majors for ENGN 110. This course does not count towards Batten College of Engineering & Technology graduation credit.",
+        "Technical and Digital Skills": [
+            "Engineering math applications",
+            "Hands-on engineering core topics",
+            "Study skills for engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in engineering context",
+            "Analytical math skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Transition strategies into college",
+            "Preparation for advanced engineering courses"
+        ]
+    },
+    {
+        "courseTitle": "Peer Education and Leadership",
+        "courseCode": "HNRS 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students for work as peer mentors and tutors.  Students will develop skills in information literacy and research as they learn how to create and implement individualized student success/academic plans for themselves and others.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Research techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer mentoring",
+            "Tutoring",
+            "Creation of individualized student success/academic plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of personalized learning strategies",
+            "Assessment of peer academic needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of individualized student success/academic plans",
+            "Leadership in peer education"
+        ]
+    },
+    {
+        "courseTitle": "Monarch Think Tank I",
+        "courseCode": "HNRS 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The Monarch Think Tank draws students from all disciplines to collaborate with each other, faculty and community members as they design project-based solutions to pertinent social issues.  Think Tank topics vary each year.  Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Project-based solution design",
+            "Interdisciplinary collaboration",
+            "Field research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem-solving",
+            "Effective communication with diverse groups",
+            "Group facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Social issue analysis",
+            "In-depth research",
+            "Solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in collaborative environments",
+            "Strategic planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Research Apprenticeship",
+        "courseCode": "HNRS 226",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The Research Apprenticeship offers students the opportunity to develop and acquire skills in research and information literacy through active involvement in ongoing research programs or in research projects under the supervision of a faculty mentor. Experiences may include but are not limited to gathering and analyzing information to develop proposals, survey construction, stakeholder identification, stimulus development, quantitative and qualitative data collection, statistical analysis, writing reports, and presenting results. Available research projects/programs will vary each semester. Interested students should consult with the Honors College Dean and visit the Honors College website for more information about research apprenticeship opportunities: http://www.odu.edu/ao/honors.",
+        "Technical and Digital Skills": [
+            "Research and information literacy",
+            "Survey construction",
+            "Stimulus development",
+            "Quantitative and qualitative data collection",
+            "Statistical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder identification",
+            "Writing reports",
+            "Presenting results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Gathering and analyzing information to develop proposals",
+            "Data interpretation",
+            "Problem identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Active participation in ongoing research programs",
+            "Collaborating with faculty mentor"
+        ]
+    },
+    {
+        "courseTitle": "Media and Info Literacy in the Google Age",
+        "courseCode": "HNRS 250G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This information literacy course focuses on communication technology and our sources for information, including digital, print, and non-print sources.  By focusing on the credibility control, privacy, and ownership of information, students will learn to identify an information need, then locate, evaluate, and use resources effectively and responsibly.  The course will enhance students' knowledge, evaluation, and use of scholarly and popular media material in the 21st century so that they might become well-informed critical thinkers, professionals, and citizens.",
+        "Technical and Digital Skills": [
+            "Identifying credible online sources",
+            "Use of search engines for information gathering",
+            "Understanding of digital privacy and information ownership",
+            "Differentiating between scholarly and popular media material"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying information effectively and responsibly",
+            "Understanding and respecting information ownership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying information needs",
+            "Critical evaluation of digital and non-digital sources",
+            "Effective use and interpretation of diverse information resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing digital information responsibly",
+            "Taking informed decisions based on evaluated information"
+        ]
+    },
+    {
+        "courseTitle": "Great Book Seminar",
+        "courseCode": "HNRS 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A 'Great Book' Seminar is a small (5-10 student), discussion-based class focused on a book that makes a difference, a work that has changed and influenced the ways people live and continue to think about themselves, others, and the world.  Led by a faculty mentor, students will develop their information literacy by interpreting, communicating, problem-solving, and charitably listening to a variety of viewpoints.  Faculty and student mentors will select the book read in this course.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Digital reading and interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Charitable listening",
+            "Communicating diverse viewpoints"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis",
+            "Problem-solving through interpretation",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership through facilitation",
+            "Organizing group discussions",
+            "Collaborative selection of reading materials"
+        ]
+    },
+    {
+        "courseTitle": "Monarch Think Tank II",
+        "courseCode": "HNRS 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The Monarch Think Tank draws students from all disciplines to collaborate with each other, faculty and community members as they design project-based solutions to pertinent social issues.  Think Tank topics vary each year.  Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Project-based solution design",
+            "Conducting field research",
+            "Analyzing social issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem-solving",
+            "Cross-disciplinary communication",
+            "Group presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying pertinent social issues",
+            "Analyzing complex topics",
+            "Evaluating potential solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading project teams",
+            "Planning and executing off-campus trips",
+            "Coordinating interdisciplinary collaboration"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Research Apprenticeship II",
+        "courseCode": "HNRS 326",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Research apprenticeship with a faculty member, assisting a faculty member in the development and execution of research. May be repeated to 9 credit hours maximum.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty",
+            "Clear and effective communication",
+            "Research reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem-solving",
+            "Critical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leadership in research context"
+        ]
+    },
+    {
+        "courseTitle": "Honors Internship",
+        "courseCode": "HNRS 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internship credit is available for Perry Honors College students who have secured an internship outside of their field of study or students that are not offered internship credit through their department.",
+        "Technical and Digital Skills": [
+            "Adapting to new technologies",
+            "Quick learning of field-specific software and tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with different professional groups",
+            "Networking",
+            "Collaboration in a diverse environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification in a new field",
+            "Applying knowledge from own field of study to solve problems in a different context",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Adapting to new organizational structures",
+            "Showing initiative"
+        ]
+    },
+    {
+        "courseTitle": "Evolution of Modern Science",
+        "courseCode": "HNRS 386T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A section of SCI 302T/HIST 386T for Perry Honors College students, this course outlines the history of science from Aristotle to the present. Scientific progress has always been coupled with human progress and subject to the politics and culture of the times. Scientists, in most instances, have been in the mainstream of society. But, because of their curiosity and innovation, scientists have often clashed with the prevailing culture.",
+        "Technical and Digital Skills": [
+            "Historical analysis of scientific progress",
+            "Understanding of scientific innovation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical examination of societal impacts on science",
+            "Understanding the role of scientists in society"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of science's influence on culture and politics",
+            "Evaluation of historical scientific conflicts and resolutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the dynamics of scientific leadership within societal context",
+            "Assessment of leadership roles in scientific innovation"
+        ]
+    },
+    {
+        "courseTitle": "Honors Civic Learning Project",
+        "courseCode": "HNRS 387",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students volunteer for 45 hours of work, keep a work experience journal reflecting on their day-to-day experiences as a volunteer, and write a short paper detailing how the experience helped them to identify, revise and accomplish future learning and career goals.",
+        "Technical and Digital Skills": [
+            "Journaling",
+            "Writing formal reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Volunteer coordination",
+            "Active listening",
+            "Verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Goal setting",
+            "Self-reflection",
+            "Career planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project management",
+            "Leadership in volunteer settings"
+        ]
+    },
+    {
+        "courseTitle": "McNair Summer Research Institute",
+        "courseCode": "HNRS 389",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This research course is open only to TRiO McNair Scholars. During this 8-week course, students will acquire basic skills in research to include understanding research ethics, developing technical writing skills, and effectively disseminating their research. Students will demonstrate an understanding of research methodology, prepare a written literature review, construct their research proposal, and perform statistical analyses. Course instructors, faculty mentors, and the graduate assistant serving as the research and writing coach will offer individualized support to students in the completion of their research projects.",
+        "Technical and Digital Skills": [
+            "Understanding research ethics",
+            "Technical writing",
+            "Research methodology",
+            "Literature review writing",
+            "Research proposal construction",
+            "Statistical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective dissemination of research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Data interpretation",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Independent learning",
+            "Work with academic mentors"
+        ]
+    },
+    {
+        "courseTitle": "McNair Senior Seminar",
+        "courseCode": "HNRS 390",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is open only to TRiO McNair Scholars. The purpose of this course is to prepare students for applying for admission into graduate programs and provide critical strategies for thriving at the graduate level and as a professional. Students will receive support in identifying the essential components of a graduate school application and establishing a clear understanding of how to prepare and succeed as a graduate student.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective written and oral communication for graduate school applications",
+            "Networking in a professional setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying key components of a graduate school application",
+            "Developing strategies for thriving in graduate school and in a professional setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and preparing for graduate school",
+            "Time management and organization for graduate studies"
+        ]
+    },
+    {
+        "courseTitle": "Honors Topics",
+        "courseCode": "HNRS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics. Honors Topics courses are designed to help students to make connections between academic knowledge and relevant experience, observe connections across disciplines, as well as adapt/apply skills, abilities, theories or methodologies gained in one situation to meet the needs of new situations. These courses are open to non-honors students with at least a 3.25 cumulative GPA. Courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Adaptation of diverse academic theories",
+            "Cross-disciplinary understanding",
+            "Application of academic knowledge to new situations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration across disciplines",
+            "Clear communication of adapted theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptive problem solving",
+            "Analytical application of academic theories",
+            "Cross-disciplinary analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptive leadership",
+            "Organization of cross-disciplinary knowledge"
+        ]
+    },
+    {
+        "courseTitle": "Honors Topics (Study Abroad)",
+        "courseCode": "HNRS 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics examined in an international setting. Honors Topics Abroad courses are designed to help students gain new perspectives on their fields of study, develop intercultural competencies and communication skills, and engage with situations and questions that challenge their own assumptions/values. These courses are open to non-honors students with a cumulative GPA of at least 3.25. Courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Development of intercultural competencies",
+            "Improvement of international communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Engaging with challenging situations",
+            "Questioning and challenging personal assumptions/values"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adapting to unfamiliar environments",
+            "Leading discussions in an international setting"
+        ]
+    },
+    {
+        "courseTitle": "Honors ePortfolio",
+        "courseCode": "HNRS 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Recommended for juniors and seniors in the Perry Honors College, this course explores ways to showcase and reflect on the students' curricular and extracurricular honor education--showing the progression of their learning, experiences, and accomplishments that leads to where they want to go in life.  This is a guided opportunity to assist students in fulfilling their honors ePortfolio requirement and to develop their social media profiles.",
+        "Technical and Digital Skills": [
+            "ePortfolio creation",
+            "Social media profile development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Self-reflection",
+            "Showcasing accomplishments",
+            "Communicating personal progression"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing personal learning progress",
+            "Determining future career paths"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing curricular and extracurricular activities",
+            "Leading personal career development"
+        ]
+    },
+    {
+        "courseTitle": "Social Entrepreneurship",
+        "courseCode": "HNRS 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class draws students from all disciplines to collaborate with each other, faculty, and community members as they co-design project-based solutions to pertinent social issues. Topics related to social entrepreneurship vary each year. Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings, and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Digital research skills",
+            "Project-based solution design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with diverse groups",
+            "Presenting research findings",
+            "Community engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social issues",
+            "Critical evaluation of field research",
+            "Solution-oriented thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Cross-disciplinary collaboration",
+            "Project management",
+            "Leadership in community projects"
+        ]
+    },
+    {
+        "courseTitle": "Language Directed Study",
+        "courseCode": "HNRS 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Under the supervision of a faculty mentor, students work independently using self-instructional materials. The focus is on grammar, reading or writing. Language Directed Study does not satisfy general education, major or college language requirements.  Permission of the Honors College required.",
+        "Technical and Digital Skills": [
+            "Grammar proficiency",
+            "Reading comprehension",
+            "Writing proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Independent learning",
+            "Communication with faculty mentor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-guided problem-solving",
+            "Analyzing linguistic structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Translation Project",
+        "courseCode": "HNRS 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Honors College students will work in teams and individually to prepare sample translations for a variety of target audiences, markets, or clients. Individual project content will be varied:  some projects may focus on literary translation, while others with adapting websites, software, video games, and other products into forms that meet local expectations for content. The overarching goal is for students to develop tools for thinking about the centrality of translation across academic disciplines and realms of human experience.  An intermediate or advanced level of fluency in a language other than English is recommended to take this course.",
+        "Technical and Digital Skills": [
+            "Sample translation preparation",
+            "Adapting websites",
+            "Adapting software",
+            "Adapting video games",
+            "Language translation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork",
+            "Communication with target audiences/clients",
+            "Understanding local market expectations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation problem-solving",
+            "Analyzing content for local expectations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Working independently",
+            "Working in teams"
+        ]
+    },
+    {
+        "courseTitle": "Honors Independent Study",
+        "courseCode": "HNRS 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Offered upon request each semester.  This course is an opportunity for students to engage in directed readings and/or research in a topic with which they are familiar.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Subject-specific technical knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Problem identification",
+            "Solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Honors Independent Study",
+        "courseCode": "HNRS 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Offered upon request each semester.  This course is an opportunity for students to engage in directed readings and/or research in a topic with which they are familiar.",
+        "Technical and Digital Skills": [
+            "Subject-specific research methodologies",
+            "Use of academic databases",
+            "Data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with academic supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic literature",
+            "Problem-solving in research design and execution",
+            "Research question formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management",
+            "Time management",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseTitle": "Senior Honors Thesis",
+        "courseCode": "HNRS 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Each student will undertake a research experience under the supervision of a faculty member.  A research proposal and research report are required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection and analysis",
+            "Use of research tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with supervisor",
+            "Effective communication of research proposal",
+            "Report writing and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and formulation of research problem",
+            "Critical analysis",
+            "Solving complex research issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "HNRS 501",
+        "courseTitle": "Social Entrepreneurship",
+        "academicLevel": "graduate",
+        "courseDescription": "The class draws students from all disciplines to collaborate with each other, faculty and community members as they co-design project-based solutions to pertinent social issues. Topics related to social entrepreneurship vary each year. Guided by distinguished faculty, students analyze their topic through in-depth classroom and field research, readings and off-campus trips.",
+        "Technical and Digital Skills": [
+            "Project-based solution design",
+            "In-depth field research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration across disciplines",
+            "Community engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Social issue analysis",
+            "Reading comprehension and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collaborative project management",
+            "Off-campus trip coordination"
+        ]
+    }
+]

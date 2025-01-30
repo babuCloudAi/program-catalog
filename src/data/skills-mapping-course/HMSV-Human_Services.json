@@ -1,0 +1,374 @@
+[
+    {
+        "courseTitle": "Interpersonal Relations",
+        "courseCode": "HMSV 339",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will learn concepts and theories of interpersonal relationships.  Development of skills necessary for effective communication will be stressed.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Understanding interpersonal relationship concepts",
+            "Interpersonal relationship theories"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Developing interpersonal relationship skills"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Human Services",
+        "courseCode": "HMSV 341",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will learn about human services, the helping process, and the role and function of the human service worker.  Students will be exposed to local and state human services facilities.",
+        "Technical and Digital Skills": [
+            "Understanding of human services procedures",
+            "Knowledge of local and state human services facilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with service users",
+            "Active listening and empathy",
+            "Building trusting relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying individual needs",
+            "Developing tailored service plans",
+            "Problem-solving in the context of human services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating services and resources",
+            "Leading and managing cases effectively",
+            "Understanding and applying relevant laws and regulations"
+        ]
+    },
+    {
+        "courseTitle": "Human Services Methods",
+        "courseCode": "HMSV 343",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Presents theories and techniques used by human services workers in a variety of settings.",
+        "Technical and Digital Skills": [
+            "Knowledge of human services theories",
+            "Understanding of practical techniques used in various settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Collaborative work with other human services professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing client needs",
+            "Evaluating effectiveness of service techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Service planning and organization",
+            "Leadership in a human services context"
+        ]
+    },
+    {
+        "courseTitle": "Career Development and Appraisal",
+        "courseCode": "HMSV 344",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Focuses on career development throughout the life span with emphasis on vocational theories, interventions, assessments, and socioeconomic factors.",
+        "Technical and Digital Skills": [
+            "Career assessments application",
+            "Socioeconomic data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Career counseling",
+            "Effective communication with diverse individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career development strategies",
+            "Analysis of vocational theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career development planning",
+            "Leadership in career interventions"
+        ]
+    },
+    {
+        "courseTitle": "Diversity Issues in Human Services",
+        "courseCode": "HMSV 346",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course serves as an introduction to multicultural helping.  The influence of socio-identities (e.g., race, ethnicity, religion, gender, socioeconomic status, sexual orientation) on individuals' functioning, concerns, and the helping process will be explored.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding of socio-identities",
+            "Effective communication with diverse groups",
+            "Cultural sensitivity and respect"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of socio-identity influence on individual functioning",
+            "Identification and understanding of diversity concerns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in diverse settings",
+            "Organizational skills in multicultural environments"
+        ]
+    },
+    {
+        "courseTitle": "Case Management & Crisis Techniques through Field Observation",
+        "courseCode": "HMSV 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will visit and examine human services systems such as mental health, substance abuse, criminal justice, education, rehabilitation, and professional associations to facilitate decision-making in selecting an internship and to gain a complex understanding of the roles of the human services professional.",
+        "Technical and Digital Skills": [
+            "Knowledge of human services systems",
+            "Understanding of substance abuse, mental health, criminal justice, education, rehabilitation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with professionals in various fields",
+            "Adapting communication style to different professional settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making for internship selection",
+            "Analyzing complex human services systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding roles within professional associations",
+            "Assessing and understanding organizational structures in human services"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "HMSV 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Individual study under the supervision of an undergraduate faculty member.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Stakeholder communication",
+            "Feedback reception",
+            "Independent study reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Program Development, Implementation, and Funding",
+        "courseCode": "HMSV 440W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course presents models and practices in evaluating, monitoring, and implementing human services programs.  The course includes an overview of funding, creating budgets and monitoring expenditures for programs. This is an upper-level writing intensive class. A grade of C or better is required.",
+        "Technical and Digital Skills": [
+            "Program evaluation",
+            "Budget creation",
+            "Monitoring expenditures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Monitoring and implementation analysis",
+            "Evaluating human services programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Program development",
+            "Financial management"
+        ]
+    },
+    {
+        "courseTitle": "Psycho-educational Groups",
+        "courseCode": "HMSV 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course combines lectures and experiential learning about psycho-educational groups.  Principles and practices for developing and leading psycho-educational groups are emphasized.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Facilitation of group discussions",
+            "Active listening",
+            "Verbal communication",
+            "Non-verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of group dynamics",
+            "Conflict resolution",
+            "Application of psycho-educational principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in psycho-educational groups",
+            "Planning and organizing group sessions",
+            "Time management",
+            "Crisis management"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Substance Abuse",
+        "courseCode": "HMSV 447",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course develops the professional identity of the student as a practitioner of substance abuse services while introducing the student to the signs and symptoms of substance abuse, the recovery process and relapse prevention methods.",
+        "Technical and Digital Skills": [
+            "Understanding signs and symptoms of substance abuse",
+            "Knowledge of recovery process",
+            "Application of relapse prevention methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy towards individuals with substance abuse",
+            "Communication with individuals undergoing recovery process"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying substance abuse patterns",
+            "Analyzing effectiveness of recovery methods",
+            "Formulating relapse prevention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management for substance abuse",
+            "Leading support group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Interventions and Advocacy with Children",
+        "courseCode": "HMSV 448",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of how human service workers assist children in a variety of settings.  Emphasis will be placed upon advocacy, supportive work, and short term crisis intervention.",
+        "Technical and Digital Skills": [
+            "Crisis Intervention Techniques",
+            "Supportive Work Strategies",
+            "Children Advocacy Procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Child Communication Techniques",
+            "Interpersonal Skills with Children",
+            "Advocacy Communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-Solving in Crisis Situations",
+            "Analytical Skills for Children's Issues",
+            "Short Term Crisis Intervention"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in Child Advocacy",
+            "Organizational Skills in Human Services",
+            "Crisis Management Leadership"
+        ]
+    },
+    {
+        "courseTitle": "Crisis Intervention, Prevention and Ethics",
+        "courseCode": "HMSV 449",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores effective crisis intervention, examines prevention strategies, and develops students' ethical decision making within human service practice.",
+        "Technical and Digital Skills": [
+            "Understanding of crisis intervention techniques",
+            "Familiarity with prevention strategies",
+            "Knowledge of ethical decision-making processes in human service practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication during crisis",
+            "Empathetic interaction",
+            "Conflict resolution",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crisis assessment and response",
+            "Strategic planning for prevention",
+            "Ethical decision-making",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management",
+            "Leadership during crisis situations",
+            "Team coordination and collaboration"
+        ]
+    },
+    {
+        "courseTitle": "Substance Abuse Treatment and Research",
+        "courseCode": "HMSV 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores effective substance abuse treatment planning and intervention strategies through lectures and experiential learning and examines research trends in the substance abuse field.",
+        "Technical and Digital Skills": [
+            "Substance abuse treatment planning",
+            "Substance abuse intervention strategies",
+            "Researching trends in substance abuse field"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clinical communication",
+            "Empathetic patient interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying substance abuse issues",
+            "Applying substance abuse treatment strategies",
+            "Analyzing research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing substance abuse treatment plans",
+            "Leading substance abuse intervention teams"
+        ]
+    },
+    {
+        "courseTitle": "Internship in Human Services",
+        "courseCode": "HMSV 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course involves field placement in a human services setting. Approximately 400 hours are devoted to field placement, group seminars and individual supervision.",
+        "Technical and Digital Skills": [
+            "Use of digital tools for coordination and communication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a professional setting",
+            "Active listening skills",
+            "Conflict resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex situations in a human services setting",
+            "Developing and implementing solutions to human services challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Leadership in a human services context",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Family Guidance",
+        "courseCode": "HMSV 491",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a study of the family as a system and an introduction to a variety of issues confronting the family, including child abuse, substance abuse and addiction, spouse abuse, and others that produce more than usual stress in the family. Available community resources for helping families will be examined.",
+        "Technical and Digital Skills": [
+            "Understanding and navigating community resources",
+            "Digital communication with community resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Conflict resolution",
+            "Active listening",
+            "Effective verbal and non-verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying signs of abuse and addiction",
+            "Analyzing family dynamics and issues",
+            "Problem-solving under stress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management",
+            "Leading family interventions",
+            "Planning and implementing support strategies"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Human Services and Non-Profit Fundraising",
+        "courseCode": "HMSV 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to expose human service students to the art of ethical fund-raising in human services, including annual and capital campaigns, telemarketing, special events, direct mail marketing, face-to-face solicitation, e-fund-raising, and grant writing. This course replaced HMSV 441. Students with credit for HMSV 441 cannot receive credit toward their degree for HMSV 494.",
+        "Technical and Digital Skills": [
+            "Direct mail marketing",
+            "Telemarketing",
+            "E-fund-raising",
+            "Grant writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Face-to-face solicitation",
+            "Ethical persuasion",
+            "Stakeholder communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning for capital campaigns",
+            "Identifying fundraising opportunities",
+            "Problem-solving in event organization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for special events",
+            "Leadership in fundraising campaigns",
+            "Organizing and executing annual campaigns"
+        ]
+    }
+]

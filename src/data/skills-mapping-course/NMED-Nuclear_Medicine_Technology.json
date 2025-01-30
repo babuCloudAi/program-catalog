@@ -1,0 +1,430 @@
+[
+    {
+        "courseTitle": "Medical Terminology",
+        "courseCode": "NMED 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course designed to cover the terminology and abbreviations used in the clinical sciences.",
+        "Technical and Digital Skills": [
+            "Understanding and usage of medical terminology",
+            "Deciphering medical abbreviations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication using medical jargon"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decoding complex medical terms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamental Concepts in Nuclear Medicine Technology",
+        "courseCode": "NMED 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course designed to cover the physical principles related to nuclear medicine technology.  The methods and mathematics of radioactive decay, types of radiation, radiation interactions, origins of radionuclides, including SPECT and PET/CT radionuclides also presented.",
+        "Technical and Digital Skills": [
+            "Understanding of physical principles related to nuclear medicine technology",
+            "Knowledge of methods and mathematics of radioactive decay",
+            "Identification of different types of radiation",
+            "Insight into radiation interactions",
+            "Understanding origins of radionuclides",
+            "Knowledge of SPECT and PET/CT radionuclides"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of radioactive decay",
+            "Critical evaluation of radionuclide origins",
+            "Problem solving in radiation interactions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Nuclear Instrumentation",
+        "courseCode": "NMED 332",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to familiarize the student with the theory, operation and quality assurance associated with the instrumentation found in a typical nuclear medicine department. The course also covers the instrumentation of PET/CT scanners as well as the common radiopharmaceuticals, imaging protocols, and radiation safety currently employed in diagnostic PET/CT imaging practice.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear medicine department instrumentation",
+            "Operation of PET/CT scanners",
+            "Knowledge of common radiopharmaceuticals",
+            "Familiarity with imaging protocols",
+            "Proficiency in radiation safety practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of technical information",
+            "Interdisciplinary collaboration between nuclear medicine and radiology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quality assurance of medical instrumentation",
+            "Analysis of imaging results",
+            "Safety protocol implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Regulatory compliance",
+            "Implementation of imaging protocols",
+            "Management of medical safety procedures"
+        ]
+    },
+    {
+        "courseTitle": "Radiation Health",
+        "courseCode": "NMED 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Discussions of radiation effects on cellular systems as well as guidelines for radiation protection and safe handling of radioactive materials in the nuclear medicine clinical setting.",
+        "Technical and Digital Skills": [
+            "Understanding of radiation effects on cellular systems",
+            "Guidelines for radiation protection",
+            "Safe handling of radioactive materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in nuclear medicine clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing radiation effects",
+            "Evaluating safety protocols for radioactive materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of safety protocols",
+            "Organizing radioactive materials for safe handling"
+        ]
+    },
+    {
+        "courseTitle": "Nuclear Medicine Technology I",
+        "courseCode": "NMED 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course  designed to cover the nuclear medicine procedures and protocols of the gastrointestinal, genitourinary, central nervous, skeletal systems. Other current or emerging clinical nuclear medicine procedures are also covered.",
+        "Technical and Digital Skills": [
+            "Understanding nuclear medicine procedures",
+            "Knowledge on protocols of the gastrointestinal, genitourinary, central nervous, skeletal systems",
+            "Adapting to new or emerging clinical nuclear medicine procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex medical procedures to patients",
+            "Working collaboratively with healthcare teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing medical procedures for efficiency",
+            "Troubleshooting procedures and protocols"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple medical procedures",
+            "Keeping up-to-date with emerging clinical nuclear medicine procedures"
+        ]
+    },
+    {
+        "courseTitle": "Nuclear Medicine Technology II",
+        "courseCode": "NMED 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course designed to cover the nuclear medicine protocols and procedures of the respiratory, cardiovascular, endocrine, infection/inflammation and lymphatic systems.  Other current and emerging clinical nuclear medicine procedures and protocols are also presented.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear medicine protocols and procedures",
+            "Knowledge of the respiratory, cardiovascular, endocrine, infection/inflammation and lymphatic systems",
+            "Ability to work with emerging clinical nuclear medicine procedures and protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex medical procedures",
+            "Cooperating with medical staff for procedure implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient information to determine appropriate procedures",
+            "Problem-solving to adapt to new and emerging procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple patient procedures",
+            "Leading in the implementation of new protocols and procedures"
+        ]
+    },
+    {
+        "courseTitle": "Radiopharmacy",
+        "courseCode": "NMED 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to cover the concepts and techniques related to the field of radiopharmacy for nuclear medicine technology practice. The production, preparation, uses and quality assurance of radiopharmaceuticals are presented. Interventional and adjunctive pharmaceutical agents used in nuclear medicine will be covered.",
+        "Technical and Digital Skills": [
+            "Radiopharmaceuticals production",
+            "Radiopharmaceuticals preparation",
+            "Quality assurance of radiopharmaceuticals",
+            "Understanding of nuclear medicine technology",
+            "Knowledge on interventional and adjunctive pharmaceutical agents"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the uses of radiopharmaceuticals",
+            "Identifying irregularities in radiopharmaceutical quality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing radiopharmaceuticals",
+            "Supervising radiopharmacy operations"
+        ]
+    },
+    {
+        "courseTitle": "Nuclear Medicine and Molecular Imaging",
+        "courseCode": "NMED 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the concepts, instrumentation and procedures pertaining to molecular imaging as related to nuclear medicine. Topics include: advanced Positron Emission Tomography (PET), Computed Tomography (CT), PET/CT, Magnetic Resonance Imaging (MRI), nuclear cardiology, theranostics, and other emerging technologies. Cross-sectional anatomy and radionuclide therapy, including monoclonal antibodies are also discussed. Review of all content for board examinations.",
+        "Technical and Digital Skills": [
+            "Understanding of advanced Positron Emission Tomography (PET)",
+            "Proficiency in Computed Tomography (CT) techniques",
+            "Knowledge of PET/CT integrations",
+            "Experience with Magnetic Resonance Imaging (MRI) procedures",
+            "Understanding of nuclear cardiology concepts",
+            "Familiarity with theranostics techniques",
+            "Knowledge of emerging technologies in molecular imaging",
+            "Understanding of cross-sectional anatomy",
+            "Proficiency in radionuclide therapy, including monoclonal antibodies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex nuclear medicine concepts",
+            "Proficiency in interpreting and communicating imaging results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and interpret imaging data",
+            "Problem-solving skills for troubleshooting imaging instrumentation and procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to organize and manage imaging procedures",
+            "Leadership skills in a medical imaging environment"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nuclear Medicine Technology I",
+        "courseCode": "NMED 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical instruction in patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures, including PET/CT.",
+        "Technical and Digital Skills": [
+            "Radiation safety procedures",
+            "Radiopharmaceutical administration",
+            "Imaging and non-imaging techniques",
+            "Quality assurance procedures",
+            "PET/CT operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care",
+            "Communication with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting imaging and non-imaging equipment",
+            "Analyzing quality assurance test results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Maintaining safety standards",
+            "Organizing patient care procedures"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Nuclear Medicine Technology II",
+        "courseCode": "NMED 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continued clinical instruction in diagnostic and therapeutic nuclear medicine procedures. The correlation of nuclear medicine procedures is also presented. Clinical experiences include patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures.",
+        "Technical and Digital Skills": [
+            "Radiation safety procedures",
+            "Administration of radiopharmaceuticals",
+            "Imaging and non-imaging techniques",
+            "Quality assurance procedures in nuclear medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient care and communication",
+            "Coordinating with a medical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear medicine procedures",
+            "Correlation of nuclear medicine procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient cases",
+            "Ensuring compliance with radiation safety guidelines"
+        ]
+    },
+    {
+        "courseTitle": "Administration and Management in Nuclear Medicine Technology",
+        "courseCode": "NMED 475W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This writing intensive, capstone course is designed to provide a review of the administration, management, policies, and practices relevant to nuclear medicine technology.  The leadership, legal, ethical and planning aspects of operating a nuclear medicine department are covered.",
+        "Technical and Digital Skills": [
+            "Understanding nuclear medicine technology",
+            "Comprehending legal and ethical aspects of nuclear medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a healthcare setting",
+            "Writing administrative and management reports in nuclear medicine"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing policies and practices in nuclear medicine technology",
+            "Problem-solving in the operational aspects of nuclear medicine"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a nuclear medicine department",
+            "Planning and managing nuclear medicine operations"
+        ]
+    },
+    {
+        "courseTitle": "Special Topics in Nuclear Medicine Technology",
+        "courseCode": "NMED 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected current topics in nuclear medicine technology.",
+        "Technical and Digital Skills": [
+            "Understanding of current nuclear medicine technology",
+            "Proficiency in operating nuclear medicine equipment",
+            "Knowledge of nuclear medicine procedures and protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a medical setting",
+            "Explaining complex medical procedures to patients",
+            "Collaboration with medical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear medicine data",
+            "Problem-solving in nuclear medicine practice",
+            "Critical evaluation of nuclear medicine studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of nuclear medicine resources",
+            "Supervision and leadership in a nuclear medicine department",
+            "Coordination of nuclear medicine procedures"
+        ]
+    },
+    {
+        "courseTitle": "Directed Study in Nuclear Medicine Technology",
+        "courseCode": "NMED 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Directed study in a topic relevant to nuclear medicine technology.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear medicine technology",
+            "Ability to use relevant technical equipment and software",
+            "Data interpretation and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex technical information",
+            "Collaboration with medical professionals and patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and resolution of technical issues in nuclear medicine technology",
+            "Critical thinking in clinical scenarios",
+            "Decision-making under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing independent study",
+            "Adherence to safety protocols and regulations",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Nuclear Medicine Technology",
+        "courseCode": "NMED 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in Nuclear Medicine Technology. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Nuclear medicine technology research",
+            "Data collection and analysis",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentations",
+            "Collaborative research",
+            "Faculty liaison"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification and definition",
+            "Research methodology",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-direction",
+            "Meeting deadlines"
+        ]
+    },
+    {
+        "courseCode": "NMED 695",
+        "courseTitle": "Topics in Nuclear Medicine Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topic related to the field of nuclear medicine technology and molecular imaging.",
+        "Technical and Digital Skills": [
+            "Nuclear medicine technology",
+            "Molecular imaging techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Sharing complex technical information",
+            "Collaborating with medical professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing imaging results",
+            "Troubleshooting technical issues in imaging equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient data",
+            "Adhering to safety and compliance standards in nuclear medicine"
+        ]
+    },
+    {
+        "courseCode": "NMED 697",
+        "courseTitle": "Directed Study in Nuclear Medicine Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed study in a topic or area relevant to nuclear medicine or nuclear medicine technology.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear medicine technology",
+            "Ability to use nuclear medicine equipment",
+            "Knowledge in safe handling of radioactive materials",
+            "Ability to interpret nuclear medicine data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex nuclear medicine concepts",
+            "Collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear medicine data",
+            "Problem-solving in nuclear medicine technology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent research in nuclear medicine",
+            "Leading projects in nuclear medicine technology"
+        ]
+    },
+    {
+        "courseCode": "NMED 698",
+        "courseTitle": "Research on Nuclear Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "Research on a topic or project related to nuclear medicine or nuclear medicine technology.",
+        "Technical and Digital Skills": [
+            "Nuclear medicine technology knowledge",
+            "Data collection and analysis",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Scientific communication",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification in nuclear medicine",
+            "Analytical interpretation of research data",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Research planning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "NMED 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Thesis on a topic in nuclear medicine/molecular imaging or nuclear medicine technology.",
+        "Technical and Digital Skills": [
+            "Nuclear medicine technology",
+            "Molecular imaging technology",
+            "Research and data collection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing scientific data",
+            "Critical evaluation of nuclear medicine/molecular imaging studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Research planning and execution"
+        ]
+    }
+]

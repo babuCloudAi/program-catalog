@@ -1,0 +1,961 @@
+[
+    {
+        "courseTitle": "Civil 2D Computer Aided Drafting",
+        "courseCode": "CET 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to computer aided drafting, where methods are taught with a major emphasis on practical application using two-dimensional AutoCAD software in the computer lab.  This includes the basic principles of civil engineering drawings to include but not limited to: dimensioning, spot elevations, contours, plan and profile view, section views, details, scaling, measurements.  It will introduce students to site plan drawings, structural views, architectural views, as well as buried infrastructure plan and profiles.  Finally, it will be the basis for preparation of a working set of plans, for use in all follow-on CET courses.",
+        "Technical and Digital Skills": [
+            "2D drafting using AutoCAD software",
+            "Dimensioning and scaling",
+            "Creating civil engineering drawings",
+            "Site plan drawings",
+            "Structural views drafting",
+            "Architectural views drafting",
+            "Buried infrastructure plan drafting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting engineering drawings",
+            "Identifying errors in drafting",
+            "Troubleshooting software issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Principles of Surveying",
+        "courseCode": "CET 205",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Basic plane surveying measurements and computations, survey control systems, elementary digital mapping and simple curves, and building construction survey and stakeout. Field exercises using standard surveying instrumentation, traverse and leveling techniques, topographic mapping and curve layout.",
+        "Technical and Digital Skills": [
+            "Basic plane surveying measurements",
+            "Survey control systems",
+            "Elementary digital mapping",
+            "Simple curves calculations",
+            "Field exercises with surveying instrumentation",
+            "Traverse and leveling techniques",
+            "Topographic mapping",
+            "Curve layout"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in survey measurements",
+            "Problem-solving in survey control systems",
+            "Analytical approach to digital mapping",
+            "Troubleshooting in curve layout"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamentals of Building Construction",
+        "courseCode": "CET 210",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to various materials and methods available for design and construction of buildings. Covers application and combination of traditional materials and methods, and recent innovations in construction systems.",
+        "Technical and Digital Skills": [
+            "Understanding various building materials",
+            "Knowledge of construction methods",
+            "Application of traditional construction techniques",
+            "Awareness of recent innovations in construction systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of construction methods",
+            "Problem-solving in construction design",
+            "Analyzing different material properties for construction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Material Testing Laboratory",
+        "courseCode": "CET 221",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Standard Methods of inspecting and testing structural materials used in construction are demonstrated.  Data is collected and interpreted according to industry standards with results reported.",
+        "Technical and Digital Skills": [
+            "Structural material inspection techniques",
+            "Data collection methods",
+            "Interpretation of test results according to industry standards",
+            "Report writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of test findings",
+            "Collaboration with team members for testing procedures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of test data",
+            "Identification of material properties based on test results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for testing procedures",
+            "Team coordination for efficient testing"
+        ]
+    },
+    {
+        "courseTitle": "CAD for Building Applications",
+        "courseCode": "CET 260",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A detailed study of the form and content of typical construction drawings and 3D building models used in the construction industry. Commercial 3D CAD software is used to assemble a set of structural construction drawings.  Standard specification documents are introduced.",
+        "Technical and Digital Skills": [
+            "Construction drawings interpretation",
+            "3D building modeling using CAD software",
+            "Structural construction drawing assembly",
+            "Standard specification document utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing construction drawings",
+            "Identifying structural components",
+            "Troubleshooting CAD software issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Civil 3D CAD",
+        "courseCode": "CET 265",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A detailed study into the development of civil site plans.  Commercial software (AutoCAD Civil 3D) is introduced as a tool to assist in the design of civil sites and develop a set of civil site drawings.",
+        "Technical and Digital Skills": [
+            "AutoCAD Civil 3D software proficiency",
+            "Civil site plan development",
+            "Civil site drawing creation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Civil site design problem-solving",
+            "Technical drawing analysis",
+            "Site plan optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "CET 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Literature review techniques",
+            "Data analysis tools",
+            "Information retrieval strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative project management",
+            "Professional writing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Team coordination and supervision"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "CET 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Structural Design",
+        "courseCode": "CET 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to structural design of buildings and/or nonbuilding type structures using reinforced concrete, steel, and wood as materials.  This course utilizes provisions of the American Concrete Institute ACI 318, American Institute of Steel construction AISC 360, and the National Design Specification NDS specifications. Forces, moments, and deflections in statically determinate beams, frames, and trusses due to various load cases and load combinations are determined.",
+        "Technical and Digital Skills": [
+            "Structural design using reinforced concrete, steel, and wood",
+            "Utilization of ACI 318, AISC 360, and NDS specifications",
+            "Determining forces, moments, and deflections in beams, frames, and trusses"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of load cases and load combinations",
+            "Critical evaluation of structural design solutions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Land Development",
+        "courseCode": "CET 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Applications of fundamental site engineering principles, land design principles and permitting issues. A brief historical review of exemplary subdivision, urban designs and their impact on current practice. Site surveying and engineering issues including hydrology, storm water management, site geometry, grading, design of roads, engineering design standards, and computer applications in site engineering are examined. The principles of siting and theories of design for aesthetic and efficient alignment of roads, layout of structures, and subdivision parcels are introduced.",
+        "Technical and Digital Skills": [
+            "Site engineering principles application",
+            "Land design principles implementation",
+            "Permitting process understanding",
+            "Site surveying techniques",
+            "Hydrology knowledge",
+            "Storm water management skills",
+            "Grading proficiency",
+            "Road design expertise",
+            "Computer applications in site engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of design concepts",
+            "Collaboration with surveyors and engineers",
+            "Client interaction for project requirements gathering"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of subdivision designs",
+            "Efficient road alignment strategies",
+            "Structural layout optimization",
+            "Problem-solving in site geometry challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in land development",
+            "Team coordination for site engineering tasks",
+            "Decision-making in design standards implementation"
+        ]
+    },
+    {
+        "courseTitle": "Fluid Mechanics",
+        "courseCode": "CET 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Elementary mechanics of fluids.  Fluid properties; hydrostatics; fluid kinematics; equations of motion; energy equation; momentum principles; flow of liquids and gasses in closed conduits; flow in open channels and/or compressible flow.  Laboratory will demonstrate principles from the lecture material.  All experiment results will be submitted in a written report format, including presentation and interpretation of experimental data. Use of spreadsheets is required.",
+        "Technical and Digital Skills": [
+            "Fluid properties analysis",
+            "Equations of motion calculations",
+            "Spreadsheets utilization for data analysis",
+            "Closed conduit flow simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of experimental data",
+            "Collaboration in laboratory experiments",
+            "Clear written report formatting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of experimental data",
+            "Problem-solving in fluid kinematics",
+            "Critical analysis of momentum principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory experiment coordination",
+            "Time management for experiment submission",
+            "Leadership in group projects"
+        ]
+    },
+    {
+        "courseTitle": "Water Resources Engineering",
+        "courseCode": "CET 332",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Hydrologic and Hydraulic principles are utilized in the planning, design, operation and construction of water management projects. The course addresses fundamental Hydrology - the occurrence and movement of surface water including weather and climate; precipitation; evaporation; transpiration; runoff; infiltration; stream flow; hydrograph analysis; erosion; and sedimentation.  Additional topics covered will include water distribution, use of water, and sustainability of water as a natural resource.",
+        "Technical and Digital Skills": [
+            "Hydrologic modeling",
+            "Hydraulic analysis",
+            "Weather and climate data analysis",
+            "Precipitation estimation techniques",
+            "Evaporation and transpiration calculations",
+            "Stream flow measurement methods",
+            "Hydrograph analysis tools",
+            "Erosion and sedimentation modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective project communication with stakeholders",
+            "Collaboration with multidisciplinary teams on water management projects",
+            "Clear presentation of hydrologic and hydraulic findings to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of hydrologic data for project planning",
+            "Problem-solving in water distribution system design",
+            "Analytical approach to sustainability assessment of water resources",
+            "Data-driven decision-making in water management projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in water resources engineering",
+            "Team coordination for successful implementation of water management projects",
+            "Leadership in water sustainability initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Computer Applications in Hydraulic Engineering",
+        "courseCode": "CET 334",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application of computer software in solving water resources problems; program development or application of available packages to solve assigned water resources problems. Use and application of commercial software for analysis and design of water distribution networks and gravity sewer collection systems.",
+        "Technical and Digital Skills": [
+            "Programming in relevant languages (e.g., Python)",
+            "Utilizing commercial software for water distribution analysis",
+            "Developing programs for water resource problem solving",
+            "Applying available software packages for water resources problems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in water resource problem solving",
+            "Analyzing water distribution networks",
+            "Designing gravity sewer collection systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fluid Mechanics Laboratory",
+        "courseCode": "CET 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory to demonstrate the verification of fluid equations and principles as well as the characteristics of fluid machinery. All experimental results will be submitted in a report format, including presentation and interpretation of experimental data. Use of spreadsheets is required.  This is an online asynchronous class open only to transfer students with credit for the lecture portion of CET 330.",
+        "Technical and Digital Skills": [
+            "Verification of fluid equations",
+            "Understanding characteristics of fluid machinery",
+            "Data analysis using spreadsheets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Preparing and presenting experimental data",
+            "Collaborating on experimental reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting experimental data",
+            "Troubleshooting experimental setups",
+            "Analyzing results for accuracy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing experimental data",
+            "Coordinating with team members for experiments"
+        ]
+    },
+    {
+        "courseTitle": "Soils and Foundations",
+        "courseCode": "CET 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the engineering properties of soil including stress, shear strength, and bearing capacity. Movement of water through soils, consolidation and settlement of structures and the design of shallow and deep foundations are also covered. Use of Excel spreadsheets is a requirement.",
+        "Technical and Digital Skills": [
+            "Understanding engineering properties of soil",
+            "Stress analysis of soil",
+            "Shear strength analysis of soil",
+            "Bearing capacity analysis of soil",
+            "Water movement analysis through soils",
+            "Consolidation analysis of structures",
+            "Settlement analysis of structures",
+            "Design of shallow foundations",
+            "Design of deep foundations",
+            "Excel spreadsheet utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of soil properties",
+            "Problem-solving in stress and shear strength analysis",
+            "Analytical design of foundations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Soil Testing Laboratory",
+        "courseCode": "CET 341",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course includes standard methods for inspecting, sampling, testing, and evaluating soils. Students use typical test equipment and perform tests on samples of local soils. Data is collected and results are interpreted and plotted.",
+        "Technical and Digital Skills": [
+            "Standard soil inspection methods",
+            "Sampling techniques",
+            "Testing procedures for soils",
+            "Equipment operation for soil testing",
+            "Data collection from soil tests",
+            "Interpretation of soil test results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with peers on soil testing",
+            "Effective communication of test results",
+            "Presentation of soil data analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of soil properties from test results",
+            "Troubleshooting equipment issues during testing",
+            "Interpretation and analysis of soil data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and coordinating soil testing activities",
+            "Supervising and guiding team members in testing procedures"
+        ]
+    },
+    {
+        "courseTitle": "Sustainable Building Practices",
+        "courseCode": "CET 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course will examine industry trends in sustainable building practices. It explores the green building strategies used in the design and construction of sustainable buildings. The role of site selection, water efficiency, energy, materials and resources, and indoor environmental quality will be explored.",
+        "Technical and Digital Skills": [
+            "Green building strategies implementation",
+            "Site selection analysis",
+            "Water efficiency optimization",
+            "Energy systems design",
+            "Materials and resources evaluation",
+            "Indoor environmental quality assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration in sustainable design projects",
+            "Clear communication of sustainable building concepts to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and solving sustainability challenges in building projects",
+            "Analyzing data for sustainable building decision-making",
+            "Implementing innovative solutions for sustainable practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading sustainability initiatives in building projects",
+            "Organizing resources for sustainable construction practices"
+        ]
+    },
+    {
+        "courseTitle": "Construction Project Management",
+        "courseCode": "CET 361",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the procedures and methods that are used by a contractor during the construction phase of a project. Special emphasis on planning, managing and documenting project activities. Topics include job site layout and control, subcontracting and purchasing and changes and claims/progress payments.",
+        "Technical and Digital Skills": [
+            "Project planning software proficiency (e.g., Microsoft Project)",
+            "Construction documentation management",
+            "Understanding job site layout and control techniques",
+            "Knowledge of subcontracting and purchasing processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective project communication with stakeholders",
+            "Negotiation skills for changes and claims/progress payments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing project progress and identifying deviations from the plan",
+            "Resolving conflicts in subcontracting relationships"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines and resources efficiently",
+            "Providing leadership in handling changes and claims during construction projects"
+        ]
+    },
+    {
+        "courseTitle": "Building Information Modeling (BIM)",
+        "courseCode": "CET 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an introduction to building information modeling (BIM) and its implementation in building design and construction. Topics include the fundamentals of information modeling; business benefits of BIM; impacts of BIM on design and construction processes; integrated design process and project delivery; popular software applications and basic modeling techniques; and popular areas and best practices of BIM implementation.",
+        "Technical and Digital Skills": [
+            "Building Information Modeling software proficiency (e.g., Revit, AutoCAD)",
+            "Basic modeling techniques",
+            "Understanding of integrated design process and project delivery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members",
+            "Collaboration in a BIM environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of BIM information",
+            "Troubleshooting modeling issues",
+            "Analyzing impacts of BIM on design and construction processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in a BIM context",
+            "Leading BIM implementation practices"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "CET 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Management prior to the semester in which the work experience is to take place.  (offered fall, spring, summer)  (qualifies as a CAP experience)",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Data encryption techniques",
+            "Network administration",
+            "Software development methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with stakeholders",
+            "Team collaboration on projects",
+            "Effective presentation of technical information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting technical issues",
+            "Critical evaluation of work experience outcomes",
+            "Analyzing data for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of work experience tasks",
+            "Delegating responsibilities to team members",
+            "Adapting to changing work environments"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "CET 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": [
+            "Industry-specific software proficiency",
+            "Data analysis tools proficiency",
+            "Information security awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional email communication",
+            "Team collaboration in a professional setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a work environment",
+            "Task prioritization and completion"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "CET 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Hands-on experience with industry tools and technologies",
+            "Software development skills",
+            "Data analysis and visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration",
+            "Clear and concise project reporting",
+            "Professional communication with stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and resolving technical issues",
+            "Analyzing complex data sets",
+            "Implementing innovative solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Leading team meetings",
+            "Prioritizing tasks and deadlines"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Civil Engineering Technology",
+        "courseCode": "CET 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics in Civil Engineering Technology.",
+        "Technical and Digital Skills": [
+            "Structural analysis software proficiency",
+            "AutoCAD drafting skills",
+            "Geographic Information Systems (GIS) knowledge",
+            "Construction management software expertise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective teamwork in project settings",
+            "Clear communication of technical concepts to non-engineers",
+            "Collaboration with architects and contractors on projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of structural design parameters",
+            "Problem identification and resolution in construction projects",
+            "Risk assessment and mitigation in civil engineering scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and scheduling",
+            "Team leadership in construction site environments",
+            "Resource allocation and management in civil engineering projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Civil Engineering Technology",
+        "courseCode": "CET 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics in Civil Engineering Technology.",
+        "Technical and Digital Skills": [
+            "Structural analysis software proficiency",
+            "AutoCAD drafting skills",
+            "Civil engineering design software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with project stakeholders",
+            "Team collaboration on engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in designing civil engineering solutions",
+            "Analyzing complex engineering problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in civil engineering",
+            "Team leadership in engineering projects"
+        ]
+    },
+    {
+        "courseTitle": "Computer Applications in Structural Design",
+        "courseCode": "CET 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analysis of indeterminate structures including the verification of results using the commercial software RISA 3D. Introduction to computer modeling in 2D and 3D, pre and post processors, interpretation of results and development of professionally written reports. Structural analysis topics include influence lines, cables and arches, slope deflection, moment distribution, and stiffness methods of analysis.  Analysis and design of structures using steel, wood, and reinforced concrete materials using RISA 3D.  Design meeting strength and serviceability requirements per codes, specifications, and standards.",
+        "Technical and Digital Skills": [
+            "Analysis of indeterminate structures",
+            "Computer modeling in 2D and 3D",
+            "Pre and post processors",
+            "Interpretation of results",
+            "Professionally written reports development",
+            "Structural analysis using RISA 3D",
+            "Design of structures in steel, wood, and reinforced concrete materials",
+            "Meeting strength and serviceability requirements per codes, specifications, and standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of design decisions",
+            "Collaboration with team members on structural projects",
+            "Presentation of analysis results to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Verification of results using RISA 3D",
+            "Critical evaluation of structural analysis outcomes",
+            "Understanding influence lines, cables, arches, slope deflection, moment distribution, and stiffness methods of analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for structural design tasks",
+            "Leadership in coordinating design efforts",
+            "Adherence to industry standards and regulations in design processes"
+        ]
+    },
+    {
+        "courseTitle": "Structural Steel Design",
+        "courseCode": "CET 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Structural analysis and design of steel structures, including beams, girders, columns, composite sections, trusses, rigid frames and connections using the LRFD method. Analysis of statically-determinate cantilever (hungspan) systems also are covered.",
+        "Technical and Digital Skills": [
+            "Structural analysis of steel structures",
+            "Design of steel beams, girders, columns, composite sections, trusses, rigid frames",
+            "LRFD method for structural design",
+            "Analysis of statically-determinate cantilever systems",
+            "Connection design for steel structures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of structural design",
+            "Problem-solving in structural engineering",
+            "Analytical skills for steel structure assessment"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Environmental Loads",
+        "courseCode": "CET 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Familiarize the student with the analysis of environmental design loads required for the design of building and non-building type structures in the United States.  A thorough study of loading categories and load combinations for ASD and LRFD is also covered.  Extensive use of the International Building Code (IBC) and the Minimum Design Loads for Building and Other Structures (ASCE 7) is expected.",
+        "Technical and Digital Skills": [
+            "Analysis of environmental design loads",
+            "Understanding loading categories and combinations",
+            "Knowledge of International Building Code (IBC)",
+            "Familiarity with Minimum Design Loads for Building and Other Structures (ASCE 7)"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of environmental design load requirements",
+            "Problem-solving in load analysis scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Reinforced Concrete Design",
+        "courseCode": "CET 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Structural analysis and design of reinforced concrete members. Topics include flexural analysis and design of structures, including slabs, beams and columns using strength design procedures.",
+        "Technical and Digital Skills": [
+            "Structural analysis",
+            "Reinforced concrete design",
+            "Flexural analysis",
+            "Strength design procedures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in design decisions",
+            "Structural problem-solving",
+            "Analyzing structural integrity"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Wood Design",
+        "courseCode": "CET 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analysis and design of wooden structural elements of buildings to satisfy design codes. Included are shearwall design and connections as well as beams, columns and other elements.",
+        "Technical and Digital Skills": [
+            "Analysis of wooden structural elements",
+            "Designing to satisfy codes",
+            "Shearwall design",
+            "Connection design for beams and columns"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Structural element evaluation",
+            "Code compliance assessment",
+            "Design optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Bridge Design",
+        "courseCode": "CET 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Familiarize the student with the analysis and design of simple and continuous span bridge structures utilizing the Load and Resistance Factor Design (LRFD) methodology. Determination of the most common design loads used in bridge design. Introduction to the AASHTO Specification for Structural Bridge Design used in United States.",
+        "Technical and Digital Skills": [
+            "Load and Resistance Factor Design (LRFD) methodology",
+            "Analysis and design of bridge structures",
+            "Determination of design loads in bridge design",
+            "AASHTO Specification for Structural Bridge Design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Design of Reinforced Concrete Foundations",
+        "courseCode": "CET 417",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analysis and design of reinforced concrete foundations typically used in buildings and bridges. Topics include loads and loading groups, methods of analysis and design, abutments, and isolated and continuous footings. The class will be focused on the load and resistant factor design method. Use of the ASCE 7, ACI and AASTHO codes is necessary.",
+        "Technical and Digital Skills": [
+            "Analysis and design of reinforced concrete foundations",
+            "Loads and loading groups evaluation",
+            "ASCE 7, ACI, and AASTHO codes application"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Methods of analysis and design implementation",
+            "Abutment evaluation",
+            "Isolated and continuous footings design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hydrology and Drainage",
+        "courseCode": "CET 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Hydrologic and hydraulic principles are utilized in the planning, design, operation and construction of water management projects. Topics include elements of stormwater drainage pertaining to hydrology, hydraulics of open channel and pipe flow, stormwater management, and issues pertinent to state stormwater regulations and the Chesapeake Bay Preservation Act.",
+        "Technical and Digital Skills": [
+            "Hydrologic modeling",
+            "Hydraulic design",
+            "Stormwater management techniques",
+            "Knowledge of state stormwater regulations",
+            "Chesapeake Bay Preservation Act compliance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with project stakeholders",
+            "Collaboration with multidisciplinary teams for project planning and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of hydrological data",
+            "Identification of drainage issues and solutions",
+            "Application of hydraulic principles in problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and coordination for water management projects",
+            "Leadership in implementing stormwater management strategies"
+        ]
+    },
+    {
+        "courseTitle": "Buried Infrastructure",
+        "courseCode": "CET 428",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a capstone design course in the field of water resources.  It incorporates pressurized pipe flow, gravity flow, and hydrology into the design of municipal infrastructure for water, sewer and stormwater projects.  Topics will also cover rehabilitation and replacement of aging infrastructure in urban and neighborhood settings.  Use of spreadsheets is required.",
+        "Technical and Digital Skills": [
+            "Pressurized pipe flow design",
+            "Gravity flow design",
+            "Hydrology analysis",
+            "Municipal infrastructure design",
+            "Rehabilitation of aging infrastructure",
+            "Replacement of aging infrastructure",
+            "Spreadsheet utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on design projects",
+            "Effective communication with team members and stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex infrastructure problems",
+            "Identifying solutions for infrastructure challenges",
+            "Critical evaluation of infrastructure design options"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for infrastructure projects",
+            "Decision-making in infrastructure design",
+            "Leading a team in infrastructure planning and implementation"
+        ]
+    },
+    {
+        "courseTitle": "Hydraulic Engineering",
+        "courseCode": "CET 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analysis of hydraulics problems associated with the design of civil engineering structures. Uniform, steady flow in open channels; hydraulic models; design problems for dams; spillways and hydraulic structures; hydraulic machinery and other related topics will be discussed. Use of spreadsheets is required.",
+        "Technical and Digital Skills": [
+            "Hydraulics analysis",
+            "Open channel flow analysis",
+            "Spreadsheets utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Design problems for dams",
+            "Critical thinking in hydraulic engineering"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Resilience and Sustainability",
+        "courseCode": "CET 456",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of emerging construction industry trends in resilience and sustainability.  Evaluation of applications for vulnerable, small-scale and rural projects. Quantify increases in project value by incorporating life cycle analysis, planning for continuity of function, and deliberate risk management.",
+        "Technical and Digital Skills": [
+            "Life cycle analysis implementation",
+            "Risk management strategies",
+            "Evaluation of construction industry trends in sustainability and resilience"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of project value increases",
+            "Collaboration with vulnerable, small-scale, and rural project stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quantitative analysis of project value increases",
+            "Critical evaluation of resilience and sustainability applications in construction projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning for continuity of function in construction projects",
+            "Leadership in incorporating sustainability practices in project planning"
+        ]
+    },
+    {
+        "courseTitle": "Managing the Climate Crisis",
+        "courseCode": "CET 458",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a structured framework for developing resilience. It focuses on addressing the impacts of the climate crisis like flooding, heat, water, and wildfire through principles, designs, and real-world solutions. This is achieved by examining hard engineering structures, nature-based design, and hybrid solutions to protect communities and create a resilient design future.",
+        "Technical and Digital Skills": [
+            "Understanding hard engineering structures",
+            "Implementing nature-based design solutions",
+            "Utilizing hybrid solutions for climate resilience"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with diverse stakeholders in climate crisis projects",
+            "Communicating complex climate impact data effectively to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data on climate crisis impacts like flooding, heat, water, and wildfire",
+            "Designing real-world solutions for resilient communities based on data insights"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading climate crisis mitigation projects",
+            "Organizing community engagement events for climate resilience initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Construction Cost Estimating",
+        "courseCode": "CET 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Evaluation and analysis of the basic elements of estimating construction costs for buildings.  Elements of take off and pricing for Division 1 through Division 6 are covered.  Use of computers and estimating software are emphasized.",
+        "Technical and Digital Skills": [
+            "Construction cost estimating software proficiency",
+            "Take off and pricing techniques for Division 1-6",
+            "Computer-assisted estimating skills"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of construction costs",
+            "Critical evaluation of estimating elements",
+            "Problem-solving in cost estimation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Construction Planning and Scheduling",
+        "courseCode": "CET 462",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The basic elements of planning and scheduling building construction projects.  All elements of building construction, including the precedence methods of scheduling.  Use of computers and planning and scheduling software are emphasized.",
+        "Technical and Digital Skills": [
+            "Building construction planning",
+            "Construction scheduling methods",
+            "Computer-aided planning software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical path analysis",
+            "Resource allocation optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Construction Finance and Equipment Utilization",
+        "courseCode": "CET 467",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a study of financial management in civil engineering construction projects. It emphasizes the development of techniques for effective financial monitoring. Additionally, the curriculum covers concepts related to construction equipment utilization, ensuring an economic alignment of machine capabilities with project requirements. It also addresses the application of time value of money principles for financial decision-making in equipment selection and utilization for heavy highway and major building construction projects.",
+        "Technical and Digital Skills": [
+            "Financial monitoring techniques",
+            "Time value of money principles application",
+            "Equipment utilization alignment with project requirements"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Financial decision-making",
+            "Equipment selection for construction projects"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Contract Documents",
+        "courseCode": "CET 472",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The basic concepts of contracts and the standard contract documents used in construction. Also included is a study of the dispute resolution process in arbitration.",
+        "Technical and Digital Skills": [
+            "Understanding contract terminology",
+            "Knowledge of standard contract documents in construction",
+            "Familiarity with legal aspects of contracts in arbitration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of contract terms",
+            "Negotiation skills for resolving disputes",
+            "Conflict resolution techniques in arbitration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing contract clauses for potential conflicts",
+            "Evaluating legal implications of contract language",
+            "Identifying risks in contract documents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing contract documentation efficiently",
+            "Leading contract negotiation processes",
+            "Coordinating dispute resolution procedures in arbitration"
+        ]
+    },
+    {
+        "courseTitle": "Topics in civil engineering technology",
+        "courseCode": "CET 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics in civil engineering technology.",
+        "Technical and Digital Skills": [
+            "Structural analysis software proficiency",
+            "AutoCAD skills for drafting and design",
+            "Geographic Information Systems (GIS) knowledge",
+            "Surveying equipment operation",
+            "Building Information Modeling (BIM) expertise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration on project implementation",
+            "Clear and concise technical report writing",
+            "Oral presentation skills for project proposals",
+            "Client communication and relationship management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in assessing engineering challenges",
+            "Root cause analysis for structural failures",
+            "Data interpretation and analysis for design optimization",
+            "Innovative solutions for sustainability in construction projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for engineering initiatives",
+            "Team coordination in construction sites",
+            "Resource allocation and scheduling for project timelines",
+            "Conflict resolution in engineering teams"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Civil Engineering Technology",
+        "courseCode": "CET 496",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics in civil engineering technology.",
+        "Technical and Digital Skills": [
+            "Structural analysis software proficiency",
+            "AutoCAD drafting skills",
+            "Geographic Information Systems (GIS) knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with multidisciplinary teams",
+            "Effective communication of engineering concepts to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment and mitigation strategies",
+            "Data interpretation for infrastructure planning",
+            "Critical thinking in design optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in civil engineering projects",
+            "Team coordination for construction site operations"
+        ]
+    }
+]

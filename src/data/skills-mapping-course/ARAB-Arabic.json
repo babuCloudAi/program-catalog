@@ -1,0 +1,186 @@
+[
+    {
+        "courseTitle": "Beginning Arabic",
+        "courseCode": "ARAB 111F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an introductory class to Modern Standard Arabic and Middle Eastern Culture. Students are expected to reach intermediate low to intermediate mid-level. The Arabic alphabet and sounds are introduced as well as simple language in context reflecting the authentic cultural nuances dealing with simple topics ranging from family, school and hobbies. No prior knowledge is required.",
+        "Technical and Digital Skills": [
+            "Arabic alphabet recognition",
+            "Basic vocabulary acquisition",
+            "Pronunciation practice",
+            "Language context comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity in language usage",
+            "Effective communication in Arabic",
+            "Engagement in cultural dialogues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding cultural nuances in language",
+            "Application of language rules in context",
+            "Interpretation of simple texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Special topics in Arabic",
+        "courseCode": "ARAB 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics in Arabic.",
+        "Technical and Digital Skills": [
+            "Language proficiency in Arabic",
+            "Text analysis in Arabic",
+            "Cultural context understanding",
+            "Translation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Arabic",
+            "Cross-cultural communication",
+            "Presentation skills in Arabic"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of Arabic texts",
+            "Interpreting complex Arabic literature",
+            "Research skills in Arabic studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing group discussions in Arabic",
+            "Coordinating collaborative projects in Arabic",
+            "Leadership in Arabic language initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Arabic",
+        "courseCode": "ARAB 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The class is a continuous sequence of ARAB 111F or an equivalent class. The students are expected to reach intermediate high level. The class focuses on expanding the topics of communication the students developed in the introductory class. Modern standard and Levantine Arabic will be the means of communication in class and the student will be exposed to practical grammar, authentic media and texts.  The students will produce culture through role plays and group work simulations and recognize the different registers in the targeted culture through paying attention to sociolinguistic variations.",
+        "Technical and Digital Skills": [
+            "Modern Standard Arabic proficiency",
+            "Levantine Arabic proficiency",
+            "Practical grammar usage",
+            "Authentic media comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Arabic",
+            "Role plays and group work simulations",
+            "Recognizing sociolinguistic variations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cultural context in texts",
+            "Interpreting different registers in Arabic language"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group activities in Arabic",
+            "Leading discussions in Arabic culture"
+        ]
+    },
+    {
+        "courseTitle": "Topics Course in Arabic",
+        "courseCode": "ARAB 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topics course in Arabic, with topics announced prior to the semester in which they are offered.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of Arabic texts",
+        "Organizational and Leadership Skills": "Effective time management for topic research"
+    },
+    {
+        "courseTitle": "Advanced Arabic Language and Culture I",
+        "courseCode": "ARAB 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The purpose of the class is to reinforce the vocabulary and grammar introduced in ARAB 111F and ARAB 212 through activating the learned materials and pushing the students to the advanced level. The language of interaction will be Levantine and Standard Arabic, which students will be able to manipulate to the specific language situations as in the countries this deglosic phenomenon exists.  In addition to the grammar and vocabulary introduced in the textbook, the class will incorporate an extensive authentic reading component and a variety of Arabic contemporary media to reflect the linguistic and cultural aspects of the Middle East.",
+        "Technical and Digital Skills": [
+            "Manipulating Levantine and Standard Arabic language",
+            "Utilizing grammar and vocabulary in specific language situations",
+            "Incorporating authentic reading materials",
+            "Engaging with Arabic contemporary media"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting in Levantine and Standard Arabic",
+            "Adapting language skills to cultural contexts",
+            "Engaging in discussions on Middle Eastern linguistic and cultural aspects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing language structures and patterns",
+            "Evaluating cultural nuances in language usage",
+            "Synthesizing information from diverse sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading language practice sessions",
+            "Organizing cultural events related to Middle Eastern languages",
+            "Facilitating group discussions on linguistic and cultural topics"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Arabic Language and Culture II",
+        "courseCode": "ARAB 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The class is a continuous sequence of ARAB 311 or an equivalent class. Students are expected to reach advanced low level and explore the Middle Eastern cultures through the language spoken there. Levantine and Standard Arabic are the only means of communication in this class. The class incorporates a high load of writing to express students' ideas relating to a wide variety of Middle Eastern topics and current events, which will be introduced through weekly readings and authentic media. This is a crucial class for students planning to travel to the Middle East, who want to explore the Arab world first hand.",
+        "Technical and Digital Skills": [
+            "Advanced proficiency in Levantine and Standard Arabic",
+            "High proficiency in writing in Arabic",
+            "Engaging with authentic media in Arabic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing ideas on Middle Eastern topics",
+            "Communicating effectively in Arabic"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current events in the Middle East",
+            "Critical evaluation of Middle Eastern cultures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning for travel to the Middle East",
+            "Exploring the Arab world first hand"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Arabic",
+        "courseCode": "ARAB 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule booklet and will be more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Arabic language proficiency",
+            "Digital research skills for Arabic resources",
+            "Text analysis using Arabic language tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Arabic",
+            "Collaborative translation projects",
+            "Cross-cultural communication in Arabic-speaking contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of Arabic texts",
+            "Research methodology in Arabic studies",
+            "Interpreting complex Arabic language structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing Arabic language projects",
+            "Leading discussions in Arabic",
+            "Organizing Arabic language events"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Arabic",
+        "courseCode": "ARAB 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit. These courses will appear in the course schedule and will be more fully described in a booklet distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Arabic language proficiency",
+            "Text analysis in Arabic",
+            "Translation tools for Arabic texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Arabic",
+            "Cultural sensitivity in Arabic communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex Arabic texts",
+            "Analyzing Arabic literature and media content"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions in Arabic",
+            "Group project management in Arabic"
+        ]
+    }
+]

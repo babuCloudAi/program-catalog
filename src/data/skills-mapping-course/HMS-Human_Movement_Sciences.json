@@ -1,0 +1,311 @@
+[
+    {
+        "courseTitle": "Personal Health and Wellness",
+        "courseCode": "HMS 200S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will take a holistic approach to discuss and apply the dimensions of wellness as related to personal health. Dimensions of wellness covered will include physical, emotional, social, financial, intellectual, environmental, spiritual, and occupational. Students will evaluate how lifestyle, environment, and heredity impact each dimension of wellness. Emphasis will be placed on identifying how health behaviors impact each dimension of wellness and overall quality of life. In addition, the course will allow students to explore their own personal health and learn how to develop and implement behavioral and environmental strategies to improve their wellness.",
+        "Technical and Digital Skills": [
+            "Applying wellness dimensions",
+            "Analyzing health behaviors",
+            "Implementing environmental strategies for wellness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Social wellness understanding and application",
+            "Discussing health and wellness topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating lifestyle, environment, and heredity impacts on wellness",
+            "Developing personal health strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Setting wellness goals",
+            "Implementing behavioral strategies for wellness"
+        ]
+    },
+    {
+        "courseCode": "HMS 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Investigations in health, physical education, recreation, and sport.  Problems approved in advance are investigated under the supervision of the faculty advisor.",
+        "Technical and Digital Skills": [
+            "Health and physical education research",
+            "Recreational and sports studies",
+            "Utilization of health and fitness databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaborating with faculty advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Investigative research",
+            "Problem identification and resolution",
+            "Data analysis in health and fitness context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Work prioritization under supervision"
+        ]
+    },
+    {
+        "courseCode": "HMS 795",
+        "courseTitle": "Topics in Human Movement Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Selected topic courses in Human Movement Sciences.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting human movement",
+            "Analyzing human biomechanics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting research in human movement sciences",
+            "Organize and present scientific findings"
+        ]
+    },
+    {
+        "courseCode": "HMS 815",
+        "courseTitle": "Introduction to Doctoral Study Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores current issues and trends in all aspects of human movement science and relates theory to practice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of academic research",
+            "Facilitating discussions on current trends"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of scientific theories",
+            "Analysis of current issues in human movement science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading academic discussions",
+            "Organizing research findings"
+        ]
+    },
+    {
+        "courseCode": "HMS 816",
+        "courseTitle": "Research Experience I",
+        "academicLevel": "graduate",
+        "courseDescription": "Determination of a research project through the review of literature. Course encompasses formulation of a topic along with the design of a research study.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research project formulation",
+            "Research study design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Problem formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HMS 817",
+        "courseTitle": "Research Experience II",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research implementation, data collection, and project completion of specific topic within curriculum and instruction or applied kinesiology concepts.",
+        "Technical and Digital Skills": [
+            "Implementation of research methodologies",
+            "Data collection techniques",
+            "Applied kinesiology concepts",
+            "Curriculum implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicative research supervision",
+            "Collaborative project completion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical interpretation of research data",
+            "Problem-solving in curriculum and instruction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project organization",
+            "Leadership in collaborative projects"
+        ]
+    },
+    {
+        "courseCode": "HMS 879",
+        "courseTitle": "Research Residency",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will work in consultation with their advisors to conduct a study related to human movement sciences as part of their research residency that will be submitted for presentation at a nationally refereed conference and/or to a refereed journal.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection and analysis",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Conference presentations",
+            "Academic article writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Critical evaluation of research data",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Independent decision making"
+        ]
+    },
+    {
+        "courseCode": "HMS 890",
+        "courseTitle": "Doctoral Studies Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will be introduced to expectations of conducting research, explore concepts associated with becoming a faculty member or practitioner with an earned doctorate, and become familiar with campus resources. Students will learn and apply concepts related to scientific writing.  This course will include extensive reading of research articles, grant applications, and other scholarly work. Also, this course will investigate the need for professional development.  This will include familiarizing oneself with appropriate professional organizations, exploring the benefits and challenges of collaboration, interviewing and preparing for job placements, and preparing a curricular vitae and teaching philosophy.",
+        "Technical and Digital Skills": [
+            "Scientific writing",
+            "Research article analysis",
+            "Understanding of grant applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in academic setting",
+            "Interviewing skills",
+            "Communication of teaching philosophy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading of scholarly work",
+            "Research methodology",
+            "Professional development planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curricular vitae preparation",
+            "Knowledge of professional organizations",
+            "Preparation for academic job placements"
+        ]
+    },
+    {
+        "courseCode": "HMS 895",
+        "courseTitle": "Topics in Human Movement Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Selected topic courses in Human Movement Sciences.",
+        "Technical and Digital Skills": [
+            "Understanding of human biomechanics",
+            "Knowledge of physiological processes",
+            "Familiarity with movement analysis software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex motion concepts",
+            "Interacting with research subjects",
+            "Collaborating in interdisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting movement data",
+            "Identifying movement abnormalities",
+            "Developing corrective movement strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading movement research projects",
+            "Organizing participant schedules",
+            "Managing movement data"
+        ]
+    },
+    {
+        "courseCode": "HMS 897",
+        "courseTitle": "Independent Study in Human Movement Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study under the direction of a faculty member on a topic in the Human Movement Sciences.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Use of digital libraries and databases",
+            "Understanding of Human Movement Sciences principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with faculty member",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of scientific literature",
+            "Problem identification and formulation in Human Movement Sciences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Time management and self-discipline"
+        ]
+    },
+    {
+        "courseCode": "HMS 898",
+        "courseTitle": "Independent Research in Human Movement Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research project under the direction of a faculty member that will expose students to a broad range of research topics and research environments in the human movement sciences.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection and analysis",
+            "Knowledge in human movement sciences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty members",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Analytical thinking",
+            "Solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseCode": "HMS 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Work on pre-selected dissertation topic under the direction of dissertation chair.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Data collection",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dissertation chair",
+            "Defending dissertation findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Methodology selection",
+            "Critical evaluation of data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseCode": "HMS 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fall course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation. All master's students are required to be registered for at least one graduate credit hour in the semester of graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Graduation requirement management",
+            "Academic planning and scheduling"
+        ]
+    },
+    {
+        "courseCode": "HMS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Maintaining regular communication with doctoral advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Navigating academic bureaucracy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed research",
+            "Time management",
+            "Meeting academic deadlines"
+        ]
+    }
+]

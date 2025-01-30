@@ -1,0 +1,1278 @@
+[
+    {
+        "courseTitle": "Introduction to Biomaterials",
+        "courseCode": "BME 404/504",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce the properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Biocompatibility, immunological responses, wound healing, clotting cascade, surface compatibility and characterization of materials used for implantable medical devices will be introduced. Other topics such as ethical considerations and medical device regulatory mechanisms will be presented.",
+        "Technical and Digital Skills": [
+            "Understanding properties of biomedical materials",
+            "Biocompatibility assessment",
+            "Characterization of implantable materials",
+            "Medical device regulatory mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of technical information",
+            "Collaboration with interdisciplinary teams in healthcare",
+            "Engaging in ethical discussions related to medical devices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of biocompatibility data",
+            "Analyzing immunological responses to materials",
+            "Problem-solving in wound healing processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing regulatory compliance in medical device development",
+            "Leading discussions on ethical considerations in biomaterials"
+        ]
+    },
+    {
+        "courseTitle": "Biomechanics",
+        "courseCode": "BME 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.",
+        "Technical and Digital Skills": [
+            "Multiscale mechanics understanding",
+            "Experimental methods in biomechanics research",
+            "Computational modeling techniques in biomechanics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of whole-body movement",
+            "Evaluation of mechanical properties in musculoskeletal structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Regenerative Medicine",
+        "courseCode": "BME 409/509",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce fundamental knowledge in regenerative medicine including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biologic systems. In addition to lecture, students will have opportunities for group discussions and presentations on milestone work related to tissue regeneration. Students will leave with a thorough understanding of true mammalian regeneration, wound healing/repair processes, and medical device milestones as related to human tissue regeneration and repair.",
+        "Technical and Digital Skills": [
+            "Therapeutic applications of biomaterials",
+            "Tissue and stem cell engineering",
+            "Gene therapy and bioelectrics",
+            "Structure-function relationships of biologic systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions facilitation",
+            "Presentations on milestone work related to tissue regeneration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding true mammalian regeneration",
+            "Wound healing/repair processes analysis",
+            "Medical device milestones evaluation as related to human tissue regeneration and repair"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group discussions",
+            "Leading presentations on milestone work related to tissue regeneration"
+        ]
+    },
+    {
+        "courseTitle": "Therapy and Function Models for Medical Simulation",
+        "courseCode": "BME 430/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the main Modeling & Simulation models. (1) Anatomical modeling based on robust medical image segmentation and meshing methodologies. (2) A therapy model to determine the impact of a medical intervention by synthesizing the effect of a therapy on the patient’s tissues. (3) A collision model, which interacts with anatomy and therapy models, is used for haptics-driven simulations. This course will also explore physiological simulation and the use of finite elements to model biomechanics.",
+        "Technical and Digital Skills": [
+            "Medical image segmentation",
+            "Meshing methodologies",
+            "Physiological simulation",
+            "Finite element modeling",
+            "Haptics-driven simulations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Impact assessment of medical interventions",
+            "Synthesizing therapy effects on patient tissues",
+            "Modeling biomechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Bioelectrics",
+        "courseCode": "BME 454/554",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease.  Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing defibrillation, electrotherapy, electroporation, electrotherapy in wound healing.  In addition ultra-short electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding electrical properties of cells and tissues",
+            "Knowledge of electrocardiography",
+            "Familiarity with electroporation techniques",
+            "Ability to apply plasmas to biological systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in the use of electrical signals for diagnosis and treatment",
+            "Analyzing endogenous electric fields in the body",
+            "Problem-solving in electrotherapy for wound healing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Medical Image Analysis",
+        "courseCode": "BME 462/562",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to basic concepts in medical image analysis. Medical image registration, segmentation, feature extraction, and classification are discussed. Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered. Cross-listed with ECE 462/MSIM 462.",
+        "Technical and Digital Skills": [
+            "Medical image registration",
+            "Image segmentation",
+            "Feature extraction",
+            "Classification algorithms",
+            "ROC analysis",
+            "FROC methodologies",
+            "Basic psychophysics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical images",
+            "Problem-solving in image analysis scenarios",
+            "Analytical reasoning in medical image interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Biomedical Applications of Low Temperature Plasmas",
+        "courseCode": "BME 464/564",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is cross listed with ECE and Biology. It is designed to be taken by senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding non-equilibrium plasmas",
+            "Knowledge of low temperature plasma sources",
+            "Cell biology fundamentals",
+            "Interaction of low temperature plasma with biological cells",
+            "Medical applications such as wound healing, blood coagulation, sterilization, and cancer cell killing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration between engineering and biological sciences",
+            "Effective communication of complex scientific concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of plasma-biological cell interactions",
+            "Problem-solving in applying plasma technology to medical treatments",
+            "Evaluation of potential biomedical applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 503",
+        "courseTitle": "Introduction to Mathematical Modeling in Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces model development and model formulation with differential equations in physiology. Students will learn how to use Matlab to solve differential equations and visualize their results. The physiological focus will be on cellular physiology, particularly ion channel dynamics and homeostasis.",
+        "Technical and Digital Skills": [
+            "Model development with differential equations",
+            "Model formulation with Matlab",
+            "Solving differential equations using Matlab",
+            "Data visualization with Matlab"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Physiological data analysis",
+            "Critical evaluation of physiological models",
+            "Problem-solving using differential equations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 504",
+        "courseTitle": "Introduction to Biomaterials",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce the properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Biocompatibility, immunological responses, wound healing, clotting cascade, surface compatibility and characterization of materials used for implantable medical devices will be introduced. Other topics such as ethical considerations and medical device regulatory mechanisms will be presented.",
+        "Technical and Digital Skills": [
+            "Understanding properties of biomedical materials",
+            "Biocompatibility assessment",
+            "Characterization of implantable materials",
+            "Knowledge of tissue-engineered materials",
+            "Surface compatibility analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical considerations in biomaterials",
+            "Medical device regulatory mechanisms understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Immunological responses assessment",
+            "Wound healing analysis",
+            "Clotting cascade evaluation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 505",
+        "courseTitle": "Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system. Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.",
+        "Technical and Digital Skills": [
+            "Multiscale mechanics understanding",
+            "Musculoskeletal system knowledge",
+            "Experimental methods comprehension",
+            "Computational modeling techniques proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Whole-body movement analysis",
+            "Mechanical properties evaluation",
+            "Research methodology in biomechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 509",
+        "courseTitle": "Introduction to Regenerative Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce fundamental knowledge in regenerative medicine including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biologic systems. In addition to lecture, students will have opportunities for group discussions and presentations on milestone work related to tissue regeneration. Students will leave with a thorough understanding of true mammalian regeneration, wound healing/repair processes, and medical device milestones as related to human tissue regeneration and repair.",
+        "Technical and Digital Skills": [
+            "Understanding of biomaterials",
+            "Knowledge of tissue and stem cell engineering",
+            "Familiarity with gene therapy and bioelectrics",
+            "Ability to analyze structure-function relationships in biologic systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective participation in group discussions",
+            "Skill in presenting milestone work related to tissue regeneration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to evaluate true mammalian regeneration processes",
+            "Analytical skills in understanding wound healing/repair processes",
+            "Critical thinking in analyzing medical device milestones for human tissue regeneration and repair"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing group discussions",
+            "Leadership in presenting milestone work"
+        ]
+    },
+    {
+        "courseCode": "BME 530",
+        "courseTitle": "Therapy and Function Models for Medical Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to the main Modeling & Simulation models. (1) Anatomical modeling based on robust medical image segmentation and meshing methodologies. (2) A therapy model to determine the impact of a medical intervention by synthesizing the effect of a therapy on the patient’s tissues. (3) A collision model, which interacts with anatomy and therapy models, is used for haptics-driven simulations. This course will also explore physiological simulation and the use of finite elements to model biomechanics.",
+        "Technical and Digital Skills": [
+            "Medical image segmentation",
+            "Meshing methodologies",
+            "Physiological simulation",
+            "Finite element modeling",
+            "Haptics-driven simulations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Impact analysis of medical interventions",
+            "Synthesizing therapy effects on tissues",
+            "Modeling biomechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 554",
+        "courseTitle": "Introduction to Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease.  Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing defibrillation, electrotherapy, electroporation, electrotherapy in wound healing.  In addition ultra-short electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding electrical properties of cells and tissues",
+            "Knowledge of electrocardiography",
+            "Familiarity with electrotherapy techniques",
+            "Application of plasmas to biological systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing endogenous electric fields in the body",
+            "Designing electrotherapy for wound healing",
+            "Intracellular manipulation using ultra-short electrical pulses"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 562",
+        "courseTitle": "Introduction to Medical Image Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to basic concepts in medical image analysis. Medical image registration, segmentation, feature extraction, and classification are discussed. Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered. Cross-listed with ECE 562/MSIM 562.",
+        "Technical and Digital Skills": [
+            "Medical image registration",
+            "Image segmentation techniques",
+            "Feature extraction methods",
+            "Classification algorithms",
+            "ROC analysis",
+            "FROC methodologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical image data",
+            "Problem-solving in image analysis",
+            "Analytical thinking in medical image processing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 564",
+        "courseTitle": "Biomedical Applications of Low Temperature Plasmas",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is cross listed with ECE and Biology. It is designed to be taken by senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding non-equilibrium plasmas",
+            "Knowledge of low temperature plasma sources",
+            "Cell biology fundamentals",
+            "Interaction of plasma with biological cells",
+            "Application of plasma in medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating across engineering and biological sciences disciplines",
+            "Presenting complex scientific concepts to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effects of low temperature plasma on different cell types",
+            "Identifying potential medical applications of plasma treatment",
+            "Evaluating the efficacy of plasma in wound healing and cancer treatment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading multidisciplinary research projects",
+            "Coordinating experiments involving plasma and biological samples"
+        ]
+    },
+    {
+        "courseCode": "BME 612",
+        "courseTitle": "Digital Signal Processing I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will present the fundamentals of digital signal processing. Topics will include frequency domain analysis of discrete-time linear systems, sampling and reconstruction of signals, the Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT), and digital filter design and implementations. Practical applications and examples will be discussed. Problem solving using MATLAB is required.  Cross-listed with ECE 612.",
+        "Technical and Digital Skills": [
+            "Frequency domain analysis of discrete-time linear systems",
+            "Sampling and reconstruction of signals",
+            "Discrete Fourier Transform (DFT)",
+            "Fast Fourier Transform (FFT)",
+            "Digital filter design and implementations",
+            "MATLAB problem solving"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Signal processing problem-solving",
+            "Practical application analysis",
+            "MATLAB programming for signal processing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 695",
+        "courseTitle": "Topics in Biomedical Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will be offered as needed, depending upon the need to introduce special subjects to target specific areas of master's-level specializations in biomedical engineering.",
+        "Technical and Digital Skills": [
+            "Biomedical signal processing",
+            "Medical imaging analysis",
+            "Biosensors development",
+            "Biomechanics modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biomedical data interpretation",
+            "Medical device troubleshooting",
+            "Biological system optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 698",
+        "courseTitle": "Master’s Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual project directed by the student’s professor in major area of study.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis software proficiency",
+            "Programming skills in major area of study",
+            "Technical writing for research reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with professor",
+            "Presentation skills for project defense"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in major area of study",
+            "Problem-solving in research design and execution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Time management for project completion"
+        ]
+    },
+    {
+        "courseCode": "BME 699",
+        "courseTitle": "Master's Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research for the master’s thesis.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methodology",
+            "Data collection techniques",
+            "Data analysis tools",
+            "Experimental design",
+            "Statistical analysis",
+            "Coding proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with advisors and peers",
+            "Writing research proposals",
+            "Effective communication of complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying research gaps",
+            "Developing research hypotheses",
+            "Troubleshooting data analysis issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research tasks",
+            "Project planning and execution",
+            "Decision-making based on research outcomes",
+            "Leading research discussions"
+        ]
+    },
+    {
+        "courseCode": "BME 720",
+        "courseTitle": "Modern Biomedical Instrumentation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the design of modern biomedical instruments including select diagnostic, assistive, therapeutic, prosthetic, imaging, and virtual devices and systems.  Techniques for mechanical, electrical, and chemical sensor and transducer design; stimulation and measurement; data acquisition; digital signal processing; and data visualization will be examined.",
+        "Technical and Digital Skills": [
+            "Sensor and transducer design",
+            "Data acquisition techniques",
+            "Digital signal processing",
+            "Data visualization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sensor performance",
+            "Troubleshooting instrumentation issues",
+            "Analyzing data from biomedical devices"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 721",
+        "courseTitle": "Mathematical Modeling in Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course on mathematical modeling in human physiology emphasizes the development of mathematical models, their implementation, and the interpretation of simulation data.  The course focuses on cellular physiology, including membrane channels, excitability, and calcium dynamics; it also covers intercellular communication and spatially distributed systems.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Simulation data interpretation",
+            "Implementation of mathematical models",
+            "Cellular physiology modeling",
+            "Spatially distributed systems modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of model results",
+            "Collaboration on model development",
+            "Presentation of complex physiological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of simulation data",
+            "Identification of patterns in physiological processes",
+            "Optimization of model parameters"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for model development",
+            "Coordination of team efforts in model creation"
+        ]
+    },
+    {
+        "courseCode": "BME 724",
+        "courseTitle": "Neural Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents engineering techniques for the restoration and augmentation of human function via direct interactions between the nervous system and artificial devices, with particular emphasis on brain-computer interfaces.  Novel interfaces, hardware and computational issues, and practical and ethical considerations will also be covered.",
+        "Technical and Digital Skills": [
+            "Brain-computer interface development",
+            "Neural signal processing",
+            "Hardware integration for nervous system interactions",
+            "Ethical considerations in neural engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on interdisciplinary projects",
+            "Effective communication of technical concepts to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and resolving hardware and software issues in neural interfaces",
+            "Critical evaluation of neural data for accurate interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for neural engineering initiatives",
+            "Leading teams in the development of neurotechnology solutions"
+        ]
+    },
+    {
+        "courseCode": "BME 726",
+        "courseTitle": "Biomaterials",
+        "academicLevel": "graduate",
+        "courseDescription": "This course cover fundamental principles and properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Advanced concepts of biocompatibility and material characterization will be discussed. Physiological response factors associated with materials and implanted devices used in the human body will be presented, including immunological responses, wound healing, clotting cascade and surface compatibility. Other topics such as ethical considerations and medical device regulatory mechanisms will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding fundamental principles of biomedical materials",
+            "Knowledge of properties of implants, prostheses, orthosis, and tissue-engineered materials",
+            "Understanding advanced concepts of biocompatibility",
+            "Material characterization techniques",
+            "Understanding physiological response factors associated with materials in the human body",
+            "Knowledge of immunological responses",
+            "Understanding wound healing processes",
+            "Knowledge of the clotting cascade",
+            "Familiarity with surface compatibility of materials",
+            "Knowledge of medical device regulatory mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex material concepts",
+            "Ability to discuss ethical considerations in biomedical materials",
+            "Presentation skills for conveying information on medical devices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of biocompatibility issues",
+            "Analytical skills for assessing material properties",
+            "Problem-solving abilities for physiological response challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding regulatory compliance in medical device development",
+            "Leadership skills in managing materials research projects"
+        ]
+    },
+    {
+        "courseCode": "BME 730",
+        "courseTitle": "Predoctoral Fellowship Grant Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students important tools and experience in the vital grantsmanship area, which is needed to succeed in the competitive academic landscape. Students will be exposed to information regarding major predoctoral fellowships including NIH, NSF, DoD, and AHA, culminating in a grant proposal submission to the appropriate institution.",
+        "Technical and Digital Skills": [
+            "Research proposal writing",
+            "Grant proposal submission process",
+            "Understanding of NIH, NSF, DoD, and AHA fellowships"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research ideas",
+            "Networking with funding institutions",
+            "Collaborating with mentors and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of grant requirements",
+            "Identifying research gaps",
+            "Data analysis for proposal support"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for proposal deadlines",
+            "Project management for grant writing",
+            "Leading research proposal teams"
+        ]
+    },
+    {
+        "courseCode": "BME 740",
+        "courseTitle": "Regenerative Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers a range of active research topics in regenerative medicine, including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biological systems. Upon completion of the course students should leave with a thorough understanding of biological systems structure-function relationships and associated biomimetic therapeutic approaches in regenerative medicine.",
+        "Technical and Digital Skills": [
+            "Therapeutic applications of biomaterials",
+            "Tissue and stem cell engineering",
+            "Gene therapy",
+            "Bioelectrics",
+            "Structure-function relationships of biological systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of structure-function relationships in biological systems",
+            "Biomimetic therapeutic approaches",
+            "Research analysis in regenerative medicine"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 741",
+        "courseTitle": "Principles of Visualization",
+        "academicLevel": "graduate",
+        "courseDescription": "Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making. This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science. Both users and developers of visualization tools and systems will benefit from this course.",
+        "Technical and Digital Skills": [
+            "Graphic design principles",
+            "Algorithm development for visualization",
+            "Visualization tool development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of visual information",
+            "Collaboration in visualization projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of visualization effectiveness",
+            "Data interpretation for visualization design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for visualization projects",
+            "Leadership in visualization tool development"
+        ]
+    },
+    {
+        "courseCode": "BME 747",
+        "courseTitle": "Responsible Conduct of Research",
+        "academicLevel": "graduate",
+        "courseDescription": "The course will introduce students to the responsible conduct of science and scientific research.",
+        "Technical and Digital Skills": [
+            "Scientific research methods",
+            "Data collection techniques",
+            "Laboratory skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration in research projects",
+            "Effective scientific writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Experimental design and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in scientific research",
+            "Ethical decision-making in research"
+        ]
+    },
+    {
+        "courseCode": "BME 751",
+        "courseTitle": "Computational and Statistical Methods in Biomedical Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the theoretical foundation and application of commonly used techniques in biomedical engineering.  Topics include linear algebra, partial differential equations, regression analysis, applied probabilities, multivariate distributions, Bayesian statistics, hypothesis tests, multiple comparisons, ANOVA, solution of non-linear equations, numerical methods and optimization.  Programming software will be used to perform simulations and analyze biomedical data.",
+        "Technical and Digital Skills": [
+            "Programming in software for simulations and data analysis",
+            "Numerical methods implementation",
+            "Optimization techniques application"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Regression analysis",
+            "Bayesian statistics",
+            "Hypothesis testing",
+            "Multivariate distributions analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 754",
+        "courseTitle": "Advanced Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.",
+        "Technical and Digital Skills": [
+            "Pulsed power technology",
+            "Electrical stimuli generation",
+            "Bioelectrics applications in tumor ablation",
+            "Gene electrotransfer techniques",
+            "Cold plasma decontamination methods",
+            "Cardiac arrhythmia treatment technologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biological response analysis",
+            "Assessment of electrical stimuli efficacy in cells and tissues",
+            "Optimization of bioelectrics protocols for specific applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 755",
+        "courseTitle": "Biomembranes and Ion Channels",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will give an overview of the structure and dynamics of biomembranes, the ion channels that are embedded in them, and the electrical properties of biomembranes. Topics include molecular dynamics modeling of biomembranes, membrane damage and repair, ion channel dynamics and their experimental assessment using patch clamping, and excitability in neurons and cardiomyocytes.",
+        "Technical and Digital Skills": [
+            "Molecular dynamics modeling",
+            "Patch clamping techniques",
+            "Electrophysiology data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on research projects",
+            "Presenting scientific findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing membrane damage and repair mechanisms",
+            "Interpreting ion channel dynamics data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading experimental research teams",
+            "Managing lab protocols and data organization"
+        ]
+    },
+    {
+        "courseCode": "BME 762",
+        "courseTitle": "Applied Medical Image Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.",
+        "Technical and Digital Skills": [
+            "Hands-on experience with Insight Segmentation and Registration Toolkit (ITK)",
+            "Understanding of medical image acquisition principles",
+            "Image enhancement techniques",
+            "Feature detection algorithms",
+            "Segmentation methods including basic techniques, feature-based classification, clustering, graph cuts, active contour and surface models",
+            "Surface and volume meshing",
+            "Registration techniques including transformations, similarity criteria",
+            "Knowledge of shape and appearance models"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical image analysis algorithms",
+            "Identifying and addressing issues in image processing pipelines",
+            "Applying appropriate segmentation and registration techniques based on medical imaging modalities",
+            "Troubleshooting and debugging in medical image analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 783",
+        "courseTitle": "Digital Image Processing",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles and techniques of two-dimensional processing of images.  Concepts of scale and spatial frequency.  Image filtering in spatial and transform domains.  Applications include image enhancement and restoration, image compressing, biomedical imaging for diagnosis of disease, and image segmentation for computer vision.",
+        "Technical and Digital Skills": [
+            "Image processing techniques",
+            "Spatial frequency analysis",
+            "Image filtering (spatial and transform domains)",
+            "Biomedical imaging analysis",
+            "Image compression methods",
+            "Image segmentation for computer vision"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of image processing results",
+            "Problem-solving in image enhancement and restoration",
+            "Analytical thinking in biomedical imaging diagnosis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 792",
+        "courseTitle": "Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.",
+        "Technical and Digital Skills": [
+            "Understanding multiscale mechanics",
+            "Applying computational modeling techniques",
+            "Experiment design in biomechanics research",
+            "Analyzing mechanical properties of musculoskeletal structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting biomechanics research findings",
+            "Collaborating with peers on biomechanics projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting whole-body movement data",
+            "Analyzing biomechanical experimental results",
+            "Troubleshooting computational modeling errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing biomechanics research projects",
+            "Leading biomechanics research teams"
+        ]
+    },
+    {
+        "courseCode": "BME 794",
+        "courseTitle": "Cellular Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "A broad introduction to the field of cellular biomechanics. Topics include overview of cell architecture, cytoskeleton, adhesion and molecular motors, biomolecular/biopolymer dynamics and mechanics, techniques to measure cell mechanical properties, techniques to mechanically stimulate cells, models of cell mechanical behavior, mechanobiology and mechanotransduction. Will include discussion of classic and current research articles.  Course content will aim to cater to students with diverse backgrounds – students with biological science background will be exposed to physical science concepts and analysis; students with engineering/physical science background will be exposed to biological phenomena and concepts.",
+        "Technical and Digital Skills": [
+            "Understanding cell architecture",
+            "Knowledge of cytoskeleton structure and function",
+            "Familiarity with molecular motors",
+            "Ability to analyze biomolecular and biopolymer dynamics",
+            "Proficiency in techniques to measure cell mechanical properties",
+            "Skills in techniques to mechanically stimulate cells",
+            "Understanding models of cell mechanical behavior",
+            "Knowledge of mechanobiology and mechanotransduction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex scientific concepts",
+            "Collaboration with individuals from diverse backgrounds"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research articles",
+            "Problem-solving in integrating biological and physical science concepts",
+            "Analytical skills in interpreting experimental data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to lead discussions on research articles",
+            "Organizing group projects involving interdisciplinary approaches"
+        ]
+    },
+    {
+        "courseCode": "BME 795",
+        "courseTitle": "Special Topics in Biomedical Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Special courses covering selected graduate-level topics in biomedical engineering.",
+        "Technical and Digital Skills": [
+            "Biomedical instrumentation",
+            "Medical imaging analysis",
+            "Biomechanics modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biomedical signal processing",
+            "Clinical data interpretation",
+            "Biomedical device design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 797",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course allows students to develop specialized expertise by independent study (supervised by a faculty member).",
+        "Technical and Digital Skills": [
+            "Specialized expertise development",
+            "Research methodology",
+            "Data analysis techniques",
+            "Literature review skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Presentation of research findings",
+            "Collaboration on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research sources",
+            "Problem identification and resolution",
+            "Experimental design and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project planning and execution",
+            "Self-motivation and self-discipline"
+        ]
+    },
+    {
+        "courseCode": "BME 820",
+        "courseTitle": "Modern Biomedical Instrumentation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the design of modern biomedical instruments including select diagnostic, assistive, therapeutic, prosthetic, imaging, and virtual devices and systems.  Techniques for mechanical, electrical, and chemical sensor and transducer design; stimulation and measurement; data acquisition; digital signal processing; and data visualization will be examined.",
+        "Technical and Digital Skills": [
+            "Biomedical instrument design",
+            "Sensor and transducer design",
+            "Data acquisition techniques",
+            "Digital signal processing",
+            "Data visualization",
+            "Electrical sensor design",
+            "Chemical sensor design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sensor performance",
+            "Analyzing data accuracy",
+            "Troubleshooting instrumentation issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 821",
+        "courseTitle": "Mathematical Modeling in Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course on mathematical modeling in human physiology emphasizes the development of mathematical models, their implementation, and the interpretation of simulation data.  The course focuses on cellular physiology, including membrane channels, excitability, and calcium dynamics; it also covers intercellular communication and spatially distributed systems.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Simulation data interpretation",
+            "Cellular physiology modeling",
+            "Implementation of mathematical models",
+            "Spatially distributed systems modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data visualization",
+            "Collaborative problem-solving",
+            "Clear communication of modeling results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of simulation data",
+            "Model validation techniques",
+            "Identification of system dynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 824",
+        "courseTitle": "Neural Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents engineering techniques for the restoration and augmentation of human function via direct interactions between the nervous system and artificial devices, with particular emphasis on brain-computer interfaces.  Novel interfaces, hardware and computational issues, and practical and ethical considerations will also be covered.",
+        "Technical and Digital Skills": [
+            "Neural signal processing",
+            "Brain-computer interface design",
+            "Hardware implementation for nervous system interactions",
+            "Computational modeling of neural systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting technical concepts to non-technical audiences",
+            "Collaboration with interdisciplinary teams on neural engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and troubleshooting hardware/software issues in neural interfaces",
+            "Evaluating ethical implications of neural engineering advancements",
+            "Analyzing data from neural recordings for insights"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading neural engineering projects from conception to execution",
+            "Managing resources effectively for neural interface development"
+        ]
+    },
+    {
+        "courseCode": "BME 826",
+        "courseTitle": "Biomaterials",
+        "academicLevel": "graduate",
+        "courseDescription": "This course cover fundamental principles and properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Advanced concepts of biocompatibility and material characterization will be discussed. Physiological response factors associated with materials and implanted devices used in the human body will be presented, including immunological responses, wound healing, clotting cascade and surface compatibility. Other topics such as ethical considerations and medical device regulatory mechanisms will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of fundamental principles of biomedical materials",
+            "Knowledge of biocompatibility",
+            "Material characterization techniques",
+            "Understanding physiological response factors",
+            "Familiarity with medical device regulatory mechanisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex technical information",
+            "Ability to discuss ethical considerations related to biomaterials"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing immunological responses to materials",
+            "Problem-solving related to wound healing and clotting cascade",
+            "Critical evaluation of surface compatibility"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to lead discussions on biocompatibility and material properties",
+            "Organizing and facilitating discussions on medical device regulatory mechanisms"
+        ]
+    },
+    {
+        "courseCode": "BME 830",
+        "courseTitle": "Predoctoral Fellowship Grant Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students important tools and experience in the vital grantsmanship area, which is needed to succeed in the competitive academic landscape. Students will be exposed to information regarding major predoctoral fellowships including NIH, NSF, DoD, and AHA, culminating in a grant proposal submission to the appropriate institution.",
+        "Technical and Digital Skills": [
+            "Grant proposal writing",
+            "Research methodology",
+            "Budget development",
+            "Literature review",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research ideas",
+            "Collaboration with mentors and peers",
+            "Presentation skills",
+            "Networking with funding agencies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research proposals",
+            "Identifying research gaps",
+            "Troubleshooting experimental design issues",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management for grant deadlines",
+            "Team coordination for collaborative research projects",
+            "Leadership in research initiatives"
+        ]
+    },
+    {
+        "courseCode": "BME 840",
+        "courseTitle": "Regenerative Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers a range of active research topics in regenerative medicine, including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biological systems.  Upon completion of the course students should leave with a thorough understanding of biological systems structure-function relationships and associated biomimetic therapeutic approaches in regenerative medicine.",
+        "Technical and Digital Skills": [
+            "Therapeutic applications of biomaterials",
+            "Tissue and stem cell engineering",
+            "Gene therapy",
+            "Bioelectrics",
+            "Understanding structure-function relationships of biological systems",
+            "Utilizing biomimetic therapeutic approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with interdisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of biological systems",
+            "Applying research findings to develop new therapies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research projects in regenerative medicine",
+            "Managing team dynamics in a research setting"
+        ]
+    },
+    {
+        "courseCode": "BME 841",
+        "courseTitle": "Principles of Visualization",
+        "academicLevel": "graduate",
+        "courseDescription": "Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making. This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science. Both users and developers of visualization tools and systems will benefit from this course.",
+        "Technical and Digital Skills": [
+            "Graphic design principles",
+            "Data visualization algorithms",
+            "Visualization tool development",
+            "Perceptual psychology knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of visual concepts",
+            "Collaboration with developers and users of visualization tools"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of visual information",
+            "Decision-making based on visual data",
+            "Algorithmic problem-solving for visualization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for visualization projects",
+            "Leading and guiding teams in visualization design and development"
+        ]
+    },
+    {
+        "courseCode": "BME 847",
+        "courseTitle": "Responsible Conduct of Research",
+        "academicLevel": "graduate",
+        "courseDescription": "The course will introduce students to the responsible conduct of science and scientific research.",
+        "Technical and Digital Skills": [
+            "Data integrity verification",
+            "Lab safety protocols implementation",
+            "Ethical research data handling",
+            "Research compliance software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conflict resolution in research teams",
+            "Effective research communication to non-experts",
+            "Collaborative research project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical dilemma resolution in research",
+            "Research misconduct detection and prevention",
+            "Critical evaluation of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research team coordination",
+            "Research project planning and execution",
+            "Ethical leadership in research environments"
+        ]
+    },
+    {
+        "courseCode": "BME 851",
+        "courseTitle": "Computational and Statistical Methods in Biomedical Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the theoretical foundation and application of commonly used techniques in biomedical engineering.  Topics include linear algebra, partial differential equations, regression analysis, applied probabilities, multivariate distributions, Bayesian statistics, hypothesis tests, multiple comparisons, ANOVA, solution of non-linear equations, numerical methods and optimization. Programming software will be used to perform simulations and analyze biomedical data.",
+        "Technical and Digital Skills": [
+            "Programming in a scientific computing software (e.g., MATLAB, R)",
+            "Numerical methods for solving differential equations",
+            "Data analysis using statistical software",
+            "Simulation techniques for biomedical data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Regression analysis for modeling",
+            "Bayesian statistics for inference",
+            "Hypothesis testing for experimental validation",
+            "Optimization methods for parameter tuning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 854",
+        "courseTitle": "Advanced Bioelectrics",
+        "academicLevel": "graduate",
+        "courseDescription": "Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.",
+        "Technical and Digital Skills": [
+            "Pulsed power technology",
+            "Electrical stimuli generation",
+            "Medical device technology",
+            "Cold plasma technology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biological response analysis",
+            "Medical application evaluation",
+            "Treatment optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 855",
+        "courseTitle": "Biomembranes and Ion Channels",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will give an overview of the structure and dynamics of biomembranes, the ion channels that are embedded in them, and the electrical properties of biomembranes. Topics include molecular dynamics modeling of biomembranes, membrane damage and repair, ion channel dynamics and their experimental assessment using patch clamping, and excitability in neurons and cardiomyocytes.",
+        "Technical and Digital Skills": [
+            "Molecular dynamics modeling of biomembranes",
+            "Experimental assessment using patch clamping",
+            "Electrical properties of biomembranes analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ion channel dynamics",
+            "Problem-solving in membrane damage and repair"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 862",
+        "courseTitle": "Applied Medical Image Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.",
+        "Technical and Digital Skills": [
+            "Hands-on experience with medical image analysis algorithms",
+            "Using Insight Segmentation and Registration Toolkit (ITK)",
+            "Medical image acquisition principles",
+            "X-ray, CT, and MRI image processing",
+            "Image enhancement techniques",
+            "Feature detection in medical images",
+            "Segmentation methods including graph cuts and active contour models",
+            "Surface and volume meshing in medical images",
+            "Registration techniques and similarity criteria"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on medical image analysis projects",
+            "Effective communication of image analysis results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical image analysis algorithms",
+            "Troubleshooting image processing issues",
+            "Applying feature-based classification in medical images",
+            "Analyzing and interpreting segmentation results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in medical image analysis",
+            "Leading a team in image processing tasks"
+        ]
+    },
+    {
+        "courseCode": "BME 883",
+        "courseTitle": "Digital Image Processing",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles and techniques of two-dimensional processing of images.  Concepts of scale and spatial frequency.  Image filtering in spatial and transform domains.  Applications include image enhancement and restoration, image compressing, biomedical imaging for diagnosis of disease, and image segmentation for computer vision.",
+        "Technical and Digital Skills": [
+            "Image processing techniques",
+            "Spatial frequency analysis",
+            "Image filtering (spatial and transform domains)",
+            "Image enhancement methods",
+            "Image restoration techniques",
+            "Image compression algorithms",
+            "Biomedical imaging principles",
+            "Image segmentation for computer vision"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of image processing methods",
+            "Problem-solving in image quality issues",
+            "Analytical reasoning for image segmentation",
+            "Algorithm optimization for image compression"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 892",
+        "courseTitle": "Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.",
+        "Technical and Digital Skills": [
+            "Multiscale mechanics understanding",
+            "Musculoskeletal system knowledge",
+            "Experimental methods in biomechanics",
+            "Computational modeling in biomechanics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing whole-body movement",
+            "Evaluating mechanical properties of musculoskeletal structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 894",
+        "courseTitle": "Cellular Biomechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "A broad introduction to the field of cellular biomechanics. Topics include overview of cell architecture, cytoskeleton, adhesion and molecular motors, biomolecular/biopolymer dynamics and mechanics, techniques to measure cell mechanical properties, techniques to mechanically stimulate cells, models of cell mechanical behavior, mechanobiology and mechanotransduction. Will include discussion of classic and current research articles.  Course content will aim to cater to students with diverse backgrounds – students with biological science background will be exposed to physical science concepts and analysis; students with engineering/physical science background will be exposed to biological phenomena and concepts.",
+        "Technical and Digital Skills": [
+            "Understanding of cell architecture",
+            "Knowledge of cytoskeleton and adhesion",
+            "Familiarity with molecular motors",
+            "Understanding of biomolecular/biopolymer dynamics and mechanics",
+            "Ability to measure cell mechanical properties",
+            "Skills in mechanically stimulating cells",
+            "Knowledge of models of cell mechanical behavior",
+            "Understanding of mechanobiology and mechanotransduction"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research articles",
+            "Applying physical science concepts to biological phenomena",
+            "Applying biological concepts to physical science"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 895",
+        "courseTitle": "Special Topics in Biomedical Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Special courses covering selected graduate-level topics in biomedical engineering.",
+        "Technical and Digital Skills": [
+            "Biomedical signal processing",
+            "Medical imaging analysis",
+            "Biomechanics modeling",
+            "Biological systems simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Biomedical data interpretation",
+            "Algorithm development for medical applications",
+            "Experimental design for biomedical research"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "BME 897",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "This course allows students to develop specialized expertise by independent study (supervised by a faculty member).",
+        "Technical and Digital Skills": [
+            "Specialized expertise development",
+            "Independent research skills",
+            "Data analysis tools proficiency",
+            "Technical writing abilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty member",
+            "Presentation of research findings",
+            "Collaborative work with supervisor",
+            "Feedback incorporation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design and execution",
+            "Data interpretation and synthesis",
+            "Critical evaluation of information",
+            "Identifying research gaps"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of independent study",
+            "Time management for research tasks",
+            "Initiative and self-motivation in learning",
+            "Adaptability to changing research directions"
+        ]
+    },
+    {
+        "courseCode": "BME 899",
+        "courseTitle": "PHD Dissertation Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research for the doctoral dissertation.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methodology",
+            "Data analysis tools",
+            "Statistical software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with research advisors and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research literature",
+            "Developing research questions",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research tasks",
+            "Project management for dissertation timeline"
+        ]
+    },
+    {
+        "courseCode": "BME 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status",
+            "Registration process understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Collaboration with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to course requirements",
+            "Meeting deadlines consistently"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for course workload",
+            "Taking initiative in academic pursuits"
+        ]
+    }
+]

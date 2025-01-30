@@ -1,0 +1,1981 @@
+[
+    {
+        "courseTitle": "Introduction to Criminology",
+        "courseCode": "CRJS 215S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to criminology as a science, including the study of crime, criminals, and society's response to them.",
+        "Technical and Digital Skills": [
+            "Research methodology in criminology",
+            "Data analysis in criminology research",
+            "Crime mapping software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing in criminology",
+            "Interviewing skills for criminological research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime pattern recognition",
+            "Statistical analysis in criminology research",
+            "Critical thinking in criminology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in criminology research",
+            "Team coordination for criminology projects"
+        ]
+    },
+    {
+        "courseTitle": "The Criminal Justice System",
+        "courseCode": "CRJS 222",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of social response to criminal behavior as cases move through the machinery of justice.  Describes the interdependence of crime statistics, law enforcement, criminal courts, and correctional procedures for purposes of analyzing the entire system.",
+        "Technical and Digital Skills": [
+            "Understanding of criminal law and procedures",
+            "Knowledge of crime statistics analysis",
+            "Familiarity with correctional procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with law enforcement officials",
+            "Collaboration with criminal courts personnel"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the interdependence of crime statistics, law enforcement, criminal courts, and correctional procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and coordinating various aspects of the criminal justice system"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Introduction to Criminology",
+        "courseCode": "CRJS 226S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  Special honors section of CRJS 215S.",
+        "Technical and Digital Skills": [
+            "Crime data analysis",
+            "Forensic technology usage",
+            "Criminal profiling software utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Report writing on criminal cases",
+            "Effective interviewing techniques in investigations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene reconstruction",
+            "Evidence evaluation and interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading crime scene investigations",
+            "Managing a team of investigators"
+        ]
+    },
+    {
+        "courseTitle": "Law and the Criminal Justice System",
+        "courseCode": "CRJS 262",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course covers both substantive and procedural law related to the definitions, investigations, processing and punishment of crimes.  It is meant to provide the students with an overall understanding of the articulation between law and the criminal justice system.",
+        "Technical and Digital Skills": [
+            "Understanding of substantive and procedural law",
+            "Crime definitions and investigations knowledge",
+            "Processing and punishment procedures understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with law enforcement and legal professionals",
+            "Collaboration with criminal justice system stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing legal cases and evidence",
+            "Identifying gaps in legal procedures",
+            "Developing solutions for improving justice system processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing legal documentation and case files",
+            "Leading discussions on legal reforms and policy changes"
+        ]
+    },
+    {
+        "courseTitle": "Cybercriminology: Foundations",
+        "courseCode": "CRJS 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide students with an overview of computer-related crimes and how law enforcement officials investigate them. The course begins by describing the environment that has been created through information and communication technologies, and how this new environment facilitates different types of behavior. The course then moves into defining and describing the different types of computer-related crimes, the techniques used by officials, and the legal issues inherent in combating cybercrime.",
+        "Technical and Digital Skills": [
+            "Understanding of information security",
+            "Knowledge of computer-related crimes",
+            "Familiarity with investigation techniques in cybercrime cases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with law enforcement officials during investigations",
+            "Collaboration with team members in cybercrime cases"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information related to cybercrimes",
+            "Problem-solving in complex legal issues within cybercrime cases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in cybercrime investigations",
+            "Organizational skills in managing and coordinating resources for cybercrime prevention"
+        ]
+    },
+    {
+        "courseTitle": "Juvenile Delinquency",
+        "courseCode": "CRJS 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of juvenile misbehavior in the contemporary community, its nature, extent, treatment, and control, including juvenile court procedure and philosophy.",
+        "Technical and Digital Skills": [
+            "Understanding juvenile court procedures",
+            "Knowledge of juvenile treatment programs",
+            "Data analysis for juvenile behavior",
+            "Utilizing digital resources for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with juveniles",
+            "Conflict resolution with young individuals",
+            "Empathy and understanding in juvenile interactions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing root causes of juvenile delinquency",
+            "Developing treatment plans for at-risk youth",
+            "Evaluating effectiveness of juvenile justice programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating with community resources for juvenile support",
+            "Leading group therapy sessions for young offenders",
+            "Implementing strategies for juvenile behavior improvement"
+        ]
+    },
+    {
+        "courseTitle": "Correctional Institutions",
+        "courseCode": "CRJS 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the history of prisons and jails, their formal and informal organization, their effects on individuals, and issues and philosophies of penal reform.",
+        "Technical and Digital Skills": [
+            "Understanding prison architecture",
+            "Security technology in correctional facilities",
+            "Inmate management software systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conflict resolution with inmates",
+            "Effective communication with correctional staff and supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment for inmate behavior",
+            "Crisis management in correctional settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading correctional teams",
+            "Developing and implementing reform strategies in prisons"
+        ]
+    },
+    {
+        "courseTitle": "Probation, Parole and Community-Based Corrections",
+        "courseCode": "CRJS 318",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the history, law, administration and social setting of probation, parole and other noninstitutional sentencing alternatives.  Also explores nontraditional alternatives to criminal adjudication such as arbitration and diversion programs.",
+        "Technical and Digital Skills": [
+            "Understanding of criminal justice systems",
+            "Knowledge of probation and parole laws",
+            "Familiarity with noninstitutional sentencing alternatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and stakeholders",
+            "Building rapport with individuals under supervision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of individual needs for rehabilitation",
+            "Development of case management plans",
+            "Evaluation of community resources for reintegration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective caseload management",
+            "Supervision and monitoring of clients",
+            "Collaboration with community organizations for support services"
+        ]
+    },
+    {
+        "courseTitle": "Public and Private Security",
+        "courseCode": "CRJS 319",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The organization of security systems in public and private agencies and institutions.",
+        "Technical and Digital Skills": [
+            "Security systems organization",
+            "Information security protocols",
+            "Access control systems management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Conflict resolution in security incidents"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment and mitigation strategies",
+            "Critical evaluation of security threats"
+        ],
+        "Organizational and Leadership Skills": [
+            "Security system implementation planning",
+            "Team coordination in emergency response situations"
+        ]
+    },
+    {
+        "courseTitle": "Law and Social Control",
+        "courseCode": "CRJS 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the creation, use and effectiveness of formal and informal mechanisms of social control for both criminal and noncriminal deviant behavior.  Cross-cultural comparisons are given special emphasis.",
+        "Technical and Digital Skills": [
+            "Knowledge of legal systems and procedures",
+            "Understanding of social control mechanisms",
+            "Cross-cultural comparative analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal concepts",
+            "Cross-cultural communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of social control mechanisms",
+            "Critical evaluation of formal and informal mechanisms",
+            "Problem-solving in cross-cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in social control strategies",
+            "Organizing and implementing social control measures"
+        ]
+    },
+    {
+        "courseTitle": "Death Penalty",
+        "courseCode": "CRJS 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the historical and philosophical foundations of the death penalty in the United States, the Supreme Court case precedent that has effectively narrowed its modern application, and the contentious issues that surround America’s most severe punishment. Topics will include the moral/legal arguments surrounding the death penalty; the legal process of capital cases; the racial, ethnic, socioeconomic, and gender disparities that exist in death sentencing and executions; recent trends and scholarly evidence related to capital punishment; reasons for continued support; and the movement toward abolition.",
+        "Technical and Digital Skills": [
+            "Legal research",
+            "Case law analysis",
+            "Data interpretation in legal context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating moral/legal issues",
+            "Presenting complex legal arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of legal evidence",
+            "Identifying disparities in sentencing data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on contentious issues",
+            "Facilitating abolition movement"
+        ]
+    },
+    {
+        "courseTitle": "Police in American Society",
+        "courseCode": "CRJS 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the role of police in a free society. Police functions, subculture, community relations and decision making receive special attention.  Problems such as police corruption, violence and the methods by which society attempts to control police behavior are also discussed.",
+        "Technical and Digital Skills": [
+            "Law enforcement procedures",
+            "Crime data analysis",
+            "Police decision-making tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement strategies",
+            "Conflict resolution techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns in crime data",
+            "Evaluating police behavior in various scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing community policing initiatives",
+            "Leading a diverse team of law enforcement professionals"
+        ]
+    },
+    {
+        "courseTitle": "Women and Crime",
+        "courseCode": "CRJS 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the role of women as offenders, victims and employees of the criminal justice system. Theories of female criminality and the treatment of female offenders are explored.  Attention is given to the victimization of women, specifically wife abuse and rape, problems of minority women, and the impact of current legislation.",
+        "Technical and Digital Skills": [
+            "Research skills in criminology",
+            "Data analysis for criminal justice data",
+            "Legal research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Victim advocacy communication",
+            "Interviewing skills for criminal justice professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing theories of female criminality",
+            "Evaluating treatment programs for female offenders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on female victimization",
+            "Organizing community outreach events for minority women"
+        ]
+    },
+    {
+        "courseTitle": "LGBTQ People, Crime, and Justice",
+        "courseCode": "CRJS 326",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Learning appropriate terminology to discuss LGBTQ individuals, as well as a review of the social issues facing these populations, including damaging cultural stereotypes. Critically exploring the history of interactions between LGBTQ communities and agents of formal control, such as schools and the police, including responses to bullying and bias crimes. Interrogating how changing political and social contexts affect policy regarding formal responses to LGBTQ communities.",
+        "Technical and Digital Skills": [
+            "Critical evaluation of information",
+            "Understanding of social media impact on LGBTQ issues",
+            "Research skills in LGBTQ studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective terminology usage in LGBTQ discussions",
+            "Engaging with LGBTQ communities respectfully",
+            "Advocating for LGBTQ rights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing responses to bullying and bias crimes",
+            "Evaluating policy changes affecting LGBTQ communities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on LGBTQ issues",
+            "Organizing events or campaigns for LGBTQ awareness"
+        ]
+    },
+    {
+        "courseTitle": "White-Collar Crime",
+        "courseCode": "CRJS 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will describe and explain corporate, state-corporate, government (state) crime and crimes of globalization from sociological and criminological perspectives.  Although the course will deal with the general topic of white collar crime, the specific focus will be on organizational offenders such as business corporations, government, state agencies and international finance organizations.",
+        "Technical and Digital Skills": [
+            "Understanding of information security",
+            "Knowledge of financial systems",
+            "Data analysis skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse stakeholders",
+            "Conflict resolution within organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Identifying patterns of white-collar crime"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making in corporate settings",
+            "Leading investigations into corporate crimes"
+        ]
+    },
+    {
+        "courseTitle": "Social Science and Crime Mapping",
+        "courseCode": "CRJS 344",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A critical exploration of applying geographic information system (GIS) to view, understand, question, interpret, and visualize social science and crime data that reveal relationships, patterns, and trends. Students will learn to 1) frame a research question or hypothesis from a location-based perspective; 2) collect, create and examine geographically referenced demographic, social, and criminological data; 3) learn to use GIS mapping software to visualize, manage and analyze this data in order to investigate the relationship between geographic, demographic, social and criminological variables; and 4) arrive upon decisions and conclusions and communicate these via the creation of publishable maps.",
+        "Technical and Digital Skills": [
+            "Geographic Information System (GIS) software proficiency",
+            "Data visualization techniques",
+            "Data analysis using GIS mapping software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation skills",
+            "Collaboration in data analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns in social science and crime data",
+            "Analyzing relationships between geographic and demographic variables"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in GIS data analysis",
+            "Decision-making based on data insights"
+        ]
+    },
+    {
+        "courseTitle": "Organized Crime: A Survey of Domestic and World-Wide Organized Crime Activities",
+        "courseCode": "CRJS 345",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A broad survey of the history and consequences of organized crime in the United States and the world. Special focus will be directed at the economic, social and developmental effects of organized criminal activities.",
+        "Technical and Digital Skills": [
+            "Research skills in criminal activities",
+            "Data analysis of organized crime data",
+            "Understanding encryption methods used by criminal organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of findings on organized crime",
+            "Collaboration with law enforcement agencies for data sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of organized crime information",
+            "Identifying patterns in criminal activities",
+            "Developing strategies to combat organized crime"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a task force against organized crime",
+            "Organizing data on criminal networks for analysis"
+        ]
+    },
+    {
+        "courseTitle": "Film and Society",
+        "courseCode": "CRJS 348",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Sociological examination of film as an art form, an industry, and a social institution. Major topics include socialization through film, how one’s unique socialization affects the film experience, social inequality (racism/ethnocentrism/sexism/ageism) as exhibited in film, and as they occur within the film industry, film as an educational tool, gender roles as exhibited in film and perpetuated within the film industry, film and copycat crime, crime in the film industry, portrayal of crime in film, international cinema and globalization.",
+        "Technical and Digital Skills": [
+            "Understanding film production techniques",
+            "Video editing software proficiency",
+            "Knowledge of film industry technology trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Analyzing and discussing social issues portrayed in films",
+            "Effective communication of sociological concepts through film analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social inequality themes in films",
+            "Identifying and analyzing gender stereotypes in film industry practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on societal implications of films",
+            "Organizing film screenings and discussions on social issues"
+        ]
+    },
+    {
+        "courseTitle": "Crime and the Community",
+        "courseCode": "CRJS 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the effect of crime on communities and the ways in which communities affect crime.  The class considers both ethnographic community studies as well as larger-scale demographic analysis.",
+        "Technical and Digital Skills": [
+            "Ethnographic research methods",
+            "Demographic analysis tools",
+            "Data visualization software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement techniques",
+            "Effective communication with diverse groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime data interpretation",
+            "Community impact assessment",
+            "Statistical analysis of crime trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Community project management",
+            "Collaborative decision-making in community settings"
+        ]
+    },
+    {
+        "courseTitle": "Gangs",
+        "courseCode": "CRJS 356",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course seeks to evaluate issues central to the study of modern gangs, such as gang definitions, prevalence, proliferation, migration, formation, histories, and gang/gang member characteristics. Another objective is to understand why and how young people both join and leave their gangs and explore how gang structure and organization can influence gang and gang member behavior, including their involvement in violence, other illegal acts, their victimization, and the gendered experiences of female gang members. Students will also review assess policies and efforts regarding gang prevention, intervention, and suppression and distinguish between stereotypes/myths and realities about gangs and gang members based on empirical research and theory.",
+        "Technical and Digital Skills": [
+            "Gang definitions analysis",
+            "Prevalence data evaluation",
+            "Migration patterns assessment",
+            "Formation process understanding",
+            "Historical research skills on gangs",
+            "Characteristics analysis of gangs and gang members"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging with young gang members for insights",
+            "Interviewing former gang members",
+            "Communicating effectively with gang intervention professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating gang prevention policies",
+            "Analyzing suppression strategies",
+            "Distinguishing between gang stereotypes and realities based on research",
+            "Critical assessment of gang member behavior patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on gang issues",
+            "Coordinating group projects on gang research",
+            "Organizing presentations on gang prevention efforts"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "CRJS 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course allows students to volunteer to work in an agency related to their major.  Students must volunteer for 50 hours per course credit.",
+        "Technical and Digital Skills": [
+            "Hands-on experience in major-related tasks",
+            "Utilizing industry-specific software or tools",
+            "Data entry and analysis",
+            "Technical troubleshooting",
+            "Utilizing digital communication platforms for work purposes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional email communication",
+            "Team collaboration in a work setting",
+            "Active listening and feedback reception",
+            "Conflict resolution in a professional environment",
+            "Networking with professionals in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing challenges in the workplace",
+            "Critical thinking in decision-making processes",
+            "Adapting to unexpected situations",
+            "Creative problem-solving in a professional context",
+            "Research skills for project-related tasks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for meeting project deadlines",
+            "Task delegation and coordination with team members",
+            "Taking initiative in project tasks",
+            "Adaptability in changing work environments",
+            "Professionalism in representing the agency"
+        ]
+    },
+    {
+        "courseTitle": "State Crime",
+        "courseCode": "CRJS 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores state crime from a sociological and criminological perspective. It examines historical and current cases of governmental crime at home and abroad. It also explores the intertwinement of states with other states, corporations, and, when applicable, international financial institutions as well as their roles in facilitating or constraining acts of state crime. Finally, the class discusses the problems of control, domestically and internationally.",
+        "Technical and Digital Skills": [
+            "Researching historical state crime cases",
+            "Analyzing governmental crime data",
+            "Using criminological perspectives to understand state crime",
+            "Exploring intertwinement of states with other entities in facilitating or constraining state crime"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing state crime issues with peers",
+            "Presenting findings on governmental crime cases",
+            "Engaging in class debates on state crime control problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of governmental crime information",
+            "Identifying patterns in state crime data",
+            "Analyzing the impact of international financial institutions on state crime"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on state crime topics",
+            "Organizing research on historical and current cases of state crime"
+        ]
+    },
+    {
+        "courseTitle": "Crime Prevention",
+        "courseCode": "CRJS 375",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to the approaches and practices of crime prevention. In addition, the course discusses primary, secondary, and tertiary crime prevention measures aimed at reducing or eliminating crime. Finally, the course addresses research and information on many aspects of crime prevention, including the physical environment and crime, neighborhood crime prevention, and crime in schools.",
+        "Technical and Digital Skills": [
+            "Crime mapping software utilization",
+            "Security system installation",
+            "Data analysis for crime trends",
+            "Geographic Information Systems (GIS) application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community outreach and engagement",
+            "Public speaking on crime prevention strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment for crime prevention measures",
+            "Analyzing crime data for pattern recognition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating community crime prevention programs",
+            "Leading neighborhood watch initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Criminal Justice",
+        "courseCode": "CRJS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors or for elective credit within a major. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Forensic analysis techniques",
+            "Crime mapping software utilization",
+            "Database querying for criminal data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing for law enforcement",
+            "Interviewing and interrogation skills",
+            "Conflict resolution in criminal justice settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene reconstruction",
+            "Evidence evaluation and interpretation",
+            "Case study analysis in criminal investigations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crime prevention program development",
+            "Team coordination in law enforcement operations",
+            "Crisis management in criminal justice"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Criminal Justice",
+        "courseCode": "CRJS 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors or for elective credit within a major. These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Crime mapping software utilization",
+            "Forensic evidence analysis techniques",
+            "Digital forensics tools operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing for law enforcement",
+            "Interrogation techniques",
+            "Conflict resolution in criminal justice settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene reconstruction",
+            "Evidence interpretation and analysis",
+            "Case study analysis for legal decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management in law enforcement",
+            "Team coordination in criminal investigations",
+            "Strategic planning for law enforcement operations"
+        ]
+    },
+    {
+        "courseTitle": "Understanding Violence",
+        "courseCode": "CRJS 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines a variety of forms of violence from suicide, child abuse, rape and family violence, terrorism, torture, death squads and the death penalty and hate violence.  Explores the circumstances, rationalizations, patterns, explanations and effects on survivors.",
+        "Technical and Digital Skills": [
+            "Research methodologies for violence studies",
+            "Data analysis for violence statistics",
+            "Digital forensics for investigating violent crimes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy in dealing with survivors of violence",
+            "Effective communication with diverse stakeholders in violence prevention",
+            "Conflict resolution in violent situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns in violent behavior",
+            "Developing strategies to prevent violence in communities",
+            "Critical evaluation of violence-related data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading violence prevention initiatives",
+            "Creating and implementing policies to address violence",
+            "Managing teams in crisis intervention situations"
+        ]
+    },
+    {
+        "courseTitle": "Violence in the World of Children",
+        "courseCode": "CRJS 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This child-centered course examines the interaction of adults in violent conflict with the world of children, children's experience of violence and its meaning in the lives of children.  Topics include: valuing children, violence toward children in culture, families, and schools; child physical and sexual abuse and neglect; gangs, violent communities and children and war.  The effects of childhood experiences of violence, children's coping with violence, and alternatives to violence are also developed.",
+        "Technical and Digital Skills": [
+            "Understanding cultural impacts on violence towards children",
+            "Child advocacy strategies",
+            "Research methodologies related to violence in children",
+            "Child protection policies and laws"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy towards children in violent situations",
+            "Effective communication with children about violence",
+            "Building trust with children affected by violence",
+            "Collaborating with child welfare organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying signs of violence in children",
+            "Developing intervention strategies for children in violent environments",
+            "Analyzing the impact of violence on children's development",
+            "Assessing the effectiveness of violence prevention programs for children"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading advocacy campaigns for children's rights",
+            "Coordinating support services for children exposed to violence",
+            "Creating trauma-informed care plans for children",
+            "Developing community programs to address violence against children"
+        ]
+    },
+    {
+        "courseTitle": "Law and Digital Forensics",
+        "courseCode": "CRJS 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will focus on the intersection between digital forensics and the criminal justice system, namely how digital forensics is understood and applied to key criminal justice, constitutional and statutory considerations within the criminal justice system.  Students will explore such topics as the nature and types of cybercrime; search and seizure principles in the digital world; finding, handling and maintaining chain of custody of digital evidence; interviewing individuals relating to digital evidence and related activities; and testifying in court about digital evidence matters.",
+        "Technical and Digital Skills": [
+            "Digital forensics techniques",
+            "Chain of custody procedures for digital evidence",
+            "Interviewing techniques for digital evidence collection",
+            "Courtroom testimony on digital evidence",
+            "Understanding cybercrime types",
+            "Search and seizure principles in digital investigations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical concepts to non-technical audience",
+            "Interviewing individuals for digital evidence collection",
+            "Presenting digital evidence in court"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of digital evidence",
+            "Analyzing digital evidence for investigative purposes",
+            "Identifying and addressing challenges in digital evidence collection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Maintaining chain of custody for digital evidence",
+            "Leading digital evidence collection teams",
+            "Coordinating digital evidence analysis process"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Law",
+        "courseCode": "CRJS 406",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course tackles two major cyber law subjects. The first part of the course examines various U.S. laws and legal considerations that impact the digital and cyberspace worlds from traditional civil, and to a lesser extent, traditional criminal perspectives. The second part will familiarize cyber operations professionals about the extent of and limitations on their authorities to ensure operations in cyberspace are in compliance with U.S. law, regulations, directives and policies. The course will also introduce students to miscellaneous cybersecurity topics such as the Federal Acquisition Requirements. Cross-listed with CYSE 406 and CPD 406.",
+        "Technical and Digital Skills": [
+            "Understanding U.S. cyber laws",
+            "Knowledge of legal considerations in cyberspace",
+            "Compliance with U.S. law in cyber operations",
+            "Familiarity with Federal Acquisition Requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal concepts in cyberspace",
+            "Collaboration with cyber operations professionals",
+            "Presentation of cybersecurity topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of legal implications in cyberspace",
+            "Analyzing limitations on authorities in cyberspace operations",
+            "Problem-solving in compliance with U.S. law"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in ensuring legal compliance in cyber operations",
+            "Organizing and managing cyber law projects",
+            "Decision-making in legal and cybersecurity contexts"
+        ]
+    },
+    {
+        "courseTitle": "Violence Against Children Internationally",
+        "courseCode": "CRJS 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the research on child maltreatment abuse internationally, in particular on the most common types of child abuse and neglect—i.e., perpetrated by parents, family members.  The negative effects of child abuse and neglect are associated subsequently with every social problem from poverty, teenage motherhood, substance abuse, violent crime, domestic violence, and mental health problems, to ill-health—from cancer to diabetes.",
+        "Technical and Digital Skills": [
+            "Research on child maltreatment",
+            "Understanding common types of child abuse and neglect",
+            "Identifying negative effects of child abuse and neglect on social problems",
+            "Knowledge of international child protection laws and policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Empathy towards victims of abuse",
+            "Effective communication with stakeholders in different countries"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of child abuse data",
+            "Identifying root causes of child maltreatment",
+            "Developing strategies to prevent child abuse internationally"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating international efforts to combat child abuse",
+            "Leading advocacy campaigns for child protection rights globally",
+            "Collaborating with NGOs and government agencies to address child maltreatment issues"
+        ]
+    },
+    {
+        "courseTitle": "Children's Rights and the Law",
+        "courseCode": "CRJS 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the law concerning children from a children's rights perspective. The rights of children in the US will be compared to other nations with special emphasis being placed on the UN Convention on the Rights of the Child.",
+        "Technical and Digital Skills": [
+            "Knowledge of child rights laws in the US and internationally",
+            "Understanding of the UN Convention on the Rights of the Child"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal concepts related to children's rights",
+            "Collaboration with individuals from diverse backgrounds"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of children's rights laws across different countries",
+            "Critical evaluation of legal documents and treaties regarding children's rights"
+        ],
+        "Organizational and Leadership Skills": [
+            "Advocacy for children's rights",
+            "Leading discussions on legal implications for children's well-being"
+        ]
+    },
+    {
+        "courseTitle": "Crime and Computer Applications",
+        "courseCode": "CRJS 409",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The purpose of this interdisciplinary course is to introduce students to the ways in which computers are involved in the commission and the investigation of crime. Students will learn the fundamentals of cryptography and steganography and the tools used to perform these activities. Students will also use forensic software to identify, gather, and verify relevant digital evidence. Cross-listed with CYSE 409.",
+        "Technical and Digital Skills": [
+            "Fundamentals of cryptography",
+            "Steganography techniques",
+            "Forensic software usage",
+            "Digital evidence identification",
+            "Digital evidence gathering",
+            "Digital evidence verification"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing digital evidence",
+            "Critical evaluation of digital information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Correctional Treatment",
+        "courseCode": "CRJS 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Methods and programs which attempt to correct the behaviors of juvenile delinquents and adult criminal offenders are explored.  Treatment strategies employed in both community and institutional settings are examined.  Techniques of classification and the role of the correctional worker are also discussed.",
+        "Technical and Digital Skills": [
+            "Classification techniques",
+            "Behavioral correction programs",
+            "Institutional treatment strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with juvenile delinquents and adult offenders",
+            "Building rapport with clients in correctional settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of treatment effectiveness",
+            "Analyzing behavior patterns for classification purposes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing correctional treatment programs effectively",
+            "Leading a team of correctional workers"
+        ]
+    },
+    {
+        "courseTitle": "Courtroom As a Social System",
+        "courseCode": "CRJS 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the role of all of the actors in the American courtroom, the interaction of these actors and the effect of social forces on their behavior.  Includes prosecutor, plaintiff and defense lawyers, judges, juries, eye witnesses, expert witnesses, and court staff.",
+        "Technical and Digital Skills": [
+            "Understanding legal terminology",
+            "Courtroom technology proficiency",
+            "Evidence presentation software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective courtroom communication",
+            "Negotiation skills with legal professionals",
+            "Empathy towards witnesses and clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of legal arguments",
+            "Evaluating witness credibility",
+            "Developing case strategies based on evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Team coordination in legal proceedings",
+            "Leading legal discussions and debates"
+        ]
+    },
+    {
+        "courseTitle": "The American Jury",
+        "courseCode": "CRJS 416",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A review of the literature, law and practical materials that cover the American jury system from the creation of the master list through the verdict.  Includes history, social context and jury selection.",
+        "Technical and Digital Skills": [
+            "Legal research skills",
+            "Understanding of court procedures",
+            "Case analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with jurors",
+            "Public speaking during trials",
+            "Building rapport with clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing evidence",
+            "Evaluating witness testimonies",
+            "Identifying biases in jury selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing case files",
+            "Leading a legal team during trials",
+            "Strategic planning for jury selection"
+        ]
+    },
+    {
+        "courseTitle": "Crime, Society, and the Media",
+        "courseCode": "CRJS 418",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A critical exploration of media portrayals of crime and criminal justice.  News and entertainment genres are examined.  Connections between the mass media and crime, culture, politics, society, and individual behavior receive special attention.",
+        "Technical and Digital Skills": [
+            "Media analysis software proficiency",
+            "Data mining techniques",
+            "Digital content creation tools knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex ideas",
+            "Media presentation skills",
+            "Interdisciplinary collaboration abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of media content",
+            "Analyzing media impact on culture and society",
+            "Identifying media biases in crime reporting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing media research projects",
+            "Leading discussions on media ethics and crime coverage",
+            "Coordinating media analysis teams"
+        ]
+    },
+    {
+        "courseTitle": "Animals and Society",
+        "courseCode": "CRJS 419",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a class about the role of nonhuman animals in society. Animals are used to entertain, to do work, to provide companionship, to provide food, and more. In this class, we discuss the causes and consequences of both individual and institutional animal abuse. Society's relation to wildlife is also an important component and includes poaching, sport and trophy hunting, and society's reaction to wolves, coyotes, and wild horses in the West. Cross-listed with SOC 419.",
+        "Technical and Digital Skills": [
+            "Animal behavior analysis",
+            "Zoology knowledge",
+            "Wildlife conservation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Advocacy for animal rights",
+            "Empathy towards animals",
+            "Effective communication of animal welfare issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying patterns of animal abuse",
+            "Analyzing societal attitudes towards animals",
+            "Developing solutions to reduce animal cruelty"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading animal welfare campaigns",
+            "Organizing events to raise awareness about animal rights",
+            "Collaborating with animal rights organizations"
+        ]
+    },
+    {
+        "courseTitle": "Deviant Behavior",
+        "courseCode": "CRJS 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of various definitions and forms of deviant behavior, theoretical explanations of causes of deviant behavior, and the impact of deviant behavior on society and the individual.",
+        "Technical and Digital Skills": [
+            "Understanding of various forms of deviant behavior",
+            "Knowledge of theoretical explanations of causes of deviant behavior",
+            "Data analysis skills in identifying deviant patterns",
+            "Research methodologies for studying deviant behavior"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and present findings on deviant behavior",
+            "Effective communication with individuals displaying deviant behavior",
+            "Empathy and understanding towards individuals engaged in deviant behavior"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of deviant behavior theories",
+            "Analyzing the impact of deviant behavior on society and individuals",
+            "Identifying strategies for intervention and prevention of deviant behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research on deviant behavior",
+            "Leading group discussions on deviant behavior topics",
+            "Collaborating with others in studying and addressing deviant behavior"
+        ]
+    },
+    {
+        "courseTitle": "Public Policy in Criminal Justice",
+        "courseCode": "CRJS 423",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the nature, development, and utilization of public policy within agencies of the criminal justice system. Topics include policy formulation, constraints on policy makers, influence of constituencies, and the role of research information. Case studies of issues such as crime control, prison overcrowding, police use of deadly force, the death penalty and parole guidelines will be undertaken.",
+        "Technical and Digital Skills": [
+            "Policy formulation",
+            "Research information utilization",
+            "Data analysis for policy decisions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder engagement",
+            "Policy advocacy and communication",
+            "Effective negotiation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Case study analysis",
+            "Constraints identification in policy making",
+            "Critical evaluation of policy alternatives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy implementation planning",
+            "Team coordination for policy projects",
+            "Decision-making under constraints"
+        ]
+    },
+    {
+        "courseTitle": "Juvenile Justice: Issues, Policy, and Practice",
+        "courseCode": "CRJS 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide an overview of significant policy issues in contemporary juvenile justice. The first objective of the course is to examine the nature, extent, treatment and control of juvenile delinquency. The second objective of the course is to discuss the history of juvenile justice policy reform and evidence-based practices. Third, the course will identify and analyze a number of key juvenile justice policy issues, including: mental health, gender disparities, disproportionate minority contact (DMC), trauma, adult transfer and certification, as well as policies and practices for preventing and responding to delinquency.",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Evidence-based practices evaluation",
+            "Data interpretation for policy making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation on policy issues",
+            "Collaboration for policy reform initiatives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of juvenile justice policies",
+            "Identification of key issues in juvenile justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Initiating policy reform efforts",
+            "Leading discussions on juvenile justice reforms"
+        ]
+    },
+    {
+        "courseTitle": "Criminological Theory",
+        "courseCode": "CRJS 426W/526",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An in-depth study of the major theoretical issues in criminology.  Deals extensively with issues of crime causation.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Researching crime data",
+            "Analyzing statistical data related to crime causation",
+            "Utilizing criminological databases",
+            "Writing research reports",
+            "Utilizing academic writing styles for criminology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting criminological theories and findings",
+            "Engaging in debates on crime causation theories",
+            "Collaborating with peers on criminological research projects",
+            "Participating in class discussions on criminological issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating criminological theories",
+            "Analyzing complex criminological data sets",
+            "Identifying patterns in crime data",
+            "Formulating research questions on crime causation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for writing intensive assignments",
+            "Leading group discussions on criminological theories",
+            "Organizing research materials for criminological projects",
+            "Taking initiative in exploring new criminological theories"
+        ]
+    },
+    {
+        "courseTitle": "Homicide",
+        "courseCode": "CRJS 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the topic  of homicide in the U.S.  It includes a discussion of the types of homicide, historical patterns and trends, and characteristics of offenders and victims.  A variety of theoretical frameworks are utilized to examine homicide at micro and macro levels.  In-depth examination of specific types of homicide is included.",
+        "Technical and Digital Skills": [
+            "Understanding of criminal justice system",
+            "Knowledge of homicide types",
+            "Data analysis for crime trends",
+            "Research methodology in criminology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical thinking in crime analysis",
+            "Effective report writing on homicide cases",
+            "Ability to present complex data to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene analysis",
+            "Pattern recognition in homicide cases",
+            "Utilizing theoretical frameworks for understanding crime"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in criminal investigations",
+            "Team coordination in solving homicide cases",
+            "Decision-making in high-pressure situations"
+        ]
+    },
+    {
+        "courseTitle": "Serial Offenders",
+        "courseCode": "CRJS 431",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the topic of serial offenders, also referred to as repeat offenders, recidivists, and career criminals.  The course begins with an overview and discussion of patterns of crime, followed by a discussion of relevant theoretical perspectives.  We also discuss profiling and the role it can play in the investigation of serial crimes.  Next, we move into modules devoted to specific types of crime (arson, rape, homicide, etc.), and discuss the research on serial offenders in each group.   Finally, prevention, as well as social policy issues, are addressed.",
+        "Technical and Digital Skills": [
+            "Crime pattern analysis",
+            "Profiling techniques",
+            "Research methodology in criminology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in criminal investigations",
+            "Team collaboration in crime analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of crime data",
+            "Pattern recognition in serial crimes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crime prevention strategies implementation",
+            "Policy development in criminal justice"
+        ]
+    },
+    {
+        "courseTitle": "Capstone Research Project",
+        "courseCode": "CRJS 436",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students work in groups to plan, design, and carry out a research project.  Final papers which report the results for the study are presented in a formal research seminar.  The projects reflect knowledge gained from undergraduate work and training received in STAT 130M and SOC 337.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection techniques",
+            "Statistical analysis tools",
+            "Report writing software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Presentation skills",
+            "Public speaking",
+            "Effective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Research design",
+            "Hypothesis testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning",
+            "Time management",
+            "Team coordination",
+            "Leadership in research projects"
+        ]
+    },
+    {
+        "courseTitle": "Drugs and Society",
+        "courseCode": "CRJS 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of sociological and social-psychological explanations of drug-using behaviors and of legal and medical control of drugs.  Topics include changes in the legal status of drugs, cross-cultural and historical variations in the control of drugs, and social epidemiology of drug use in contemporary society.",
+        "Technical and Digital Skills": [
+            "Understanding legal and medical control of drugs",
+            "Cross-cultural analysis of drug control",
+            "Social epidemiology research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting sociological explanations effectively",
+            "Collaborating on research projects",
+            "Conducting interviews for data collection"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing changes in legal status of drugs",
+            "Evaluating historical variations in drug control",
+            "Interpreting sociological data on drug use"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on drug-related topics",
+            "Coordinating group research projects",
+            "Managing research timelines and deadlines"
+        ]
+    },
+    {
+        "courseTitle": "Community Justice",
+        "courseCode": "CRJS 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a service learning course designed to study how the emerging field of community justice, a neighborhood-based strategy, can reduce crime and improve public safety by investing in social, human and cultural capital.",
+        "Technical and Digital Skills": [
+            "Data analysis tools proficiency",
+            "GIS mapping software knowledge",
+            "Database management skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement techniques",
+            "Conflict resolution strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime data interpretation",
+            "Root cause analysis of community issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in community settings",
+            "Team coordination for community initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Workplace Law and Society",
+        "courseCode": "CRJS 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the laws of the workplace from a sociological and issue-driven approach considering two perspectives – both employer and employee. Relevant laws are identified, explored and made relevant through examples of their application in real-world situations. Sometimes the wisdom of these laws will be challenged; students will be encouraged to raise questions about a law’s utility, justice or fairness, whether in principle or in application.",
+        "Technical and Digital Skills": [
+            "Understanding of workplace laws",
+            "Knowledge of legal issues in the workplace",
+            "Application of laws in real-world scenarios"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical analysis of laws",
+            "Questioning the utility, justice, and fairness of laws",
+            "Persuasive argumentation on legal topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of laws from employer and employee perspectives",
+            "Identifying gaps in legal protection",
+            "Proposing solutions to improve workplace laws"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on legal topics",
+            "Facilitating debates on workplace laws",
+            "Coordinating group projects on legal case studies"
+        ]
+    },
+    {
+        "courseTitle": "Women, Sex Discrimination and the Law",
+        "courseCode": "CRJS 448",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to legal issues which specifically affect women and examines historical attitudes that have been used to justify differential treatment of women.  It explores various legal approaches used to achieve equal protection under the law and examines a variety of specific topics such as:  the equal protection analysis; Title VII and Title IX and their relationship to sex discrimination; affirmative action; and reproductive freedom.",
+        "Technical and Digital Skills": [
+            "Legal research and analysis",
+            "Understanding of Title VII and Title IX laws",
+            "Knowledge of affirmative action policies in relation to sex discrimination",
+            "Understanding of reproductive freedom laws"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal arguments",
+            "Advocacy for women's rights",
+            "Collaboration with diverse stakeholders on gender equality issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sex discrimination cases",
+            "Analyzing historical legal attitudes towards women",
+            "Identifying legal strategies for achieving equal protection for women"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on gender equality in legal contexts",
+            "Organizing advocacy campaigns for women's rights",
+            "Implementing legal strategies for combating sex discrimination"
+        ]
+    },
+    {
+        "courseTitle": "Blacks, Crime and Justice",
+        "courseCode": "CRJS 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines historical and contemporary theories and research on African-Americans, criminal behavior and the administration of justice.  Selected topics will include African-American perspectives, the death penalty, victimization, police brutality, and justice systems in Africa and the Caribbean.",
+        "Technical and Digital Skills": [
+            "Research methodologies in criminology",
+            "Data analysis for criminal justice studies",
+            "Utilizing statistical software for analyzing crime data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings to diverse audiences",
+            "Engaging in discussions on race, crime, and justice issues",
+            "Collaborating with peers on group projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical and contemporary theories on African-Americans and criminal behavior",
+            "Critically evaluating justice systems in Africa and the Caribbean",
+            "Identifying patterns in victimization data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on sensitive topics",
+            "Managing time effectively for research and writing assignments",
+            "Coordinating research projects on African-American perspectives in criminal justice"
+        ]
+    },
+    {
+        "courseTitle": "Race, Ethnicity, Crime and Justice",
+        "courseCode": "CRJS 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will examine the intersectionality of race, ethnicity, crime, justice and the operation of the criminal justice system and will critically assess controversial issues surrounding race, ethnicity, crime, and justice. Students will discuss contemporary social justice issues as they relate to race, ethnicity, crime, and justice. The theoretical frameworks that explain the intersection between race, ethnicity, crime and justice will be examined. The course will also investigate the broad range of policy issues and recommendations impacting communities of color and the administration of criminal and social justice.",
+        "Technical and Digital Skills": [
+            "Critical analysis of criminal justice data",
+            "Understanding policy impact on communities of color",
+            "Theoretical frameworks application to real-world scenarios"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in discussions on social justice issues",
+            "Presenting arguments on controversial topics",
+            "Communicating complex concepts clearly"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically assessing controversial issues",
+            "Applying theoretical frameworks to practical situations",
+            "Evaluating policy recommendations for impact on communities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Advocating for marginalized communities",
+            "Leading discussions on race and justice topics",
+            "Collaborating with peers on research projects"
+        ]
+    },
+    {
+        "courseTitle": "Diversity in Criminal Justice Organizations",
+        "courseCode": "CRJS 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the impact of diversity, culture, and ethnic origin in criminal justice organizations.  The course is designed to better prepare students to meet the challenge of diversity in criminal justice organizations.",
+        "Technical and Digital Skills": [
+            "Understanding of cultural sensitivity in technology implementation",
+            "Utilization of diversity in technology solutions for criminal justice organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in multicultural settings",
+            "Conflict resolution in diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of diversity impact on organizational policies",
+            "Identification and mitigation of bias in decision-making processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating inclusive environments in criminal justice organizations",
+            "Implementing diversity initiatives in leadership roles"
+        ]
+    },
+    {
+        "courseTitle": "Substantive Criminal Law",
+        "courseCode": "CRJS 462/562",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course deals with the major substantive concepts involved in American criminal law, including development of criminal law, elements of criminal liability, defenses against criminal responsibility, and descriptions and definitions of specific offenses.",
+        "Technical and Digital Skills": [
+            "Understanding of American criminal law concepts",
+            "Knowledge of elements of criminal liability",
+            "Familiarity with defenses against criminal responsibility",
+            "Ability to describe and define specific criminal offenses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal concepts",
+            "Collaboration with peers on case analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of legal cases",
+            "Application of legal principles to real-world scenarios",
+            "Evaluation of defense strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management and organization",
+            "Leading discussions on complex legal issues"
+        ]
+    },
+    {
+        "courseTitle": "Criminal Justice Systems Around the World",
+        "courseCode": "CRJS 475/575",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of criminal justice systems around the world in order to understand how criminal behavior is defined and responded to in various cultures.  Cultural differences will be highlighted in order to recognize that definitions of and responses to crimes closely reflect the cultures in which they exist.",
+        "Technical and Digital Skills": [
+            "Understanding of global legal systems",
+            "Knowledge of international criminal law",
+            "Research skills in cross-cultural contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity in criminal justice",
+            "Effective cross-cultural communication",
+            "Collaboration in diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of criminal justice systems",
+            "Critical evaluation of cultural influences on crime",
+            "Identifying global trends in criminal behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on cultural differences in criminal justice",
+            "Organizing cross-cultural research projects",
+            "Managing diverse viewpoints in criminal justice debates"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Criminal Justice",
+        "courseCode": "CRJS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Data analysis in criminal justice",
+            "Crime mapping software utilization",
+            "Digital evidence collection techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing in law enforcement",
+            "Interviewing and interrogation skills",
+            "Conflict resolution in criminal justice settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene analysis methodologies",
+            "Evidence evaluation and interpretation",
+            "Risk assessment in criminal justice decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management in law enforcement",
+            "Team coordination in crisis situations",
+            "Policy development and implementation in criminal justice agencies"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Criminal Justice",
+        "courseCode": "CRJS 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Data analysis in criminal justice",
+            "Crime mapping software utilization",
+            "Digital evidence handling techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing",
+            "Oral presentation skills for court testimony",
+            "Active listening during interviews"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene reconstruction",
+            "Forensic evidence analysis",
+            "Criminal profiling techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Team coordination in investigations",
+            "Conflict resolution in law enforcement"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "CRJS 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Literature review techniques",
+            "Data collection methods",
+            "Information synthesis",
+            "Technical writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with instructor",
+            "Presentation skills for conferences",
+            "Networking with experts in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literature",
+            "Research design and methodology",
+            "Problem identification and solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Self-motivation and discipline",
+            "Project management for research papers"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Criminal Justice",
+        "courseCode": "CRJS 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis techniques",
+            "Literature review skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Engaging in academic discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research papers",
+            "Developing research questions",
+            "Conducting data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Self-directed learning strategies"
+        ]
+    },
+    {
+        "courseCode": "CRJS 521",
+        "courseTitle": "Deviant Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of various definitions and forms of deviant behavior, theoretical explanations of causes of deviant behavior, and the impact of deviant behavior on society and the individual.",
+        "Technical and Digital Skills": [
+            "Researching and analyzing data on deviant behavior",
+            "Utilizing statistical software for data analysis",
+            "Understanding data visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings on deviant behavior to a diverse audience",
+            "Collaborating with peers on research projects related to deviant behavior"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating various theories on the causes of deviant behavior",
+            "Critically analyzing the impact of deviant behavior on society and individuals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on theories of deviant behavior",
+            "Organizing and managing research projects on deviant behavior"
+        ]
+    },
+    {
+        "courseCode": "CRJS 526",
+        "courseTitle": "Criminological Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth study of the major theoretical issues in criminology.  Deals extensively with issues of crime causation.",
+        "Technical and Digital Skills": [
+            "Crime data analysis",
+            "Statistical modeling",
+            "Research methodology",
+            "Criminal profiling techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Debating theoretical perspectives",
+            "Collaborating on group projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime causation analysis",
+            "Critical evaluation of criminological theories",
+            "Identifying patterns in criminal behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading class discussions",
+            "Managing research projects",
+            "Coordinating group presentations"
+        ]
+    },
+    {
+        "courseCode": "CRJS 541",
+        "courseTitle": "Drugs and Society",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of sociological and social psychological explanations of drug-using behaviors and of legal and medical control of drugs.  Topics include changes in the legal status of drugs, cross-cultural and historical variations in the control of drugs, and social epidemiology of drug use in contemporary society.",
+        "Technical and Digital Skills": [
+            "Understanding legal and medical control of drugs",
+            "Cross-cultural and historical variations in drug control",
+            "Social epidemiology of drug use"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing sociological explanations of drug-using behaviors",
+            "Presenting research findings on drug use"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing changes in legal status of drugs",
+            "Evaluating sociological and social psychological theories on drug use"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research data on drug use",
+            "Leading discussions on drug policy"
+        ]
+    },
+    {
+        "courseCode": "CRJS 550",
+        "courseTitle": "Blacks, Crime and Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines historical and contemporary theories and research on African-Americans, criminal behavior and the administration of justice.  Selected topics will include African-American perspectives, the death penalty, victimization, police brutality, and justice systems in Africa and the Caribbean.",
+        "Technical and Digital Skills": [
+            "Research methodologies in criminology",
+            "Data analysis in criminology research",
+            "Understanding criminal justice systems",
+            "Ethical considerations in criminal justice research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Engaging with diverse perspectives on criminal justice issues",
+            "Effective communication with stakeholders in the justice system"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of criminal justice policies",
+            "Analyzing data on crime rates and justice outcomes",
+            "Identifying systemic issues in the criminal justice system"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on race and justice",
+            "Organizing research projects on criminal behavior",
+            "Advocating for social justice in legal systems"
+        ]
+    },
+    {
+        "courseCode": "CRJS 562",
+        "courseTitle": "Substantive Criminal Law",
+        "academicLevel": "graduate",
+        "courseDescription": "This course deals with the major substantive concepts involved in American criminal law, including development of criminal law, elements of criminal liability, defenses against criminal responsibility, and descriptions and definitions of specific offenses.",
+        "Technical and Digital Skills": [
+            "Legal research",
+            "Case analysis",
+            "Statutory interpretation",
+            "Courtroom procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective argumentation",
+            "Oral advocacy skills",
+            "Legal writing",
+            "Negotiation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing case law",
+            "Identifying legal issues",
+            "Applying legal principles to facts",
+            "Formulating legal arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Time management",
+            "Team collaboration in legal settings",
+            "Leading legal discussions"
+        ]
+    },
+    {
+        "courseCode": "CRJS 575",
+        "courseTitle": "Criminal Justice Systems Around the World",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of criminal justice systems around the world in order to understand how criminal behavior is defined and responded to in various cultures.  Cultural differences will be highlighted in order to recognize that definitions of and responses to crimes closely reflect the cultures in which they exist.",
+        "Technical and Digital Skills": [
+            "Understanding of different criminal justice systems worldwide",
+            "Comparative analysis of legal frameworks",
+            "Research and data analysis skills in criminal justice context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective presentation of findings on cultural differences in criminal justice systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural influences on crime definitions",
+            "Analyzing responses to crimes based on cultural contexts",
+            "Identifying patterns in global criminal justice systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on cultural diversity in criminal justice systems",
+            "Organizing research projects on international legal systems"
+        ]
+    },
+    {
+        "courseCode": "CRJS 595",
+        "courseTitle": "Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Data analysis in criminal justice",
+            "Crime mapping software usage",
+            "Digital evidence collection techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing in criminal justice",
+            "Conflict resolution in law enforcement scenarios"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene reconstruction",
+            "Analyzing forensic evidence",
+            "Developing crime prevention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing a criminal justice team",
+            "Coordinating multi-agency investigations"
+        ]
+    },
+    {
+        "courseCode": "CRJS 596",
+        "courseTitle": "Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Crime data analysis",
+            "Forensic software utilization",
+            "Digital evidence collection",
+            "Database querying for criminal records"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Report writing for law enforcement",
+            "Interviewing techniques for investigations",
+            "Conflict resolution in criminal justice settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime scene analysis",
+            "Evidence interpretation",
+            "Legal case analysis and argumentation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crime scene management",
+            "Team coordination in investigations",
+            "Policy development in criminal justice"
+        ]
+    },
+    {
+        "courseCode": "CRJS 597",
+        "courseTitle": "Tutorial Work in Special Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research skills in criminal justice",
+            "Data analysis techniques",
+            "Literature review methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with instructors and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of criminal justice literature",
+            "Identifying gaps in research",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting research topic"
+        ]
+    },
+    {
+        "courseCode": "CRJS 598",
+        "courseTitle": "Tutorial Work in Special Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methodology",
+            "Data analysis",
+            "Criminal justice databases usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in academic writing",
+            "Presenting research findings",
+            "Collaborating with instructor for guidance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of criminal justice literature",
+            "Identifying gaps in existing research",
+            "Formulating research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in selecting research topic",
+            "Managing research progress and deadlines"
+        ]
+    },
+    {
+        "courseCode": "CRJS 620",
+        "courseTitle": "Criminological Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth study of the major theoretical issues in criminology.  The course deals extensively with issues of crime causation, the way theory shapes and informs the study of crime and related social issues, and the relationship between theory, research, and practice.",
+        "Technical and Digital Skills": [
+            "Research methodology in criminology",
+            "Crime causation theories analysis",
+            "Theory application in research and practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of criminological theories",
+            "Debating and discussing theoretical perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of crime causation theories",
+            "Analyzing the impact of theory on research outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading discussions on criminological theory",
+            "Collaborating on theoretical research projects"
+        ]
+    },
+    {
+        "courseCode": "CRJS 625",
+        "courseTitle": "The Administration of Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of the criminal justice system with an emphasis on the decision-making responsibilities of its officials.",
+        "Technical and Digital Skills": [
+            "Data analysis in criminal justice",
+            "Information security in law enforcement databases",
+            "Crime mapping software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse stakeholders in the criminal justice system",
+            "Conflict resolution in high-pressure situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making under uncertainty in criminal justice scenarios",
+            "Critical evaluation of evidence in criminal investigations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in law enforcement operations",
+            "Team coordination during crisis situations"
+        ]
+    },
+    {
+        "courseCode": "CRJS 627",
+        "courseTitle": "Violence Against Women",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the many ways in which violence against women functions as an agent of social control.  Violence is viewed on a continuum in order to determine how a variety of acts contribute to the subordination of women.  Specific types of violence are explored including:  wife assault, rape, incest, sexual harassment and pornography.",
+        "Technical and Digital Skills": [
+            "Understanding of forensic evidence collection in cases of violence against women",
+            "Knowledge of digital communication tools for reporting abuse",
+            "Awareness of privacy and security measures in online safety resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy and active listening in supporting survivors of violence against women",
+            "Effective communication with diverse stakeholders including law enforcement and social services",
+            "Conflict resolution skills in sensitive situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of societal norms contributing to violence against women",
+            "Analyzing data on prevalence and impact of different forms of violence",
+            "Developing intervention strategies based on case studies and research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating community outreach programs to raise awareness on violence against women",
+            "Leading advocacy campaigns for policy change and legal reform",
+            "Managing resources efficiently for support services for survivors"
+        ]
+    },
+    {
+        "courseCode": "CRJS 663",
+        "courseTitle": "Corrections",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of society's response to crime through its use of institutional and noninstitutional corrections.  Topics include inmate culture, correction officer behavior and community corrections programs.",
+        "Technical and Digital Skills": [
+            "Understanding of institutional and noninstitutional corrections systems",
+            "Knowledge of inmate culture",
+            "Familiarity with correction officer behavior",
+            "Understanding of community corrections programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with inmates and staff",
+            "Conflict resolution in correctional settings",
+            "Building rapport with diverse populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing inmate behavior patterns",
+            "Identifying root causes of recidivism",
+            "Developing intervention strategies for offenders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing correctional facilities efficiently",
+            "Leading a team of correctional officers",
+            "Implementing and monitoring community corrections programs"
+        ]
+    },
+    {
+        "courseCode": "CRJS 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Students gain first-hand experience in professional settings which are deemed appropriate given their academic background and career objectives.  Students are required to complete a research project that corresponds to their specific internship placement",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Proficiency in relevant software/tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Team collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research project design",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Adaptability"
+        ]
+    },
+    {
+        "courseCode": "CRJS 695",
+        "courseTitle": "Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced seminars on selected topics in criminal justice.  Topics will vary by semester.",
+        "Technical and Digital Skills": [
+            "Data analysis in criminal justice",
+            "Crime mapping software utilization",
+            "Digital evidence collection techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective report writing",
+            "Oral presentation of research findings",
+            "Collaboration with law enforcement agencies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime trend analysis",
+            "Evidence interpretation and evaluation",
+            "Developing crime prevention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Leading interdisciplinary teams in criminal justice research",
+            "Implementing policy recommendations"
+        ]
+    },
+    {
+        "courseCode": "CRJS 696",
+        "courseTitle": "Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced seminars on selected topics in criminal justice.  Topics will vary by semester.",
+        "Technical and Digital Skills": [
+            "Research methodology in criminal justice",
+            "Data analysis in criminal justice research",
+            "Crime mapping software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration with research team members",
+            "Engaging with diverse stakeholders in criminal justice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of criminal justice research",
+            "Developing innovative solutions to criminal justice challenges",
+            "Identifying patterns in crime data for predictive analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in criminal justice research",
+            "Leading research teams in criminal justice studies",
+            "Strategic planning for criminal justice initiatives"
+        ]
+    },
+    {
+        "courseCode": "CRJS 697",
+        "courseTitle": "Independent Study in Special Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis techniques",
+            "Literature review skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Professional writing abilities",
+            "Collaboration with instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in criminal justice issues",
+            "Evaluation of research findings",
+            "Identifying gaps in existing literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Initiative in selecting and pursuing a topic",
+            "Self-discipline in meeting deadlines"
+        ]
+    },
+    {
+        "courseCode": "CRJS 698",
+        "courseTitle": "Independent Study in Special Topics in Criminal Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology in criminal justice",
+            "Data analysis techniques in criminology",
+            "Crime mapping software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration with instructors and peers for feedback and guidance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of criminal justice literature",
+            "Identifying patterns and trends in crime data",
+            "Developing research questions and hypotheses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Setting and meeting research milestones",
+            "Taking initiative in selecting and exploring specialized topics in criminal justice"
+        ]
+    },
+    {
+        "courseCode": "CRJS 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Thesis hours.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data analysis",
+            "Statistical software proficiency",
+            "Information security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Writing research reports",
+            "Collaboration with advisors and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Hypothesis testing",
+            "Data interpretation",
+            "Research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project planning",
+            "Team coordination",
+            "Independent work ethic"
+        ]
+    },
+    {
+        "courseCode": "CRJS 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Literature review techniques",
+            "Data analysis proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Professional writing abilities",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research methodology",
+            "Problem-solving strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Time management abilities",
+            "Team collaboration proficiency"
+        ]
+    }
+]

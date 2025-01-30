@@ -1,0 +1,46 @@
+[
+    {
+        "courseTitle": "Social Determinants of Health: An Interprofessional Approach",
+        "courseCode": "IPEH 490/590",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The social determinants of health status and health outcomes, including structural, financial and personal influences will be examined. The utility of an interprofessional collaborative approach to health care delivery will be highlighted.",
+        "Technical and Digital Skills": [
+            "Understanding of health outcomes",
+            "Knowledge of health care delivery systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Effective communication within a multidisciplinary team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health status determinants",
+            "Critical evaluation of structural, financial and personal influences on health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of interprofessional health care teams",
+            "Strategic planning for health care delivery"
+        ]
+    },
+    {
+        "courseCode": "IPEH 590",
+        "courseTitle": "Social Determinants of Health: An Interprofessional Approach",
+        "academicLevel": "graduate",
+        "courseDescription": "The social determinants of health status and health outcomes, including structural, financial and personal influences will be examined. The utility of an interprofessional collaborative approach to health care delivery will be highlighted.",
+        "Technical and Digital Skills": [
+            "Research on social determinants of health",
+            "Analysis of health care delivery systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional collaboration",
+            "Effective communication in a healthcare setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of structural, financial and personal influences on health outcomes",
+            "Critical assessment of health status determinants"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within an interprofessional healthcare team",
+            "Organization of collaborative health care strategies"
+        ]
+    }
+]

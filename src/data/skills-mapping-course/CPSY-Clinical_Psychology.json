@@ -1,0 +1,852 @@
+[
+    {
+        "courseCode": "CPSY 632",
+        "courseTitle": "Intellectual Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides training in theories of intelligence and psychometric properties, administration, scoring and interpretation of major individually administered intelligence tests for children, adolescents and adults.",
+        "Technical and Digital Skills": [
+            "Administration of intelligence tests",
+            "Scoring intelligence tests",
+            "Interpretation of intelligence test results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients during testing process",
+            "Explaining test results to clients and stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of test data",
+            "Identifying patterns in test results",
+            "Troubleshooting testing process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing test administration process efficiently",
+            "Providing leadership in test interpretation and decision-making"
+        ]
+    },
+    {
+        "courseCode": "CPSY 635",
+        "courseTitle": "Multicultural and Social Psychological Issues",
+        "academicLevel": "graduate",
+        "courseDescription": "Using a social psychological framework, the course covers theories such as interpersonal expectancies/behavioral confirmation, prejudice and discrimination, social inclusion, social cognition, and attitudes/attitude change.  The research evidence for these theories and how these social psychological constructs influence or impede the mental health process will also be considered.  This course will also allow students to research and critically analyze conceptual and theoretical foundations for providing psychological services across diverse cultural populations.",
+        "Technical and Digital Skills": [
+            "Research methodology in social psychology",
+            "Data analysis in social psychological research",
+            "Cross-cultural research methods in psychology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings in a culturally sensitive manner",
+            "Effective communication with individuals from diverse cultural backgrounds"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of social psychological theories and research findings",
+            "Identifying and addressing biases in research on multicultural issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and facilitating discussions on multicultural and social psychological topics",
+            "Organizing and managing research projects with diverse teams"
+        ]
+    },
+    {
+        "courseCode": "CPSY 651",
+        "courseTitle": "Developmental Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers topics related to the physical, cognitive, social and emotional aspects of growth, from conception to death.  It focuses on human growth and development, but other organisms are also considered.",
+        "Technical and Digital Skills": [
+            "Knowledge of developmental psychology theories",
+            "Understanding of growth and development stages",
+            "Ability to analyze physical, cognitive, social, and emotional aspects of growth",
+            "Research skills in human and organism development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of developmental concepts",
+            "Collaboration with peers on research projects related to growth and development",
+            "Presentation of findings on human growth and development topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of growth and development information",
+            "Identification of patterns in developmental data",
+            "Problem-solving in understanding human and organism growth processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research materials on human growth and development",
+            "Leading group discussions on growth and development theories and research"
+        ]
+    },
+    {
+        "courseCode": "CPSY 664",
+        "courseTitle": "Clinical Assessment: Personality and Individual Differences",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers history of personality theory and assessment, and psychometrics, and introduces tools and techniques aimed at understanding individual differences in personality and assessment of major psychopathology.",
+        "Technical and Digital Skills": [
+            "Psychometrics tools proficiency",
+            "Personality assessment techniques mastery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of assessment results to clients",
+            "Building rapport with patients during assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting personality assessment results",
+            "Identifying major psychopathology indicators"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing assessment process efficiently",
+            "Leading assessment team effectively"
+        ]
+    },
+    {
+        "courseCode": "CPSY 700",
+        "courseTitle": "Clinical and Ethical Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces basic therapy skills to clinical psychology students and explores the ethical framework which guides the profession.",
+        "Technical and Digital Skills": [
+            "Therapeutic intervention techniques",
+            "Ethical decision-making frameworks in psychology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening in therapy sessions",
+            "Empathy and rapport building with clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical assessment and diagnosis",
+            "Ethical dilemma resolution in therapy practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management in clinical settings",
+            "Supervision and mentorship of junior staff"
+        ]
+    },
+    {
+        "courseCode": "CPSY 705",
+        "courseTitle": "NSU-History & Systems of Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the history and systems of psychology related to contemporary applied psychology.",
+        "Technical and Digital Skills": [
+            "Research methodologies in psychology",
+            "Analyzing historical data in psychology research",
+            "Digital archives utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting historical findings in psychology",
+            "Collaborating with peers on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical psychological theories",
+            "Identifying patterns in historical psychological trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on historical psychology topics",
+            "Organizing research materials for presentations"
+        ]
+    },
+    {
+        "courseCode": "CPSY 713",
+        "courseTitle": "Research Methods in Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover research design and methodology.  Topics may include experimental, quasi-experimental, single subject and survey research; validity; reliability; psychometric theory; confounds; measurement; sampling; inductive inference.  Additionally, this course will cover Responsible Conduct of Research, including completion of CITI course, protection of human subjects, University Human Subjects Committee and IRB, APA Style, paper structure, references, tables, figures, etc., research proposal writing, including searching for sources, writing, oral presentation, data collection and management issues (e.g., Qualtrics, SONA, data cleaning).  Students are required to complete a Research Proposal with Introduction and Methods and Data Analysis Plan and give an oral presentation of research proposal.",
+        "Technical and Digital Skills": [
+            "Experimental research design",
+            "Quasi-experimental research methods",
+            "Single subject research techniques",
+            "Survey research methodology",
+            "Psychometric theory application",
+            "Data collection tools (e.g., Qualtrics, SONA)",
+            "Data cleaning techniques",
+            "Data management skills",
+            "Research proposal writing skills",
+            "APA Style formatting",
+            "CITI course completion"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation skills",
+            "Effective communication of research findings",
+            "Collaboration with University Human Subjects Committee and IRB",
+            "Engagement with research participants",
+            "Effective referencing and citation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research methodology",
+            "Identification and mitigation of confounds in research",
+            "Inductive inference capabilities",
+            "Validity and reliability assessment",
+            "Data analysis planning",
+            "Research proposal development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research proposals",
+            "Organizing research data",
+            "Leadership in research presentations",
+            "Time management for research tasks"
+        ]
+    },
+    {
+        "courseCode": "CPSY 720",
+        "courseTitle": "Multicultural Issues in Clinical Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers issues relevant to diverse populations to enhance student development of cultural humility and improved cultural competence in clinical practice. The course reviews conceptual and theoretical foundations as well individual and systemic influences that contribute to mental health.",
+        "Technical and Digital Skills": [
+            "Cultural competence in clinical practice",
+            "Understanding diverse populations",
+            "Knowledge of systemic influences on mental health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Developing cultural humility",
+            "Enhancing cultural competence",
+            "Effective communication with diverse populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural influences on mental health",
+            "Analyzing individual and systemic factors affecting mental health outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading culturally competent clinical practices",
+            "Organizing interventions for diverse populations"
+        ]
+    },
+    {
+        "courseCode": "CPSY 725",
+        "courseTitle": "Cognitive Behavioral Therapy",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers theory and techniques of cognitive and behavioral approaches. Applications for assessment and treatment of adults, children, couples and families are discussed.",
+        "Technical and Digital Skills": [
+            "Assessment techniques",
+            "Treatment planning",
+            "Therapeutic interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Empathy and active listening skills",
+            "Building rapport with clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying cognitive distortions",
+            "Behavioral analysis",
+            "Developing coping strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for therapy sessions",
+            "Setting treatment goals",
+            "Collaborating with other healthcare professionals"
+        ]
+    },
+    {
+        "courseCode": "CPSY 727",
+        "courseTitle": "Analysis of Variance and Experimental Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of the basic descriptive and inferential statistical procedures with a heavy emphasis on fundamental and advanced analysis of variance techniques.  Topics include contrasts, factorial designs, within-subject and mixed designs, and analysis of covariance.  Course materials are covered in the context of classical experimental and quasi-experimental design.",
+        "Technical and Digital Skills": [
+            "Advanced analysis of variance techniques",
+            "Factorial designs implementation",
+            "Analysis of covariance application"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of experimental design",
+            "Statistical inference",
+            "Quasi-experimental design analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 728",
+        "courseTitle": "Regression and Correlation Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Course covers correlation with heavy emphasis on regression analysis in the context of the general linear model.  Topics include partial correlations, categorical and continuous interactions, non-linear regression, and multivariate statistics.  Course materials are covered in the context of correlational designs and survey research.",
+        "Technical and Digital Skills": [
+            "Regression analysis",
+            "General linear model",
+            "Partial correlations",
+            "Non-linear regression",
+            "Multivariate statistics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Correlation analysis",
+            "Categorical and continuous interactions",
+            "Survey research design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 744",
+        "courseTitle": "Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.",
+        "Technical and Digital Skills": [
+            "Qualitative assessment creation",
+            "Quantitative assessment design",
+            "Program evaluation methodologies",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative group work",
+            "Presentation of evaluation findings",
+            "Effective communication in small teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of program impact",
+            "Identification of evaluation metrics",
+            "Interpretation of evaluation results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for evaluation tasks",
+            "Team coordination for evaluation projects"
+        ]
+    },
+    {
+        "courseCode": "CPSY 745",
+        "courseTitle": "Psychometric Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces classical test theory, including definitions and equations for test reliability, standard error of measurement, and related statistics.  Additional topics include scaling, item statistics useful in test constructions, norms commonly used in educational and psychological testing, test validity and exploratory factor analysis.  If time permits, Item Response (IRT) and Generalizability Theory are introduced.",
+        "Technical and Digital Skills": [
+            "Classical test theory equations",
+            "Item Response Theory (IRT)",
+            "Generalizability Theory",
+            "Statistical analysis in testing",
+            "Factor analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex statistical concepts to non-experts",
+            "Collaborating on test construction projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing test reliability and validity",
+            "Identifying item statistics for test construction",
+            "Scaling and norming in testing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 746",
+        "courseTitle": "Structural Equation Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.",
+        "Technical and Digital Skills": [
+            "Linear structural equation modeling",
+            "Estimation techniques",
+            "Confirmatory factor analysis",
+            "Hierarchical factor analysis",
+            "Longitudinal models",
+            "Multisample analyses",
+            "Mean structures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 749",
+        "courseTitle": "Social and Affective Bases of Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses the behavior of the human as a member of a group and the experience and expression of emotion. Topics include attitude theory and change, interpersonal attraction, stereotypes and discrimination, social cognition and social affect, aggression, theories of emotion and emotion regulation.",
+        "Technical and Digital Skills": [
+            "Understanding group behavior in social settings",
+            "Emotion expression analysis",
+            "Attitude theory application",
+            "Social cognition assessment",
+            "Aggression evaluation",
+            "Emotion regulation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within groups",
+            "Interpersonal attraction evaluation",
+            "Stereotypes and discrimination awareness",
+            "Emotion expression in social contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of group dynamics",
+            "Identification of social affect influences",
+            "Problem-solving in interpersonal conflicts",
+            "Emotion regulation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on behavior",
+            "Organizing group activities related to emotions",
+            "Leadership in group settings for behavior analysis"
+        ]
+    },
+    {
+        "courseCode": "CPSY 795",
+        "courseTitle": "Topics in Clinical Psychology I",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in clinical psychology.",
+        "Technical and Digital Skills": [
+            "Research methodology in psychology",
+            "Data analysis in clinical research",
+            "Utilizing statistical software for analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research participants",
+            "Collaborating with fellow researchers in data analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex research findings",
+            "Identifying patterns in data analysis",
+            "Developing research hypotheses based on data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research projects in clinical psychology",
+            "Organizing research data effectively for analysis"
+        ]
+    },
+    {
+        "courseCode": "CPSY 796",
+        "courseTitle": "Topics in Clinical Psychology II",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in clinical psychology.",
+        "Technical and Digital Skills": [
+            "Research methodology in psychology",
+            "Data analysis software proficiency",
+            "Use of statistical software packages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Conflict resolution in therapeutic settings",
+            "Group therapy facilitation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical case formulation",
+            "Diagnostic assessment techniques",
+            "Treatment planning and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing caseloads efficiently",
+            "Supervision of junior clinicians",
+            "Team leadership in clinical settings"
+        ]
+    },
+    {
+        "courseCode": "CPSY 801",
+        "courseTitle": "Empirically-Supported Therapies",
+        "academicLevel": "graduate",
+        "courseDescription": "Empirically-Supported Therapies is designed to foster the integration of clinical science and the practice of psychotherapy. Course objectives include learning how to identify, evaluate, and implement empirically supported interventions for various psychological disorders.",
+        "Technical and Digital Skills": [
+            "Ability to evaluate research studies",
+            "Implementing evidence-based interventions",
+            "Utilizing digital therapy platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients",
+            "Collaboration with other healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of therapy outcomes",
+            "Developing treatment plans based on empirical evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing therapy sessions effectively",
+            "Leading a team of therapists in implementing evidence-based practices"
+        ]
+    },
+    {
+        "courseCode": "CPSY 814",
+        "courseTitle": "Research in Clinical Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual research project under guidance of a research advisor.",
+        "Technical and Digital Skills": [
+            "Literature review skills",
+            "Data analysis techniques",
+            "Research methodology knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research advisor",
+            "Collaboration with peers in research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Identifying research gaps and proposing solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research tasks",
+            "Taking initiative in research projects"
+        ]
+    },
+    {
+        "courseCode": "CPSY 826",
+        "courseTitle": "Biological and Cognitive Aspects of Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an integrative overview of how brain structure and functioning produces behavior and cognition in both normal and clinical contexts.  Students learn gross neuroanatomy and physiology of the nervous system (primarily central), a working knowledge of functional neuroanatomy, and how the central nervous system functions in an integrated fashion.  Students also learn the basics of brain-behavior relationships and how these present normally and in clinical cases in order to gain a general and broader understanding of cognitive processes.",
+        "Technical and Digital Skills": [
+            "Understanding of brain structure and functioning",
+            "Knowledge of neuroanatomy and physiology",
+            "Functional neuroanatomy comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of brain-behavior relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cognitive processes",
+            "Identifying brain-behavior relationships in clinical cases"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 833",
+        "courseTitle": "Grant and Manuscript Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is designed: (1) to teach students to write article-length scholarly manuscripts in APA format of publishable quality, and (2) to teach students the critical components of grant applications.  By the end of this course, each student will have prepared a manuscript that is ready for submission to a peer-reviewed journal and have completed sections of a federal grant application.",
+        "Technical and Digital Skills": [
+            "APA format writing",
+            "Manuscript preparation",
+            "Grant application completion",
+            "Scholarly writing",
+            "Peer-reviewed journal submission process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with peers for manuscript improvement",
+            "Grant proposal presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research data",
+            "Identifying gaps in research literature",
+            "Developing innovative research ideas for grants"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for manuscript completion",
+            "Leading research teams for grant applications"
+        ]
+    },
+    {
+        "courseCode": "CPSY 835",
+        "courseTitle": "Health Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on contemporary theory and research topics in health psychology. The course examines psychological and behavioral issues affecting health maintenance, coping with life-threatening illnesses and chronic diseases, and health promotion. The course uses the biopsychosocial (mind-body) model as an organizing framework, emphasizing the dynamic interactions among biological, social, personality, and behavioral factors jointly in influencing people's health. The course is conducted as a seminar.",
+        "Technical and Digital Skills": [
+            "Biopsychosocial model application",
+            "Research methodology in psychology",
+            "Data analysis in health research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective seminar participation",
+            "Group discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of health research",
+            "Identifying behavioral factors affecting health outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading seminar discussions",
+            "Coordinating research projects in health psychology"
+        ]
+    },
+    {
+        "courseCode": "CPSY 836",
+        "courseTitle": "Multilevel Models: HLM",
+        "academicLevel": "graduate",
+        "courseDescription": "Social science data frequently have a hierarchical or multilevel structure as a consequence of sampling designs or repeated measures. The purpose of the course is to introduce students to the basic principles and applications of hierarchical linear modeling in social science research. Topics covered include an introduction to multilevel analyses, random intercept models, random slope models, hypotheses testing, hierarchical models for limited dependent variables, model fitting, three-level models, and repeated-measures applications.",
+        "Technical and Digital Skills": [
+            "Hierarchical Linear Modeling (HLM)",
+            "Random Intercept Models",
+            "Random Slope Models",
+            "Model Fitting",
+            "Three-level Models",
+            "Repeated-measures applications"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Hypotheses testing",
+            "Hierarchical models for limited dependent variables"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 844",
+        "courseTitle": "Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.",
+        "Technical and Digital Skills": [
+            "Qualitative assessment creation",
+            "Quantitative assessment design",
+            "Data analysis techniques",
+            "Research methodology",
+            "Statistical analysis tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative group work",
+            "Effective communication in small groups",
+            "Presentation of evaluation findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of program data",
+            "Identifying key evaluation metrics",
+            "Data interpretation for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for evaluations",
+            "Team leadership in evaluation projects",
+            "Time management for evaluation tasks"
+        ]
+    },
+    {
+        "courseCode": "CPSY 846",
+        "courseTitle": "Structural Equation Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.",
+        "Technical and Digital Skills": [
+            "Linear structural equation modeling",
+            "Estimation techniques",
+            "Measurement model development",
+            "Confirmatory factor analysis",
+            "Hierarchical factor analysis",
+            "Longitudinal modeling",
+            "Multisample analysis",
+            "Mean structure modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Model validation and interpretation",
+            "Statistical analysis in SEM",
+            "Identifying model fit issues",
+            "Handling missing data in SEM"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 849",
+        "courseTitle": "Social and Affective Bases of Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses the behavior of the human as a member of a group and the experience and expression of emotion. Topics include attitude theory and change, interpersonal attraction, stereotypes and discrimination, social cognition and social affect, aggression, theories of emotion and emotion regulation.",
+        "Technical and Digital Skills": [
+            "Research methodologies in social psychology",
+            "Data analysis in social science research",
+            "Statistical analysis of social behavior data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in group settings",
+            "Conflict resolution in interpersonal relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social behavior theories",
+            "Identifying and addressing stereotypes and discrimination in social contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on social psychology topics",
+            "Organizing research projects in social behavior analysis"
+        ]
+    },
+    {
+        "courseCode": "CPSY 883",
+        "courseTitle": "Research in Clinical Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual project under guidance of a research advisor.",
+        "Technical and Digital Skills": [
+            "Literature review analysis",
+            "Statistical software proficiency",
+            "Data collection methods knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research advisor",
+            "Collaboration with research team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design development",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Time management for research tasks"
+        ]
+    },
+    {
+        "courseCode": "CPSY 890",
+        "courseTitle": "Internship in Clinical Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "Pre-doctoral internship in clinical psychology.",
+        "Technical and Digital Skills": [
+            "Psychological assessment tools proficiency",
+            "Electronic health record systems knowledge",
+            "Teletherapy platforms familiarity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication and rapport building",
+            "Interdisciplinary team collaboration",
+            "Confidentiality and ethics adherence in communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnostic formulation and treatment planning",
+            "Case conceptualization and intervention implementation",
+            "Crisis intervention and risk assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in clinical settings",
+            "Supervision and mentorship of junior staff",
+            "Clinical documentation and report writing"
+        ]
+    },
+    {
+        "courseCode": "CPSY 894",
+        "courseTitle": "Clinical Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "1-6 credits each semester for variable credit.",
+        "Technical and Digital Skills": [
+            "Literature review analysis",
+            "Data collection methods",
+            "Statistical analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration with research participants",
+            "Clear and concise writing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research question formulation",
+            "Data interpretation",
+            "Identifying research gaps"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management for research deadlines",
+            "Team coordination for data collection"
+        ]
+    },
+    {
+        "courseCode": "CPSY 895",
+        "courseTitle": "Clinical Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "Student assigned to a clinical practice setting to learn the skills of a clinical psychologist under close supervision. Various mental health settings through southeastern Virginia are used for this experience.",
+        "Technical and Digital Skills": [
+            "Clinical assessment techniques",
+            "Mental health diagnosis tools",
+            "Electronic health record systems",
+            "Telehealth platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication and rapport building",
+            "Interprofessional collaboration",
+            "Ethical decision-making in clinical practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Treatment planning and evaluation",
+            "Case conceptualization and formulation",
+            "Evidence-based practice implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervision and mentorship of trainees",
+            "Team coordination in a clinical setting",
+            "Clinical program development and evaluation"
+        ]
+    },
+    {
+        "courseCode": "CPSY 896",
+        "courseTitle": "Advanced Clinical Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "Student assigned to a practice setting to be given an opportunity to learn the advanced skills of a clinical psychologist under close supervision. Various mental health settings throughout the area are used.",
+        "Technical and Digital Skills": [
+            "Clinical assessment tools proficiency",
+            "Electronic health record management",
+            "Telehealth platforms utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client interaction and rapport building",
+            "Interprofessional collaboration in healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis formulation based on assessment findings",
+            "Treatment planning and intervention selection based on evidence-based practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management and coordination of care",
+            "Supervision and mentorship of junior clinicians"
+        ]
+    },
+    {
+        "courseCode": "CPSY 899",
+        "courseTitle": "Clinical Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Student works with research mentor to develop, write, and defend an empirical dissertation.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection techniques",
+            "Statistical analysis software proficiency",
+            "Empirical research design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research mentor",
+            "Collaborative writing",
+            "Presentation skills for defending dissertation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Identification of research gaps",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for dissertation timeline",
+            "Decision-making in research design",
+            "Mentorship and guidance of research assistants"
+        ]
+    },
+    {
+        "courseCode": "CPSY 971",
+        "courseTitle": "EVMS-Consultation & Supervision",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides a theoretical and practical introduction to the work of leaders in mental health settings, addressing managerial and clinical supervision and various models of consultation.",
+        "Technical and Digital Skills": [
+            "Mental health systems knowledge",
+            "Consultation models understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members and clients",
+            "Conflict resolution in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of consultation strategies",
+            "Problem-solving in clinical and managerial scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical supervision management",
+            "Team leadership in mental health settings"
+        ]
+    },
+    {
+        "courseCode": "CPSY 990",
+        "courseTitle": "Clinical Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Research related to doctoral dissertation.",
+        "Technical and Digital Skills": [
+            "Literature review synthesis",
+            "Research methodology application",
+            "Data analysis techniques",
+            "Statistical software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research participants",
+            "Collaboration with research team members",
+            "Presentation of research findings to peers and faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Developing research questions",
+            "Data interpretation and drawing conclusions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research timeline",
+            "Leading research meetings",
+            "Managing research data and documentation"
+        ]
+    },
+    {
+        "courseCode": "CPSY 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination. All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Academic research skills",
+            "Literature review proficiency",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaboration with faculty and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research projects",
+            "Leading research teams"
+        ]
+    }
+]

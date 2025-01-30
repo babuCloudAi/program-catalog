@@ -1,0 +1,894 @@
+[
+    {
+        "courseTitle": "Principles of Public Health",
+        "courseCode": "PUBH 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Overview of the principles, practices, and science of public health in the world. This course focuses on origins, evolution, structure and administration of public health science. Exploration and discussion of the core functions of public health - biostatistics, environmental sciences, epidemiology, health policy and management sciences, and social and behavioral sciences - will be instructed.",
+        "Technical and Digital Skills": [
+            "Understand and apply biostatistics",
+            "Knowledge of environmental sciences",
+            "Understanding of epidemiology",
+            "Understanding health policy and management sciences",
+            "Applying social and behavioral sciences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and exploration of core public health functions",
+            "Effective communication of health policies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of health data",
+            "Critical evaluation of health policies and strategies",
+            "Problem-solving in public health administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in public health management",
+            "Organizational skills in public health administration"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Environmental Health",
+        "courseCode": "PUBH 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the chemical, physical and biological factors affecting human health and well-being. The emphasis is on application of controls to prevent disease and maximize environmental quality. Cross-listed with ENVH 301.",
+        "Technical and Digital Skills": [
+            "Understanding of chemical, physical and biological factors affecting human health",
+            "Knowledge of disease prevention methods",
+            "Application of controls to maximize environmental quality"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex health and environmental concepts to a non-technical audience",
+            "Collaborating with environmental health professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of various environmental factors on human health",
+            "Developing strategies for disease prevention and environmental quality improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing environmental health control measures",
+            "Leading initiatives for disease prevention and environmental improvement"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Nutrition",
+        "courseCode": "PUBH 318",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course designed especially for those entering the health education or health care field, covering the physiology of each of the major body systems as a basis for understanding those aspects of its function that reflect the importance of various nutrients.",
+        "Technical and Digital Skills": [
+            "Understanding of physiology of major body systems",
+            "Knowledge of the importance of various nutrients"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physiological processes",
+            "Communication of nutritional concepts to others in the health education or health care field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of nutrients on body systems",
+            "Critical evaluation of nutritional needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing nutritional strategies",
+            "Leading discussions on nutrition and health care"
+        ]
+    },
+    {
+        "courseTitle": "Health Equity and Disability Culture",
+        "courseCode": "PUBH 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore the history of health equity and disability and how prejudice and discrimination against people with disabilities impact health. Students will learn how to apply health equity frameworks, theories, and research to address disability-specific models of health disparities and to achieve health equity in populations with disabilities.",
+        "Technical and Digital Skills": [
+            "Application of health equity frameworks",
+            "Researching disability-specific models of health disparities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpreting prejudice and discrimination",
+            "Communicating about health disparities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of discrimination on health",
+            "Applying theories to address health disparities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting health equity in populations with disabilities"
+        ]
+    },
+    {
+        "courseTitle": "Population Health",
+        "courseCode": "PUBH 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a population-based approach to professional work in disease management, chronic care management and politics, in addition to students studying public health, health policy, quality and patient safety, health care administration, medicine, nursing, pharmacy, social work and other related clinical professions.",
+        "Technical and Digital Skills": [
+            "Disease management",
+            "Chronic care management",
+            "Public health policies comprehension",
+            "Health care administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary coordination",
+            "Patient communication",
+            "Health policy communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Public health problem solving",
+            "Health policy analysis",
+            "Patient safety analysis",
+            "Quality control in health care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health care leadership",
+            "Patient safety management",
+            "Organizing health care administration"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Global Health",
+        "courseCode": "PUBH 360",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to health-care delivery systems of non-Western countries, specifically developing countries. The various factors that influence health-care planning and delivery of health services are addressed.",
+        "Technical and Digital Skills": [
+            "Understanding of health-care delivery systems",
+            "Knowledge of health services in non-Western and developing countries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with diverse cultural backgrounds",
+            "Communication within healthcare planning context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing factors influencing health-care planning",
+            "Applying health service delivery methods to diverse contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning health-care delivery",
+            "Managing diverse health services"
+        ]
+    },
+    {
+        "courseTitle": "The U.S. Healthcare Delivery System",
+        "courseCode": "PUBH 390",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The uniqueness of the U.S. healthcare delivery system will be explored in terms of a systems framework and its complexity. The basic characteristics that differentiate the U.S. healthcare delivery system from that of other countries will be presented. An understanding of the U.S. health care system has specific implications for health services managers.",
+        "Technical and Digital Skills": [
+            "Understanding of the U.S. healthcare delivery system",
+            "Knowledge of health services management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of health care system complexities",
+            "Presentation of health care system characteristics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the U.S. healthcare system",
+            "Evaluation of differences between international healthcare systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in health services management",
+            "Organization of healthcare delivery information"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Public Health",
+        "courseCode": "PUBH 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Social and Behavioral Aspects of Public Health",
+        "courseCode": "PUBH 403W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course will emphasize the importance of social context and cultural construction, social and behavioral foundations of public health and examine current issues in health from a social and behavioral sciences perspective. The course uses a social ecological framework to address multilevel influences on health and enlarge the dominant 'risk factor' approach to health behavior.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Writing intensive content",
+            "Researching current issues in health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding of cultural and social context",
+            "Communication of health behavior"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social and behavioral foundations",
+            "Evaluation and understanding of the social ecological framework",
+            "Identification of multilevel influences on health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing research materials",
+            "Leading discussions on health behavior"
+        ]
+    },
+    {
+        "courseTitle": "One Health-One Medicine",
+        "courseCode": "PUBH 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will teach students the applications of multidisciplinary competencies towards solving human health challenges. The course will identify all areas of global health issues that require human, veterinary and environmental applications for solutions.",
+        "Technical and Digital Skills": [
+            "Multidisciplinary competencies application",
+            "Understanding of human, veterinary and environmental health issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem solving",
+            "Interdisciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of global health challenges",
+            "Formulating solutions for human health challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multidisciplinary approaches",
+            "Leadership in problem-solving for health challenges"
+        ]
+    },
+    {
+        "courseTitle": "Leadership in Public Health",
+        "courseCode": "PUBH 421",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course will introduce students to the main theories of leadership in public health covering key concepts and strategies using the six levels of leadership framework. The course will explore how individual, team, organizational, community, professional and global leadership impact population and public health.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Team communication",
+            "Community outreach",
+            "Professional communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning",
+            "Policy analysis",
+            "Critical evaluation of health information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Individual leadership",
+            "Team leadership",
+            "Organizational leadership",
+            "Community leadership",
+            "Professional leadership",
+            "Global leadership"
+        ]
+    },
+    {
+        "courseTitle": "Health, Culture and Diversity-Reducing Disparities in Public Health",
+        "courseCode": "PUBH 422",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course will introduce students to the main theories of culture, health and diversity and examines what is meant by culture, the ways in which culture intersects with health issues, how public health efforts can benefit by understanding and working with cultural processes, and a brief selection of conceptual tools and research methods that are useful in identifying relationships between culture and health. The course will also include practical guidelines for incorporating cultural understanding in public health settings and examples of programs where that has occurred.",
+        "Technical and Digital Skills": [
+            "Understanding of cultural processes",
+            "Identifying relationships between culture and health",
+            "Applying cultural understanding in public health settings",
+            "Research methods in cultural health studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with diverse cultural groups",
+            "Understanding of cultural sensitivity",
+            "Work with cultural processes in public health settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theoretical analysis of culture and health",
+            "Identifying and addressing health disparities",
+            "Application of cultural theories in public health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing cultural understanding in public health programs",
+            "Guiding public health efforts with cultural understanding",
+            "Designing and managing culturally-sensitive public health programs"
+        ]
+    },
+    {
+        "courseTitle": "Health Aspects of Aging",
+        "courseCode": "PUBH 425",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Identifies major issues and problems in meeting health care needs of the aged. Emphasis on role of social assets and supports in determining effects of life changes on the aging process.",
+        "Technical and Digital Skills": [
+            "Data analysis for health care needs",
+            "Utilizing digital platforms for social support"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with aging population",
+            "Collaborating with social support networks",
+            "Empathetic understanding of aged individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying health care needs of the aged",
+            "Analyzing effects of life changes on the aging process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating care for the aged",
+            "Leading support teams for elderly care"
+        ]
+    },
+    {
+        "courseTitle": "Community Health Resources and Health Promotion",
+        "courseCode": "PUBH 430W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to provide information about community health resources. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Health resources research",
+            "Writing reports",
+            "Data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing in a professional context",
+            "Presenting health information",
+            "Communicating health-related findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying community health needs",
+            "Evaluating health resources",
+            "Strategic planning for health promotion"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Health promotion strategy implementation",
+            "Community engagement"
+        ]
+    },
+    {
+        "courseTitle": "Finance and Budgeting in Healthcare",
+        "courseCode": "PUBH 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers financial management functions in healthcare organizations including operating and capital budgeting processes along with budgeting and financial controls.",
+        "Technical and Digital Skills": [
+            "Financial management in healthcare",
+            "Operating budgeting",
+            "Capital budgeting",
+            "Understanding of financial controls"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial data",
+            "Collaboration in budgeting processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial analysis",
+            "Problem-solving in budget planning",
+            "Critical evaluation of financial controls"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial planning and organization",
+            "Leadership in financial management"
+        ]
+    },
+    {
+        "courseTitle": "Health Services Research Methods",
+        "courseCode": "PUBH 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on health services research and its assessment abilities and application in health care and public health. Topics include the use of EXCEL, SAS, and SPSS to analyze data. An exploration of the issues and challenges of health services research for health related organizations and other organizations. Statistical procedures and practices will also be conducted.",
+        "Technical and Digital Skills": [
+            "EXCEL for data analysis",
+            "SAS for data analysis",
+            "SPSS for data analysis",
+            "Understanding of statistical procedures and practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health services research",
+            "Assessment abilities application in health care and public health",
+            "Data analysis",
+            "Addressing issues and challenges in health services research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of research methods to health related organizations"
+        ]
+    },
+    {
+        "courseTitle": "Epidemiology and Biostatistics",
+        "courseCode": "PUBH 448",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course in the principles and practices of epidemiology and the application of statistical and mathematical design and analysis of health research studies for the understanding and control of population health and disease with emphasis on environmental applications.  Cross-listed with ENVH 448.",
+        "Technical and Digital Skills": [
+            "Application of statistical and mathematical design",
+            "Analysis of health research studies",
+            "Understanding and control of population health and disease",
+            "Environmental applications of epidemiology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating health research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis of health data",
+            "Problem-solving in epidemiology",
+            "Analyzing disease patterns in populations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing health research projects",
+            "Applying epidemiological principles in environmental health"
+        ]
+    },
+    {
+        "courseTitle": "Public and Community Health Administration",
+        "courseCode": "PUBH 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A review of the principles and practice of administering public and community health organizations and programs at federal, state, and local levels. Constitutional, statutory and administrative bases for organizing and conducting public/community health programs will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of public/community health programs",
+            "Knowledge of federal, state, and local health organizations",
+            "Familiarity with constitutional, statutory and administrative bases for health programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with various health organization levels",
+            "Coordination with health program stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public/community health program efficiencies",
+            "Problem-solving in public health administration context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in public and community health settings",
+            "Organizing public/community health programs",
+            "Understanding and implementation of health administrative bases"
+        ]
+    },
+    {
+        "courseTitle": "Managerial Epidemiology",
+        "courseCode": "PUBH 461",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will blend theory and application of epidemiology. This course will also provide a comprehensive introduction to epidemiology and explain how to use epidemiological concepts and tools to improve decisions about the management of health services.",
+        "Technical and Digital Skills": [
+            "Application of epidemiological concepts",
+            "Use of tools for epidemiology",
+            "Health services management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining epidemiological concepts",
+            "Discussing health service management strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decisions making in health services management",
+            "Analyzing epidemiological data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health services management",
+            "Organizing epidemiological data"
+        ]
+    },
+    {
+        "courseTitle": "Policy and Politics of Health",
+        "courseCode": "PUBH 465",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore both health policy and the politics of health. Students will develop an understanding of the systematic and analytical framework for developing health and health care policy issues.",
+        "Technical and Digital Skills": [
+            "Health policy development",
+            "Systematic analysis of health care issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating policy issues effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical framework for health care policy issues",
+            "Problem solving in health policy context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and prioritizing health care issues",
+            "Leading policy development efforts"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "PUBH 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The internship will allow a student new to the health administration field or public health field to complete a capstone internship to gain entry skills for a beginning career pathway in the profession. The course is intended to provide field experience and assimilation of the theoretical aspects learned in the coursework in a practical/work setting. A minimum of 200 hours is required for the 3-credit internship.",
+        "Technical and Digital Skills": [
+            "Health administration practices",
+            "Public health methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of theoretical knowledge",
+            "Evaluation and adaptation to work settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project coordination",
+            "Adherence to professional standards"
+        ]
+    },
+    {
+        "courseTitle": "Healthcare Marketing",
+        "courseCode": "PUBH 475",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a basic understanding of marketing in a health care setting. It will cover the following: the history of marketing in a health care setting, health care markets, marketing techniques, and leadership skills in managing and supporting the marketing efforts.",
+        "Technical and Digital Skills": [
+            "Understanding of healthcare markets",
+            "Applying marketing techniques in healthcare"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating marketing efforts",
+            "Supporting marketing efforts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of healthcare markets",
+            "Evaluating the effectiveness of marketing techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing marketing efforts",
+            "Leadership in supporting and implementing marketing strategies"
+        ]
+    },
+    {
+        "courseTitle": "Health Ethics and the Law",
+        "courseCode": "PUBH 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the students with a basic knowledge of health law and examines legal issues confronting health services administrators in various health care environments.",
+        "Technical and Digital Skills": [
+            "Understanding of health law",
+            "Familiarity with legal issues in healthcare environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with health services administrators",
+            "Negotiation and resolution of legal issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing legal scenarios in healthcare",
+            "Identifying potential legal issues in healthcare settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigating legal aspects of healthcare administration",
+            "Leading discussions on health law issues"
+        ]
+    },
+    {
+        "courseTitle": "Public Health Informatics",
+        "courseCode": "PUBH 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on healthcare informatics (information systems) and applications in health care organizations. It provides an overview of health information system concepts, management, and integration of technology in healthcare organizations.",
+        "Technical and Digital Skills": [
+            "Healthcare informatics understanding",
+            "Information systems management",
+            "Technology integration in healthcare"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex technical concepts",
+            "Cross-disciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health information systems",
+            "Problem-solving in healthcare technology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing healthcare information systems",
+            "Leading technology integration projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Public Health",
+        "courseCode": "PUBH 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the opportunity for the study of selected topics in public/community health, including informatics, under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "Public health informatics",
+            "Data handling and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Effective communication with a supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public/community health issues",
+            "Critical thinking and problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Research planning and organization"
+        ]
+    },
+    {
+        "courseCode": "PUBH 600",
+        "courseTitle": "Environment, Society and Health",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces students to 21st century environmental health issues and challenges, and examines how they affect health in the region, nation and world. Topics include: air/water quality, food safety and food-borne illness, antibiotic resistance, emergency preparedness and response, sea level rise, vulnerable populations, radiation safety and health, pediatric environmental health, tick-borne illness, hazardous substances, environmental health policy and practice, and environmental risk communication.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental health issues",
+            "Knowledge of air/water quality",
+            "Knowledge of food safety and food-borne illness",
+            "Comprehension of antibiotic resistance",
+            "Understanding of emergency preparedness and response",
+            "Knowledge of sea level rise",
+            "Understanding of radiation safety and health",
+            "Knowledge of pediatric environmental health",
+            "Comprehension of hazardous substances",
+            "Understanding of environmental health policy and practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Environmental risk communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of vulnerable populations",
+            "Analysis of environmental health challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Emergency preparedness and response",
+            "Implementation of environmental health policy and practice"
+        ]
+    },
+    {
+        "courseCode": "PUBH 602",
+        "courseTitle": "Environmental Health Law, Justice and Governance",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of environmental health law and governance at the local, state, federal and international levels. Students examine the environmental health policy-making process and how laws, regulations and treaties are made and implemented. Students also will be familiarized with U.S. environmental public health statutes, key institutions and agencies, current controversies, issues of environmental justice, and major international treaties related to environmental health.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental health law and governance",
+            "Knowledge of U.S. environmental public health statutes",
+            "Familiarity with major international environmental health treaties"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss current controversies in environmental health",
+            "Ability to communicate issues of environmental justice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of law, regulations, and treaties",
+            "Critical examination of environmental health policy-making process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of key institutions and agencies in environmental health",
+            "Ability to navigate and understand environmental health governance structures"
+        ]
+    },
+    {
+        "courseCode": "PUBH 610",
+        "courseTitle": "Introduction to Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Provides an introduction to the multidisciplinary field of public health by examining the history, structure and functions of the public health system.  Course is organized around the three core functions of public health: assessment, policy development and assurance while focusing on elements of the basic public health disciplines.",
+        "Technical and Digital Skills": [
+            "Policy development",
+            "Public health system assessment",
+            "Public health assurance techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in multidisciplinary environments",
+            "Effective communication in public health contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Data assessment in public health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in public health settings",
+            "Strategic planning and organization in public health"
+        ]
+    },
+    {
+        "courseCode": "PUBH 611",
+        "courseTitle": "Social and Behavioral Sciences for Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn about different theoretical perspectives and how to apply appropriate social and behavioral models to public health programs. Topics discussed include social inequalities in health status related to culture, race, social class, gender, and the critical intersection between social risk factors, behavioral risk factors, and the development and implementation of public health interventions.",
+        "Technical and Digital Skills": [
+            "Applying social and behavioral models",
+            "Understanding public health interventions",
+            "Identifying social risk factors",
+            "Identifying behavioral risk factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding cultural, racial, and gender disparities in health",
+            "Communicating complex health inequalities",
+            "Presenting public health programs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social inequalities in health status",
+            "Critical evaluation of health disparities",
+            "Development and implementation of public health interventions",
+            "Analyzing interaction between social and behavioral risk factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing public health programs",
+            "Addressing social inequalities in health",
+            "Leading public health interventions"
+        ]
+    },
+    {
+        "courseCode": "PUBH 622",
+        "courseTitle": "Research Methods in Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This is a course in research methods that will provide an overview of the basic principles of research design, methods, measurement, data collection and data management in the field of public health. Students will learn the differences between quantitative, qualitative and mixed-methods approaches to public health research, as well as how to formulate and evaluate research questions.",
+        "Technical and Digital Skills": [
+            "Research Design",
+            "Data Collection",
+            "Data Management",
+            "Understanding of quantitative methods",
+            "Understanding of qualitative methods",
+            "Understanding of mixed-methods approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Formulating research questions",
+            "Evaluating research questions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research evaluation",
+            "Data analysis",
+            "Application of quantitative methods",
+            "Application of qualitative methods",
+            "Application of mixed-methods approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Data organization"
+        ]
+    },
+    {
+        "courseCode": "PUBH 624",
+        "courseTitle": "Systems Thinking and Health Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn the practice of systems thinking, which includes the ability to integrate multiple perspectives and synthesize them into a framework or model that encompasses the various ways in which a system might react to policy choices.",
+        "Technical and Digital Skills": [
+            "Systems modelling",
+            "Integration of multiple perspectives into a single framework"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex systems",
+            "Collaborative synthesis of various perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Systems analysis",
+            "Policy impact prediction",
+            "Synthesis of complex information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy decision making",
+            "Strategic systems thinking"
+        ]
+    },
+    {
+        "courseCode": "PUBH 632",
+        "courseTitle": "Environmental and Occupational Health Risk Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an introduction to quantitative and qualitative risk analysis and examines the fundamental aspects of risk, focusing on environmental, occupational, and public health risk. Hazard identification, exposure assessment, dose-response evaluation, risk characterization, and risk communication are emphasized.",
+        "Technical and Digital Skills": [
+            "Quantitative risk analysis",
+            "Qualitative risk analysis",
+            "Hazard identification",
+            "Exposure assessment",
+            "Dose-response evaluation",
+            "Risk characterization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Risk communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Environmental risk analysis",
+            "Occupational health risk analysis",
+            "Public health risk analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PUBH 640",
+        "courseTitle": "Health Disparities and Social Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to the topic of global health disparities through an in‐depth examination and discussion of the relationship between social injustice and inequitable health outcomes. Students will be introduced to the social and environmental determinants of health disparities and the pathways and mechanisms leading to inequitable health outcomes in vulnerable groups, as well as strategies for addressing these determinants to improve health.",
+        "Technical and Digital Skills": [
+            "Research on global health disparities",
+            "Analysis of social and environmental determinants",
+            "Understanding mechanisms leading to inequitable health outcomes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "In-depth discussion of health-related topics",
+            "Communication of strategies for addressing health disparities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and analysis of health disparities",
+            "Critical evaluation of social injustice issues",
+            "Development of strategies to improve health outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and execution of health improvement strategies",
+            "Leadership in addressing social injustice and health disparities"
+        ]
+    },
+    {
+        "courseCode": "PUBH 643",
+        "courseTitle": "Principles of Toxicology",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the fundamentals of toxicology with emphasis on the interaction of environmental and industrial chemicals with humans are studied. Exposure, dose response, kinetics and distribution of toxicants, metabolism of toxic agents, factors that affect toxicity and introductory chemical carcinogenesis are discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of toxicology fundamentals",
+            "Knowledge of environmental and industrial chemicals",
+            "Understanding toxic agents metabolism",
+            "Knowledge of dose response, kinetics and distribution of toxicants"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex toxicological concepts",
+            "Presenting toxicology research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing factors that affect toxicity",
+            "Understanding and analyzing chemical carcinogenesis",
+            "Deducing exposure levels"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PUBH 690",
+        "courseTitle": "Integrative Learning Experience",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a culminating learning experience in the MPH curriculum, which gives students the opportunity to demonstrate integration of foundational and concentration competencies and to apply the knowledge and skills achieved in their study of public health. The learning outcome is the demonstrated mastery, via course assignments, of core public health and discipline- or concentration-specific competencies.",
+        "Technical and Digital Skills": [
+            "Public health data analysis",
+            "Utilization of public health databases",
+            "Application of public health informatics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting public health insights",
+            "Collaborative decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration of public health knowledge",
+            "Applying foundational and concentration competencies",
+            "Critical assessment of public health situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in public health",
+            "Leadership in public health initiatives"
+        ]
+    },
+    {
+        "courseCode": "PUBH 746",
+        "courseTitle": "Principles of Epidemiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers basic epidemiologic methods and research study design such as case-control and cohort studies, randomized trials, risk estimation, and causal inferences. Content also covers the use of epidemiology in public health practice, links to health policy, and the factors and associations determining the distribution of disease in the population.",
+        "Technical and Digital Skills": [
+            "Application of basic epidemiologic methods",
+            "Research study design",
+            "Risk estimation methods",
+            "Causal inference techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of epidemiology in public health practice",
+            "Explaining links to health policy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing factors determining disease distribution",
+            "Investigating associations determining disease distribution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting case-control and cohort studies",
+            "Executing randomized trials",
+            "Guiding public health practice based on epidemiological findings"
+        ]
+    },
+    {
+        "courseCode": "PUBH 778",
+        "courseTitle": "Global Environmental Health",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to guide students with a public health perspective to develop skills to identify and analyze environmental health problems globally. It is designed to provide knowledge on recognizing and evaluating major environmental health issues and risk factors in developed and developing countries by using group discussions and real-life case studies.",
+        "Technical and Digital Skills": [
+            "Environmental health risk assessment",
+            "Case study analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presenting environmental health issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying environmental health problems",
+            "Analyzing global environmental health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Coordinating case study analysis"
+        ]
+    },
+    {
+        "courseCode": "PUBH 784",
+        "courseTitle": "Creating Sustainable Environmental Futures",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the interrelationships between individual and societal decisions and the global environment, and analyzes the consequences these interrelationships have for public health and sustainability. The course will review food, environmental quality, climate variability, sea-level rise and public health, homes-workplaces-communities, environmental health and sustainability, in the region, the nation and around the world",
+        "Technical and Digital Skills": [
+            "Data analysis of environmental quality",
+            "Understanding of climate variability and sea-level rise"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of public health and sustainability issues",
+            "Presentation of global environmental interrelationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of societal decisions' impact on the environment",
+            "Evaluation of public health consequences",
+            "Strategic planning for sustainability"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in environmental health initiatives",
+            "Organization of sustainable homes, workplaces, and communities"
+        ]
+    }
+]

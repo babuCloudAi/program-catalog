@@ -1,0 +1,768 @@
+[
+    {
+        "courseTitle": "Half-Hour Lesson",
+        "courseCode": "MUSA 139",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Applied lesson.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Half-Hour Lesson",
+        "courseCode": "MUSA 140",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Half-hour applied lesson.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "One Hour Applied Lesson",
+        "courseCode": "MUSA 141",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Performance execution",
+            "Technical understanding of the chosen art form"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public presentation",
+            "Audience engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability during live performance",
+            "Interpreting and implementing feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for live performance",
+            "Self-discipline and preparation"
+        ]
+    },
+    {
+        "courseTitle": "One Hour Applied Lesson",
+        "courseCode": "MUSA 142",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Performing lecture",
+            "Applying learned concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Performance articulation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to live audience reactions",
+            "Improvisation during performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for efficient lesson completion",
+            "Leading a lecture-performance"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 151",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Public performance",
+            "Lecture-presentation",
+            "Audio-visual equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Audience engagement",
+            "Peer collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance critique",
+            "Adaptation to live feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Event organization",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 152",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level applied lesson. One or more lecture-performances in Area Studio Class or Student Performance Hours or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Performance execution",
+            "Audio-visual equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Performance critique and feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance evaluation",
+            "Creative problem solving in performances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Event management",
+            "Leadership in performance settings"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Music Minor",
+        "courseCode": "MUSA 210",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One-hour applied lesson for music minors.",
+        "Technical and Digital Skills": [
+            "Musical notation reading",
+            "Instrument handling and use",
+            "Digital music software usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical expression",
+            "Performance etiquette",
+            "One-on-one communication with instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical troubleshooting",
+            "Interpretation of music pieces"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for practice sessions",
+            "Self-discipline",
+            "Following conductor’s direction"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Music Minor",
+        "courseCode": "MUSA 211",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One-hour applied lesson for the music minor.",
+        "Technical and Digital Skills": [
+            "Instrument playing",
+            "Music recording",
+            "Digital music editing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one instruction",
+            "Musical expression",
+            "Feedback interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music composition",
+            "Musical improvisation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 232",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour lesson in composition.",
+        "Technical and Digital Skills": [
+            "Music composition",
+            "Digital music software proficiency",
+            "Audio editing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative composing",
+            "Feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Melodic and harmonic problem solving",
+            "Structural analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project organization"
+        ]
+    },
+    {
+        "courseTitle": "Half-Hour Lesson",
+        "courseCode": "MUSA 239",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One half-hour applied lesson.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hour Lesson",
+        "courseCode": "MUSA 241",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Performance technique",
+            "Artistic interpretation",
+            "Musical notation reading"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Classroom cooperation",
+            "Feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Artistic critique",
+            "Performance troubleshooting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for performances",
+            "Event organization"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson",
+        "courseCode": "MUSA 242",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Live performance techniques",
+            "Audiovisual equipment operation",
+            "Musical instrument proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Audience engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Artistic interpretation",
+            "Performance critique and adjustment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for performances",
+            "Leadership in group performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 252",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required. Completion of this level requires a half hour public recital for instrumental area students.",
+        "Technical and Digital Skills": [
+            "Performance skills",
+            "Instrumental skills",
+            "Public recital execution",
+            "Musical interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Expressive communication through performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance critique and feedback incorporation",
+            "Musical problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Event organization",
+            "Personal discipline and self-direction"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Music Minor",
+        "courseCode": "MUSA 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One-hour applied lesson for the music minor.",
+        "Technical and Digital Skills": [
+            "Playing musical instruments",
+            "Music notation reading",
+            "Digital music production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performance skills",
+            "Collaborative music creation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music interpretation",
+            "Adaptation to various music styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in practice schedules",
+            "Leading small ensemble performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson.  Original work in composition starting with the smaller forms in both the vocal and the instrumental fields.  At least one 10-minute lecture-performance at Student Performance Hours or an equivalent thereof is required.",
+        "Technical and Digital Skills": [
+            "Musical Composition",
+            "Instrumental and Vocal Arrangement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lecture-Performance Skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative Problem Solving in Composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and Organization of Lecture-Performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 332",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson. Original work in composition starting with the smaller forms in both the vocal and the instrumental fields.  At least one 10-minute lecture-performance at Student Performance Hours or an equivalent thereof is required.",
+        "Technical and Digital Skills": [
+            "Composition of original work",
+            "Knowledge of smaller forms in vocal and instrumental fields"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lecture-performance delivery",
+            "Communicating musical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical analysis",
+            "Problem-solving in composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for lecture-performance",
+            "Planning and organizing a composition"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Hour lesson in composition for minors and non-majors.",
+        "Technical and Digital Skills": [
+            "Understanding and application of music composition",
+            "Use of digital music composition software",
+            "Knowledge in basic music theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative composition",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Melodic and harmonic problem-solving",
+            "Analysis and interpretation of musical pieces"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in completing composition tasks",
+            "Self-direction in creative processes"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson",
+        "courseCode": "MUSA 341",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Applied knowledge in specific area of study",
+            "Public performance techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lecture presentation",
+            "Peer collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance troubleshooting",
+            "Application of learned theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for effective learning within an hour",
+            "Leadership in group performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson",
+        "courseCode": "MUSA 342",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Applied learning techniques",
+            "Performance analysis",
+            "Lecture-performances understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Audience engagement",
+            "Peer feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Performance evaluation",
+            "Adaptation to feedback",
+            "Creating solutions to performance challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Planning and organization for performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required. Successful completion of a half hour recital is also required for vocal students only.",
+        "Technical and Digital Skills": [
+            "Performance skills",
+            "Music theory knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Interacting with audience and peers",
+            "Collaboration in studio class",
+            "Peer critique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical interpretation",
+            "Emotional connection to material",
+            "Adapting performance based on audience feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for performances",
+            "Self-direction in solo performances",
+            "Leadership in group performances"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level applied lesson.",
+        "Technical and Digital Skills": [
+            "Performing arts techniques",
+            "Using digital tools for performance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Effective communication during performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting performance in real-time",
+            "Evaluating performance feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing performance elements",
+            "Leading performance rehearsals"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Music Minor",
+        "courseCode": "MUSA 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One-hour applied lesson for the music minor.",
+        "Technical and Digital Skills": [
+            "Music theory understanding",
+            "Instrumental or vocal proficiency",
+            "Digital music production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Musical collaboration",
+            "Performance etiquette"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music composition and arrangement",
+            "Interpretation of sheet music"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for practice schedules",
+            "Leadership in ensemble settings"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 431",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson.  Original composition in larger forms.  One or more lecture-performances at Student Performance Hours or equivalents thereof are required.",
+        "Technical and Digital Skills": [
+            "Musical composition",
+            "Performance techniques",
+            "Understanding of larger musical forms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Live performance",
+            "Public speaking and presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Melodic and harmonic analysis",
+            "Creative problem-solving in composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for rehearsals and performances",
+            "Leading a performance"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 432",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson.  Original composition in larger forms.",
+        "Technical and Digital Skills": [
+            "Composing original music",
+            "Understanding musical forms",
+            "Using composition software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting compositions",
+            "Receiving and giving feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing musical structures",
+            "Problem-solving during composition process"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 439",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson for minors and non-majors.",
+        "Technical and Digital Skills": [
+            "Music notation software",
+            "Digital audio recording",
+            "Composing with digital instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving constructive criticism",
+            "Explaining musical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Harmonic analysis",
+            "Melodic development",
+            "Rhythmic structuring"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Planning a composition project"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Applied Composition",
+        "courseCode": "MUSA 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour composition lesson for minors and non-majors.",
+        "Technical and Digital Skills": [
+            "Music composition",
+            "Understanding of musical notation",
+            "Usage of composition software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical problem-solving",
+            "Creative thinking"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hour Lesson",
+        "courseCode": "MUSA 441",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson.  Satisfaction of a degree requirement on this level includes successful performance of a one-half hour private or, at faculty discretion, public recital.",
+        "Technical and Digital Skills": [
+            "Music performance",
+            "Instrument playing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical interpretation",
+            "Performance evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for recitals",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "One Hour Applied Lesson",
+        "courseCode": "MUSA 442",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour applied lesson.  Satisfaction of a degree requirement on this level includes successful performance of a one-half hour private or, at faculty discretion, public recital.  Numbers may be repeated.",
+        "Technical and Digital Skills": [
+            "Public performance",
+            "Private recital"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication through performance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation to live performance settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management for performance preparation"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Electronic Composition I",
+        "courseCode": "MUSA 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designated only for music majors and/or minors.  Music hardware and software to be studied includes, but is not limited to: K2500 Mackie 1604 VLZ 2 pro, Opcode MIDI 96 and Digital.",
+        "Technical and Digital Skills": [
+            "Understanding of K2500 Mackie 1604 VLZ 2 pro",
+            "Proficiency in Opcode MIDI 96",
+            "Proficiency in Digital",
+            "Music software manipulation",
+            "Music hardware manipulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative work with other musicians or peers",
+            "Clear communication of musical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting music hardware and software issues",
+            "Adaptation to different music technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of music software",
+            "Coordination in music hardware setup"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Electronic Composition II",
+        "courseCode": "MUSA 446",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designated for music majors and and/or minors.  Music hardware and software to be studied includes, but is not limited to:   K2500, Sound Designer, Oro Tools, and Finale.  The participants are expected to compose a medium-length work (at least 4-5 minutes) using the above equipment.  Grading is based on the knowledge of the electronic equipment and the quality of composing.",
+        "Technical and Digital Skills": [
+            "Knowledge of music hardware such as K2500, Sound Designer",
+            "Proficiency in music software including Oro Tools and Finale",
+            "Composing medium-length work using electronic equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Feedback acceptance and implementation",
+            "Articulating creative process and choices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting hardware and software issues",
+            "Critical evaluation of own composition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for composing medium-length work",
+            "Independently navigating and utilizing electronic equipment"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level lesson.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Improvisation",
+            "Critique and feedback analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "Hour Lesson - Performance Major",
+        "courseCode": "MUSA 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "One hour performance level lesson. Completion of this level includes successful performance of a one-hour public, lecture-style recital.",
+        "Technical and Digital Skills": [
+            "Public speaking techniques",
+            "Lecture-style teaching methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public engagement",
+            "Audience interaction",
+            "Verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting presentation to audience response",
+            "Time management in performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Event planning and organization",
+            "Leadership in public performance"
+        ]
+    },
+    {
+        "courseTitle": "Applied Sound Recording Technology Mentorship",
+        "courseCode": "MUSA 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Each student will receive personalized mentorship, career guidance, and detailed project feedback in an applied lesson studio setting. Emphasizing the creation of a professional portfolio serving as a culminating project or experience, these individualized lessons ensure students are prepared for success in this competitive industry. These advanced projects, developed with faculty advisors, include (but not limited to) producing new songs and film scores, mixing an album, entrepreneurship, and/or conducting original research.",
+        "Technical and Digital Skills": [
+            "Song production",
+            "Film score production",
+            "Music album mixing",
+            "Digital audio workstation proficiency",
+            "Audio recording and editing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Personalized mentorship",
+            "Career guidance",
+            "Providing detailed project feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Entrepreneurship",
+            "Conducting original research",
+            "Critical feedback interpretation",
+            "Creative problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Portfolio creation",
+            "Self-directed learning",
+            "Guidance and mentoring"
+        ]
+    },
+    {
+        "courseCode": "MUSA 651",
+        "courseTitle": "Advanced Applied Music",
+        "academicLevel": "graduate",
+        "courseDescription": "Graduate level applied performance level lesson.",
+        "Technical and Digital Skills": [
+            "Advanced performance techniques",
+            "Proficient use of musical instruments",
+            "Music software operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performance communication",
+            "Musical collaboration",
+            "Interpreting musical direction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Music interpretation",
+            "Troubleshooting performance issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Orchestral leadership",
+            "Performance organization",
+            "Time management in performance"
+        ]
+    },
+    {
+        "courseCode": "MUSA 652",
+        "courseTitle": "Advanced Applied Music",
+        "academicLevel": "graduate",
+        "courseDescription": "Graduate level applied performance lesson. Completion of this level includes successful performance of a one-hour public recital.",
+        "Technical and Digital Skills": [
+            "Musical performance",
+            "Use of musical instruments",
+            "Reading and interpreting music scores"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public performance",
+            "Audience engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of musical pieces",
+            "Performance problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management for one-hour recital"
+        ]
+    }
+]

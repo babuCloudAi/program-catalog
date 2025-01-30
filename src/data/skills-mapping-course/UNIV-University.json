@@ -1,0 +1,384 @@
+[
+    {
+        "courseTitle": "Internship",
+        "courseCode": "UNIV 068",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a professional work experience for which credit will not apply to the degree. Approval for enrollment is determined by Monarch Internship and Co-Op Office.  Experience must be related to the student's major or career area of interest, include adequate supervision by a professional, and include at least an average of 8 hours per week.",
+        "Technical and Digital Skills": [
+            "Proficiency in major or career related field",
+            "Ability to adapt to professional work environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with professionals",
+            "Effective communication with supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability in a professional work environment",
+            "Problem-solving within the context of the job role"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Responsibility for professional tasks",
+            "Adherence to professional standards"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship",
+        "courseCode": "UNIV 094",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in an entrepreneurial experience for which credit will not apply to the degree. Approval for enrollment is determined by the Center for High Impact Practices. Experience must be related to the student's major or career area of interest, include adequate supervision by faculty member or a professional, and include at least an average of eight hours per week.",
+        "Technical and Digital Skills": [
+            "Industry-specific technical skills",
+            "Digital marketing",
+            "Web development basics",
+            "Business software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Networking",
+            "Negotiation",
+            "Effective communication with mentors/supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying business opportunities",
+            "Strategic planning",
+            "Risk assessment and mitigation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leadership in entrepreneurial settings"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to the College of Sciences",
+        "courseCode": "UNIV 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Presents the relationship between majors in the College of Sciences and the students' career goals for students planning to major in a science. Provides an orientation to the University emphasizing the learning skills needed for Science majors.",
+        "Technical and Digital Skills": [
+            "Understanding of different scientific majors and their applications",
+            "Familiarity with university learning resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of career goals",
+            "Understanding and articulating the relationship between chosen major and career goals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing suitability of different science majors for personal career goals",
+            "Analysis of academic requirements for different science majors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning academic track for chosen major",
+            "Self-orientation within university structures and systems"
+        ]
+    },
+    {
+        "courseTitle": "Sophomore Seminar",
+        "courseCode": "UNIV 111",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This seminar provides resources and opportunities for students to build relationships with other sophomores and faculty and to explore individual strengths, values, skills, and interests.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Building relationships with peers and faculty",
+            "Effective communication of personal strengths, values, and interests"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-assessment",
+            "Identification of personal strengths and weaknesses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Exploration of personal leadership style",
+            "Identification and articulation of personal values"
+        ]
+    },
+    {
+        "courseTitle": "Learning Communities Seminar",
+        "courseCode": "UNIV 115",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course serves as the common course for learning communities. Students will develop a sense of community as they attend, study, and participate in various activities and events with other students, peer mentors, faculty or advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group Communication",
+            "Active Listening",
+            "Event Participation",
+            "Community Engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conflict Resolution",
+            "Adapting to Different Social Situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team Coordination",
+            "Leadership in Group Activities",
+            "Organizing Community Events"
+        ]
+    },
+    {
+        "courseTitle": "Career Exploration",
+        "courseCode": "UNIV 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A systematic exploration of individual interests and skills and career resources.  Emphasis is placed on defining goals and developing strategies to achieve goals.  Career testing and individual conferences are included.",
+        "Technical and Digital Skills": [
+            "Career testing",
+            "Utilizing career resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Individual conferencing",
+            "Sharing personal interests and skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Goal setting",
+            "Developing strategies to achieve goals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning personal career trajectory",
+            "Self-management"
+        ]
+    },
+    {
+        "courseTitle": "Learn and Earn Advantage Program",
+        "courseCode": "UNIV 130",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The purpose of this course is to engage students in self-reflection and work place skill enhancement, applicable to experiences encountered as part of the LEAP, as well as in the world of work. The course will help students to develop and be able to apply skills in the areas of self-presentation, work ethic, team membership, professional communication, independence and initiative, and seeing the “Big Picture” in relation to everyday workplace issues.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Self-presentation",
+            "Professional communication",
+            "Team membership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Workplace issue resolution",
+            "Independence and initiative"
+        ],
+        "Organizational and Leadership Skills": [
+            "Seeing the 'Big Picture'",
+            "Work ethic enhancement"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Career Management",
+        "courseCode": "UNIV 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected career-related topics.  Titles for specific course offerings will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Career communication",
+            "Networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career path analysis",
+            "Job market trend analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career planning",
+            "Leadership in career development"
+        ]
+    },
+    {
+        "courseTitle": "Career Implementation",
+        "courseCode": "UNIV 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A practical examination and application of resume and cover letter writing, job search strategies, including electronic job search and networking, interview skills, and evaluating employment offers.  Designed to prepare students for internships or cooperative education experiences and/or for post graduation employment.",
+        "Technical and Digital Skills": [
+            "Resume and cover letter writing",
+            "Electronic job search",
+            "Networking strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interview skills",
+            "Networking communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating employment offers",
+            "Developing job search strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career planning",
+            "Organizing job search"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Career Management",
+        "courseCode": "UNIV 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected career-related topics.  Titles for specific course offerings will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Career networking",
+            "Interview communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career path analysis",
+            "Job market trend analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career planning",
+            "Self-management"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Entrepreneurship Across the Disciplines",
+        "courseCode": "UNIV 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of entrepreneurship and is designed to introduce upper-level undergraduate students (juniors and seniors) to a wide range of approaches designed to facilitate innovation, foster start-up businesses, enable growth and ensure the continued viability of emerging and mature technical enterprises. The course will focus on entrepreneurial thinking and action and will explore the attitudes and behaviors that most frequently result in entrepreneurial success. This course will address the theories that underlay successful venture creation as well as practices that have proven to be effective.",
+        "Technical and Digital Skills": [
+            "Understanding of start-up businesses",
+            "Knowledge of technical enterprises",
+            "Familiarity with innovative approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Entrepreneurial communication",
+            "Influencing attitudes and behaviors",
+            "Negotiation techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Entrepreneurial thinking",
+            "Analysis of business viability",
+            "Problem solving for business growth"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in start-up environments",
+            "Organizational strategies for enterprise growth",
+            "Application of venture creation theories"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Career Management",
+        "courseCode": "UNIV 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected career-related topics.  Titles for specific course offerings will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective networking",
+            "Public speaking",
+            "Personal branding",
+            "Negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career planning",
+            "Decision-making",
+            "Strategic thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Goal setting",
+            "Leadership",
+            "Project management"
+        ]
+    },
+    {
+        "courseTitle": "Topics: Study Abroad",
+        "courseCode": "UNIV 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics examined in an international setting.  These courses are designed to help students gain new perspectives on their fields of study, develop intercultural competencies and communication skills, and engage with situations and questions that challenge their own assumptions/values. The courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Intercultural communication",
+            "Active listening",
+            "Effective verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Challenging assumptions",
+            "Analyzing diverse perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptability to new environments",
+            "Cultural competence",
+            "Global awareness"
+        ]
+    },
+    {
+        "courseTitle": "Career Engagement",
+        "courseCode": "UNIV 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A practical examination and application of resume and cover letter writing, job search strategies including the electronic job search, networking, interview skills, and negotiating a job offer.  Topics will also include the transition to the world of work and professional development.  Designed for students seeking post-graduation employment.",
+        "Technical and Digital Skills": [
+            "Electronic job search",
+            "Resume and cover letter writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Networking",
+            "Interview skills",
+            "Negotiating job offers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Job search strategies",
+            "Professional development planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Transitioning to professional environment"
+        ]
+    },
+    {
+        "courseTitle": "Design Thinking",
+        "courseCode": "UNIV 407/507",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Design thinking is a human-centered approach to innovation that uses design methods and tools to integrate the needs of people and organizations, the opportunities of technology, and the requirements for personal, organizational, and business success. The design thinking course introduces students to a robust process for understanding problems, ideation, innovation, and entrepreneurship. This course is facilitated using workshops where students will work in project teams in a design thinking innovation challenge.",
+        "Technical and Digital Skills": [
+            "Understanding technical design methods",
+            "Use of digital tools for design",
+            "Leveraging technology for innovation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working effectively in project teams",
+            "Communicating design ideas",
+            "Understanding needs of people and organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and solving complex problems",
+            "Ideation and innovation techniques",
+            "Analyzing requirements for personal, organizational, and business success"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading design thinking innovation challenges",
+            "Organizing and facilitating workshops",
+            "Entrepreneurship"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Career Management",
+        "courseCode": "UNIV 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected career-related topics.  Titles for specific course offerings will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Career networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career planning",
+            "Goal setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-management"
+        ]
+    },
+    {
+        "courseCode": "UNIV 507",
+        "courseTitle": "Design Thinking",
+        "academicLevel": "graduate",
+        "courseDescription": "Design thinking is a human-centered approach to innovation that uses design methods and tools to integrate the needs of people and organizations, the opportunities of technology, and the requirements for personal, organizational, and business success. The design thinking course introduces students to a robust process for understanding problems, ideation, innovation, and entrepreneurship. This course is facilitated using workshops where students will work in project teams in a design thinking innovation challenge.",
+        "Technical and Digital Skills": [
+            "Understanding of design methods and tools",
+            "Grasping the opportunities of technology",
+            "Project-based learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working in project teams",
+            "Innovation challenge participation",
+            "Human-centered approach to innovation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding problems",
+            "Ideation",
+            "Innovation",
+            "Entrepreneurship"
+        ],
+        "Organizational and Leadership Skills": [
+            "Integrating needs of people and organizations",
+            "Requirements for personal, organizational, and business success",
+            "Leading design thinking innovation challenge"
+        ]
+    }
+]

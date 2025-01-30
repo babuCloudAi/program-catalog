@@ -1,0 +1,649 @@
+[
+    {
+        "courseTitle": "Maritime and Supply Chain Internship",
+        "courseCode": "MSCM 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credit is determined by the Business Analytics CAP advisor and the Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Internship planning",
+            "Career development planning"
+        ]
+    },
+    {
+        "courseTitle": "International Shipping",
+        "courseCode": "MSCM 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course examines international freight transportation and terms for movement of international trade.  It discusses processes and concepts involved in international ocean and intermodal transportation.  It shows how shipping companies enter into foreign markets and participate in international trade.  It also covers operational issues such as payment, commercial documents, insurance; customs and clearance; shipping organizations and societies, and shipping law.",
+        "Technical and Digital Skills": [
+            "Understanding of international freight transportation",
+            "Knowledge of terms for movement of international trade",
+            "Familiarity with international ocean and intermodal transportation",
+            "Understanding of commercial documents and insurance procedures",
+            "Knowledge of customs and clearance processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills for entering foreign markets",
+            "Communication with international trade participants",
+            "Interaction with shipping organizations and societies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing operational issues in shipping",
+            "Analyzing international trade processes",
+            "Navigating shipping law"
+        ],
+        "Organizational and Leadership Skills": [
+            "Participation in international trade",
+            "Management of shipping logistics",
+            "Understanding of shipping organizations structure and leadership"
+        ]
+    },
+    {
+        "courseTitle": "Maritime Security and Risk Analysis",
+        "courseCode": "MSCM 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of international and U.S. initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain.  In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions, and state-of-the-art techniques and tools for safeguarding ocean-borne commerce.",
+        "Technical and Digital Skills": [
+            "Understanding of maritime security regulations",
+            "Knowledge of tools for safeguarding ocean-borne commerce",
+            "Familiarity with maritime threat vectors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration within maritime coalitions",
+            "Effective communication of security protocols"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Threat analysis and risk assessment",
+            "Strategic planning to mitigate maritime threats",
+            "Critical evaluation of maritime security initiatives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of regulatory requirements",
+            "Leadership within maritime coalitions",
+            "Coordination of maritime security initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Strategic Sourcing and Purchasing Management",
+        "courseCode": "MSCM 430/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain.  Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.",
+        "Technical and Digital Skills": [
+            "Price/cost analysis",
+            "Quality control",
+            "Supplier selection",
+            "Understanding of third-party logistics and freight forwarding",
+            "Acquisition of services and capital assets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with suppliers",
+            "Relationship building with suppliers",
+            "Legal and ethical decision making in sourcing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic decision making in sourcing",
+            "Analysis of supplier quality",
+            "Problem-solving in freight forwarding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for sourcing and purchasing",
+            "Leading supplier selection processes",
+            "Managing legal and ethical issues in sourcing"
+        ]
+    },
+    {
+        "courseTitle": "Quality Management",
+        "courseCode": "MSCM 439",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the application of quality principles to the management of manufacturing and service organizations.  Topics include fundamentals of quality management, Six Sigma, statistical process control, process capability and reliability.",
+        "Technical and Digital Skills": [
+            "Understanding of quality principles",
+            "Knowledge of Six Sigma",
+            "Statistical process control",
+            "Understanding of process capability and reliability"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex manufacturing and service processes",
+            "Communicating quality improvement strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and rectifying quality issues",
+            "Analyzing process capability",
+            "Improving process reliability",
+            "Implementing Six Sigma principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading quality improvement initiatives",
+            "Managing manufacturing and service quality",
+            "Organizing statistical process control"
+        ]
+    },
+    {
+        "courseTitle": "Supply Chain Management and Logistics",
+        "courseCode": "MSCM 441",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supply chain management integrates all activities associated with the flow of materials and information from product start to customers.  Examples include order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.  Particular application is made to global logistics systems supporting port and maritime activities.  Supply chain relationships can be improved through effective integration of management and via such technologies as the World Wide Web, electronic data exchange, and enterprise resource planning (ERP).  (cross-listed with BNAL 441)",
+        "Technical and Digital Skills": [
+            "Understanding of global logistics systems",
+            "Knowledge of electronic data exchange",
+            "Enterprise resource planning (ERP) application",
+            "Usage of World Wide Web technologies for supply chain management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication for integration of management",
+            "Collaboration to improve supply chain relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing information systems supporting logistical activities",
+            "Inventory management analysis",
+            "Order processing evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in supply chain management",
+            "Organizing warehousing and inventory management",
+            "Managing transportation and logistics"
+        ]
+    },
+    {
+        "courseTitle": "Marine Insurance",
+        "courseCode": "MSCM 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the fundamentals of cargo, hull, protection and indemnity insurance. Topics include insurance markets, agents, underwriters, forms of policies, valuation, Total Loss, Particular Average, General Average, insured perils, war risks, subrogation, reinsurance and insurers of pollution liabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of cargo, hull, protection and indemnity insurance",
+            "Knowledge of insurance markets, agents, underwriters",
+            "Interpretation of forms of policies",
+            "Understanding of valuation, Total Loss, Particular Average, General Average",
+            "Insight into insured perils, war risks",
+            "Understanding of subrogation, reinsurance",
+            "Knowledge of insurers of pollution liabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with insurance agents and underwriters",
+            "Negotiation skills for policy terms and conditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of insurance markets",
+            "Risk assessment and mitigation",
+            "Valuation and loss calculation",
+            "Analysis of insurance policies and their terms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Insurance policy management",
+            "Risk management",
+            "Strategic planning in insurance"
+        ]
+    },
+    {
+        "courseTitle": "Distribution Center and Material Handling Management",
+        "courseCode": "MSCM 468/568",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.",
+        "Technical and Digital Skills": [
+            "Distribution center design",
+            "System selection",
+            "Layout configuration",
+            "Material handling options evaluation",
+            "Inventory management evaluation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Strategic analysis of distribution center operations",
+            "Supply chain analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for material management",
+            "Organizing and managing distribution center operations"
+        ]
+    },
+    {
+        "courseTitle": "Shipping Management",
+        "courseCode": "MSCM 471",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the management of freight shipping organizations involved in the transport of cargo by ship. Key topics are managing ships and ship space; shipping markets, operations, costs, investment, insurance, claims, and regulation; and ship types, cargoes, safety, flagging, pollution, and chartering and purchase.",
+        "Technical and Digital Skills": [
+            "Managing ships and ship space",
+            "Understanding of shipping markets",
+            "Operations management",
+            "Cost management",
+            "Investment and insurance management",
+            "Regulation compliance",
+            "Knowledge of ship types and cargoes",
+            "Safety management",
+            "Understanding of pollution issues in shipping",
+            "Chartering and purchasing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Claims management",
+            "Effective communication with various stakeholders in the shipping industry"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment and mitigation",
+            "Problem-solving in operations and investment",
+            "Analyzing shipping market trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and managing shipping organizations",
+            "Organizing cargo transport",
+            "Strategic planning for investments and operations"
+        ]
+    },
+    {
+        "courseTitle": "Port Management",
+        "courseCode": "MSCM 472",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the management of seaports in the movement of cargo throughput. It presents concepts related to design, organization, administration, and operation of ports. It discusses issues involved in planning, investment, communication systems, congestion, pollution, safety, security; intermodal transportation; water and land accessibility; and port competition and cooperation to improve customer service.",
+        "Technical and Digital Skills": [
+            "Design and organization of ports",
+            "Administration and operation of ports",
+            "Understanding of communication systems within ports",
+            "Understanding intermodal transportation",
+            "Knowledge of water and land accessibility"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with port stakeholders",
+            "Collaboration for improving customer service"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and investment decision making",
+            "Addressing congestion and pollution issues",
+            "Ensuring safety and security",
+            "Strategizing for port competition and cooperation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Port administration and operations management",
+            "Leading safety and security initiatives",
+            "Strategic planning and investment"
+        ]
+    },
+    {
+        "courseTitle": "Inland Waterway and Intermodal Transportation",
+        "courseCode": "MSCM 473",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to explore and analyze the current condition of inland waterways both throughout the United States and around the globe with an emphasis on the creation of intermodal transportation networks.  It will include an overview of existing infrastructure as well as financing mechanisms, national and international competitive strategies, risk management (public safety and emergency preparedness), and the environmental benefits as well as consider current legislation.",
+        "Technical and Digital Skills": [
+            "Analysis of transportation networks",
+            "Infrastructure assessment",
+            "Understanding of financing mechanisms",
+            "Risk management strategies",
+            "Understanding of environmental benefits of intermodal transportation",
+            "Knowledge of relevant legislation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of analytical findings",
+            "Collaborative planning for risk management",
+            "Negotiating competitive strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of national and international competitive strategies",
+            "Risk assessment and management",
+            "Evaluation of infrastructure condition",
+            "Environmental impact assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for intermodal transportation networks",
+            "Leadership in emergency preparedness",
+            "Management of public safety concerns"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Maritime and Supply Chain Management",
+        "courseCode": "MSCM 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. The course offers students an opportunity to integrate disciplinary theory and knowledge through developing a supply chain process, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.",
+        "Technical and Digital Skills": [
+            "Supply chain management",
+            "Product development",
+            "Business development processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with professionals and faculty members",
+            "Presenting entrepreneurial ideas and solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Innovation in problem-solving",
+            "Analysis of supply chain processes",
+            "Development of practical solutions for real-world problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading entrepreneurial initiatives",
+            "Integrating disciplinary theory and knowledge",
+            "Organizing and managing new business initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Maritime and Supply Chain Management",
+        "courseCode": "MSCM 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within Maritime and Supply Chain Management designed to provide an in-depth exploration of current issues.",
+        "Technical and Digital Skills": [
+            "Supply chain optimization",
+            "Maritime logistics management",
+            "Use of supply chain management software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation in supply chain contracts",
+            "Cross-cultural communication in global supply chains"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk management in maritime operations",
+            "Analytical decision-making in supply chain"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in maritime operations",
+            "Organizational skills in supply chain management"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "MSCM 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty member",
+            "Ability to convey study findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing a study plan",
+            "Critical analysis of study results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "MSCM 530",
+        "courseTitle": "Strategic Sourcing and Purchasing Management",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.",
+        "Technical and Digital Skills": [
+            "Price/cost analysis",
+            "Quality analysis",
+            "Legal compliance in sourcing and purchasing",
+            "Management of third party logistics",
+            "Freight forwarding",
+            "Procurement of services and capital assets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supplier negotiation",
+            "Ethical sourcing communication",
+            "Interdepartmental coordination for sourcing and purchasing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic sourcing decision making",
+            "Supplier selection and evaluation",
+            "Risk management in supply chain"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational supply chain management",
+            "Leadership in sourcing and purchasing processes",
+            "Project management in logistics"
+        ]
+    },
+    {
+        "courseCode": "MSCM 568",
+        "courseTitle": "Distribution Center and Material Handling Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.",
+        "Technical and Digital Skills": [
+            "Distribution center operations analysis",
+            "Design of distribution systems",
+            "Selection of distribution systems",
+            "Layout configuration",
+            "Material handling options evaluation",
+            "Inventory management options evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic analysis of distribution and material management in supply chain",
+            "Operational problem-solving in distribution center"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic role of distribution center in supply chain",
+            "Material management in supply chain"
+        ]
+    },
+    {
+        "courseCode": "MSCM 595",
+        "courseTitle": "Topics in Maritime and Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected topics within maritime and supply chain management designed to provide an in-depth exploration of current issues.",
+        "Technical and Digital Skills": [
+            "Understanding of maritime systems",
+            "Supply chain management software usage",
+            "Data analysis in maritime and supply chain contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a supply chain",
+            "Negotiation skills in supply chain context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of supply chain issues",
+            "Problem-solving in maritime contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within maritime and supply chain teams",
+            "Project management in maritime and supply chain contexts"
+        ]
+    },
+    {
+        "courseCode": "MSCM 610",
+        "courseTitle": "International Shipping and Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with PORT 610)",
+        "Technical and Digital Skills": [
+            "International freight transportation knowledge",
+            "Understanding of terms for movement of international trade",
+            "Supply chain management",
+            "Directing information, materials and products flow"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Improving supply chain relationships",
+            "Effective communication with international trade partners",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and resolution of supply chain issues",
+            "Analytical thinking in international trade context",
+            "Problem-solving in freight transportation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supply chain process organization",
+            "Leadership in directing flow of information, materials and products",
+            "Decision-making in international trade"
+        ]
+    },
+    {
+        "courseCode": "MSCM 615",
+        "courseTitle": "Maritime Security and Risk Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with PORT 615)",
+        "Technical and Digital Skills": [
+            "Understanding of maritime security regulations",
+            "Familiarity with tools and techniques for safeguarding ocean-borne commerce",
+            "Knowledge of international and U.S initiatives related to maritime security",
+            "Awareness of state-of-the-art maritime security techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate security threats and risks",
+            "Collaboration in maritime coalitions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and assessing maritime threats",
+            "Evaluating the impact of regulatory requirements on maritime commerce",
+            "Risk analysis in maritime security"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading maritime security initiatives",
+            "Coordinating with various maritime stakeholders"
+        ]
+    },
+    {
+        "courseCode": "MSCM 616",
+        "courseTitle": "Reverse Logistics and Sustainable Operations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with PORT 616)",
+        "Technical and Digital Skills": [
+            "Understanding of global supply chain partnerships",
+            "Knowledge of reverse logistics systems",
+            "Application of fundamental tools and techniques for system optimization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration within supply chain partnerships",
+            "Effective communication in logistics management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment in logistic systems",
+            "Solution development for system optimization",
+            "Analyzing sustainable performance measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of reverse logistics systems",
+            "Organization of supply chain partnerships",
+            "Leadership in achieving sustainable performance"
+        ]
+    },
+    {
+        "courseCode": "MSCM 617",
+        "courseTitle": "Transportation Management",
+        "academicLevel": "graduate",
+        "courseDescription": "The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.",
+        "Technical and Digital Skills": [
+            "Understanding of transportation technology",
+            "Knowledge of transportation regulations",
+            "Familiarity with different modes of transportation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Relationship management with intermediaries, carriers and shippers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transportation risk management",
+            "Transportation sourcing and management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding company roles and operations within the transportation field",
+            "Transportation economics"
+        ]
+    },
+    {
+        "courseCode": "MSCM 630",
+        "courseTitle": "Strategic Sourcing and Supply Management",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Emphasis is placed on effectively managing the supply management process. Topics include the analysis of sourcing decisions, price/cost analysis, purchasing, supplier selection and relationship management, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.",
+        "Technical and Digital Skills": [
+            "Supply chain management",
+            "Cost/Price analysis",
+            "Supplier selection methods",
+            "Third party logistics management",
+            "Freight forwarding operations",
+            "Service and capital asset acquisition"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supplier relationship management",
+            "Negotiation techniques",
+            "Legal and ethical issue resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Sourcing decision analysis",
+            "Supply management process optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic sourcing",
+            "Supply chain leadership",
+            "Organizational purchasing strategies"
+        ]
+    },
+    {
+        "courseCode": "MSCM 641",
+        "courseTitle": "Supply Chain Management and Logistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Supply chain management integrates all activities associated with the flows of materials, information, and funds.  Examples include strategic sourcing, order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.",
+        "Technical and Digital Skills": [
+            "Strategic sourcing",
+            "Order processing",
+            "Inventory management",
+            "Transportation and logistics management",
+            "Cost analysis",
+            "Information systems management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within supply chain",
+            "Vendor negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving in logistics",
+            "Analytical skills for cost analysis",
+            "Inventory optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of supply chain activities",
+            "Warehouse organization",
+            "Leadership in logistics"
+        ]
+    },
+    {
+        "courseCode": "MSCM 648",
+        "courseTitle": "Distribution Center Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course investigates the strategic role of distribution centers in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management alternatives. Tactical, operational and strategic planning options are also discussed.",
+        "Technical and Digital Skills": [
+            "Analysis of distribution center operations",
+            "Design of distribution center systems",
+            "Selection and configuration of system layouts",
+            "Evaluation of material handling and inventory management alternatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning for distribution centers",
+            "Operational planning for distribution centers",
+            "Tactical planning for distribution centers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of distribution center operations",
+            "Inventory management",
+            "Strategic planning",
+            "Tactical planning",
+            "Operational planning"
+        ]
+    },
+    {
+        "courseCode": "MSCM 893",
+        "courseTitle": "Supply Chain Management for E-Commerce",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.",
+        "Technical and Digital Skills": [
+            "Supply chain management",
+            "Information technology integration",
+            "Omnichannel distribution",
+            "Maritime logistics",
+            "Procurement management",
+            "Inventory management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-functional collaboration",
+            "Vendor communication",
+            "Stakeholder communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Global e-commerce opportunity analysis",
+            "Material flow management",
+            "Supply chain optimization",
+            "Inventory analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Supply chain coordination",
+            "Strategic planning",
+            "Logistics organization"
+        ]
+    }
+]

@@ -1,0 +1,1842 @@
+[
+    {
+        "courseTitle": "Leadership and Society",
+        "courseCode": "SOC 100S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the social, political, psychological, economic, and international dimensions of leadership through a social science framework.  A specific focus is given to the dynamic interactions between social structures and leadership behavior.  Students explore how society shapes leaders and how leaders shape society.  Using an introspective approach, students consider their role as current and future leaders in a diverse society.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and analyzing social dynamics",
+            "Effective communication across diverse societies",
+            "Introspective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of social structures",
+            "Assessing the impact of leadership behavior on social structures",
+            "Understanding psychological, economic, and international dimensions of leadership"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the role of leadership in shaping society",
+            "Leading in a diverse society",
+            "Adapting leadership styles according to social structures"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Sociology",
+        "courseCode": "SOC 201S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the discipline and methods of sociology.  Major topics include socialization, social inequality, family, education, gender roles, ethnic and minority relations.",
+        "Technical and Digital Skills": [
+            "Sociological research methods",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding social dynamics",
+            "Effective communication in diverse cultural and social contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of sociological topics",
+            "Understanding and analysis of social inequality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of organizational social dynamics",
+            "Leadership dynamics within social structures"
+        ]
+    },
+    {
+        "courseTitle": "Diversity and Society",
+        "courseCode": "SOC 203S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines social diversity and inclusivity in American society and is designed to sensitize students to the roles that typology such as race, ethnicity, social class, religion, sex and gender, age, health, (dis)ability, sexual orientation, and language play in societal definitions of social diversity.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Sensitivity to social diversity and inclusivity issues",
+            "Effective communication across diverse groups",
+            "Understanding and respecting differences in race, ethnicity, social class, religion, sex and gender, age, health, (dis)ability, sexual orientation, and language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of societal definitions of social diversity",
+            "Analyzing social constructs and their impact on diversity and inclusivity",
+            "Understanding the roles of various social typologies in defining social diversity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting inclusivity in organizational settings",
+            "Demonstrating leadership in fostering diversity and inclusivity"
+        ]
+    },
+    {
+        "courseTitle": "Data, Technology, Society",
+        "courseCode": "SOC 205S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course investigates how data science is transforming not only our sense of science and scientific knowledge, but our sense of ourselves and our communities and our commitments concerning human affairs and institutions generally. Social implications of the digital revolution, including ethical issues associated with algorithmic design and privacy will be examined. Students will use a sociological lens to explore how our increasingly digital lifestyle changes institutions and social relations.",
+        "Technical and Digital Skills": [
+            "Understanding of data science",
+            "Knowledge of digital revolution",
+            "Understanding of algorithmic design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of ethical issues",
+            "Exploring social implications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of scientific knowledge",
+            "Analyzing social relations in the digital context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Honors: Introduction to Sociology",
+        "courseCode": "SOC 226S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors section of SOC 201S.",
+        "Technical and Digital Skills": [
+            "Understanding of social data analysis",
+            "Basic understanding of sociological research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding of social dynamics",
+            "Effective communication in diverse social contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of social phenomena",
+            "Identification of social patterns and structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of societal hierarchies",
+            "Ability to analyze social organizations and institutions"
+        ]
+    },
+    {
+        "courseTitle": "Social Problems",
+        "courseCode": "SOC 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the major social problems confronting groups and individuals in a society marked by rapid change.  Emphasis is given to the study of social phenomena including both historical and comparative perspectives.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpreting social phenomena",
+            "Effective communication of historical and comparative perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of major social problems",
+            "Interpretation of societal changes",
+            "Comparative analysis",
+            "Historical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse perspectives",
+            "Leading discussions on societal changes and problems"
+        ]
+    },
+    {
+        "courseTitle": "Families and Society",
+        "courseCode": "SOC 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class explores both contemporary and historical aspects of singlehood, courtship, mate selection, cohabitation, marriage, sexuality, and family.  Relationship quality, communication, conflict, and the termination of relationships is also examined.  Emphasis is placed on examining the diversity of relationships and family structures as well as how our family experiences are shaped by gender, race/ethnicity, class, and sexual orientation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and discussing diversity in relationships",
+            "Communication within different relationship structures",
+            "Conflict resolution in relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and contemporary relationship aspects",
+            "Critical examination of relationship terminations",
+            "Understanding of cultural, social and personal factors shaping familial experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and acknowledging different family structures and societal roles",
+            "Leadership in resolving relationship conflicts"
+        ]
+    },
+    {
+        "courseTitle": "Religion and Society",
+        "courseCode": "SOC 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Sociological analysis of religion as a social institution, of the functions of religion and its relationship to other institutions and to social change, and of the religious behavior of individuals.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Interpretation and communication of sociological concepts",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Sociological analysis",
+            "Critical evaluation of religious behaviors",
+            "Analysis of social change"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and applying sociological theories",
+            "Research organization and presentation"
+        ]
+    },
+    {
+        "courseTitle": "Population and Society",
+        "courseCode": "SOC 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers an introduction to the field of population and its interconnection to broader societal changes.  It introduces students to the concepts, issues and concerns in population studies and examines the interaction between population processes and economic development, social changes and environment.  Topics include theories, fertility, mortality, migration, distribution and composition, population and development, population and environment, and policy.  Emphasis is given to a critical assessment of population processes as both causes and consequences of development and societal changes with a focus on comparative patterns between developing countries and the more developed countries.",
+        "Technical and Digital Skills": [
+            "Understanding of population studies concepts",
+            "Identifying population processes",
+            "Comparative analysis of population patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of societal issues",
+            "Communicating societal and environmental interactions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical assessment of population processes",
+            "Analysis of economic, societal, and environmental developments",
+            "Evaluation of policy implications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Comparative study of developing and developed countries",
+            "Understanding and applying population theories",
+            "Assessment of fertility, mortality, migration, distribution and composition"
+        ]
+    },
+    {
+        "courseTitle": "Juvenile Delinquency",
+        "courseCode": "SOC 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of juvenile misbehavior in the contemporary community, its nature, extent, treatment, and control, including juvenile court procedure and philosophy.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodologies",
+            "Understanding of legal terminology and court procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal relations",
+            "Conflict resolution",
+            "Active listening",
+            "Effective communication with juveniles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crisis management",
+            "Critical thinking",
+            "Problem identification and resolution",
+            "Analysis of juvenile behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Leadership in community-based initiatives",
+            "Organizational skills in treatment and control strategies"
+        ]
+    },
+    {
+        "courseTitle": "Social Inequality",
+        "courseCode": "SOC 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of social differentiation, stratification, and social class.  Emphasis is placed upon modern American society, with some comparison with historical and contemporary systems of other societies.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective presentation of social issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social differentiation",
+            "Comparative analysis of societal systems",
+            "Understanding of stratification and social classes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Critical thinking",
+            "Applying historical context to modern issues"
+        ]
+    },
+    {
+        "courseTitle": "Sociology of Minority Families",
+        "courseCode": "SOC 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examination and explanation of minority families' lives in relationship to other societal institutions and historical developments.  The course focuses on issues of minority families and places these issues in a sociological framework, e.g., stratification, poverty and gender.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodologies",
+            "Usage of sociological databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural competency",
+            "Active listening",
+            "Empathy and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing societal structures",
+            "Interpreting historical trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Strategic planning",
+            "Organizing research data"
+        ]
+    },
+    {
+        "courseTitle": "Social Welfare",
+        "courseCode": "SOC 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the broad field of social welfare.  The philosophy, values, purposes, goals, and functions of social welfare are examined.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication within social welfare contexts",
+            "Understanding and respecting diversity and inclusivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social welfare policies and systems",
+            "Analyzing social welfare issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding organizational structures in social welfare",
+            "Ethical leadership in social welfare contexts"
+        ]
+    },
+    {
+        "courseTitle": "LGBTQ People, Crime, and Justice",
+        "courseCode": "SOC 326",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Objectives include: learning appropriate terminology to discuss LGBTQ individuals and reviewing the social issues facing these populations, such as criminalization and damaging cultural stereotypes; critically exploring the history of interactions between LGBTQ communities and agents of formal control, such as schools and the police; evaluating the experiences of LGBTQ youth and adults in the juvenile and criminal justice systems; and interrogating how changing political and social contexts affect policy regarding formal responses to LGBTQ communities.",
+        "Technical and Digital Skills": [
+            "Proper usage of LGBTQ terminology",
+            "Research on social issues and policies affecting LGBTQ communities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and discussing sensitive social issues",
+            "Interrogating cultural stereotypes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of historical interactions between LGBTQ communities and formal control agents",
+            "Evaluation of experiences of LGBTQ individuals within justice systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Society and the Individual",
+        "courseCode": "SOC 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Social psychological theory and research on current topics of interest on the relationship of the individual to society.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding individual and societal perspectives",
+            "Effective cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social psychological theories",
+            "Critically evaluating research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Influencing societal norms through individual actions",
+            "Leading and influencing societal changes"
+        ]
+    },
+    {
+        "courseTitle": "Social Research Methods",
+        "courseCode": "SOC 337",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the scientific approach to the study of social phenomena through quantitative, qualitative and mixed methods approaches. Interviews/survey and experimental/quasi-experimental designs and other strategies of social inquiry are covered.  The course includes the application of software to provide descriptive and inferential statistics to summarize data.",
+        "Technical and Digital Skills": [
+            "Using software for descriptive and inferential statistics",
+            "Applying quantitative, qualitative and mixed methods in social research",
+            "Conducting interviews and surveys",
+            "Implementing experimental and quasi-experimental designs in social inquiry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conducting interviews",
+            "Administering surveys",
+            "Communicating statistical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social phenomena using scientific approaches",
+            "Interpreting descriptive and inferential statistics",
+            "Critical evaluation of social inquiry strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting social research studies",
+            "Managing data from various research methods"
+        ]
+    },
+    {
+        "courseTitle": "Sociology of Women",
+        "courseCode": "SOC 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An exploration of the role and status of women in contemporary American society from a feminist sociological perspective.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding of contemporary gender dynamics",
+            "Ability to communicate insights from feminist sociological perspective"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of women's roles and statuses",
+            "Evaluation of sociological theories and perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigating complex societal structures",
+            "Promoting gender equality and inclusivity"
+        ]
+    },
+    {
+        "courseTitle": "Sexualities in Society",
+        "courseCode": "SOC 343",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers an introduction to the sociological study of sexualities. This course focuses on the ways in which sexuality as a social institution and identity intersects with other hierarchies of privilege and inequality, such as race, social class, and gender. A range of topics will be covered including LGBTQ+ identities, the social construction of sexuality, historical accounts of sexual practices, and contemporary theories and research in sexualities studies.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and discussing sensitive topics",
+            "Respecting diverse perspectives",
+            "Effective communication of theories and research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social constructs",
+            "Analysis of historical accounts",
+            "Understanding and applying sociological theories",
+            "Research in sexualities studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Appreciating and accounting for diversity",
+            "Promoting inclusivity",
+            "Creating a safe and respectful environment"
+        ]
+    },
+    {
+        "courseTitle": "Social Science and Crime Mapping",
+        "courseCode": "SOC 344",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A critical exploration of applying geographic information system (GIS) to view, understand, question, interpret, and visualize social science and crime data that reveal relationships, patterns, and trends. Students will learn to 1) frame a research question or hypothesis from a location-based perspective; 2) collect, create and examine geographically referenced demographic, social, and criminological data; 3) learn to use GIS mapping software to visualize, manage and analyze this data in order to investigate the relationship between geographic, demographic, social and criminological variables; and 4) arrive upon decisions and conclusions and communicate these via the creation of publishable maps.",
+        "Technical and Digital Skills": [
+            "Use of Geographic Information System (GIS)",
+            "Data collection and examination",
+            "Use of GIS mapping software for data visualization and management",
+            "Creation of publishable maps"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of decisions and conclusions through map visualizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Framing a research question or hypothesis from a location-based perspective",
+            "Investigation of relationships between geographic, demographic, social and criminological variables",
+            "Data analysis to reveal relationships, patterns, and trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management and analysis of geographically referenced demographic, social, and criminological data"
+        ]
+    },
+    {
+        "courseTitle": "Sport Sociology",
+        "courseCode": "SOC 347",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course applies the sociological perspective to the world of sports. It provides the student with a better understanding of the social processes involved in sports. The course looks at how the media, community, tradition, and privilege play an integral role in the participation of sporting events. It also covers why sports exist, who plays sports, and what will become of sports in the future.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpreting social processes in sports",
+            "Communication of sports tradition and privilege"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of sports media influence",
+            "Evaluation of community involvement in sports"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the organizational aspects of sporting events",
+            "Forecasting future trends in sports"
+        ]
+    },
+    {
+        "courseTitle": "Film and Society",
+        "courseCode": "SOC 348",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Sociological examination of film as an art form, an industry, and a social institution. Major topics include socialization through film, how one’s unique socialization affects the film experience, social inequality (racism/ethnocentrism/sexism/ageism) as exhibited in film, and as they occur within the film industry, film as an educational tool, gender roles as exhibited in film and perpetuated within the film industry, film and copycat crime, crime in the film industry, portrayal of crime in film, international cinema and globalization.",
+        "Technical and Digital Skills": [
+            "Understanding of film as an art form",
+            "Knowledge of film industry",
+            "Awareness of international cinema and globalization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting socialization through film",
+            "Analysis of social inequality as exhibited in film"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of gender roles in film",
+            "Assessment of crime portrayal in film",
+            "Evaluation of film as an educational tool"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Social Work and Society",
+        "courseCode": "SOC 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the profession of social work.  Students will investigate what social work is and how it is different from other helping professions.  Students will examine the theoretical and ethical underpinnings of social work, the different levels of intervention, and the major areas of practice. This course will also focus on the importance of cultural awareness as well as the role of social work in alleviating and at times maintaining systems of inequality and oppression.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural awareness",
+            "Ethical communication",
+            "Social sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Social systems analysis",
+            "Ethical problem-solving",
+            "Theoretical underpinning analysis",
+            "Inequality and oppression cause and effect analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Intervention strategies",
+            "Practices in major areas of social work"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "SOC 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course allows students to volunteer in an agency related to their major for pass/fail credit.  Students must volunteer for 50 hours per course credit.  Internships for fewer than 3 credits require prior approval by the Internship Faculty Director.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with different departments",
+            "Adapting to professional work environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and executing tasks assigned by supervisors",
+            "Resolving work-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Balancing academic and work commitments",
+            "Seeking and implementing feedback"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Sociology",
+        "courseCode": "SOC 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Explaining complex sociological concepts",
+            "Effective listening",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Critical thinking",
+            "Understanding and interpreting sociological data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Organization of academic information"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Sociology",
+        "courseCode": "SOC 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective verbal and written communication",
+            "Active listening",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing societal trends",
+            "Interpretation of social data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing discussions",
+            "Leading group projects",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "War and Gender",
+        "courseCode": "SOC 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course students grapple with issues concerning war, gender roles, and gender inequality.  The course addresses gender roles in war throughout history, globally and across cultures.  However, the United States military and military involvement in the 20th and 21st century remain the primary focus areas.  Discussions include how social norms and ideals of masculinity and femininity shape, and in turn are shaped by, images and realities of war, including gendered aspects of nationalism and just war theories.  The military involvement of men, women (and children) in war and in peacetime, as participants and observers, perpetrators and victims, supporters and opponents of war is also discussed.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate",
+            "Cross-cultural communication",
+            "Interpretation of social norms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of gender roles",
+            "Evaluation of historical events",
+            "Understanding and analyzing theories of war"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and interpreting social hierarchies",
+            "Leadership analysis in military contexts"
+        ]
+    },
+    {
+        "courseTitle": "Sociology of Child Welfare",
+        "courseCode": "SOC 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A sociological analysis of the field of child welfare.  Topics include social inequality as it applies to children as a group in the U.S. and globally; understanding violence against children within the global context of children's rights; examining data on the degree to which policies, programs and research in the field fail to protect children and why; prevalence, causes and consequences of child sexual, physical and emotional abuse and neglect; evaluation of programs like 'family preservation' and of placement in 'substitute' care, i.e., foster care, adoption, institutionalization; changes that would protect and advance the interests and rights of children at the parent-child, agency, and societal level.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodologies",
+            "Policy analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating children's rights",
+            "Interpreting and conveying complex sociological information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Social inequality analysis",
+            "Analyzing causes and consequences of child abuse and neglect",
+            "Evaluation of child welfare programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Advocacy for children's rights",
+            "Planning changes at different societal levels"
+        ]
+    },
+    {
+        "courseTitle": "Violence in the World of Children",
+        "courseCode": "SOC 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This 'child- centered' course examines the interaction of adults in violent conflict with the world of children, children's experience of violence and its meaning in the lives of children.  Topics include: valuing children, violence toward children in culture, families, and schools; child physical and sexual abuse and neglect; gangs, violent communities, and children and war.  The effects of childhood experiences of violence, children's coping with violence, and alternatives to violence are also developed.",
+        "Technical and Digital Skills": [
+            "Knowledge of child psychology",
+            "Understanding of child abuse and neglect",
+            "Understanding of war effects on children",
+            "Familiarity with child protection laws and regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy towards children",
+            "Effective communication with children",
+            "Crisis intervention skills",
+            "Negotiation skills",
+            "Conflict resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze children's experiences",
+            "Problem-solving in violent situations",
+            "Analyzing violence patterns in cultures, families and schools",
+            "Advising on alternatives to violence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management",
+            "Organizing child-centered interventions",
+            "Leading initiatives for violence prevention",
+            "Guiding children towards coping mechanisms"
+        ]
+    },
+    {
+        "courseTitle": "Social Change and Social Movements",
+        "courseCode": "SOC 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Analysis of the nature and causes of social change, major social movements, and their impact upon contemporary society.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating complex social concepts",
+            "Persuading and influencing others",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social issues",
+            "Critical thinking",
+            "Understanding and interpreting societal trends",
+            "Analyzing the impact of social movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading social movements",
+            "Strategic planning for social change"
+        ]
+    },
+    {
+        "courseTitle": "Violence Against Children Internationally",
+        "courseCode": "SOC 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the research on child maltreatment abuse internationally, in particular on the most common types of child abuse and neglect—i.e., perpetrated by parents, family members.  The negative effects of child abuse and neglect are associated subsequently with every social problem from poverty, teenage motherhood, substance abuse, violent crime, domestic violence, and mental health problems, to ill-health—from cancer to diabetes.",
+        "Technical and Digital Skills": [
+            "Research analysis",
+            "Data interpretation",
+            "Understanding of international child protection laws and regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Empathetic engagement",
+            "Effective child advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of child abuse cases",
+            "Analytical thinking for identifying patterns of abuse",
+            "Problem-solving in complex social contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management",
+            "Strategic planning for child protection initiatives",
+            "Leadership in multi-disciplinary child protection teams"
+        ]
+    },
+    {
+        "courseTitle": "Children's Rights and the Law",
+        "courseCode": "SOC 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the law concerning children from a children's rights perspective. The rights of children in the US will be compared to other nations with special emphasis being placed on the UN Convention on the Rights of the Child.",
+        "Technical and Digital Skills": [
+            "Legal research",
+            "Digital document management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating and negotiating",
+            "Presenting legal arguments",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative legal analysis",
+            "Interpreting conventions and legislation",
+            "Critical evaluation of child rights issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case management",
+            "Policy analysis and development"
+        ]
+    },
+    {
+        "courseTitle": "Sociological Theory",
+        "courseCode": "SOC 409W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The development of sociological thought during the nineteenth and twentieth centuries.  Analysis of major contributions to the development of systematic thinking in contemporary sociology.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Research and citation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Effective articulation of complex sociological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of sociological theories",
+            "Critical thinking",
+            "Systematic reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research",
+            "Time management for intensive writing"
+        ]
+    },
+    {
+        "courseTitle": "Crime, Society and the Media",
+        "courseCode": "SOC 418",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A critical exploration of media portrayals of crime and criminal justice. News and entertainment genres are examined. Connections between the mass media and crime, culture, politics, society, and individual behavior receive special attention. (cross listed with CRJS 418)",
+        "Technical and Digital Skills": [
+            "Media content analysis",
+            "Understanding of news and entertainment genres",
+            "Interpretation of media portrayals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion on media and crime",
+            "Communicating complex ideas related to crime and media"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical exploration of media content",
+            "Analysis of connections between media, crime, culture, politics, and society",
+            "Understanding of individual behavior in media portrayals"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Animals and Society",
+        "courseCode": "SOC 419",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a class about the role of nonhuman animals in society. Animals are used to entertain, to do work, to provide companionship, to provide food, and more. In this class, we also discuss the causes and consequences of both individual and institutional animal abuse. Society's relation to wildlife is also an important component and includes poaching, sport and trophy hunting, and society's reaction to wolves, coyotes, and wild horses in the West. Cross-listed with CRJS 419.",
+        "Technical and Digital Skills": [
+            "Research on animal roles and abuse in society",
+            "Analysis of wildlife reactions",
+            "Understanding of animal-related societal issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on animal-related topics",
+            "Presentation of research findings",
+            "Active listening to diverse opinions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of animal use in society",
+            "Analysis of consequences of animal abuse",
+            "Strategic solutions for poaching and trophy hunting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on animal-related issues",
+            "Organizing research findings",
+            "Facilitating debates on wildlife conservation"
+        ]
+    },
+    {
+        "courseTitle": "African American Political and Social Thought",
+        "courseCode": "SOC 420W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the historical and contemporary experiences of 'Blackness' as it has been constructed, contested and affirmed in various historical, political and narrative contexts.  Embracing the theme of duality, the course examines what it means for a culture and people to be both integral to and excluded from the American political and social community. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Research and referencing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical listening",
+            "Verbal communication",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Historical interpretation",
+            "Contextual understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline and time management",
+            "Initiative and independent thinking"
+        ]
+    },
+    {
+        "courseTitle": "Deviant Behavior",
+        "courseCode": "SOC 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of various definitions and forms of deviant behavior, theoretical explanations of causes of deviant behavior and the impact of deviant behavior on society and the individual.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and Interpreting Deviant Behaviors",
+            "Communicating Sensitive Topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Causes and Impacts of Deviant Behavior",
+            "Theoretical Reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Handling and Managing Deviant Behavior",
+            "Understanding Societal Impacts"
+        ]
+    },
+    {
+        "courseTitle": "Women, Health and Healing",
+        "courseCode": "SOC 423/523",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of women's experiences with health and illness and women's roles in the health-care system as patients and care providers from a feminist sociological perspective.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Cultural sensitivity in healthcare",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis from a feminist sociological perspective",
+            "Understanding and interpreting health-related data",
+            "Problem-solving in a healthcare context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare leadership",
+            "Organizing patient care",
+            "Advocacy for women's health issues"
+        ]
+    },
+    {
+        "courseTitle": "Minority Group Relations",
+        "courseCode": "SOC 426/526",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the process of and responses to the oppression of racial, religious, ethnic, and national minorities in a variety of countries within a historical and comparative perspective.  Special emphasis given to American minorities and especially African Americans.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and appreciating cultural and racial diversity",
+            "Effective communication with diverse groups",
+            "Empathy and sensitivity towards oppressed groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical events and societal patterns",
+            "Critical evaluation of oppression and minority issues",
+            "Comparative analysis of different racial, religious, and ethnic groups"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting inclusivity and fairness in group settings",
+            "Leading and facilitating discussions on sensitive topics",
+            "Advocacy and leadership in minority rights"
+        ]
+    },
+    {
+        "courseTitle": "Gender-Based Violence",
+        "courseCode": "SOC 427/527",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course takes an expansive and intersectional approach to studying various forms of gender-based violence, from the interpersonal to the systemic, institutional, and cultural. Prevalence, risk factors, theoretical explanations, and legal remedies related to topics such as intimate partner violence, sexual assault on college campuses, gender-based violence in the military, sexual violence against undocumented immigrants, commercial sexual exploitation, and racism and reproductive health will be examined.",
+        "Technical and Digital Skills": [
+            "Research and data collection methodologies",
+            "Understanding of legal terminology and procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Intersectional understanding and communication",
+            "Empathetic communication",
+            "Cultural sensitivity",
+            "Advocacy and persuasion techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and understanding risk factors",
+            "Critical evaluation of theoretical explanations",
+            "Analyzing institutional and cultural patterns of violence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for advocacy campaigns",
+            "Leadership in crisis situations"
+        ]
+    },
+    {
+        "courseTitle": "Capstone Research Project",
+        "courseCode": "SOC 436",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students work in groups to plan, design, and carry out a research project.  Final papers which report the results of the study are presented in a formal research seminar.  The projects are to reflect knowledge gained from undergraduate work and training received in STAT 130M and SOC 337.",
+        "Technical and Digital Skills": [
+            "Planning a research project",
+            "Designing a research project",
+            "Executing a research project",
+            "Writing formal research reports",
+            "Applying knowledge from STAT 130M",
+            "Applying knowledge from SOC 337"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Presenting research findings in a seminar"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research results",
+            "Applying problem-solving strategies in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group tasks",
+            "Leading a research team",
+            "Organizing a research project"
+        ]
+    },
+    {
+        "courseTitle": "Education and Society",
+        "courseCode": "SOC 438",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Sociological theory and research investigating contemporary education as a social institution.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Digital literacy in education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal and written communication",
+            "Active listening",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Sociological analysis",
+            "Evaluation of educational systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research data",
+            "Leading educational discussions"
+        ]
+    },
+    {
+        "courseTitle": "Health, Illness, and Society",
+        "courseCode": "SOC 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of health, illness and society. After exploring how health is conceptualized by the prevailing allopathic medical model, an emergent alternative or \"integrative\" health perspective is examined with a focus on how wellbeing may be understood.",
+        "Technical and Digital Skills": [
+            "Research on health-related topics",
+            "Use of digital tools for health information"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of health concepts",
+            "Empathy and understanding in relation to health and illness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of health models",
+            "Evaluation of integrative health perspectives",
+            "Assessment of wellbeing concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of health-related information",
+            "Leadership in advocating for alternative health perspectives"
+        ]
+    },
+    {
+        "courseTitle": "Drugs and Society",
+        "courseCode": "SOC 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of sociological and social psychological explanations of drug-using behaviors and of legal and medical control of drugs.  Topics include changes in the legal status of drugs, cross-cultural and historical variations in the control and use of drugs, and social epidemiology of drug use in contemporary society.",
+        "Technical and Digital Skills": [
+            "Research on historical and cultural variations of drug use",
+            "Evaluation of changes in legal status of drugs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and presentation of sociological and social psychological explanations of drug use",
+            "Presentation of research findings on drug control and use"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of sociological and social psychological explanations",
+            "Critical evaluation of legal and medical control of drugs",
+            "Social epidemiology analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Community Justice",
+        "courseCode": "SOC 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is a service learning course designed to study how the emerging field of community justice, a neighborhood-based strategy, can reduce crime and improve public safety by investing in social, human and cultural capital.",
+        "Technical and Digital Skills": [
+            "Understanding and application of community justice strategies",
+            "Knowledge of social, human and cultural capital",
+            "Research and data collection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement",
+            "Negotiation and diplomacy",
+            "Social sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Crime reduction strategies",
+            "Public safety improvement methodologies",
+            "Analyzing community dynamics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in community initiatives",
+            "Strategic planning"
+        ]
+    },
+    {
+        "courseTitle": "Workplace Law and Society",
+        "courseCode": "SOC 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the laws of the workplace from a sociological and issue-driven approach considering two perspectives – both employer and employee. Relevant laws are identified, explored and made relevant through examples of their application in real-world situations. Sometimes the wisdom of these laws will be challenged; students will be encouraged to raise questions about a law’s utility, justice or fairness, whether in principle or in application.",
+        "Technical and Digital Skills": [
+            "Understanding of employment laws",
+            "Application of laws in real-world scenarios"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion of laws' utility and fairness",
+            "Understanding different perspectives (employer and employee)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of laws",
+            "Assessment of laws' justice and fairness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of legal knowledge in a workplace context",
+            "Questioning and challenging established perspectives"
+        ]
+    },
+    {
+        "courseTitle": "Race, Ethnicity, Crime and Justice",
+        "courseCode": "SOC 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will examine the intersectionality of race, ethnicity, crime, justice and the operation of the criminal justice system and will critically assess controversial issues surrounding race, ethnicity, crime, and justice. Students will discuss contemporary social justice issues as they relate to race, ethnicity, crime, and justice. The theoretical frameworks that explain the intersection between race, ethnicity, crime and justice will be examined. The course will also investigate the broad range of policy issues and recommendations impacting communities of color and the administration of criminal and social justice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion of contemporary social justice issues",
+            "Critical assessment of controversial topics",
+            "Effective communication on sensitive subjects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of intersectionality",
+            "Understanding and application of theoretical frameworks",
+            "Analysis of policy issues and recommendations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the operation of the criminal justice system",
+            "Leadership in promoting social justice"
+        ]
+    },
+    {
+        "courseTitle": "Diversity in Criminal Justice Organizations",
+        "courseCode": "SOC 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the impact of diversity, culture, and ethnic origin in criminal justice organizations.  The course is designed to better prepare students to meet the challenge of diversity in criminal justice organizations.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding of cultural and ethnic differences",
+            "Effective communication in diverse environments",
+            "Facilitation of diverse group discussions",
+            "Conflict resolution in diverse settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of diversity on criminal justice organizations",
+            "Problem solving in a diverse work environment",
+            "Critical thinking in the context of diversity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in diverse organizations",
+            "Organizational diversity management",
+            "Promotion of diversity and inclusion in the workplace"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Sociology/Criminal Justice",
+        "courseCode": "SOC 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provided will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. The course can be delivered either as an independent project for individual students or as group projects similar to those sometimes offered in topics courses.",
+        "Technical and Digital Skills": [
+            "Project development",
+            "Business model innovation",
+            "Nonprofit program development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative project management",
+            "Interdisciplinary communication",
+            "Professional networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Innovation in problem-solving",
+            "Critical evaluation of societal issues",
+            "Strategic planning for social initiatives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in entrepreneurial ventures",
+            "Project organization and execution",
+            "Strategic decision making"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Sociology",
+        "courseCode": "SOC 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Facilitating group discussions on specialized topics",
+            "Presenting complex subject matter in a clear and understandable manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in specialized areas",
+            "Analyzing complex social issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group studies on subjects of mutual interest",
+            "Organizing and planning presentations on specialized subjects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Sociology",
+        "courseCode": "SOC 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective communication with academic advisors",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of specialized topics",
+            "In-depth analysis of selected subjects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed study",
+            "Project planning and organization"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "SOC 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research techniques",
+            "Use of digital libraries or research databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Written communication for papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection",
+            "Independent problem solving",
+            "Critical analysis of literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Sociology",
+        "courseCode": "SOC 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Analyzing sociological concepts",
+            "Problem identification and solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Task planning and execution"
+        ]
+    },
+    {
+        "courseCode": "SOC 500",
+        "courseTitle": "War and Gender",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course students grapple with issues concerning war, gender roles, and gender inequality.  The course addresses gender roles in war throughout history, globally and across cultures.  However, the United States military and military involvement in the 20th and 21st century will remain the primary focus areas.  Discussions include how social norms and ideals of masculinity and femininity shape, and in turn are shaped by, images and realities of war, including gendered aspects of nationalism and just war theories.  The military involvement of men, women (and children) in war and in peacetime, as participants and observers, perpetrators and victims, supporters and opponents of war is also discussed.",
+        "Technical and Digital Skills": [
+            "Historical research techniques",
+            "Cross-cultural analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate",
+            "Presenting complex concepts",
+            "Understanding and expressing diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of social norms and ideals",
+            "Evaluation of historical events",
+            "Understanding gendered aspects of nationalism and war"
+        ],
+        "Organizational and Leadership Skills": [
+            "Exploring and analyzing complex societal issues",
+            "Understanding and interpreting historical and modern military structures"
+        ]
+    },
+    {
+        "courseCode": "SOC 502",
+        "courseTitle": "Sociology of Child Welfare",
+        "academicLevel": "graduate",
+        "courseDescription": "A sociological analysis of the field of child welfare.  Topics include social inequality as it applies to children as a group in the U.S. and globally; understanding violence against children within the global context of children's rights; examining data on the degree to which policies, programs and research in the field fail to protect children and why; prevalence, causes and consequences of child sexual, physical and emotional abuse and neglect; evaluation of programs like 'family preservation' and placement in 'substitute' care, i.e. foster care, adoption, institutionalization; changes that would protect and advance the interests and rights of children at the parent-child, agency and societal level.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Research methodology",
+            "Understanding of child welfare policies and programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and empathy towards victims of child abuse and neglect",
+            "Communication with children and their caregivers",
+            "Advocacy for children's rights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of child welfare programs and policies",
+            "Analysis of social inequality and its impact on children",
+            "Understanding and analyzing violence against children in a global context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and evaluating programs for family preservation and substitute care",
+            "Leadership in advocating for changes to protect and advance the interests and rights of children",
+            "Management of child welfare agencies and stakeholders"
+        ]
+    },
+    {
+        "courseCode": "SOC 505",
+        "courseTitle": "Social Change and Social Movements",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of the nature and causes of social change, major social movements, and their impact upon contemporary society.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective oral and written communication",
+            "Negotiation",
+            "Empathy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of social patterns",
+            "Understanding and interpreting sociological data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Leadership in social movements",
+            "Advocacy and influence",
+            "Organizing and coordinating efforts"
+        ]
+    },
+    {
+        "courseCode": "SOC 521",
+        "courseTitle": "Deviant Behavior",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of various definitions and forms of deviant behavior, theoretical explanations of causes of deviant behavior and the impact of deviant behavior on society and the individual.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding of different behaviors and their impact",
+            "Effective communication with individuals exhibiting deviant behaviors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of causes of deviant behaviors",
+            "Problem-solving in dealing with deviant behavior",
+            "Critical evaluation of societal and individual impacts of deviant behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing individuals with deviant behaviors",
+            "Leadership in challenging situations involving deviant behaviors"
+        ]
+    },
+    {
+        "courseCode": "SOC 523",
+        "courseTitle": "Women, Health and Healing",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of women's experiences with health and illness and women's roles in the health-care system as patients and care providers from a feminist sociological perspective.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Active listening",
+            "Cultural competency in healthcare"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of healthcare systems",
+            "Problem-solving in healthcare contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and implementing patient care protocols",
+            "Advocacy for patient rights and needs"
+        ]
+    },
+    {
+        "courseCode": "SOC 526",
+        "courseTitle": "Minority Group Relations",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of the process of and responses to the oppression of racial, religious, ethnic, and national minorities in a variety of countries within a historical and comparative perspective.  Special emphasis given to American minorities and especially African Americans.",
+        "Technical and Digital Skills": [
+            "Historical Data Analysis",
+            "Comparative Data Analysis",
+            "Ethnographic Research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-Cultural Communication",
+            "Conflict Resolution",
+            "Empathetic Dialogue",
+            "Cultural Sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Evaluation of Historical and Social Contexts",
+            "Analysis of Racial, Religious, Ethnic, and National Conflicts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing Diverse Teams",
+            "Promoting Inclusivity and Equality",
+            "Leadership in Multicultural Environments"
+        ]
+    },
+    {
+        "courseCode": "SOC 527",
+        "courseTitle": "Gender-Based Violence",
+        "academicLevel": "graduate",
+        "courseDescription": "This course takes an expansive and intersectional approach to studying various forms of gender-based violence, from the interpersonal to the systemic, institutional, and cultural. Prevalence, risk factors, theoretical explanations, and legal remedies related to topics such as intimate partner violence, sexual assault on college campuses, gender-based violence in the military, sexual violence against undocumented immigrants, commercial sexual exploitation, and racism and reproductive health will be examined.",
+        "Technical and Digital Skills": [
+            "Researching and analyzing case studies",
+            "Data gathering on gender-based violence statistics",
+            "Applying digital tools for researching legal remedies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathetic communication",
+            "Cross-cultural communication",
+            "Advocacy for victims of gender-based violence",
+            "Communicating complex issues to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing risk factors and prevalence of gender-based violence",
+            "Critical evaluation of theoretical explanations",
+            "Understanding and interpreting legal texts",
+            "Analyzing the intersectionality in gender-based violence cases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing information on various forms of gender-based violence",
+            "Leading advocacy and awareness campaigns",
+            "Strategizing systemic solutions"
+        ]
+    },
+    {
+        "courseCode": "SOC 540",
+        "courseTitle": "Health, Illness, and Society",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of health, illness and society.  After exploring how health is conceptualized by the prevailing allopathic medical model, an emergent alternative or \"integrative\" health perspective is examined with a focus on how wellbeing may be understood.",
+        "Technical and Digital Skills": [
+            "Researching medical models",
+            "Understanding of integrative health perspective"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex health concepts",
+            "Collaborating with health professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health concepts",
+            "Evaluating the effectiveness of health perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health discussions",
+            "Organizing health research"
+        ]
+    },
+    {
+        "courseCode": "SOC 541",
+        "courseTitle": "Drugs and Society",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include changes in the legal status of drugs, cross-cultural and historical variations in the control and use of drugs, and social epidemiology of drug use in contemporary society.",
+        "Technical and Digital Skills": [
+            "Research on historical and cross-cultural variations in drug use",
+            "Understanding of legal statutes related to drugs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Cross-cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of legal changes",
+            "Analysis of social epidemiology data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing historical and cross-cultural data",
+            "Leading discussions on societal implications of drug use"
+        ]
+    },
+    {
+        "courseCode": "SOC 595",
+        "courseTitle": "Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with academic advisors",
+            "Collaborative study on specialized subjects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing specialized topics",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading collaborative study sessions",
+            "Organizing study material for specialized topics"
+        ]
+    },
+    {
+        "courseCode": "SOC 596",
+        "courseTitle": "Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Collaborative learning",
+            "Effective communication of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of specialized topics",
+            "Independent research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project organization"
+        ]
+    },
+    {
+        "courseCode": "SOC 597",
+        "courseTitle": "Tutorial Work in Special Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Discussion and debate skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Analysis of sociological concepts",
+            "Problem identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "SOC 598",
+        "courseTitle": "Tutorial Work in Special Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Topic selection",
+            "Critical analysis of sociological topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "SOC 610",
+        "courseTitle": "Applied Social Research Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "The application of social science methods to practical problems.  The topics of research design, measurement, scaling, sampling, data collection, and research organization are taught with reference to issues of reliability, validity and ethical concerns.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Data collection",
+            "Measurement and Scaling",
+            "Sampling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Addressing ethical concerns in research",
+            "Reliability and validity communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of social science methods to practical problems",
+            "Reliability and validity analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Research project management"
+        ]
+    },
+    {
+        "courseCode": "SOC 615",
+        "courseTitle": "Perspectives on Racial Inequality",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores racial inequality in the United States.  The course is organized by the question: “Why, in 21st Century United States, are there still different social outcomes for the descendants of American slaves and descendants of European immigrants?”  Students are given a selection of materials from a variety of perspectives attempting to answer the question.",
+        "Technical and Digital Skills": [
+            "Researching digital resources",
+            "Critical evaluation of digital content"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Emotional intelligence",
+            "Understanding and interpreting diverse perspectives",
+            "Active listening",
+            "Effective discussion and debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing social outcomes",
+            "Understanding historical context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and synthesizing diverse materials",
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "SOC 620",
+        "courseTitle": "Proseminar in Sociological Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of classical and contemporary sociological theories about the relations between the individual and society; the ways theory shapes and informs the study of social issues; and the relationship among theory, research and practice.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion techniques",
+            "Presenting theoretical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sociological theories",
+            "Analysis of relationships between individual and society",
+            "Applying theory to social issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study and research",
+            "Applying theory to practice"
+        ]
+    },
+    {
+        "courseCode": "SOC 627",
+        "courseTitle": "Violence Against Women",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the many ways in which violence against women functions as an agent of social control. Violence is viewed on a continuum in order to determine how a variety of acts contribute to the subordination of women.  Specific types of violence are explored including:  wife assault, rape, incest, sexual harassment and pornography.",
+        "Technical and Digital Skills": [
+            "Research on violence against women",
+            "Analysis of relevant legal and social frameworks",
+            "Use of digital tools for data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Empathy towards victims of violence",
+            "Effective communication of sensitive issues",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of violence as a social control tool",
+            "Understanding and interpreting acts of violence",
+            "Identifying patterns and trends in types of violence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading sensitive conversations",
+            "Managing emotional responses in self and others",
+            "Planning and implementing violence prevention strategies"
+        ]
+    },
+    {
+        "courseCode": "SOC 630",
+        "courseTitle": "Applied Social Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a graduate-level introduction to social statistics as they may be applied to various practical problems.  Students will learn the appropriate use of various statistical procedures through discussion and application.",
+        "Technical and Digital Skills": [
+            "Application of statistical procedures",
+            "Understanding of social statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving through statistical application",
+            "Analytical thinking in practical scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SOC 640",
+        "courseTitle": "Sociological Application of Computer and Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a graduate-level introduction to the use of the computer in problems of data management and analysis.  Students will use existing software packages (e.g, SPSS, SAS) to build specified data files and carry out various statistical procedures.",
+        "Technical and Digital Skills": [
+            "Use of Computer for Data Management",
+            "Data Analysis",
+            "Use of SPSS Software",
+            "Use of SAS Software",
+            "Building Specified Data Files",
+            "Execution of Statistical Procedures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data Management Problem-Solving",
+            "Analytical Thinking for Statistical Procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Data File Organization",
+            "Management of Statistical Procedures"
+        ]
+    },
+    {
+        "courseCode": "SOC 650",
+        "courseTitle": "Research Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar integrates the skills needed to complete a master's thesis.  Exercises include formulating research questions, developing a research design, and writing a publishable paper.  Students practice these skills assignments in class and by completing their thesis proposal.",
+        "Technical and Digital Skills": [
+            "Formulating research questions",
+            "Developing a research design",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Summarizing complex information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Problem framing",
+            "Designing research methodology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leading research initiatives"
+        ]
+    },
+    {
+        "courseCode": "SOC 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Students gain first-hand experience in professional settings which are deemed appropriate given their academic background and career objectives.  Students will be required to complete a research project which corresponds to their specific internship placement.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Industry-specific technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Cross-functional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research findings",
+            "Problem-solving in a professional setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-organization",
+            "Independent decision making"
+        ]
+    },
+    {
+        "courseCode": "SOC 696",
+        "courseTitle": "Topics of Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics vary each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SOC 697",
+        "courseTitle": "Independent Study in Special Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-to-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Formulating research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Time management",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseCode": "SOC 698",
+        "courseTitle": "Independent Study in Special Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presenting research findings",
+            "Academic discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of sociological theories",
+            "Problem identification and formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SOC 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Credit hours to continue thesis work.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating research findings",
+            "Communicating complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting independent research",
+            "Resolving research problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SOC 795",
+        "courseTitle": "Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics vary by semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SOC 797",
+        "courseTitle": "Independent Study in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Sociological research methods",
+            "Academic literature navigation",
+            "Data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of a research question",
+            "Hypothesis testing",
+            "Critical interpretation of sociological literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent studies management",
+            "Time management and planning",
+            "Self-motivation"
+        ]
+    },
+    {
+        "courseCode": "SOC 895",
+        "courseTitle": "Topics in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics vary by semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SOC 897",
+        "courseTitle": "Independent Study in Sociology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Researching sociology topics",
+            "Using digital databases",
+            "Documenting research findings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Discussing sociology topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing sociology data",
+            "Interpreting sociological theories",
+            "Critical evaluation of sociological literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project organization"
+        ]
+    },
+    {
+        "courseCode": "SOC 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and fulfilling registration requirements for course and graduation"
+        ]
+    },
+    {
+        "courseCode": "SOC 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active participation in academic discussions"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    }
+]

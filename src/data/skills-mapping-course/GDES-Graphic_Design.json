@@ -1,0 +1,498 @@
+[
+    {
+        "courseTitle": "Introduction to Graphic Design",
+        "courseCode": "GDES 280",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course includes intensive study of the basic principles, theories and methods of graphic design, and the creation of visual communication. Topics of study include the characteristics and compositional principles applied to symbol, image, and letterform, as well as the history and practice of graphic design. Emphasis will be placed on creative process, developing visual concepts, formal values, use of materials, and craft. (Offered fall only)",
+        "Technical and Digital Skills": [
+            "Understanding of basic principles of graphic design",
+            "Knowledge of compositional principles applied to symbol, image, and letterform",
+            "Creation of visual communication",
+            "Use of materials in graphic design",
+            "Crafting in graphic design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Visual concept development",
+            "Creative process management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing characteristics of symbols, images, and letterforms",
+            "Application of theories and methods of graphic design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of creative process",
+            "Development of visual concepts",
+            "Practice of graphic design"
+        ]
+    },
+    {
+        "courseTitle": "Design Internship",
+        "courseCode": "GDES 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced course is an individualized internship that focuses on the student’s emphasis within the graphic design industry. It is normally taken during the last semester. Students participate on-site with professionals and are evaluated by predetermined curriculum objectives that have been agreed upon by the employer, instructor and student. This course provides the student with valuable on-the-job experience, interaction with industry professionals, and preparation for job entry. Students must interview for and acquire their internship site. It is recommended that the student seek out instructor expertise for possible recommendation.",
+        "Technical and Digital Skills": [
+            "Graphic design",
+            "Use of design industry software",
+            "Following predetermined curriculum objectives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interaction with industry professionals",
+            "job interview skills",
+            "Professional communication with employer and instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of on-the-job experiences",
+            "Adapting to professional design environments",
+            "Achieving agreed-upon objectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Seeking out instructor expertise",
+            "Acquiring suitable internship site",
+            "Preparation for job entry"
+        ]
+    },
+    {
+        "courseTitle": "Design Concepts",
+        "courseCode": "GDES 371",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course includes intensive study of the development of creative and effective ideation for application to graphic design problems from selected aspects of the field. Topics of study include project research, content development, messaging, and individual and collaborative creative processes. Emphasis will be placed on critical skills, articulation, productivity, and response to clients, audiences and contexts. (Offered fall only)",
+        "Technical and Digital Skills": [
+            "Graphic design application",
+            "Project research",
+            "Content development",
+            "Individual and collaborative creative processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation",
+            "Response to clients and audiences",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Effective ideation",
+            "Creative problem-solving",
+            "Contextual response"
+        ],
+        "Organizational and Leadership Skills": [
+            "Productivity",
+            "Project management",
+            "Collaborative leadership"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Typography",
+        "courseCode": "GDES 372",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an elective course restricted to students admitted to the graphic design program. It continues the development of typographic practice, exploring issues pertaining to meaning, concept, and expression. The course will also include investigation of typographic history. Topics of study include advanced issues in typographic composition, denotative and connotative aspects of type use, typeface selection, and typesetting.",
+        "Technical and Digital Skills": [
+            "Advanced typographic composition",
+            "Typeface selection",
+            "Typesetting",
+            "Understanding denotative and connotative aspects of type use"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing concepts and meanings through typography",
+            "Communicating design ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing typographic history",
+            "Solving complex design challenges",
+            "Critical evaluation of type use"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Design Systems",
+        "courseCode": "GDES 373",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is restricted to students admitted to the graphic design program, and is the fourth course in the graphic design sequence. The course includes intensive study of the development of creative and effective ideation for application across coordinated graphic design campaigns. Projects will address design in series and across multiple formats and media for commercial, promotional, educational, and informational contexts. (Offered spring only)",
+        "Technical and Digital Skills": [
+            "Graphic design",
+            "Design ideation",
+            "Design for multiple formats and media",
+            "Design for different contexts including commercial, promotional, educational, and informational"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting design ideas",
+            "Collaborating on design projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in design",
+            "Analyzing design needs for various contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing design projects",
+            "Coordinating graphic design campaigns"
+        ]
+    },
+    {
+        "courseTitle": "Web Design",
+        "courseCode": "GDES 374",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced course is an introduction to the basic methods and techniques used to design for web-based delivery. Topics of study include; site management and organization, navigation, grid structures, hierarchy and inventory of content, appropriate use of type and graphics, and format. Emphasis will be placed on process and research, appropriateness, accessibility, dynamic user interface experiences.",
+        "Technical and Digital Skills": [
+            "Design for web-based delivery",
+            "Site management and organization",
+            "Understanding of grid structures",
+            "Appropriate use of type and graphics",
+            "Format design",
+            "Dynamic user interface experiences design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting design solutions",
+            "Communicating design principles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research for web design",
+            "Analyzing appropriateness and accessibility of design elements",
+            "Creating navigation, hierarchy and inventory of content"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing web design process",
+            "Leadership in design decisions"
+        ]
+    },
+    {
+        "courseTitle": "Brand Identity",
+        "courseCode": "GDES 378",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is devoted to the study and design of coordinated systems of visual communication elements used to identify a company or cause. Projects will address project research, creative brief development, messaging, and effective ideation for application across coordinated graphic design campaigns for print and digital delivery.",
+        "Technical and Digital Skills": [
+            "Design of visual communication elements",
+            "Application of design across print and digital platforms",
+            "Project research",
+            "Development of creative briefs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective messaging for brand identity",
+            "Presentation of design concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Effective ideation for design solutions",
+            "Analyzing and interpreting project research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Coordination of graphic design campaigns"
+        ]
+    },
+    {
+        "courseTitle": "Interactive Design",
+        "courseCode": "GDES 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced course is devoted to creating dynamic design solutions for interactive devices, systems, and services. Students will learn to apply observational techniques to understand interactions in context, develop conceptual models and representations to assess the perspectives of prospective users, and develop interactions that are understandable and useful. Students will be introduced to the fundamental digital design process, and will experiment with a variety of interactive and dynamic design applications.",
+        "Technical and Digital Skills": [
+            "Applying observational techniques",
+            "Conceptual modeling",
+            "Interactive and dynamic design applications",
+            "Understanding of fundamental digital design process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Assessing perspectives of prospective users"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing interactions that are understandable and useful"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating dynamic design solutions"
+        ]
+    },
+    {
+        "courseTitle": "UI (User Interface) Design",
+        "courseCode": "GDES 382",
+        "academicLevel": "undergraduate",
+        "courseDescription": "UI (User Interface) designers focus on developing the aesthetics, or the point of contact, of interactive experiences. This course is intended to provide students with the skills needed to utilize traditional design principles to create interactive experiences for a range of platforms. Students will explore key topics such as Principles of User Interface Design, Responsive Design, Design Systems,  Wireframing, and  Prototyping, gaining  a comprehensive  skill set to shape the visual and interactive landscapes of digital interfaces.",
+        "Technical and Digital Skills": [
+            "Applying traditional design principles",
+            "Developing responsive design",
+            "Creating design systems",
+            "Wireframing",
+            "Prototyping",
+            "Designing for various platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Design problem-solving",
+            "Analysis of interactive experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "UX (User Experience) Design",
+        "courseCode": "GDES 383",
+        "academicLevel": "undergraduate",
+        "courseDescription": "UX (User Experience) designers ensure that digital experiences are relevant to users. This course is intended to provide students with the skills to create experiences focused on user needs and built on research and data. Students will explore key topics such as User Research Methods, User Journeys, and Usability Testing.",
+        "Technical and Digital Skills": [
+            "User Research Methods",
+            "Creation of User Journeys",
+            "Usability Testing",
+            "Designing User-Focused Digital Experiences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conducting User Interviews",
+            "Presenting User Research Findings",
+            "Collaborative Design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "User Needs Analysis",
+            "Usability Problem Diagnosis",
+            "Data-Driven Design Decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management in UX Design",
+            "Leadership in User-Centered Design Projects"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Graphic Design",
+        "courseCode": "GDES 385",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Building on concepts introduced in GDES 280, the course will consider and engage the collaborative, complex, and interrelated nature of design practice, in public and private manifestations, and through form and concept. The personal dimensions of design practice will also be explored through a self-determined project.",
+        "Technical and Digital Skills": [
+            "Advanced design concepts",
+            "Self-determined project development",
+            "Engagement with public and private design manifestations",
+            "Understanding of form and concept in design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative design practices",
+            "Effective communication of design concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex design scenarios",
+            "Problem-solving in design context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in collaborative design projects",
+            "Organization of self-determined design projects"
+        ]
+    },
+    {
+        "courseTitle": "Socially Conscious Design",
+        "courseCode": "GDES 386",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course delves into the realm of visual communication as a powerful tool for advocating social, environmental, and justice issues. Students will explore the transformative potential of graphic design in fostering positive change within society. As the world faces pressing challenges, this course empowers artists to leverage their creative skills and voices to contribute meaningfully to the betterment of our global community. Key topics covered include ethical design principles and the responsibility of designers in shaping inclusive narratives. Through practical exercises, projects, and case studies, students will develop the skills to navigate the delicate balance between aesthetics and advocacy, ensuring that their designs not only captivate but also inspire positive action.",
+        "Technical and Digital Skills": [
+            "Visual communication",
+            "Graphic design",
+            "Aesthetics and advocacy in design",
+            "Creating designs that inspire action"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Advocacy for social, environmental, and justice issues",
+            "Shaping inclusive narratives through design"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Balancing aesthetics and advocacy in design",
+            "Applying ethical design principles",
+            "Navigating the delicate balance between aesthetics and advocacy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Contributing creatively to societal betterment",
+            "Leading through design for positive change"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Graphic Design",
+        "courseCode": "GDES 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected topics designed for elective credit within the graphic design program.",
+        "Technical and Digital Skills": [
+            "Graphic design software usage",
+            "Typography",
+            "Image editing",
+            "Layout design",
+            "Color theory application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of design concepts",
+            "Feedback reception and implementation",
+            "Client communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Design troubleshooting",
+            "Creative problem-solving",
+            "User experience analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project organization",
+            "Time management",
+            "Leading design discussions"
+        ]
+    },
+    {
+        "courseTitle": "Design Services",
+        "courseCode": "GDES 470",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Design services acts as an independent design agency. Students will gain experience working directly with clients on a design project; discover the aspects of developing commissioned design projects; and consider the legal, practical and ethical considerations of working as an independent (freelance) designer.",
+        "Technical and Digital Skills": [
+            "Graphic design",
+            "Project development",
+            "Understanding of design tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Ethical negotiation",
+            "Project presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting designs based on client feedback",
+            "Legal considerations in design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Freelance business organization",
+            "Quality control"
+        ]
+    },
+    {
+        "courseTitle": "Motion Graphics",
+        "courseCode": "GDES 474",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This advanced course is an introduction to the basics of motion graphic design processes, and focuses on the creative and technical processes of creating motion graphics (predominantly 2D) for a variety of mediums including film, broadcast, DVD, and web. Students will gain practical experience in the development of an animated broadcast graphics package. Motion graphics in the context of interactive interfaces is also explored.",
+        "Technical and Digital Skills": [
+            "Motion graphic design processes",
+            "Creation of 2D motion graphics",
+            "Development of animated broadcast graphics package",
+            "Application of motion graphics in interactive interfaces",
+            "Understanding of various mediums including film, broadcast, DVD, and web"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of motion graphics concepts",
+            "Collaboration in the development of motion graphics projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting motion graphics design issues",
+            "Analysis and application of motion graphic design principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of motion graphics development",
+            "Direction and leadership in motion graphics projects"
+        ]
+    },
+    {
+        "courseTitle": "Advanced New Media",
+        "courseCode": "GDES 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Modern graphic design often includes the creation of multi-faceted experimental experiences. This course is intended to provide students with an advanced studio experience, where they will utilize a wide range of software to create experiences that push what each individual student thinks is possible. This course may cover topics such as 3D Modeling, Motion Graphics, Augmented Reality, Installation Art, and more.",
+        "Technical and Digital Skills": [
+            "3D Modeling",
+            "Creating Motion Graphics",
+            "Implementing Augmented Reality",
+            "Developing Installation Art",
+            "Software use and navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative creation of digital experiences",
+            "Presenting and explaining complex designs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of creative designs",
+            "Problem-solving in software usage"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple design projects",
+            "Leading experimental design efforts"
+        ]
+    },
+    {
+        "courseTitle": "Design Seminar",
+        "courseCode": "GDES 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is restricted to students admitted to the graphic design program, and is the seventh course in the graphic design sequence. This course introduces students to the broader opportunities and directions present in contemporary design. Through readings, discussion, and self-directed and self-determined projects, students will explore personal directions and sensibilities in their design practice. (Offered fall only)",
+        "Technical and Digital Skills": [
+            "Graphic design",
+            "Self-directed project development",
+            "Exploration of contemporary design techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation of design concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of contemporary design opportunities",
+            "Critical evaluation of personal design practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-determined project management",
+            "Direction and sensibility in design practice"
+        ]
+    },
+    {
+        "courseTitle": "Design Capstone",
+        "courseCode": "GDES 491",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the concluding course in the graphic design major. Students will prepare for transition to design practice/appreciation or graduate study through the completion of a thesis project appropriate to personal and career goals. Course topics will include creating a portfolio of design work, career options, self-promotion, resume preparation, graduate study, and interview skills. All students are required to present their work at the Graphic Design Gala. Additional review may be required by syllabus. (Offered spring only)",
+        "Technical and Digital Skills": [
+            "Graphic design",
+            "Portfolio creation",
+            "Self-promotion techniques",
+            "Resume preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Interview skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thesis project development",
+            "Career planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personal goal setting",
+            "Time management",
+            "Project management"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Graphic Design",
+        "courseCode": "GDES 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An independent investigation of a subject selected and conducted under the advisement of a graphic design instructor.",
+        "Technical and Digital Skills": [
+            "Graphic design principles",
+            "Adobe Creative Suite knowledge",
+            "Understanding of typography",
+            "Color theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-to-one communication with instructor",
+            "Feedback implementation",
+            "Presentation of design work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving",
+            "Design iteration",
+            "Analytical thinking in design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "GDES 697",
+        "courseTitle": "Tutorial in Graphic Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Tutorial is a self-directed learning experience where students work on a project of their devising under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "Project development",
+            "Graphic design tools usage",
+            "Digital art creation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisor",
+            "Feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem solving",
+            "Design troubleshooting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project management"
+        ]
+    }
+]

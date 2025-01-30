@@ -1,0 +1,1002 @@
+[
+    {
+        "courseTitle": "Survey in Communication Disorders",
+        "courseCode": "CSD 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to acquaint students with the discipline of speech-language pathology and provide an introduction to developmental and acquired disorders of speech and language.",
+        "Technical and Digital Skills": [
+            "Knowledge of speech-language pathology principles",
+            "Understanding of developmental and acquired disorders of speech and language",
+            "Ability to use assessment tools for communication disorders diagnosis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and their families",
+            "Empathy towards individuals with communication disorders",
+            "Active listening skills during speech therapy sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in diagnosing communication disorders",
+            "Analyzing speech and language patterns for treatment planning",
+            "Problem-solving during therapy sessions for improved communication outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in scheduling therapy sessions",
+            "Leadership in guiding clients through speech therapy goals",
+            "Organizing progress reports for tracking communication disorder improvements"
+        ]
+    },
+    {
+        "courseTitle": "Anatomy of Speech, Language, and Swallowing",
+        "courseCode": "CSD 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the psycholinguistic, acoustic, anatomical, and physiological aspects of speech and language, as well as anatomical and physiological aspects of swallowing.",
+        "Technical and Digital Skills": [
+            "Knowledge of psycholinguistics",
+            "Understanding acoustic properties of speech",
+            "Anatomical knowledge related to speech and language",
+            "Physiological understanding of speech production",
+            "Knowledge of anatomical and physiological aspects of swallowing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex anatomical concepts",
+            "Collaboration with peers on anatomical case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing anatomical structures and their impact on speech production",
+            "Identifying physiological factors affecting swallowing function"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Phonetics",
+        "courseCode": "CSD 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the production and classification of sounds in American English; practice in phonetic transcription.",
+        "Technical and Digital Skills": [
+            "Phonetic transcription",
+            "Sound classification in American English"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of phonetic transcriptions"
+        ],
+        "Problem-Solving and Analytical Skills": [],
+        "Organizational and Leadership Skills": []
+    },
+    {
+        "courseTitle": "Neural Bases of Communication and Swallowing Disorders",
+        "courseCode": "CSD 446",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The content of this course focuses upon the neurological bases of speech, language, and swallowing, and communication and swallowing disorders that result from acquired neuropathologies affecting the central and peripheral nervous system.",
+        "Technical and Digital Skills": [
+            "Understanding of neurological bases of speech, language, and swallowing disorders",
+            "Knowledge of acquired neuropathologies affecting the central and peripheral nervous system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and healthcare professionals regarding communication and swallowing disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis and treatment planning for communication and swallowing disorders based on neurological findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of interdisciplinary teams for comprehensive assessment and management of communication and swallowing disorders"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Language Disorders in Children",
+        "courseCode": "CSD 447",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course presents an introduction to the various language disorders manifested by children and adolescents with a focus on characteristics, etiologies and general intervention approaches.",
+        "Technical and Digital Skills": [
+            "Understanding various language disorders in children",
+            "Identifying etiologies of language disorders",
+            "Implementing general intervention approaches for language disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with children with language disorders",
+            "Collaborating with parents and caregivers for intervention planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing characteristics of language disorders in children",
+            "Developing individualized intervention plans based on specific needs of each child"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading intervention teams for children with language disorders",
+            "Organizing resources and materials for effective therapy sessions"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Observation and Writing in Communication Sciences and Disorders",
+        "courseCode": "CSD 449W/549",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Speech-language pathology/audiology students will learn practical and foundational clinical skills necessary for deconstructing speech-language pathology treatment sessions, for identifying important parts-of-speech, and for completing disciplinary writing tasks. Objectives in this class are met using guided observations. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Deconstructing speech-language pathology treatment sessions",
+            "Identifying parts-of-speech",
+            "Disciplinary writing tasks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Observation skills",
+            "Writing skills",
+            "Guided observation techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clinical sessions",
+            "Identifying key elements in treatment sessions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for writing tasks",
+            "Taking leadership in clinical observations"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Speech Sound Disorders",
+        "courseCode": "CSD 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course emphasizes causes, identification, and treatment of speech sound disorders.",
+        "Technical and Digital Skills": [
+            "Speech sound assessment techniques",
+            "Treatment planning for speech disorders",
+            "Knowledge of speech therapy software applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and their families",
+            "Collaboration with other healthcare professionals in treatment planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying root causes of speech sound disorders",
+            "Developing tailored treatment plans based on individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing caseload efficiently",
+            "Leading group therapy sessions for speech sound disorders"
+        ]
+    },
+    {
+        "courseTitle": "Speech and Language Development",
+        "courseCode": "CSD 453/553",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course reviews speech and language development from the perspective of the speech-language pathologist.",
+        "Technical and Digital Skills": [
+            "Speech and language assessment techniques",
+            "Use of specialized software for speech analysis",
+            "Knowledge of electronic medical records systems for documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and their families",
+            "Collaboration with other healthcare professionals in interdisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing speech and language patterns for diagnosis",
+            "Developing customized treatment plans based on assessment findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing caseload efficiently",
+            "Providing guidance and supervision to speech therapy assistants"
+        ]
+    },
+    {
+        "courseTitle": "Speech and Hearing Science",
+        "courseCode": "CSD 458/558",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The content of this course focuses upon basic acoustics, speech acoustics, psychoacoustics, speech perception, and clinical laboratory instrumentation.  The course is designed to provide fundamental information regarding normal and abnormal aspects of speech and hearing processes.",
+        "Technical and Digital Skills": [
+            "Understanding basic acoustics",
+            "Speech acoustics analysis",
+            "Psychoacoustics knowledge",
+            "Clinical laboratory instrumentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of speech and hearing concepts",
+            "Collaboration with clinical professionals for research",
+            "Presenting findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing normal and abnormal aspects of speech and hearing processes",
+            "Identifying patterns in speech perception data",
+            "Troubleshooting clinical laboratory instrumentation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects related to speech and hearing science",
+            "Leading a team of researchers in data collection and analysis",
+            "Organizing and coordinating speech and hearing conferences"
+        ]
+    },
+    {
+        "courseTitle": "Hearing Disorders and Basic Audiometry",
+        "courseCode": "CSD 460/560",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the physics of sound, anatomy, and physiology of the human ear, basic audiometry and hearing disorders.",
+        "Technical and Digital Skills": [
+            "Understanding physics of sound",
+            "Basic audiometry techniques",
+            "Knowledge of anatomy and physiology of the human ear"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication in audiometry procedures",
+            "Explaining hearing disorder diagnosis to patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting audiometry results",
+            "Identifying common hearing disorders based on symptoms",
+            "Troubleshooting equipment issues in audiometry"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing audiometry schedules efficiently",
+            "Coordinating with healthcare professionals for patient care"
+        ]
+    },
+    {
+        "courseTitle": "Aural Rehabilitation I",
+        "courseCode": "CSD 461/561",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of audiological findings and the implications for hearing therapy; speech and language development of the deaf.",
+        "Technical and Digital Skills": [
+            "Audiological assessment techniques",
+            "Hearing aid programming",
+            "Speech and language therapy tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing audiological findings",
+            "Developing personalized therapy plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient records",
+            "Leading therapy sessions"
+        ]
+    },
+    {
+        "courseTitle": "Sign Language and Deaf Culture I",
+        "courseCode": "CSD 465",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the grammatical structure and use of American sign language; exposure to ideals and culture of the deaf community. (This course does not satisfy the general education foreign language skills requirement.)",
+        "Technical and Digital Skills": [
+            "American Sign Language grammar",
+            "Sign language interpretation",
+            "Deaf culture understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with deaf individuals",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing sign language structures",
+            "Interpreting non-verbal communication"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Sign Language and Deaf Culture II",
+        "courseCode": "CSD 466",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced studies of the grammar and symbols of American Sign Language, and appreciation for concepts and issues surrounding deaf culture. (This course does not fulfill the general education foreign language requirement.)",
+        "Technical and Digital Skills": [
+            "Advanced American Sign Language grammar",
+            "Symbol recognition in ASL",
+            "Deaf culture appreciation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with the deaf community",
+            "Respectful interaction with individuals using sign language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex ASL sentences",
+            "Interpreting ASL symbols accurately"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Practicum in Speech-Language Pathology",
+        "courseCode": "CSD 469",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The clinical practicum in speech-language pathology takes place off campus, giving students the opportunity to earn clinical hours with an ASHA-certified speech-language pathologist in their final semester. The practicum involves 90 hours, divided between direct and indirect clinical services. A background check is required before students can be placed at the practicum site. Students are required to have a GPA in the major of 3.25 or higher.",
+        "Technical and Digital Skills": [
+            "Clinical assessment tools proficiency",
+            "Record-keeping software utilization",
+            "ASHA guidelines adherence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication and rapport building",
+            "Interprofessional collaboration with healthcare team",
+            "Family counseling and education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical case analysis and treatment planning",
+            "Adaptation to individual patient needs",
+            "Data interpretation for progress tracking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for clinical hours allocation",
+            "Supervision of clinical support staff",
+            "Advocacy for patient needs within healthcare system"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Communication Sciences and Disorders",
+        "courseCode": "CSD 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of special topics in communication sciences and disorders.",
+        "Technical and Digital Skills": [
+            "Research methodology in communication disorders",
+            "Evidence-based practice in speech-language pathology",
+            "Digital assessment tools in speech therapy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and families in speech therapy",
+            "Collaboration with interdisciplinary teams in healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research in communication sciences and disorders",
+            "Development of intervention strategies based on assessment findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study projects in communication sciences and disorders",
+            "Advocacy for individuals with communication disorders"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Speech-Language Pathology",
+        "courseCode": "CSD 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in speech-language pathology. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Literature review skills",
+            "Data analysis techniques",
+            "Research methodology",
+            "Oral presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Regular meetings with faculty",
+            "Written/oral report presentation",
+            "Collaboration with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Identifying research gaps",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research tasks",
+            "Leading research discussions",
+            "Project coordination with faculty"
+        ]
+    },
+    {
+        "courseCode": "CSD 549",
+        "courseTitle": "Clinical Observation and Writing in Communication Sciences and Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "Speech-language pathology/audiology students will learn practical and foundational clinical skills necessary for deconstructing speech-language pathology treatment sessions, for identifying important parts-of-speech, and for completing disciplinary writing tasks. Objectives in this class are met using guided observations.",
+        "Technical and Digital Skills": [
+            "Deconstructing speech-language pathology treatment sessions",
+            "Identifying parts-of-speech",
+            "Completing disciplinary writing tasks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Guided observations in clinical settings",
+            "Effective communication with patients and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clinical data",
+            "Identifying patterns in speech-language disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing clinical observation schedules",
+            "Leading group discussions on clinical cases"
+        ]
+    },
+    {
+        "courseCode": "CSD 553",
+        "courseTitle": "Speech and Language Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews speech and language development from the perspective of the speech-language pathologist.",
+        "Technical and Digital Skills": [
+            "Speech and language assessment techniques",
+            "Language intervention strategies",
+            "Knowledge of speech and language disorders",
+            "Understanding of speech and language development milestones"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and colleagues",
+            "Empathy and active listening skills in therapy sessions",
+            "Building rapport with clients and families",
+            "Collaborating with multidisciplinary teams for holistic care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing speech and language evaluation results",
+            "Developing customized treatment plans based on individual needs",
+            "Identifying barriers to progress in communication goals",
+            "Adjusting therapy techniques for optimal outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing caseloads efficiently",
+            "Supervising and mentoring speech therapy assistants",
+            "Advocating for clients' communication needs",
+            "Continuing education to stay updated on best practices in the field"
+        ]
+    },
+    {
+        "courseCode": "CSD 558",
+        "courseTitle": "Speech and Hearing Science",
+        "academicLevel": "graduate",
+        "courseDescription": "The content of this course focuses upon basic acoustics, speech acoustics, psychoacoustics, speech perception, and clinical laboratory instrumentation.  The course is designed to provide fundamental information regarding normal and abnormal aspects of speech and hearing processes.",
+        "Technical and Digital Skills": [
+            "Acoustic analysis",
+            "Speech signal processing",
+            "Clinical laboratory instrumentation operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Team collaboration in clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying abnormal speech patterns",
+            "Analyzing speech perception data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing clinical research projects",
+            "Leading clinical laboratory sessions"
+        ]
+    },
+    {
+        "courseCode": "CSD 560",
+        "courseTitle": "Hearing Disorders and Basic Audiometry",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the physics of sound, anatomy, and physiology of the human ear, basic audiometry and hearing disorders.",
+        "Technical and Digital Skills": [
+            "Understanding physics of sound",
+            "Basic audiometry techniques",
+            "Anatomy of the human ear",
+            "Digital audiometry software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective patient communication regarding hearing disorders",
+            "Collaboration with audiologists and healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting audiometry results",
+            "Identifying common hearing disorders based on test results",
+            "Troubleshooting technical issues with audiometry equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient appointments for audiometry tests",
+            "Leading audiometry testing sessions",
+            "Ensuring accuracy and compliance in audiometry procedures"
+        ]
+    },
+    {
+        "courseCode": "CSD 561",
+        "courseTitle": "Aural Rehabilitation I",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of audiological findings and the implications for hearing therapy; speech and language development of the deaf.",
+        "Technical and Digital Skills": [
+            "Audiological findings analysis",
+            "Hearing therapy techniques",
+            "Speech and language development assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Empathy and active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in hearing therapy",
+            "Analyzing speech and language development data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient treatment planning",
+            "Team coordination for therapy sessions"
+        ]
+    },
+    {
+        "courseCode": "CSD 597",
+        "courseTitle": "Independent Study in Communication Sciences and Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in communication sciences and disorders.",
+        "Technical and Digital Skills": [
+            "Research methodology in communication disorders",
+            "Data collection techniques in speech-language pathology",
+            "Software tools for data analysis in communication sciences",
+            "Digital resources for speech therapy research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings in communication disorders",
+            "Collaborative research communication with peers and mentors",
+            "Professional communication with clients or patients in speech-language pathology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research literature in communication sciences and disorders",
+            "Analyzing data trends in speech therapy outcomes",
+            "Identifying research gaps in communication disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing research proposals in communication sciences and disorders",
+            "Managing independent study timelines and tasks",
+            "Leading research projects in speech-language pathology"
+        ]
+    },
+    {
+        "courseCode": "CSD 612",
+        "courseTitle": "Evidence Based Practice and Research in Speech-Language Pathology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with a background in evidence-based clinical practice by understanding elements of quality research methods. Students will learn how to identify reputable research outcomes that influence clinical decisions in speech-language pathology.",
+        "Technical and Digital Skills": [
+            "Research methods in speech-language pathology",
+            "Identifying reputable research outcomes",
+            "Understanding evidence-based clinical practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaborating with other professionals in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Analyzing research data",
+            "Making clinical decisions based on evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading evidence-based practice initiatives",
+            "Organizing research data effectively"
+        ]
+    },
+    {
+        "courseCode": "CSD 649",
+        "courseTitle": "Clinical Procedures in Speech-Language Pathology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches students basic clinical procedures and competencies in speech-language pathology with an emphasis on language sampling and identification of grammatical categories, skills required by professionals practicing in the field of speech-language pathology.",
+        "Technical and Digital Skills": [
+            "Language sampling techniques",
+            "Grammatical category identification in speech",
+            "Clinical procedures in speech-language pathology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing language samples for pathology detection",
+            "Identifying speech disorders based on clinical procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient case files",
+            "Leading speech therapy sessions"
+        ]
+    },
+    {
+        "courseCode": "CSD 651",
+        "courseTitle": "Spoken and Written Language Disorders: School-Aged Children",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the relationship between spoken and written language and its role in language-based learning disabilities in school-aged students. It addresses the characteristics of language, reading, and spelling impairments; the subtypes of these disorders; and the different assessment and intervention approaches used with them.",
+        "Technical and Digital Skills": [
+            "Assessment tools proficiency",
+            "Intervention strategies implementation",
+            "Language impairment identification techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with school-aged children",
+            "Collaborating with parents and educators for intervention planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing language-based learning disabilities",
+            "Developing personalized intervention plans based on assessments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading intervention sessions",
+            "Managing assessment data effectively"
+        ]
+    },
+    {
+        "courseCode": "CSD 652",
+        "courseTitle": "Speech Sound Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "The emphasis of this course is clinical assessment and intervention for phonology and articulation skills that can be disrupted in speech sound disorders including motor speech disorders.",
+        "Technical and Digital Skills": [
+            "Clinical assessment techniques for phonology and articulation",
+            "Intervention strategies for speech sound disorders",
+            "Knowledge of motor speech disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients and their families regarding speech disorders",
+            "Collaboration with other healthcare professionals for comprehensive treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing speech patterns to identify specific sound errors",
+            "Developing individualized treatment plans based on assessment results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing caseloads efficiently",
+            "Leading therapy sessions with confidence and professionalism"
+        ]
+    },
+    {
+        "courseCode": "CSD 653",
+        "courseTitle": "Language Disorders: Birth to Five Years",
+        "academicLevel": "graduate",
+        "courseDescription": "An advanced study of the diagnosis and intervention for infants and preschoolers with suspected language disorders arising from a variety of etiologies. This course has a particular emphasis on assessment and intervention using principles of evidence-based practice.",
+        "Technical and Digital Skills": [
+            "Diagnosis of language disorders in infants and preschoolers",
+            "Intervention strategies for language disorders in young children",
+            "Utilizing evidence-based practice in assessment and intervention"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with parents and caregivers regarding language disorders",
+            "Collaborating with other professionals in interdisciplinary teams for comprehensive care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing assessment data to determine appropriate intervention strategies",
+            "Problem-solving to address language disorders in children with various etiologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and coordinating intervention plans for children with language disorders",
+            "Organizing and managing assessment data for effective treatment planning"
+        ]
+    },
+    {
+        "courseCode": "CSD 655",
+        "courseTitle": "Voice and Resonance Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "This course emphasizes the current etiological theories, research, diagnostic procedures, and therapeutic techniques related to voice and resonance disorders.  Students will study terminology and concepts related to the resonance, phonation, and respiration systems underlying voice production.",
+        "Technical and Digital Skills": [
+            "Understanding etiological theories related to voice and resonance disorders",
+            "Utilizing diagnostic procedures for voice disorders",
+            "Applying therapeutic techniques for voice disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting findings on voice and resonance disorders",
+            "Collaborating with colleagues on research projects related to voice disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing terminology and concepts related to voice production systems",
+            "Identifying underlying causes of voice and resonance disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research projects on voice and resonance disorders",
+            "Organizing data related to voice disorder cases"
+        ]
+    },
+    {
+        "courseCode": "CSD 656",
+        "courseTitle": "Theories and Therapies in Stuttering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course emphasizes current etiological theories, research, diagnostic procedures and therapeutic techniques related to stuttering.",
+        "Technical and Digital Skills": [
+            "Understanding etiological theories of stuttering",
+            "Diagnostic procedures for stuttering assessment",
+            "Therapeutic techniques for stuttering treatment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients who stutter",
+            "Collaborating with other healthcare professionals in stuttering treatment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research on stuttering theories",
+            "Developing individualized therapy plans for clients who stutter"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading therapy sessions for clients who stutter",
+            "Managing caseloads effectively in stuttering clinics"
+        ]
+    },
+    {
+        "courseCode": "CSD 657",
+        "courseTitle": "Aphasia",
+        "academicLevel": "graduate",
+        "courseDescription": "The objective of this course is to investigate the etiologies, communicative disorders, diagnostic methods and therapeutic techniques related to aphasia, dyslexia and dysgraphia related to acquired neurologic conditions.",
+        "Technical and Digital Skills": [
+            "Diagnostic methods for communicative disorders",
+            "Therapeutic techniques for aphasia, dyslexia, and dysgraphia",
+            "Neurological conditions understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients with aphasia",
+            "Empathy towards individuals with communicative disorders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnostic evaluation of aphasia, dyslexia, and dysgraphia",
+            "Treatment planning based on individual needs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CSD 658",
+        "courseTitle": "Swallowing Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews the structures and neural bases of swallowing, common etiologies that cause dysphagia, and clinical techniques used in assessment and management of swallowing disorders in pediatric and adult populations.",
+        "Technical and Digital Skills": [
+            "Understanding neural bases of swallowing",
+            "Clinical assessment techniques for dysphagia",
+            "Knowledge of common etiologies of swallowing disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and caregivers",
+            "Collaboration with multidisciplinary team members in treatment planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing swallowing function test results",
+            "Identifying appropriate interventions based on assessment findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating treatment plans with healthcare providers",
+            "Leading dysphagia management team meetings"
+        ]
+    },
+    {
+        "courseCode": "CSD 659",
+        "courseTitle": "Augmentative and Alternative Communication Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will identify populations that may benefit from Augmentative and Alternative Communication Disorders (AAC), describe the assessment process relative to AAC and tenets of intervention, provide information regarding legal issues related to AAC, and demonstrate how to acquire and use AAC instrumentation.",
+        "Technical and Digital Skills": [
+            "Assessment process for AAC",
+            "Intervention techniques for AAC",
+            "Legal issues related to AAC",
+            "Acquiring and using AAC instrumentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals benefiting from AAC",
+            "Collaboration with AAC specialists and legal professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying populations that may benefit from AAC",
+            "Analyzing assessment results for AAC implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading AAC intervention teams",
+            "Managing legal issues related to AAC implementation"
+        ]
+    },
+    {
+        "courseCode": "CSD 660",
+        "courseTitle": "Procedures in Audiology",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of the physics of sound, anatomy, and physiology of audition, hearing disorders, and audiometric procedures, providing knowledge and skills necessary for a speech-language pathologist.",
+        "Technical and Digital Skills": [
+            "Audiometric procedures",
+            "Sound physics",
+            "Anatomy of audition",
+            "Physiology of hearing",
+            "Knowledge of hearing disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Explaining audiometric procedures to patients",
+            "Collaborating with speech-language pathologists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting audiometric results",
+            "Identifying hearing disorders based on test outcomes",
+            "Troubleshooting equipment issues during procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing audiometric testing schedules",
+            "Supervising audiometric technicians",
+            "Leading a team in conducting audiometric procedures"
+        ]
+    },
+    {
+        "courseCode": "CSD 662",
+        "courseTitle": "Cognitive-Communication Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "The objective of this course is to investigate the etiologies, cognitive impairments, communication manifestations, diagnostic methods and therapeutic techniques related to traumatic brain injury, right hemisphere brain damage, and various dementias.",
+        "Technical and Digital Skills": [
+            "Diagnostic methods for traumatic brain injury",
+            "Therapeutic techniques for cognitive impairments",
+            "Communication manifestations analysis for various dementias"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and their families",
+            "Collaboration with healthcare professionals in treatment planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Etiology analysis for right hemisphere brain damage",
+            "Critical evaluation of cognitive impairments in different conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading therapeutic sessions for cognitive rehabilitation",
+            "Organizing diagnostic assessments for patients"
+        ]
+    },
+    {
+        "courseCode": "CSD 663",
+        "courseTitle": "Clinical Perspectives on Autism Spectrum Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "Students in this class will study diagnostic and intervention methods necessary for speech-language pathologists treating people diagnosed with Autism Spectrum Disorders.",
+        "Technical and Digital Skills": [
+            "Diagnostic assessment methods for Autism Spectrum Disorders",
+            "Intervention strategies for speech-language pathologists treating individuals with ASD"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with individuals diagnosed with Autism Spectrum Disorders",
+            "Collaboration with multidisciplinary teams for comprehensive care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing diagnostic results to develop personalized treatment plans",
+            "Problem-solving to address communication challenges in individuals with ASD"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and coordinating treatment plans for individuals with Autism Spectrum Disorders",
+            "Organizing and managing therapy sessions effectively"
+        ]
+    },
+    {
+        "courseCode": "CSD 664",
+        "courseTitle": "Culturally Sustaining Communication Practices in Speech-Language Pathology",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will discuss cultural competence as applied in the speech-language pathology clinical process, including a self-examination of bias and effective communication through a culturally-responsive lens.",
+        "Technical and Digital Skills": [
+            "Utilizing culturally-specific communication tools",
+            "Implementing technology for cross-cultural communication",
+            "Utilizing digital assessment tools for diverse populations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in culturally-responsive communication",
+            "Adapting communication strategies for different cultural backgrounds",
+            "Effective cross-cultural communication in speech-language pathology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying biases in clinical practice",
+            "Critical analysis of cultural influences on communication disorders",
+            "Problem-solving in culturally diverse clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading culturally-responsive communication initiatives",
+            "Organizing culturally inclusive therapy sessions",
+            "Creating inclusive communication plans for diverse clients"
+        ]
+    },
+    {
+        "courseCode": "CSD 665",
+        "courseTitle": "Theories of Supervision in Speech-Language Pathology",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will discuss models of effective clinical supervision, with an emphasis on preparation and planning to guide students, clinical fellows, and speech-language pathology assistants.",
+        "Technical and Digital Skills": [
+            "Supervision planning",
+            "Clinical supervision models",
+            "Speech-language pathology guidelines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students and clinical fellows",
+            "Providing constructive feedback",
+            "Professional mentoring"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying areas of improvement in supervision techniques",
+            "Developing solutions for challenging supervisory situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating structured supervision plans",
+            "Leading supervision sessions",
+            "Managing multiple supervisees"
+        ]
+    },
+    {
+        "courseCode": "CSD 668",
+        "courseTitle": "Advanced Clinical Externship in Speech-Language Pathology",
+        "academicLevel": "graduate",
+        "courseDescription": "In this externship, students will apply advanced speech-language pathology techniques in diagnosis and intervention for individuals with communication and swallowing disorders in medical or educational settings. Students will work full time in an off-campus facility to complete clock hours for certification purposes.",
+        "Technical and Digital Skills": [
+            "Advanced speech-language pathology techniques",
+            "Diagnosis and intervention methods",
+            "Clock hour documentation",
+            "Medical and educational settings familiarity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Collaboration with healthcare professionals",
+            "Patient education on treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in diagnosing disorders",
+            "Developing individualized treatment plans",
+            "Problem-solving in real-world clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for full-time externship",
+            "Leadership in patient care",
+            "Organizing and prioritizing patient caseload"
+        ]
+    },
+    {
+        "courseCode": "CSD 669",
+        "courseTitle": "Clinical Practicum in Speech-Language Pathology I, II, III",
+        "academicLevel": "graduate",
+        "courseDescription": "These practica are designed to provide students with experiences in the evaluation and treatment of a variety of communication disorders in children and adults.",
+        "Technical and Digital Skills": [
+            "Speech assessment tools proficiency",
+            "Data collection software knowledge",
+            "Electronic medical records management",
+            "Telepractice platforms familiarity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and families",
+            "Collaboration with multidisciplinary teams",
+            "Empathy and active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnostic problem-solving abilities",
+            "Treatment planning based on assessment results",
+            "Critical thinking in therapy approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for caseloads",
+            "Supervision of therapy sessions",
+            "Advocacy for clients' needs"
+        ]
+    },
+    {
+        "courseCode": "CSD 697",
+        "courseTitle": "Independent Study in Communication Sciences and Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in communication sciences and disorders.",
+        "Technical and Digital Skills": [
+            "Research methodology in communication sciences and disorders",
+            "Data collection techniques in communication disorders research",
+            "Use of specialized software for speech analysis",
+            "Utilizing electronic databases for literature review in CSD"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with research participants",
+            "Collaboration with faculty mentors for study design",
+            "Clear and concise scientific writing for research reports",
+            "Presentation of research findings in academic settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research data in CSD studies",
+            "Identifying trends and patterns in communication disorders research",
+            "Critical evaluation of research methodologies in CSD",
+            "Developing research questions for independent study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study projects",
+            "Setting and achieving research goals in CSD",
+            "Taking initiative in research design and implementation",
+            "Leading research projects in communication sciences and disorders"
+        ]
+    },
+    {
+        "courseCode": "CSD 750",
+        "courseTitle": "Neuromotor Speech Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "The content of this course focuses on the neurological bases of speech, disorders of speech production associated with neurologic diseases, as well as methods for evaluation and treatment of those disorders.",
+        "Technical and Digital Skills": [
+            "Neurological bases of speech",
+            "Speech production disorders evaluation",
+            "Treatment methods for speech disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Collaboration with healthcare team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of speech disorders based on neurological findings",
+            "Developing personalized treatment plans for patients"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading speech therapy sessions",
+            "Managing patient treatment schedules"
+        ]
+    },
+    {
+        "courseCode": "CSD 850",
+        "courseTitle": "Neuromotor Speech Disorders",
+        "academicLevel": "graduate",
+        "courseDescription": "The content of this course focuses upon the structural and neurological bases of speech disorders, particularly those related to laryngeal and central nervous system pathologies. Advanced expertise in neuromotor speech disorders will be developed along with in depth familiarity and analysis of related literature.",
+        "Technical and Digital Skills": [
+            "Understanding of neurological bases of speech disorders",
+            "Analysis of central nervous system pathologies",
+            "Expertise in neuromotor speech disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to present complex information clearly",
+            "Effective communication with patients and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of literature related to speech disorders",
+            "Identifying patterns in speech pathology cases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care plans",
+            "Leading interdisciplinary teams in speech therapy"
+        ]
+    }
+]

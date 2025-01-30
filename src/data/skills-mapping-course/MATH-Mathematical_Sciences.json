@@ -1,0 +1,2260 @@
+[
+    {
+        "courseTitle": "The Math Cooperative",
+        "courseCode": "MATH 100",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is to prepare students who did not meet the prerequisites for MATH 102M or MATH 103M.  This course is not open to students with prior credit for or who qualify for College Algebra or a higher-level math course.",
+        "Technical and Digital Skills": [
+            "Basic mathematics",
+            "Understanding of algebraic principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Numerical problem-solving",
+            "Logical reasoning",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "An Introduction to Mathematics for Critical Thinking",
+        "courseCode": "MATH 101M",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course fulfills the math general education requirement for some majors in the College of Arts and Letters and the College of Education and Professional Studies. It can also be used as a preparation for STAT 130M. An introduction to the ways in which modern mathematics can be used to analyze the modern world and make logical decisions. Topics include problem solving, sets, logic, consumer mathematics (loans, mortgages, annuities), probability, and elementary statistics.",
+        "Technical and Digital Skills": [
+            "Understanding of sets and logic",
+            "Consumer mathematics",
+            "Probability calculation",
+            "Elementary statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving techniques",
+            "Logical decision making",
+            "Analyzing modern world issues with mathematics"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "College Algebra",
+        "courseCode": "MATH 102M",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A basic course in algebra that emphasizes applications and problem-solving skills. Topics include finding solutions, graphing of linear equations and inequalities, graphs and functions, combining polynomials and polynomial functions, factoring polynomials, simplifying and combining rational expressions and equations, simplifying roots and radicals, solving radical equations, and an introduction to quadratic functions and equations. This course fulfills the math general education requirement and can be used as a preparation for MATH 162M.  MATH 101M is not a prerequisite for MATH 102M.  Not open to students with credit for MATH 162M.",
+        "Technical and Digital Skills": [
+            "Algebraic problem solving",
+            "Graphing of linear equations and inequalities",
+            "Combining polynomials",
+            "Factoring polynomials",
+            "Simplifying and combining rational expressions and equations",
+            "Solving radical equations",
+            "Understanding of quadratic functions and equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Mathematical reasoning",
+            "Problem solving with algebra",
+            "Critical evaluation of mathematical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "College Algebra with Supplemental Instruction",
+        "courseCode": "MATH 103M",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the same content as MATH 102M. It is designed for students who must complete MATH 102M as part of their degree program, but who do not meet the prerequisites for MATH 102M. MATH 103M may be used interchangeably with MATH 102M and may be used as a prerequisite requirement for any course that requires MATH 102M as a prerequisite. MATH 103M will require registration for a supplemental instruction session each week.",
+        "Technical and Digital Skills": [
+            "Algebraic problem-solving",
+            "Use of mathematical software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in supplemental instruction sessions",
+            "Peer learning and collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in mathematical contexts",
+            "Problem-solving in algebraic contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-study and independent learning",
+            "Time management for regular study sessions"
+        ]
+    },
+    {
+        "courseTitle": "Precalculus I",
+        "courseCode": "MATH 162M",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The first course in a two-course sequence designed to provide a strong preparation for calculus. Topics include algebraic operations, equations and inequalities, graphs and functions, polynomial functions, theory of equations, systems of equations, exponential functions, and logarithmic functions.",
+        "Technical and Digital Skills": [
+            "Algebraic operations",
+            "Solving equations and inequalities",
+            "Graphing functions",
+            "Understanding polynomial functions",
+            "Theory of equations",
+            "Solving systems of equations",
+            "Understanding exponential functions",
+            "Understanding logarithmic functions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Logical reasoning",
+            "Problem-solving with mathematical functions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Precalculus II",
+        "courseCode": "MATH 163",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The second course in a two-course sequence designed to provide strong preparation for calculus. Topics include exponential and logarithmic functions/equations, trigonometric functions/equations, trigonometric identities, laws of sines and cosines, vectors, polar representation of complex numbers, binomial theorem, and conic sections.",
+        "Technical and Digital Skills": [
+            "Understanding of exponential and logarithmic functions/equations",
+            "Understanding of trigonometric functions/equations",
+            "Application of trigonometric identities",
+            "Knowledge of laws of sines and cosines",
+            "Understanding and application of vectors",
+            "Understanding of polar representation of complex numbers",
+            "Application of binomial theorem",
+            "Understanding of conic sections"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with trigonometric equations",
+            "Analysis using logarithmic and exponential functions",
+            "Analytical skills with binomial theorem",
+            "Problem-solving with vectors",
+            "Analysis using polar representation of complex numbers"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Precalculus I and II",
+        "courseCode": "MATH 166",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A one-semester precalculus course covering the topics of MATH 162M and MATH 163 at an accelerated pace.  Not available to students with credit in MATH 163.",
+        "Technical and Digital Skills": [
+            "Understanding precalculus concepts",
+            "Accelerated learning of mathematical theories",
+            "Working with MATH 162M and MATH 163 topics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical problem-solving",
+            "Analyzing complex mathematical problems",
+            "Critical thinking in mathematics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Research Experience in Mathematics",
+        "courseCode": "MATH 197",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.",
+        "Technical and Digital Skills": [
+            "Mathematical modelling",
+            "Data analytics",
+            "Statistical software use"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative research",
+            "Professional correspondence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reasoning",
+            "Problem-solving in mathematics",
+            "Critical evaluation of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Independent work"
+        ]
+    },
+    {
+        "courseTitle": "Calculus for Business and Economics",
+        "courseCode": "MATH 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A Calculus course intended for those studying business and economics. Topics include applications of linear, quadratic, rational, exponential, and logarithmic business functions, solving applied linear systems using matrices, limits and continuity, derivatives with applications, and integration with applications.",
+        "Technical and Digital Skills": [
+            "Understanding and application of linear functions",
+            "Application of quadratic functions",
+            "Understanding and application of rational functions",
+            "Application of exponential functions",
+            "Understanding and application of logarithmic business functions",
+            "Solving linear systems using matrices",
+            "Understanding of limits and continuity",
+            "Application of derivatives",
+            "Understanding and application of integration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical problem solving using calculus",
+            "Identifying and solving linear systems",
+            "Critical analysis of mathematical functions",
+            "Application of derivatives in problem-solving",
+            "Application of integration in problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Calculus for Life Sciences",
+        "courseCode": "MATH 205",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the standard topics of first semester calculus including limits, derivatives and integrals. All examples for this course are drawn from biological sciences with specific applications to topics covered in the core courses of the undergraduate Biology major.",
+        "Technical and Digital Skills": [
+            "Understanding of limits",
+            "Application of derivatives",
+            "Execution of integrals",
+            "Application of calculus concepts to biological sciences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of biological problems through calculus",
+            "Problem-solving using calculus",
+            "Analytical thinking for biological applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Calculus I",
+        "courseCode": "MATH 211",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A first course in calculus and analytic geometry. Topics include differentiation and integration of algebraic and transcendental functions of one variable and applications.",
+        "Technical and Digital Skills": [
+            "Differentiation of algebraic functions",
+            "Integration of algebraic functions",
+            "Differentiation of transcendental functions",
+            "Integration of transcendental functions",
+            "Analytic geometry"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem-solving through calculus applications",
+            "Abstract reasoning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Calculus II",
+        "courseCode": "MATH 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A second course in calculus and analytic geometry. Topics include techniques of integration, polar coordinates, infinite series, solid geometry, vectors, lines and planes.",
+        "Technical and Digital Skills": [
+            "Techniques of integration",
+            "Understanding polar coordinates",
+            "Infinite series analysis",
+            "Solid geometry calculations",
+            "Vector analysis",
+            "Lines and planes in geometry"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical geometry",
+            "Problem-solving through integration techniques",
+            "Series convergence analysis",
+            "Analyzing geometric shapes and structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Transfer Credit for Ordinary Differential Equations",
+        "courseCode": "MATH 280",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a VCCS transfer credit vehicle. Students who have earned transferable credit in MATH 279 or 291 at any member institution of the VCCS will be granted credit for MATH 280.  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 307 for MATH majors or minors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Transfer Credit for Calculus III",
+        "courseCode": "MATH 285",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a VCCS transfer credit vehicle.  Students who have earned transferable credit for MATH 275 or 277 at any member institution of the VCCS will be granted credit for MATH 285.  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 312 for MATH majors or minors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and following university credit transfer policies and procedures"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Mathematics",
+        "courseCode": "MATH 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Geometry",
+        "courseCode": "MATH 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Elementary plane and solid Euclidean geometry with proofs and applications. Topics include angles, triangles, congruence, quadrilaterals, circles, similarity, perimeter, area, volume, polygons, plane and solid constructions. A dynamic geometry visualization software is used to discover geometric properties. (May not be used to satisfy the upper-division elective requirement of the math majors program.)",
+        "Technical and Digital Skills": [
+            "Understanding of Euclidean geometry",
+            "Application of geometric proofs",
+            "Understanding of angles, triangles, congruence, quadrilaterals, circles, similarity, perimeter, area, volume, polygons, plane and solid constructions",
+            "Usage of dynamic geometry visualization software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solving problems using geometric concepts",
+            "Analyzing geometric properties",
+            "Application of geometric properties to find solution"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Ordinary Differential Equations",
+        "courseCode": "MATH 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include first order differential equations and systems, second and higher order linear equations, solution by series and Laplace transform, and applications.",
+        "Technical and Digital Skills": [
+            "Understanding of first order differential equations and systems",
+            "Knowledge of second and higher order linear equations",
+            "Solution by series and Laplace transform techniques",
+            "Application of differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking to solve differential equations",
+            "Problem solving using Laplace transform",
+            "Ability to apply differential equations to real-world problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Abstract Algebra",
+        "courseCode": "MATH 311W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include introduction to logic and methods of proof; sets, relations, and functions; elementary group and ring theory.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Understanding and applying logic",
+            "Methods of mathematical proof",
+            "Understanding of sets, relations, and functions",
+            "Foundation in elementary group and ring theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive tasks",
+            "Ability to communicate complex mathematical concepts in writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving mathematical problems",
+            "Proof construction and validation",
+            "Analytical thinking in abstract concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Calculus III",
+        "courseCode": "MATH 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A third course in calculus and analytic geometry.  Topics include vector functions, partial derivatives, multiple integrals and an introduction to vector calculus.",
+        "Technical and Digital Skills": [
+            "Understanding of vector functions",
+            "Ability to calculate partial derivatives",
+            "Knowledge of multiple integrals",
+            "Introduction to vector calculus"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical geometry problem solving",
+            "Analyzing and solving calculus problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Calculus IV: Introductory Analysis",
+        "courseCode": "MATH 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to real analysis.  Topics covered include completeness and topological properties of the real line, theory of sequences, limits of functions, the derivative, the Riemann integral, and the Fundamental Theorem of Calculus.",
+        "Technical and Digital Skills": [
+            "Understanding of real analysis",
+            "Knowledge of completeness and topological properties",
+            "Understanding of the concept of sequences",
+            "Comprehending limits of functions",
+            "Knowledge of the derivative",
+            "Understanding of the Riemann integral",
+            "Application of the Fundamental Theorem of Calculus"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve complex mathematical problems",
+            "Analytical thinking in mathematical context",
+            "Understanding and interpreting mathematical theories"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Number Systems and Discrete Mathematics",
+        "courseCode": "MATH 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Estimation and other applications to real world problems, using elementary principles of algebra, geometry, number theory, number systems, and discrete mathematics. (May not be used to satisfy the upper-division elective requirement of the math majors program.)",
+        "Technical and Digital Skills": [
+            "Elementary principles of algebra",
+            "Understanding of geometry",
+            "Number theory knowledge",
+            "Understanding number systems",
+            "Application of discrete mathematics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Estimation",
+            "Application of mathematical principles to real world problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "MATH 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.  Available for pass/fail grading only. May be repeated for credit.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Adapting to professional environments",
+            "Effective communication within a workplace"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem solving",
+            "Critical evaluation of work experience"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing work responsibilities",
+            "Adhering to evaluative procedures",
+            "Balancing academic and work commitments"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Concepts for Secondary Educators: Function and Modeling",
+        "courseCode": "MATH 375",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course engages students in explorations and laboratory activities designed to strengthen and expand their knowledge of the topics found in college mathematics, and in particular, students will delve into and illuminate the connections between secondary and college mathematics by exploring and highlighting the basic secondary school topics that need to be mastered in order to solve problems in college mathematics. Through this process, students will achieve mastery of topics they will be teaching in secondary mathematics and understand the connection between the high school curriculum and their students' success in college and in the workplace.",
+        "Technical and Digital Skills": [
+            "College mathematics proficiency",
+            "Understanding of secondary school mathematics topics",
+            "Ability to connect secondary and college mathematics concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex concepts in simple terms",
+            "Ability to illuminate connections between secondary and college mathematics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve problems in college mathematics",
+            "Understanding the connection between high school curriculum and students' success in college and workplace"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to guide students through complex mathematics problems",
+            "Ability to design effective teaching strategies for secondary mathematics"
+        ]
+    },
+    {
+        "courseTitle": "Putnam Exam Problems and Related Topics",
+        "courseCode": "MATH 399",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students prepare for the Putnum Exam - an annual national mathematical competition.  Problems from previous Putnam Exams and materials related to the solution of such problems will be considered.",
+        "Technical and Digital Skills": [
+            "Understanding mathematical concepts and theories",
+            "Applying mathematical formulas",
+            "Interpreting mathematical problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex mathematical problems",
+            "Developing problem solving strategies",
+            "Critical thinking for problem resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-study and independent learning",
+            "Time management for problem solving"
+        ]
+    },
+    {
+        "courseTitle": "History of Mathematics",
+        "courseCode": "MATH 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seminal ideas in geometry, arithmetic, algebra, analysis and applied mathematics (along with their mathematical representations) from antiquity, the age of exploration, the Promethean age to the present day.",
+        "Technical and Digital Skills": [
+            "Understanding of geometry",
+            "Understanding of arithmetic",
+            "Understanding of algebra",
+            "Understanding of analysis",
+            "Understanding of applied mathematics",
+            "Understanding of mathematical representations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex mathematical concepts",
+            "Ability to communicate the evolution of mathematical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of historical mathematical problems",
+            "Ability to understand and interpret mathematical representations",
+            "Analytical understanding of mathematical concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Partial Differential Equations",
+        "courseCode": "MATH 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Not available to students with credit in MATH 691. Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.",
+        "Technical and Digital Skills": [
+            "Separation of variable techniques",
+            "Sturm-Liouville systems",
+            "Generalized Fourier series",
+            "Orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems",
+            "Handling wave and heat conduction equations in various coordinate systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Applying mathematical techniques to solve physics and engineering problems",
+            "Analyzing boundary value problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamental Concepts of Geometry",
+        "courseCode": "MATH 404/504",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamentals of Euclidean and non-Euclidean geometry. Alternatives to Euclidean geometry are examined using a variety of mathematical techniques. Special topics such as 'Taxicab' geometry, the hyperbolic plane, the art of M.C. Escher, and the mathematics of maps may be included.",
+        "Technical and Digital Skills": [
+            "Understanding of Euclidean and non-Euclidean geometry",
+            "Application of mathematical techniques",
+            "Knowledge of 'Taxicab' geometry",
+            "Understanding of the hyperbolic plane",
+            "Insight into the art of M.C. Escher",
+            "Understanding of mathematics of maps"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex mathematical concepts",
+            "Collaborating in mathematical discussions",
+            "Articulating alternative geometrical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing different geometric forms",
+            "Problem-solving with mathematical techniques",
+            "Analysis of alternative geometrical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing mathematical concepts",
+            "Leading mathematical discussions",
+            "Managing and organizing information on alternative geometrical concepts"
+        ]
+    },
+    {
+        "courseTitle": "Number Theory and Discrete Mathematics",
+        "courseCode": "MATH 406/506",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey course.  Topics include the prime number theorem, congruences, Diophantine equations, continued fractions, quadratic reciprocity, combinatorics, logic, graphs, trees, algorithms, coding and linear programming.",
+        "Technical and Digital Skills": [
+            "Understanding of prime number theorem",
+            "Solving congruences",
+            "Solving Diophantine equations",
+            "Calculating continued fractions",
+            "Understanding quadratic reciprocity",
+            "Combinatorial calculations",
+            "Understanding logic principles",
+            "Graph theory",
+            "Tree structures",
+            "Algorithm development",
+            "Coding",
+            "Linear programming"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving with Diophantine equations",
+            "Analytical thinking through combinatorics",
+            "Algorithmic problem solving",
+            "Analyzing and developing linear programming models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Numerical Methods I",
+        "courseCode": "MATH 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the numerical methods commonly used by scientists and engineers. Topics include solutions of equations of one variable, direct methods for solving linear systems, matrix factorization, stability analysis, iterative techniques, polynomial interpolation, numerical  differentiation and integration, approximation theory, and initial and boundary value problems for ordinary differential equations.",
+        "Technical and Digital Skills": [
+            "Solving equations of one variable",
+            "Direct methods for solving linear systems",
+            "Matrix factorization",
+            "Stability analysis",
+            "Iterative techniques",
+            "Polynomial interpolation",
+            "Numerical differentiation and integration",
+            "Approximation theory",
+            "Solving initial and boundary value problems for ordinary differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for numerical problem solving",
+            "Critical evaluation of numerical solutions",
+            "Problem-solving using iterative techniques",
+            "Analytical skills for stability analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Numerical Methods II",
+        "courseCode": "MATH 409/509",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include least squares problems, the QR factorization, the conjugate gradient method, Householder transformation and the QR method for approximating eigenvalues and singular values of a matrix.  For applications, the finite difference method and the finite element method for solving partial differential equations, trigonometric interpolation and FFT as well as introductory study of optimization are discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of least squares problems",
+            "Applying the QR factorization",
+            "Performing the conjugate gradient method",
+            "Executing Householder transformation",
+            "Applying the QR method for approximating eigenvalues and singular values of a matrix",
+            "Utilizing finite difference method and the finite element method for solving partial differential equations",
+            "Performing trigonometric interpolation and FFT",
+            "Introductory knowledge of optimization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with finite difference method and finite element method",
+            "Analyzing and solving least squares problems",
+            "Analyzing and solving problems with QR factorization",
+            "Analyzing and solving problems with conjugate gradient method"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Real Analysis I",
+        "courseCode": "MATH 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.",
+        "Technical and Digital Skills": [
+            "Understanding of the topology of Euclidean n-space",
+            "Knowledge of properties of vector valued functions",
+            "Ability to analyze limits, continuity, differentiability and integrability",
+            "Understanding of pointwise and uniform convergence of sequences and series of functions",
+            "Knowledge of Fourier series"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve complex mathematical problems",
+            "Ability to analyze sequences and series of functions",
+            "Application of differentiability and integrability in problem-solving",
+            "Critical analysis of Fourier series"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Real Analysis II",
+        "courseCode": "MATH 418/518",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.",
+        "Technical and Digital Skills": [
+            "Understanding of the topology of Euclidean n-space",
+            "Knowledge of vector valued functions",
+            "Understanding of limits, continuity, differentiability and integrability",
+            "Knowledge of pointwise and uniform convergence of sequences and series of functions",
+            "Understanding of Fourier series"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of mathematical problems",
+            "Critical evaluation of mathematical functions and sequences",
+            "Problem solving in real analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Mathematics I: Biomathematics",
+        "courseCode": "MATH 420/520",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Exploring mathematical models in various biological contexts using both difference and differential equations: single and multiple species population growth, predator-prey and competing species (using phase plane analysis), epidemiological models of epidemics and pandemics, tumor growth, pattern formation in animals and insects.",
+        "Technical and Digital Skills": [
+            "Understanding mathematical models in biological contexts",
+            "Applying difference and differential equations",
+            "Analyzing single and multiple species population growth",
+            "Evaluating predator-prey and competing species through phase plane analysis",
+            "Interpreting epidemiological models of epidemics and pandemics",
+            "Assessing tumor growth",
+            "Analyzing pattern formation in animals and insects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex mathematical models in a understandable manner",
+            "Collaborating in the development and application of mathematical models"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex mathematical equations",
+            "Analyzing biological data",
+            "Predicting outcomes based on mathematical models",
+            "Applying problem-solving strategies to biologically relevant mathematical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading mathematical model development projects",
+            "Coordinating the application of mathematical models to real-world scenarios",
+            "Organizing research findings for effective communication"
+        ]
+    },
+    {
+        "courseTitle": "Applied Mathematics II: Mathematical Modeling",
+        "courseCode": "MATH 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The philosophy and methodology of mathematical modeling, its successes and limitations. Topics include models of climate change and atmospheric and ocean dynamics, models in other physical and biological contexts, and an introduction to deterministic chaos.",
+        "Technical and Digital Skills": [
+            "Understanding of mathematical modeling",
+            "Knowledge of climate change and atmospheric and ocean dynamics models",
+            "Understanding of models in physical and biological contexts",
+            "Introduction to deterministic chaos"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex mathematical concepts",
+            "Ability to present modeling results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting mathematical models",
+            "Applying mathematical theories to solve real-world problems",
+            "Ability to evaluate the limitations of mathematical models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Complex Variables",
+        "courseCode": "MATH 422/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Not available to students with credit in MATH 692. Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings. Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.",
+        "Technical and Digital Skills": [
+            "Understanding complex numbers",
+            "Use of analytical functions and their properties",
+            "Performing derivatives, integrals, and series representations",
+            "Application of residues and conformal mappings",
+            "Application of the calculus of residues and mapping techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solution of boundary value problems in physics and engineering",
+            "Logical and mathematical problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Mathematics III: Elasticity",
+        "courseCode": "MATH 427/527",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the mathematical theory of linear and non-linear elastic continua. Topics include vectors, tensors, deformation, stress, nonlinear constitutive theory, exact solutions, infinitesimal theory, antiplane strain, plane strain, plane stress, extension, torsion, bending and elastic wave propagation.",
+        "Technical and Digital Skills": [
+            "Understanding of vectors and tensors",
+            "Deformation analysis",
+            "Stress analysis",
+            "Nonlinear constitutive theory",
+            "Understanding of exact solutions",
+            "Infinitesimal theory",
+            "Antiplane strain analysis",
+            "Plane strain analysis",
+            "Plane stress analysis",
+            "Extension analysis",
+            "Torsion analysis",
+            "Bending analysis",
+            "Elastic wave propagation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Linear and non-linear problem solving",
+            "Analytical thinking in mathematics",
+            "Application of mathematical theory to physical phenomena"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Mathematics IV: Fluid Mechanics",
+        "courseCode": "MATH 428/528",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A mathematical investigation of the differential equations governing fluid flow with an emphasis on steady state incompressible flows. The Navier-Stokes equations are derived and some exact solutions are presented including the potential flow solutions. Topics therefore include classical ideal fluid flow and its complex variable representation, various approximations to the Navier-Stokes equations, boundary layer theory, and also surface and internal gravity wave motion, aspects of hydrodynamic stability theory and convection.  Other topics may be introduced by the instructor.",
+        "Technical and Digital Skills": [
+            "Understanding of the differential equations governing fluid flow",
+            "Knowledge of steady state incompressible flows",
+            "Familiarity with Navier-Stokes equations",
+            "Comprehension of potential flow solutions",
+            "Proficiency in classical ideal fluid flow and its complex variable representation",
+            "Skills in approximations to the Navier-Stokes equations",
+            "Understanding of boundary layer theory",
+            "Knowledge of surface and internal gravity wave motion",
+            "Familiarity with aspects of hydrodynamic stability theory and convection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex mathematical concepts",
+            "Ability to communicate mathematical theories and solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with differential equations",
+            "Analytical skills for solving Navier-Stokes equations",
+            "Understanding and application of boundary layer theory",
+            "Problem-solving skills in hydrodynamic stability theory"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Mathematics in Nature",
+        "courseCode": "MATH 457/557",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A calculus and differential equations based description of many patterns observable in the natural world including wave motion in the air, oceans, rivers, and puddles; rainbows, halos and other meteorological phenomena; arrangement of leaves, petals and branches; height of trees; river meanders; animal and insect markings; mudcracks; spider webs; and others.  Partial differential equations will be discussed as needed but a knowledge of ordinary differential equations will be assumed.",
+        "Technical and Digital Skills": [
+            "Knowledge of calculus",
+            "Understanding and application of differential equations",
+            "Analyzing patterns in nature using mathematics",
+            "Understanding of wave motion",
+            "Partial differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using calculus and differential equations",
+            "Analysis of meteorological phenomena",
+            "Analysis of natural patterns and structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Preparation for Praxis Certification",
+        "courseCode": "MATH 461",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will equip students to pass the Praxis 5161 Mathematics: Content Knowledge Exam. This exam is required for teaching licensure at the secondary Level in Virginia.  Only open to students in the Secondary School Teaching Option in the Math B.S. program who have NOT yet passed the Praxis 5161 Exam.",
+        "Technical and Digital Skills": [
+            "Understanding of secondary level mathematics",
+            "Proficiency in Praxis 5161 Mathematics: Content Knowledge Exam content"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex mathematical problems",
+            "Analyzing mathematical concepts and principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline and self-motivation",
+            "Time management for study and examination preparation"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Mathematics",
+        "courseCode": "MATH 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals.  It offers students an opportunity to apply their knowledge of mathematics to the development of a new product, business, nonprofit program, or other initiative.  The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.  This course is administered as an independent project for individual students, or as group projects.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Product development",
+            "Digital transformation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Collaboration and teamwork",
+            "Presenting innovative solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with mathematical concepts",
+            "Analytical thinking",
+            "Innovation and creativity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in entrepreneurial initiatives",
+            "Independent project execution"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Mathematics",
+        "courseCode": "MATH 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Mathematics",
+        "courseCode": "MATH 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study under the direction of an instructor including library research and reports.",
+        "Technical and Digital Skills": [
+            "Mathematical research",
+            "Using digital libraries",
+            "Creating structured reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Working under supervision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem solving in mathematics",
+            "Critical evaluation of mathematical information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project organization",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "MATH 500",
+        "courseTitle": "History of Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminal ideas in geometry, arithmetic, algebra, analysis and applied mathematics (along with their mathematical representations) from antiquity, the age of exploration, the Promethean age to the present day.",
+        "Technical and Digital Skills": [
+            "Understanding of mathematical representations",
+            "Knowledge of geometry, arithmetic, algebra and analysis",
+            "Application of historical mathematical concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of mathematical problems",
+            "Historical problem solving methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 501",
+        "courseTitle": "Partial Differential Equations",
+        "academicLevel": "graduate",
+        "courseDescription": "Not available to students with credit in MATH 691. Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.",
+        "Technical and Digital Skills": [
+            "Separation of variable techniques",
+            "Understanding of Sturm-Liouville systems",
+            "Knowledge of generalized Fourier series",
+            "Comprehension of orthogonal functions of the trigonometric, Legendre and Bessel type",
+            "Understanding boundary value problems",
+            "Application of wave equation and heat conduction equation in various coordinate systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving with boundary value problems",
+            "Analytical techniques for wave and heat conduction equations",
+            "Application of mathematical concepts to physics and engineering problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 504",
+        "courseTitle": "Fundamental Concepts of Geometry",
+        "academicLevel": "graduate",
+        "courseDescription": "Fundamentals of Euclidean and non-Euclidean geometry.  Alternatives to Euclidean geometry are examined using a variety of mathematical techniques.  Special topics such as 'Taxicab' geometry, the hyperbolic plane, the art of M.C. Escher, and the mathematics of maps may be included.",
+        "Technical and Digital Skills": [
+            "Understanding of Euclidean and non-Euclidean geometry",
+            "Knowledge of mathematical techniques",
+            "Familiarity with 'Taxicab' geometry",
+            "Understanding the hyperbolic plane",
+            "Appreciation of the mathematical aspects of art",
+            "Understanding the mathematics of maps"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Application of mathematical techniques to solve geometry problems",
+            "Critical evaluation of different geometrical concepts",
+            "Ability to relate mathematical concepts with real-world applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 506",
+        "courseTitle": "Number Theory and Discrete Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey course.  Topics include the prime number theorem, congruences, Diophantine equations, continued fractions, quadratic reciprocity, combinatorics, logic, graphs, trees, algorithms, coding and linear programming.",
+        "Technical and Digital Skills": [
+            "Understanding and applying the prime number theorem",
+            "Solving Diophantine equations",
+            "Understanding and using continued fractions",
+            "Applying quadratic reciprocity",
+            "Combinatorics",
+            "Understanding and applying logic principles",
+            "Graph theory",
+            "Tree data structures",
+            "Algorithm development",
+            "Coding",
+            "Linear programming"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex mathematical problems",
+            "Analyzing mathematical patterns and relationships",
+            "Applying algorithms to problem solving",
+            "Critical thinking in mathematical contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 508",
+        "courseTitle": "Applied Numerical Methods I",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the numerical methods commonly used by scientists and engineers. Topics include solutions of equations of one variable, direct methods for solving linear systems, matrix factorization, stability analysis, iterative techniques, polynomial interpolation, numerical  differentiation and integration, approximation theory, and initial and boundary value problems for ordinary differential equations.",
+        "Technical and Digital Skills": [
+            "Solving equations of one variable",
+            "Direct methods for solving linear systems",
+            "Matrix factorization",
+            "Stability analysis",
+            "Iterative techniques",
+            "Polynomial interpolation",
+            "Numerical differentiation and integration",
+            "Approximation theory",
+            "Solving initial and boundary value problems for ordinary differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in solving mathematical problems",
+            "Critical thinking in the application of numerical methods",
+            "Problem-solving using direct and iterative techniques",
+            "Analyzing stability in mathematical systems",
+            "Applying approximation theory to problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 509",
+        "courseTitle": "Applied Numerical Methods II",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include least squares problems, the QR factorization, the conjugate gradient method, Householder transformation and the QR method for approximating eigenvalues and singular values of a matrix.  For applications, the finite difference method and the finite element method for solving partial differential equations, trigonometric interpolation and FFT as well as introductory study of optimization are discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of least squares problems",
+            "Knowledge of QR factorization",
+            "Proficiency in the conjugate gradient method",
+            "Application of Householder transformation",
+            "Utilize the QR method for approximating eigenvalues and singular values of a matrix",
+            "Applying the finite difference method and the finite element method for solving partial differential equations",
+            "Trigonometric interpolation and FFT",
+            "Introductory study of optimization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solving least squares problems",
+            "Applying the QR method for approximating eigenvalues and singular values of a matrix",
+            "Using the finite difference method and the finite element method for solving partial differential equations",
+            "Optimization techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 517",
+        "courseTitle": "Intermediate Real Analysis I",
+        "academicLevel": "graduate",
+        "courseDescription": "A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.",
+        "Technical and Digital Skills": [
+            "Understanding of Euclidean n-space topology",
+            "Knowledge of properties of vector valued functions",
+            "Ability to differentiate and integrate multi-variable functions",
+            "Understanding of pointwise and uniform convergence of sequences and series of functions",
+            "Understanding and application of Fourier series"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing mathematical problems",
+            "Applying theorems to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 518",
+        "courseTitle": "Intermediate Real Analysis II",
+        "academicLevel": "graduate",
+        "courseDescription": "A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.",
+        "Technical and Digital Skills": [
+            "Understanding the topology of Euclidean n-space",
+            "Working with vector valued functions",
+            "Understanding the concepts of limits, continuity, differentiability and integrability",
+            "Understanding pointwise and uniform convergence of sequences and series of functions",
+            "Understanding and applying Fourier series"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex mathematical problems",
+            "Applying real analysis concepts to solve problems",
+            "Critical thinking and logical reasoning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 520",
+        "courseTitle": "Applied Mathematics I: Biomathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploring mathematical models in various biological contexts using both difference and differential equations: single and multiple species population growth, predator-prey and competing species (using phase plane analysis), epidemiological models of epidemics and pandemics, tumor growth, pattern formation in animals and insects.",
+        "Technical and Digital Skills": [
+            "Mathematical modeling",
+            "Understanding of difference and differential equations",
+            "Phase plane analysis",
+            "Epidemiological modeling",
+            "Pattern formation modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of complex mathematical models",
+            "Collaboration on mathematical problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of biological data",
+            "Problem-solving using mathematical models",
+            "Analysis of growth patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing complex mathematical data",
+            "Leading mathematical discussions",
+            "Project management for complex mathematical models"
+        ]
+    },
+    {
+        "courseCode": "MATH 521",
+        "courseTitle": "Applied Mathematics II: Mathematical Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "The philosophy and methodology of mathematical modeling, its successes and limitations. Models of climate change, atmospheric and ocean dynamics, models in other physical and biological contexts, and introduction to deterministic chaos.",
+        "Technical and Digital Skills": [
+            "Understanding of mathematical models",
+            "Knowledge of climate change models",
+            "Knowledge of atmospheric and ocean dynamics models",
+            "Understanding of models in physical and biological contexts",
+            "Introduction to deterministic chaos"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Able to explain complex mathematical models",
+            "Able to communicate limitations and successes of models"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply mathematical models to real-world problems",
+            "Analytical thinking to understand complex dynamics",
+            "Problem solving using deterministic chaos"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 522",
+        "courseTitle": "Applied Complex Variables",
+        "academicLevel": "graduate",
+        "courseDescription": "Not available to students with credit in MATH 692. Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings. Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of complex numbers",
+            "Use of analytical functions and their properties",
+            "Application of derivatives",
+            "Integration techniques",
+            "Use of series representations",
+            "Understanding of residues and conformal mappings",
+            "Application of the calculus of residues",
+            "Use of mapping techniques for solution"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solution of boundary value problems in physics and engineering",
+            "Analyzing and interpreting complex mathematical problems",
+            "Applying mathematical techniques to solve practical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 527",
+        "courseTitle": "Applied Mathematics III: Elasticity",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the mathematical theory of linear and non-linear elastic continua. Topics include vectors, tensors, deformation, stress, nonlinear constitutive theory, exact solutions, infinitesimal theory, antiplane strain, plane strain, plane stress, extension, torsion, bending and elastic wave propagation.",
+        "Technical and Digital Skills": [
+            "Understanding of vectors and tensors",
+            "Knowledge in deformation and stress",
+            "Understanding of nonlinear constitutive theory",
+            "Ability to solve exact equations",
+            "Knowledge of infinitesimal theory",
+            "Understanding of antiplane strain",
+            "Understanding of plane strain and plane stress",
+            "Knowledge in extension, torsion, and bending",
+            "Understanding of elastic wave propagation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze linear and non-linear elastic continua",
+            "Problem-solving in elasticity",
+            "Analytical skills in understanding and applying mathematical theories"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 528",
+        "courseTitle": "Applied Mathematics IV: Fluid Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "A mathematical investigation of the differential equations governing fluid flow with an emphasis on steady state incompressible flows. The Navier-Stokes equations are derived and some exact solutions are presented including the potential flow solutions. Topics therefore include classical ideal fluid flow and its complex variable representation, various approximations to the Navier-Stokes equations, boundary layer theory, and also surface and internal gravity wave motion, aspects of hydrodynamic stability theory and convection.  Other topics may be introduced by the instructor.",
+        "Technical and Digital Skills": [
+            "Understanding of differential equations",
+            "Knowledge of steady state incompressible flows",
+            "Ability to derive Navier-Stokes equations",
+            "Understanding of potential flow solutions",
+            "Proficiency in classical ideal fluid flow",
+            "Understanding of complex variable representation",
+            "Knowledge of approximations to the Navier-Stokes equations",
+            "Understanding of boundary layer theory",
+            "Knowledge of surface and internal gravity wave motion",
+            "Understanding of aspects of hydrodynamic stability theory and convection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to understand and convey complex mathematical concepts",
+            "Collaborative work on problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for solving differential equations",
+            "Ability to solve the Navier-Stokes equations",
+            "Problem-solving skills in fluid mechanics",
+            "Capability to approach problems from various approximations",
+            "Analytical understanding of boundary layer theory"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 557",
+        "courseTitle": "Mathematics in Nature",
+        "academicLevel": "graduate",
+        "courseDescription": "A calculus and differential equations based description of many patterns observable in the natural world including wave motion in the air, oceans, rivers, and puddles; rainbows, halos and other meteorological phenomena; arrangement of leaves, petals and branches; height of trees; river meanders; animal and insect markings; mudcracks; spider webs; and others.  Partial differential equations will be discussed as needed but a knowledge of ordinary differential equations will be assumed.",
+        "Technical and Digital Skills": [
+            "Calculus",
+            "Differential equations",
+            "Understanding of wave motion",
+            "Understanding of meteorological phenomena",
+            "Understanding of biological patterns",
+            "Understanding of geological patterns"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of natural patterns",
+            "Application of mathematical concepts to real-world phenomena"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 598",
+        "courseTitle": "Tutorial Work in Special Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study under the direction of an instructor including library research and reports.",
+        "Technical and Digital Skills": [
+            "Library research methodologies",
+            "Usage of academic databases",
+            "Mathematical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Clear and concise report presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Critical evaluation of mathematical theories or problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline and time management",
+            "Independent project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "MATH 605",
+        "courseTitle": "Complex Variables I",
+        "academicLevel": "graduate",
+        "courseDescription": "An advanced course in complex analysis.",
+        "Technical and Digital Skills": [
+            "Advanced complex analysis",
+            "Mathematical modeling",
+            "Computational problem-solving"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex mathematical problems",
+            "Analytical thinking",
+            "Quantitative reasoning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 616",
+        "courseTitle": "Computational Linear Algebra",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include singular value decomposition, sparse systems, Krylov subspace methods, large sparse eigenvalue problems and iterative methods. This course also covers applications of computational linear algebra in the areas of image compression, data processing and principal component analysis.",
+        "Technical and Digital Skills": [
+            "Understanding of singular value decomposition",
+            "Proficiency in handling sparse systems",
+            "Knowledge of Krylov subspace methods",
+            "Ability to solve large sparse eigenvalue problems",
+            "Expertise in iterative methods",
+            "Application of computational linear algebra in image compression",
+            "Application of computational linear algebra in data processing",
+            "Understanding of principal component analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to decompose problems using singular value decomposition",
+            "Analyzing large sparse eigenvalue problems",
+            "Performing principal component analysis for data processing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 617",
+        "courseTitle": "Measure and Integration",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to measure theory and integration theory with special emphasis on Lebesgue measure and the Lebesgue integral including Fatou's Lemma, the Monotone Convergence Theorem and the Dominated Convergence Theorem.",
+        "Technical and Digital Skills": [
+            "Understanding of measure theory",
+            "Knowledge of integration theory",
+            "Proficiency in Lebesgue measure",
+            "Application of Fatou's Lemma",
+            "Application of the Monotone Convergence Theorem",
+            "Application of the Dominated Convergence Theorem"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in understanding complex mathematical theories",
+            "Problem-solving in applying theorems to practical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 618",
+        "courseTitle": "Applied Functional Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include  orthogonal projections to subspaces, duality, the Hahn-Banach theorem and the Banach-Steinhaus theorem, L-2 spaces and convolution operators, fixed point theory, construction of Hilbert spaces, approximation procedures in Hilbert spaces, and spectral theory.",
+        "Technical and Digital Skills": [
+            "Understanding of orthogonal projections to subspaces",
+            "Knowledge of duality",
+            "Application of the Hahn-Banach theorem and the Banach-Steinhaus theorem",
+            "Working with L-2 spaces and convolution operators",
+            "Understanding of fixed point theory",
+            "Construction of Hilbert spaces",
+            "Execution of approximation procedures in Hilbert spaces",
+            "Understanding and application of spectral theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex mathematical concepts",
+            "Collaboration in mathematical research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with the Hahn-Banach theorem and the Banach-Steinhaus theorem",
+            "Analytical thinking in the context of L-2 spaces and convolution operators",
+            "Analyzing mathematical problems using fixed point theory",
+            "Analytical thinking in the context of Hilbert spaces",
+            "Problem-solving using spectral theory"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 620",
+        "courseTitle": "Optimization Techniques",
+        "academicLevel": "graduate",
+        "courseDescription": "Theory and computational algorithms for the optimization of constrained linear and nonlinear systems or for locating the maximum of a constrained nonlinear function. Applications to problems in economics, operations research and systems theory.",
+        "Technical and Digital Skills": [
+            "Understanding of linear and nonlinear systems",
+            "Knowledge of computational algorithms for optimization",
+            "Application of optimization techniques in economics",
+            "Application of optimization techniques in operations research",
+            "Application of optimization techniques in systems theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in constrained linear and nonlinear systems",
+            "Analytical skills for locating the maximum of a constrained nonlinear function"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 622",
+        "courseTitle": "Numerical Solutions to Differential Equations",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth study of the numerical solution to ordinary and partial differential equations.  Topics include linear multi-step methods, Runge-Kutta methods, stiff differential equations, collocation methods, and strong and weak stability analysis for ODEs.  For PDEs, finite difference methods are examined.",
+        "Technical and Digital Skills": [
+            "Understanding of linear multi-step methods",
+            "Proficiency in Runge-Kutta methods",
+            "Knowledge of stiff differential equations",
+            "Ability to apply collocation methods",
+            "Strong and weak stability analysis for ODEs",
+            "Understanding of finite difference methods for PDEs"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply numerical solutions to ordinary and partial differential equations",
+            "Analytical understanding of ODEs and PDEs",
+            "Problem solving using various numerical methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 632",
+        "courseTitle": "Master’s Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Under the guidance of a faculty member in the Department of Mathematics and Statistics, the student will undertake a significant data analysis problem in a scientific setting outside the department.  A written report and/or public presentation of results will be required.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Scientific computing",
+            "Writing technical reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public presentation of data analysis results",
+            "Collaboration with faculty members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Data interpretation",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent research"
+        ]
+    },
+    {
+        "courseCode": "MATH 637",
+        "courseTitle": "Tensor Calculus and Differential Geometry",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include metric spaces, bilinear and quadratic forms, tensors, point manifolds, theory of curves, geodesic differentiation, theory of surfaces, curvature of general manifolds, integrability.",
+        "Technical and Digital Skills": [
+            "Understanding of metric spaces",
+            "Familiarity with bilinear and quadratic forms",
+            "Knowledge of tensors",
+            "Understanding point manifolds",
+            "Grasping the theory of curves",
+            "Geodesic differentiation",
+            "Comprehension of the theory of surfaces",
+            "Understanding curvature of general manifolds",
+            "Awareness of integrability"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve complex mathematical problems",
+            "Analysis of geometric structures",
+            "Problem-solving in multi-dimensional spaces"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 638",
+        "courseTitle": "Mathematical Theories of Continua",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include deformation, motion, stress,  conservation laws, and constitutive theories.",
+        "Technical and Digital Skills": [
+            "Understanding of deformation theories",
+            "Knowledge of motion theories",
+            "Application of stress theories",
+            "Understanding and application of conservation laws",
+            "Understanding and application of constitutive theories"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving mathematical problems related to continua",
+            "Applying conservation laws to solve problems",
+            "Utilizing mathematical theories for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 691",
+        "courseTitle": "Engineering Analysis I",
+        "academicLevel": "graduate",
+        "courseDescription": "Not available to students with credit in MATH 501.  Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type, boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.",
+        "Technical and Digital Skills": [
+            "Separation of variable techniques",
+            "Sturm-Liouville systems",
+            "Generalized Fourier series",
+            "Orthogonal functions of the trigonometric, Legendre and Bessel type",
+            "Boundary value problems",
+            "Application of wave equation and heat conduction equation in various coordinate systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using mathematical techniques",
+            "Analyzing and solving boundary value problems",
+            "Application of mathematical solutions to physics and engineering problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 692",
+        "courseTitle": "Engineering Analysis II",
+        "academicLevel": "graduate",
+        "courseDescription": "Not available to students with credit in MATH 522.  Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings.  Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of complex numbers",
+            "Knowledge of analytical functions and their properties",
+            "Derivative calculation",
+            "Integral calculation",
+            "Understanding series representations",
+            "Knowledge of residues and conformal mappings",
+            "Application of calculus of residues and mapping techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solution of boundary value problems in physics and engineering",
+            "Application of analytical functions for problem solving",
+            "Use of calculus of residues for problem solving",
+            "Use of mapping techniques for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 693",
+        "courseTitle": "Engineering Analysis III",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in the theory and application of ordinary differential equations, distributions, Green's functions, classification of partial differential equations, initial-value problems, eigenfunction expansions for boundary-value problems, selected special functions, singular perturbation theory for differential equations.",
+        "Technical and Digital Skills": [
+            "Application of ordinary differential equations",
+            "Understanding and application of Green's functions",
+            "Classification of partial differential equations",
+            "Problem-solving with initial-value problems",
+            "Eigenfunction expansions for boundary-value problems",
+            "Understanding and use of selected special functions",
+            "Singular perturbation theory for differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for complex engineering problems",
+            "Implementing problem-solving techniques for boundary-value problems",
+            "Critical evaluation of differential equations",
+            "Analyzing and applying singular perturbation theory"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 695",
+        "courseTitle": "Seminar in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar in advanced topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Advanced topic discussion",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced mathematical problem-solving",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading seminar discussions",
+            "Organizing complex mathematical information"
+        ]
+    },
+    {
+        "courseCode": "MATH 696",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 697",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 702",
+        "courseTitle": "Integral Equations",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced material in theory and application of integral equations. Formulation of the integral equation problems, cause and effect, connection with differential equations, scattering theory, boundary values of partial differential equations, Fredholm and Volterra theory, expansions in orthogonal functions, theory of Hilbert-Schmidt singular integral equations, method of Wiener-Hopf, monotone operator theory, and direct methods.",
+        "Technical and Digital Skills": [
+            "Formulating integral equation problems",
+            "Understanding of differential equations",
+            "Knowledge in scattering theory",
+            "Understanding of boundary values of partial differential equations",
+            "Proficiency in Fredholm and Volterra theory",
+            "Creating expansions in orthogonal functions",
+            "Understanding of Hilbert-Schmidt singular integral equations",
+            "Proficiency in Wiener-Hopf method",
+            "Understanding of monotone operator theory",
+            "Applying direct methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cause and effect in integral equation problems",
+            "Problem-solving with integral equations",
+            "Applying the theory and application of integral equations",
+            "Analyzing and applying boundary values in partial differential equations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 721",
+        "courseTitle": "Advanced Applied Numerical Methods I",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.",
+        "Technical and Digital Skills": [
+            "Numerical solutions of partial differential equations",
+            "Numerical solutions of integral equations",
+            "Finite difference method",
+            "Finite element method",
+            "Boundary element method",
+            "Galerkin methods",
+            "Collocation methods",
+            "Petrov-Galerkin method",
+            "Understanding of a priori and a posteriori error estimates"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex numerical data",
+            "Identifying and rectifying errors in numerical methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 722",
+        "courseTitle": "Advanced Applied Numerical Methods II",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.",
+        "Technical and Digital Skills": [
+            "Numerical solution of partial differential equations",
+            "Application of finite difference method",
+            "Application of finite element method",
+            "Application of boundary element method",
+            "Understanding of a priori and a posteriori error estimates",
+            "Numerical solution of integral equations",
+            "Application of Galerkin methods",
+            "Application of collocation methods",
+            "Application of Petrov-Galerkin method"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and estimating errors in numerical solutions",
+            "Choosing and applying appropriate numerical methods for solving equations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 725",
+        "courseTitle": "Computational Fluid Dynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory of finite volume methods for scalar and vector conservation laws and the Euler and Navier-Stokes equations. Topics include weak solutions, characteristics, Rankine-Hugoniot conditions, energy and entropy inequalities, Riemann solvers, and numerical methods for compressible and incompressible flows including MUSCL and total variation diminishing (TVD) schemes, essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme.",
+        "Technical and Digital Skills": [
+            "Understanding of finite volume methods",
+            "Knowledge of scalar and vector conservation laws",
+            "Ability to work with Euler and Navier-Stokes equations",
+            "Understanding of weak solutions, characteristics, Rankine-Hugoniot conditions",
+            "Knowledge of energy and entropy inequalities",
+            "Skills in using Riemann solvers",
+            "Understanding of numerical methods for compressible and incompressible flows",
+            "Proficiency in MUSCL and total variation diminishing (TVD) schemes",
+            "Understanding of essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze scalar and vector conservation laws",
+            "Skills in problem solving using Euler and Navier-Stokes equations",
+            "Ability to interpret and analyze weak solutions, characteristics, Rankine-Hugoniot conditions",
+            "Analytical skills for understanding energy and entropy inequalities",
+            "Problem solving skills using Riemann solvers",
+            "Analytical ability to work with numerical methods for compressible and incompressible flows",
+            "Problem solving skills in MUSCL and total variation diminishing (TVD) schemes",
+            "Analytical skills for understanding essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 726",
+        "courseTitle": "Discontinuous Galerkin Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory of nodal discontinuous Galerkin (DG) methods for solving linear and nonlinear conservation law equations. Topics include fundamental properties of conservation laws including their ability to generate non-smooth solutions, thus leading to the notion of weak solutions and entropy inequalities, consistency and stability properties of nodal DG methods as well as their efficient implementation techniques, and application of nodal DG methods for solving both linear and nonlinear equations, such as the advection-diffusion, Burgers, and Navier-Stokes equations.",
+        "Technical and Digital Skills": [
+            "Understanding of linear and nonlinear conservation law equations",
+            "Knowledge of discontinuous Galerkin (DG) methods",
+            "Efficient implementation techniques for nodal DG methods",
+            "Application of nodal DG methods for solving linear and nonlinear equations",
+            "Solving advection-diffusion, Burgers, and Navier-Stokes equations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Generating and handling non-smooth solutions",
+            "Understanding and applying the notion of weak solutions and entropy inequalities",
+            "Analyzing the consistency and stability properties of nodal DG methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 745",
+        "courseTitle": "Transform Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Use of integral transforms for students of applied mathematics, physics and engineering. Integral transforms studied are Laplace, Fourier, Hankel, finite Z-transforms and other special transforms.",
+        "Technical and Digital Skills": [
+            "Understanding and application of integral transforms",
+            "Knowledge of Laplace, Fourier, Hankel, finite Z-transforms and other special transforms",
+            "Applied mathematics",
+            "Physics and engineering principles"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing mathematical, physical and engineering problems",
+            "Application of specific transforms to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 750",
+        "courseTitle": "Calculus of Variations",
+        "academicLevel": "graduate",
+        "courseDescription": "Maximum and minimum techniques in calculus and dynamic programming. Derivation of Euler-Lagrange equations for a variety of conditions, formulation of extremum problems with side conditions for ordinary and partial differential equations. Application to dynamics, elasticity, heat and mass transfer, energy principles and finite element techniques.",
+        "Technical and Digital Skills": [
+            "Application of maximum and minimum techniques in calculus",
+            "Derivation of Euler-Lagrange equations",
+            "Formulation of extremum problems with side conditions for ordinary and partial differential equations",
+            "Understanding of dynamic programming",
+            "Application to dynamics, elasticity, heat and mass transfer, energy principles",
+            "Application of finite element techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing various conditions for derivation of Euler-Lagrange equations",
+            "Solution formulation for extremum problems with side conditions",
+            "Problem-solving in dynamics, elasticity, heat and mass transfer, energy principles"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 755",
+        "courseTitle": "Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics I",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to provide an introduction to kinetic theory and nonequilibrium statistical mechanics, which bridges the microscopic theories and the macroscopic continuum theories of flows. Topics include the molecular dynamics of N particles, Hamiltonian equation, Liouville equation, Boltzmann equation, binary collision, linearized collision operator and its eigen theory, the H-theorem and irreversibility, calculation of the transport coefficients.",
+        "Technical and Digital Skills": [
+            "Understanding of kinetic theory",
+            "Knowledge of nonequilibrium statistical mechanics",
+            "Understanding of macroscopic continuum theories of flows",
+            "Understanding of molecular dynamics of N particles",
+            "Knowledge of Hamiltonian equation",
+            "Understanding of Liouville equation",
+            "Ability to interpret Boltzmann equation",
+            "Understanding of binary collision",
+            "Knowledge of linearized collision operator and its eigen theory",
+            "Understanding of the H-theorem and irreversibility",
+            "Ability to calculate the transport coefficients"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex scientific theories",
+            "Solving problems using kinetic theory",
+            "Analyzing and interpreting complex mathematical equations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to organize and comprehend complex scientific information",
+            "Ability to lead discussions on theoretical concepts"
+        ]
+    },
+    {
+        "courseCode": "MATH 756",
+        "courseTitle": "Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics II",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the second part of the study of the interaction between kinetic theory and nonequilibrium statistical mechanics. Models of Boltzmann equation and numerical techniques for hydrodynamic equations (Euler and Navier-Stokes equations) and the Boltzmann equation are studied. Topics include Non-normal and moment method, Maxwell's moment method, BGK model equation, gas mixtures and transport phenomena in mixtures, the Wang-Chang-Uhlenbeck equation, Enskog equation for dense gases, the lattice Boltzmann equation for incompressible flows, the gas-kinetic scheme for compressible flows and the Direct Simulation Monte Carlo (DSMC) method.",
+        "Technical and Digital Skills": [
+            "Understanding kinetic theory",
+            "Application of nonequilibrium statistical mechanics",
+            "Numerical techniques for hydrodynamic equations",
+            "Understanding and applying models of Boltzmann equation",
+            "Applying Non-normal and moment method",
+            "Understanding Maxwell's moment method",
+            "Dealing with gas mixtures and transport phenomena in mixtures",
+            "Understanding the Wang-Chang-Uhlenbeck equation",
+            "Applying the Enskog equation for dense gases",
+            "Working with the lattice Boltzmann equation for incompressible flows",
+            "Applying the gas-kinetic scheme for compressible flows",
+            "Using the Direct Simulation Monte Carlo (DSMC) method"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex mathematical models",
+            "Problem-solving in kinetic theory and statistical mechanics",
+            "Critical evaluation of numerical techniques and equations"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 771",
+        "courseTitle": "Scientific Computing in Applied Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical methods for algebraic systems, partial differential equations, integral equations, optimization, Monte Carlo method, and statistics, with emphasis on computational performance using modern programming languages such as Fortran 90 or C/C++ and modern computer architecture. Basic techniques of parallel computing using MPI (Message Passing Interface), openMP, or other distributed/multicore computing platforms. Common tools in scientific computing, such as Unix shell commands, debuggers, version control systems, scientific libraries, graphics and visualization, will also be introduced.",
+        "Technical and Digital Skills": [
+            "Understanding and application of numerical methods for algebraic systems, partial differential equations, integral equations, optimization, Monte Carlo method, and statistics",
+            "Proficiency in modern programming languages such as Fortran 90 or C/C++",
+            "Understanding and application of basic techniques of parallel computing using MPI (Message Passing Interface), openMP, or other distributed/multicore computing platforms",
+            "Proficiency in Unix shell commands",
+            "Debugging skills",
+            "Proficiency in version control systems",
+            "Understanding and application of scientific libraries",
+            "Proficiency in graphics and visualization tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to collaborate on shared computing platforms",
+            "Ability to effectively communicate technical issues and solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyse and optimize computational performance",
+            "Ability to solve complex mathematical problems using numerical methods",
+            "Ability to troubleshoot and debug issues in code"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and maintain version control systems",
+            "Ability to organize and perform tasks on Unix shell"
+        ]
+    },
+    {
+        "courseCode": "MATH 795",
+        "courseTitle": "Seminar in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar in advanced topics.",
+        "Technical and Digital Skills": [
+            "Advanced mathematical techniques",
+            "Use of mathematical software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of advanced mathematical topics",
+            "Peer review of mathematical solutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex mathematical problems",
+            "Analysis of mathematical proofs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading mathematical discussions",
+            "Organizing mathematical research"
+        ]
+    },
+    {
+        "courseCode": "MATH 796",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Advanced problem-solving",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 797",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to understand complex mathematical concepts",
+            "Applying mathematical principles to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 801",
+        "courseTitle": "Asymptotic and Perturbation Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Asymptotic and perturbation methods are developed and used to solve linear and nonlinear differential equations. Included are analyses of Duffing's Equation, Van der Pol's Equation, and Mathieu's Equation. Singular perturbation theory and the Method of Matched Asymptotic Expansions are used to solve equations with boundary layer type solutions. Asymptotic expansions of integrals using Laplace's Method, Method of Steepest Descent and Method of Stationary Phase are developed. Applications from all areas of applied mathematics are given.",
+        "Technical and Digital Skills": [
+            "Application of asymptotic and perturbation methods",
+            "Solving linear and nonlinear differential equations",
+            "Analysis of Duffing's Equation, Van der Pol's Equation, and Mathieu's Equation",
+            "Application of Singular perturbation theory and the Method of Matched Asymptotic Expansions",
+            "Asymptotic expansions of integrals using Laplace's Method, Method of Steepest Descent and Method of Stationary Phase"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve equations with boundary layer type solutions",
+            "Analytical thinking for solving complex mathematical equations",
+            "Problem-solving in applied mathematics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 802",
+        "courseTitle": "Integral Equations",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced material in theory and application of integral equations. Formulation of the integral equation problems cause and effect, connection with differential equations, scattering theory, boundary values of partial differential equations, Fredholm and Volterra theory, expansions in orthogonal functions, theory of Hilbert-Schmidt singular integral equations, method of Wiener-Hopf, monotone operator theory, and direct methods.",
+        "Technical and Digital Skills": [
+            "Formulation of integral equations",
+            "Understanding of scattering theory",
+            "Knowledge in boundary values of partial differential equations",
+            "Understanding of Fredholm and Volterra theory",
+            "Ability to perform expansions in orthogonal functions",
+            "Understanding of Hilbert-Schmidt singular integral equations",
+            "Application of Wiener-Hopf method",
+            "Understanding of monotone operator theory",
+            "Ability to apply direct methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cause and effect in integral equation problems",
+            "Connecting integral equations with differential equations",
+            "Solving complex mathematical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 803",
+        "courseTitle": "Advanced Applied Mathematics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced techniques of mathematics applied to specific topics of physical interest. Examples could include high activation energy asymptotics applied to combustion, singular integral equations applied to fracture mechanics, or bifurcation theory applied to non-linear phenomena such as transition to turbulence, phase transitions and hydrodynamic stability.",
+        "Technical and Digital Skills": [
+            "Understanding of high activation energy asymptotics",
+            "Knowledge of singular integral equations",
+            "Application of bifurcation theory",
+            "Interpretation of non-linear phenomena such as transition to turbulence, phase transitions and hydrodynamic stability"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply advanced mathematical techniques to physical problems",
+            "Analysis of complex mathematical phenomena",
+            "Problem solving in combustion, fracture mechanics, turbulence, phase transitions and hydrodynamic stability"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 804",
+        "courseTitle": "Advanced Applied Mathematics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced techniques of mathematics applied to specific topics of physical interest. Examples could include high activation energy asymptotics applied to combustion, singular integral equations applied to fracture mechanics, or bifurcation theory applied to non-linear phenomena such as transition to turbulence, phase transitions and hydrodynamic stability.",
+        "Technical and Digital Skills": [
+            "High activation energy asymptotics",
+            "Singular integral equations",
+            "Bifurcation theory",
+            "Analysis of non-linear phenomena"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Application of mathematical techniques to physical topics",
+            "Understanding and analysis of combustion, fracture mechanics, phase transitions, and hydrodynamic stability",
+            "Analysis of transition to turbulence"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 821",
+        "courseTitle": "Advanced Applied Numerical Methods I",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.",
+        "Technical and Digital Skills": [
+            "Numerical solutions of partial differential equations",
+            "Numerical solutions of integral equations",
+            "Finite difference method",
+            "Finite element method",
+            "Boundary element method",
+            "Galerkin methods",
+            "Collocation methods",
+            "Petrov-Galerkin method"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "A priori and a posteriori error estimates",
+            "Analyzing numerical solutions",
+            "Problem solving with different numerical methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 822",
+        "courseTitle": "Advanced Applied Numerical Methods II",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.",
+        "Technical and Digital Skills": [
+            "Numerical solutions of partial differential equations",
+            "Understanding of finite difference method",
+            "Mastery of finite element method",
+            "Knowledge of boundary element method",
+            "Galerkin methods for integral equations",
+            "Collocation methods for integral equations",
+            "Petrov-Galerkin method"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of a priori and a posteriori error estimates",
+            "Application of numerical methods to solve complex equations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 823",
+        "courseTitle": "Approximation and Optimization I",
+        "academicLevel": "graduate",
+        "courseDescription": "Introductory and advanced topics representing current research in approximation and optimization techniques for various application problems.  Topics include recent developments in algorithms, their analysis, and applications such as data fitting and pattern separation.",
+        "Technical and Digital Skills": [
+            "Understanding of approximation and optimization techniques",
+            "Familiarity with algorithms and their analysis",
+            "Application of techniques to data fitting and pattern separation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and implementing algorithms",
+            "Problem-solving using approximation and optimization techniques",
+            "Analytical thinking for data fitting and pattern separation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 825",
+        "courseTitle": "Computational Fluid Dynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory of finite volume methods for scalar and vector conservation laws and the Euler and Navier-Stokes equations. Topics include weak solutions, characteristics, Rankine-Hugoniot conditions, energy and entropy inequalities, Riemann solvers, and numerical methods for compressible and incompressible flows including MUSCL and total variation diminishing (TVD) schemes, essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme.",
+        "Technical and Digital Skills": [
+            "Understanding of finite volume methods",
+            "Knowledge of scalar and vector conservation laws",
+            "Understanding of Euler and Navier-Stokes equations",
+            "Application of weak solutions",
+            "Understanding of Rankine-Hugoniot conditions",
+            "Understanding of energy and entropy inequalities",
+            "Application of Riemann solvers",
+            "Use of numerical methods for compressible and incompressible flows",
+            "Understanding of MUSCL and total variation diminishing (TVD) schemes",
+            "Understanding of essentially non-oscillatory (ENO), weighted ENO, and entropy stable schemes"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of fluid dynamics problems",
+            "Application and interpretation of numerical methods",
+            "Problem-solving with conservation laws",
+            "Analyzing and interpreting data from MUSCL and TVD schemes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 826",
+        "courseTitle": "Discontinuous Galerkin Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory of nodal discontinuous Galerkin (DG) methods for solving linear and nonlinear conservation law equations. Topics include fundamental properties of conservation laws including their ability to generate non-smooth solutions, thus leading to the notion of weak solutions and entropy inequalities, consistency and stability properties of nodal DG methods as well as their efficient implementation techniques, and application of nodal DG methods for solving both linear and nonlinear equations, such as the advection-diffusion, Burgers, and Navier-Stokes equations.",
+        "Technical and Digital Skills": [
+            "Understanding of nodal discontinuous Galerkin (DG) methods",
+            "Solving linear and nonlinear conservation law equations",
+            "Application of nodal DG methods for solving linear and nonlinear equations, such as the advection-diffusion, Burgers, and Navier-Stokes equations",
+            "Efficient implementation techniques of nodal DG methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding fundamental properties of conservation laws",
+            "Comprehending weak solutions and entropy inequalities",
+            "Consistency and stability properties of nodal DG methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MATH 845",
+        "courseTitle": "Transform Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Use of integral transforms for students of applied mathematics, physics and engineering. Integral transforms studied are Laplace, Fourier, Hankel, finite Z-transforms and other special transforms.",
+        "Technical and Digital Skills": [
+            "Use of integral transforms",
+            "Application of Laplace transform",
+            "Application of Fourier transform",
+            "Application of Hankel transform",
+            "Understanding finite Z-transforms",
+            "Understanding of other special transforms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of mathematical, physics and engineering problems using integral transforms",
+            "Application of different transforms for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 850",
+        "courseTitle": "Calculus of Variations",
+        "academicLevel": "graduate",
+        "courseDescription": "Maximum and minimum techniques in calculus and dynamic programming. Derivation of Euler-Lagrange equations for a variety of conditions, formulation of extremum problems with side conditions for ordinary and partial differential equations. Application to dynamics, elasticity, heat and mass transfer, energy principles and finite element techniques.",
+        "Technical and Digital Skills": [
+            "Derivation of Euler-Lagrange equations",
+            "Formulation of extremum problems",
+            "Understanding of calculus and dynamic programming techniques",
+            "Application of finite element techniques",
+            "Knowledge of ordinary and partial differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification and application of maximum and minimum techniques",
+            "Problem formulation with side conditions",
+            "Application of calculus techniques to real-world problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 855",
+        "courseTitle": "Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics I",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to provide an introduction to kinetic theory and nonequilibrium statistical mechanics, which bridges the microscopic theories and the macroscopic continuum theories of flows. Topics include the molecular dynamics of N particles, Hamiltonian equation, Liouville equation, Boltzmann equation, binary collision, linearized collision operator and its eigen theory, the H-theorem and irreversibility, calculation of the transport coefficients.",
+        "Technical and Digital Skills": [
+            "Understanding of kinetic theory",
+            "Knowledge of nonequilibrium statistical mechanics",
+            "Knowledge of molecular dynamics of N particles",
+            "Understanding of Hamiltonian equation",
+            "Understanding of Liouville equation",
+            "Understanding of Boltzmann equation",
+            "Understanding of binary collision",
+            "Understanding of linearized collision operator and its eigen theory",
+            "Understanding of H-theorem and irreversibility",
+            "Calculation of the transport coefficients"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving skills through understanding complex equations",
+            "Analytical skills to interpret and calculate transport coefficients",
+            "Logical thought process to understand irreversibility and the H-theorem"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 856",
+        "courseTitle": "Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics II",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the second part of the study of the interaction between kinetic theory and nonequilibrium statistical mechanics. Models of Boltzmann equation and numerical techniques for hydrodynamic equations (Euler and Navier-Stokes equations) and the Boltzmann equation are studied. Topics include Non-normal and moment method, Maxwell's moment method, BGK model equation, gas mixtures and transport phenomena in mixtures, the Wang-Chang-Uhlenbeck equation, Enskog equation for dense gases, the lattice Boltzmann equation for incompressible flows, the gas-kinetic scheme for compressible flows and the Direct Simulation Monte Carlo (DSMC) method.",
+        "Technical and Digital Skills": [
+            "Understanding of kinetic theory",
+            "Numerical techniques for hydrodynamic equations",
+            "Knowledge of Boltzmann equation",
+            "Proficiency in non-normal and moment method",
+            "Maxwell's moment method application",
+            "Working with BGK model equation",
+            "Comprehension of gas mixtures and transport phenomena in mixtures",
+            "Application of Wang-Chang-Uhlenbeck equation",
+            "Utilization of Enskog equation for dense gases",
+            "Lattice Boltzmann equation for incompressible flows",
+            "Gas-kinetic scheme for compressible flows",
+            "Direct Simulation Monte Carlo (DSMC) method implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex theoretical concepts",
+            "Working collaboratively on numerical problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of nonequilibrium statistical mechanics",
+            "Problem-solving in kinetic theory",
+            "Analyzing hydrodynamic equations",
+            "Applying numerical techniques to real-world situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing computational mechanics projects",
+            "Coordinating in studying complex numerical techniques"
+        ]
+    },
+    {
+        "courseCode": "MATH 871",
+        "courseTitle": "Scientific Computing in Applied Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Numerical methods for algebraic systems, partial differential equations, integral equations, optimization, Monte Carlo method, and statistics, with emphasis on computational performance using modern programming languages such as Fortran 90 or C/C++ and modern computer architecture. Basic techniques of parallel computing using MPI (Message Passing Interface), openMP, or other distributed/multicore computing platforms. Common tools in scientific computing, such as Unix shell commands, debuggers, version control systems, scientific libraries, graphics and visualization, will also be introduced.",
+        "Technical and Digital Skills": [
+            "Numerical methods for algebraic systems",
+            "Partial differential equations",
+            "Integral equations",
+            "Optimization",
+            "Monte Carlo method",
+            "Statistics",
+            "Computational performance with modern programming languages such as Fortran 90 or C/C++",
+            "Understanding modern computer architecture",
+            "Parallel computing using MPI (Message Passing Interface)",
+            "Using openMP",
+            "Distributed/multicore computing platforms",
+            "Unix shell commands",
+            "Using debuggers",
+            "Version control systems",
+            "Scientific libraries",
+            "Graphics and visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving algebraic systems",
+            "Solving partial differential equations",
+            "Solving integral equations",
+            "Applying Monte Carlo method",
+            "Statistical analysis",
+            "Optimization techniques",
+            "Debugging code",
+            "Version control"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing computational resources",
+            "Leading parallel computing projects",
+            "Using version control systems"
+        ]
+    },
+    {
+        "courseCode": "MATH 896",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Advanced problem-solving techniques",
+            "Critical evaluation of mathematical concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 897",
+        "courseTitle": "Topics in Mathematics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Advanced mathematical problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Maintaining active participation in academic community",
+            "Regular communication with academic advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed learning",
+            "Long-term project planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Project management"
+        ]
+    }
+]

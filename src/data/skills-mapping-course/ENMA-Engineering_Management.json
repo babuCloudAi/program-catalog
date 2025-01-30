@@ -1,0 +1,2471 @@
+[
+    {
+        "courseTitle": "Introduction to Engineering Management",
+        "courseCode": "ENMA 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to principles of management and organizational behavior as they apply to the engineering profession.  Special emphasis on team building, quality leadership and planning, handling personnel issues, and marketing technology.  Group exercises, case studies, and extensive writing and speaking assignments.",
+        "Technical and Digital Skills": [
+            "Marketing technology",
+            "Quality leadership principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team building",
+            "Writing and speaking assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Personnel issue handling",
+            "Planning and organizing group exercises"
+        ]
+    },
+    {
+        "courseTitle": "Engineering Economics",
+        "courseCode": "ENMA 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to cost estimation, accounting and financial metrics.  Valuation techniques, time value of money, and cash flow analysis.  Economic analysis of engineering alternatives including depreciation effects, income taxes, inflation, engineering management capital budgeting of projects, portfolio and public sector projects.",
+        "Technical and Digital Skills": [
+            "Financial modeling",
+            "Cost estimation techniques",
+            "Cash flow analysis",
+            "Valuation techniques",
+            "Time value of money calculations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data",
+            "Collaborating on engineering financial projects",
+            "Effective communication of financial metrics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic analysis of engineering alternatives",
+            "Capital budgeting for engineering projects",
+            "Analyzing depreciation effects",
+            "Income tax implications on engineering projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Engineering management of financial projects",
+            "Portfolio management of engineering investments",
+            "Understanding public sector project economics"
+        ]
+    },
+    {
+        "courseTitle": "Project Management",
+        "courseCode": "ENMA 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Foundations, principles, methods, and tools for effective design and management of projects in technology-based organizations.  Project organization, life cycle, planning, scheduling, implementation, control, and evaluation.  Special emphasis on project leadership, problem solving in team-based projects, project failure analysis, and advanced methods.  Use of case studies and applications to reinforce course concepts.  Students design and plan a project from concept through completion including proposal and post-project analysis.",
+        "Technical and Digital Skills": [
+            "Project management software proficiency",
+            "Risk assessment tools usage",
+            "Resource allocation software utilization",
+            "Gantt chart creation and interpretation",
+            "Budgeting software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication strategies",
+            "Conflict resolution techniques in project teams",
+            "Stakeholder management skills",
+            "Presentation skills for project proposals and updates"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis in project failure scenarios",
+            "Risk mitigation strategies development",
+            "Critical path analysis for project scheduling optimization",
+            "Data-driven decision-making using project metrics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team leadership in project settings",
+            "Project scope management techniques",
+            "Change management strategies in project implementation",
+            "Time management for project milestones and deadlines"
+        ]
+    },
+    {
+        "courseTitle": "Agile Project Management",
+        "courseCode": "ENMA 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses the management of projects using an agile approach to respond to the continuous changes that affect project capabilities and performance. Although any project can be manage using agile project management, projects with high degree of uncertainty obtain the most benefits from this approach (e.g., R&D projects). The course covers Scrum and expands it by articulating the human and business factors that make successful agile project management. Case studies and/or short-projects are required.",
+        "Technical and Digital Skills": [
+            "Scrum methodology",
+            "Agile project management tools (e.g., Jira)",
+            "Product backlog management",
+            "Sprint planning and execution",
+            "Continuous integration/continuous deployment (CI/CD) practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication in agile environments",
+            "Stakeholder management in agile projects",
+            "Facilitation of agile ceremonies (e.g., daily stand-ups, sprint reviews)",
+            "Conflict resolution within agile teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment and mitigation in agile projects",
+            "User story mapping and prioritization techniques",
+            "Root cause analysis for project impediments in agile settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Empowering self-organizing teams in agile projects",
+            "Setting clear project goals and objectives in agile frameworks",
+            "Adapting project scope and priorities based on changing requirements",
+            "Coaching and mentoring team members in agile practices"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Systems Engineering",
+        "courseCode": "ENMA 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduces the principles, concepts and process of systems engineering.  Examination of problem formulation, analysis, and interpretation as they apply to the study of complex systems.  Emphasizes the design nature of systems engineering problem solving, and includes case studies stressing realistic problems.  Development of system requirements, system objectives, and the evaluation of system alternatives.",
+        "Technical and Digital Skills": [
+            "System requirements analysis",
+            "System design",
+            "Case study analysis",
+            "Evaluation of system alternatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective problem formulation communication",
+            "Case study discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem interpretation for complex systems",
+            "Systematic problem-solving approach"
+        ],
+        "Organizational and Leadership Skills": [
+            "System objectives development",
+            "Realistic problem-solving skills"
+        ]
+    },
+    {
+        "courseTitle": "Statistical Concepts in Engineering Management",
+        "courseCode": "ENMA 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to  concepts and techniques in probability and statistics, including descriptive and inferential statistics.  Topics include fundamentals of probability, distributions, estimation, hypothesis testing, regression, process control, and reliability.  Applications include engineering design and analysis, manufacturing, decision aids, and quality management problems.",
+        "Technical and Digital Skills": [
+            "Probability concepts",
+            "Statistical distributions analysis",
+            "Hypothesis testing techniques",
+            "Regression analysis methods",
+            "Process control principles",
+            "Reliability analysis strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting statistical findings",
+            "Collaborating on data analysis projects",
+            "Explaining statistical concepts to non-technical team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing statistical experiments",
+            "Interpreting statistical results",
+            "Identifying quality management issues using statistical methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing statistical projects",
+            "Leading decision-making processes using statistical insights",
+            "Implementing statistical process improvements in engineering practices"
+        ]
+    },
+    {
+        "courseTitle": "Decision Techniques in Engineering",
+        "courseCode": "ENMA 421",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A systematic approach to the formulation of problems, the generation and evaluation of alternatives, and the selection and implementation of courses of action applied to engineering design, manufacturing, and management decisions. Topics include: goals and objectives; variables and relations; constraints and feasibility; uncertainty and risk; models and optimization; data and information; analysis and simulation. Case studies requiring oral presentations and written reports are used to emphasize concepts and systems analysis.",
+        "Technical and Digital Skills": [
+            "Systematic problem formulation",
+            "Generation and evaluation of alternatives",
+            "Selection and implementation of courses of action",
+            "Engineering design",
+            "Manufacturing decision-making",
+            "Management decision-making",
+            "Models and optimization",
+            "Data analysis and simulation",
+            "Risk assessment",
+            "Feasibility analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentations of case studies",
+            "Written reports on decision-making processes",
+            "Effective communication of concepts and systems analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Analysis of variables and relations",
+            "Identification of constraints",
+            "Uncertainty management",
+            "Optimization techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering contexts",
+            "Team collaboration in decision-making processes"
+        ]
+    },
+    {
+        "courseTitle": "Risk Analysis in Engineering Management",
+        "courseCode": "ENMA 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The systematic approach to analysis of risk as applied to engineering management with emphasis on cyber systems. The objectives of this course are (1) to gain an appreciation of the strategic importance of risk analysis and its relationship to other enterprise and engineering functions and (2) to develop a working knowledge of the concepts and methods in risk analysis as they may apply to cyber systems.",
+        "Technical and Digital Skills": [
+            "Risk analysis methodologies",
+            "Cyber systems analysis",
+            "Information security in engineering",
+            "Data encryption techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of risk analysis findings",
+            "Collaboration with cross-functional teams on risk mitigation strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber system vulnerabilities",
+            "Identification of potential risk factors in engineering projects",
+            "Development of risk mitigation plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for risk analysis initiatives",
+            "Decision-making under uncertainty in engineering management"
+        ]
+    },
+    {
+        "courseTitle": "Ethics and Philosophy in Engineering Applications",
+        "courseCode": "ENMA 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to expose prospective engineering managers the theories and practices that are inherent in the ethical environment of modern organizations.  Topics include definitions of ethical behavior and leadership, the history of ethical thought, moral decision-making, and the importance of values such as honesty, integrity, and trustworthiness.  A full exploration of ethical autonomy, collaboration, communication and moral imagination will be conducted.  A variety of methods will be used to facilitate learning, including a textbook, movie and videos, case studies, experiential activities and writing assignments.  The successful student should gain a full appreciation for the value and practices of ethical leadership.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ethical principles",
+            "Facilitating ethical discussions in a group setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ethical dilemmas",
+            "Application of ethical theories to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making in leadership roles",
+            "Creating and maintaining an ethical work culture"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Engineering Management",
+        "courseCode": "ENMA 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics with emphasis placed on the recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Recent developments in engineering management",
+            "Technology integration in management practices",
+            "Data-driven decision-making in engineering projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with technical and non-technical team members",
+            "Presenting complex engineering concepts to stakeholders",
+            "Negotiation skills for project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of emerging technologies in engineering management",
+            "Root cause analysis for project delays",
+            "Risk assessment and mitigation strategies in engineering projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for engineering teams",
+            "Change management in engineering organizations",
+            "Conflict resolution within cross-functional teams"
+        ]
+    },
+    {
+        "courseCode": "ENMA 510",
+        "courseTitle": "Agile Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses the management of projects using an agile approach to respond to the continuous changes that affect project capabilities and performance. Although any project can be manage using agile project management, projects with high degree of uncertainty obtain the most benefits from this approach (e.g., R&D projects). The course covers Scrum and expands it by articulating the human and business factors that make successful agile project management. Case studies and/or short-projects are required.",
+        "Technical and Digital Skills": [
+            "Scrum framework implementation",
+            "Agile project management tools (e.g., Jira)",
+            "Continuous integration/Continuous deployment (CI/CD)",
+            "Risk assessment and management in agile projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration in agile environments",
+            "Stakeholder communication and engagement in agile projects",
+            "Conflict resolution within agile teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation to changing project requirements in agile settings",
+            "Identifying and addressing project bottlenecks in agile methodologies",
+            "Root cause analysis in agile project failures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating and maintaining agile project schedules",
+            "Empowering self-organizing agile teams",
+            "Facilitating agile retrospectives for continuous improvement"
+        ]
+    },
+    {
+        "courseCode": "ENMA 515",
+        "courseTitle": "Introduction to Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces the principles, concepts and process of systems engineering.  Examination of problem formulation, analysis, and interpretation as they apply to the study of complex systems.  Emphasizes the design nature of systems engineering problem solving, and includes case studies stressing realistic problems.  Development of system requirements, system objectives, and the evaluation of system alternatives.",
+        "Technical and Digital Skills": [
+            "Systems design principles",
+            "Problem formulation techniques",
+            "System requirements development",
+            "Evaluation of system alternatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Case study analysis",
+            "Effective communication of complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in system analysis",
+            "Interpretation of complex systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in systems engineering",
+            "Decision-making in system design"
+        ]
+    },
+    {
+        "courseCode": "ENMA 595",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics with emphasis placed on the recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Project management tools utilization",
+            "Data analytics software proficiency",
+            "Risk assessment techniques in engineering projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication strategies",
+            "Conflict resolution in engineering teams",
+            "Presentation skills for engineering proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis in engineering failures",
+            "Decision-making frameworks in engineering management",
+            "Problem-solving methodologies in project delays"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in engineering organizations",
+            "Change management in engineering projects",
+            "Team motivation and empowerment techniques"
+        ]
+    },
+    {
+        "courseCode": "ENMA 600",
+        "courseTitle": "Cost Estimating and Financial Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the monetary aspects of engineering projects, including accounting principles; financial reports and analysis; capital budgeting; cost estimation and control; inventory management; depreciation; investment decisions.  Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed.  Case studies and a term project are required.",
+        "Technical and Digital Skills": [
+            "Accounting principles",
+            "Financial reports analysis",
+            "Capital budgeting",
+            "Cost estimation and control",
+            "Inventory management",
+            "Depreciation",
+            "Investment decisions",
+            "Knowledge of probability and statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Case study analysis",
+            "Effective presentation of financial data",
+            "Collaborative project work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Case study problem-solving",
+            "Statistical analysis for decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for financial projects",
+            "Term project planning and execution",
+            "Financial decision-making leadership"
+        ]
+    },
+    {
+        "courseCode": "ENMA 601",
+        "courseTitle": "Analysis of Organizational Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the student to fundamental concepts in the analysis of organizations.  A systems approach is taken in the examination of social, structural, procedural and environmental aspects that are of consequence to technical professionals and managers.  Modules covered include: History and Systems of Organizations and Management; Basic Organizational Systems and Models emphasizing rational, natural and open systems; Organizational Behavior Models; Organizational Structure Models; Integration of Systems Perspectives.",
+        "Technical and Digital Skills": [
+            "Systems analysis",
+            "Organizational modeling",
+            "Integration of systems perspectives"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of organizational systems",
+            "Identifying system inefficiencies",
+            "Analyzing organizational behavior models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Systems thinking",
+            "Strategic decision-making in organizations",
+            "Leading organizational change"
+        ]
+    },
+    {
+        "courseCode": "ENMA 602",
+        "courseTitle": "Systems Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Students develop a comprehensive set of techniques and methods to design, maintain and evolve the systems engineering function in support of strategic enterprise objectives and operations.",
+        "Technical and Digital Skills": [
+            "Systems design",
+            "Maintenance techniques",
+            "Evolution of systems engineering function",
+            "Enterprise strategy alignment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical concepts",
+            "Collaboration with cross-functional teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system design",
+            "Root cause analysis for system issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for systems engineering",
+            "Team leadership in system development"
+        ]
+    },
+    {
+        "courseCode": "ENMA 604",
+        "courseTitle": "Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploration of the systems approach to planning, scheduling, control, design, evaluation, and leadership of projects in technology-based organizations.  The fundamental tools and techniques of project management; role of the project manager; project management systems; project selection; project life cycle; project monitoring and control; project management evaluation and auditing; project risk and failure analysis; contextual nature of project management; project knowledge.",
+        "Technical and Digital Skills": [
+            "Project planning tools (e.g., Gantt charts, PERT charts)",
+            "Project scheduling software (e.g., Microsoft Project)",
+            "Project management systems knowledge",
+            "Project evaluation and auditing tools",
+            "Risk analysis tools for projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective leadership in project management",
+            "Team communication strategies in project settings",
+            "Conflict resolution skills within project teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of project information",
+            "Failure analysis techniques for projects",
+            "Identifying and solving project-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project selection criteria understanding",
+            "Project life cycle management",
+            "Contextual adaptation in project management"
+        ]
+    },
+    {
+        "courseCode": "ENMA 605",
+        "courseTitle": "Program Capstone",
+        "academicLevel": "graduate",
+        "courseDescription": "A written, comprehensive demonstration of the candidate's competence in the fields covered by the program of study that is intended to fulfill the non-thesis master's examination requirement.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Software proficiency",
+            "Technical writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Team collaboration",
+            "Effective communication",
+            "Professional writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Problem identification",
+            "Research synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leadership skills",
+            "Decision-making abilities"
+        ]
+    },
+    {
+        "courseCode": "ENMA 606",
+        "courseTitle": "Engineering Law",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic legal concepts and procedures for understanding the implications of engineering management decisions.  Major emphasis on contracts and liability.",
+        "Technical and Digital Skills": [
+            "Understanding legal concepts related to engineering",
+            "Contract analysis for engineering projects",
+            "Liability assessment for engineering decisions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating legal implications to non-legal stakeholders",
+            "Negotiating contracts with legal terms",
+            "Communicating legal risks to project teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing legal precedents for engineering cases",
+            "Identifying potential legal issues in engineering projects",
+            "Evaluating contract clauses for risk assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading legal discussions in engineering team meetings",
+            "Coordinating with legal counsel for project compliance",
+            "Managing legal documentation for engineering projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 607",
+        "courseTitle": "Stochastic Decision Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to decision analysis and stochastic models; risk and uncertainty in decision making; probabilistic inventory problems; queuing theory; Markov processes; dynamic programming; Monte Carlo simulation of dynamic systems.  Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed.",
+        "Technical and Digital Skills": [
+            "Probability modeling",
+            "Stochastic analysis",
+            "Monte Carlo simulation",
+            "Dynamic programming"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Decision analysis",
+            "Queuing theory application"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 613",
+        "courseTitle": "Logistics and Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Studying how logistical decisions impact the performance of the firm and the entire supply chain.  Topics include strategic planning, facilities location and analysis, distribution and transportation networks, forecasting, inventory management, and information systems for supply chains.  Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed.  The course includes case studies and/or a project.",
+        "Technical and Digital Skills": [
+            "Knowledge of probability and statistics",
+            "Information systems for supply chains",
+            "Forecasting techniques",
+            "Inventory management software proficiency",
+            "Facilities location analysis tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Collaboration with team members on projects",
+            "Presenting findings from case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in strategic planning",
+            "Analyzing distribution and transportation networks",
+            "Problem-solving in real-world logistical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning skills",
+            "Project management in supply chain contexts",
+            "Team leadership in logistics projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 614",
+        "courseTitle": "Quality Systems Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Integrated analysis of the process quality assurance and improvement function.  Quality Deming's way.  Scientific sampling and control charting for quality assurance and control; the quality cost concept and economic aspects of quality decisions.  Organization of the quality function for process quality improvement.  Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed.",
+        "Technical and Digital Skills": [
+            "Scientific sampling techniques",
+            "Control chart analysis",
+            "Quality cost analysis",
+            "Probability and statistics",
+            "Process quality assurance methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of quality data",
+            "Identification of process improvements",
+            "Quality decision-making based on economic factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of quality function for improvement",
+            "Understanding Deming's quality principles"
+        ]
+    },
+    {
+        "courseCode": "ENMA 616",
+        "courseTitle": "The Entrepreneurial Engineering Manager",
+        "academicLevel": "graduate",
+        "courseDescription": "Globalization has increased competition among the planet's enterprises. The quality of products and services has dramatically improved while prices have plummeted.  Consumer expectations have risen to very high levels.  This phenomenon has accelerated the need for large technical enterprises to become more agile, flexible and responsive to consumer demands. Government agencies are not exempt form this trend:  U.S. Government agencies are now required to establish strategic plans for their enterprises and to develop business plans that illustrate the future directions of the enterprise and to define the resources required to realize the vision and strategy of the enterprise.  This course introduces Engineering Management students to a wide range of approaches designed to facilitate start-up, enable growth and ensure the continued capability of emerging and mature technical enterprises.",
+        "Technical and Digital Skills": [
+            "Strategic planning for enterprises",
+            "Business plan development",
+            "Resource allocation for enterprise vision realization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Team collaboration for enterprise growth"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of enterprise strategies",
+            "Identifying opportunities for start-up facilitation",
+            "Problem-solving for enterprise agility"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading growth initiatives in technical enterprises",
+            "Establishing strategic direction for emerging enterprises"
+        ]
+    },
+    {
+        "courseCode": "ENMA 625",
+        "courseTitle": "Introduction to Homeland Security Logistics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the student to essential concepts of Homeland Security and principles of all-hazards risk management. It emphasizes understanding (1) the right balance among different hazards in mitigation, preparedness, response, and recovery; (2) the impacts of illegal and legal immigration on the economic and social stability of our communities; and (3) the emergence and evolving threats in cybersecurity, averting cybercrime, and shielding critical infrastructure. Participants will learn critical decision-making concepts and tools and techniques to improve decision-making in the interinstitutional homeland security decision space.",
+        "Technical and Digital Skills": [
+            "Understanding cybersecurity threats",
+            "Protecting critical infrastructure",
+            "Utilizing decision-making tools",
+            "Risk management principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating in interinstitutional decision-making",
+            "Communicating risks and mitigation strategies effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of different hazards",
+            "Analyzing impacts of immigration on communities",
+            "Averting cybercrime"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading in homeland security decision space",
+            "Implementing all-hazards risk management principles"
+        ]
+    },
+    {
+        "courseCode": "ENMA 641",
+        "courseTitle": "Requirements Management, Verification and Validation",
+        "academicLevel": "graduate",
+        "courseDescription": "Comprehensive treatment of the nature and utility of requirements, verification, and validation in systems engineering processes.  Topics include: establishing user requirements; traceability; baseline and evolving requirements; governing standards; requirements management; issues in requirements for complex systems; role and methods for verification and validation in systems engineering; data treatment and analysis; standards, practices, and issues for verification and validation in systems engineering.",
+        "Technical and Digital Skills": [
+            "Establishing user requirements",
+            "Traceability management",
+            "Data treatment and analysis",
+            "Standards and practices for verification and validation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying issues in complex systems requirements",
+            "Methods for verification and validation in systems engineering"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 645",
+        "courseTitle": "Preparation for Systems Engineering Professional Certification",
+        "academicLevel": "graduate",
+        "courseDescription": "A comprehensive treatment and review of the International Council on Systems Engineering (INCOSE) Systems Engineering Handbook v4 in preparation for INCOSE Systems Engineering Professional (SEP) Certification. This course should be taken in the final semester in which the student will graduate.",
+        "Technical and Digital Skills": [
+            "Understanding of INCOSE Systems Engineering Handbook v4",
+            "Systems engineering principles",
+            "Systems design and architecture",
+            "Requirements management",
+            "Configuration management",
+            "Risk management in systems engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical concepts",
+            "Collaboration with cross-functional teams in system development",
+            "Presentation of system engineering solutions",
+            "Documentation and reporting skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system requirements",
+            "Root cause analysis in system failures",
+            "Systems integration problem-solving",
+            "Systems optimization and performance analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in systems engineering",
+            "Team leadership in system development projects",
+            "Decision-making in complex system environments",
+            "Change management in system implementation"
+        ]
+    },
+    {
+        "courseCode": "ENMA 646",
+        "courseTitle": "Information Science for Systems and Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course aims to prepare students with the general knowledge and skills for the on-going digital transformation. The course covers: (1) preliminaries of information and informatics; (2) information and knowledge modeling; (3) fundamental concepts, models, tools, and applications of Big Data; and (4) digital mechanisms of trust and security, including: digital asset access control, digital signature, digital certification, Public Key Infrastructures, and Blockchains.",
+        "Technical and Digital Skills": [
+            "Information security",
+            "Big Data concepts and tools",
+            "Digital asset access control",
+            "Digital signature implementation",
+            "Public Key Infrastructures understanding",
+            "Blockchain applications"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Data modeling for information and knowledge",
+            "Problem-solving in digital trust and security mechanisms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 650",
+        "courseTitle": "Mission Analysis and Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides an overview of mission engineering and the role of mission engineering and the mission engineer in government acquisitions. The course presents the theoretical foundations that enable a fuller representation of complex problem as well as the required engineering and management approaches needed to deal with the high level of complexity and uncertainty. It applies the theoretical facets to specific engineering problems/cases and explores robust approaches given the conditions of the problem. Developments, on-going research, as well as gaps in knowledge and know-how are discussed.",
+        "Technical and Digital Skills": [
+            "Mission engineering principles",
+            "Complex problem representation",
+            "Engineering and management approaches",
+            "Robust approach development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex problems",
+            "Application of theoretical concepts to engineering cases",
+            "Identifying gaps in knowledge and know-how"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 656",
+        "courseTitle": "Mathematical and Computational Modeling in Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "The course introduces some of the mathematical structures and methods used within systems engineering. The course will cover probability theory, scheduling, critical path analysis, systems dynamics, decision analysis, and simulation. Students will be introduced to computer programming to implement the ideas in the course using the R programming language.",
+        "Technical and Digital Skills": [
+            "Probability theory application",
+            "Scheduling algorithms implementation",
+            "Critical path analysis techniques",
+            "Systems dynamics modeling",
+            "Decision analysis methods",
+            "Simulation programming in R"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical modeling",
+            "Optimization problem-solving",
+            "Statistical analysis for decision-making"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 660",
+        "courseTitle": "Systems Architectures",
+        "academicLevel": "graduate",
+        "courseDescription": "Students learn the essential aspects of the systems architecture paradigm through development and analysis of multiple architecture frameworks and enterprise engineering.  Emphasis is placed on systems modeling and enterprise engineering.",
+        "Technical and Digital Skills": [
+            "Systems architecture development",
+            "Architecture frameworks analysis",
+            "Systems modeling",
+            "Enterprise engineering"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 661",
+        "courseTitle": "Systems Engineering Design",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers modern modeling paradigms for deterministic and stochastic complex and dynamic systems.  This includes, but is not limited to, Discrete Simulation, Queuing Systems, and Agent-based models among others.  Focus will be on system analysis using different developed models in different domains such as production, logistics, security, and service, military and social.",
+        "Technical and Digital Skills": [
+            "Discrete Simulation modeling",
+            "Queuing Systems analysis",
+            "Agent-based models development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Complex system analysis",
+            "Deterministic and stochastic system modeling",
+            "Domain-specific modeling skills"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Available for pass/fail grading only.  Student participation for credit based on academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "Work experience in relevant technical field",
+            "Application of technical knowledge in real-world settings",
+            "Utilizing digital tools for work tasks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively with colleagues",
+            "Collaborating with team members on projects",
+            "Presenting work outcomes to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing work-related challenges",
+            "Developing solutions to real-world problems",
+            "Evaluating the effectiveness of problem-solving strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively in a work environment",
+            "Taking initiative in completing tasks",
+            "Demonstrating leadership qualities in work responsibilities"
+        ]
+    },
+    {
+        "courseCode": "ENMA 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Academic requirements will be established by the graduate program director and will vary with the amount of credit desired.  Allows students an opportunity to gain short-duration career-related experience.  Meant to be used for one-time experience.  Work may or may not be paid.  Project is completed during the term.",
+        "Technical and Digital Skills": [
+            "Career-related experience",
+            "Project completion",
+            "Information security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members and supervisors",
+            "Professionalism in a work setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Problem-solving in a short-duration project"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in completing a one-time project",
+            "Organizational skills for short-duration work"
+        ]
+    },
+    {
+        "courseCode": "ENMA 670",
+        "courseTitle": "Cyber Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of functioning of cyber systems including how a computer interacts with the outside world. The composition of critical infrastructure and functioning of different engineered systems that form critical infrastructure are discussed. Mutual dependence and interactions between cyber systems and other engineered and the resulting security risks are also explored.",
+        "Technical and Digital Skills": [
+            "Understanding of cyber systems",
+            "Knowledge of critical infrastructure components",
+            "Security risk assessment",
+            "Interactions between cyber systems and other engineered systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cyber system interactions",
+            "Identifying security vulnerabilities",
+            "Risk analysis of cyber systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 690",
+        "courseTitle": "Systems Engineering Capstone",
+        "academicLevel": "graduate",
+        "courseDescription": "A written, comprehensive demonstration of the candidate's competence in the fields covered by the systems engineering program that is intended to fulfill the non-thesis master's examination requirement.",
+        "Technical and Digital Skills": [
+            "Systems engineering principles application",
+            "Modeling and simulation techniques",
+            "Requirement analysis",
+            "System integration",
+            "Software development for systems engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing technical reports",
+            "Oral presentation of technical information",
+            "Team collaboration in project execution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Systems optimization",
+            "Risk assessment and mitigation strategies",
+            "Root cause analysis in system failures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in systems engineering",
+            "Resource allocation and scheduling for projects",
+            "Team leadership in system development"
+        ]
+    },
+    {
+        "courseCode": "ENMA 695",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Knowledge of recent developments in engineering management",
+            "Understanding of technological advancements impacting engineering practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of engineering concepts",
+            "Collaboration with interdisciplinary teams in engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of recent developments in engineering management",
+            "Analytical thinking in addressing engineering challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in engineering projects",
+            "Effective leadership in engineering teams"
+        ]
+    },
+    {
+        "courseCode": "ENMA 696",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Data analysis of engineering data",
+            "Utilizing project management software for engineering projects",
+            "Implementing data-driven decision-making in engineering management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical information to non-technical stakeholders",
+            "Collaboration with cross-functional teams in engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of recent developments in engineering management",
+            "Identifying and resolving challenges in implementing new engineering management techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering teams through change management processes",
+            "Implementing sustainable practices in engineering projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 697",
+        "courseTitle": "Independent Study in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the Graduate Program Director.",
+        "Technical and Digital Skills": [
+            "Engineering software proficiency (e.g., AutoCAD, MATLAB)",
+            "Data analysis using Excel or Python",
+            "Database management skills",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Presentation skills for project proposals and updates",
+            "Negotiation skills for project agreements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of engineering data",
+            "Root cause analysis for project issues",
+            "Identification of optimization opportunities in engineering processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Team coordination and delegation",
+            "Strategic planning and decision-making"
+        ]
+    },
+    {
+        "courseCode": "ENMA 698",
+        "courseTitle": "Master's Project",
+        "academicLevel": "graduate",
+        "courseDescription": "The master's project is guided under the supervision of the course instructor.  Projects must be approved by the Graduate Program Advisor.",
+        "Technical and Digital Skills": [
+            "Project management software proficiency",
+            "Research skills for project development",
+            "Data analysis tools proficiency",
+            "Programming languages proficiency for project implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with project supervisor",
+            "Team collaboration for project execution",
+            "Presentation skills for project defense"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking for project evaluation",
+            "Troubleshooting skills for project challenges",
+            "Data interpretation for decision-making in project"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for project deadlines",
+            "Delegation of tasks within the project team",
+            "Conflict resolution within the project group"
+        ]
+    },
+    {
+        "courseCode": "ENMA 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Research leading to a Master of Science thesis.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "literature review skills",
+            "data analysis techniques",
+            "academic writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "collaboration with advisors and peers",
+            "clear and concise writing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "research design",
+            "data interpretation",
+            "thesis topic selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "project planning",
+            "self-motivation",
+            "independent work ethic"
+        ]
+    },
+    {
+        "courseCode": "ENMA 700",
+        "courseTitle": "Economic Analysis of Capital Projects",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is targeted at engineering managers who actively participate in the capital budgeting process and project justification.  Topics include capital budgeting techniques (including multi-attribute decision making), utility theory, justification of new technologies, and current research in engineering economics.  Reading and application of current research in the field is stressed.  Case studies are used.  Oral presentations and term project required.",
+        "Technical and Digital Skills": [
+            "Capital budgeting techniques",
+            "Multi-attribute decision making",
+            "Utility theory",
+            "Reading and application of current research in engineering economics",
+            "New technologies justification",
+            "Case study analysis",
+            "Data analysis for project justification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation skills",
+            "Collaboration on term projects",
+            "Effective communication of project justifications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of capital projects",
+            "Analyzing complex engineering economic data",
+            "Identifying key factors influencing project feasibility"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for capital projects",
+            "Leading engineering economic research initiatives",
+            "Coordinating cross-functional teams for project justification"
+        ]
+    },
+    {
+        "courseCode": "ENMA 701",
+        "courseTitle": "Digital Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Digital systems engineering applies digital technologies to the systems engineering processes and principles.  This course provides students with knowledge and skills on necessary digital technologies, such as Artificial Intelligence and Machine Learning, Big Data, Blockchain, and computational modeling. The course covers: (1) preliminaries of digitalization and digital technologies; (2) data and knowledge modeling; (3) logical approach to MBSE (Model-Based Systems Engineering); (4) application of Big Data and Machine Learning in Systems Engineering; and (5) digital mechanisms of trust and security for digital engineering.",
+        "Technical and Digital Skills": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Big Data analysis",
+            "Blockchain technology",
+            "Computational modeling",
+            "Model-Based Systems Engineering (MBSE)",
+            "Data and knowledge modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Logical reasoning",
+            "Critical thinking in digital systems engineering",
+            "Application of Big Data and Machine Learning in problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Digital mechanisms of trust and security for engineering",
+            "Project management in digital systems engineering"
+        ]
+    },
+    {
+        "courseCode": "ENMA 702",
+        "courseTitle": "Systemic Decision Making",
+        "academicLevel": "graduate",
+        "courseDescription": "As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.",
+        "Technical and Digital Skills": [
+            "Systems theory understanding",
+            "Holistic problem-solving approach",
+            "Deployment of systemic thinking approach"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex situations",
+            "Rational decision-making in complex environments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 703",
+        "courseTitle": "Optimization Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers advanced methods in Operations Research and Optimization.  Focus will be on developing models and their applications in different domains including manufacturing and service.  Modern optimization tools will be used to implement models for case studies, projects and research papers.  The knowledge of programming and spreadsheets is expected.  Contact instructor for more details.",
+        "Technical and Digital Skills": [
+            "Programming knowledge for implementing optimization models",
+            "Proficiency in spreadsheets for data analysis and visualization",
+            "Ability to use modern optimization tools for modeling",
+            "Implementing models for case studies, projects, and research papers"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking for model development",
+            "Analyzing data to identify optimization opportunities",
+            "Application of advanced methods in Operations Research",
+            "Solving complex optimization problems in manufacturing and service domains"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 705",
+        "courseTitle": "Financial Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers concepts in complex investments, how to deal with uncertainty in today's global markets, and how to engineer and manage financial decisions. The main topics include: cash flows, portfolio theory, capital management, securities, hedge funds, optimal investment and financial engineering evaluations among others.",
+        "Technical and Digital Skills": [
+            "Financial modeling",
+            "Portfolio optimization",
+            "Risk management analysis",
+            "Derivatives pricing models",
+            "Cash flow analysis",
+            "Securities valuation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial data",
+            "Collaboration on financial projects",
+            "Clear communication of complex financial concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Optimal investment decision-making",
+            "Quantitative analysis of investment opportunities",
+            "Problem-solving in uncertainty of global markets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in financial engineering",
+            "Decision-making in financial management",
+            "Leading financial teams in complex investments"
+        ]
+    },
+    {
+        "courseCode": "ENMA 711",
+        "courseTitle": "Engineering Research Methodology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares engineering practitioners to produce systemic applied research or robust project solutions. In the applied research track, students will learn and apply the methods, tools, and concepts required for specifying the research purpose, proposal preparation, understanding the current state of the discipline, selecting and executing the appropriate research methodology, analyzing and synthesizing results, and preparing defensible publications. In the engineering project track, students will learn problem definition and scoping, project proposal preparation, methods for establishing the current state of the problem, analytical and experimental designs for testing proposed solutions, robust methods for solution optimization, and solution validation.",
+        "Technical and Digital Skills": [
+            "Research proposal preparation",
+            "Research methodology selection",
+            "Data analysis techniques",
+            "Publication preparation",
+            "Experimental design",
+            "Solution validation methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaborative project planning",
+            "Clear communication of project scope and objectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research methods",
+            "Analyzing and synthesizing research results",
+            "Problem definition and scoping",
+            "Solution optimization techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Team coordination for research projects",
+            "Effective decision-making in project settings"
+        ]
+    },
+    {
+        "courseCode": "ENMA 712",
+        "courseTitle": "Multi-Criteria Decision Analysis and Decision Support Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Currently, complex engineering-economic-societal decisions are made by involving numerous sometimes conflicting criteria and attributes, different decision rules and in the presence of various stakeholders with individual preferences who are willing to go into negotiation procedures.  A number of multi-criteria decisions tools involving quantitative as well as qualitative methods, together with adequate decision support tools will be introduced.  Case studies on a variety of engineering, environmental and security related aspects will also be considered.",
+        "Technical and Digital Skills": [
+            "Quantitative analysis methods",
+            "Qualitative analysis methods",
+            "Decision support tools implementation",
+            "Case study analysis in engineering, environmental, and security aspects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills with stakeholders",
+            "Effective communication of complex decisions",
+            "Understanding individual preferences in decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of multiple criteria",
+            "Conflicting criteria resolution",
+            "Decision rules implementation",
+            "Quantitative and qualitative attribute analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Stakeholder management in decision-making processes",
+            "Leading negotiation procedures",
+            "Managing conflicting interests in decision-making"
+        ]
+    },
+    {
+        "courseCode": "ENMA 715",
+        "courseTitle": "Systems Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is designed to provide an understanding of the interdisciplinary aspects of systems development, operation, and support.  The course focuses on the application of scientific and engineering efforts to transform an operational need into a defined system configuration through the interactive process of design, test, and evaluation.",
+        "Technical and Digital Skills": [
+            "Systems development",
+            "System configuration design",
+            "Test and evaluation processes",
+            "Engineering efforts application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Communication of system requirements",
+            "Client interactions for system understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system needs",
+            "Problem identification in system development",
+            "Analytical approach to system design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in system development",
+            "Team coordination for system implementation",
+            "Leadership in system support activities"
+        ]
+    },
+    {
+        "courseCode": "ENMA 716",
+        "courseTitle": "Complex Adaptive Situations Environment",
+        "academicLevel": "graduate",
+        "courseDescription": "The course focuses on the manner in which information, knowledge, and awareness are processed to facilitate decision making, management and engineering in complex adaptive situations.  Topics include: knowledge acquisition, formation of technical and contextual awareness, and the role of understanding.",
+        "Technical and Digital Skills": [
+            "Knowledge acquisition techniques",
+            "Information processing methods",
+            "Awareness formation strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective decision-making communication",
+            "Collaborative management approaches"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Complex decision-making analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic management in complex situations",
+            "Engineering leadership in adaptive environments"
+        ]
+    },
+    {
+        "courseCode": "ENMA 717",
+        "courseTitle": "Cost Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to parametric cost modeling techniques and methodologies; generation and application of statistical relationships between life cycle costs and measurable attributes of complex systems; sources of supporting data; quality function deployment; technology forecasting.  Special emphasis on life cycle design for cost; cost risk analysis; and design optimization on cost bases.  Case studies and a semester project.",
+        "Technical and Digital Skills": [
+            "Parametric cost modeling techniques",
+            "Statistical analysis of life cycle costs",
+            "Quality function deployment",
+            "Technology forecasting",
+            "Cost risk analysis",
+            "Design optimization on cost bases"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Generation of statistical relationships",
+            "Critical evaluation of measurable attributes",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for semester project",
+            "Design optimization leadership"
+        ]
+    },
+    {
+        "courseCode": "ENMA 720",
+        "courseTitle": "Multivariate Statistics for Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to modeling multivariate structural and residual variation, using exploratory data analysis, nonparametric regression, dependence regression, and factor analytic models, with a goal of producing robust, generalizable multivariate models that support research findings. Statistical analyses will be performed in the free general public licensed R statistical software with references to Minitab and SPSS.",
+        "Technical and Digital Skills": [
+            "Exploratory data analysis",
+            "Nonparametric regression",
+            "Dependence regression",
+            "Factor analytic models",
+            "R statistical software",
+            "Minitab",
+            "SPSS"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Modeling multivariate structural and residual variation",
+            "Producing robust and generalizable multivariate models",
+            "Statistical analyses"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 721",
+        "courseTitle": "Foundations of Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is intended to prepare students to undertake substantiated, rigorous, scholarly research, particularly theses or dissertations.  The course will focus on the approaches necessary to integrate research intent, techniques and constraints.  A variety of research approaches will be investigated.  Emphasis will be placed on problem formulation, literature review, proposal preparation, oral presentation, experimentation and accepted canons of research.  Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed.  Research paper required.",
+        "Technical and Digital Skills": [
+            "Literature review techniques",
+            "Experimentation methods",
+            "Probability and statistics knowledge",
+            "Research paper writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation abilities",
+            "Proposal preparation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem formulation techniques",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Integration of research intent, techniques, and constraints"
+        ]
+    },
+    {
+        "courseCode": "ENMA 724",
+        "courseTitle": "Risk Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Approaches to the management of risk; probability assessment methods; risk modeling; use of software packages; extensions of decision analysis, including stochastic dominance and multiattribute methods; applications to project management, scheduling, and cost estimation.",
+        "Technical and Digital Skills": [
+            "Probability assessment methods",
+            "Risk modeling",
+            "Software packages for risk analysis",
+            "Decision analysis techniques",
+            "Stochastic dominance methods",
+            "Multiattribute methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of risk information",
+            "Project management skills",
+            "Scheduling techniques",
+            "Cost estimation methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 725",
+        "courseTitle": "System Risk and Failure Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is about the modeling of system dependencies using functional dependency network analysis to support the design of new and failure analysis of existing engineering systems. At the end of this course, students will be able to model and measure the operability and performance of today’s highly networked and richly interconnected systems.",
+        "Technical and Digital Skills": [
+            "Functional dependency network analysis",
+            "System modeling",
+            "Operability measurement",
+            "Performance measurement",
+            "Failure analysis of engineering systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system dependencies",
+            "Network analysis for system design",
+            "Failure analysis techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 735",
+        "courseTitle": "Team Performance and Decision Making in Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores and models the use of teams in organizations with a specific focus on the role of teams in decision making and problem solving. Key areas include team building, assessment of team outcomes, team learning, virtual teams and team decision making. Actual work on teams is required including team deliverables.",
+        "Technical and Digital Skills": [
+            "Virtual team collaboration tools",
+            "Online team communication platforms",
+            "Team project management software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication strategies",
+            "Constructive feedback delivery",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis in team settings",
+            "Collaborative problem-solving techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team coordination and task allocation",
+            "Conflict resolution within teams",
+            "Team decision-making frameworks"
+        ]
+    },
+    {
+        "courseCode": "ENMA 743",
+        "courseTitle": "Reliability and Maintainability",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory and practice of reliability engineering, maintainability and availability. Reliability evaluation models and techniques, failure data collection and analysis, reliability testing and modeling, maintained systems, and mechanical system reliability will be discussed, culminating in a semester-length project.",
+        "Technical and Digital Skills": [
+            "Reliability evaluation models",
+            "Failure data collection and analysis",
+            "Reliability testing and modeling",
+            "Maintained systems",
+            "Mechanical system reliability"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reliability data",
+            "Identifying failure patterns",
+            "Developing reliability improvement strategies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 750",
+        "courseTitle": "System of Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Comprehensive treatment of System of Systems Engineering (SoSE), including; fundamental systems principles, concepts, and governing laws; complex and simple systems; underlying paradigms, methodologies and essential methods for SoSE analysis, design, and transformation; complex system transformation; current state of  SoSE research and application challenges.  Explores the range of technological, human/social, organizational/managerial, policy, and political dimensions of the SoSE problem domain.",
+        "Technical and Digital Skills": [
+            "Systems analysis",
+            "Systems design",
+            "Systems transformation",
+            "Complex system analysis",
+            "Paradigms in SoSE",
+            "Methodologies in SoSE"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in cross-functional teams",
+            "Effective communication of technical concepts to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex systems",
+            "Analyzing system interactions",
+            "Identifying system transformation challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing complex projects",
+            "Leading interdisciplinary teams in system design and analysis"
+        ]
+    },
+    {
+        "courseCode": "ENMA 751",
+        "courseTitle": "Complexity, Engineering and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines management and engineering of complex systems as it is undertaken in complex situations.  The student will develop an understanding of the unconditional attributes of complex systems and situations that become foundational in the development of robust methods to deal with the practical reality of working in dynamic, uncertain environments.  Topics will include Complexity, Complex Systems, Complex Adaptive Systems, Complex Responsive Processes, Complex Adaptive Situations Methodology, SOSE, Reciprocality, and Sociotechnical Systems.",
+        "Technical and Digital Skills": [
+            "Complex systems analysis",
+            "Complex adaptive systems understanding",
+            "SOSE methodology application",
+            "Sociotechnical systems knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in complex situations",
+            "Collaboration in dynamic environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex information",
+            "Adaptation to uncertain environments",
+            "Methodical approach to complex problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading in complex adaptive situations",
+            "Robust management of dynamic systems"
+        ]
+    },
+    {
+        "courseCode": "ENMA 754",
+        "courseTitle": "Big Data Fundamentals",
+        "academicLevel": "graduate",
+        "courseDescription": "The objectives of the course are to provide fundamental knowledge and skills of Big Data for the new generation of researchers, engineers, project managers and business managers in the emerging data-driven science and engineering paradigm. Topics to be covered include data analytics, cloud platforms and tools for Big Data, and innovative applications of Big Data.",
+        "Technical and Digital Skills": [
+            "Data analytics",
+            "Cloud platforms usage",
+            "Big Data tools proficiency",
+            "Data visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation",
+            "Collaboration on data projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation and analysis",
+            "Identifying patterns and trends in data",
+            "Troubleshooting Big Data issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in Big Data",
+            "Resource allocation for data projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 755",
+        "courseTitle": "Human System Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces concepts of Human System Engineering, focusing on designing systems that include human components. Human System Integration and Human Factors Engineering are discussed, as well as other human centered design approaches. The role of human data in systems and systems of systems design is explored, and methods to capture and represent human data, including architecture frameworks, are presented. Modeling and analysis of human centered systems is done through hands-on projects.",
+        "Technical and Digital Skills": [
+            "Human Factors Engineering",
+            "Human System Integration",
+            "Human data capture and representation",
+            "Systems modeling and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in system design",
+            "Collaboration in human-centered projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of human data in system design",
+            "Hands-on project analysis and problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading human-centered design projects",
+            "Organizing and managing human data in systems"
+        ]
+    },
+    {
+        "courseCode": "ENMA 760",
+        "courseTitle": "Advanced Architectures and Tools",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to expand on system architectures concepts through both theory and practice. Topics include the role of architectures in system engineering, alternative methods for architecture development, tools and techniques for architecture design, and various conceptual and technical issues in the architecture development process. Class periods are equally divided between traditional lectures and practice oriented exercises.",
+        "Technical and Digital Skills": [
+            "System architecture design",
+            "Tools for architecture development",
+            "Technical issues in architecture development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of architectural concepts",
+            "Problem-solving in architecture development process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in architecture development",
+            "Leadership in system engineering"
+        ]
+    },
+    {
+        "courseCode": "ENMA 763",
+        "courseTitle": "Robust Engineering Design",
+        "academicLevel": "graduate",
+        "courseDescription": "A robust design approach based on \"Taguchi Methods,\" including off-line quality engineering and applied design-of-experiments methods, full factorial and fractional factorial designs, and response surface methods.  The course is designed to enable engineers and engineering managers from all disciplines to recognize potential applications, formulate problems, plan experiments, and analyze data. Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed. Students will engage in case studies, culminating in a semester-long project.",
+        "Technical and Digital Skills": [
+            "Taguchi Methods application",
+            "Design-of-experiments methods",
+            "Full factorial designs",
+            "Fractional factorial designs",
+            "Response surface methods",
+            "Probability and statistics knowledge"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem formulation",
+            "Experimental planning",
+            "Data analysis",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Cross-discipline collaboration"
+        ]
+    },
+    {
+        "courseCode": "ENMA 771",
+        "courseTitle": "Risk and Vulnerability Management of Complex Interdependent Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar discussions and team projects.  A systematic approach to basic principles of design, economics and management of critical infrastructure systems, including issues of risk, vulnerability and risk governance.  Development of advanced methodologies, e.g. system of systems, by use of complexity analysis, dynamic/chaotic behavior, threat analysis, resilient design and management under normal and stress conditions.  Adopting an agent based modeling approach under conditions of uncertainty, dysfunctionality, malicious attacks and/or presence of natural perils.",
+        "Technical and Digital Skills": [
+            "Complexity analysis",
+            "Agent-based modeling",
+            "Threat analysis",
+            "Resilient design",
+            "System of systems methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration in project work",
+            "Effective communication of risk and vulnerability assessments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of risk information",
+            "Dynamic/chaotic behavior analysis",
+            "Management under stress conditions",
+            "Uncertainty analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk governance",
+            "Project management in high-stakes environments",
+            "Decision-making under pressure"
+        ]
+    },
+    {
+        "courseCode": "ENMA 777",
+        "courseTitle": "Complex System Governance",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will be prepared to better design, execute, evaluate, and evolve governance for complex systems. This preparation includes development of marketable capabilities to more effectively deal with governance systems and their emergent problems through: (1) development of capabilities to effectively design, analyze, and execute complex system governance, (2) identification and development of more effective intervention strategies to address underlying governance problems in operational systems, (3) employment of a range of methods, tools, and techniques, and (4) development of capabilities for generating novel insights and improvements to address systemic deficiencies in governance systems.",
+        "Technical and Digital Skills": [
+            "Designing complex system governance",
+            "Analyzing governance systems",
+            "Executing complex system governance",
+            "Employing methods, tools, and techniques for governance systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating governance strategies",
+            "Collaborating on intervention strategies",
+            "Presenting novel insights for governance improvements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying underlying governance problems",
+            "Generating insights to address systemic deficiencies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Evolving governance systems",
+            "Leading governance evolution initiatives"
+        ]
+    },
+    {
+        "courseCode": "ENMA 780",
+        "courseTitle": "Leadership for Engineering Managers",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar discussions and team projects. This course is designed to expose students to the concepts, skills, characteristics and emotional composition of effective and successful leaders in the 21st century. The course is intensive and requires students to immerse themselves in the course material and classroom discussion to derive meaning and value from the topics. The course objectives will be achieved by classroom discussion of the assigned material, candid self-assessment, experiential exercises and analysis of the actions of leaders, as described in case studies and literature. Areas of exploration include the fundamentals of leadership, ethical leadership, social capital, emotional intelligence and three-dimensional leadership. Ethical leadership practices is a cross-cutting theme in this course.",
+        "Technical and Digital Skills": [
+            "Understanding of engineering principles",
+            "Knowledge of technical project management",
+            "Data analysis skills for decision-making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with technical teams",
+            "Conflict resolution within engineering groups",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of leadership case studies",
+            "Identifying and resolving technical challenges",
+            "Decision-making under uncertainty"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating and implementing engineering strategies",
+            "Team building and motivation",
+            "Ethical leadership practices"
+        ]
+    },
+    {
+        "courseCode": "ENMA 795",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Project management software proficiency",
+            "Data analytics tools knowledge",
+            "Financial modeling skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation techniques",
+            "Negotiation skills",
+            "Conflict resolution strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making frameworks",
+            "Risk assessment techniques",
+            "Root cause analysis methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning abilities",
+            "Team building expertise",
+            "Change management strategies"
+        ]
+    },
+    {
+        "courseCode": "ENMA 796",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Understanding recent developments in engineering management",
+            "Utilizing engineering management software tools",
+            "Implementing digital solutions in engineering projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with engineering teams",
+            "Collaborating with cross-functional teams on engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing trends in engineering management",
+            "Identifying and resolving issues in engineering processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering teams towards project success",
+            "Implementing efficient project management strategies in engineering"
+        ]
+    },
+    {
+        "courseCode": "ENMA 797",
+        "courseTitle": "Independent Study in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed for advanced individualized study into an engineering management topic area.  Independent study projects will be related to engineering management and completed under the supervision of a certified faculty member.",
+        "Technical and Digital Skills": [
+            "Engineering management principles",
+            "Project management tools",
+            "Data analysis software proficiency",
+            "Technical report writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Presentation of project findings",
+            "Collaboration with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in engineering management",
+            "Problem-solving in real-world scenarios",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Team leadership in engineering projects",
+            "Time management and task prioritization"
+        ]
+    },
+    {
+        "courseCode": "ENMA 800",
+        "courseTitle": "Economic Analysis of Capital Projects",
+        "academicLevel": "graduate",
+        "courseDescription": "It is targeted at engineering managers who actively participate in the capital budgeting process and project justification.  Topics include capital budgeting techniques (including multi-attribute decision making), utility theory, justification of new technologies, and current research in engineering economics.  Reading and application of current research in the field is stressed.  Case studies are used.  Oral presentations and term project required.",
+        "Technical and Digital Skills": [
+            "Capital budgeting techniques",
+            "Multi-attribute decision making",
+            "Utilizing theory",
+            "Research application in engineering economics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentations",
+            "Case study analysis",
+            "Term project presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of new technologies",
+            "Research application in the field"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing capital projects",
+            "Project justification"
+        ]
+    },
+    {
+        "courseCode": "ENMA 801",
+        "courseTitle": "Digital Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Digital systems engineering applies digital technologies to the systems engineering processes and principles.  This course provides students with knowledge and skills on necessary digital technologies, such as Artificial Intelligence and Machine Learning, Big Data, Blockchain, and computational modeling. The course covers: (1) preliminaries of digitalization and digital technologies; (2) data and knowledge modeling; (3) logical approach to MBSE (Model-Based Systems Engineering); (4) application of Big Data and Machine Learning in Systems Engineering; and (5) digital mechanisms of trust and security for digital engineering.",
+        "Technical and Digital Skills": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Big Data",
+            "Blockchain",
+            "Computational Modeling",
+            "Model-Based Systems Engineering (MBSE)",
+            "Data Security"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Logical reasoning for MBSE",
+            "Application of Big Data and Machine Learning in Systems Engineering",
+            "Trust and security mechanisms for digital engineering"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 802",
+        "courseTitle": "Systemic Decision Making",
+        "academicLevel": "graduate",
+        "courseDescription": "As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.",
+        "Technical and Digital Skills": [
+            "Systems theory understanding",
+            "Systemic thinking application",
+            "Complex environment analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Holistic problem-solving",
+            "Critical evaluation of complex situations",
+            "Rational decision-making in complex environments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 803",
+        "courseTitle": "Optimization Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers advanced methods in Operations Research and Optimization.  Focus will be on developing models and their applications in different domains including manufacturing and service.  Modern optimization tools will be used to implement models for case studies, projects and research papers.  The knowledge of programming and spreadsheets is expected.  Contact instructor for more details.",
+        "Technical and Digital Skills": [
+            "Programming (expected)",
+            "Implementing optimization models",
+            "Using modern optimization tools",
+            "Utilizing spreadsheets for modeling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Developing optimization models",
+            "Applying models to case studies",
+            "Analyzing results",
+            "Research paper writing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 811",
+        "courseTitle": "Engineering Research Methodology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course prepares engineering practitioners to produce systemic applied research or robust project solutions. In the applied research track, students will learn and apply the methods, tools, and concepts required for specifying the research purpose, proposal preparation, understanding the current state of the discipline, selecting and executing the appropriate research methodology, analyzing and synthesizing results, and preparing defensible publications. In the engineering project track, students will learn problem definition and scoping, project proposal preparation, methods for establishing the current state of the problem, analytical and experimental designs for testing proposed solutions, robust methods for solution optimization, and solution validation.",
+        "Technical and Digital Skills": [
+            "Research proposal preparation",
+            "Research methodology selection",
+            "Data analysis techniques",
+            "Publication preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration with research team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem definition and scoping",
+            "Analytical and experimental design",
+            "Solution optimization methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Solution validation techniques"
+        ]
+    },
+    {
+        "courseCode": "ENMA 812",
+        "courseTitle": "Multi-Criteria Decision Analysis and Decision Support Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Currently, complex engineering-economic-societal decisions are made by involving numerous sometimes conflicting criteria and attributes, different decision rules and in the presence of various stakeholders with individual preferences who are willing to go into negotiation procedures.  A number of multi-criteria decisions tools involving quantitative as well as qualitative methods, together with adequate decision support tools will be introduced.  Case studies on a variety of engineering, environmental and security related aspects will also be considered.",
+        "Technical and Digital Skills": [
+            "Quantitative analysis methods",
+            "Qualitative analysis methods",
+            "Decision support tools implementation",
+            "Case study analysis in engineering, environmental and security fields"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills with stakeholders",
+            "Understanding individual preferences",
+            "Effective communication with diverse stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Complex decision-making involving conflicting criteria",
+            "Critical evaluation of multiple attributes",
+            "Problem-solving in engineering, environmental and security contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Stakeholder management",
+            "Decision-making in negotiation procedures",
+            "Leadership in multi-criteria decision environments"
+        ]
+    },
+    {
+        "courseCode": "ENMA 815",
+        "courseTitle": "Systems Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is designed to provide an understanding of the interdisciplinary aspects of systems development, operation, and support.  The course focuses on the application of scientific and engineering efforts to transform an operational need into a defined system configuration through the interactive process of design, test, and evaluation.",
+        "Technical and Digital Skills": [
+            "Systems development",
+            "System configuration design",
+            "Test and evaluation techniques",
+            "Information security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Effective communication of system requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system needs",
+            "Problem identification and resolution",
+            "Systems analysis techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in systems development",
+            "Leadership in system design and testing"
+        ]
+    },
+    {
+        "courseCode": "ENMA 816",
+        "courseTitle": "Complex Adaptive Situations Environment",
+        "academicLevel": "graduate",
+        "courseDescription": "The course focuses on the manner in which information, knowledge, and awareness are processed to facilitate decision making, management and engineering in complex adaptive situations.  Topics include: knowledge acquisition, formation of technical and contextual awareness, and the role of understanding.",
+        "Technical and Digital Skills": [
+            "Knowledge acquisition techniques",
+            "Information processing methods",
+            "Contextual awareness development",
+            "Decision-making tools and models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in complex environments",
+            "Collaboration within diverse teams",
+            "Presentation of complex information",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Complex problem decomposition",
+            "Decision-making under uncertainty",
+            "Identification of key variables in complex systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptive leadership strategies",
+            "Change management in complex environments",
+            "Team coordination in dynamic situations",
+            "Conflict resolution in complex adaptive systems"
+        ]
+    },
+    {
+        "courseCode": "ENMA 817",
+        "courseTitle": "Cost Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to parametric cost modeling techniques and methodologies; generation and application of statistical relationships between life cycle costs and measurable attributes of complex systems; sources of supporting data; quality function deployment; technology forecasting.  Special emphasis on life cycle design for cost; cost risk analysis; and design optimization on cost bases.  Case studies and a semester project.",
+        "Technical and Digital Skills": [
+            "Parametric cost modeling techniques",
+            "Statistical analysis",
+            "Technology forecasting",
+            "Quality function deployment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Case study analysis and presentation",
+            "Project management communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Life cycle cost analysis",
+            "Cost risk analysis",
+            "Design optimization based on cost"
+        ],
+        "Organizational and Leadership Skills": [
+            "Semester project management",
+            "Decision-making based on cost data"
+        ]
+    },
+    {
+        "courseCode": "ENMA 820",
+        "courseTitle": "Multivariate Statistics for Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to modeling multivariate structural and residual variation, using exploratory data analysis, nonparametric regression, dependence regression, and factor analytic models, with a goal of producing robust, generalizable multivariate models that support research findings. Statistical analyses will be performed in the free general public licensed R statistical software with references to Minitab and SPSS.",
+        "Technical and Digital Skills": [
+            "Exploratory data analysis",
+            "Nonparametric regression",
+            "Factor analytic models",
+            "Statistical analysis in R, Minitab, and SPSS"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Modeling multivariate structural and residual variation",
+            "Critical evaluation of multivariate models",
+            "Generalizable model production"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 821",
+        "courseTitle": "Foundations of Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is intended to prepare students to undertake substantiated, rigorous, scholarly research, particularly theses or dissertations.  The course will focus on the approaches necessary to integrate research intent, techniques and constraints.  A variety of research approaches will be investigated.  Emphasis will be placed on problem formulation, literature review, proposal preparation, oral presentation, experimentation and accepted canons of research.  Research paper required.",
+        "Technical and Digital Skills": [
+            "Literature review techniques",
+            "Experimentation methods",
+            "Research proposal preparation",
+            "Research paper writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Problem formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Scholarly research integration",
+            "Thesis/dissertation preparation"
+        ]
+    },
+    {
+        "courseCode": "ENMA 824",
+        "courseTitle": "Risk Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Approaches to the management of risk; probability assessment methods; risk modeling; use of software packages; extensions of decision analysis, including stochastic dominance and multiattribute methods; applications to project management, scheduling, and cost estimation.",
+        "Technical and Digital Skills": [
+            "Probability assessment methods",
+            "Risk modeling",
+            "Software packages utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Decision analysis",
+            "Stochastic dominance evaluation",
+            "Multiattribute methods application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Scheduling expertise",
+            "Cost estimation abilities"
+        ]
+    },
+    {
+        "courseCode": "ENMA 825",
+        "courseTitle": "System Risk and Failure Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is about the modeling of system dependencies using functional dependency network analysis to support the design of new and failure analysis of existing engineering systems. At the end of this course, students will be able to model and measure the operability and performance of today’s highly networked and richly interconnected systems.",
+        "Technical and Digital Skills": [
+            "Functional dependency network analysis",
+            "System modeling",
+            "Operability measurement",
+            "Performance measurement"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Failure analysis",
+            "Critical evaluation of system dependencies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 835",
+        "courseTitle": "Team Performance and Decision Making in Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores and models the use of teams in organizations with a specific focus on the role of teams in decision making and problem solving. Key areas include team building, assessment of team outcomes, team learning, virtual teams and team decision making. Actual work on teams is required including team deliverables.",
+        "Technical and Digital Skills": [
+            "Team dynamics analysis",
+            "Virtual team collaboration tools",
+            "Team decision-making models",
+            "Team deliverables assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication strategies",
+            "Conflict resolution in teams",
+            "Giving and receiving feedback in teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of team outcomes",
+            "Problem-solving techniques in team settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team building strategies",
+            "Leading teams in decision-making processes",
+            "Facilitating team learning"
+        ]
+    },
+    {
+        "courseCode": "ENMA 843",
+        "courseTitle": "Reliability and Maintainability",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the theory and practice of reliability engineering, maintainability and availability. Reliability evaluation models and techniques, failure data collection and analysis, reliability testing and modeling, maintained systems, and mechanical system reliability will be discussed, culminating in a semester-length project.",
+        "Technical and Digital Skills": [
+            "Reliability evaluation models",
+            "Failure data collection and analysis",
+            "Reliability testing and modeling",
+            "Mechanical system reliability analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of reliability data",
+            "Problem-solving in reliability engineering",
+            "Analytical approach to maintainability assessment"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ENMA 850",
+        "courseTitle": "System of Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Comprehensive treatment of System of Systems Engineering (SoSE), including; fundamental systems principles, concepts, and governing laws; complex and simple systems; underlying paradigms, methodologies and essential methods for SoSE analysis, design, and transformation; complex system transformation; current state of  SoSE research and application challenges.  Explores the range of technological, human/social, organizational/managerial, policy, and political dimensions of the SoSE problem domain.",
+        "Technical and Digital Skills": [
+            "Systems engineering principles",
+            "Complex systems analysis",
+            "System transformation methods",
+            "Technological dimensions understanding",
+            "Policy analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex system concepts",
+            "Collaboration in multidisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex system designs",
+            "Problem identification in System of Systems Engineering"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing complex system projects",
+            "Leadership in multidimensional problem domains"
+        ]
+    },
+    {
+        "courseCode": "ENMA 851",
+        "courseTitle": "Complexity, Engineering and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines management and engineering of complex systems as it is undertaken in complex situations.  The student will develop an understanding of the unconditional attributes of complex systems and situations that become foundational in the development of robust methods to deal with the practical reality of working in dynamic, uncertain environments.  Topics will include Complexity, Complex Systems, Complex Adaptive Systems, Complex Responsive Processes, Complex Adaptive Situations Methodology, SOSE, Reciprocality, and Sociotechnical Systems.",
+        "Technical and Digital Skills": [
+            "Understanding of Complex Systems",
+            "Complex Adaptive Systems Methodology",
+            "SOSE",
+            "Reciprocality",
+            "Sociotechnical Systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in complex situations",
+            "Collaboration in dynamic environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex information",
+            "Adaptation to uncertain environments",
+            "Problem-solving in complex systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of complex projects",
+            "Leadership in dynamic and uncertain situations"
+        ]
+    },
+    {
+        "courseCode": "ENMA 854",
+        "courseTitle": "Big Data Fundamentals",
+        "academicLevel": "graduate",
+        "courseDescription": "The objectives of the course are to provide fundamental knowledge and skills of Big Data for the new generation of researchers, engineers, project managers and business managers in the emerging data-driven science and engineering paradigm. Topics to be covered include data analytics, cloud platforms and tools for Big Data, and innovative applications of Big Data.",
+        "Technical and Digital Skills": [
+            "Data analytics",
+            "Cloud platforms knowledge",
+            "Big Data tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data presentation",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Innovative Big Data applications",
+            "Critical evaluation of data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in Big Data",
+            "Strategic decision-making in data-driven environments"
+        ]
+    },
+    {
+        "courseCode": "ENMA 855",
+        "courseTitle": "Human System Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces concepts of Human System Engineering, focusing on designing systems that include human components. Human System Integration and Human Factors Engineering are discussed, as well as other human centered design approaches. The role of human data in systems and systems of systems design is explored, and methods to capture and represent human data, including architecture frameworks, are presented. Modeling and analysis of human centered systems is done through hands-on projects.",
+        "Technical and Digital Skills": [
+            "Human System Integration",
+            "Human Factors Engineering",
+            "Human centered design approaches",
+            "Capture and represent human data",
+            "Architecture frameworks",
+            "Modeling and analysis of human centered systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on hands-on projects",
+            "Effective communication of system design concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of human data in systems design",
+            "Hands-on project analysis and problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for human system engineering projects",
+            "Team coordination for system design implementation"
+        ]
+    },
+    {
+        "courseCode": "ENMA 860",
+        "courseTitle": "Advanced Architectures and Tools",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to expand on system architectures concepts through both theory and practice. Topics include the role of architectures in system engineering, alternative methods for architecture development, tools and techniques for architecture design, and various conceptual and technical issues in the architecture development process. Class periods are equally divided between traditional lectures and practice oriented exercises.",
+        "Technical and Digital Skills": [
+            "System architectures concepts",
+            "Architecture development",
+            "Tools and techniques for architecture design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of architecture",
+            "Problem-solving in architecture development process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in architecture development",
+            "Leadership in system engineering"
+        ]
+    },
+    {
+        "courseCode": "ENMA 863",
+        "courseTitle": "Robust Engineering Design",
+        "academicLevel": "graduate",
+        "courseDescription": "A robust design approach based on \"Taguchi Methods,\" including off-line quality engineering and applied design-of-experiments methods, full factorial and fractional factorial designs, and response surface methods.  The course is designed to enable engineers and engineering managers from all disciplines to recognize potential applications, formulate problems, plan experiments, and analyze data. Knowledge of probability and statistics (ENMA 420 or equivalent) is assumed. Students will engage in case studies, culminating in a semester-long project.",
+        "Technical and Digital Skills": [
+            "Taguchi Methods application",
+            "Design-of-experiments methods",
+            "Full factorial design",
+            "Fractional factorial design",
+            "Response surface methods",
+            "Probability and statistics knowledge"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Experimental design planning",
+            "Data analysis",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Problem formulation",
+            "Recognizing potential applications"
+        ]
+    },
+    {
+        "courseCode": "ENMA 871",
+        "courseTitle": "Risk and Vulnerability Management of Complex Interdependent Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar discussions and team projects.  A systematic approach to basic principles of design, economics and management of critical infrastructure systems, including issues of risk, vulnerability and risk governance.  Development of advanced methodologies, e.g. system of systems, by use of complexity analysis, dynamic/chaotic behavior, threat analysis, resilient design and management under normal and stress conditions.  Adopting an agent based modeling approach under conditions of uncertainty, dysfunctionality, malicious attacks and/or presence of natural perils.",
+        "Technical and Digital Skills": [
+            "Complexity analysis",
+            "Threat analysis",
+            "Agent-based modeling",
+            "Resilient design",
+            "System of systems methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration in project development",
+            "Effective communication of risk information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Dynamic/chaotic behavior analysis",
+            "Critical evaluation of information under uncertainty",
+            "Problem identification and resolution in stressful conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Risk governance",
+            "Management under stress conditions",
+            "Leadership in crisis situations"
+        ]
+    },
+    {
+        "courseCode": "ENMA 877",
+        "courseTitle": "Complex System Governance",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will be prepared to better design, execute, evaluate, and evolve governance for complex systems. This preparation includes development of marketable capabilities to more effectively deal with governance systems and their emergent problems through: (1) development of capabilities to effectively design, analyze, and execute complex system governance, (2) identification and development of more effective intervention strategies to address underlying governance problems in operational systems, (3) employment of a range of methods, tools, and techniques, and (4) development capabilities for generating novel insights and improvements to address systemic deficiencies in governance systems.",
+        "Technical and Digital Skills": [
+            "Designing complex system governance",
+            "Analyzing complex systems",
+            "Employing methods, tools, and techniques for governance systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of governance strategies",
+            "Collaborating on intervention strategies for governance problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying underlying governance problems",
+            "Generating novel insights for systemic deficiencies in governance systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Evolving governance systems",
+            "Leading governance system improvements"
+        ]
+    },
+    {
+        "courseCode": "ENMA 880",
+        "courseTitle": "Leadership for Engineering Managers",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar discussions and team projects. This course is designed to expose students to the concepts, skills, characteristics and emotional composition of effective and successful leaders in the 21st century. The course is intensive and requires students to immerse themselves in the course material and classroom discussion to derive meaning and value from the topics. The course objectives will be achieved by classroom discussion of the assigned material, candid self-assessment, experiential exercises and analysis of the actions of leaders, as described in case studies and literature. Areas of exploration include the fundamentals of leadership, ethical leadership, social capital, emotional intelligence and three-dimensional leadership. Ethical leadership practices is a cross-cutting theme in this course.",
+        "Technical and Digital Skills": [
+            "Critical evaluation of information",
+            "Case study analysis",
+            "Ethical leadership practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in team projects",
+            "Facilitating seminar discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing actions of leaders in case studies",
+            "Experiential exercises for problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Deriving meaning and value from course material",
+            "Candid self-assessment for personal growth"
+        ]
+    },
+    {
+        "courseCode": "ENMA 888",
+        "courseTitle": "Ph.D. Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Discussion of research projects, topics, and problems of Engineering Management faculty, researchers, and students.  A weekly exchange of ideas and issues between faculty and Ph.D. students focused on doctoral research.",
+        "Technical and Digital Skills": [
+            "Research project analysis",
+            "Engineering management techniques",
+            "Data visualization tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective research presentation skills",
+            "Engaging in academic discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research topics",
+            "Identifying research gaps and opportunities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Mentoring junior researchers"
+        ]
+    },
+    {
+        "courseCode": "ENMA 892",
+        "courseTitle": "Doctor of Engineering Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed individual study applying advanced-level technical knowledge to identify, formulate, and solve a complex, novel problem in Engineering Management.",
+        "Technical and Digital Skills": [
+            "Advanced-level technical knowledge in Engineering Management",
+            "Problem identification and formulation",
+            "Complex problem-solving skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical information",
+            "Presentation of project findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex problems in Engineering Management",
+            "Innovative solutions development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in Engineering contexts",
+            "Leadership in Engineering project teams"
+        ]
+    },
+    {
+        "courseCode": "ENMA 895",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Project management tools utilization",
+            "Risk assessment techniques",
+            "Data-driven decision making",
+            "Technology trend analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication strategies",
+            "Conflict resolution in engineering teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis",
+            "Performance metrics interpretation",
+            "Decision tree analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in engineering projects",
+            "Change management implementation in organizations"
+        ]
+    },
+    {
+        "courseCode": "ENMA 896",
+        "courseTitle": "Topics in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in engineering management.",
+        "Technical and Digital Skills": [
+            "Knowledge of recent developments in engineering management",
+            "Understanding of technical advancements in the field",
+            "Data analysis tools proficiency",
+            "Information security awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical information",
+            "Team collaboration on engineering projects",
+            "Conflict resolution in engineering teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of engineering data",
+            "Root cause analysis in engineering management",
+            "Decision-making based on data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering contexts",
+            "Team leadership in engineering teams",
+            "Strategic planning for engineering projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 897",
+        "courseTitle": "Independent Study in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed for advanced individualized study into an engineering management topic area.  Independent study projects will be related to engineering management and completed under the supervision of a certified faculty member.",
+        "Technical and Digital Skills": [
+            "Engineering management principles",
+            "Data analysis in engineering contexts",
+            "Project management software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Presentation of technical findings to non-technical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis in engineering management issues",
+            "Utilizing data for decision-making in engineering projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and managing engineering teams",
+            "Strategic planning for engineering projects"
+        ]
+    },
+    {
+        "courseCode": "ENMA 898",
+        "courseTitle": "Research in Engineering Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research prior to passing Ph.D. candidacy exam.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis techniques",
+            "Literature review skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Team collaboration for research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research data",
+            "Hypothesis testing",
+            "Identifying research gaps"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Time management for research tasks",
+            "Supervising research assistants"
+        ]
+    },
+    {
+        "courseCode": "ENMA 899",
+        "courseTitle": "Doctoral Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Doctoral research hours.   After successfully passing the candidacy examination, all doctoral students are required to be registered for at least one graduate credit each term until the degree is complete.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review",
+            "Data analysis",
+            "Statistical analysis",
+            "Information security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with research team",
+            "Writing research papers",
+            "Communicating complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Identifying research gaps",
+            "Developing research hypotheses",
+            "Interpreting research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project management",
+            "Leading research projects",
+            "Coordinating research activities"
+        ]
+    },
+    {
+        "courseCode": "ENMA 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Data encryption techniques",
+            "Network security implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication",
+            "Conflict resolution in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex information",
+            "Root cause analysis of technical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for final semester tasks",
+            "Delegating responsibilities within a team"
+        ]
+    },
+    {
+        "courseCode": "ENMA 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status in academic systems",
+            "Registering for graduate credit hours online",
+            "Navigating doctoral program requirements in the university's portal"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with academic advisors regarding course registration",
+            "Interacting with faculty and staff for administrative purposes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Resolving issues related to course registration or academic standing",
+            "Analyzing program requirements to ensure compliance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing academic responsibilities alongside research or teaching duties",
+            "Taking initiative in maintaining active status in the doctoral program"
+        ]
+    }
+]

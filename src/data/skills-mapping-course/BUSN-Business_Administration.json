@@ -1,0 +1,165 @@
+[
+    {
+        "courseTitle": "Introduction to Contemporary Business",
+        "courseCode": "BUSN 110",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides students with a preliminary understanding of business and gives them an opportunity to use office productivity software to enhance communications and presentations.  Students should be able to identify career prospects for each of the primary business areas (such as Accounting, Finance, Management, etc.) and basic business terminology.  Office productivity software (word  processing, spreadsheets, and presentation) will be heavily used by the faculty and students for communication in the form of presentations and essays.",
+        "Technical and Digital Skills": [
+            "Proficiency in office productivity software (word processing, spreadsheets, presentations)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Enhancing communications through software tools",
+            "Presenting business concepts effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying career prospects in primary business areas",
+            "Analyzing basic business terminology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Utilizing office productivity software for effective communication and presentations"
+        ]
+    },
+    {
+        "courseTitle": "Business Planning for Entrepreneurs I",
+        "courseCode": "BUSN 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students are introduced to readily available resources to research and analyze a comprehensive feasibility process including a clear statement of the business idea/model, selection of the North American Industry Classification System (NAICS) codes, and research and analysis of the applicable industry, market and competitors. A marketing strategy, to include pricing, is developed, with emphases on social media and similar outreach tools.",
+        "Technical and Digital Skills": [
+            "Market research techniques",
+            "Feasibility analysis",
+            "NAICS code selection",
+            "Competitor analysis",
+            "Social media marketing strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of business ideas",
+            "Networking with industry professionals",
+            "Negotiation skills for partnerships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of industry trends",
+            "Identifying market opportunities",
+            "Pricing strategy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management",
+            "Team coordination for business planning",
+            "Decision-making in uncertain environments"
+        ]
+    },
+    {
+        "courseCode": "BUSN 501",
+        "courseTitle": "Business Planning for Entrepreneurs I",
+        "academicLevel": "graduate",
+        "courseDescription": "Students are introduced to readily available resources to research and analyze a comprehensive feasibility process including a clear statement of the business idea/model, selection of the North American Industry Classification System (NAICS) codes, and research and analysis of the applicable industry, market and competitors. A marketing strategy, to include pricing, is developed, with emphases on social media and similar outreach tools.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Feasibility analysis",
+            "NAICS code selection",
+            "Market research and analysis",
+            "Competitor analysis",
+            "Marketing strategy development",
+            "Social media marketing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of business idea/model",
+            "Collaboration with team members",
+            "Presentation of marketing strategy",
+            "Utilization of social media for outreach"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of business information",
+            "Identification of market trends",
+            "Problem identification in business planning",
+            "Price strategy formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for business planning",
+            "Decision-making in business strategy",
+            "Coordination of marketing efforts",
+            "Leadership in implementing business plans"
+        ]
+    },
+    {
+        "courseCode": "BUSN 800",
+        "courseTitle": "Seminar in International Business",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with a comprehensive understanding of the environmental issues, institutions, opportunities, challenges, problems and managerial processes that are unique to international business.  Both the micro and macro contexts in which international business is conducted will be examined.",
+        "Technical and Digital Skills": [
+            "Understanding global economic trends",
+            "Utilizing international trade data analysis tools",
+            "Implementing cross-cultural communication strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiating international business agreements",
+            "Presenting global market research findings to diverse audiences",
+            "Building relationships with international partners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing political risks in global markets",
+            "Developing strategies to navigate international regulations",
+            "Resolving cross-border conflicts in business operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading multicultural teams in global projects",
+            "Developing international business expansion plans",
+            "Implementing effective cross-border supply chain management"
+        ]
+    },
+    {
+        "courseCode": "BUSN 801",
+        "courseTitle": "Research/Teaching Colloquium",
+        "academicLevel": "graduate",
+        "courseDescription": "The one-hour Research/Teaching Colloquium is mainly intended to promote research/teaching competencies of doctoral students through their exposure to presentations on and discussions of various topics dealing with research, writing, publishing and effective teaching.  The presentations may be by faculty members, outside speakers or doctoral students.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Writing skills",
+            "Publishing process understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Engagement in discussions",
+            "Networking with speakers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Identifying teaching challenges",
+            "Addressing research gaps"
+        ],
+        "Organizational and Leadership Skills": [
+            "Event coordination",
+            "Facilitation of discussions",
+            "Mentoring peers"
+        ]
+    },
+    {
+        "courseCode": "BUSN 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status in doctoral program",
+            "Understanding candidacy examination requirements",
+            "Registering for graduate credit hours",
+            "Graduation process knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with academic advisors",
+            "Collaborating with faculty members",
+            "Engaging in academic discussions",
+            "Networking with peers in the program"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Navigating complex academic regulations",
+            "Resolving administrative issues",
+            "Analyzing academic progress data",
+            "Identifying graduation requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for doctoral studies",
+            "Setting academic goals",
+            "Leading academic projects",
+            "Managing research responsibilities"
+        ]
+    }
+]

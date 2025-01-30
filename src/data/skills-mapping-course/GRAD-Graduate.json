@@ -1,0 +1,76 @@
+[
+    {
+        "courseCode": "GRAD 068",
+        "courseTitle": "Graduate Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Student participation in a professional work experience for which credit will not apply to the degree. Approval for enrollment is determined by Monarch Internship and Co-Op Office. Experience must be related to the student's major or career area of interest, include adequate supervision by a professional, and include at least an average of 8 hours per week.",
+        "Technical and Digital Skills": [
+            "Industry-specific technical skills",
+            "Software proficiency related to career field",
+            "Digital communication tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Collaboration with professionals in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to professional work environment",
+            "Troubleshooting in real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Responsibility for professional tasks",
+            "Self-organization",
+            "Leadership in a professional setting"
+        ]
+    },
+    {
+        "courseCode": "GRAD 668",
+        "courseTitle": "Graduate Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Student participation in a professional work experience for which credit will not apply to the degree. Approval for enrollment is determined by Monarch Internship and Co-Op Office (MICO). Experience must be related to the student's major or career area of interest, include adequate supervision by a professional, and include at least an average of 8 hours per week.",
+        "Technical and Digital Skills": [
+            "Industry-specific technical skills",
+            "Use of professional software tools",
+            "Application of academic knowledge in real-world context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Interpersonal relationship management",
+            "Networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem solving",
+            "Critical thinking in professional settings",
+            "Decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization",
+            "Adaptation to professional work environment"
+        ]
+    },
+    {
+        "courseCode": "GRAD 700",
+        "courseTitle": "Professional Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a professional development course for graduate students that will better prepare them for success in graduate school and subsequently in their careers and the academy. It focuses on establishing a multidisciplinary community of scholars, and encouraging joint exploration of the academy and its expectations, socialization and networking, future career paths, and other relevant issues. Students will develop a professional portfolio to integrate learning, document progress along their professional development plan, and showcase their academic and professional achievements.",
+        "Technical and Digital Skills": [
+            "Creating a professional portfolio"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Networking",
+            "Socializing",
+            "Establishing a multidisciplinary community of scholars"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Joint exploration of the academy and its expectations",
+            "Career path planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Professional development planning",
+            "Documenting progress"
+        ]
+    }
+]

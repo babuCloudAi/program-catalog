@@ -1,0 +1,597 @@
+[
+    {
+        "courseTitle": "Introduction to ROTC",
+        "courseCode": "MSL 101+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Learn fundamental concepts of leadership in a profession in both classroom and outdoor laboratory environments. Examines organization, customs and courtesies of the Army and ROTC with emphasis on career opportunities for ROTC graduates. Studies the military profession, lifestyle, and historical growth development of the Army. Increase self-confidence through team study and activities in basic drill, physical fitness, rappelling, leadership reaction course, first aid, making presentations and basic marksmanship. Participation in physical fitness program highly encouraged; required if contracted. Participation in one overnight adventure training exercise is highly encouraged; required if contracted.",
+        "Technical and Digital Skills": [
+            "Basic marksmanship",
+            "First aid",
+            "Physical fitness",
+            "Rappelling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Making presentations",
+            "Team study and activities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Leadership reaction course",
+            "Organizational understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of Army and ROTC organization, customs and courtesies",
+            "Basic drill",
+            "Leadership in profession"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Leadership",
+        "courseCode": "MSL 102+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Learn/apply principles of effective leadership.  Reinforce self-confidence through participation in physically and mentally challenging exercises with upper-division ROTC students.  Develop communication skills to improve individual performance and group interaction.  Relate organizational ethical values to the effectiveness of a leader. Introduction to development of military tactical knowledge and technical skills.  Students will gain a basic knowledge of land navigation, military geography and the use of maps and aerial photographs.  Participation in physical fitness program highly encouraged; mandatory if contracted. Participation in one overnight adventure training exercise is highly encouraged; mandatory if contracted.",
+        "Technical and Digital Skills": [
+            "Military tactical knowledge and technical skills",
+            "Land navigation",
+            "Use of maps and aerial photographs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Development of effective communication skills",
+            "Improving individual performance and group interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of principles of effective leadership",
+            "Relating organizational ethical values to leadership effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-confidence reinforcement through challenging exercises",
+            "Understanding and applying military geography"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study of Selected Military Topics",
+        "courseCode": "MSL 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special cadet's educational and commissioning requirements.  Participation in physical fitness program highly encouraged.  Participation in one overnight adventure training exercise is highly encouraged.",
+        "Technical and Digital Skills": [
+            "Knowledge of military science",
+            "Understanding of physical fitness programs",
+            "Experience in adventure training exercises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration during physical fitness programs and training exercises",
+            "Effective communication in high-stress situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in adventure training exercises",
+            "Analyzing military science topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and coordinating in physical activities and training exercises",
+            "Organizing study of military science topics"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study of Selected Military Topics",
+        "courseCode": "MSL 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special cadet's educational and commissioning requirements.  Participation in physical fitness program highly encouraged.  Participation in one overnight adventure training exercise is highly encouraged.",
+        "Technical and Digital Skills": [
+            "Specialized military technology operation",
+            "Navigation in various environments",
+            "Adapting to new military equipment or software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordinating in a team during adventure training",
+            "Adapting communication to different audiences",
+            "Giving and receiving orders effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning during adventure training exercises",
+            "Risk assessment and mitigation",
+            "Critical thinking under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small groups during adventure training",
+            "Organizing physical fitness programs",
+            "Meeting commissioning requirements"
+        ]
+    },
+    {
+        "courseTitle": "Leadership Skills II",
+        "courseCode": "MSL 201+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed to refine and continue to develop knowledge of basic military skills.  Learn/apply ethics-based leadership skills that develop individual abilities and contribute to the building of effective teams of people.  Develop skills in oral presentations, writing concisely, planning of events, coordination of group efforts, advanced first aid, land navigation and basic military tactics.  Learn fundamentals of ROTC's Leadership Development Program.  Participation in physical fitness program highly encouraged; required if contracted. Participation in one overnight adventure training exercise is highly encouraged; required if contracted.",
+        "Technical and Digital Skills": [
+            "Advanced First Aid",
+            "Land Navigation",
+            "Basic Military Tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral Presentations",
+            "Writing Concisely",
+            "Team Building",
+            "Coordination of Group Efforts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Event Planning",
+            "Application of Ethics-based Leadership",
+            "Problem Solving in Adventure Training"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership Development",
+            "Ethics-Based Leadership",
+            "Planning of Events",
+            "Coordination of Group Efforts"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of the Military Profession",
+        "courseCode": "MSL 202+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continued development of leadership ability through active participation as junior leaders at the small unit level.  Students are given increased leadership opportunities, which sharpen interpersonal communication skills and expand capabilities for future advancement in a military career.  Introduction to individual and team aspects of military tactics in small unit operations.  Practical exercises with upper division ROTC students.  Instruction will build on fundamentals of land navigation, individual soldier skill and rifle marksmanship.  Participation in physical fitness program highly encouraged; required if contracted.  Participation in one overnight adventure training exercise is highly encouraged; required if contracted.",
+        "Technical and Digital Skills": [
+            "Land navigation",
+            "Rifle marksmanship",
+            "Individual soldier skill"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication",
+            "Team collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Small unit tactics",
+            "Leadership in active participation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership development",
+            "Organizing adventure training exercises",
+            "Physical fitness program implementation"
+        ]
+    },
+    {
+        "courseTitle": "Alternate Summer Training Program: Leaders Training Course (LTC)",
+        "courseCode": "MSL 250+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course consists of five weeks of intensive and challenging military training at Fort Knox, Kentucky.  Permits students to satisfy all requirements for entry into Advanced Course.  Students are paid approximately $650 (food, lodging, transportation provided).",
+        "Technical and Digital Skills": [
+            "Military operations knowledge",
+            "Physical endurance",
+            "Survival techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork under pressure",
+            "Conflict resolution",
+            "Effective communication in high-stress environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Tactical decision-making",
+            "Strategy implementation",
+            "Risk assessment and management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in challenging situations",
+            "Discipline and organization",
+            "Resource management"
+        ]
+    },
+    {
+        "courseTitle": "Optional Summer Training Program: Airborne School",
+        "courseCode": "MSL 251+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A three-week course conducted at Fort Benning, Georgia, which focuses on parachute operations, individual and group parachute jumps, equipment orientation, and physical training. Award of the Army Airborne Badge upon course completion. Travel, lodging and most meal costs are defrayed by the U.S. Army.",
+        "Technical and Digital Skills": [
+            "Parachute operation",
+            "Equipment orientation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group teamwork for parachute jumps"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Physical fitness problem-solving",
+            "Emergency reaction planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Group coordination for parachute jumps"
+        ]
+    },
+    {
+        "courseTitle": "Optional Summer Training Program: Air Assault School",
+        "courseCode": "MSL 252+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A two-week course conducted at various locations.  Training in the techniques, skills and procedures used in air assault operations, including basic and advanced rappelling, helicopter rappelling, troop leader procedures, pathfinder techniques, and rigging and slingloading skills.  Award of the Army Assault Badge upon course completion. Travel, lodging and most meal costs are defrayed by the U.S. Army.",
+        "Technical and Digital Skills": [
+            "Rappelling techniques",
+            "Helicopter rappelling",
+            "Pathfinder techniques",
+            "Rigging skills",
+            "Slingloading skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team coordination",
+            "Communication in high-pressure situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of air assault operations",
+            "Quick decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Troop leader procedures",
+            "Organizing and executing air assault operations"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study of Selected Military Topics",
+        "courseCode": "MSL 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special successful progression through military cadet educational and commissioning requirements.  Participation in physical fitness program required.  Participation in one overnight adventure training exercise is required.",
+        "Technical and Digital Skills": [
+            "Physical fitness training",
+            "Adventure training",
+            "Survival skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork in physically challenging environments",
+            "Communication during high-stress situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning under pressure",
+            "Problem-solving in unfamiliar environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in high-stress situations",
+            "Organizing and planning physical training routines",
+            "Coordinating team-based adventure training"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study of Selected Military Topics",
+        "courseCode": "MSL 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special successful progression through military cadet educational and commissioning requirements.  Participation in physical fitness program required.  Participation in one overnight adventure training exercise is required.",
+        "Technical and Digital Skills": [
+            "Physical fitness",
+            "Adventure training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork during physical exercises",
+            "Effectively communicating during adventure training exercises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving during adventure training exercises",
+            "Critical thinking in military science studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership during physical exercises and adventure training",
+            "Organizational skills in fulfilling educational and commissioning requirements"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Leadership Skills",
+        "courseCode": "MSL 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course teaches decision making and problem solving skills.  Students learn to plan, direct and coordinate individual and group efforts toward task accomplishment.  Field exercises afford practical opportunities for the students to apply instruction.  Cadets are evaluated against 16 leadership dimensions, including decisiveness, delegation, influence, problem analysis, planning, technical competence, and communication. Participation in physical fitness program required.",
+        "Technical and Digital Skills": [
+            "Technical competence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Directing and coordinating group efforts",
+            "Influencing others",
+            "Communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making",
+            "Problem analysis",
+            "Problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning",
+            "Delegation",
+            "Task accomplishment",
+            "Physical fitness program participation",
+            "Field exercise application"
+        ]
+    },
+    {
+        "courseTitle": "Applied Leadership",
+        "courseCode": "MSL 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course presents increasingly intense and complex situations in which students apply military skills and leadership to solve tactical problems. Students develop leadership proficiency in all basic military technical and tactical skills, including basic rifle marksmanship, day and night land navigation, physical training, and small/large unit tactics. Field training exercises afford opportunities to apply military leadership and management skills. Cadets are evaluated using 16 leadership dimensions. Participation in physical fitness program required.",
+        "Technical and Digital Skills": [
+            "Basic rifle marksmanship",
+            "Day and night land navigation",
+            "Physical training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Tactical communication",
+            "Leading small/large military units"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Tactical problem solving",
+            "Leadership proficiency evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Military leadership and management",
+            "Application of military skills in complex situations",
+            "Leadership dimension evaluation",
+            "Physical fitness program participation"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Leadership Skills III Lab",
+        "courseCode": "MSL 311+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical application of individual and leadership skills in simulated tactical environments of increasing complexity and intensity. Includes weekend training in basic rifle marksmanship, day and night land navigation, and small unit tactics. Affords students opportunities to apply leadership skills to plan, direct, and coordinate the activities of others to accomplish a mission. Mandatory physical fitness training 3 times a week to build stamina and physical condition to lead from the front. Participation in overnight adventure training exercises during semester is required.",
+        "Technical and Digital Skills": [
+            "Basic rifle marksmanship",
+            "Day and night land navigation",
+            "Small unit tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Directing and coordinating activities of others",
+            "Leading from the front",
+            "Effective communication in tactical environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and executing missions",
+            "Navigating complex and intense simulated tactical environments",
+            "Problem-solving in high-stress situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading physical fitness training",
+            "Coordinating overnight adventure training exercises",
+            "Demonstrating leadership in various tactical environments"
+        ]
+    },
+    {
+        "courseTitle": "Applied Leadership Lab",
+        "courseCode": "MSL 312+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical application of individual and leadership skills in simulated tactical environments of increasing complexity and intensity. Includes weekend training in basic rifle marksmanship, day and night land navigation, and small unit tactics. Affords students opportunities to apply leadership skills to plan, direct, and coordinate the activities of others to accomplish a mission. Mandatory physical fitness training 3 times a week to build stamina and physical condition to lead from the front. Participation in overnight adventure training exercises during semester is required.",
+        "Technical and Digital Skills": [
+            "Basic rifle marksmanship",
+            "Day and night land navigation",
+            "Small unit tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordinating activities of others",
+            "Directing team tasks",
+            "Planning a mission"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Tactical problem-solving in complex environments",
+            "Adapting to increasing intensity situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Individual leadership application",
+            "Leading physical fitness training",
+            "Executing overnight adventure training exercises",
+            "Leading from the front in high-stress situations"
+        ]
+    },
+    {
+        "courseTitle": "Summer Training Program - Cadet Summer Training (CST)",
+        "courseCode": "MSL 315+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A five-week summer camp conducted at Fort Knox, Kentucky.  The student will receive pay.  Travel, lodging and most meal costs are defrayed by the U.S. Army.  The camp environment is highly structured and demanding, stressing leadership at the small unit level under varying, challenging conditions.  The leadership and skills evaluations at the camp weigh heavily in the subsequent selection process that determines the type of commission and career field assigned to the student upon graduation from ROTC and the University.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication under stress",
+            "Adapting communication styles to different situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to varying, challenging conditions",
+            "Critical thinking under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership at small unit level",
+            "Structured and disciplined approach to tasks",
+            "Decision-making under pressure",
+            "Understanding and executing orders",
+            "Strategic planning and organization"
+        ]
+    },
+    {
+        "courseTitle": "Cadet Troop Leadership Training",
+        "courseCode": "MSL 317+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A two- to four-week training program designed to introduce junior officers to responsibilities of commissioned lieutenants.  Stateside or overseas programs are available.  Travel, lodging and most meals are defrayed by the U.S. Army.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Verbal and non-verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Risk assessment",
+            "Decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership of military personnel",
+            "Planning and coordination",
+            "Disaster management",
+            "Resource allocation"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Military Science",
+        "courseCode": "MSL 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special cadet educational and commissioning requirements. Participation in a one-hour physical fitness session is mandatory.",
+        "Technical and Digital Skills": [
+            "Understanding of military science topics",
+            "Physical fitness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in group physical fitness sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of selected military science topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adapting to special cadet educational and commissioning requirements"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "MSL 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within military science designed to accommodate special cadet educational and commissioning requirements. Participation in a one-hour physical fitness session is mandatory.",
+        "Technical and Digital Skills": [
+            "Understanding of military science topics",
+            "Physical fitness training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in physical fitness sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and understanding of selected topics in military science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Discipline and adherence to mandatory sessions",
+            "Leading and participating in physical fitness sessions"
+        ]
+    },
+    {
+        "courseTitle": "Military Leadership and Management",
+        "courseCode": "MSL 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Class teaches the Army's training management system, leadership theories, staff planning and coordination, and counseling skills. Simultaneously, students in the course will assume leadership responsibilities in the ROTC battalion, affording practical opportunities to apply skills learned in the classroom. At the end of the semester, students will possess the fundamental skills, attributes, and abilities to operate as competent leaders in the cadet battalion and confidently shoulder the responsibilities entrusted to them.",
+        "Technical and Digital Skills": [
+            "Training management system operation",
+            "Staff planning",
+            "Coordination techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Counseling skills",
+            "Peer leadership",
+            "Verbal and written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem analysis",
+            "Solution implementation",
+            "Critical evaluation of tactical decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership theories application",
+            "ROTC battalion leadership",
+            "Task delegation",
+            "Responsibility management"
+        ]
+    },
+    {
+        "courseTitle": "Officership",
+        "courseCode": "MSL 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Final preparation for commissioning as a Lieutenant. Course emphasizes effective communications skills gained through individual presentations and by leading and influencing groups within the Cadet Battalion. Students also examine topics in military law and explore practical and ethical challenges of military leadership as they relate to personnel management, logistics, training, and operations. Students are the primary instructors and leaders within the Cadet Battalion.",
+        "Technical and Digital Skills": [
+            "Military law knowledge",
+            "Operations and logistics management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Influencing groups",
+            "Individual presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision making",
+            "Personnel management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within a cadet battalion",
+            "Training coordination",
+            "Leadership amidst practical and ethical challenges"
+        ]
+    },
+    {
+        "courseTitle": "Senior Military Leadership and Management Laboratory",
+        "courseCode": "MSL 411+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical application of individual and leadership skills in simulated tactical environments of increasing complexity and intensity. Includes weekend training in basic rifle marksmanship, day and night land navigation, and small unit tactics. Affords students opportunities to apply leadership skills to plan, direct, and coordinate the activities of others to accomplish a mission. Mandatory physical fitness training 3 times a week to build stamina and physical condition to lead from the front.  Participation in an overnight adventure training exercise during the semester is required.",
+        "Technical and Digital Skills": [
+            "Basic rifle marksmanship",
+            "Day and night land navigation",
+            "Small unit tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Directing and coordinating activities",
+            "Team leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Tactical decision-making",
+            "Mission planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in high-intensity environments",
+            "Physical fitness and stamina building",
+            "Adventure training"
+        ]
+    },
+    {
+        "courseTitle": "Senior Leadership Laboratory",
+        "courseCode": "MSL 412+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical application of individual and leadership skills in simulated tactical environments of increasing complexity and intensity. Includes weekend training in basic rifle marksmanship, day and night land navigation, and small unit tactics. Affords students opportunities to apply leadership skills to plan, direct, and coordinate the activities of others to accomplish a mission. Mandatory physical fitness training 3 times a week to build stamina and physical condition to lead from the front.  Participation in an overnight adventure training exercise during the semester is required.",
+        "Technical and Digital Skills": [
+            "Basic rifle marksmanship",
+            "Day and night land navigation",
+            "Small unit tactics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Directing and coordinating activities",
+            "Leading from the front"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and implementing mission strategies",
+            "Adapting to increasing complexity and intensity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Executing mandatory physical fitness training",
+            "Organizing and participating in adventure training exercise"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "MSL 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within the military science program designed to accommodate special cadet education and commissioning requirements. Participation in a one-hour physical fitness session is mandatory.",
+        "Technical and Digital Skills": [
+            "Military science knowledge",
+            "Physical fitness training"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative training",
+            "Adaptability to diverse training requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic thinking",
+            "Problem-solving in physical training"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a military setting",
+            "Organizational skills in military training",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "MSL 496",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics within the military science program designed to accommodate special cadet education and commissioning requirements. Participation in a one-hour physical fitness session is mandatory.",
+        "Technical and Digital Skills": [
+            "Physical fitness",
+            "Understanding of military science concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cooperation in physical fitness sessions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability to varying military science topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for physical fitness sessions",
+            "Leadership in military science contexts"
+        ]
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "courseCode": "KRS 820",
+        "courseTitle": "MATLAB Programming for Kinesiology and Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "Developments in technology provide researchers with the ability to measure different aspects of human movement many times a second. To make sense of these large and complex datasets researchers are increasingly using engineering software, e.g., MATLAB, to manipulate, process, and analyze data. In this course, students will gain experience importing, plotting, filtering, selecting critical points, and exporting data through the creation of custom functions and scripts within the MATLAB user interface.",
+        "Technical and Digital Skills": [
+            "MATLAB programming",
+            "Data importing",
+            "Data plotting",
+            "Data filtering",
+            "Data manipulation",
+            "Script creation",
+            "Creating custom functions within MATLAB",
+            "Data exporting"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing large and complex datasets",
+            "Selecting critical points within data",
+            "Creating scripts for data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "KRS 825",
+        "courseTitle": "Mixed and Multi Methods in Health Sciences Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover the writing and refining of research questions, collecting and analyzing qualitative and quantitative data, and choosing the appropriate mixed or multi-method design. The course will also review analyzing, interpreting, and presenting the results of a mixed or multi method design to address the research questions. Students will learn how qualitative and quantitative data can be combined to capture the perspectives of healthcare providers, patients, organizations, or other stakeholders to answer research questions.",
+        "Technical and Digital Skills": [
+            "Writing and refining research questions",
+            "Collecting and analyzing qualitative and quantitative data",
+            "Choosing appropriate mixed or multi-method design",
+            "Interpreting and presenting research results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research results",
+            "Capturing perspectives of various stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing qualitative and quantitative data",
+            "Addressing research questions with mixed or multi-method design",
+            "Interpreting research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing data collection process",
+            "Organizing and analyzing data from multiple sources"
+        ]
+    },
+    {
+        "courseCode": "KRS 830",
+        "courseTitle": "Theoretical Models in Kinesiology and Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore some of the theories that are common to kinesiology and rehabilitation research. It will include theories associated with disablement, rehabilitation, patient-centered care, motor control, and models for clinical research. These theories will be applied to clinical and research applications relevant to kinesiology and rehabilitation.",
+        "Technical and Digital Skills": [
+            "Understanding of disablement and rehabilitation theories",
+            "Knowledge of patient-centered care models",
+            "Familiarity with motor control theories",
+            "Applying clinical research models in kinesiology and rehabilitation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex kinesiology concepts",
+            "Adapting patient-centered communication",
+            "Interacting with patients in rehabilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clinical data",
+            "Applying theories to solve rehabilitation challenges",
+            "Critical evaluation of theoretical models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing patient-centered care approaches",
+            "Organizing and interpreting clinical research results",
+            "Leading patient rehabilitation plans"
+        ]
+    },
+    {
+        "courseCode": "KRS 835",
+        "courseTitle": "Critical Appraisal and Synthesis of Evidence in Kinesiology and Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce the student to critical appraisal of all forms of research in kinesiology and rehabilitation. The purpose of this course is to further develop the student's competence in conducting and evaluating research. The student will develop the skills necessary to find, critically evaluate, and synthesize the available research in order to answer individual research questions or cultivate a line of research inquiry.",
+        "Technical and Digital Skills": [
+            "Research methodology in kinesiology and rehabilitation",
+            "Data sourcing and evaluation",
+            "Appraisal of kinesiology and rehabilitation research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Research findings articulation",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of kinesiology and rehabilitation research",
+            "Research synthesis",
+            "Research problem identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Development of research inquiry line"
+        ]
+    },
+    {
+        "courseCode": "KRS 851",
+        "courseTitle": "Motor Performance: Rhythmic/Cyclic Tasks",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the coordination of cardiorespiratory, musculoskeletal, and neurological systems in performing rhythmic movement tasks such as walking, running, swallowing, speaking, and feeding. Students will gain experience measuring and interpreting cardiorespiratory variables, kinematics, kinetics, and energetics of rhythmic movement tasks integrated with measures of activity, participation, and clinical standardized tests.",
+        "Technical and Digital Skills": [
+            "Measuring cardiorespiratory variables",
+            "Interpreting kinematics and kinetics",
+            "Assessing energetics of rhythmic movement tasks",
+            "Using clinical standardized tests"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting findings on rhythmic movement tasks",
+            "Communicating complex physiological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data from cardiorespiratory measurements",
+            "Interpreting results from kinematics, kinetics, and energetics measures",
+            "Applying clinical standardized tests in practical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing data from various physical systems",
+            "Leading discussions on rhythmic movement tasks"
+        ]
+    },
+    {
+        "courseCode": "KRS 852",
+        "courseTitle": "Motor Performance: Discrete Tasks",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the coordination of musculoskeletal and neurological systems in performing discrete movement tasks such as reaching, grasping, throwing and speaking. Students will gain experience measuring and interpreting kinematics and kinetics of discrete tasks integrated with measures of activity and participation and clinical standardized tests.",
+        "Technical and Digital Skills": [
+            "Measuring kinematics and kinetics of discrete tasks",
+            "Interpreting measured data of discrete tasks",
+            "Implementing clinical standardized tests"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting measured data insights",
+            "Collaborating in task performance studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting activity and participation measures",
+            "Analyzing discrete movement tasks",
+            "Evaluating motor performance results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating musculoskeletal and neurological system studies",
+            "Leading discrete movement task performances"
+        ]
+    },
+    {
+        "courseCode": "KRS 855",
+        "courseTitle": "Neurosciences of Motor Control",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers neuroscience with specific regard to the fundamental design, organization and workings of the central nervous system (CNS) in the areas of motor control. The topics cover areas related to the typical development of motor function and changes in motor control throughout the lifespan. This course also assesses motor-control problems that occur as a result of congenital conditions, acquired damage, dysfunction or disease. Pathological conditions such as (but not limited to) stroke, Parkinson's disease, cerebellar disease, and muscle and joint pathologies are examined.",
+        "Technical and Digital Skills": [
+            "Understanding of the central nervous system (CNS)",
+            "Knowledge of the typical development of motor function",
+            "Understanding of pathological conditions such as stroke, Parkinson's disease, cerebellar disease, and muscle and joint pathologies",
+            "Assessment of motor-control problems due to congenital conditions, acquired damage, dysfunction or disease"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex neuroscience concepts",
+            "Explaining the changes in motor control throughout the lifespan"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing changes in motor control throughout the lifespan",
+            "Diagnosing motor-control problems",
+            "Understanding and interpreting the impact of pathological conditions on motor control"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "KRS 856",
+        "courseTitle": "Balance and Postural Control",
+        "academicLevel": "graduate",
+        "courseDescription": "An optimal level of balance and postural control is essential for the performance of many everyday activities. This course is specifically focused on the neural, muscular and biomechanical mechanisms underlying postural control in healthy populations of different ages. In addition, changes that can be observed in postural control following damage, dysfunction and/or disease are also covered. The implications of changes in balance control for falls will be a particular focus. Students in this course learn how to collect and interpret kinematic, kinetic and electrophysiological data associated with the neuromuscular function during posture and balance tasks.",
+        "Technical and Digital Skills": [
+            "Understanding of neural, muscular, and biomechanical mechanisms",
+            "Interpretation of kinematic, kinetic and electrophysiological data",
+            "Knowledge of neuromuscular function during posture and balance tasks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of postural control in different age groups",
+            "Understanding and interpretation of changes in postural control due to damage, dysfunction, or disease",
+            "Identification and understanding of implications of balance control changes for falls"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "KRS 857",
+        "courseTitle": "Kinesiology in Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "Rehabilitation aims to enhance the functional ability of individuals with impairment or disease, while areas within the field of kinesiology seek to understand changes in tissues, physiological systems, movements, and behaviors that occur through training and practice. In this course, students will study these related processes of adaptation, learning, and rehabilitation.",
+        "Technical and Digital Skills": [
+            "Understanding of kinesiology principles",
+            "Knowledge of disease-related impairments",
+            "Application of rehabilitation techniques",
+            "Study and analysis of physiological systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient interaction and communication",
+            "Collaboration with other healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis and analysis of physical impairments",
+            "Formulation of rehabilitation plans",
+            "Adaptation and modification of rehabilitation techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of rehabilitation programs",
+            "Leadership in healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "KRS 887",
+        "courseTitle": "Structured Teaching Experience for Kinesiology and Rehabilitation Professions",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide supervised and mentored teaching experience within fields applicable to kinesiology and rehabilitation.",
+        "Technical and Digital Skills": [
+            "Knowledge of kinesiology and rehabilitation principles",
+            "Application of teaching methodologies within the field",
+            "Usage of rehabilitation and physical therapy equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentoring",
+            "Effective communication of concepts and principles",
+            "Empathy and patient handling",
+            "Feedback interpretation and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation of teaching methods based on individual learning needs",
+            "Problem-solving in physical therapy situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervision and guidance",
+            "Planning and organizational skills for teaching sessions",
+            "Leadership in a teaching environment"
+        ]
+    },
+    {
+        "courseCode": "KRS 895",
+        "courseTitle": "Special Topics in Kinesiology and Rehabilitation",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of special topics in kinesiology and rehabilitation.",
+        "Technical and Digital Skills": [
+            "Advanced knowledge in kinesiology",
+            "Rehabilitation techniques",
+            "Use of rehabilitation equipment",
+            "Physiological assessments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication and interaction",
+            "Collaborative work with health professionals",
+            "Patient education on rehabilitation exercises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of rehabilitation progress",
+            "Adapting physical therapies based on individual needs",
+            "Critical analysis of kinesiology research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of rehabilitation programs",
+            "Leadership in interdisciplinary healthcare teams",
+            "Coordination of patient care"
+        ]
+    },
+    {
+        "courseCode": "KRS 898",
+        "courseTitle": "Supervised Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide supervised and mentored research experience within specialized topics applicable to kinesiology and rehabilitation.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Data collection in kinesiology and rehabilitation",
+            "Data analysis in kinesiology and rehabilitation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Mentorship communication",
+            "Collaborative research",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evidence-based problem-solving",
+            "Critical evaluation of research",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Independent decision-making",
+            "Mentor-guided leadership"
+        ]
+    },
+    {
+        "courseCode": "KRS 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "An approved research project written under the supervision of a faculty advisor, in which the student demonstrates the capacity to design and complete independent applied research. The completed project must be approved by the dissertation committee.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Applied research methodology",
+            "Data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex research findings",
+            "Collaboration with faculty advisor and dissertation committee"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Critical evaluation of research findings",
+            "Formulating research questions",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Meeting deadlines"
+        ]
+    }
+]

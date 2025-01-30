@@ -1,0 +1,2070 @@
+[
+    {
+        "courseCode": "PADM 634",
+        "courseTitle": "Regional Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "The course analyzes the origins of regional planning agencies, current organizational structures, financing and functional activities.  The focus is on the application of the systems approach to metropolitan planning issues.  This latter objective is achieved through participation in exercises dealing with economics, transportation and land-use allocation modeling.",
+        "Technical and Digital Skills": [
+            "Systems approach application",
+            "Economics modeling",
+            "Transportation modeling",
+            "Land-use allocation modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in exercises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing organizational structures",
+            "Analyzing functional activities",
+            "Financing analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of regional planning agencies origins",
+            "Understanding of current organizational structures"
+        ]
+    },
+    {
+        "courseCode": "PADM 651",
+        "courseTitle": "Administrative Theory I: The Context of Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the profession of public administration; the evolution and development of the field, the role of organizations in contemporary American government, and the roles of politics and administration.  The course also provides an introduction to the necessary skills for successful graduate study.",
+        "Technical and Digital Skills": [
+            "Understanding of public administration evolution and development",
+            "Comprehension of the role of organizations in American government"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and interact in the context of public administration",
+            "Effective communication in the field of public administration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the roles of politics and administration",
+            "Critical evaluation of public administration theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of organizational structure in government",
+            "Leadership within the context of public administration"
+        ]
+    },
+    {
+        "courseCode": "PADM 652",
+        "courseTitle": "Administrative Theory II: The Process of Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to management in the public sector.  Topics include: organizing public agencies, managing people and work groups, introduction to organizational systems (human resources, budget, and information systems), and effective leadership and decision-making processes.",
+        "Technical and Digital Skills": [
+            "Understanding of organizational systems",
+            "Budget management",
+            "Human Resources management",
+            "Understanding of information systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective leadership",
+            "Managing people and work groups",
+            "Decision-making processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Managing public agencies",
+            "Decision-making processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing public agencies",
+            "Effective leadership",
+            "Managing people and work groups",
+            "Understanding and implementing organizational systems"
+        ]
+    },
+    {
+        "courseCode": "PADM 653",
+        "courseTitle": "Wicked Problems in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course deals with some of the many complex, intractable, or \"wicked\" problems that public and non-profit sector professionals will struggle with during the course of their careers. In the context of public administration, a wicked problem is a set of conditions and circumstances that seems to defy resolution or even amelioration because of the incredibly complex nature of the situation.",
+        "Technical and Digital Skills": [
+            "Public policy analysis",
+            "Understand and navigate bureaucratic systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder engagement",
+            "Conflict resolution",
+            "Interdepartmental collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Complex problem analysis",
+            "Strategic thinking",
+            "Policy development and evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational management in public sector",
+            "Leading under uncertainty and complexity",
+            "Change management"
+        ]
+    },
+    {
+        "courseCode": "PADM 668",
+        "courseTitle": "Internship/Field Experience",
+        "academicLevel": "graduate",
+        "courseDescription": "Required of all students without previous experience in government service.  Supervised work experience in a public agency. A written report will be required.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication",
+            "Written communication",
+            "Building rapport with colleagues and supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and understanding problems in a public agency setting",
+            "Critical evaluation of public agency procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Adapting to new organizational structures",
+            "Following instructions and guidelines",
+            "Writing comprehensive reports"
+        ]
+    },
+    {
+        "courseCode": "PADM 671",
+        "courseTitle": "Public Budgeting and Financial Management",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of this course is to examine the institutions, principles, and techniques of national, state, and local budgeting processes and financial administration.  The course explores the allocation as well as the re-distributive role of government and the market.  While applying information technology, students will analyze the practices and fundamental concepts of government budgeting, financial management, and public finance, with an emphasis on revenue, expenditure, capital budgeting and debt structures.",
+        "Technical and Digital Skills": [
+            "Application of information technology in financial administration",
+            "Analysis of government budgeting practices",
+            "Understanding of capital budgeting and debt structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of revenue and expenditure",
+            "Understanding and interpretation of financial management concepts",
+            "Analysis of the re-distributive role of government and the market"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of national, state, and local budgeting processes",
+            "Allocation and management of government resources"
+        ]
+    },
+    {
+        "courseCode": "PADM 695",
+        "courseTitle": "Advanced Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics vary each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PADM 696",
+        "courseTitle": "Directed Readings",
+        "academicLevel": "graduate",
+        "courseDescription": "Specifically planned readings for the graduate student who wishes to pursue special interests outside the scope of formal studies. Supervised on an individual basis.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisor",
+            "Presenting reading insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of literature",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-direction",
+            "Time management",
+            "Project planning"
+        ]
+    },
+    {
+        "courseCode": "PADM 698",
+        "courseTitle": "Directed Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research on a specific program. A written report will be required.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Writing technical reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with a supervisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research problems",
+            "Applying analytical thinking",
+            "Interpreting research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing research",
+            "Time management",
+            "Self-direction in research"
+        ]
+    },
+    {
+        "courseCode": "PADM 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "An approved research project, written under the supervision of a faculty committee, in which the student demonstrates the capacity to design and complete independent scholarly investigation.  The completed project must be approved by the thesis committee.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Academic writing",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Faculty collaboration",
+            "Committee communication",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem solving",
+            "Analytical thinking",
+            "Critical evaluation of scholarly sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Meeting deadlines"
+        ]
+    },
+    {
+        "courseCode": "PADM 701",
+        "courseTitle": "Public Policy and Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "Exploration of key theories and approaches to public policy. This course covers all phases of the policy process, from formulation to evaluation, with particular focus upon the substance, political dynamics, and evolution of public policy.",
+        "Technical and Digital Skills": [
+            "Policy formulation and evaluation",
+            "Understanding of political dynamics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion of policy issues",
+            "Presenting policy proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public policy",
+            "Critical evaluation of policy outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in policy formulation",
+            "Managing policy change and evolution"
+        ]
+    },
+    {
+        "courseCode": "PADM 704",
+        "courseTitle": "Methods of Public Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of various methodologies for designing and conducting program evaluation and research. Experimental, quasi-experimental and nonexperimental procedures will be covered. (Cross listed with PPCM 704)",
+        "Technical and Digital Skills": [
+            "Program evaluation methodologies",
+            "Experimental procedures",
+            "Quasi-experimental procedures",
+            "Non-experimental procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research design",
+            "Critical evaluation of research methodologies",
+            "Analyzing the effectiveness of different methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting research",
+            "Organizing and structuring program evaluation"
+        ]
+    },
+    {
+        "courseCode": "PADM 708",
+        "courseTitle": "Urban and Regional Economic Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the theory and practice of urban and regional economic development.  The tools, institutions, and analytical techniques of urban and regional economic development are examined in light of relevant public policy issues.",
+        "Technical and Digital Skills": [
+            "Urban and regional economic analysis",
+            "Understanding of economic development tools and institutions",
+            "Application of analytical techniques in urban and regional economics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying complex economic theories",
+            "Discussion and debate on public policy issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing urban and regional economic issues",
+            "Applying economic theories to real-world issues",
+            "Critical evaluation of public policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing economic development strategies",
+            "Understanding and navigating economic institutions"
+        ]
+    },
+    {
+        "courseCode": "PADM 711",
+        "courseTitle": "Tools of Government",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of the range of administrative tools and strategies for the delivery of government services. Emphasizes new administrative alternatives under conditions of constant change.",
+        "Technical and Digital Skills": [
+            "Analysis of administrative tools",
+            "Understanding of government service delivery systems",
+            "Adaptation to new administrative alternatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of administrative strategies",
+            "Effective team coordination in service delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and implementation of administrative strategies",
+            "Critical evaluation of government services",
+            "Problem-solving under conditions of constant change"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in administrative change",
+            "Organizing and delivering government services"
+        ]
+    },
+    {
+        "courseCode": "PADM 712",
+        "courseTitle": "Emergency Management and Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "Explores policy and regulatory issues of emergency management; intergovernmental responsibilities and relationships among local, state and federal agencies in an \"all hazards\" approach to preparing and responding to manmade and natural disasters. Examines challenges faced by local, state, and federal managers during a large scale disaster.",
+        "Technical and Digital Skills": [
+            "Understanding of emergency policy and regulatory issues",
+            "Knowledge of intergovernmental responsibilities in disaster management",
+            "Familiarity with 'all hazards' approach in preparing and responding to disasters"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with local, state, and federal agencies",
+            "Coordination among multiple stakeholders in emergency situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and responding to large scale disaster challenges",
+            "Analyzing intergovernmental relationships and responsibilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing responsibilities and relationships in emergency situations",
+            "Leading and coordinating disaster response efforts",
+            "Navigating intergovernmental dynamics during emergencies"
+        ]
+    },
+    {
+        "courseCode": "PADM 713",
+        "courseTitle": "Fundraising for Nonprofit Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to fundraising principles of nonprofit organizations with an emphasis on different types of philanthropy, fundraising theories and practices, and motivations of givers. They will develop skills in creative problem solving for fundraising practice while learning to analyze and evaluate the fundraising process and methods. Additionally, students will develop the ability to synthesize and integrate current information and emerging ideas into a fundraising strategy and to think critically and analytically about a variety of fundraising perspectives.",
+        "Technical and Digital Skills": [
+            "Fundraising strategy development",
+            "Fundraising process analysis",
+            "Integration of current information and emerging ideas into fundraising practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding motivations of givers",
+            "Communicating fundraising theories and practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem solving for fundraising",
+            "Analytical evaluation of fundraising methods",
+            "Critical thinking about various fundraising perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in fundraising practice",
+            "Organizing and synthesizing information for fundraising strategy"
+        ]
+    },
+    {
+        "courseCode": "PADM 714",
+        "courseTitle": "Public-Private Partnerships",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth analysis of the forces behind the privatization movement. Examines the context of privatization, the theoretical and empirical arguments on both sides of the debate, and the different forms of privatization practiced in the U.S. The course draws on a wide range of disciplines in a quest for an understanding of the privatization phenomenon-political science, public administration, public policy, sociology, economics, management, and others. (Cross listed with PPCM 714)",
+        "Technical and Digital Skills": [
+            "Privatization analysis",
+            "Interdisciplinary research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating theoretical and empirical arguments",
+            "Cross-disciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Contextual analysis",
+            "Comparative evaluation of different privatization forms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for privatization",
+            "Management of privatized entities"
+        ]
+    },
+    {
+        "courseCode": "PADM 715",
+        "courseTitle": "Management and Governance of Nonprofit Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "Successful nonprofit organizations require substantial capability in key areas of management such as developing a strong board of directors, recruiting and motivating talented staff and volunteers, creating a strategic plan, and wisely managing fiscal and human resources. The course is built around understanding nonprofit governance structures, relationships, and responsibilities as well as unique management issues associated with them. This course addresses these topics from theoretical and practitioner perspectives.",
+        "Technical and Digital Skills": [
+            "Strategic planning",
+            "Fiscal resource management",
+            "Human resource management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Motivating staff and volunteers",
+            "Building strong board relationships",
+            "Recruiting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding governance structures",
+            "Addressing unique management issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Board of directors development",
+            "Nonprofit governance",
+            "Staff and volunteer leadership"
+        ]
+    },
+    {
+        "courseCode": "PADM 716",
+        "courseTitle": "Introduction to Nonprofit Sector",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers a broad introduction to the study and practice of the nonprofit sector. The course explores the history, scope, and significance of the nonprofit sector as it relates to philanthropy, voluntary action, civil society, and civic engagement.",
+        "Technical and Digital Skills": [
+            "Researching historical trends in the nonprofit sector",
+            "Understanding the digital landscape of philanthropy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Building relationships in civil society",
+            "Civic engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the scope and significance of nonprofit organizations",
+            "Critical evaluation of voluntary action"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and applying principles of nonprofit leadership",
+            "Organizing and managing voluntary actions"
+        ]
+    },
+    {
+        "courseCode": "PADM 717",
+        "courseTitle": "Nonprofit Financial Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with the knowledge to become effective financial managers by giving them practical applications of theory and skill-building in fiscal and accounting processes of nonprofit organizations.",
+        "Technical and Digital Skills": [
+            "Understanding of fiscal processes",
+            "Knowledge in nonprofit accounting",
+            "Financial management software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial reports",
+            "Explaining complex financial concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Budgeting and financial planning",
+            "Identifying financial risks",
+            "Analyzing fiscal statements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial strategic planning",
+            "Fiscal oversight",
+            "Financial leadership in nonprofit environments"
+        ]
+    },
+    {
+        "courseCode": "PADM 718",
+        "courseTitle": "Public Sector Contract Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the actions that must be taken following the award of a contract, including assurance of required outcomes, assurance of compliance, proper contract launch, proper contract close-out, and documentation and carrying forward lessons learned. Connections to steps that must be taken in the other two phases of the procurement process are noted. (Course is cross listed with PPCM 718)",
+        "Technical and Digital Skills": [
+            "Assurance of required outcomes",
+            "Assurance of compliance",
+            "Proper contract launch",
+            "Proper contract close-out",
+            "Documentation and carrying forward lessons learned"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with contract parties",
+            "Negotiation of contract terms and conditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing contract performance",
+            "Identifying and addressing non-compliance issues",
+            "Problem-solving in contract implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing contract processes",
+            "Leading contract launch and close-out procedures",
+            "Leading lessons learned process"
+        ]
+    },
+    {
+        "courseCode": "PADM 719",
+        "courseTitle": "Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines leadership through theoretical and practice-based frameworks. Offers analytical and intellectual examination and reflection on core issues in the practice of leadership. These objectives will be achieved through open discussion, honest self-assessment, experiential exercises, and observation of real-life leadership practice. (Cross listed with PPCM 719)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Open discussion",
+            "Honest self-assessment",
+            "Observation of real-life leadership practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical examination of leadership issues",
+            "Reflection on leadership practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding theoretical and practice-based leadership frameworks",
+            "Experiential leadership exercises"
+        ]
+    },
+    {
+        "courseCode": "PADM 720",
+        "courseTitle": "Public Human Resources Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the basic framework of the public personnel system beginning with the legal requirements imposed by federal and state laws and regulations.  General considerations of policy and procedures development, the organization of the public personnel system, the adoption of the personnel ordinance, the determination of various levels of employee status and the coverage of the personnel system are included.",
+        "Technical and Digital Skills": [
+            "Policy and procedure development",
+            "Public personnel system organization",
+            "Understanding of personnel ordinance",
+            "Employee status determination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpretation and application of federal and state laws",
+            "Effective communication within a public personnel system"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and adjustment of personnel system coverage",
+            "Problem-solving in policy and procedure development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within a public personnel system",
+            "Organizational understanding of public personnel systems"
+        ]
+    },
+    {
+        "courseCode": "PADM 721",
+        "courseTitle": "Transportation Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "Lecture, 3 hours; 3 credits.  This course focuses on surface transportation policy and planning, and highways and roads in particular.  Topics include local, state and federal policies, public involvement in transportation planning, transportation and highway finance, privatization and public-private partnerships, critical issues and policy questions.",
+        "Technical and Digital Skills": [
+            "Understanding of surface transportation policy and planning",
+            "Knowledge of highways and roads",
+            "Familiarity with local, state and federal policies",
+            "Understanding of transportation and highway finance",
+            "Understanding of privatization and public-private partnerships"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public involvement in transportation planning",
+            "Communicating policy questions and issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of transportation policies",
+            "Critical evaluation of public-private partnerships",
+            "Problem-solving in transportation and highway finance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing transportation policies",
+            "Leading public involvement in transportation planning"
+        ]
+    },
+    {
+        "courseCode": "PADM 723",
+        "courseTitle": "Ethics in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews the theory and application of ethics in the public sector, identifying public values and how they apply in the administration of government.  It reviews sources of values employed in public sector decision-making, and reviews how values in public administration are managed and applied.  Systems of professional ethics are reviewed in the context of public professions.  Case studies and best practices are examined to help the student understand the application of administrative ethics in public management.",
+        "Technical and Digital Skills": [
+            "Ethical decision-making in public administration",
+            "Understanding and application of professional ethics systems",
+            "Identifying public values"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ethical considerations",
+            "Navigating ethical dilemmas in public discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of ethical case studies in public administration",
+            "Critical evaluation of sources of values",
+            "Understanding and applying best practices in administrative ethics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in ethical decision-making",
+            "Managing values in public administration",
+            "Organizing public values in the administration of government"
+        ]
+    },
+    {
+        "courseCode": "PADM 724",
+        "courseTitle": "Administration of Human Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of human services involving direct client/agency interaction.  Problems of discretion and control are examined as alternative service delivery strategies which can deal with these problems.",
+        "Technical and Digital Skills": [
+            "Analysis of human services",
+            "Understanding of service delivery strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client/agency interaction",
+            "Effective communication with clients and agencies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Development of alternative solutions",
+            "Evaluation of service delivery strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Control and discretion management",
+            "Organizational problem-solving",
+            "Leadership in service delivery"
+        ]
+    },
+    {
+        "courseCode": "PADM 725",
+        "courseTitle": "Government, Society, and Business",
+        "academicLevel": "graduate",
+        "courseDescription": "This course studies the interdependencies and interactions among three broad entities - business, government, and society - in the delivery of public services, paying special attention to their implications for public policy.",
+        "Technical and Digital Skills": [
+            "Public policy research",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-sector communication",
+            "Stakeholder negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Critical evaluation of public services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for public services",
+            "Leadership in public service delivery"
+        ]
+    },
+    {
+        "courseCode": "PADM 726",
+        "courseTitle": "Introduction to Public Procurement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of procurement and contract management as a core function in public sector organizations. The course introduces the student to how properly-aligned, best practice acquisitions can support public entities' strategic goals. Challenges and opportunities for all stakeholders are addressed. Special attention is given to ongoing changes in public procurement. (Cross listed with PPCM 726)",
+        "Technical and Digital Skills": [
+            "Understanding of procurement and contract management",
+            "Knowledge of best practice acquisitions",
+            "Adaptability to ongoing changes in public procurement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to address challenges and opportunities for all stakeholders",
+            "Effective communication of strategic goals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of procurement procedures",
+            "Identification and resolution of procurement challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Alignment of acquisitions with strategic goals",
+            "Management of public sector contracts"
+        ]
+    },
+    {
+        "courseCode": "PADM 727",
+        "courseTitle": "Public Procurement and Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Course covers each phase of the public procurement project cycle, with an emphasis on tools and techniques to manage a public procurement project. (Cross listed with PPCM 727)",
+        "Technical and Digital Skills": [
+            "Understanding of public procurement project cycle",
+            "Proficiency in project management tools and techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with project stakeholders",
+            "Team collaboration in a public procurement setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to identify and resolve procurement-related issues",
+            "Analytical skills to evaluate project performance and make improvements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and organization",
+            "Leadership in a public procurement environment",
+            "Ability to manage and lead a procurement project"
+        ]
+    },
+    {
+        "courseCode": "PADM 728",
+        "courseTitle": "Public Sector Contract Planning and Formation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides insight into why and how public sector contracts should be planned and formed properly. A strong emphasis is placed on the strategic role that procurement can play in public sector organizations and how procurement planning and source selection, in particular, fit into that role. (Cross listed with PPCM 728.)",
+        "Technical and Digital Skills": [
+            "Strategic procurement planning",
+            "Source selection procedures",
+            "Public sector contract formation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation for procurement",
+            "Effective communication in public sector organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing procurement needs",
+            "Identifying appropriate sources for procurement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading procurement planning processes",
+            "Organizing public sector contracts"
+        ]
+    },
+    {
+        "courseCode": "PADM 731",
+        "courseTitle": "Public Sector Procurement Law and Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course surveys the laws and ethics applicable to public sector procurement and contract management. A theoretical and problem-based, interdisciplinary approach is used to address the major legal and ethical issues that arise when public sector organizations plan, form, and administer contracts. Attention is given to the role of professionalization in socializing appropriate ethics. (Cross listed with PPCM 731)",
+        "Technical and Digital Skills": [
+            "Public sector procurement law comprehension",
+            "Contract management practices",
+            "Understanding of ethical issues in public procurement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional ethics socialization",
+            "Interdisciplinary collaboration",
+            "Communication of legal and ethical issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-based approach to legal issues",
+            "Analytical reasoning in contract administration",
+            "Ethical decision making in procurement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Contract formation and administration",
+            "Planning in public sector organizations",
+            "Leadership in professional ethics"
+        ]
+    },
+    {
+        "courseCode": "PADM 734",
+        "courseTitle": "Negotiation and Dispute Resolution",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides conceptual and practical skills in negotiations. It examines the underlying cultural, legal, and organizational issues and problems that affect managing human resources in the workplace. (Cross listed with PPCM 734)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Negotiation techniques",
+            "Addressing cultural, legal and organizational issues",
+            "Effective communication in dispute resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem diagnosis in human resource management",
+            "Resolution strategy formulation",
+            "Analyzing and understanding disputes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing human resources",
+            "Leading negotiation and dispute resolution",
+            "Navigating legal and organizational structures"
+        ]
+    },
+    {
+        "courseCode": "PADM 735",
+        "courseTitle": "History of Race and Government Institutions",
+        "academicLevel": "graduate",
+        "courseDescription": "U.S. history is examined through a racial lens in the context of public administration: policies, laws, and court actions at the federal, state, and local levels. Three historical eras will be examined from colonial days to the present: Pre-Civil War Slavery, Jim Crow Segregation, and Mass Incarceration/ Colorblind Racism. Two transitional periods will also be covered: Post-Civil War Reconstruction and the Civil Rights Movement.",
+        "Technical and Digital Skills": [
+            "Historical data analysis",
+            "Digital research methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Debate and argumentation",
+            "Presenting historical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Policy analysis",
+            "Critical thinking",
+            "Interpretation of legal statutes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in historical research",
+            "Leadership in public discourse"
+        ]
+    },
+    {
+        "courseCode": "PADM 736",
+        "courseTitle": "Diversity, Equity, & Inclusion: A Public Administration and Public Policy Perspective",
+        "academicLevel": "graduate",
+        "courseDescription": "Across every economic and social indicator, there are disparities that are based on race, gender, and culture. In the U.S., some of the disparities have been created by explicit and intentional discrimination that was incorporated into the U.S. Constitution and various federal, state, and local laws. Other disparities grew out of unconscious or unintended impacts of federal, state, and local laws, policies, and practices. This course will examine these issues within the context of public administration, developing an awareness of inequities and the skills to dismantle discriminatory policies and practices.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective communication of public policies",
+            "Building awareness of inequities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of discriminatory policies",
+            "Analysis of socio-economic indicators",
+            "Identification and mitigation of unintended policy impacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy development",
+            "Leadership in public administration",
+            "Strategic planning for equity and inclusion"
+        ]
+    },
+    {
+        "courseCode": "PADM 739",
+        "courseTitle": "Cultural Competency",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the growing challenges and opportunities created by our interconnected world and the knowledge and abilities necessary to lead through situations in which there are misunderstandings or conflicts rooted in differences. The course explores the structure and dynamics of all forms of diversity in public, non-profit, and governmental organizations, the resulting implications for organizational health, and the critical role of cultural-competent leadership.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating with diverse groups",
+            "Resolving conflicts rooted in cultural differences",
+            "Promoting healthy conversations around diversity",
+            "Effective communication in public, non-profit, and governmental organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing dynamics of diversity in different organizational structures",
+            "Identifying potential misunderstandings or conflicts caused by cultural differences",
+            "Developing strategies to handle cultural differences and conflicts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading through situations with cultural misunderstandings or conflicts",
+            "Promoting organizational health in diverse settings",
+            "Implementing culturally competent leadership practices",
+            "Understanding the implications of diversity on organizational health"
+        ]
+    },
+    {
+        "courseCode": "PADM 740",
+        "courseTitle": "Community Participation and Civic Engagement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the importance of social, economic, cultural, religious, and civic organizations in building or restoring communities. The course focuses on the revitalization, restoration, or upgrading of communities, cities, and localities or neighborhoods within or adjacent to cities, by the residents themselves. Viewed through the lens of social capital theory, the course further explores examples of short- and long-term change accomplished by community members on their own, within organizations, or in partnership with government officials.",
+        "Technical and Digital Skills": [
+            "Understanding of social capital theory",
+            "Knowledge of community revitalization techniques",
+            "Proficiency in community research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with community members",
+            "Partnership building with government officials",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social, economic, cultural, and religious factors in community building",
+            "Problem-solving for community restoration",
+            "Strategic planning for long-term change"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in community organizations",
+            "Organizing community initiatives",
+            "Facilitation of partnerships and collaborations"
+        ]
+    },
+    {
+        "courseCode": "PADM 745",
+        "courseTitle": "Managing Development and Change in Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of the theory and practice of organization development.  Participants will take the role of change agent and public manager and apply a range of organization development techniques to public agency situations while giving attention to the particular cultural, political, legal and organizational characteristics of public organizations.",
+        "Technical and Digital Skills": [
+            "Application of organization development techniques",
+            "Understanding of public organizations' characteristics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Role-playing as a change agent and public manager",
+            "Cultural sensitivity and awareness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing public agency situations",
+            "Implementing change strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of public organizations",
+            "Leading organizational change",
+            "Understanding legal and political aspects of organizations"
+        ]
+    },
+    {
+        "courseCode": "PADM 746",
+        "courseTitle": "Capstone Seminar in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Presents an integrated approach to the field of public administration, and examines the political, administrative, and social implications of administrative choices.  The emphasis of the course will be a case approach to public administration and public management.",
+        "Technical and Digital Skills": [
+            "Case study analysis",
+            "Public administration concepts",
+            "Understanding of political, administrative, and social implications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking and presentation",
+            "Group collaboration",
+            "Effective written and verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification and resolution",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Decision making",
+            "Strategic planning"
+        ]
+    },
+    {
+        "courseCode": "PADM 750",
+        "courseTitle": "Performance Measurement and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on performance-based management approaches in public and non-profit settings. It addresses the performance measurement and management process, the identification of appropriate performance measures, and the implementation of a performance measurement system, as well as managing for performance.",
+        "Technical and Digital Skills": [
+            "Implementing performance measurement systems",
+            "Identifying appropriate performance measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating performance-based management strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing performance measures",
+            "Problem-solving in performance management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing for performance",
+            "Organizing performance-based management approaches"
+        ]
+    },
+    {
+        "courseCode": "PADM 752",
+        "courseTitle": "Introduction to Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to statistics for students in Public Administration and related fields. Emphasis is placed on the quantitative analysis of demographics and factors affecting public administrators in the field.",
+        "Technical and Digital Skills": [
+            "Statistical analysis",
+            "Quantitative data analysis",
+            "Demographic analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Communicating complex statistical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying factors affecting public administration",
+            "Critical evaluation of demographic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Data organization",
+            "Prioritizing relevant data factors"
+        ]
+    },
+    {
+        "courseCode": "PADM 753",
+        "courseTitle": "Research Methods in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines various methods for designing and conducting research, collecting and organizing data, and disseminating results.  Information technology and applications to practical management problems and public research topics are emphasized.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Data collection and organization",
+            "Use of information technology in research",
+            "Application of research methods to practical management problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research results effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing research problems",
+            "Analyzing and interpreting data",
+            "Application of research methods to public research topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Applying research findings to decision-making"
+        ]
+    },
+    {
+        "courseCode": "PADM 760",
+        "courseTitle": "Collaboration in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the fundamental concepts of collaborative governance in the field of public administration and public policy. Emphasis is placed on the government and/or nonprofit management and process of collaborative problem solving and policy implementation in cross-sector and intra-sector environments.",
+        "Technical and Digital Skills": [
+            "Understanding of public policies",
+            "Knowledge of non-profit management systems",
+            "Familiarity with collaborative governance systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-sector communication",
+            "Intra-sector communication",
+            "Collaborative problem-solving",
+            "Policy implementation communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Collaborative problem-solving",
+            "Cross-sector problem-solving",
+            "Intra-sector problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cross-sector initiatives",
+            "Leading intra-sector initiatives",
+            "Collaborative governance management",
+            "Public administration leadership"
+        ]
+    },
+    {
+        "courseCode": "PADM 772",
+        "courseTitle": "Public Financial Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of public sector financial principles, practices, and processes. A public manager's perspective of the decision making and practices of managing public funds. Introduction to governmental accounting practices. Emphasis on analyzing financial statements for decision making. Extensive use of Excel spreadsheet. Exploration of public financial management research and the link between public financial management practices and public fiscal and monetary policies.",
+        "Technical and Digital Skills": [
+            "Governmental accounting practices",
+            "Analyzing financial statements",
+            "Excel spreadsheet usage",
+            "Understanding of public fiscal and monetary policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making in public fund management",
+            "Public financial management research",
+            "Analysis of financial statements for decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Public sector financial principles",
+            "Practices and processes of managing public funds"
+        ]
+    },
+    {
+        "courseCode": "PADM 780",
+        "courseTitle": "Local Government Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with the professional knowledge, skills, and abilities to engage successfully with local governments from the following perspectives: as a generalist public administrator, as a local government specialist, and as a citizen, non-profit leader, or businessperson. In addition, this course provides students with the theoretical and policy context within which local governments operate. Students will master that knowledge by researching how local governments use those concepts in every day administration.",
+        "Technical and Digital Skills": [
+            "Public administration",
+            "Policy research",
+            "Local government operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement with local governments",
+            "Public interaction",
+            "Non-profit communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theoretical context analysis",
+            "Policy context analysis",
+            "Researching administrative concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Generalist public administration",
+            "Local government specialism",
+            "Non-profit leadership",
+            "Engagement with citizens, non-profit leaders, and businesspeople"
+        ]
+    },
+    {
+        "courseCode": "PADM 781",
+        "courseTitle": "Intergovernmental Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of relationships among federal, state, and local governmental units in the delivery of governmental programs. Focus on intergovernmental issues in urban metropolitan regions. (Cross listed with PPCM 781)",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Government program analysis",
+            "Understanding of federal, state, and local government structure"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration across government units",
+            "Effective communication within urban metropolitan regions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of intergovernmental issues",
+            "Problem-solving in program delivery"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading intergovernmental initiatives",
+            "Organizing government programs"
+        ]
+    },
+    {
+        "courseCode": "PADM 785",
+        "courseTitle": "Social Marketing in the Public Sector",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is an examination of the principles, practices, and use of Social Marketing - the use of techniques to influence a target audience to voluntarily accept, reject, modify, or abandon a behavior for the benefit of individuals, groups, or society as a whole - in the public sector. In addition, the course will familiarize students with current and potential uses of Social Marketing to accomplish public sector goals.",
+        "Technical and Digital Skills": [
+            "Understanding of Social Marketing techniques",
+            "Ability to identify potential uses of Social Marketing in the public sector"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Influencing a target audience",
+            "Promoting behavior change for societal benefit"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of Social Marketing strategies",
+            "Modifying Social Marketing techniques to better achieve public sector goals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing Social Marketing campaigns",
+            "Adapting Social Marketing practices to various public sector contexts"
+        ]
+    },
+    {
+        "courseCode": "PADM 800",
+        "courseTitle": "Colloquium - Public Administration and Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to the field, the academy, the School of Public Service faculty, and university resources; it also sets program expectations for students. Topics include: research process, developing a research agenda, critical analysis of literature, professional development, comprehensive exams process, and academic v. nonacademic careers.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Literature review and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking with faculty and other resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literature",
+            "Comprehensive exams process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing a research agenda",
+            "Career planning in academic and non-academic settings"
+        ]
+    },
+    {
+        "courseCode": "PADM 801",
+        "courseTitle": "Policy Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of theories of public policy. It provides a solid foundation for knowledge in this area. Students will be introduced to the leading theories, frameworks, and models that help describe and explain the policy process. The course examines the historical heritages of the policy sciences and the bases upon which public policy discussions take place at all stages of the policy process.",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Understanding of policy models and frameworks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Policy discussions",
+            "Presenting policy theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical heritages of policy sciences",
+            "Critical evaluation of public policy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in policy process",
+            "Organizing policy discussions"
+        ]
+    },
+    {
+        "courseCode": "PADM 802",
+        "courseTitle": "Public Administration I",
+        "academicLevel": "graduate",
+        "courseDescription": "The course reviews the history of administrative theory and the broad topics of administrative theory. The course is intended to address the impact that organizational structure and political/social environment have on administration. This course will not cover every theory, model, or framework relevant to public administration. However, this course is intended to provide the doctoral student with the theoretical foundations of public administration and understanding of their historical context in the field.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating within political/social environments",
+            "Engaging with historical context and its relevance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of administrative theories",
+            "Analysis of organizational structure's impact",
+            "Understanding of models and frameworks relevant to public administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of administrative theories",
+            "Understanding and influencing organizational structure",
+            "Understanding the impact of political/social environments on administration"
+        ]
+    },
+    {
+        "courseCode": "PADM 803",
+        "courseTitle": "Public Administration II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a continuation of PADM 802 and is intended to provide a framework for doctoral students to develop their understanding of public and nonprofit management organizational practices in the American context. The course is not exclusively directed to any one level of government, but includes national, state, and local management and organizational behavior. The course provides material on the concepts and perspectives on managerial rationale, responsibilities, decision making, and approaches to administration.",
+        "Technical and Digital Skills": [
+            "Understanding of public and nonprofit management organizational practices",
+            "Knowledge of national, state, and local management and organizational behavior"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying complex managerial rationale",
+            "Effective communication of administrative approaches"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making in public and nonprofit sectors",
+            "Analysis of organizational practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of managerial responsibilities",
+            "Leadership in bureaucratic structures",
+            "Understanding and applying administrative approaches"
+        ]
+    },
+    {
+        "courseCode": "PADM 804",
+        "courseTitle": "Multi-Sector Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "The course explores public administration from Neoliberalism and beyond to focus on the development of multi-sector administration, where multi-sector is defined as policy action across governments, nonprofit organizations, for-profit organizations, and/or grass-roots groups and individuals. The course is expected to cover the methods, challenges, and consequences of multi-sector administration. This course will also address the management and evaluation of multi-sector relationships. This is not an introduction to organizational structure or theory.",
+        "Technical and Digital Skills": [
+            "Multi-sector policy action management",
+            "Evaluation of multi-sector relationships",
+            "Understanding of Neoliberalism impact on public administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication across diverse organizations",
+            "Negotiating and mediating between sectors",
+            "Stakeholder engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the challenges of multi-sector administration",
+            "Evaluating consequences of multi-sector administration",
+            "Identifying and addressing potential issues in multi-sector collaborations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cross-sector initiatives",
+            "Strategy development for multi-sector administration",
+            "Organizational alignment across diverse sectors"
+        ]
+    },
+    {
+        "courseCode": "PADM 805",
+        "courseTitle": "Research Design",
+        "academicLevel": "graduate",
+        "courseDescription": "The course examines advanced research design and evaluation methods used in public administration and management research. Experimental, quasi-experimental, and non­experimental procedures in the context of urban settings will be emphasized. Includes usage of various statistical software.",
+        "Technical and Digital Skills": [
+            "Advanced research design",
+            "Evaluation methods",
+            "Usage of statistical software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Experimental procedures",
+            "Quasi-experimental procedures",
+            "Non-experimental procedures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PADM 806",
+        "courseTitle": "Multivariate Analysis in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the proper use, calculation, and interpretation of multivariate statistics as commonly found in the literature in public administration. The course will prepare students to choose the appropriate statistical tools, generate testable hypotheses, correctly apply the statistical tool, analyze the results, and present and interpret the results of those tests in a manner appropriate for public administration in the field.",
+        "Technical and Digital Skills": [
+            "Use of multivariate statistics",
+            "Application of statistical tools",
+            "Data analysis",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting statistical results",
+            "Interpreting statistical results for public administration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Choosing appropriate statistical tools",
+            "Generating testable hypotheses",
+            "Analyzing statistical results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Applying statistical tools for public administration decision-making"
+        ]
+    },
+    {
+        "courseCode": "PADM 808",
+        "courseTitle": "Urban and Regional Economic Development",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the theory and practice of urban and regional economic development. The tools, institutions, and analytical techniques of urban and regional economic development are examined in light of relevant public policy issues.",
+        "Technical and Digital Skills": [
+            "Urban and regional economic analysis",
+            "Utilization of economic development tools",
+            "Understanding of relevant development institutions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Policy communication",
+            "Inter-institutional collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Public policy analysis",
+            "Evaluation of economic development strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy implementation",
+            "Leading development projects"
+        ]
+    },
+    {
+        "courseCode": "PADM 810",
+        "courseTitle": "Policy and Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of various methodologies for designing and conducting public policy and program evaluation and research. Experimental, quasi-experimental and non-experimental procedures will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding of various methodologies",
+            "Designing evaluation and research",
+            "Understanding of experimental procedures",
+            "Understanding of quasi-experimental procedures",
+            "Understanding of non-experimental procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Translating complex methodologies into clear concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate evaluation methodology",
+            "Critical analysis of research and evaluation data",
+            "Problem-solving in design and execution of evaluations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of evaluations",
+            "Leading evaluation and research teams"
+        ]
+    },
+    {
+        "courseCode": "PADM 811",
+        "courseTitle": "Tools of Government",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of the range of administrative tools and strategies for the delivery of government services. Emphasizes new administrative alternatives under conditions of constant change.",
+        "Technical and Digital Skills": [
+            "Understanding of administrative tools for government services",
+            "Adapting to new administrative alternatives",
+            "Evaluation of technological trends in administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of administrative strategies",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of administrative tools and strategies",
+            "Adaptability to constant change",
+            "Strategic planning under uncertain conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in administrative change",
+            "Strategic organizational planning",
+            "Change management"
+        ]
+    },
+    {
+        "courseCode": "PADM 812",
+        "courseTitle": "Emergency Management and Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "Explores policy and regulatory issues of emergency management; intergovernmental responsibilities and relationships among local, state and federal agencies in an \"all hazards\" approach to preparing and responding to manmade and natural disasters. Examines challenges faced by local, state, and federal managers during a large scale disaster.",
+        "Technical and Digital Skills": [
+            "Regulatory compliance in emergency management",
+            "Understanding of 'all hazards' approach",
+            "Knowledge of intergovernmental responsibilities and relationships"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordination with local, state and federal agencies",
+            "Effective communication during crises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing challenges in large scale disaster management",
+            "Developing solutions for manmade and natural disasters"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading emergency response teams",
+            "Organizing resources during a disaster",
+            "Planning and preparation for potential emergencies"
+        ]
+    },
+    {
+        "courseCode": "PADM 813",
+        "courseTitle": "Fundraising for Nonprofit Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to fundraising principles of nonprofit organizations with an emphasis on different types of philanthropy, fundraising theories and practices, and motivations of givers. They will develop skills in creative problem solving for fundraising practice while learning to analyze and evaluate the fundraising process and methods. Additionally, students will develop the ability to synthesize and integrate current information and emerging ideas into a fundraising strategy and to think critically and analytically about a variety of fundraising perspectives.",
+        "Technical and Digital Skills": [
+            "Fundraising strategy synthesis",
+            "Integration of current information and emerging ideas"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding motivations of givers",
+            "Effective communication of fundraising strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem solving for fundraising",
+            "Analyzing and evaluating fundraising processes and methods",
+            "Critical and analytical thinking about various fundraising perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in fundraising practices",
+            "Organizing and strategizing fundraising methods"
+        ]
+    },
+    {
+        "courseCode": "PADM 814",
+        "courseTitle": "Public-Private Partnerships",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth analysis of the forces behind the privatization movement. Examines the context of privatization, the theoretical and empirical arguments on both sides of the debate, and the different forms of privatization practiced in the U.S. The course draws on a wide range of disciplines in a quest for an understanding of the privatization phenomenon-political science, public administration, public policy, sociology, economics, management, and others.",
+        "Technical and Digital Skills": [
+            "Understanding privatization theory",
+            "Examining empirical arguments",
+            "Inter-disciplinary knowledge application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and negotiation",
+            "Inter-disciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of privatization arguments",
+            "Analysis of privatization forms and contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Political science management",
+            "Public administration",
+            "Public policy formulation",
+            "Economic management"
+        ]
+    },
+    {
+        "courseCode": "PADM 815",
+        "courseTitle": "Management and Governance of Nonprofit Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "Successful nonprofit organizations require substantial capability in key areas of management such as developing a strong board of directors, recruiting and motivating talented staff and volunteers, creating a strategic plan, and wisely managing fiscal and human resources. The course is built around understanding nonprofit governance structures, relationships, and responsibilities as well as unique management issues associated with them. This course addresses these topics from theoretical and practitioner perspectives.",
+        "Technical and Digital Skills": [
+            "Strategic planning",
+            "Resource management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Motivating staff and volunteers",
+            "Developing strong board relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding nonprofit governance structures",
+            "Addressing unique management issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Recruiting talented staff and volunteers",
+            "Board of directors development",
+            "Human resource management"
+        ]
+    },
+    {
+        "courseCode": "PADM 816",
+        "courseTitle": "Introduction to Nonprofit Sector",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers a broad introduction to the study and practice of the nonprofit sector. The course explores the history, scope, and significance of the nonprofit sector as it relates to philanthropy, voluntary action, civil society, and civic engagement.",
+        "Technical and Digital Skills": [
+            "Researching historical data",
+            "Analyzing sector-related digital content",
+            "Using digital platforms for civic engagement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a nonprofit setting",
+            "Promoting philanthropic activities",
+            "Encouraging voluntary action"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact and significance of nonprofit sector",
+            "Evaluating the scope of the nonprofit sector",
+            "Assessing trends and patterns in philanthropy and voluntary action"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading civic engagement initiatives",
+            "Organizing voluntary actions",
+            "Coordinating nonprofit sector activities"
+        ]
+    },
+    {
+        "courseCode": "PADM 817",
+        "courseTitle": "Nonprofit Financial Management and Fund Raising",
+        "academicLevel": "graduate",
+        "courseDescription": "Lecture 3 hours; 3 credits.  This course provides students with the knowledge to become effective financial managers by giving them practical applications of theory and skill-building in fiscal processes and fundraising of nonprofit organizations.",
+        "Technical and Digital Skills": [
+            "Nonprofit financial management",
+            "Fundraising strategies",
+            "Fiscal processes in nonprofit organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Negotiation for fundraising"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial problem-solving",
+            "Analytical skills for fiscal process",
+            "Fundraising analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in financial management",
+            "Organizing fundraising events",
+            "Strategic planning for nonprofit organizations"
+        ]
+    },
+    {
+        "courseCode": "PADM 818",
+        "courseTitle": "Public Sector Contract Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines leadership through theoretical and practice-based frameworks. Offers analytical and intellectual examination and reflection on core issues in the practice of leadership. These objectives will be achieved through open discussion, honest self-assessment, experiential exercises, and observation of real-life leadership practice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Open discussion techniques",
+            "Effective communication in leadership"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reflection",
+            "Analytical examination of leadership issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership practice observation",
+            "Experiential leadership exercises",
+            "Self-assessment techniques"
+        ]
+    },
+    {
+        "courseCode": "PADM 819",
+        "courseTitle": "Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines leadership through theoretical and practice-based frameworks. Offers analytical and intellectual examination and reflection on core issues in the practice of leadership. These objectives will be achieved through open discussion, honest self-assessment, experiential exercises, and observation of real-life leadership practice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Open discussion",
+            "Honest self-assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical examination",
+            "Reflection on core issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of theoretical and practice-based frameworks",
+            "Observation of real-life leadership practice",
+            "Experiential exercises"
+        ]
+    },
+    {
+        "courseCode": "PADM 820",
+        "courseTitle": "Public Human Resources Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the basic framework of the public personnel system beginning with the legal requirements imposed by federal and state laws and regulations. General considerations of policy and procedures development, the organization of the public personnel system, the adoption of the personnel ordinance, the determination of various levels of employee status and the coverage of the personnel system are included.",
+        "Technical and Digital Skills": [
+            "Understanding of federal and state laws and regulations",
+            "Policy and procedures development",
+            "Adoption of the personnel ordinance",
+            "Determining levels of employee status",
+            "Coverage of the personnel system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of policy and procedures",
+            "Interpretation of legal requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public personnel system",
+            "Evaluation of employee status levels"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of the public personnel system",
+            "Leadership in policy and procedures development"
+        ]
+    },
+    {
+        "courseCode": "PADM 823",
+        "courseTitle": "Ethics in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews the theory and application of ethics in the public sector, identifying public values and how they apply in the administration of government. It reviews sources of values employed in public sector decision-making, and reviews how values in public administration are managed and applied. Systems of professional ethics are reviewed in the context of public professions. Case studies and best practices are examined to help the student understand the application of administrative ethics in public management.",
+        "Technical and Digital Skills": [
+            "Understanding of public values",
+            "Knowledge of professional ethical systems",
+            "Case studying techniques",
+            "Familiarity with best practices in public administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate public values",
+            "Ability to apply ethics in administrative decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for reviewing sources of values in decision-making",
+            "Problem-solving skills in the application of administrative ethics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership skills in managing public values",
+            "Organizational skills in applying ethics in public management"
+        ]
+    },
+    {
+        "courseCode": "PADM 824",
+        "courseTitle": "Administration of Human Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of human services involving direct client/agency interaction. Problems of discretion and control are examined as alternative service delivery strategies which can deal with these problems.",
+        "Technical and Digital Skills": [
+            "Client/Agency interaction management",
+            "Service delivery strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client communication",
+            "Inter-agency communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem analysis",
+            "Strategic problem-solving",
+            "Discretionary judgment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Discretion and control management",
+            "Leadership in service delivery"
+        ]
+    },
+    {
+        "courseCode": "PADM 825",
+        "courseTitle": "Government, Society and Business",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of business-government society interactions, with special attention to the influence of public policy and corporate strategy on corporate social responsibility. An important theme is the ethical component of management decision making.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating the impact of public policy on business strategy",
+            "Effective communication of corporate social responsibility initiatives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of business-government society interactions",
+            "Assessing the influence of public policy on corporate strategy",
+            "Evaluation of corporate social responsibility measures",
+            "Ethical decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in context of public policy and corporate social responsibility",
+            "Ethical leadership in management decision making"
+        ]
+    },
+    {
+        "courseCode": "PADM 826",
+        "courseTitle": "Introduction to Public Procurement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of procurement and contract management as a core function in public sector organizations. The course introduces the student to how properly-aligned, best practice acquisitions can support public entities' strategic goals. Challenges and opportunities for all stakeholders are addressed. Special attention is given to ongoing changes in public procurement.",
+        "Technical and Digital Skills": [
+            "Understanding of procurement processes",
+            "Knowledge of contract management",
+            "Awareness of best practice acquisitions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with stakeholders",
+            "Presentation of procurement strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of procurement challenges",
+            "Recognition of procurement opportunities",
+            "Assessment of procurement alignment with strategic goals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of procurement processes",
+            "Leadership in public sector organizations",
+            "Adaptation to changes in public procurement"
+        ]
+    },
+    {
+        "courseCode": "PADM 827",
+        "courseTitle": "Public Procurement and Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Course covers each phase of the public procurement project cycle, with an emphasis on tools and techniques to manage a public procurement project.",
+        "Technical and Digital Skills": [
+            "Understanding of public procurement project cycle",
+            "Knowledge of tools and techniques for managing a public procurement project"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with stakeholders",
+            "Negotiation skills for procurement",
+            "Collaborative project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and management of project risks",
+            "Cost-benefit analysis",
+            "Development of procurement strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and implementation",
+            "Time management",
+            "Leadership in project execution"
+        ]
+    },
+    {
+        "courseCode": "PADM 828",
+        "courseTitle": "Public Sector Contract Planning and Formation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides insight into why and how public sector contracts should be planned and formed properly. A strong emphasis is placed on the strategic role that procurement can play in public sector organizations and how procurement planning and source selection, in particular, fit into that role.",
+        "Technical and Digital Skills": [
+            "Procurement planning",
+            "Source selection",
+            "Public sector contract formation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Strategic communication",
+            "Negotiation for contract formation",
+            "Stakeholder engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic analysis",
+            "Problem-solving in procurement",
+            "Decision-making in source selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic leadership in procurement",
+            "Project management",
+            "Organizational planning"
+        ]
+    },
+    {
+        "courseCode": "PADM 831",
+        "courseTitle": "Public Sector Procurement Law and Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course surveys the laws and ethics applicable to public sector procurement and contract management. A theoretical and problem-based, interdisciplinary approach is used to address the major legal and ethical issues that arise when public sector organizations plan, form, and administer contracts. Attention is given to the role of professionalization in socializing appropriate ethics.",
+        "Technical and Digital Skills": [
+            "Public sector procurement law knowledge",
+            "Contract management",
+            "Understanding of professional ethics in procurement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation skills",
+            "Ethical decision-making",
+            "Professional interaction within public sector organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Legal problem solving",
+            "Ethical issue identification and resolution",
+            "Analysis of contract formation and administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Contract administration",
+            "Planning and forming contracts",
+            "Promotion and adherence to professional ethics"
+        ]
+    },
+    {
+        "courseCode": "PADM 834",
+        "courseTitle": "Negotiation and Dispute Resolution",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides conceptual and practical skills in negotiations. It examines the underlying cultural, legal, and organizational issues and problems that affect managing human resources in the workplace.",
+        "Technical and Digital Skills": [
+            "Understanding of legal issues in negotiations",
+            "Knowledge of organizational issues in dispute resolution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation tactics",
+            "Conflict resolution",
+            "Cross-cultural communication",
+            "Managing human resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem diagnosis in negotiations",
+            "Analysis of cultural issues in dispute resolution",
+            "Legal problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in negotiation situations",
+            "Organizational dispute management",
+            "Human resource management"
+        ]
+    },
+    {
+        "courseCode": "PADM 835",
+        "courseTitle": "History of Race and Government Institutions",
+        "academicLevel": "graduate",
+        "courseDescription": "U.S. history is examined through a racial lens in the context of public administration: policies, laws, and court actions at the federal, state, and local levels. Three historical eras will be examined from colonial days to the present: Pre-Civil War Slavery, Jim Crow Segregation, and Mass Incarceration/ Colorblind Racism. Two transitional periods will also be covered: Post-Civil War Reconstruction and the Civil Rights Movement.",
+        "Technical and Digital Skills": [
+            "Researching historical eras",
+            "Digital archival research",
+            "Data analysis of historical patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion of racial issues",
+            "Effective presentation of historical evidence",
+            "Cultural sensitivity in communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Analysis of public policies and laws",
+            "Interpretation of court actions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for historical research",
+            "Leadership in group discussions",
+            "Organization of historical timelines"
+        ]
+    },
+    {
+        "courseCode": "PADM 836",
+        "courseTitle": "Diversity, Equity, & Inclusion: A Public Administration and Public Policy Perspective",
+        "academicLevel": "graduate",
+        "courseDescription": "Across every economic and social indicator, there are disparities that are based on race, gender, and culture. In the U.S., some of the disparities have been created by explicit and intentional discrimination that was incorporated into the U.S. Constitution and various federal, state, and local laws.  Other disparities grew out of unconscious or unintended impacts of federal, state, and local laws, policies, and practices.  This course will examine these issues within the context of public administration, developing an awareness of inequities and the skills to dismantle discriminatory policies and practices.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural communication",
+            "Understanding and discussing racial, gender, and cultural disparities",
+            "Communicating policy changes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and analyzing discriminatory policies",
+            "Developing strategies to dismantle discriminatory practices",
+            "Analyzing impacts of federal, state, and local laws and policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting equity and inclusion within an organization",
+            "Leading policy changes",
+            "Awareness of organizational biases and inequities"
+        ]
+    },
+    {
+        "courseCode": "PADM 839",
+        "courseTitle": "Cultural Competency",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the growing challenges and opportunities created by our interconnected world and the knowledge and abilities necessary to lead through situations in which there are misunderstandings or conflicts rooted in differences. The course explores the structure and dynamics of all forms of diversity in public, non-profit, and governmental organizations, the resulting implications for organizational health, and the critical role of cultural-competent leadership.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Conflict resolution",
+            "Effective communication across cultural differences",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing dynamics of diversity in organizations",
+            "Understanding and resolving misunderstandings rooted in differences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading through situations of cultural conflict",
+            "Promoting organizational health in diverse environments",
+            "Demonstrating cultural-competent leadership"
+        ]
+    },
+    {
+        "courseCode": "PADM 840",
+        "courseTitle": "Community Participation and Civic Engagement",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the importance of social, economic, cultural, religious, and civic organizations in building or restoring communities. The course focuses on the revitalization, restoration, or upgrading of communities, cities, and localities or neighborhoods within or adjacent to cities, by the residents themselves. Viewed through the lens of social capital theory, the course further explores examples of short- and long-term change accomplished by community members on their own, within organizations, or in partnership with government officials.",
+        "Technical and Digital Skills": [
+            "Community mapping",
+            "Data collection and analysis",
+            "Use of digital tools for communication and organization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement",
+            "Negotiation with government officials",
+            "Cross-cultural communication",
+            "Collaboration within organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Community problem identification and solution development",
+            "Strategic planning for community development",
+            "Application of social capital theory",
+            "Analysis of social, economic, and cultural factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in community organizations",
+            "Partnership building and management",
+            "Community project management",
+            "Organization of community revitalization efforts"
+        ]
+    },
+    {
+        "courseCode": "PADM 850",
+        "courseTitle": "Performance Measurement and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on performance-based management approaches in public and non-profit settings. It addresses the performance measurement and management process, the identification of appropriate performance measures, and the implementation of a performance measurement system, as well as managing for performance.",
+        "Technical and Digital Skills": [
+            "Performance measurement",
+            "Implementation of performance measurement systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Performance management communication",
+            "Performance feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of appropriate performance measures",
+            "Analysis of performance data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing for performance",
+            "Performance-based management approaches"
+        ]
+    },
+    {
+        "courseCode": "PADM 860",
+        "courseTitle": "Collaboration in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the fundamental concepts of collaborative governance in the field of public administration and public policy. Emphasis is placed on the government and/or nonprofit management and process of collaborative problem solving and policy implementation in cross-sector and intra-sector environments.",
+        "Technical and Digital Skills": [
+            "Policy implementation",
+            "Cross-sector and intra-sector environments understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative governance",
+            "Inter-sector communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Collaborative problem-solving",
+            "Critical thinking in policy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a collaborative environment",
+            "Managing collaborative processes in public administration"
+        ]
+    },
+    {
+        "courseCode": "PADM 872",
+        "courseTitle": "Public Financial Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of public sector financial principles, practices, and processes. A public manager's perspective of the decision making and practices of managing public funds. Introduction to governmental accounting practices. Emphasis on analyzing financial statements for decision making. Extensive use of Excel spreadsheet. Exploration of public financial management research and the link between public financial management practices and public fiscal and monetary policies.",
+        "Technical and Digital Skills": [
+            "Understanding of public sector financial principles",
+            "Knowledge of governmental accounting practices",
+            "Analyzing financial statements",
+            "Excel spreadsheet usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Decision making in public fund management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Public financial management research",
+            "Analytical thinking for decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of public funds",
+            "Understanding link between public financial management practices and fiscal and monetary policies"
+        ]
+    },
+    {
+        "courseCode": "PADM 880",
+        "courseTitle": "Local Government Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with the professional knowledge, skills, and abilities to engage successfully with local governments from the following perspectives: as a generalist public administrator, as a local government specialist, and as a citizen, non-profit leader, or businessperson. In addition, this course provides students with the theoretical and policy context within which local governments operate. Students will master that knowledge by researching how local governments use those concepts in every day administration.",
+        "Technical and Digital Skills": [
+            "Policy research",
+            "Public administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement with local governments",
+            "Communication with non-profit leaders and businesspersons"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing local government operations",
+            "Theoretical context understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Local government administration",
+            "Leadership in public administration"
+        ]
+    },
+    {
+        "courseCode": "PADM 881",
+        "courseTitle": "Intergovernmental Relations",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of relationship among federal, state, and local governmental units in the delivery of governmental programs. Focus on intergovernmental issues in urban metropolitan regions.",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with diverse stakeholders",
+            "Effective communication between different government units"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of intergovernmental issues",
+            "Problem-solving in urban metropolitan regions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of governmental programs",
+            "Leadership in cross-agency collaborations"
+        ]
+    },
+    {
+        "courseCode": "PADM 885",
+        "courseTitle": "Social Marketing in the Public Sector",
+        "academicLevel": "graduate",
+        "courseDescription": "Analysis of relationships among federal, state, and local governmental units in the delivery of governmental programs. Focus on intergovernmental issues in urban metropolitan regions.",
+        "Technical and Digital Skills": [
+            "Public sector program analysis",
+            "Understanding of intergovernmental relations",
+            "Knowledge of urban metropolitan issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within governmental units",
+            "Interdepartmental collaboration and negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Issue identification and analysis",
+            "Strategic problem-solving for intergovernmental issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in intergovernmental settings",
+            "Program management and delivery",
+            "Conflict resolution within and between governmental units"
+        ]
+    },
+    {
+        "courseCode": "PADM 895",
+        "courseTitle": "Advanced Topics in Public Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in public administration.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Stakeholder communication",
+            "Policy articulation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Strategic decision making",
+            "Conflict resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Public sector management",
+            "Organizational development in public administration",
+            "Leadership in government settings"
+        ]
+    },
+    {
+        "courseCode": "PADM 898",
+        "courseTitle": "Directed Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research on a specific problem. A written report is required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data collection",
+            "Data analysis",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Written reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Research design",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "PADM 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "An approved research project, written under the supervision of a faculty advisor, in which the student demonstrates the capacity of design and completes independent applied research. The completed project must be approved by the dissertation committee.",
+        "Technical and Digital Skills": [
+            "Research design",
+            "Data gathering and analysis",
+            "Use of research software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaborating with faculty advisor and dissertation committee"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Formulating research questions",
+            "Critical evaluation of information",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-discipline and self-direction"
+        ]
+    },
+    {
+        "courseCode": "PADM 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and fulfilling registration requirements",
+            "Planning for graduation"
+        ]
+    },
+    {
+        "courseCode": "PADM 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active participation in doctoral group discussions",
+            "Effective engagement with academic advisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Consistent progress in doctoral research",
+            "Self-directed problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Meeting academic deadlines",
+            "Keeping track of research progress"
+        ]
+    }
+]

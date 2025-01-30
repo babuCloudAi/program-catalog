@@ -1,0 +1,129 @@
+[
+    {
+        "courseCode": "MAPD 601",
+        "courseTitle": "Number and Operations for PK-8 Mathematics Specialists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will meet the requirements of students in the Master of Science in Education: PK-8 Mathematics Specialist Endorsement Program, and cannot be used for credit toward any degree offered by the Department of Mathematics and Statistics. The course introduces students to a number of topics in PK-8 mathematics and related pedagogical methods. Acknowledging that learning with understanding occurs through a process of establishing a solid knowledge base upon which to build, students will explore the many and varied ways in which PK-8 students may develop number sense. The focus will be upon the development of best practices for teaching mathematics. This requires that the student have knowledge of the content, use a variety of pedagogical approaches, and be able to select and utilize appropriate manipulatives and technological resources that will foster PK-8 student understanding.",
+        "Technical and Digital Skills": [
+            "Development of best practices for teaching mathematics",
+            "Knowledge of PK-8 mathematics content",
+            "Use of various pedagogical approaches",
+            "Selection and utilization of appropriate manipulatives",
+            "Integration of technological resources in teaching"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of mathematical concepts to PK-8 students",
+            "Understanding and acknowledging the varied learning processes of PK-8 students",
+            "Promotion of number sense development in students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and understanding of PK-8 mathematics topics",
+            "Development of strategies to foster student understanding of mathematics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in the classroom setting",
+            "Organization of instructional materials and resources",
+            "Planning and execution of effective teaching strategies"
+        ]
+    },
+    {
+        "courseCode": "MAPD 602",
+        "courseTitle": "Geometry and Measurement for PK-8 Mathematics Specialists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will meet the requirements of students in the Master of Science in Education: PK-8 Mathematics Specialist Endorsement Program, and cannot be used for credit toward any degree offered by the Department of Mathematics and Statistics. The course introduces students to a number of topics in PK-8 mathematics and related pedagogical methods. Following a \"concrete-to-abstract\" developmental learning approach, students will explore the mathematical concepts of measurement and geometry in grades PK-8. Emphasis will be placed upon measurement and geometry content knowledge as well as the pedagogical knowledge specific to mathematics teaching and learning. Students will also learn to use appropriate technology.",
+        "Technical and Digital Skills": [
+            "Understanding of PK-8 mathematical concepts",
+            "Knowledge in measurement and geometry",
+            "Using relevant technology for mathematics teaching"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional skills for teaching mathematics",
+            "Communication of mathematical concepts to PK-8 students"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing mathematical problems",
+            "Developing solutions for mathematical problems in measurement and geometry"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing mathematical lessons",
+            "Leading mathematics learning in a PK-8 setting"
+        ]
+    },
+    {
+        "courseCode": "MAPD 603",
+        "courseTitle": "Rational Numbers and Proportional Reasoning for PK-8 Mathematics Specialists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will meet the requirements of students in the Master of Science in Education: PK-8 Mathematics Specialist Endorsement Program, and cannot be used for credit toward any degree offered by the Department of Mathematics and Statistics. The course introduces students to a number of topics in PK-8 mathematics and related pedagogical methods. It is designed to engage participants in constructing relational understanding between theoretical development of mathematics and students' learning of mathematics in the content strands of rational numbers and proportional reasoning. Students will learn how to select and use manipulatives to connect the concrete phase of mathematical learning to the abstract, symbolic phase. Various technologies will be integrated throughout the course as tools to enhance teaching and student understanding.",
+        "Technical and Digital Skills": [
+            "Understanding of PK-8 mathematics",
+            "Use of educational technologies",
+            "Use of manipulatives for mathematical learning",
+            "Connecting concrete and abstract phases of mathematical learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Relating theoretical mathematics to student learning",
+            "Teaching mathematics using various technologies",
+            "Constructing relational understanding between theory and practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selecting appropriate teaching tools and methods",
+            "Developing proportional reasoning",
+            "Understanding and applying rational numbers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing and implementing mathematics lessons",
+            "Integrating various technologies into teaching",
+            "Managing the learning process of PK-8 students"
+        ]
+    },
+    {
+        "courseCode": "MAPD 604",
+        "courseTitle": "Probability and Statistics for PK-8 Mathematics Specialists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will meet the requirements of students in the Master of Science in Education: PK-8 Mathematics Specialist Endorsement Program, and cannot be used for credit toward any degree offered by the Department of Mathematics and Statistics. The course introduces students to a number of topics in PK-8 mathematics and related pedagogical methods. It will focus on the content and processes that support the PK-8 students' learning of probability and statistics. Instruction will cover data collection, display, and analysis as well as the development of a fundamental understanding of probabilistic structures. These structures will be related to real world problem solving and hands-on activities. Technology will be integrated throughout the course to illustrate mathematical concepts, facilitate students exploration, and to make and test hypotheses.",
+        "Technical and Digital Skills": [
+            "Understanding of PK-8 mathematics",
+            "Data collection, display and analysis",
+            "Fundamental understanding of probabilistic structures",
+            "Usage of technology to illustrate mathematical concepts",
+            "Technology integration for student exploration",
+            "Technology usage for hypothesis testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pedagogical methods for PK-8 math",
+            "Relating mathematical structures to real world problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real world problem solving",
+            "Development and testing of hypotheses",
+            "Hands-on activities related to probability and statistics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guidance of PK-8 students' learning",
+            "Integration of technology into learning processes"
+        ]
+    },
+    {
+        "courseCode": "MAPD 605",
+        "courseTitle": "Algebra and Functions for PK-8 Mathematics Specialists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will meet the requirements of students in the Master of Science in Education: PK-8 Mathematics Specialist Endorsement Program and cannot be used for credit toward any degree offered by the Department of Mathematics and Statistics. The course introduces students to algebraic topics in PK-12 mathematics and related pedagogical methods. Topics will focus on making connections between arithmetic and algebra and transitioning concrete arithmetic thinking to abstract algebraic thinking. Technology will be included  to enhance students' algebraic understanding and sense making.",
+        "Technical and Digital Skills": [
+            "Understanding of algebraic topics in PK-12 mathematics",
+            "Use of technology to enhance algebraic understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching complex mathematical concepts",
+            "Communicating algebraic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Making connections between arithmetic and algebra",
+            "Transitioning from concrete arithmetic thinking to abstract algebraic thinking",
+            "Sense making in algebra"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing pedagogical methods for teaching algebra",
+            "Managing the transition from arithmetic to algebraic thinking"
+        ]
+    }
+]

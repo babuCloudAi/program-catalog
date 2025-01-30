@@ -1,0 +1,395 @@
+[
+    {
+        "courseTitle": "Introduction to Game Studies",
+        "courseCode": "GAME 201T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the core concepts and methodologies that inform game design, development, and criticism. This course will provide students with a critical overview of each of these content areas and will demonstrate how their specific concerns intersect in the design, production, and reception of contemporary games. It will also teach students hands-on methodologies through which to translate these concepts into creative and critical praxis.",
+        "Technical and Digital Skills": [
+            "Game design methodologies",
+            "Game development techniques",
+            "Critical evaluation of game content",
+            "Translation of concepts into creative and critical praxis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of game design and development concepts",
+            "Criticism and reception of contemporary games"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing intersections of game design, production, and reception",
+            "Application of game design and development concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of game design and development projects",
+            "Leading game design and development teams"
+        ]
+    },
+    {
+        "courseTitle": "Visual Design Fundamentals for Game Design",
+        "courseCode": "GAME 214",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce Game Design majors to basic art elements and design principles fundamental to visual asset creation for games and game-based applications. It will cover color theory, drawing fundamentals, spatial relationships, and other aspects of 2D composition. It will discuss how to apply these principles to effective User Interface (UI) design, as well as how to transform 2D assets into 3D objects. This course will also discuss architectural principles as they apply to level design, environmental design, and other subjects related to the visual design of games.",
+        "Technical and Digital Skills": [
+            "Understanding of basic art elements",
+            "Design principles for visual asset creation",
+            "Color theory",
+            "Drawing fundamentals",
+            "Understanding spatial relationships",
+            "2D composition",
+            "User Interface (UI) design",
+            "Transforming 2D assets into 3D objects",
+            "Architectural principles for level design",
+            "Environmental design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating design principles",
+            "Presenting visual designs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying principles to effective UI design",
+            "Transforming 2D designs into 3D",
+            "Analyzing spatial relationships",
+            "Solving design-related problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing design elements",
+            "Leading design projects",
+            "Organizing visual assets"
+        ]
+    },
+    {
+        "courseTitle": "Technologies for Game Design and Development",
+        "courseCode": "GAME 222",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce Game Design and Development majors to technologies and technological methodologies that are frequently employed by the industry. These technologies include but are not limited to 2D and 3D art, animation, and design software, game engines, music composition and sound design software, software development tools, and version control and collaboration software. This course will also discuss the challenges involved in designing and developing games for a variety of different platforms.",
+        "Technical and Digital Skills": [
+            "2D and 3D art creation",
+            "Animation design",
+            "Game engine utilization",
+            "Music composition and sound design",
+            "Software development tool usage",
+            "Version control and collaboration software operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative development using version control software",
+            "Communication within game design and development team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing challenges in designing and developing games",
+            "Platform-specific game development problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of digital assets and versions",
+            "Leading collaborative game development projects"
+        ]
+    },
+    {
+        "courseTitle": "Game Criticism",
+        "courseCode": "GAME 240",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the major theoretical approaches and debates that comprise game studies as an academic discipline. It will teach students how to research, evaluate, analyze, and construct persuasive arguments about games and game-related artifacts.",
+        "Technical and Digital Skills": [
+            "Game research",
+            "Analysis of game-related artifacts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Constructing persuasive arguments",
+            "Critical evaluation of games"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing games",
+            "Evaluating game studies theories and debates"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Game Balance, Rules, and Mechanics",
+        "courseCode": "GAME 333",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the complex question of how game designers produce balance through rules, mechanics, aesthetics, and other formal and informal gameplay elements. This course will provide students with an analytical framework to better understand how these elements are not only manifested in specific games, but how they work to simultaneously distinguish genres of games. More significantly, it will provide students with a practical methodology that will help them understand how to apply the insights gained through this analysis to their own games.",
+        "Technical and Digital Skills": [
+            "Understanding of game mechanics",
+            "Knowledge of game aesthetics",
+            "Application of gameplay elements",
+            "Genre differentiation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Game balance analysis",
+            "Critical evaluation of rules and mechanics",
+            "Practical problem-solving in game design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning and application of game mechanics",
+            "Project management in game design"
+        ]
+    },
+    {
+        "courseTitle": "Visual Design and Digital Graphics for Games",
+        "courseCode": "GAME 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on visual design and digital graphics for game-based applications. Designed to help students make the transition from traditional 2D drawing and illustration techniques to the types of 2D and 3D digital asset creation privileged by games and game-based applications, it provides students with hands-on experience with using industry standard software to generate sprites, UI components, textures, and other common 2D elements. It also introduces students to 3D modeling and texturing techniques, including but limited to optimization, texture mapping, and basic rigging and animation techniques.",
+        "Technical and Digital Skills": [
+            "2D drawing and illustration",
+            "2D and 3D digital asset creation",
+            "Use of industry standard software to generate sprites, UI components, textures, and other common 2D elements",
+            "3D modeling",
+            "Texturing techniques",
+            "Optimization",
+            "Texture mapping",
+            "Basic rigging and animation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Transitioning from traditional techniques to digital creation",
+            "Optimization of digital assets"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Game Design and Rhetoric",
+        "courseCode": "GAME 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will study the representative and rhetorical strategies through which computer game designers make meaning via their rhetorical choices. Multi-perspective in nature, it will also examine the discursive struggles that determine how players construct themselves as subjects in and against computer games via their rhetorical choices. This course will attempt to come to terms with the larger question of how scholars, through various forms of critical play, construct, categorize, and produce computer games as a subject of academic study.",
+        "Technical and Digital Skills": [
+            "Understanding of game design principles",
+            "Knowing and applying representative strategies in game design",
+            "Understanding of rhetorical strategies in game design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate game design concepts",
+            "Understanding of discursive struggles in game design",
+            "Ability to construct and communicate player character concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of game design strategies",
+            "Analytical understanding of player character constructions",
+            "Analysis of computer games as a subject of academic study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to categorize and produce computer games as academic subjects",
+            "Organizing and structuring critical play studies"
+        ]
+    },
+    {
+        "courseTitle": "Development with Game Engines",
+        "courseCode": "GAME 360",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide introduction to game engines including Unity, Unreal, Godot, & Stride. We will be using a wide range of software standards to explore and take advantage of well known game- engine programming patterns, concepts of software versioning, creating and maintaining changelogs, taking advantage of version control systems like git, and importantly using distributed version control systems like GitHub/GitLab. The class will focus on one core project that students will continue to iterate on across the length of the class.",
+        "Technical and Digital Skills": [
+            "Proficiency with game engines including Unity, Unreal, Godot, & Stride",
+            "Understanding of game-engine programming patterns",
+            "Knowledge of software versioning",
+            "Creation and maintenance of changelogs",
+            "Use of version control systems like git",
+            "Utilization of distributed version control systems like GitHub/GitLab"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative coding via GitHub/GitLab"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to iterate on a core project",
+            "Problem-solving using game engines and coding skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management and iteration planning",
+            "Software version control"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Game Studies",
+        "courseCode": "GAME 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors or for elective credit within a major.",
+        "Technical and Digital Skills": [
+            "Understanding game mechanisms",
+            "Basic game design",
+            "Game analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative game development",
+            "Effective communication in game contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Game-based problem solving",
+            "Analytical thinking within game scenarios",
+            "Mechanism analysis and adjustment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in game development",
+            "Leading game brainstorming sessions"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Visual Design and Digital Graphics for Games",
+        "courseCode": "GAME 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on advanced visual design and digital graphics for game-based applications, including but not limited to topics such as 3D modeling, texturing, texture mapping, animation, optimization, shaders, and particle systems. Conceived as a studio course, it provides students with hands-on experience working with a variety of digital software applications to create and optimize graphical assets for games and similar applications.",
+        "Technical and Digital Skills": [
+            "3D modeling",
+            "Texturing",
+            "Texture mapping",
+            "Animation",
+            "Optimization of graphical assets",
+            "Shaders",
+            "Particle systems",
+            "Use of digital software applications for graphic design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative graphic design",
+            "Effective communication of design ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting design issues",
+            "Optimization of graphics for performance",
+            "Analyzing graphical requirements for game applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing graphical assets",
+            "Leading a design team"
+        ]
+    },
+    {
+        "courseTitle": "Game Development and Design Workshop",
+        "courseCode": "GAME 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This workshop affords upper-division students the opportunity to tackle a wide variety of advanced projects on their own recognizance. It provides students working in game design and development with practical, individualized guidance in crucial aspects of the design and development process, including ideation, research, prototyping, implementation, documentation, and playtesting. Likewise, it provides students working in game criticism with instruction in the scholarly process of identifying, researching, drafting, and revising critical arguments about games and game-related issues.",
+        "Technical and Digital Skills": [
+            "Game design",
+            "Game development",
+            "Research",
+            "Prototyping",
+            "Implementation",
+            "Documentation",
+            "Playtesting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Individualized guidance",
+            "Drafting and revising critical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ideation",
+            "Identifying and researching game-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Development with Game Engines",
+        "courseCode": "GAME 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class will take an advanced Systems Engineering approach to using Game Engines to prototype, compile, and develop functioning software across major hardware and operating systems. It will focus on industry standard game engines and use the experience to produce games and game-like content to facilitate in-depth exploration into how game engines implement similar systems. This course will cover a range of advanced topics relevant to content creation and implementation with game engines including agile development, game engine programming patterns, networking, mobile development, procedural content generation, render-pipelines, and VR development. It will also explore how to publish and deploy games and game-related projects across a variety of digital platforms.",
+        "Technical and Digital Skills": [
+            "Systems Engineering",
+            "Use of Game Engines",
+            "Prototyping and Compiling Software",
+            "Development across major hardware and operating systems",
+            "Game engine programming patterns",
+            "Networking",
+            "Mobile development",
+            "Procedural content generation",
+            "Understanding and implementing render-pipelines",
+            "VR development",
+            "Publishing and deploying games and game-related projects across digital platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Game Engines implementation",
+            "Agile development methodology",
+            "Adapting to different hardware and operating system environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and coordinating software development process",
+            "Leading agile development teams"
+        ]
+    },
+    {
+        "courseTitle": "Narrative World Building",
+        "courseCode": "GAME 465",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of world building as ludic, narrative, and spatial praxis. This course will examine how games and game-related texts create playable realities through a critical examination of historical and contemporary examples of world building across a variety of media. It will provide students practical experience with how to translate these theoretical examples into effective gameplay across a variety of genres of games.",
+        "Technical and Digital Skills": [
+            "Understanding of game genres",
+            "Translation of theoretical examples into gameplay",
+            "Analysis of historical and contemporary examples of world building"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative game design",
+            "Communication of gameplay ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of game-related texts",
+            "Problem-solving in game design",
+            "Analytical understanding of playable realities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of effective gameplay",
+            "Leadership in game design projects"
+        ]
+    },
+    {
+        "courseTitle": "Graphical World Building",
+        "courseCode": "GAME 466",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of world building as spatial and architectural praxis. This course will examine how to use advanced 3D art and animation techniques to create believable, playable realities. It will provide students with hands-on experience using industry-standard graphics software to create compelling game environments for a variety of games and game-genres.",
+        "Technical and Digital Skills": [
+            "Advanced 3D art and animation techniques",
+            "Use of industry-standard graphics software",
+            "Creation of game environments for various game genres"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing believable, playable realities",
+            "Spatial and architectural praxis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Game Studies, Development, and Design",
+        "courseCode": "GAME 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Although traditionally associated with commercial ventures, entrepreneurship encompasses a wide variety of approaches that are also relevant to the creative and critical performances that intersect in the design, production, and study of games. This course will broach the theoretical and practical questions of how entrepreneurship intersects with and is implicated in the production of game and game-based endeavors. Conceived as a studio course, it is designed to teach students a hands-on methodology through which they can translate entrepreneurial approaches into real-world outcomes.",
+        "Technical and Digital Skills": [
+            "Game design",
+            "Game production",
+            "Understanding of game-based endeavors",
+            "Translation of entrepreneurial approaches into practical outcomes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative creation of game and game-based endeavors",
+            "Effective communication in a studio course environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of the intersection between entrepreneurship and game production",
+            "Problem-solving for real-world outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a studio course setting",
+            "Organization of game development processes",
+            "Management of entrepreneurial ventures in game studies"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Game Studies",
+        "courseCode": "GAME 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors or for elective credit within a major.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

@@ -1,0 +1,2301 @@
+[
+    {
+        "courseTitle": "Information Literacy and Research for Modeling and Simulation Engineers",
+        "courseCode": "MSIM 111",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to methods and standards for locating and using information in the discipline of modeling and simulation engineering.  Topics include:  assessing information requirements; searching for, locating and evaluating information sources related to modeling and simulation; tools for managing, sharing, and presenting information; and ethical issues in the use of information.  Students will complete exercises and research on topics involving information of interest to modeling and simulation engineers.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling and simulation engineering principles",
+            "Effective use of tools for managing, sharing, and presenting information",
+            "Locating and assessing information sources relevant to modeling and simulation",
+            "Ethical use of information in the field of engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings effectively",
+            "Sharing information in a professional context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing information requirements",
+            "Critical evaluation of information sources",
+            "Research on topics involving information of interest to modeling and simulation engineers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing information for use in modeling and simulation",
+            "Leading research efforts in modeling and simulation engineering"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Modeling and Simulation Engineering",
+        "courseCode": "MSIM 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the first course for Modeling and Simulation Engineering (M&SE) students.  M&SE discipline is surveyed at an overview level of detail.  Topics include basic definitions, M&S paradigms and methodologies, applications, design processes, and human factors.  Information literacy and research methods are addressed.  Papers and oral presentations are required and allow the student to investigate different aspects of the discipline.  The course provides a general conceptual framework for further M&SE studies.",
+        "Technical and Digital Skills": [
+            "Understanding M&S paradigms and methodologies",
+            "Applying M&S applications",
+            "Following M&S design processes",
+            "Employing information literacy and research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Producing and presenting research papers",
+            "Oral presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Investigating different aspects of M&S discipline",
+            "Analyzing human factors in M&S"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research process",
+            "Overseeing M&S studies"
+        ]
+    },
+    {
+        "courseTitle": "Discrete Event Simulation",
+        "courseCode": "MSIM 205",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the modeling and simulation of discrete-state, event-driven systems.  Topics include: basic properties and terminology for discrete event systems (DES); models for DES including queuing models, Petri nets, and state automata; and methodologies for simulating DES models.  Investigation of the steps of a DES simulation study including problem formulation, conceptual model design, simulation model development, input data modeling, output data analysis, verification and validation, and design of simulation experiments.",
+        "Technical and Digital Skills": [
+            "Modeling and simulating discrete-state, event-driven systems",
+            "Understanding properties and terminology of discrete event systems",
+            "Working with models for DES including queuing models, Petri nets, and state automata",
+            "Applying methodologies for simulating DES models",
+            "Developing simulation model",
+            "Input data modeling",
+            "Output data analysis",
+            "Verification and validation of DES models",
+            "Designing simulation experiments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem formulation in DES simulation",
+            "Conceptual model design",
+            "Analyzing output data from DES models",
+            "Verifying and validating DES models"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Discrete Event Simulation Laboratory",
+        "courseCode": "MSIM 281",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course designed to provide a hands-on introduction to the development and application of discrete event simulation.  Topics include an introduction to one or more discrete event simulation tools, common modeling constructs, data gathering and input data modeling, design of simulation experiments, output data analysis, and verification and validation.  The design and implementation of a series of increasingly complex simulations of various discrete event systems are conducted.  The laboratory is designed to accompany MSIM 205.  Student written reports are required.",
+        "Technical and Digital Skills": [
+            "Development and application of discrete event simulation",
+            "Operation of discrete event simulation tools",
+            "Data gathering for simulation purposes",
+            "Input data modeling",
+            "Design of simulation experiments",
+            "Output data analysis",
+            "Verification and validation of simulation results",
+            "Design and implementation of complex simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication through report writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving through design and implementation of simulation experiments",
+            "Analytical skills through output data analysis",
+            "Verification and validation of simulation results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing a series of increasingly complex simulations"
+        ]
+    },
+    {
+        "courseTitle": "Continuous Simulation",
+        "courseCode": "MSIM 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the fundamentals of modeling and simulating continuous-state, time-driven systems. Topics include differential equation representation of systems, formulation of state variable equations, and numerical integration techniques including Taylor series, families of Runge-Kutta and Adams methods.  Application domains considered include physical, biological, electrical systems, and real-time simulations.",
+        "Technical and Digital Skills": [
+            "Modeling continuous-state, time-driven systems",
+            "Formulation of state variable equations",
+            "Differential equation representation of systems",
+            "Numerical integration techniques",
+            "Understanding Taylor series",
+            "Application of Runge-Kutta methods",
+            "Application of Adams methods",
+            "Simulating physical systems",
+            "Simulating biological systems",
+            "Simulating electrical systems",
+            "Real-time simulations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with differential equations",
+            "Analyzing and optimizing continuous-state systems",
+            "Applying numerical integration techniques to real-world problems",
+            "Critical evaluation of system models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Simulation Software Design",
+        "courseCode": "MSIM 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to data structures, algorithms, programming methodologies, and software architectures in support of computer simulation.  Topics include lists, queues, sets, trees, searching, sorting, reusable code, and order of complexity.  Simulation structures developed include event lists, time management, and queuing models.  Software models are implemented and tested.",
+        "Technical and Digital Skills": [
+            "Understanding of data structures",
+            "Algorithm design",
+            "Proficiency in programming methodologies",
+            "Knowledge of software architectures",
+            "Ability to work with lists, queues, sets, trees",
+            "Searching and sorting techniques",
+            "Creating reusable code",
+            "Understanding order of complexity",
+            "Designing simulation structures",
+            "Time management in software models",
+            "Implementing and testing software models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving problems related to data structures and algorithms",
+            "Debugging and testing software models",
+            "Ability to design efficient algorithms based on time and space complexity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of software project timelines",
+            "Organizing and managing various data structures"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "MSIM 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation for credit based on the academic relevance of work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work is to take place.",
+        "Technical and Digital Skills": [
+            "Understanding of specific job roles and requirements",
+            "Familiarity with industry-standard tools and practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with superiors and peers",
+            "Professional networking",
+            "Active listening and clear articulation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply academic knowledge to real-world problems",
+            "Critical evaluation of workplace situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization",
+            "Adapting to corporate structure and culture"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "MSIM 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": [
+            "Industry-specific tools and software",
+            "Basic IT skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Workplace etiquette"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability",
+            "On-the-job problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization",
+            "Self-motivation",
+            "Initiative-taking"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "MSIM 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": [
+            "Adaptability to new technology",
+            "Understanding of chosen field's technical requirements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Active Listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem solving",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Goal setting",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Continuous Simulation Laboratory",
+        "courseCode": "MSIM 382",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course designed to provide a hands-on introduction to the development and application of continuous simulation.  Topics include an introduction to one or more continuous simulation tools, modeling of various physics-based systems, and numerical solution of differential equations.  The design and implementation of a series of increasingly complex simulations of various continuous systems are conducted.  The laboratory is designed to accompany MSIM 320.  Student written reports are required.",
+        "Technical and Digital Skills": [
+            "Development of continuous simulations",
+            "Application of continuous simulation tools",
+            "Modeling of physics-based systems",
+            "Numerical solution of differential equations",
+            "Design and implementation of complex simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written report creation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "System analysis through simulation",
+            "Problem-solving using differential equations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for simulation design and implementation"
+        ]
+    },
+    {
+        "courseTitle": "Simulation Software Design Laboratory",
+        "courseCode": "MSIM 383",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course designed to provide a hands-on introduction to the development of simulation software.  Topics include data structures, algorithms, and simulation executives.  The students will conclude with the development of a basic simulation executive capable of managing discrete event simulations.  The laboratory is designed to accompany MSIM 331.  Student written reports are required.",
+        "Technical and Digital Skills": [
+            "Development of simulation software",
+            "Understanding of data structures",
+            "Algorithm design",
+            "Development of a basic simulation executive",
+            "Management of discrete event simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written report preparation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Practical application of algorithms in software development",
+            "Problem-solving in simulation software development"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Modeling and Simulation Engineering",
+        "courseCode": "MSIM 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of recent developments in modeling and simulation engineering",
+            "Application of modern engineering techniques",
+            "Implementation of advanced simulation models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex engineering concepts",
+            "Collaborating on interdisciplinary engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing engineering problems",
+            "Solving complex simulation challenges",
+            "Critical evaluation of modeling techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering project teams",
+            "Organizing and managing simulation projects",
+            "Keeping up-to-date with recent developments in the field"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Distributed Simulation",
+        "courseCode": "MSIM 406/506",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to distributed simulation.  Topics include motivation for using distributed simulation, distributed simulation architectures, time management issues, and distributed simulation approaches.  Current standards for distributed simulation are presented.",
+        "Technical and Digital Skills": [
+            "Understanding of distributed simulation architectures",
+            "Knowledge of current standards for distributed simulation",
+            "Handling time management issues in distributed simulation",
+            "Implementing distributed simulation approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining the motivation for using distributed simulation",
+            "Presenting distributed simulation methodologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting distributed simulation systems",
+            "Analyzing the efficiency and effectiveness of different distributed simulation approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and managing distributed simulation projects",
+            "Leading a team in a distributed simulation environment"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Game Development",
+        "courseCode": "MSIM 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course focused on game development theory and modern practices with emphasis on educational game development.  Topics include game architecture, computer graphics theory, user interaction, audio, high level shading language, animation, physics, and artificial intelligence.  The developed games can run on a variety of computer, mobile, and gaming platforms.",
+        "Technical and Digital Skills": [
+            "Understanding of game architecture",
+            "Knowledge of computer graphics theory",
+            "Proficiency in user interaction design",
+            "Audio editing and integration",
+            "High-level shading language programming",
+            "Animation creation and integration",
+            "Physics simulation in games",
+            "Artificial intelligence implementation",
+            "Cross-platform game development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Gameplay mechanics design and testing",
+            "Debugging game code",
+            "Optimizing game performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for game development",
+            "Version control for game assets and code"
+        ]
+    },
+    {
+        "courseTitle": "Model Engineering",
+        "courseCode": "MSIM 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The goal of this course is to develop understanding of the various modeling paradigms appropriate for capturing system behavior and conducting digital computer simulation of many types of systems. The techniques and concepts discussed typically include UML, concept graphs, Bayesian nets, Markov models, Petri nets, system dynamics, Bond graphs, etc. Students will report on a particular technique and team to implement a chosen system model.  (cross-listed with ECE 410)",
+        "Technical and Digital Skills": [
+            "Understanding of various modeling paradigms",
+            "Digital computer simulation",
+            "UML",
+            "Concept graphs",
+            "Bayesian nets",
+            "Markov models",
+            "Petri nets",
+            "System dynamics",
+            "Bond graphs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration for system model implementation",
+            "Presenting reports on a particular technique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate system behavior capturing methods",
+            "Analyzing system behavior through digital computer simulation",
+            "Problem-solving for system model implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating team for system model implementation"
+        ]
+    },
+    {
+        "courseTitle": "Cyber Defense Fundamentals",
+        "courseCode": "MSIM 416/516",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards.",
+        "Technical and Digital Skills": [
+            "Understanding of cybersecurity theory",
+            "Information protection and assurance",
+            "Computer systems and network security",
+            "Knowledge of security models and concepts",
+            "Use of tools for building, analyzing, and attacking modern security systems",
+            "Experience in cryptographic algorithms",
+            "Knowledge of security fundamental principles",
+            "Understanding of Internet security protocol and standards"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze security systems",
+            "Problem-solving in the context of security systems attacks",
+            "Analytical skills for understanding and applying cryptographic algorithms",
+            "Ability to interpret and apply Internet security protocol and standards"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cyber Physical Systems Security",
+        "courseCode": "MSIM 419/519",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures. Cross-listed with ECE 419/CYSE 419.",
+        "Technical and Digital Skills": [
+            "Understanding of Cyber Physical Systems (CPS) concepts",
+            "Knowledge of CPS technologies and applications",
+            "Identifying fundamental CPS security challenges",
+            "Understanding the national security impact of CPS",
+            "Hands-on experience with CPS infrastructures",
+            "Identifying critical vulnerabilities in CPS",
+            "Implementing practical countermeasures in CPS"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex CPS concepts and issues",
+            "Collaborating on identifying and addressing CPS vulnerabilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing CPS infrastructures for vulnerabilities",
+            "Developing countermeasures for CPS security challenges",
+            "Understanding and addressing the national security implications of CPS"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading initiatives to address CPS security challenges",
+            "Organizing and managing CPS infrastructure security"
+        ]
+    },
+    {
+        "courseTitle": "Computer Graphics and Visualization",
+        "courseCode": "MSIM 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 406/506.) (Offered fall)",
+        "Technical and Digital Skills": [
+            "Computer graphics fundamentals",
+            "Visualization principles",
+            "Digital image and signal processing",
+            "Sampling",
+            "Discrete Fourier transform",
+            "Software architecture for visualization in modeling and simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Information literacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Modeling and simulation applications",
+            "Visual data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Analysis for Modeling and Simulation",
+        "courseCode": "MSIM 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to analysis techniques appropriate to the conduct of modeling and simulation studies.  Topics include input modeling, random number generation, output analysis, variance reduction techniques, and experimental design.  In addition, techniques for verification & validation are introduced.  Course concepts are applied to real systems and data.",
+        "Technical and Digital Skills": [
+            "Input modeling",
+            "Random number generation",
+            "Output analysis",
+            "Variance reduction techniques",
+            "Experimental design",
+            "Verification & validation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing real systems and data",
+            "Applying course concepts to real systems and data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Medical Image Analysis",
+        "courseCode": "MSIM 462/562",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to basic concepts in medical image analysis.  Medical image registration, segmentation, feature extraction, and classification are discussed.  Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered.  Cross-listed with ECE 462/ECE 562.",
+        "Technical and Digital Skills": [
+            "Medical image analysis",
+            "Image registration",
+            "Image segmentation",
+            "Feature extraction",
+            "Image classification",
+            "Understanding of basic psychophysics",
+            "Implementation of ROC and FROC analysis methodologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting medical images",
+            "Problem solving through image registration and segmentation",
+            "Analyzing features in medical images",
+            "Classifying medical images",
+            "Applying ROC and FROC analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Design and Modeling of Autonomous Robotic Systems",
+        "courseCode": "MSIM 463/563",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on autonomous robotics systems with emphasis on using modeling and simulation (M&S) for system level design and testing. Fundamental concepts associated with autonomous robotic systems are discussed. Course topics include: robotic control, architectures, and sensors as well as more advanced concepts such as error propagation, localization, mapping and autonomy. Design strategies that leverage M&S to accelerate the development and testing of sophisticated autonomous robotic algorithms for individual or teams of robots are covered.",
+        "Technical and Digital Skills": [
+            "Robotic control",
+            "Understanding of autonomous robotic systems",
+            "Robotic architectures and sensors",
+            "Error propagation",
+            "Localization",
+            "Mapping",
+            "Autonomy",
+            "Design strategies leveraging modeling and simulation",
+            "Development and testing of autonomous robotic algorithms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing error propagation",
+            "Designing strategies for modeling and simulation",
+            "Developing and testing autonomous robotic algorithms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and accelerating the development of autonomous robotic systems",
+            "Coordinating multiple robotic systems"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Cyber Security",
+        "courseCode": "MSIM 470/570",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course provides an overview of theory, tools and practice of cyber security and information assurance through prevention, detection and modeling of cyber attacks and recovery from such attacks. Techniques for security modeling, attack modeling, risk analysis and cost-benefit analysis are described to manage the security of cyber systems. Fundamental principles of cyber security and their applications for protecting software and information assets of individual computers and large networked systems are explored. Anatomy of some sample attacks designed to compromise confidentiality, integrity and availability of cyber systems are discussed.",
+        "Technical and Digital Skills": [
+            "Cyber security prevention techniques",
+            "Detection of cyber attacks",
+            "Security modeling",
+            "Attack modeling",
+            "Risk analysis",
+            "Cost-benefit analysis",
+            "Protection of software and information assets",
+            "Networked systems security"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Modeling of cyber attacks",
+            "Recovery from cyber attacks",
+            "Application of fundamental principles of cyber security",
+            "Analysis of sample attacks"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Transportation Data Analytics",
+        "courseCode": "MSIM 474/574",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 or ECE 304); any programming language such as C, Python or Java is beneficial but not required.",
+        "Technical and Digital Skills": [
+            "Statistical modeling",
+            "Understanding algorithms",
+            "Data visualization",
+            "Analyzing small- and large-scale data sets",
+            "Using different data for various real-world traffic/transportation applications",
+            "Basic knowledge in C, Python or Java programming language"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting data insights",
+            "Explaining complex algorithms",
+            "Communicating statistical results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analytics",
+            "Decision making based on data analysis",
+            "Troubleshooting data sets",
+            "Applying data in real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing large-scale data sets",
+            "Prioritizing data for different applications",
+            "Leading data-driven decision making"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Artificial Intelligence",
+        "courseCode": "MSIM 480/580",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to concepts, principles, challenges, and research in major areas of artificial intelligence. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems. Laboratory work required.",
+        "Technical and Digital Skills": [
+            "Natural language processing",
+            "Vision processing",
+            "Machine learning",
+            "Machine logic and reasoning",
+            "Robotics",
+            "Expert systems",
+            "Mundane systems",
+            "Laboratory work"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cooperative lab work",
+            "Technical communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem-solving in AI",
+            "Adaptive learning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading lab group activities",
+            "Project organization"
+        ]
+    },
+    {
+        "courseTitle": "Capstone Design I",
+        "courseCode": "MSIM 487W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Part one of the senior capstone design experience for modeling and simulation engineering majors. Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literary skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Modeling and simulation design",
+            "Writing technical reports",
+            "Preparing and delivering oral presentations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration for group projects",
+            "Effective written communication",
+            "Effective oral communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting a complete M&S project",
+            "Analyzing and interpreting project data",
+            "Problem-solving within a team environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing individual and group design projects",
+            "Coordinating with industry sponsors",
+            "Leading team reports and presentations"
+        ]
+    },
+    {
+        "courseTitle": "Capstone Design II",
+        "courseCode": "MSIM 488",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Part two of the senior capstone design experience for modeling and simulation engineering majors.  Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literacy skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.",
+        "Technical and Digital Skills": [
+            "M&S Design Process",
+            "Written Communication",
+            "Oral Communication",
+            "Information Literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group Project Collaboration",
+            "Oral Presentations",
+            "Written Reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting M&S Project",
+            "Critical Analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management",
+            "Team Leadership",
+            "Collaboration on Industry-Sponsored Projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Modeling and Simulation Engineering",
+        "courseCode": "MSIM 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in modeling and simulation engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling techniques",
+            "Proficiency in simulation engineering software",
+            "Knowledge of recent developments in modeling and simulation engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex technical concepts",
+            "Collaboration in a multi-disciplinary team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in modeling and simulation scenarios",
+            "Analytical thinking for creating and improving models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering",
+            "Leading a technical team"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Modeling and Simulation Engineering",
+        "courseCode": "MSIM 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling techniques",
+            "Simulation engineering",
+            "Keeping up with recent technological advancements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex modeling techniques",
+            "Discussing recent developments in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate modeling techniques for specific situations",
+            "Evaluating the effectiveness of different simulation engineering methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research in new developments",
+            "Organizing information about the latest methods and tools"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Modeling and Simulation Engineering",
+        "courseCode": "MSIM 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Individual analytical, computational, and/or experimental study in an area seleted by the student.  Supervised and approved by the advisor.",
+        "Technical and Digital Skills": [
+            "Analytical skills",
+            "Computational skills",
+            "Experimental skills",
+            "Modeling and simulation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with advisor",
+            "Presentation of study findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Research design",
+            "Data analysis",
+            "Evaluating and refining methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent work",
+            "Project planning and management",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseCode": "MSIM 508",
+        "courseTitle": "Introduction to Game Development",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory course focused on game development theory and modern practices with emphasis on educational game development.  Topics include game architecture, computer graphics theory, user interaction, audio, high level shading language, animation, physics, and artificial intelligence.  The developed games can run on a variety of computer, mobile, and gaming platforms.",
+        "Technical and Digital Skills": [
+            "Game development theory",
+            "Understanding of game architecture",
+            "Knowledge of computer graphics theory",
+            "User interaction design",
+            "Audio design for games",
+            "High level shading language",
+            "Animation creation",
+            "Game physics knowledge",
+            "Artificial intelligence in games",
+            "Cross-platform game development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative game development",
+            "Communicating complex game concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in game architecture",
+            "Analytical thinking for user interaction design",
+            "Problem-solving in audio design for games",
+            "Analyzing and solving problems in animation",
+            "Analyzing and resolving game physics issues",
+            "Artificial intelligence problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in game development",
+            "Leading a game development team"
+        ]
+    },
+    {
+        "courseCode": "MSIM 510",
+        "courseTitle": "Model Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to develop understanding of the various modeling paradigms appropriate for capturing system behavior and conducting digital computer simulation of many types of systems. The techniques and concepts discussed typically include UML, concept graphs, Bayesian nets, Markov models, Petri nets, system dynamics, Bond graphs, etc. Students will report on a particular technique and team to implement a chosen system model. (cross-listed with ECE 510)",
+        "Technical and Digital Skills": [
+            "Understanding of UML",
+            "Concept graphs",
+            "Bayesian nets",
+            "Markov models",
+            "Petri nets",
+            "System dynamics",
+            "Bond graphs",
+            "Digital computer simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team-based system model implementation",
+            "Reporting on modeling techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Capturing system behavior",
+            "Applying appropriate modeling paradigms",
+            "Conducting computer simulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading system model implementation projects",
+            "Organizing and presenting reports on modeling techniques"
+        ]
+    },
+    {
+        "courseCode": "MSIM 516",
+        "courseTitle": "Cyber Defense Fundamentals",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards.  Cross-listed with ECE 516.",
+        "Technical and Digital Skills": [
+            "Understanding of cybersecurity theory",
+            "Knowledge of information protection and assurance",
+            "Proficiency in computer systems and networks security",
+            "Familiarity with security models and concepts",
+            "Experience with cryptographic algorithms",
+            "Understanding of security fundamental principles",
+            "Knowledge of Internet security protocol and standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex security concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and attack modern security systems",
+            "Hands-on experience in problem-solving using cryptographic algorithms"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 519",
+        "courseTitle": "Cyber Physical Systems Security",
+        "academicLevel": "graduate",
+        "courseDescription": "Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures. Cross-listed with ECE 519.",
+        "Technical and Digital Skills": [
+            "Understanding of basic concepts, technologies and applications of CPS",
+            "Knowledge of fundamental CPS security challenges",
+            "Experience in CPS infrastructures",
+            "Identifying critical vulnerabilities in CPS",
+            "Implementing practical countermeasures in CPS security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex CPS concepts and issues",
+            "Sharing knowledge and best practices in CPS security"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing CPS infrastructures for potential vulnerabilities",
+            "Developing solutions to address CPS security challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to prioritize and manage CPS security issues",
+            "Leadership in implementing CPS security measures"
+        ]
+    },
+    {
+        "courseCode": "MSIM 541",
+        "courseTitle": "Computer Graphics and Visualization",
+        "academicLevel": "graduate",
+        "courseDescription": "The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 506.) (Offered fall)",
+        "Technical and Digital Skills": [
+            "Computer graphics fundamentals",
+            "Digital image and signal processing",
+            "Software architecture for visualization in modeling and simulation",
+            "Sampling and discrete Fourier transform"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Information literacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Visualization principles",
+            "Modeling and simulation applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 551",
+        "courseTitle": "Analysis for Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to analysis techniques appropriate to the conduct of modeling and simulation studies.  Topics include input modeling, random number generation, output analysis, variance reduction techniques, and experimental design.  In addition, techniques for verification & validation are introduced.  Course concepts are applied to real systems and data.",
+        "Technical and Digital Skills": [
+            "Input modeling",
+            "Random number generation",
+            "Output analysis",
+            "Variance reduction techniques",
+            "Experimental design",
+            "Verification & validation techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis techniques for modeling and simulation",
+            "Applying course concepts to real systems and data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 562",
+        "courseTitle": "Introduction to Medical Image Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to basic concepts in medical image analysis.  Medical image registration, segmentation, feature extraction, and classification are discussed.  Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered.  Cross-listed with ECE 462/ECE 562.",
+        "Technical and Digital Skills": [
+            "Medical image registration",
+            "Image segmentation",
+            "Feature extraction",
+            "Image classification",
+            "Basic psychophysics",
+            "ROC analysis",
+            "FROC methodologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing medical images",
+            "Problem-solving in image analysis",
+            "Interpretation of ROC and FROC analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 563",
+        "courseTitle": "Design and Modeling of Autonomous Robotic Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Course focuses on autonomous robotics systems with emphasis on using modeling and simulation (M&S) for system level design and testing.  Fundamental concepts associated with autonomous robotic systems are discussed.  Course topics include: robotic control, architectures, and sensors as well as more advanced concepts such as error propagation, localization, mapping and autonomy.  Design strategies that leverage M&S to accelerate the development and testing of sophisticated autonomous robotic algorithms for individual or teams of robots are covered.",
+        "Technical and Digital Skills": [
+            "Autonomous robotics system design",
+            "Modeling and simulation",
+            "Robotic control",
+            "Understanding of robotic architectures",
+            "Sensor integration",
+            "Error propagation",
+            "Localization and mapping",
+            "Design of autonomous robotic algorithms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "System level design and testing",
+            "Error propagation analysis",
+            "Localization and mapping"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management with M&S",
+            "Teamwork in developing algorithms for individual or teams of robots"
+        ]
+    },
+    {
+        "courseCode": "MSIM 570",
+        "courseTitle": "Foundations of Cyber Security",
+        "academicLevel": "graduate",
+        "courseDescription": "Course provides an overview of theory, tools and practice of cyber security and information assurance through prevention, detection and modeling of cyber attacks and recovery from such attacks. Techniques for security modeling, attack modeling, risk analysis and cost-benefit analysis are described to manage the security of cyber systems. Fundamental principles of cyber security and their applications for protecting software and information assets of individual computers and large networked systems are explored. Anatomy of some sample attacks designed to compromise confidentiality, integrity and availability of cyber systems are discussed.",
+        "Technical and Digital Skills": [
+            "Cyber security principles",
+            "Information assurance",
+            "Security modeling",
+            "Attack modeling",
+            "Risk analysis",
+            "Cost-benefit analysis",
+            "Protection of software and information assets",
+            "Understanding and recovery from cyber attacks"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Prevention of cyber attacks",
+            "Detection of cyber attacks",
+            "Analysis of cyber attacks",
+            "Understanding the anatomy of cyber attacks"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 574",
+        "courseTitle": "Transportation Data Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 or ECE 304); any programming language such as C, Python or Java is beneficial but not required.",
+        "Technical and Digital Skills": [
+            "Statistical modeling",
+            "Algorithm understanding",
+            "Data visualization",
+            "Programming in C, Python or Java",
+            "Working with small- and large-scale data sets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing transportation data",
+            "Applying data analytics to real-world transportation applications",
+            "Decision making based on data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 580",
+        "courseTitle": "Introduction to Artificial Intelligence",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to concepts, principles, challenges, and research in major areas of artificial intelligence. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems. Laboratory work required.",
+        "Technical and Digital Skills": [
+            "Natural language processing",
+            "Vision processing",
+            "Machine learning",
+            "Machine logic and reasoning",
+            "Robotics",
+            "Understanding of expert and mundane systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem solving",
+            "Presentation of AI concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing AI challenges",
+            "Research in AI fields",
+            "Logical reasoning",
+            "Critical evaluation of AI systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of laboratory work",
+            "Project planning in AI research"
+        ]
+    },
+    {
+        "courseCode": "MSIM 595",
+        "courseTitle": "Topics in Modeling and Simulation Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in modeling and simulation engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling techniques",
+            "Simulation engineering",
+            "Adaptation to recent technological advancements in the field"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on complex engineering projects",
+            "Communicating complex modeling and simulation concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in simulation engineering",
+            "Analyzing models and simulations",
+            "Adapting to new developments in the field"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading engineering projects",
+            "Organizing complex simulation tasks",
+            "Staying updated with recent developments"
+        ]
+    },
+    {
+        "courseCode": "MSIM 596",
+        "courseTitle": "Topics in Modeling and Simulation Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling and simulation concepts",
+            "Keeping up-to-date with recent developments in the field",
+            "Use of relevant modeling and simulation software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex modeling and simulation concepts",
+            "Collaboration on simulation projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of modeling and simulation methodologies",
+            "Solution design for simulation problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management within the context of simulation engineering",
+            "Leadership in simulation engineering teams"
+        ]
+    },
+    {
+        "courseCode": "MSIM 597",
+        "courseTitle": "Independent Study in Modeling and Simulation Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual analytical, computational, and/or experimental study in an area selected by the student.  Supervised and approved by the advisor.",
+        "Technical and Digital Skills": [
+            "Analytical study",
+            "Computational study",
+            "Experimental study"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Research design",
+            "Data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project management",
+            "Research planning"
+        ]
+    },
+    {
+        "courseCode": "MSIM 601",
+        "courseTitle": "Introduction to Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Modeling and simulation (M&S) discipline surveyed at an overview level of detail.  Basic terminology, modeling methods, and simulation paradigms are introduced.  Applications of M&S in various disciplines are discussed.  The course provides a general conceptual framework for those interested in using M&S and for further studies in M&S.  Not open to MSVE degree seeking students.",
+        "Technical and Digital Skills": [
+            "Understanding of basic M&S terminology",
+            "Knowledge of modeling methods",
+            "Comprehension of simulation paradigms",
+            "Application of M&S in various disciplines"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Conceptual understanding of M&S",
+            "Applying M&S to practical situations",
+            "Analyzing the suitability of M&S for different tasks"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 602",
+        "courseTitle": "Simulation Fundamentals",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the modeling and simulation discipline.  Introduction to discrete event simulation (DES) including simulation methodology, input data modeling, output data analysis, and an overview of DES tools.  Introduction to continuous simulation (CS) including simulation methodology, differential equation models, numerical solution techniques, and an overview of CS tools.",
+        "Technical and Digital Skills": [
+            "Understanding of discrete event simulation (DES) methodologies",
+            "Familiarity with input data modeling",
+            "Understanding of output data analysis",
+            "Knowledge of DES tools",
+            "Understanding of continuous simulation (CS) methodologies",
+            "Knowledge of differential equation models",
+            "Proficiency in numerical solution techniques",
+            "Understanding of CS tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of simulation results",
+            "Problem-solving using discrete event simulation",
+            "Problem-solving using continuous simulation",
+            "Analysis of input and output data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 603",
+        "courseTitle": "Simulation Design",
+        "academicLevel": "graduate",
+        "courseDescription": "Course develops the computer software skills necessary for the design and development of simulation software.  Topics covered include software architectures, software engineering, software design, object-oriented programming, abstract data types and classes, data structures, algorithms, and testing and debugging techniques.  Software design and development of simulation systems (discrete-event, continuous, and Monte Carlo) are emphasized.",
+        "Technical and Digital Skills": [
+            "Computer software skills",
+            "Software design and development",
+            "Object-oriented programming",
+            "Working with abstract data types and classes",
+            "Data structures",
+            "Algorithm design and implementation",
+            "Software testing and debugging techniques",
+            "Simulation software development (discrete-event, continuous, and Monte Carlo)"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Software engineering",
+            "Software architectures understanding",
+            "Problem-solving with algorithms",
+            "Debugging software issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing software development projects",
+            "Leading software design and development"
+        ]
+    },
+    {
+        "courseCode": "MSIM 607",
+        "courseTitle": "Machine Learning I",
+        "academicLevel": "graduate",
+        "courseDescription": "Course provides a practical treatment of design, analysis, implementation and applications of algorithms. Topics include multiple learning models: linear models, neural networks, support vector machines, instance-based learning, Bayesian learning, genetic algorithms, ensemble learning, reinforcement learning, unsupervised learning, etc. (Cross listed with ECE 607)",
+        "Technical and Digital Skills": [
+            "Design and analysis of algorithms",
+            "Implementation of algorithms",
+            "Understanding of linear models",
+            "Understanding of neural networks",
+            "Application of support vector machines",
+            "Instance-based learning",
+            "Bayesian learning",
+            "Genetic algorithm design",
+            "Ensemble learning",
+            "Reinforcement learning",
+            "Unsupervised learning"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Algorithmic problem solving",
+            "Analytical thinking for model selection",
+            "Problem solving using multiple learning models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 660",
+        "courseTitle": "System Architecture and Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn the essential aspects of the system architecture paradigm through environment and analysis of multiple architecture framework and enterprise engineering, such as IDEFO, TOGAF, DODAF and OPM. Emphasis on system modeling and enterprise engineering.  (Cross listed with ENMA 660)",
+        "Technical and Digital Skills": [
+            "Understanding of architecture frameworks like IDEFO, TOGAF, DODAF and OPM",
+            "System modeling",
+            "Enterprise engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex architectural concepts",
+            "Cross-departmental collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing system architecture",
+            "Identifying and solving system design issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading architecture design projects",
+            "Managing system architecture paradigms"
+        ]
+    },
+    {
+        "courseCode": "MSIM 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Available for pass/fail grading only.  Student participation for credit based on academic relevance of the work experience, criteria, and evaluation procedures as formally determined by the program and the Cooperative Education/Career Development Services program prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Conveying academic relevance of the work experience",
+            "Effective communication with program and Cooperative Education/Career Development Services program"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating work experience criteria",
+            "Determining academic relevance of work experience"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing work experience according to program criteria",
+            "Following evaluation procedures"
+        ]
+    },
+    {
+        "courseCode": "MSIM 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students an opportunity to gain short duration career-related experience.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Adapting to professional environments",
+            "Communication with colleagues and supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to new tasks and challenges",
+            "Identifying and resolving work-related issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-direction",
+            "Project management"
+        ]
+    },
+    {
+        "courseCode": "MSIM 669",
+        "courseTitle": "Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "Academic requirements will be established by the graduate program director and will vary with the amount of credit desired.  Allows students an opportunity to gain short-duration career related experience.  Student is usually employed–this is an additional project beyond the duties of the student’s employment.",
+        "Technical and Digital Skills": [
+            "Specialized knowledge related to student's field of study",
+            "Adapting academic learning to practical applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with graduate program director",
+            "Collaboration with professional colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability to real-world work challenges",
+            "Analytical thinking for executing additional projects beyond regular duties"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project coordination",
+            "Meeting academic requirements",
+            "Balancing academic and career commitments"
+        ]
+    },
+    {
+        "courseCode": "MSIM 670",
+        "courseTitle": "Cyber Systems Engineering",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of functioning of cyber systems including how a computer interacts with the outside world. The composition of critical infrastructure and functioning of different engineered systems that form critical infrastructure are discussed. Mutual dependence and interactions between cyber systems and other engineered systems and the resulting security risks are also explored. (Cross-listed with ENMA 670.)",
+        "Technical and Digital Skills": [
+            "Understanding of cyber system functionality",
+            "Knowledge of critical infrastructure composition",
+            "Understanding of engineered systems function",
+            "Understanding of interaction between cyber systems and engineered systems",
+            "Assessing security risks in cyber systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing interactions and dependencies in cyber systems",
+            "Assessing and mitigating security risks"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 673",
+        "courseTitle": "Threat Modeling and Risk Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses how to develop cyber threat models using attack graphs/trees, STRIDE, Universal Modeling Language (UML), attack graphs/trees and common of risk analysis tools. Course also discusses the need for quantitative security analysis and formal validation of security models and basic principles of formal model validation. (Cross-listed with ENMA 673.)",
+        "Technical and Digital Skills": [
+            "Developing cyber threat models",
+            "Using attack graphs/trees",
+            "Applying STRIDE methodology",
+            "Using Universal Modeling Language (UML)",
+            "Utilizing common risk analysis tools",
+            "Conducting quantitative security analysis",
+            "Executing formal validation of security models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cyber threats",
+            "Evaluating security models",
+            "Problem-solving in risk analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 695",
+        "courseTitle": "Topics in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in modeling and simulation.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling principles",
+            "Simulation execution",
+            "Knowledge of recent trends in modeling and simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate models for problems",
+            "Analyzing simulation results",
+            "Critical evaluation of recent developments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 697",
+        "courseTitle": "Independent Study in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.",
+        "Technical and Digital Skills": [
+            "Modeling and Simulation techniques",
+            "Use of modeling and simulation software",
+            "Independent research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty supervisor",
+            "Presenting research findings",
+            "Peer review and feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Formulating research questions",
+            "Analyzing simulation results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "MSIM 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Research leading to the Master of Science thesis.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis",
+            "Academic writing",
+            "Referencing and citation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Academic presentation",
+            "Interdisciplinary collaboration",
+            "Feedback implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Literature review",
+            "Hypothesis testing",
+            "Research problem formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-discipline",
+            "Independent work"
+        ]
+    },
+    {
+        "courseCode": "MSIM 702",
+        "courseTitle": "Systemic Decision Making",
+        "academicLevel": "graduate",
+        "courseDescription": "As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.  (Cross listed with ENMA 702).",
+        "Technical and Digital Skills": [
+            "Systemic thinking",
+            "Understanding of systems theory",
+            "Differentiating between systemic and systematic thinking",
+            "Adapting to complex environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Holistic problem-solving",
+            "Addressing complex situations",
+            "Rational decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guidelines deployment for systemic thinking approach"
+        ]
+    },
+    {
+        "courseCode": "MSIM 703",
+        "courseTitle": "Optimization Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers advanced methods in Operations Research and Optimization. Focus will be on developing models and their applications in different domains including manufacturing and service. Modern optimization tools will be used to implement models for case studies, projects and research papers. The knowledge of programming and spreadsheets is expected. Contact instructor for more details. (Cross-listed with ENMA 703).",
+        "Technical and Digital Skills": [
+            "Advanced operations research methods",
+            "Optimization model development",
+            "Application of optimization methods in various domains",
+            "Use of modern optimization tools",
+            "Implementation of models for case studies, projects, and research papers",
+            "Programming",
+            "Spreadsheet management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with instructor for course details",
+            "Presentation of case studies, projects, and research papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using optimization methods",
+            "Analysis of manufacturing and service domains",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of case studies, projects and research papers"
+        ]
+    },
+    {
+        "courseCode": "MSIM 711",
+        "courseTitle": "Finite Element Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of the course is to provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  The course will demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.",
+        "Technical and Digital Skills": [
+            "Understanding of the finite element method (FEM)",
+            "Solution derivation for 1-D and 2-D continuum mechanics problems",
+            "Knowledge of solid mechanics",
+            "Knowledge of fluid mechanics",
+            "Understanding of heat transfer"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Integral formulation perspective",
+            "Analyzing and solving continuum mechanics problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 715",
+        "courseTitle": "High Performance Computing Simulation and Data Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to modern high performance computing platforms including top supercomputers and accelerators. Discussion of parallel architectures, performance, programming models, and software development issues. Case studies of scientific and engineering simulations will be explored. Students will have an opportunity to work on parallelization of problems from their research areas. Project presentations are required.",
+        "Technical and Digital Skills": [
+            "Understanding of high performance computing platforms",
+            "Knowledge of parallel architectures",
+            "Performance analysis",
+            "Programming models usage",
+            "Software development for high performance computing",
+            "Scientific and engineering simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Project presentations",
+            "Collaborative problem-solving",
+            "Effective knowledge sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Parallelization of problems",
+            "Case study analysis",
+            "Performance troubleshooting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management and execution"
+        ]
+    },
+    {
+        "courseCode": "MSIM 722",
+        "courseTitle": "Cluster Parallel Computing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message Passing Interface) computer environments.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of MPI (Message Passing Interface) computer environments",
+            "Ability to exploit parallel and sparse computation",
+            "Knowledge of large-scale engineering/science applications",
+            "Solving simultaneous linear equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to follow numerical step-by-step procedures",
+            "Ability to apply computation to solve large-scale problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 725",
+        "courseTitle": "Principles of Combat Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles of combat modeling and simulation.  Introduction including history, basic definitions, and best practice.  Algorithms for modeling movement, sensing effects and behavior.  Overview of modern combat models.  Interoperability and integration into operational environments.",
+        "Technical and Digital Skills": [
+            "Understanding of combat modeling algorithms",
+            "Knowledge about modern combat models",
+            "Interoperability and integration into operational environments",
+            "Understanding of sensing effects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and apply combat models",
+            "Analyzing and interpreting sensing effects",
+            "Problem-solving through integration and interoperability issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 730",
+        "courseTitle": "Simulation Formalisms",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of the course is on identification and investigation of mathematical and logical structures that form the foundation for computational simulation.  Topics include: foundations of simulation theory in logic, discrete mathematics, and computability; simulation formalisms, including DEVS; interoperability protocols; and computational complexity.",
+        "Technical and Digital Skills": [
+            "Understanding of simulation theory in logic",
+            "Knowledge of discrete mathematics",
+            "Understanding of computability",
+            "Familiarity with simulation formalisms, including DEVS",
+            "Knowledge of interoperability protocols",
+            "Understanding of computational complexity"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification and investigation of mathematical and logical structures",
+            "Analysis of computational simulations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 741",
+        "courseTitle": "Principles of Visualization",
+        "academicLevel": "graduate",
+        "courseDescription": "Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making.  This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science.  Both users and developers of visualization tools and systems will benefit from this course.",
+        "Technical and Digital Skills": [
+            "Designing effective visualizations",
+            "Implementing principles from graphic design, visual art, perceptual psychology and cognitive science into visualizations",
+            "Using visualization tools and systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating data through visualizations",
+            "Collaborating with users and developers of visualization tools"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Improving comprehension, memory, inference, and decision making through visualizations",
+            "Applying perceptual psychology and cognitive science principles to problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading the design and implementation of visualizations",
+            "Managing visualization projects"
+        ]
+    },
+    {
+        "courseCode": "MSIM 742",
+        "courseTitle": "Synthetic Environments",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers the theory and techniques for building effective and efficient synthetic environments for modeling and simulation applications. Topics include physics, artificial intelligence, virtual reality, and advanced modeling and rendering. The emphasis is on producing visually realistic synthetic environments based on effective approximations of physics and other related principles.",
+        "Technical and Digital Skills": [
+            "Physics application in synthetic environments",
+            "Artificial intelligence implementation",
+            "Virtual reality creation",
+            "Advanced modeling and rendering"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Efficient approximation of physical phenomena",
+            "Analysis and implementation of AI in synthetic environments",
+            "Problem solving in VR modeling"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 751",
+        "courseTitle": "Advanced Analysis for Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to stochastic dependence and Bayesian analysis techniques for conducting modeling and simulation studies. Topics include: measures of dependence, common multivariate distributions, sampling from multivariate distributions, elementary time series models and Bayesian statistics.",
+        "Technical and Digital Skills": [
+            "Understanding of stochastic dependence",
+            "Application of Bayesian analysis techniques",
+            "Knowledge on measures of dependence",
+            "Familiarity with common multivariate distributions",
+            "Ability to sample from multivariate distributions",
+            "Understanding of elementary time series models",
+            "Comprehension of Bayesian statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing simulation studies",
+            "Applying multivariate distributions",
+            "Implementing elementary time series models"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 772",
+        "courseTitle": "Modeling Global Events",
+        "academicLevel": "graduate",
+        "courseDescription": "Modeling Global Events introduces modeling and simulation as a tool for expanding our understanding of events that have shaped the global environment of the 21st century.  Students will review real-world case studies and then analyze these case studies via system dynamics, agent-based, social network, and game theory modeling paradigms. This course is designed to develop empirical research skills, conceptual modeling expertise, and model construction.  Students will understand how to analyze, verify, and validate a model.",
+        "Technical and Digital Skills": [
+            "System dynamics modeling",
+            "Agent-based modeling",
+            "Social network modeling",
+            "Game theory modeling",
+            "Model construction",
+            "Model verification",
+            "Model validation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting case study analyses"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Empirical research",
+            "Case study analysis",
+            "Conceptual modeling"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading empirical research studies"
+        ]
+    },
+    {
+        "courseCode": "MSIM 774",
+        "courseTitle": "Transportation Network Flow Models",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium. (Cross-listed with CEE 774).",
+        "Technical and Digital Skills": [
+            "Transportation network modeling",
+            "Elementary graph theory",
+            "Nonlinear optimization",
+            "Optimization of univariate functions",
+            "Deterministic and stochastic user equilibrium"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solving shortest path problems",
+            "Network equilibrium problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 775",
+        "courseTitle": "Transportation Network Algorithms",
+        "academicLevel": "graduate",
+        "courseDescription": "Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications. (Cross-listed with CEE 775)",
+        "Technical and Digital Skills": [
+            "Understanding of optimization models",
+            "Applying stochastic modeling",
+            "Parallel computing",
+            "Application of algorithms in transportation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving using optimization and stochastic models",
+            "Analyzing transportation networks",
+            "Critical evaluation of transportation applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 776",
+        "courseTitle": "Simulation Modeling in Transportation Networks",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles of simulation modeling, microscopic, mesoscopic, and macroscopic traffic simulation models.  Course explores diver behavior in networks, calibration and validation of traffic simulation models, and use of traffic simulation software. (Cross-listed with CEE 776)",
+        "Technical and Digital Skills": [
+            "Understanding of simulation modeling principles",
+            "Knowledge of microscopic, mesoscopic, and macroscopic traffic simulation models",
+            "Calibration and validation of traffic simulation models",
+            "Proficiency in traffic simulation software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing diver behavior in networks",
+            "Problem-solving in traffic simulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 780",
+        "courseTitle": "Machine Learning II",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in machine learning and pattern recognition systems. Data reduction techniques including principle component analysis, independent component analysis and manifold learning. Introduction to sparse coding and deep learning for data representation and feature extraction. (Cross-listed with ECE 780)",
+        "Technical and Digital Skills": [
+            "Understanding of machine learning and pattern recognition systems",
+            "Applying data reduction techniques",
+            "Principle component analysis",
+            "Independent component analysis",
+            "Manifold learning",
+            "Sparse coding",
+            "Deep learning for data representation and feature extraction"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving with pattern recognition",
+            "Analyzing and interpreting complex datasets",
+            "Ability to use deep learning for feature extraction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 795",
+        "courseTitle": "Topics in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in modeling and simulation.",
+        "Technical and Digital Skills": [
+            "Understanding of modeling methodologies",
+            "Simulation techniques",
+            "Knowledge on recent developments in modeling and simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply modeling and simulation techniques to solve real-world problems",
+            "Analytical thinking to understand and interpret simulation results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 797",
+        "courseTitle": "Independent Study in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.",
+        "Technical and Digital Skills": [
+            "Understanding modeling and simulation techniques",
+            "Use of appropriate software for modeling and simulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating project progress and findings to supervisor",
+            "Collaborating with faculty advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selecting appropriate modeling techniques",
+            "Analyzing simulation results",
+            "Adapting model based on feedback"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-direction and motivation",
+            "Project planning and management"
+        ]
+    },
+    {
+        "courseCode": "MSIM 802",
+        "courseTitle": "Systemic Decision Making",
+        "academicLevel": "graduate",
+        "courseDescription": "As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.  (Cross listed with ENMA 802).",
+        "Technical and Digital Skills": [
+            "Understanding systems theory",
+            "Deployment of systemic thinking approach"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Holistic problem-solving",
+            "Communication of complex concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex environments",
+            "Rational decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of complex situations",
+            "Guidelines formulation for systemic thinking"
+        ]
+    },
+    {
+        "courseCode": "MSIM 803",
+        "courseTitle": "Optimization Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers advanced methods in Operations Research and Optimization. Focus will be on developing models and their applications in different domains including manufacturing and service. Modern optimization tools will be used to implement models for case studies, projects and research papers. The knowledge of programming and spreadsheets is expected. Contact instructor for more details. (Cross-listed with ENMA 803).",
+        "Technical and Digital Skills": [
+            "Operations Research Methods",
+            "Model Development",
+            "Use of Modern Optimization Tools",
+            "Programming",
+            "Spreadsheet Proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on Projects and Research Papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of Models in Various Domains",
+            "Optimization of Manufacturing and Service Processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management and Organization",
+            "Research Paper Execution"
+        ]
+    },
+    {
+        "courseCode": "MSIM 811",
+        "courseTitle": "Finite Element Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "The purpose of the course is to provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  The course will demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.",
+        "Technical and Digital Skills": [
+            "Understanding the finite element method (FEM)",
+            "Solving 1-D and 2-D continuum mechanics problems",
+            "Knowledge in solid mechanics, fluid mechanics and heat transfer"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Applying the integral formulation perspective to solve problems",
+            "Analyzing mechanics problems for solutions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 815",
+        "courseTitle": "High Performance Computing Simulation and Data Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to modern high performance computing platforms including top supercomputers and accelerators. Discussion of parallel architectures, performance, programming models, and software development issues. Case studies of scientific and engineering simulations will be explored. Students will have an opportunity to work on parallelization of problems from their research areas. Project presentations are required.",
+        "Technical and Digital Skills": [
+            "Understanding of high performance computing platforms",
+            "Knowledge of top supercomputers and accelerators",
+            "Understanding of parallel architectures",
+            "Performance analysis of computing systems",
+            "Application of programming models in high performance computing",
+            "Software development for high performance computing",
+            "Parallelization of research problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Project presentations",
+            "Collaborative problem-solving",
+            "Communication of technical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of scientific and engineering simulations",
+            "Problem identification and parallelization",
+            "Performance analysis and optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in software development",
+            "Leading technical presentations"
+        ]
+    },
+    {
+        "courseCode": "MSIM 822",
+        "courseTitle": "Cluster Parallel Computing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message Passing Interface) computer environments.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.",
+        "Technical and Digital Skills": [
+            "Exploiting parallel and sparse computation under MPI environments",
+            "Solving large-scale engineering/science applications",
+            "Resolving simultaneous linear equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing numerical procedures",
+            "Developing step-by-step problem solving strategies",
+            "Identifying solutions for complex computational problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 825",
+        "courseTitle": "Principles of Combat Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles of combat modeling and simulation.  Introduction including history, basic definitions, and best practice.  Algorithms for modeling movement, sensing effects and behavior.  Overview of modern combat models.  Interoperability and integration into operational environments.",
+        "Technical and Digital Skills": [
+            "Understanding of combat modeling algorithms",
+            "Knowledge of modern combat models",
+            "Skills in modeling movement, sensing effects and behavior",
+            "Integration of models into operational environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective collaboration for model interoperability"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of modeling algorithms",
+            "Problem solving in model integration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of model integration processes",
+            "Leadership in establishing best practices for combat modeling and simulation"
+        ]
+    },
+    {
+        "courseCode": "MSIM 830",
+        "courseTitle": "Simulation Formalisms",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of the course is on identification and investigation of mathematical and logical structures that form the foundation for computational simulation.  Topics include: foundations of simulation theory in logic, discrete mathematics, and computability; simulation formalisms, including DEVS; interoperability protocols; and computational complexity.",
+        "Technical and Digital Skills": [
+            "Understanding of DEVS formalisms",
+            "Understanding of interoperability protocols",
+            "Knowledge of computational complexity",
+            "Discrete mathematics",
+            "Understanding of simulation theory in logic"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification of mathematical and logical structures",
+            "Investigation of computational simulation foundations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 841",
+        "courseTitle": "Principles of Visualization",
+        "academicLevel": "graduate",
+        "courseDescription": "Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making.  This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science.  Both users and developers of visualization tools and systems will benefit from this course.",
+        "Technical and Digital Skills": [
+            "Creating effective visualizations",
+            "Understanding of graphic design principles",
+            "Application of perceptual psychology and cognitive science to visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex information through visual media",
+            "Communicating data insights through visualizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Improving comprehension and decision making through visual media",
+            "Applying inference techniques to visual data",
+            "Understanding of human visual information processing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 842",
+        "courseTitle": "Synthetic Environments",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers the theory and techniques for building effective and efficient synthetic environments for modeling and simulation applications. Topics include physics, artificial intelligence, virtual reality, and advanced modeling and rendering. The emphasis is on producing visually realistic synthetic environments based on effective approximations of physics and other related principles.",
+        "Technical and Digital Skills": [
+            "Physics approximations for synthetic environments",
+            "Artificial intelligence implementation",
+            "Virtual reality (VR) technology application",
+            "Advanced modeling techniques",
+            "Rendering techniques for visually realistic environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative development of synthetic environments",
+            "Effectively explaining complex synthetic environment concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in the development of efficient synthetic environments",
+            "Analytical skills for optimizing synthetic environment performance",
+            "Debugging complex synthetic environment simulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing synthetic environment projects",
+            "Leading a team in synthetic environment development"
+        ]
+    },
+    {
+        "courseCode": "MSIM 851",
+        "courseTitle": "Advanced Analysis for Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to stochastic dependence and Bayesian analysis techniques for conducting modeling and simulation studies. Topics include: measures of dependence, common multivariate distributions, sampling from multivariate distributions, elementary time series models and Bayesian statistics.",
+        "Technical and Digital Skills": [
+            "Understanding of stochastic dependence",
+            "Bayesian analysis techniques",
+            "Knowledge on measures of dependence",
+            "Understanding of multivariate distributions",
+            "Sampling from multivariate distributions",
+            "Knowledge on elementary time series models",
+            "Bayesian statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conducting modeling and simulation studies",
+            "Analyzing multivariate distributions"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 862",
+        "courseTitle": "Applied Medical Image Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.",
+        "Technical and Digital Skills": [
+            "Understanding of state-of-the-art algorithms in medical image analysis",
+            "Proficiency in open-source software Insight Segmentation and Registration Toolkit - ITK",
+            "Knowledge of medical image acquisition in clinical interest modalities",
+            "Familiarity with medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline",
+            "Image enhancement and feature detection skills",
+            "Understanding of segmentation techniques, feature-based classification and clustering, graph cuts, active contour and surface models",
+            "Surface and volume meshing skills",
+            "Knowledge of registration transformations and similarity criteria",
+            "Understanding of shape and appearance models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply state-of-the-art algorithms in medical image analysis",
+            "Analytical skills to interpret medical images from various modalities",
+            "Problem-solving skills in image segmentation, feature detection, and classification",
+            "Ability to apply transformations and evaluate similarity criteria in image registration"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 872",
+        "courseTitle": "Modeling Global Events",
+        "academicLevel": "graduate",
+        "courseDescription": "Modeling Global Events introduces modeling and simulation as a tool for expanding our understanding of events that have shaped the global environment of the 21st century.  Students will review real-world case studies and then analyze these case studies via system dynamics, agent-based, social network, and game theory modeling paradigms. This course is designed to develop empirical research skills, conceptual modeling expertise, and model construction.  Students will understand how to analyze, verify, and validate a model.",
+        "Technical and Digital Skills": [
+            "Modeling and simulation",
+            "System dynamics",
+            "Agent-based modeling",
+            "Social network modeling",
+            "Game theory modeling",
+            "Conceptual modeling",
+            "Model construction",
+            "Model analysis",
+            "Model verification",
+            "Model validation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting case study insights",
+            "Collaborative analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Empirical research",
+            "Case study analysis",
+            "Model verification and validation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Case study organization",
+            "Leading empirical research"
+        ]
+    },
+    {
+        "courseCode": "MSIM 874",
+        "courseTitle": "Transportation Network Flow Models",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium. (Cross-listed with CEE 874).",
+        "Technical and Digital Skills": [
+            "Transportation network modeling",
+            "Elementary graph theory",
+            "Shortest path problem solving",
+            "Nonlinear optimization",
+            "Optimization of univariate functions",
+            "Deterministic and stochastic user equilibrium"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Network equilibrium problems solving",
+            "Nonlinear optimization techniques",
+            "Deterministic and stochastic user equilibrium analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 875",
+        "courseTitle": "Transportation Network Algorithms",
+        "academicLevel": "graduate",
+        "courseDescription": "Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications. (Cross-listed with CEE 875)",
+        "Technical and Digital Skills": [
+            "Optimization algorithms",
+            "Stochastic modeling",
+            "Parallel computing",
+            "Application of algorithms in transportation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and applying appropriate algorithmic solutions",
+            "Analyzing and interpreting algorithmic outcomes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 876",
+        "courseTitle": "Simulation Modeling in Transportation Networks",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles of simulation modeling, microscopic, mesoscopic, and macroscopic traffic simulation models.  Course explores driver behavior in networks, calibration and validation of traffic simulation models, and use of traffic simulation software. (Cross-listed with CEE 876)",
+        "Technical and Digital Skills": [
+            "Principles of simulation modeling",
+            "Microscopic, mesoscopic, and macroscopic traffic simulation models",
+            "Understanding driver behavior in networks",
+            "Calibration and validation of traffic simulation models",
+            "Use of traffic simulation software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing networks for driver behavior",
+            "Problem-solving for model calibration and validation",
+            "Use of analytical tools in traffic simulation software"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MSIM 880",
+        "courseTitle": "Machine Learning II",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in machine learning and pattern recognition systems. Data reduction techniques including principle component analysis, independent component analysis and manifold learning. Introduction to sparse coding and deep learning for data representation and feature extraction. (Cross-listed with ECE 880)",
+        "Technical and Digital Skills": [
+            "Understanding of advanced topics in machine learning",
+            "Knowledge of pattern recognition systems",
+            "Data reduction techniques",
+            "Principle Component Analysis (PCA)",
+            "Independent Component Analysis (ICA)",
+            "Manifold learning",
+            "Introduction to Sparse coding",
+            "Deep learning for data representation",
+            "Feature extraction"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex data sets",
+            "Problem solving using advanced machine learning techniques",
+            "Analytical thinking with respect to machine learning and pattern recognition systems",
+            "Applying data reduction techniques to real-world problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MSIM 892",
+        "courseTitle": "Doctor of Engineering Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed individual study applying advanced level technical knowledge to identify, formulate and solve a complex, novel problem in Modeling and Simulation.",
+        "Technical and Digital Skills": [
+            "Advanced level technical knowledge",
+            "Modeling and Simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem formulation",
+            "Complex problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Project management"
+        ]
+    },
+    {
+        "courseCode": "MSIM 895",
+        "courseTitle": "Topics in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics of interest with emphasis placed on recent developments in modeling and simulation.",
+        "Technical and Digital Skills": [
+            "Advanced modeling techniques",
+            "Simulation software proficiency",
+            "Data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex simulation results",
+            "Collaborative model building"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Scenario analysis",
+            "Model validation and verification",
+            "Debugging simulation models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in modeling and simulation",
+            "Coordinating simulation testing"
+        ]
+    },
+    {
+        "courseCode": "MSIM 897",
+        "courseTitle": "Independent Study in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Modeling and Simulation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and defining research problems",
+            "Analyzing and interpreting simulation results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management",
+            "Self-supervision and initiative"
+        ]
+    },
+    {
+        "courseCode": "MSIM 898",
+        "courseTitle": "Research in Modeling and Simulation",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research prior to passing Ph.D. candidacy exam.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data modeling",
+            "Simulation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Working under supervision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying research gaps",
+            "Formulating research questions",
+            "Analysing research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-leadership"
+        ]
+    },
+    {
+        "courseCode": "MSIM 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research for the doctoral dissertation.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Academic writing",
+            "Data collection and analysis",
+            "Use of scholarly databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating research findings",
+            "Academic discussions",
+            "Negotiating access to resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem formulation",
+            "Hypothesis testing",
+            "Critical evaluation of scholarly literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-directed learning",
+            "Supervising research assistants"
+        ]
+    },
+    {
+        "courseCode": "MSIM 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and adhering to graduation requirements",
+            "Time management for course completion"
+        ]
+    },
+    {
+        "courseCode": "MSIM 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Maintaining active academic communication",
+            "Participating in academic discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Maintaining academic progress",
+            "Meeting academic deadlines"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Continuous learning",
+            "Time management"
+        ]
+    }
+]

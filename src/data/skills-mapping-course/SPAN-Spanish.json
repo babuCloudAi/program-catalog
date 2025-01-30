@@ -1,0 +1,1135 @@
+[
+    {
+        "courseTitle": "Beginning Spanish I",
+        "courseCode": "SPAN 101F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the first of the beginning Spanish language sequence. The course takes a task-based, content-based, communicative approach to language learning and teaching. It develops beginning skills in reading, writing, speaking and listening. The course also builds communicative competence and enhances social and cultural awareness of the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Reading in Spanish",
+            "Writing in Spanish",
+            "Speaking in Spanish",
+            "Listening comprehension in Spanish"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural awareness in Spanish-speaking context",
+            "Verbal communication in Spanish",
+            "Written communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting spoken and written Spanish",
+            "Adapting communication style to different cultural contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Spanish II",
+        "courseCode": "SPAN 102F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the second of the beginning Spanish language sequence. The course takes a task-based, content-based, communicative approach to language learning and teaching. It develops beginning skills in reading, writing, speaking and listening. The course also builds communicative competence and enhances social and cultural awareness of the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Reading in Spanish",
+            "Writing in Spanish",
+            "Speaking in Spanish",
+            "Listening in Spanish"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Verbal communication in Spanish",
+            "Non-verbal communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting spoken Spanish",
+            "Understanding written Spanish",
+            "Communicating effectively in Spanish"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Intensive Beginning Spanish",
+        "courseCode": "SPAN 121F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an accelerated introductory-level course that combines SPAN 101 and SPAN 102. This course is designed for students planning on minoring or majoring in Spanish, or receiving a teaching license in Spanish. However, ALL students are welcome with permission of the instructor.  Class is conducted in Spanish.",
+        "Technical and Digital Skills": [
+            "Basic Spanish grammar",
+            "Spanish vocabulary",
+            "Reading and writing in Spanish",
+            "Listening comprehension in Spanish",
+            "Spanish pronunciation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Spanish",
+            "Cultural understanding",
+            "Interpersonal conversation in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation from Spanish to English and vice versa",
+            "Understanding and interpreting Spanish texts",
+            "Contextual understanding of Spanish language"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active participation in class discussions",
+            "Group collaboration in Spanish"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Spanish",
+        "courseCode": "SPAN 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for non-majors.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Spanish language fluency",
+            "Understanding of Spanish grammar and syntax",
+            "Ability to translate Spanish texts",
+            "Familiarity with Spanish culture and history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Spanish",
+            "Written communication in Spanish",
+            "Cultural sensitivity and understanding",
+            "Active listening in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of Spanish texts",
+            "Problem-solving in Spanish language context",
+            "Translation of complex Spanish phrases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading Spanish language group discussions",
+            "Planning and organizing Spanish language study sessions",
+            "Coordinating Spanish cultural activities"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Spanish I",
+        "courseCode": "SPAN 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This first course of the intermediate language sequence is designed to improve the speaking, listening, reading, and writing skills of students and to provide insight into the language and culture of Spanish-speaking people. Meant to integrate and extend earlier learning, the course is intended to keep building communicative competence and social and cultural awareness of the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Improving Spanish speaking skills",
+            "Enhancing Spanish listening skills",
+            "Building Spanish reading skills",
+            "Developing Spanish writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating in Spanish culture",
+            "Communicating effectively in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Extending earlier Spanish learning",
+            "Integrating Spanish language skills"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Spanish II",
+        "courseCode": "SPAN 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a continuation of SPAN 201 that further improves the speaking, listening, reading, and writing skills of students and provides insight into the language and culture of Spanish-speaking people. It is intended to keep building communicative competence and social and cultural awareness of the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish comprehension",
+            "Spanish writing skills",
+            "Spanish listening skills",
+            "Spanish speaking skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding Spanish cultural nuances",
+            "Clear verbal communication in Spanish",
+            "Effective written communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation of complex Spanish texts",
+            "Oral Spanish comprehension"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Spanish for Health Professions",
+        "courseCode": "SPAN 266",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course seeks to develop Spanish language abilities for students involved in the health professions, i.e., medical fields, dentistry, physical therapy, etc.  Although this course develops all skill areas (reading, writing, speaking, listening), it will concentrate on the development of oral communication and the cultural issues facing professionals and Spanish-speaking patients.",
+        "Technical and Digital Skills": [
+            "Spanish reading proficiency",
+            "Spanish writing proficiency",
+            "Spanish listening comprehension",
+            "Spanish oral communication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Patient communication in Spanish",
+            "Understanding and respecting cultural differences in healthcare"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting communication styles to patient needs",
+            "Identifying cultural issues in healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Spanish",
+        "courseCode": "SPAN 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives for nonmajors.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Spanish language proficiency",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Grammar Review",
+        "courseCode": "SPAN 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be taken concurrently with SPAN 312W. The objective of the course is to improve the student's knowledge of Spanish grammar and syntax through the review of grammatical rules and their application. Emphasis is placed on how grammatical forms codify meaning and how grammar and meaning interact to construct the language and textual structure of different genres. This course is recommended for students who wish to major or minor in Spanish and need a grammar review.  As this course is considered a review, it will not count toward the major or minor.",
+        "Technical and Digital Skills": [
+            "Understanding of Spanish grammar and syntax",
+            "Application of grammatical rules",
+            "Knowledge of different textual structures",
+            "Understanding how grammatical forms codify meaning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in Spanish language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the interaction between grammar and meaning to construct language",
+            "Understanding the textual structure of different genres"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Global Conversations",
+        "courseCode": "SPAN 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is primarily a conversation course to develop linguistic and cultural proficiency in verbal communication. Task-oriented communication strategies in cross-cultural training will be practiced by presenting students with models that demonstrate appropriate linguistic and cultural competencies.  Students will practice these skills by role-playing, giving presentations, enriching self-awareness with practiced in-group discussions on various topics (such as, prejudice, racism, values, and customs) that dispel stereotypes and foster more in-depth social-cultural understanding, and with participation in guided cultural encounters.  Students will improve their listening and comprehension skills and deepen cultural proficiency by learning how to communicate and collaborate with other people and cultures in a global age. (This is an oral skills course.)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Public speaking",
+            "Role-playing communication strategies",
+            "In-group discussion participation",
+            "Cultural competency"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cultural understanding and stereotype dispelling",
+            "Listening and comprehension skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collaboration in cross-cultural settings"
+        ]
+    },
+    {
+        "courseTitle": "Writing Around the World",
+        "courseCode": "SPAN 312W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an intensive writing course designed with writing assignments that examine various cultural contexts that enable students to understand cultural content, style, audience and organization. The main objective of the course is increased awareness of and sensitivity to appropriate word choice, and syntax in the language.  Students will engage in writing for different cultural audiences and in varied contexts such as literary, artistic and media expressions around the world. Special emphasis is placed on the methodology of close reading as students hone the analytics skills and vocabulary necessary to interpret idioms, regionalism, cultural expressions and overall intercultural skills observed in various genres and cultures. Students will analyze compelling global issues and the diverse cultural perspectives that inform them.",
+        "Technical and Digital Skills": [
+            "Intensive Writing",
+            "Close Reading",
+            "Analyzing Global Issues",
+            "Interpreting Idioms and Regionalisms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding Cultural Content and Style",
+            "Writing for Different Cultural Audiences",
+            "Appropriate Word Choice and Syntax"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Various Cultural Contexts",
+            "Interpreting Cultural Expressions",
+            "Analyzing Diverse Cultural Perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing Writing Assignments",
+            "Methodological Approach to Close Reading"
+        ]
+    },
+    {
+        "courseTitle": "World Cultures and Contexts",
+        "courseCode": "SPAN 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines historical and cultural identities in Spain and Latin America, beginning with a study of the historical constructs that helped create the basis of Spanish and Latin American identities. These include the concept of Convivencia (co-existence) of the three religions in Medieval Spain, pre-Columbian civilizations, the Spanish Conquest, the Colonial period, and the fight for Independence. The course also addresses more modern notions of culture and identity by focusing on themes such as globalization, immigration, economic crises, political leadership, and daily life. Along with these themes, popular culture will be discussed at length in order to understand the role it plays in generating identities.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Cultural analysis",
+            "Identification and study of cultural artifacts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Discussion and debate of historical and cultural themes",
+            "Presenting cultural and historical findings",
+            "Understanding and interpreting different perspectives on historical events"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical and cultural information",
+            "Analysis of historical events and their impact on present culture",
+            "Understanding and interpreting the effects of globalization and immigration on culture"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing historical research",
+            "Leadership in group discussions and debates",
+            "Understanding and utilizing political leadership themes in historical contexts"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Hispanic Literature",
+        "courseCode": "SPAN 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the basic theoretical and practical aspects and approaches to literary analysis, in order to learn how to read Hispanic literature from the Middle Ages to the present. Literary texts will be examined in terms of content, style, and form. The objectives of the course are to learn how to do a close reading of the texts – a poem, a short story, a novel, or a theater play – and interpret them as a literary scholar, while developing skills of critical thinking, speaking and writing in Spanish. Discussions will focus on literary themes and their relationship to current events rather than a chronological survey of literature.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Close reading of literary texts",
+            "Interpretation of poems, short stories, novels and theater plays"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Speaking and writing in Spanish",
+            "Participating in literary discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Interpretation of literary content, style, and form",
+            "Analysis of literary themes and their relationship to current events"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Business Spanish: Language and Culture",
+        "courseCode": "SPAN 366",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course aims to equip students for the eventuality of working with or for a Spanish company here or abroad. It is a language course, with a strong cultural component, for the intermediate learner. The emphasis of the course is on Spanish language usage in personal, business, and employment situations. The course provides a background for all students regardless of specific career goals. Students learn about cultural mores and social etiquette, engage in situational role playing, and prepare for job interviews. Students will combine their various practical assignments, involving realistic employment-seeking tasks, into an electronic portfolio of neatly-kept revisions.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Creating an electronic portfolio",
+            "Cultural understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication in Spanish",
+            "Job interview preparation",
+            "Role-play communication",
+            "Understanding and following social etiquette"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different cultural contexts",
+            "Understanding and applying cultural norms and mores"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing tasks for employment seeking",
+            "Adapting to various business situations"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "SPAN 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internships in private and public organizations that provide an opportunity for students to apply and enhance language skills or cultural knowledge in a workplace setting.",
+        "Technical and Digital Skills": [
+            "Application of language skills",
+            "Utilization of cultural knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a workplace setting",
+            "Cross-cultural communication",
+            "Professional interaction with peers and supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting language skills to professional scenarios",
+            "Analyzing and understanding workplace culture"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adapting to work environments",
+            "Navigating professional organizations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Spanish",
+        "courseCode": "SPAN 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected topics, genres, authors and/or literary, cultural, sociopolitical, or historical movements in the Spanish-speaking world. May be repeated for credit if the topic is different.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Understanding of Spanish literary, cultural, historical contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Spanish",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Literary analysis in Spanish",
+            "Analysis of sociopolitical movements in the Spanish-speaking world"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Spanish",
+        "courseCode": "SPAN 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seminars engage students in in-depth study of a specified topic through readings, research and oral and written student reports. Special attention is paid to theoretical and bibliographic issues. Topics vary according to the areas of expertise and professional interests of departmental faculty. May be repeated if topics are different.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Academic writing in Spanish",
+            "Bibliographic referencing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentations in Spanish",
+            "Constructive criticism and feedback",
+            "Group discussions in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and analysis of Spanish texts",
+            "Identification and analysis of theoretical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Meeting deadlines",
+            "Leading group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Grammar and Syntax",
+        "courseCode": "SPAN 407/507",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class is designed to solidify and refine students' working knowledge of written skills in the language, with an emphasis on increasing their written sophistication.  Focus is on analysis of vocabulary, grammar, and cultural nuances in the syntax to examine how language reflects the ways of life and beliefs of its speakers, contrasted with the extent of language's influence on culture. Students will refine their skills in written inter-cultural communication, paying attention to idioms and the fine points of 'cultural grammar,' communicative competence and specialized discourse to develop excellent communication skills.   This course is intended to prepare students for using their knowledge of language and culture in professional settings.",
+        "Technical and Digital Skills": [
+            "Advanced written language skills",
+            "Understanding of cultural nuances in syntax",
+            "Proficiency in idioms and 'cultural grammar'",
+            "Understanding of language and culture in professional settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written inter-cultural communication",
+            "Excellent communication skills",
+            "Specialized discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of vocabulary",
+            "Analysis of grammar",
+            "Understanding of how language reflects cultural beliefs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Spanish Applied Linguistics",
+        "courseCode": "SPAN 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to Spanish linguistics and establishes the basis for the application of linguistic principles, including an introduction to the description and organization of data dealing with phonology (how sound patterns form words), discussion on topics in morphology (word formation and verbal inflection) and the description and organization of data dealing with syntax (how words combine to form phrases and sentences). In addition, the course analyzes the regional variations of Spanish (dialectology), and applying linguistics concepts, students contrast and compare the regional categories of Spanish use world-wide. It will provide students with a level of knowledge to make connections between the structure of Spanish and relevant issues in contemporary Hispanic linguistics, such as second language learning, language variation, bilingualism, and Spanish in the United States.",
+        "Technical and Digital Skills": [
+            "Spanish phonology",
+            "Spanish morphology",
+            "Spanish syntax",
+            "Regional variations of Spanish",
+            "Dialectology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting linguistic data",
+            "Understanding and explaining linguistic principles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing regional variations of Spanish",
+            "Applying linguistic concepts to compare and contrast regional categories of Spanish use"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and describing linguistic data",
+            "Making connections between the structure of Spanish and contemporary Hispanic linguistics issues"
+        ]
+    },
+    {
+        "courseTitle": "Spanish Phonetics",
+        "courseCode": "SPAN 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class is an introduction to the descriptive analysis of Spanish sounds and provides a comprehensive presentation of phonetics concepts as well as the comparisons drawn between the sounds of Spanish and those of English from a theoretical perspective. Students will gain a solid understanding of the sound system and strengthening of their pronunciation of Spanish from engaging, culturally driven activities taken from real-life modern Spanish sources, as well as enhancing awareness through aural comprehension of the nuances of the different dialects from speakers across the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Descriptive analysis of Spanish sounds",
+            "Understanding and pronunciation of Spanish sound system",
+            "Identification and understanding of different Spanish dialects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Aural comprehension",
+            "Culturally sensitive communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of Spanish and English sounds",
+            "Discerning nuances in Spanish dialects"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Drama of the Spanish Golden Age",
+        "courseCode": "SPAN 447/547",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected works of the major playwrights of the Golden Age:  Lope de Vega, Calderon de la Barca, Tirso de Molina, Ruiz de Alarcon.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Historical research",
+            "Usage of digital library resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of analysis",
+            "Discussion and debate of literary themes",
+            "Written communication of interpretations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Identification of thematic connections",
+            "Interpretation of historical context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Time management",
+            "Leading group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Contemporary Spanish Drama",
+        "courseCode": "SPAN 448/548",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Through reading and analysis of the most representative texts of Spanish drama of the last decades, this course intends to introduce students to contemporary theater production in relation to the social, political and cultural trends that dominate in Spain today. Readings will allow students to gain a deeper understanding of the debates predominating within Spanish society and of possible correlations linking Spanish and European culture today.",
+        "Technical and Digital Skills": [
+            "Textual analysis",
+            "Cultural trend analysis",
+            "Understanding of contemporary theater production"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active reading",
+            "Articulating complex ideas",
+            "Engaging in cultural debates"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing societal trends",
+            "Identifying correlations between Spanish and European culture"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Contemporary Spanish-American Drama",
+        "courseCode": "SPAN 449/549",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course students will read at least thirteen Spanish-American plays from the twentieth and twenty-first centuries. Through class discussions and presentations, students will learn an appropriate vocabulary to converse about the plays as well as literary theory to enable them to analyze and interpret the plays. By the end of the course, students should be able to see literary trends and begin to form opinions about the direction that Spanish-American theater has taken and why.",
+        "Technical and Digital Skills": [
+            "Reading comprehension in Spanish",
+            "Application of literary theory",
+            "Understanding of historical and cultural context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Class discussions",
+            "Presentations",
+            "Articulating critical analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of dramatic literature",
+            "Recognition of literary trends",
+            "Forming opinions based on textual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions",
+            "Formulating and presenting arguments"
+        ]
+    },
+    {
+        "courseTitle": "Border Culture and Literature",
+        "courseCode": "SPAN 453/553",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students study a variety of current cultural texts from the U.S. and Mexico to explore the multiplicity of images that surround and define the highly contested and increasingly important area of the U.S.-Mexico border. Discussions are grounded in an ideological analysis with the goal of developing a description of the historical and social parameters and strategies that are utilized in the critical revision of the Borderlands. Specifically, this course focuses on questions dealing with subaltern identities, for example women, indigenous groups, immigrants, and the poor.",
+        "Technical and Digital Skills": [
+            "Cultural text analysis",
+            "Historical research",
+            "Digital humanities tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discussion facilitation",
+            "Presenting complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ideological analysis",
+            "Critical revision of literature",
+            "Analysis of subaltern identities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading ideological discussions",
+            "Organizing research findings",
+            "Strategic planning for studies"
+        ]
+    },
+    {
+        "courseTitle": "Hispanic Film",
+        "courseCode": "SPAN 469/569",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A topical study of the major works of Spanish and Latin American film from Bunuel to the present.  The course will explore many issues, including those related to gender, race, symbolism, and class struggle. (cross-listed with COMM 443/COMM 543)",
+        "Technical and Digital Skills": [
+            "Film analysis",
+            "Understanding of symbolism in visual media",
+            "Knowledge of major works of Spanish and Latin American film"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Discussion and debate of film-related issues",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of film",
+            "Interpretation of symbolism",
+            "Understanding of gender, race, and class issues in film"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hispanic Women Authors",
+        "courseCode": "SPAN 471/571",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of fictional and non-fictional works by Spanish, Spanish-American, and U.S. Latina writers from the 16th to the 20th century.  The course analyzes gender identity and roles and the interaction of gender, race, and class in literary representations of courtship and marriage, spirituality, nationalism, colonialism, and multiculturalism. (Cross-listed with WCS 471/WCS 571)",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Understanding of historical and cultural contexts",
+            "Critical reading of fictional and non-fictional works"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating literary interpretations",
+            "Understanding and communicating about diverse perspectives",
+            "Discussion and debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Textual analysis",
+            "Understanding and analyzing complex literary themes such as gender, race, and class"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Independent study",
+            "Leading and contributing to group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Spanish Senior Research Seminar",
+        "courseCode": "SPAN 475W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course is designed to provide Spanish majors with a small group setting that facilitates in-depth discussion of key concepts of critical theory, literary studies, and the discipline.  The seminar will encourage students to research and explore relevant topics related to Hispanic literature and the arts and experiment with the application of the different concepts under discussion. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Research in humanities",
+            "Writing academically in Spanish",
+            "Applying critical theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "In-depth discussions in Spanish",
+            "Presenting research findings",
+            "Articulating complex concepts in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of Hispanic literature and arts",
+            "Applying critical theory to new contexts",
+            "Evaluating academic sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading seminar discussions",
+            "Managing individual research projects"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Spanish",
+        "courseCode": "SPAN 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish language use",
+            "Research on specialized Spanish topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presenting specialized Spanish topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of specialized Spanish topics",
+            "Critical evaluation of Spanish literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collaborative group work",
+            "Coordinating small group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Spanish",
+        "courseCode": "SPAN 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Use of digital resources for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Writing academic papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and studying a unique topic",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Organizing and presenting research findings"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Spanish",
+        "courseCode": "SPAN 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Independent research",
+            "Use of academic databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Constructive feedback acceptance",
+            "Communicating complex ideas",
+            "Academic writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sources",
+            "Problem identification and solution proposal",
+            "Analytical reading"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-direction",
+            "Project organization"
+        ]
+    },
+    {
+        "courseCode": "SPAN 507",
+        "courseTitle": "Advanced Grammar and Syntax",
+        "academicLevel": "graduate",
+        "courseDescription": "This class is designed to solidify and refine students' working knowledge of written skills in the language, with an emphasis on increasing their written sophistication.  Focus is on analysis of vocabulary, grammar, and cultural nuances in the syntax to examine how language reflects the ways of life and beliefs of its speakers, contrasted with the extent of language's influence on culture. Students will refine their skills in written inter-cultural communication, paying attention to idioms and the fine points of 'cultural grammar,' communicative competence and specialized discourse to develop excellent communication skills.   This course is intended to prepare students for using their knowledge of language and culture in professional settings.",
+        "Technical and Digital Skills": [
+            "Understanding of vocabulary, grammar, and syntax",
+            "Recognition and interpretation of cultural nuances within language",
+            "Demonstration of written inter-cultural communication",
+            "Knowledge of idioms and cultural grammar",
+            "Proficiency in specialized discourse"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written communication",
+            "Inter-cultural communication",
+            "Understanding and application of communicative competence"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of vocabulary, grammar, and syntax",
+            "Interpretation of cultural nuances in language",
+            "Evaluation and application of cultural grammar"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptability to different cultural contexts and professional settings",
+            "Application of language knowledge in professional settings"
+        ]
+    },
+    {
+        "courseCode": "SPAN 510",
+        "courseTitle": "Spanish Applied Linguistics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to Spanish linguistics and establishes the basis for the application of linguistic principles, including an introduction to the description and organization of data dealing with phonology (how sound patterns form words), discussion on topics in morphology (word formation and verbal inflection) and the description and organization of data dealing with syntax (how words combine to form phrases and sentences). In addition, the course analyzes the regional variations of Spanish (dialectology), and applying linguistics concepts, students contrast and compare the regional categories of Spanish use world-wide. It will provide students with a level of knowledge to make connections between the structure of Spanish and relevant issues in contemporary Hispanic linguistics, such as second language learning, language variation, bilingualism, and Spanish in the United States.",
+        "Technical and Digital Skills": [
+            "Phonology analysis",
+            "Morphology analysis",
+            "Syntax analysis",
+            "Regional dialectology",
+            "Application of linguistic principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Spanish",
+            "Understanding regional Spanish variations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of language patterns",
+            "Comparative linguistic analysis",
+            "Understanding and analyzing language variations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of linguistic data",
+            "Understanding the structure of Spanish"
+        ]
+    },
+    {
+        "courseCode": "SPAN 515",
+        "courseTitle": "Spanish Phonetics",
+        "academicLevel": "graduate",
+        "courseDescription": "This class is an introduction to the descriptive analysis of Spanish sounds and provides a comprehensive presentation of phonetics concepts as well as the comparisons drawn between the sounds of Spanish and those of English from a theoretical perspective. Students will gain a solid understanding of the sound system and strengthening of their pronunciation of Spanish from engaging, culturally driven activities taken from real-life modern Spanish sources, as well as enhancing awareness through aural comprehension of the nuances of the different dialects from speakers across the Spanish-speaking world.",
+        "Technical and Digital Skills": [
+            "Descriptive analysis of Spanish sounds",
+            "Understanding of phonetics concepts",
+            "Comparison of Spanish and English sounds",
+            "Awareness of nuances of different Spanish dialects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective pronunciation of Spanish",
+            "Aural comprehension skills",
+            "Cultural sensitivity in communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing Spanish sounds from a theoretical perspective",
+            "Identifying differences in dialects across the Spanish-speaking world"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 547",
+        "courseTitle": "Drama of the Spanish Golden Age",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected works of the major playwrights of the Golden Age:  Lope de Vega, Calderon de la Barca, Tirso de Molina, Ruiz de Alarcon.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Understanding of historical context",
+            "Research of primary texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of complex ideas",
+            "Discussion and debate",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Textual interpretation",
+            "Problem-solving through literary analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "SPAN 548",
+        "courseTitle": "Contemporary Spanish Drama",
+        "academicLevel": "graduate",
+        "courseDescription": "Through reading and analysis of the most representative texts of Spanish drama of the last decades, this course intends to introduce students to contemporary theater production in relation to the social, political and cultural trends that dominate in Spain today. Readings will allow students to gain a deeper understanding of the debates predominating within Spanish society and of possible correlations linking Spanish and European culture today.",
+        "Technical and Digital Skills": [
+            "Textual analysis",
+            "Understanding of contemporary Spanish drama and theater",
+            "Knowledge of social, political and cultural trends in Spain"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on Spanish society and culture",
+            "Communication of ideas and interpretations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Analytical interpretation of texts",
+            "Correlation analysis between Spanish and European culture"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 549",
+        "courseTitle": "Contemporary Spanish-American Drama",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of contemporary Spanish-American drama through the reading of representative authors.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Textual analysis",
+            "Literary research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate",
+            "Cultural understanding and sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Literary interpretation",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent study"
+        ]
+    },
+    {
+        "courseCode": "SPAN 553",
+        "courseTitle": "Border Culture and Literature",
+        "academicLevel": "graduate",
+        "courseDescription": "Students study a variety of current cultural texts from the U.S. and Mexico to explore the multiplicity of images that surround and define the highly contested and increasingly important area of the U.S.-Mexico border. Discussions are grounded in an ideological analysis with the goal of developing a description of the historical and social parameters and strategies that are utilized in the critical revision of the Borderlands. Specifically, this course focuses on questions dealing with subaltern identities, for example women, indigenous groups, immigrants, and the poor.",
+        "Technical and Digital Skills": [
+            "Textual analysis",
+            "Digital research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discussion facilitation",
+            "Empathetic understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ideological analysis",
+            "Historical context analysis",
+            "Social parameters identification",
+            "Critical revision strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Subaltern identities exploration",
+            "Organizing complex narratives",
+            "Leading inclusive discussions"
+        ]
+    },
+    {
+        "courseCode": "SPAN 569",
+        "courseTitle": "Hispanic Film",
+        "academicLevel": "graduate",
+        "courseDescription": "A topical study of the major works of Spanish and Latin American film from Bunuel to the present.  The course will explore many issues, including those related to gender, race, symbolism, and class struggle. (cross listed with COMM 443/COMM 543)",
+        "Technical and Digital Skills": [
+            "Film analysis",
+            "Understanding film symbolism",
+            "Knowledge of Spanish and Latin American film history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of film themes",
+            "Understanding and communicating about issues related to gender, race, and class struggle in film"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of film content",
+            "Analysis of cultural and social issues in film"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 571",
+        "courseTitle": "Hispanic Women Authors",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of fictional and non-fictional works by Spanish, Spanish-American, and U.S. Latina writers from the 16th to the 20th century.  The course analyzes gender identity and roles and the interaction of gender, race, and class in literary representations of courtship and marriage, spirituality, nationalism, colonialism, and multiculturalism. (cross-listed with WCS 471/WCS 571)",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Historical context interpretation",
+            "Cross-cultural comparison"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective verbal and written communication",
+            "Active listening",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and thinking",
+            "Analysis of gender, race, and class dynamics",
+            "Textual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent research",
+            "Information organization"
+        ]
+    },
+    {
+        "courseCode": "SPAN 573",
+        "courseTitle": "Contemporary Latina Literature: From Borders to Crossroads",
+        "academicLevel": "graduate",
+        "courseDescription": "The course focuses on poetry, prose fiction and theater written by Chicana, Puerto Rican, Cuban-American, and Dominican-American women authors in the last twenty years. Attention will also be paid to the very influential theoretical work written by Chicanas.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Oral and written communication",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Literary analysis",
+            "Interpretation of theoretical work",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Organizing ideas and arguments",
+            "Research coordination"
+        ]
+    },
+    {
+        "courseCode": "SPAN 595",
+        "courseTitle": "Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish language proficiency",
+            "Use of digital language learning tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Bilingual communication",
+            "Cultural sensitivity and understanding",
+            "Group discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis in Spanish",
+            "Critical interpretation of Spanish language sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions in Spanish",
+            "Project management in a multilingual setting"
+        ]
+    },
+    {
+        "courseCode": "SPAN 596",
+        "courseTitle": "Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish language proficiency",
+            "Digital research of Spanish literature, culture, and history",
+            "Use of language translation tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Oral and written communication in Spanish",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex Spanish texts",
+            "Critical thinking on topics in Spanish",
+            "Problem-solving in a foreign language context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small group discussions",
+            "Organizing and planning study schedules",
+            "Coordinating group projects"
+        ]
+    },
+    {
+        "courseCode": "SPAN 602",
+        "courseTitle": "Intensive Spanish for Teachers: Language and Culture",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed for Spanish teachers interested in keeping up with cultural developments in the Spanish-speaking world and in maintaining/improving linguistic performance.  Emphasis will be placed on authentic materials from newspapers, magazines, film and video, and the Internet.",
+        "Technical and Digital Skills": [
+            "Use of authentic Spanish-language resources",
+            "Internet research for Spanish-language materials",
+            "Understanding of Spanish film and video"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Spanish language fluency",
+            "Understanding of Spanish-speaking cultures",
+            "Communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Spanish-language materials",
+            "Critical evaluation of cultural developments in Spanish-speaking regions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Continual improvement of Spanish teaching methods",
+            "Keeping up with cultural developments in the Spanish-speaking world"
+        ]
+    },
+    {
+        "courseCode": "SPAN 668",
+        "courseTitle": "Internship in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "Individualized practical experience. Students gain first-hand experience in settings that are appropriate given their academic background and career objectives.",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Translation and interpretation",
+            "Use of language learning software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Interpersonal skills in a Spanish-speaking setting",
+            "Written and verbal communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and solving problems in a foreign language setting",
+            "Critical thinking in Spanish",
+            "Cultural analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in an international setting",
+            "Adapting to new organizational structures",
+            "Leadership in a multi-cultural environment"
+        ]
+    },
+    {
+        "courseCode": "SPAN 695",
+        "courseTitle": "Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics which may not be offered regularly.  These courses appear in the course schedule.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish vocabulary",
+            "Understanding complex Spanish grammar structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Fluent Spanish conversation",
+            "Written communication in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation between Spanish and English",
+            "Analysis of Spanish texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading Spanish language study groups",
+            "Organizing Spanish language events"
+        ]
+    },
+    {
+        "courseCode": "SPAN 696",
+        "courseTitle": "Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics which may not be offered regularly.  These courses appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Spanish language fluency",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Contextual interpretation",
+            "Critical evaluation of Spanish linguistic structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 697",
+        "courseTitle": "Tutorial Work in Special Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "The independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Advanced Spanish language proficiency",
+            "Academic research techniques",
+            "Writing academic papers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective verbal communication in Spanish",
+            "Active listening",
+            "Constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and analysis",
+            "Independent problem-solving",
+            "Formulating research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseCode": "SPAN 698",
+        "courseTitle": "Tutorial Work in Special Topics in Spanish",
+        "academicLevel": "graduate",
+        "courseDescription": "The independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Specialized Spanish vocabulary",
+            "Independent research techniques",
+            "Academic writing in Spanish"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one conferencing",
+            "Articulating complex ideas in Spanish",
+            "Active listening in Spanish"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of Spanish literature or linguistics",
+            "Analyzing and synthesizing information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Meeting deadlines for paper submissions"
+        ]
+    }
+]

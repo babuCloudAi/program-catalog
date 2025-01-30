@@ -1,0 +1,183 @@
+[
+    {
+        "courseTitle": "Independent Study in Special Topics in Education",
+        "courseCode": "CDSE 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of selected topics in education.",
+        "Technical and Digital Skills": [
+            "Research skills in education",
+            "Data analysis in educational research",
+            "Literature review techniques in education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings in education",
+            "Collaborating with educators and researchers in the field of education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of educational literature",
+            "Developing research questions in education",
+            "Interpreting data in educational research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing independent study timelines in education",
+            "Leading educational research projects",
+            "Organizing research materials in education"
+        ]
+    },
+    {
+        "courseCode": "CDSE 597",
+        "courseTitle": "Independent Study in Special Topics in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of selected topics in education.",
+        "Technical and Digital Skills": [
+            "Research methodology in education",
+            "Data analysis in education research",
+            "Online research tools proficiency",
+            "Statistical software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with peers and mentors",
+            "Effective communication of research goals",
+            "Writing research reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of educational literature",
+            "Identifying research gaps in education",
+            "Developing research hypotheses",
+            "Interpreting research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in educational research",
+            "Time management for independent study",
+            "Setting research goals and timelines",
+            "Leading discussions on research topics"
+        ]
+    },
+    {
+        "courseCode": "CDSE 697",
+        "courseTitle": "Independent Study in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in special education.",
+        "Technical and Digital Skills": [
+            "Research methodology in special education",
+            "Data collection techniques for special education research",
+            "Assistive technology implementation in special education",
+            "Statistical analysis in special education research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with special education students",
+            "Collaborating with parents and caregivers of special education students",
+            "Presenting research findings in a clear and accessible manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying learning challenges in special education students",
+            "Developing individualized education plans (IEPs) for special education students",
+            "Analyzing data to assess the effectiveness of special education interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for independent study",
+            "Leading discussions on special education research topics",
+            "Organizing research materials and data efficiently"
+        ]
+    },
+    {
+        "courseCode": "CDSE 795",
+        "courseTitle": "Topics in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics and emergent research related issues that permits small groups of qualified students to study subjects of mutual interest, which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis software proficiency",
+            "Online learning platforms familiarity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative group work",
+            "Effective presentation skills",
+            "Facilitation of discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in educational contexts",
+            "Curriculum design and assessment",
+            "Identifying educational trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in educational settings",
+            "Team coordination for research projects",
+            "Leading educational initiatives"
+        ]
+    },
+    {
+        "courseCode": "CDSE 797",
+        "courseTitle": "Independent Study in Special Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study of special topics in special education for advanced graduate students.",
+        "Technical and Digital Skills": [
+            "Special education technology applications",
+            "Assistive technology knowledge",
+            "Data analysis in special education research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students with special needs",
+            "Collaboration with special education professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying individualized educational interventions",
+            "Analyzing and addressing learning challenges in special education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing and implementing individualized education plans",
+            "Leading special education initiatives"
+        ]
+    },
+    {
+        "courseCode": "CDSE 895",
+        "courseTitle": "Topics in Education",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics and emergent research related issues that permits small groups of qualified students to study subjects of mutual interest, which, due to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": [
+            "Research methodologies in education",
+            "Data analysis in educational research",
+            "Utilizing educational software and tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitating group discussions on educational topics",
+            "Effective presentation of research findings in education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating educational research",
+            "Identifying trends in educational data",
+            "Developing solutions to educational challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational research projects",
+            "Collaborating with peers on educational initiatives"
+        ]
+    },
+    {
+        "courseCode": "CDSE 998",
+        "courseTitle": "Master’s Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Registration system proficiency",
+            "Final semester project completion",
+            "Graduation requirement understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty and administration",
+            "Professional email etiquette",
+            "Presentation skills for final projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting registration issues",
+            "Analyzing graduation requirements",
+            "Problem-solving for final semester challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for final semester tasks",
+            "Leadership in project completion",
+            "Organizing graduation paperwork"
+        ]
+    }
+]

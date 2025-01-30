@@ -1,0 +1,66 @@
+[
+    {
+        "courseTitle": "Beginning Portuguese I",
+        "courseCode": "PRTG 101F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the four skills (listening, speaking, reading, writing) of elementary Portuguese.",
+        "Technical and Digital Skills": [
+            "Basic Portuguese listening comprehension",
+            "Elementary Portuguese reading comprehension",
+            "Elementary Portuguese writing",
+            "Basic Portuguese speaking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conversational Portuguese",
+            "Portuguese language pronunciation",
+            "Interpersonal communication in Portuguese",
+            "Cultural understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting Portuguese language context",
+            "Identifying meaning from Portuguese texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Portuguese II",
+        "courseCode": "PRTG 102F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will build and expand on the linguistic proficiency in the four skills areas (listening, speaking, reading, writing) of elementary Portuguese.",
+        "Technical and Digital Skills": [
+            "Elementary Portuguese linguistic proficiency",
+            "Listening skills in Portuguese",
+            "Speaking skills in Portuguese",
+            "Reading skills in Portuguese",
+            "Writing skills in Portuguese"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Portuguese",
+            "Non-verbal communication in Portuguese",
+            "Expressing thoughts and ideas in Portuguese",
+            "Understanding and interpreting Portuguese texts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comprehending spoken Portuguese in real-time",
+            "Translating Portuguese texts",
+            "Conversational problem-solving in Portuguese"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Portuguese",
+        "courseCode": "PRTG 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Foreign language communication",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of foreign texts",
+            "Contextual understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

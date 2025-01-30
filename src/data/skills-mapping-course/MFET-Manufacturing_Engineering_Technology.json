@@ -1,0 +1,315 @@
+[
+    {
+        "courseTitle": "Introduction to Robotics",
+        "courseCode": "MFET 235",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course in robotics dealing with the history and development of robots, mechanical components and control systems, actuators, robot programming and utilization. Included are laboratory experiments in robot motion and programming.",
+        "Technical and Digital Skills": [
+            "Understanding of robot history and development",
+            "Knowledge of mechanical components and control systems",
+            "Usage of actuators",
+            "Robot programming",
+            "Utilization of robots"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Robot motion analysis",
+            "Troubleshooting robot programming issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting laboratory experiments"
+        ]
+    },
+    {
+        "courseTitle": "Design for Manufacturing",
+        "courseCode": "MFET 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Principles of design for manufacturing, materials and process selection for design, design for assembly, design for production and case studies. Also includes impact of product design, design for maintenance, recyclability, disassembly, quality and robustness. Semester project requires redesign of an existing product for manufacturing.",
+        "Technical and Digital Skills": [
+            "Principles of design for manufacturing",
+            "Materials and process selection for design",
+            "Design for assembly",
+            "Design for production",
+            "Product design impact assessment",
+            "Design for maintenance",
+            "Recyclability design",
+            "Disassembly design",
+            "Quality and robustness design",
+            "Product redesign for manufacturing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative redesign of an existing product",
+            "Presentation of case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of manufacturing design principles",
+            "Selection of appropriate materials and processes",
+            "Evaluation of product design impacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for product redesign",
+            "Quality control in design"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Mechatronics",
+        "courseCode": "MFET 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the mechatronics concepts and their application on actual problems encountered in engineering practice. Includes the basics of electromechanical systems, electrical circuits, solid-state devices, digital circuits and motors, all of which are fundamental to understanding mechatronic systems.",
+        "Technical and Digital Skills": [
+            "Understanding of electromechanical systems",
+            "Knowledge of electrical circuits",
+            "Working with solid-state devices",
+            "Comprehension of digital circuits",
+            "Familiarity with motors",
+            "Application of mechatronics concepts in engineering practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying mechatronics concepts to solve real-world engineering problems",
+            "Analyzing and interpreting complex electromechanical systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Quality Systems in Manufacturing",
+        "courseCode": "MFET 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a comprehensive exploration of quality systems within the realm of manufacturing. Students will delve into the principles, methodologies, and tools essential for ensuring and enhancing product quality throughout the manufacturing lifecycle. Topics covered include quality management systems, statistical process control, Six Sigma methodologies, root cause analysis, quality assurance practices, and the integration of quality systems within various manufacturing processes. Through case studies and practical applications, students will gain a deep understanding of how quality systems contribute to operational excellence and competitive advantage in modern manufacturing environments.",
+        "Technical and Digital Skills": [
+            "Understanding of quality management systems",
+            "Application of statistical process control",
+            "Implementation of Six Sigma methodologies",
+            "Execution of root cause analysis",
+            "Adherence to quality assurance practices",
+            "Integration of quality systems within manufacturing processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of quality assurance practices",
+            "Collaboration in quality systems implementation",
+            "Effective communication of quality system findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using root cause analysis",
+            "Analytical skills for statistical process control",
+            "Application of Six Sigma methodologies for problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of quality systems within manufacturing processes",
+            "Leadership in implementing quality assurance practices",
+            "Organization of quality management systems"
+        ]
+    },
+    {
+        "courseTitle": "Computer Integrated Manufacturing",
+        "courseCode": "MFET 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers an in-depth examination of material handling technologies, automatic identification, and data capture techniques. Students will grasp the concepts underlying manufacturing support systems, delve into the realm of digital manufacturing, and gain proficiency in manufacturing process simulation. Through practical applications and theoretical frameworks, this course equips learners with a comprehensive understanding of how technology intersects with modern manufacturing processes.",
+        "Technical and Digital Skills": [
+            "Understanding of material handling technologies",
+            "Proficiency in automatic identification",
+            "Data capture techniques",
+            "Concepts of manufacturing support systems",
+            "Digital manufacturing",
+            "Manufacturing process simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technology's role in modern manufacturing processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and optimization of manufacturing processes",
+            "Problem-solving in material handling technologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and implementing manufacturing support systems",
+            "Organizing and controlling automated manufacturing processes"
+        ]
+    },
+    {
+        "courseTitle": "Geometric Dimensioning and Tolerancing",
+        "courseCode": "MFET 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.",
+        "Technical and Digital Skills": [
+            "Understanding of ANSI-Y14.5M",
+            "Calculation of fits",
+            "Understanding of geometrical tolerances",
+            "Ability to design and detail product drawings",
+            "Knowledge of tolerances of form, orientation, and profile",
+            "Understanding of flatness, straightness, circularity, cylindricity, angularity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to convey design details and specifications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in dimensional and tolerancing issues",
+            "Analytical skills in calculating fits and tolerances"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Computer Numerical Control in Production",
+        "courseCode": "MFET 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Principles of computer numerical control consistent with most recently developed standards, industry practices, and CAD/CAM systems including such topics as types of CNC machines, CNC milling, CNC turning and CNC electro-discharge machinery. A significant portion of the course includes programming in multiple axes.",
+        "Technical and Digital Skills": [
+            "Understanding of CNC machines",
+            "CNC milling",
+            "CNC turning",
+            "CNC electro-discharge machinery",
+            "Programming in multiple axes",
+            "Knowledge of CAD/CAM systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to adhere to industry practices",
+            "Understanding recently developed standards"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction To Welding Technologies",
+        "courseCode": "MFET 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to conventional and non-conventional welding processes. This course is intended to provide the student with a basic understanding of the various welding processes, welding terminology, joints, symbols, welding defects, equipment. Topics covered include welding processes, heat and fluid flow, structure of metals, solidification phenomena, phase transformations, residual stresses, and nondestructive examination techniques. Real life examples will be used to illustrate the fundamental concepts of the course. The student will also be introduced to career opportunities in the welding field. Lab time will be used to enforce lecture topics when needed.",
+        "Technical and Digital Skills": [
+            "Understanding of conventional and non-conventional welding processes",
+            "Familiarity with welding terminology, joints, symbols, welding defects",
+            "Proficiency in using welding equipment",
+            "Knowledge of heat and fluid flow, structure of metals, solidification phenomena, phase transformations, residual stresses",
+            "Application of nondestructive examination techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain fundamental welding concepts using real life examples"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of welding defects",
+            "Understanding of heat and fluid flow",
+            "Analysis of structure of metals",
+            "Understanding of solidification phenomena",
+            "Understanding of phase transformations",
+            "Analysis of residual stresses",
+            "Application of nondestructive examination techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Additive Manufacturing",
+        "courseCode": "MFET 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of various additive manufacturing (AM) processes. Topics include fundamentals of polymer, composite, and metal AM processes, process parameters, AM software, AM cost, and AM’s industrial potential such as prototyping, tooling, production customization, spare parts, art, design, architecture and construction.",
+        "Technical and Digital Skills": [
+            "Understanding of various AM processes",
+            "Knowledge on fundamentals of polymer, composite, and metal AM processes",
+            "Understanding of AM software",
+            "Understanding of process parameters",
+            "Knowledge on AM cost calculation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the industrial potential of AM",
+            "Customizing production according to AM capabilities",
+            "Analyzing the cost-effectiveness of AM"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing AM projects from prototyping to production",
+            "Planning for spare parts using AM",
+            "Leading design initiatives in art, architecture, and construction using AM"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Manufacturing Processes",
+        "courseCode": "MFET 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the intricate methods and technologies revolutionizing manufacturing, encompassing additive manufacturing, precision machining, sustainable and green processes and technologies, custom manufacturing, intelligent production systems, digital manufacturing, and digital twin. Through case studies and practical applications, learners develop a comprehensive understanding of innovative manufacturing processes driving efficiency, precision, and competitiveness in industry.",
+        "Technical and Digital Skills": [
+            "Understanding of additive manufacturing",
+            "Precision machining",
+            "Knowledge of sustainable and green processes and technologies",
+            "Custom manufacturing",
+            "Understanding intelligent production systems",
+            "Digital manufacturing",
+            "Digital twin technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting case studies",
+            "Communicating practical applications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing manufacturing processes",
+            "Evaluating efficiency, precision, and competitiveness in industry"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating manufacturing processes",
+            "Leading innovation in manufacturing"
+        ]
+    },
+    {
+        "courseTitle": "Lean Engineering",
+        "courseCode": "MFET 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course looks at the history of lean and six sigma philosophies, their principles and implementation methodologies for creating a world class enterprise. Topics in Lean include 5s, value stream mapping, cellular manufacturing, pull system, performance metrics, Lean supplier network, Lean product development and Lean implementation models. Through theory and practical applications, students gain a foundational grasp of Lean Manufacturing and its real-world applications.",
+        "Technical and Digital Skills": [
+            "Understanding of Lean and Six Sigma philosophies",
+            "Knowledge of 5s",
+            "Value stream mapping",
+            "Cellular manufacturing",
+            "Implementation of pull system",
+            "Performance metrics analysis",
+            "Development of Lean supplier network",
+            "Lean product development",
+            "Lean implementation models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of Lean principles",
+            "Collaborative work in Lean implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for Lean implementation",
+            "Problem-solving in Lean manufacturing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for a world-class enterprise",
+            "Leadership in Lean manufacturing",
+            "Organizing Lean supplier networks"
+        ]
+    },
+    {
+        "courseTitle": "Facilities Planning and Material Handling",
+        "courseCode": "MFET 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course takes a systematic approach to design of facilities and material handling systems for effective and lean production of goods and services. An array of qualitative and quantitative tools and techniques are introduced and utilized, emphasizing lean principles, waste reduction, and overall efficiency of operations. Flow analysis and optimization tools, including computer simulation, are introduced. Strong emphasis is placed on a comprehensive semester-long team project as an integral component of this course.",
+        "Technical and Digital Skills": [
+            "Systematic design of facilities and material handling systems",
+            "Use of qualitative and quantitative tools and techniques",
+            "Lean production principles",
+            "Waste reduction techniques",
+            "Operation efficiency methods",
+            "Flow analysis and optimization tools",
+            "Computer simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork in semester-long projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Effective problem solving using lean principles",
+            "Analytical skills for waste reduction",
+            "Flow analysis",
+            "Optimization skills"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for semester-long projects",
+            "Leadership in team project settings"
+        ]
+    }
+]

@@ -1,0 +1,1357 @@
+[
+    {
+        "courseTitle": "Basic Information Literacy and Research",
+        "courseCode": "IT 150G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide students with the basic skills necessary to identify, to access and to utilize task appropriate information.  Students will learn to evaluate information sources and to apply good research strategies.  The course will address qualitative, quantitative, visual and auditory data sources along with the ethical use of data and respect for intellectual property.  Focus will be given to research topics in various fields including business, humanities, social science and technology.",
+        "Technical and Digital Skills": [
+            "Identifying relevant information",
+            "Accessing information sources",
+            "Utilizing task appropriate information",
+            "Handling qualitative and quantitative data",
+            "Handling visual and auditory data",
+            "Ethical use of data",
+            "Respecting intellectual property"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating information sources",
+            "Applying research strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting research on various topics"
+        ]
+    },
+    {
+        "courseTitle": "Cybersecurity, Technology, and Society",
+        "courseCode": "IT 200T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will explore how technology is related to cybersecurity from an interdisciplinary orientation. Attention is given to the way that technologically-driven cybersecurity issues are connected to cultural, political, legal, ethical, and business domains.",
+        "Technical and Digital Skills": [
+            "Understanding of cybersecurity concepts",
+            "Technical proficiency in cybersecurity tools",
+            "Knowledge of technology's role in cybersecurity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex cybersecurity issues",
+            "Effective communication of cybersecurity concerns to non-technical stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of cybersecurity issues",
+            "Evaluation of technology-based cybersecurity solutions",
+            "Understanding of the implications of cybersecurity issues in different societal domains"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to navigate legal and ethical aspects of cybersecurity",
+            "Understanding of business implications of cybersecurity"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Information Systems",
+        "courseCode": "IT 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the major hardware/software components of modern information systems. Topics include introduction to the history of computers, numbering systems conversion, system and application software, networks and the Internet. Additional topics include Information Systems and Systems Development Life Cycle, Introduction to Programming, Databases and Business Intelligence, Information Security, and Privacy and Ethics in the cyber world.  Intended as a comprehensive introduction course to the Information Systems majors.",
+        "Technical and Digital Skills": [
+            "Understanding of major hardware/software components of modern information systems",
+            "Knowledge of history of computers",
+            "Numbering systems conversion",
+            "Understanding system and application software",
+            "Knowledge of networks and the Internet",
+            "Understanding of Information Systems and Systems Development Life Cycle",
+            "Introduction to Programming",
+            "Understanding Databases and Business Intelligence",
+            "Understanding Information Security",
+            "Knowledge of Privacy and Ethics in the cyber world"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate technical information effectively",
+            "Understanding of ethical considerations in Information Systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze software and hardware components",
+            "Understanding of problem-solving in the context of Systems Development Life Cycle",
+            "Analyzing and understanding data from Business Intelligence and Databases",
+            "Analyzing and ensuring information security"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of the structure and organization of Information Systems",
+            "Leadership in managing information security"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Object-Oriented Programming",
+        "courseCode": "IT 205",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course on object-oriented programming that emphasizes problem solving for business applications. The programming language is Java, Python, or instructor's choice. Topics include simple data types, selections, loops, methods, arrays, classes, inheritance, etc.",
+        "Technical and Digital Skills": [
+            "Java programming",
+            "Python programming",
+            "Proficiency with data types",
+            "Understanding of selection structures",
+            "Application of loops",
+            "Method creation and usage",
+            "Array manipulation",
+            "Class creation and usage",
+            "Understanding of inheritance in programming"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with programming for business applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Object-Oriented Programming with C++",
+        "courseCode": "IT 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An advanced C++ programming course focusing on object-oriented design/methodologies and the development of Graphic User Interfaces (GUI) for business applications.  Special topics include: dynamic variables, linked lists, abstract data types, classes, inheritance, composition, exception handling, templates, and overloading.",
+        "Technical and Digital Skills": [
+            "Advanced C++ programming",
+            "Object-oriented design",
+            "Development of GUI for business applications",
+            "Working with dynamic variables",
+            "Creating and managing linked lists",
+            "Designing abstract data types",
+            "Implementing classes",
+            "Applying inheritance and composition",
+            "Handling exceptions",
+            "Creating templates in C++",
+            "Implementing overloading"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Debugging C++ code",
+            "Identifying and resolving programming exceptions",
+            "Applying object-oriented methodologies for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Networking and Security",
+        "courseCode": "IT 315",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to modern networking concepts and technology. Provides students with the fundamental concepts, technologies, components and issues related to communications and data networks.  Topics include network architectures, infrastructures, services, protocols, cyber attacks, adversaries, and defense.",
+        "Technical and Digital Skills": [
+            "Understanding of network architectures",
+            "Knowledge of network infrastructures",
+            "Familiarity with various network services",
+            "Understanding of network protocols",
+            "Knowledge of cyber attack methods",
+            "Understanding of network defense strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in network issues",
+            "Analyzing potential network threats",
+            "Critical evaluation of network components"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Enterprise Information Architecture",
+        "courseCode": "IT 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A comprehensive treatment of the fundamental concepts of enterprise information architecture. Topics include enterprise architecture, information technology infrastructure, components of modern computing environments, system usability and security.",
+        "Technical and Digital Skills": [
+            "Understanding of enterprise architecture",
+            "Knowledge of information technology infrastructure",
+            "Understanding components of modern computing environments",
+            "System usability",
+            "Information security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex technical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and resolution of system usability issues",
+            "Security problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of information technology infrastructure",
+            "Leadership in the development of enterprise information architecture"
+        ]
+    },
+    {
+        "courseTitle": "Web Site and Web Page Design",
+        "courseCode": "IT 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced design and hands-on implementation skills in designing and creating dynamic web sites. Key topics include: web page design, usability principles, HTML, XHTML, Cascading Style Sheets (CSS), JavaScript and Internet security.",
+        "Technical and Digital Skills": [
+            "Advanced web design",
+            "Implementation of dynamic web sites",
+            "HTML",
+            "XHTML",
+            "Cascading Style Sheets (CSS)",
+            "JavaScript programming",
+            "Understanding Internet security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Usability principles application",
+            "Site troubleshooting",
+            "Security problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for website creation",
+            "Site structure organization"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Information Technology",
+        "courseCode": "IT 360T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of computer hardware, software, procedures, applications, and management information concepts.  Provides an understanding of the application of the computer to the support of managerial decision making.  Information Systems majors may not use this course for credit toward the B.S.B.A. degree.",
+        "Technical and Digital Skills": [
+            "Understanding computer hardware and software",
+            "Knowledge of management information concepts",
+            "Application of computer technology in managerial decision making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and implementing appropriate computer applications",
+            "Evaluating the effectiveness of computer solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and managing computer procedures",
+            "Coordinating computer applications for decision making"
+        ]
+    },
+    {
+        "courseTitle": "Systems Analysis and Design",
+        "courseCode": "IT 363",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to the analysis and design of computer-based information systems. Emphasis is placed upon the development of requirements that serve the business needs of the organization as well as the logical and physical design of business information systems. This course covers both the structured and the object-oriented approach of system analysis and design process. Topics covered include introduction to the software development methodologies, requirement gathering, modeling, and logical/physical design techniques. Students are also exposed to emerging topics that promise major improvements in software development area. Factors relevant to the creation of business information systems through development and implementation will be examined in detail.",
+        "Technical and Digital Skills": [
+            "Analysis and design of computer-based information systems",
+            "Development of system requirements",
+            "Logical and physical design of business information systems",
+            "Structured and object-oriented system analysis",
+            "Software development methodologies",
+            "Requirement gathering",
+            "Modeling techniques",
+            "Logical/physical design techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating business needs",
+            "Gathering requirements from stakeholders",
+            "Presenting software design methods"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying business needs",
+            "Analyzing system requirements",
+            "Modeling system design",
+            "Analyzing logical and physical design techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing business information systems",
+            "Managing system development processes",
+            "Leading software development projects"
+        ]
+    },
+    {
+        "courseTitle": "Student Internship",
+        "courseCode": "IT 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.  Available for pass/fail grading only.  (qualifies as a CAP experience)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Professional communication with Department and Career Development Services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Determining appropriate course credits"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigating a professional environment",
+            "Meeting career development requirements"
+        ]
+    },
+    {
+        "courseTitle": "C# and Applications",
+        "courseCode": "IT 374",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to programming concepts and skills of the C# programming language and Visual Studio .NET. Topics include: computing fundamentals and Microsoft .NET platform, C# programming fundamentals and object-oriented programming, web app development and cloud app development.",
+        "Technical and Digital Skills": [
+            "C# programming",
+            "Understanding of Microsoft .NET platform",
+            "Object-oriented programming",
+            "Web app development",
+            "Cloud app development",
+            "Visual Studio .NET usage"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Debugging C# applications",
+            "Creating efficient programming solutions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "PHP and Applications",
+        "courseCode": "IT 376",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to programming concepts and skills of the PHP programming language. Topics include: Internet and web concepts, HTML, CSS and XML, PHP programming basics, database with PHP, PHP web services.",
+        "Technical and Digital Skills": [
+            "PHP programming",
+            "HTML coding",
+            "CSS design",
+            "XML understanding",
+            "Database management with PHP",
+            "Creating PHP web services"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting PHP code",
+            "Optimizing database queries",
+            "Debugging web services"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Mobile and Cloud Computing",
+        "courseCode": "IT 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to key concepts and techniques of mobile and cloud computing. Topics include: cloud deployment and service models, cloud programming and software environments, performance and security of cloud systems, cloudlets and mobile cloud computing.",
+        "Technical and Digital Skills": [
+            "Understanding of cloud deployment and service models",
+            "Knowledge of cloud programming and software environments",
+            "Understanding of cloud performance and security",
+            "Knowledge of cloudlets and mobile cloud computing"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting and improving cloud system performance",
+            "Identifying and mitigating security risks in cloud systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "E-Business Portal Programming",
+        "courseCode": "IT 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to key concepts, programming techniques, technologies and standards involved in the development of E-Business portal. Topics include: E-Business programming technologies, software development environments, developing a practical E-business project, securing the E-business portal, performance tuning and evaluation.",
+        "Technical and Digital Skills": [
+            "Understanding of E-Business programming technologies",
+            "Experience with software development environments",
+            "Ability to develop a practical E-business project",
+            "Securing the E-business portal",
+            "Performance tuning and evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and improving E-business portal performance",
+            "Troubleshooting and resolving E-business portal security issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for E-business portal development"
+        ]
+    },
+    {
+        "courseTitle": "Business Intelligence",
+        "courseCode": "IT 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Business intelligence, data warehouse, data mining, and OLAP. The course will use state-of-the-art business intelligence software tools including SAS products to provide hands-on experience in designing and using data warehouses.",
+        "Technical and Digital Skills": [
+            "Business intelligence software tools",
+            "Data warehouse design",
+            "Data mining",
+            "OLAP",
+            "SAS products"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Network Server Configuration and Administration",
+        "courseCode": "IT 416",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced course on configuration and management of network servers.  Topics include: user and storage management, ACLs, group policy, configuring security, backups and disaster recovery, and server management.",
+        "Technical and Digital Skills": [
+            "Configuration and management of network servers",
+            "User and storage management",
+            "ACLs",
+            "Group policy configuration",
+            "Network security configuration",
+            "Backup and disaster recovery procedures",
+            "Server management"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting server issues",
+            "Risk assessment for disaster recovery",
+            "Analyzing and improving network security"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy enforcement and management",
+            "Resource allocation and management"
+        ]
+    },
+    {
+        "courseTitle": "Management of Information Security",
+        "courseCode": "IT 417",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course emphasizes the need for management and technology to successfully implement an information security program in an organization. Threats, attacks, legal and ethical issues, risk assessment and control strategies; planning, development, and maintenance of security policies; contingency planning; firewalls, intrusion detection systems and security tools; and management of information security are some of the topics covered in this course.",
+        "Technical and Digital Skills": [
+            "Understanding of threats and attacks",
+            "Knowledge of legal and ethical issues in information security",
+            "Risk assessment",
+            "Control strategies",
+            "Security policy development and maintenance",
+            "Contingency planning",
+            "Knowledge of firewalls, intrusion detection systems and security tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating security policies",
+            "Ethical decision making",
+            "Negotiating risk control strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing threats and attacks",
+            "Risk analysis and mitigation",
+            "Evaluating security policies",
+            "Planning for contingencies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing an information security program",
+            "Managing information security",
+            "Leading security policy development",
+            "Coordinating contingency planning"
+        ]
+    },
+    {
+        "courseTitle": "Enterprise Information Assurance",
+        "courseCode": "IT 418",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Assure information and manage risks related to the use, processing, storage, and transmission of information. Topics include assurance of integrity, availability, authenticity, non-repudiation and confidentiality. Students will gain a firm understanding of information-related risk management in cyber and physical systems. Hands-on exercises and practice opportunities will be provided to students.",
+        "Technical and Digital Skills": [
+            "Assuring information integrity",
+            "Managing risks related to information processing",
+            "Ensuring information availability",
+            "Authenticating information",
+            "Assuring non-repudiation",
+            "Maintaining confidentiality of information",
+            "Information-related risk management in cyber and physical systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk evaluation and management",
+            "Problem solving in cyber and physical systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Information assurance project management"
+        ]
+    },
+    {
+        "courseTitle": "Enterprise Cyber Defense",
+        "courseCode": "IT 419",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provide students with an awareness of the options available to mitigate security threats in enterprise information systems. Topics include network mapping, network security techniques and components, applications of cryptography, malicious activity detection, countermeasures, and vulnerability scanning. Students will learn how to describe potential attacks, defense tools and methods, and measures to be taken when compromises occur.",
+        "Technical and Digital Skills": [
+            "Network mapping",
+            "Understanding network security techniques and components",
+            "Applications of cryptography",
+            "Detection of malicious activity",
+            "Implementation of countermeasures",
+            "Vulnerability scanning",
+            "Identification of potential attacks",
+            "Application of defense tools and methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex security concepts to non-technical stakeholders",
+            "Coordinating with team members for threat mitigation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing potential security threats",
+            "Designing and implementing effective defense strategies",
+            "Ability to respond effectively when compromises occur"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing security protocols within an enterprise environment",
+            "Leading a team in response to security breaches"
+        ]
+    },
+    {
+        "courseTitle": "Object-Oriented Application Development Using Visual Basic",
+        "courseCode": "IT 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced design and implementation strategies are utilized to create dynamic client/server applications that solve complex problems in a secure and robust manner. Key concepts include: abstractions, encapsulation, inheritance, polymorphism, persistence, and dynamic binding.",
+        "Technical and Digital Skills": [
+            "Visual Basic programming",
+            "Advanced design strategies",
+            "Implementation strategies",
+            "Creating dynamic client/server applications",
+            "Understanding of abstractions, encapsulation, inheritance, polymorphism, persistence, and dynamic binding"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving complex issues",
+            "Analyzing and implementing secure and robust applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing application development process"
+        ]
+    },
+    {
+        "courseTitle": "Information Systems for International Business",
+        "courseCode": "IT 425",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The international business organization and its relationship to information systems architecture with emphasis on the role of connectivity technology as a driver of globalization.  An introduction to the economics and structure of the international information technology marketplace.",
+        "Technical and Digital Skills": [
+            "Understanding of information systems architecture",
+            "Knowledge of connectivity technology",
+            "Understanding of economics and structure of international IT marketplace"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within an international business organization",
+            "Cross-cultural communication in a globalized business environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the relationship between business organization and its information systems",
+            "Evaluating the role of technology as a driver of globalization",
+            "Understanding the economics of the international IT marketplace"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing information systems within an international business context",
+            "Leading technology-driven globalization initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Object-Oriented Application Development with JAVA",
+        "courseCode": "IT 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Using JAVA as an object-oriented language to write business applications that solve complex problems in a secure and robust manner. Business examples incorporating multimedia, multithreading, networking, and advanced graphical interfaces are used to reinforce the object-oriented concepts of abstraction, encapsulation, inheritance, polymorphism, persistence, and dynamic binding.",
+        "Technical and Digital Skills": [
+            "JAVA programming",
+            "Object-oriented programming",
+            "Developing business applications",
+            "Multimedia integration",
+            "Multithreading",
+            "Networking",
+            "Advanced graphical interface development",
+            "Implementing object-oriented concepts such as abstraction, encapsulation, inheritance, polymorphism, persistence, and dynamic binding",
+            "Secure coding practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Complex problem-solving",
+            "Robust application development"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Secure Programming",
+        "courseCode": "IT 440",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to methods of secure software design and development. Key topics include principles and practices of secure programming, input validation, type checking, parameter validation, buffer overflow prevention, error handling, web application issues (SQL injection, Cross site scripting, Cross site request forgery, etc.), static analysis tools and black box testing tools.",
+        "Technical and Digital Skills": [
+            "Secure software design",
+            "Secure programming principles",
+            "Input validation",
+            "Type checking",
+            "Parameter validation",
+            "Buffer overflow prevention",
+            "Error handling",
+            "Understanding of web application security issues such as SQL injection, Cross site scripting, Cross site request forgery",
+            "Use of static analysis tools",
+            "Use of black box testing tools"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identification and resolution of software security issues",
+            "Use of testing tools to uncover and rectify vulnerabilities",
+            "Analyzing code for potential security risks"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Database Concepts",
+        "courseCode": "IT 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to database concepts.  Historical development, data models, database analysis, design and implementation, query languages, data security, and introduction to business transaction systems.",
+        "Technical and Digital Skills": [
+            "Understanding of data models",
+            "Database analysis",
+            "Database design",
+            "Database implementation",
+            "Query language proficiency",
+            "Data security management",
+            "Introduction to business transaction systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex database concepts",
+            "Collaborative database design",
+            "Conveying data security issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving database related issues",
+            "Designing efficient database systems",
+            "Analyzing business transactions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing data security",
+            "Leading database design and implementation projects"
+        ]
+    },
+    {
+        "courseTitle": "Database Administration",
+        "courseCode": "IT 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the theory and practice for performing the standard database administrative tasks. Course could serve as a basis in preparation to OCA Exams 1Z0-051 and 1Z0-052 for Oracle Administrator Certified Associate. Topics to be covered include: advance SQL statements, creating schema objects, database installation and configuration, database architecture, performance monitoring and tuning, storage management, database security, user management, database connectivity, backup/recovery techniques and usage analysis.  Oracle will be the primary DBMS software used in the course; other software may be used as well.  Hands-on exercises and practice opportunities will be provided to students.",
+        "Technical and Digital Skills": [
+            "Advance SQL statements",
+            "Creating schema objects",
+            "Database installation and configuration",
+            "Understanding database architecture",
+            "Performance monitoring and tuning",
+            "Storage management",
+            "Database security",
+            "User management",
+            "Database connectivity",
+            "Backup/recovery techniques",
+            "Usage analysis",
+            "Working with Oracle DBMS software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving with SQL",
+            "Performance optimization",
+            "Database troubleshooting",
+            "Recovery planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Database project management",
+            "Database security management"
+        ]
+    },
+    {
+        "courseTitle": "Cloud Database",
+        "courseCode": "IT 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the principles, techniques, and systems of cloud database. Topics include: cloud service models, cloud database design, cloud database management, cloud database development, cloud security, and cloud database services.",
+        "Technical and Digital Skills": [
+            "Understanding cloud service models",
+            "Cloud database design",
+            "Cloud database management",
+            "Cloud database development",
+            "Cloud security",
+            "Knowledge of cloud database services"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and implementing cloud database strategies",
+            "Troubleshooting cloud database issues",
+            "Cloud security risk analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing cloud database projects",
+            "Managing cloud database services"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Database Concepts",
+        "courseCode": "IT 453",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the theoretical and practical foundations of advanced database concepts. It also covers techniques and methodologies that are used to perform the advanced database management tasks and to insure the deployment of efficient, secure, and high-performance database applications. Topics include: advanced database and application design, database performance tuning and query optimization, data movement and distribution, distributed DBMS, Business Intelligence and Data Warehouses, Big Data Analytics and NoSQL, databases and the Internet, and other advanced database concepts. This course also examines the material included in OCA Exams 1Z0-051 and 1Z0-052 for Oracle Administrator Certified Associate.",
+        "Technical and Digital Skills": [
+            "Advanced database and application design",
+            "Database performance tuning and query optimization",
+            "Data movement and distribution",
+            "Knowledge of distributed DBMS",
+            "Understanding of Business Intelligence and Data Warehouses",
+            "Familiarity with Big Data Analytics and NoSQL",
+            "Comprehension of databases and the Internet",
+            "Preparation for OCA Exams 1Z0-051 and 1Z0-052 for Oracle Administrator Certified Associate"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to perform advanced database management tasks",
+            "Ensure the deployment of efficient, secure, and high-performance database applications",
+            "Ability to handle data movement and distribution"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Web-based Database Administration",
+        "courseCode": "IT 454",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to key concepts and techniques related to web-based database administration. Students will gain hands-on experience with a variety of web-based database technologies. Topics to be covered include: MySQL, EasyPHP, phpMyAdmin, XML database technologies such as XQuery, XPath, and XML Schemas, performance tuning, trouble shooting, and web log analysis tools.",
+        "Technical and Digital Skills": [
+            "MySQL database management",
+            "EasyPHP usage",
+            "phpMyAdmin operation",
+            "XML database technologies",
+            "XQuery language",
+            "XPath language",
+            "XML Schemas understanding",
+            "Performance tuning techniques",
+            "Web log analysis tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Database troubleshooting",
+            "Web log analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "SAP Applications",
+        "courseCode": "IT 455",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to the concept of enterprise resource planning. Students will learn SAP (Systems, Applications and Products in Data Processing) enterprise software to manage business operations and customer relations by analyzing and presenting data stats in an engaging way, and producing meaningful and insightful business solutions.",
+        "Technical and Digital Skills": [
+            "SAP enterprise software operation",
+            "Data analysis",
+            "Data presentation",
+            "Business operations management",
+            "Customer relations management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Data presentation",
+            "Business solution communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Business solution development",
+            "Data analysis and interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Business operations management",
+            "Customer relations management"
+        ]
+    },
+    {
+        "courseTitle": "Implementing Internet Applications",
+        "courseCode": "IT 461",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced design and implementation strategies are utilized to create dynamic e-commerce applications that solve complex problems in a secure and robust manner. Key concepts include: Internet architecture, structured data languages, scripting languages, programming languages, database connectivity, and Internet security.",
+        "Technical and Digital Skills": [
+            "Advanced design strategies",
+            "Implementation strategies",
+            "Creating dynamic e-commerce applications",
+            "Understanding of Internet architecture",
+            "Knowledge of structured data languages",
+            "Scripting languages proficiency",
+            "Programming languages proficiency",
+            "Database connectivity",
+            "Internet security"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex problems",
+            "Developing secure and robust applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Essentials of Project Management",
+        "courseCode": "IT 464/564",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on project management concepts and methodologies. Topics include project management framework, knowledge areas, and techniques.",
+        "Technical and Digital Skills": [
+            "Understanding project management framework",
+            "Applying project management methodologies",
+            "Knowledge of project management techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Liaising with project stakeholders",
+            "Communicating project progress",
+            "Negotiating project requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying project risks",
+            "Developing contingency plans",
+            "Analyzing project performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing project tasks",
+            "Leading project teams",
+            "Managing project resources"
+        ]
+    },
+    {
+        "courseTitle": "Strategic IT Administration",
+        "courseCode": "IT 474",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Focuses on improving business use of existing IT and achieving competitive advantage.  All students gain a strategic perspective on an important organizational resource--information. Prepares IT students for managerial positions and effective communication with executives.",
+        "Technical and Digital Skills": [
+            "Strategic utilization of IT resources",
+            "Evaluating business use of IT",
+            "Understanding of IT as a competitive advantage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with executives",
+            "Translating technical IT language for business stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying opportunities for IT enhancement",
+            "Analyzing IT effectiveness in business context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic perspective on organizational resources",
+            "Preparation for managerial positions in IT"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Information Technology",
+        "courseCode": "IT 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through real-world entrepreneurial innovation guided by faculty members and professionals. This course allows students to integrate disciplinary knowledge by developing innovative processes, products, businesses, or other innovations utilizing information technology. The real-world entrepreneurial experience will help students understand how academic knowledge leads to innovation and problem solving.",
+        "Technical and Digital Skills": [
+            "Integration of disciplinary knowledge",
+            "Development of innovative processes",
+            "Creation of novel products or businesses using IT"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty and professionals",
+            "Presentation of innovative ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-world problem solving",
+            "Innovative thinking",
+            "Analyzing and integrating academic knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading entrepreneurial projects",
+            "Strategic planning for innovations"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics in Information Systems",
+        "courseCode": "IT 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Independent Study in Information Systems",
+        "courseCode": "IT 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Researching Information Systems topics",
+            "Applying information systems theories",
+            "Information systems design and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with faculty member",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent problem-solving",
+            "Critical analysis of information systems literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution",
+            "Independent decision-making"
+        ]
+    },
+    {
+        "courseCode": "IT 564",
+        "courseTitle": "Essentials of Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on project management concepts and methodologies. Topics include project management framework, knowledge areas, and techniques.",
+        "Technical and Digital Skills": [
+            "Understanding of project management frameworks",
+            "Knowledge of project management methodologies and techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate project status",
+            "Stakeholder management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk identification and mitigation",
+            "Problem-solving in project context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and organization",
+            "Leadership in project management"
+        ]
+    },
+    {
+        "courseCode": "IT 595",
+        "courseTitle": "Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "courseTitle: ": "",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IT 614",
+        "courseTitle": "Information and Knowledge Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Information and knowledge are critical resources for today's organizations.  This course prepares students for the managerial, organizational, and technological challenges involved in managing information and knowledge.",
+        "Technical and Digital Skills": [
+            "Information management",
+            "Knowledge management systems",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Information dissemination",
+            "Collaboration in knowledge management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic information management",
+            "Analyzing knowledge management effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational knowledge strategy",
+            "Leading information and knowledge management initiatives"
+        ]
+    },
+    {
+        "courseCode": "IT 634",
+        "courseTitle": "Cloud Computing and Security",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to key concepts and techniques of cloud computing and security. Topics include: cloud computing systems, virtualization and container technologies, cloud architecture and service platform design, cloud programming models, big data analytics, cloud performance and security.",
+        "Technical and Digital Skills": [
+            "Understanding of cloud computing systems",
+            "Knowledge of virtualization and container technologies",
+            "Cloud architecture and service platform design",
+            "Familiarity with cloud programming models",
+            "Big data analytics",
+            "Cloud performance and security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in cloud systems design",
+            "Effective communication of security concerns"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting cloud performance issues",
+            "Problem-solving in cloud architecture",
+            "Analyzing big data for insights"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in cloud system design",
+            "Leadership in cloud security implementation"
+        ]
+    },
+    {
+        "courseCode": "IT 650",
+        "courseTitle": "Database Management Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to database management systems.  The topics addressed include system architecture, data models, database analysis, design and implementation, query processing, business transaction processing, and database security.",
+        "Technical and Digital Skills": [
+            "Understanding of system architecture",
+            "Knowledge in data models",
+            "Database analysis",
+            "Database design and implementation",
+            "Query processing",
+            "Business transaction processing",
+            "Database security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data modeling",
+            "Query optimization",
+            "Securing database systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Database project management",
+            "Transaction management"
+        ]
+    },
+    {
+        "courseCode": "IT 651",
+        "courseTitle": "Introduction to Business Intelligence",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to business intelligence and its three components: data warehouse, data mining, and OLAP. Examines traditional techniques as well as emerging technologies.",
+        "Technical and Digital Skills": [
+            "Understanding of data warehouse",
+            "Knowledge in data mining",
+            "Familiarity with OLAP",
+            "Understanding of emerging technologies in business intelligence"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex data",
+            "Applying traditional and emerging techniques to solve business intelligence issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing data resources",
+            "Implementing business intelligence tools and techniques"
+        ]
+    },
+    {
+        "courseCode": "IT 652",
+        "courseTitle": "Information and Communications Technology for Big Data",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to emerging ICT techniques for big data analytics and big data science.  Topics cover WSN, cloud computing and IoT.",
+        "Technical and Digital Skills": [
+            "Understanding of WSN",
+            "Cloud computing",
+            "Knowledge of IoT",
+            "Big data analytics",
+            "Big data science"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing large datasets",
+            "Problem-solving with cloud computing",
+            "IoT data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IT 660",
+        "courseTitle": "Digitalizing Enterprises",
+        "academicLevel": "graduate",
+        "courseDescription": "Information and Communication Technologies (ICT) is a critical enabler of the digital enterprise. This class introduces cutting-edge ICT, including enterprise systems, IoT, CPS as the foundation for digitalizing enterprises for the seamless integration of enterprises and supply chain. Topics includes intra- and inter-organizational integration, supply chain collaboration and integration, and digitalization technologies.",
+        "Technical and Digital Skills": [
+            "Understanding of ICT",
+            "Knowledge of enterprise systems",
+            "Familiarity with IoT",
+            "Understanding of CPS",
+            "Digitalization technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Supply chain collaboration",
+            "Inter-organizational integration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Intra-organizational integration",
+            "Problem-solving in digital enterprise environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of digitalization processes",
+            "Leadership in digital enterprise transformation"
+        ]
+    },
+    {
+        "courseCode": "IT 664",
+        "courseTitle": "Project Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides knowledge of project management including tools and techniques to manage scope, time, cost, quality, risk, team, communications, security and procurement.  Special issues in the context of information- and technology-based projects are emphasized.",
+        "Technical and Digital Skills": [
+            "Project management tools",
+            "Quality management",
+            "Risk management",
+            "Security management",
+            "Procurement management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team management",
+            "Effective communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Scope management",
+            "Time management",
+            "Cost management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in project management",
+            "Organizational skills in technology-based projects"
+        ]
+    },
+    {
+        "courseCode": "IT 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with department and Career Development Services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making for course enrollment",
+            "Understanding of credit system"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning for future semesters",
+            "Taking initiative for career development"
+        ]
+    },
+    {
+        "courseCode": "IT 672",
+        "courseTitle": "Enterprise Architectures",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to enterprise architectures for business organizations as well as related information architectures. Examines traditional techniques as well as emerging techniques including industrial information integration engineering.",
+        "Technical and Digital Skills": [
+            "Understanding enterprise architectures",
+            "Knowledge of information architectures",
+            "Familiarity with traditional architectural techniques",
+            "Proficiency in emerging architectural techniques",
+            "Industrial information integration engineering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing business organizations",
+            "Evaluating architectural techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing architectural strategies"
+        ]
+    },
+    {
+        "courseCode": "IT 680",
+        "courseTitle": "Computing Aspects of Medical Informatics",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of computing aspects of medical informatics.  Computational methods in scientific computing of medical informatics are covered.  The basic thrust is to demonstrate the usefulness and power of computational methods in solving real-life problems in perspectives of medical informatics.",
+        "Technical and Digital Skills": [
+            "Understanding of computational methods",
+            "Scientific computing",
+            "Application of computing in medical informatics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving using computational methods",
+            "Analysis of real-life problems in medical informatics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IT 697",
+        "courseTitle": "Independent Study in Information Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Advanced knowledge in information systems",
+            "Independent research skills",
+            "Usage of digital tools for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty advisor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Analytical thinking",
+            "Problem-solving in information systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Independent project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "IT 800",
+        "courseTitle": "Theoretical Foundation in Supply Chain/Information Technology Research",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of research methodology in supply chain and operations management, data science, and information technology including empirical, behavioral, computational, and interdisciplinary methods and techniques in different types of problem domains.",
+        "Technical and Digital Skills": [
+            "Research methodology in supply chain and operations management",
+            "Understanding of data science",
+            "Proficiency in information technology",
+            "Knowledge of computational methods",
+            "Familiarity with interdisciplinary methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of empirical methods",
+            "Behavioral analysis",
+            "Problem identification in various domains",
+            "Use of computational techniques for problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Guiding interdisciplinary research",
+            "Organization of research methods and findings"
+        ]
+    },
+    {
+        "courseCode": "IT 850",
+        "courseTitle": "Enterprise Architecture",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the latest advances in enterprise architecture and computing.  Topics include enterprise architecture design and modeling, service-oriented architecture (SOA), and integration of enterprise information and applications.",
+        "Technical and Digital Skills": [
+            "Enterprise architecture design and modeling",
+            "Service-oriented architecture (SOA)",
+            "Integration of enterprise information and applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and implementing enterprise architecture models",
+            "Problem-solving for application integration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing enterprise architecture projects",
+            "Leading enterprise architecture transformation"
+        ]
+    },
+    {
+        "courseCode": "IT 890",
+        "courseTitle": "Seminar in Business Process and Enterprise Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "This course discusses how firms achieve business excellence through business process management (BPM), business process improvement (BPI), and business process reengineering (BPR) supported by IT.  Topics include business process and workflow modeling, analysis, integration, monitoring and management.",
+        "Technical and Digital Skills": [
+            "Business process management (BPM)",
+            "Business process improvement (BPI)",
+            "Business process reengineering (BPR)",
+            "Workflow modeling",
+            "Business process analysis",
+            "Business process integration",
+            "Business process monitoring",
+            "Business process management via IT"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating business process strategies",
+            "Collaborating on process improvement projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing business processes",
+            "Identifying opportunities for process improvement",
+            "Solving problems related to business process management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading business process improvement initiatives",
+            "Organizing workflows",
+            "Managing business processes"
+        ]
+    },
+    {
+        "courseCode": "IT 891",
+        "courseTitle": "Seminar in Business Intelligence",
+        "academicLevel": "graduate",
+        "courseDescription": "The objective of this course is to provide an overview of managerial and technical issues associated with business intelligence.  Topics covered include the state-of-the art data warehousing, data mining and OLAP technologies.",
+        "Technical and Digital Skills": [
+            "Understanding of data warehousing",
+            "Data mining techniques",
+            "Knowledge of OLAP technologies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex data",
+            "Troubleshooting technical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing technical projects",
+            "Understanding of business intelligence strategies"
+        ]
+    },
+    {
+        "courseCode": "IT 892",
+        "courseTitle": "Seminar in Knowledge Management",
+        "academicLevel": "graduate",
+        "courseDescription": "The course examines the latest advances in knowledge management (KM) including identifying, capturing, sharing and evaluating an enterprise's knowledge assets.  The course reviews and discusses existing technologies in KM and new emerging KM technologies and practices.",
+        "Technical and Digital Skills": [
+            "Understanding of Knowledge Management technologies",
+            "Identifying new emerging KM technologies",
+            "Capturing and evaluating an enterprise's knowledge assets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Sharing knowledge assets effectively",
+            "Discussing KM technologies and practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying relevant knowledge assets",
+            "Evaluating the effectiveness of KM technologies and practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing an enterprise's knowledge assets",
+            "Implementing KM technologies and practices"
+        ]
+    },
+    {
+        "courseCode": "IT 893",
+        "courseTitle": "Supply Chain Management for E-Commerce",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.",
+        "Technical and Digital Skills": [
+            "Supply chain management",
+            "Information technology integration",
+            "E-commerce tools",
+            "Material flow management",
+            "Omnichannel distribution and retailing",
+            "Maritime logistics",
+            "Procurement procedures",
+            "Inventory management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-functional collaboration",
+            "Vendor communication",
+            "Customer service in e-commerce"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Logistics problem solving",
+            "Inventory analysis",
+            "Procurement strategy development",
+            "E-commerce opportunity identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in supply chain",
+            "Leadership in global e-commerce operations",
+            "Strategic planning for omnichannel retailing"
+        ]
+    },
+    {
+        "courseCode": "IT 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Ph.D. level research and writing of dissertation.",
+        "Technical and Digital Skills": [
+            "Advanced research methods",
+            "Academic writing",
+            "Data analysis software",
+            "Referencing software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking and presentation skills",
+            "Academic collaboration",
+            "Constructive feedback and critique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking and evaluation",
+            "Research problem formulation",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-motivation",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseCode": "IT 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and adhering to degree completion requirements",
+            "Planning and meeting deadlines for graduation"
+        ]
+    }
+]

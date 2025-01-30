@@ -1,0 +1,986 @@
+[
+    {
+        "courseTitle": "Beginning Reading and Vocabulary",
+        "courseCode": "CGE 001",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course helps students become independent and efficient readers of both academic and nonacademic texts by introducing students to a range of level-appropriate topics and genres often encountered at the university. Lessons focus on applying academic reading strategies, critical thinking, and vocabulary development skills across a variety of written texts. Classroom discussions and exercises allow students to share and discuss their ideas about texts.",
+        "Technical and Digital Skills": [
+            "Academic reading strategies application",
+            "Vocabulary development techniques",
+            "Critical thinking skills in reading comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in classroom discussions",
+            "Sharing ideas about texts with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing written texts for key information",
+            "Identifying main ideas and supporting details in texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Writing",
+        "courseCode": "CGE 002",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides instruction and practice in the writing and grammar skills to help students become successful in academic contexts. By the end of this course, students will be able to write in a number of level-appropriate genres with confidence and attention to clarity and grammatical accuracy. Reading materials provide a basis for developing ideas and models for writing. Grammar and mechanics are learned in context.",
+        "Technical and Digital Skills": [
+            "Writing in different genres",
+            "Grammar skills",
+            "Clarity in writing",
+            "Grammatical accuracy"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Developing ideas from reading materials",
+            "Applying grammar and mechanics in context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Listening and Speaking",
+        "courseCode": "CGE 003",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building students’ listening and speaking skills for both social and academic settings. Students develop their speaking skills through role-plays, discussions, vocabulary-building activities, and short presentations. In addition, students develop and apply listening skills to a variety of short lectures, podcasts, interviews, and conversations on a variety of topics.",
+        "Technical and Digital Skills": [
+            "Role-playing scenarios",
+            "Discussion facilitation techniques",
+            "Vocabulary-building strategies",
+            "Presentation skills development",
+            "Listening comprehension exercises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective speaking in different settings",
+            "Engagement in discussions",
+            "Interpretation of different forms of communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing information from lectures and podcasts",
+            "Critical thinking in conversations",
+            "Understanding various perspectives",
+            "Identifying main ideas and supporting details"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Pronunciation",
+        "courseCode": "CGE 004",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the recognition and pronunciation of the English sound system. In addition to work on differentiating between similar and/or confusing sounds, students will have an opportunity to focus on personal difficult areas that interfere with the comprehension of the student’s speech. Guidance will be provided on techniques to improve word stress, rhythm, articulation, pausing, and linking.",
+        "Technical and Digital Skills": [
+            "Recognition of English sound system",
+            "Differentiation between similar sounds",
+            "Techniques to improve word stress",
+            "Techniques to improve rhythm",
+            "Techniques to improve articulation",
+            "Techniques to improve pausing",
+            "Techniques to improve linking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Receiving and implementing guidance on pronunciation",
+            "Seeking feedback on personal difficult areas",
+            "Engaging in speech comprehension exercises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying personal pronunciation challenges",
+            "Evaluating progress in pronunciation improvement",
+            "Adapting pronunciation techniques based on feedback"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Topics in English for Academic Purposes",
+        "courseCode": "CGE 005",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in English for Academic Purposes based on student need and interest.",
+        "Technical and Digital Skills": [
+            "Online research skills",
+            "Document formatting in Word",
+            "Basic PowerPoint presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in class discussions",
+            "Giving presentations in English",
+            "Email etiquette for academic communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and comprehension",
+            "Identifying main ideas and supporting details in academic texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "English Language Center Seminar",
+        "courseCode": "CGE 010",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This seminar course is for academic and campus orientation and other required student activities for new and continuing English Language Center students.",
+        "Technical and Digital Skills": [
+            "Campus orientation technology tools",
+            "Online academic resources navigation",
+            "Student portal usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective group discussion participation",
+            "Peer collaboration in student activities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in academic orientation tasks",
+            "Troubleshooting technical issues during seminars"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group activities during campus orientation",
+            "Coordinating student participation in required activities"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Reading and Vocabulary",
+        "courseCode": "CGE 011",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course helps students become independent and efficient readers of both academic and nonacademic texts by introducing students to a range of level-appropriate topics and genres often encountered at the university. Lessons focus on applying academic reading strategies, critical thinking, and vocabulary development skills across a variety of written texts. Classroom discussions and exercises allow students to share and discuss their ideas about texts.",
+        "Technical and Digital Skills": [
+            "Use of academic databases for research",
+            "Digital text annotation tools",
+            "Online vocabulary building platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in classroom discussions",
+            "Presenting ideas about texts",
+            "Providing constructive feedback on peers' work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of written texts",
+            "Identifying main ideas and supporting details",
+            "Drawing inferences from text"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Writing",
+        "courseCode": "CGE 012",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides instruction and practice in the writing and grammar skills to help students become successful in academic contexts. By the end of this course, students will be able to write in a number of level-appropriate genres with confidence and attention to clarity and grammatical accuracy. Reading materials provide a basis for developing ideas and models for writing. Grammar and mechanics are learned in context.",
+        "Technical and Digital Skills": [
+            "Grammar skills",
+            "Writing in different genres",
+            "Clarity in writing",
+            "Grammar and mechanics in context"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Developing ideas based on reading materials"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Listening and Speaking",
+        "courseCode": "CGE 013",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building students’ listening and speaking skills for both social and academic settings. Students develop their speaking skills through role-plays, discussions, vocabulary-building activities, and short presentations. In addition, students develop and apply listening skills to a variety of short lectures, podcasts, interviews, and conversations on a variety of topics.",
+        "Technical and Digital Skills": [
+            "Role-playing scenarios",
+            "Discussion facilitation techniques",
+            "Vocabulary-building strategies",
+            "Short presentation skills",
+            "Listening comprehension of lectures",
+            "Podcast understanding techniques",
+            "Interview analysis methods",
+            "Conversational comprehension strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening skills",
+            "Effective communication in social settings",
+            "Engaging in academic discussions",
+            "Presenting ideas clearly and concisely"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and evaluating information from various sources",
+            "Identifying key points in conversations and lectures",
+            "Critical thinking in discussions and presentations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Pronunciation",
+        "courseCode": "CGE 014",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the recognition and pronunciation of the English sound system. In addition to work on differentiating between similar and/or confusing sounds, students will have an opportunity to focus on personal difficult areas that interfere with the comprehension of the student’s speech. Guidance will be provided on techniques to improve word stress, rhythm, articulation, pausing, and linking.",
+        "Technical and Digital Skills": [
+            "Recognition of English sound system",
+            "Differentiating between similar sounds",
+            "Techniques for improving word stress",
+            "Techniques for improving rhythm",
+            "Techniques for improving articulation",
+            "Techniques for pausing",
+            "Techniques for linking sounds"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Topics in English for Academic Purposes",
+        "courseCode": "CGE 015",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in English for Academic Purposes based on student need and interest.",
+        "Technical and Digital Skills": [
+            "Research skills in academic databases",
+            "Digital citation management",
+            "Literature review writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective academic writing",
+            "Participating in academic discussions",
+            "Giving presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic texts",
+            "Synthesizing information from multiple sources",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing academic deadlines",
+            "Leading group projects",
+            "Organizing research materials"
+        ]
+    },
+    {
+        "courseTitle": "Advanced I Reading and Vocabulary",
+        "courseCode": "CGE 021",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on developing students’ academic reading skills through critical engagement with a variety of text genres including English literature, academic journal articles, research essays, and mainstream media.  Application of reading strategies, vocabulary development, critical thinking, reflection, and discussion of texts are centered throughout the course.",
+        "Technical and Digital Skills": [
+            "Text analysis",
+            "Vocabulary development techniques",
+            "Research skills in English literature",
+            "Critical evaluation of texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in text discussions",
+            "Reflective writing",
+            "Effective communication of ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in text analysis",
+            "Identifying key themes in different genres"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced I Writing from Sources",
+        "courseCode": "CGE 022",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building and refining students’ advanced-level skills and strategies to be effective writers of the kinds of compositions they will produce in university coursework. Students will progress in their understanding and use of language, develop effective writing processes, incorporate sources, and demonstrate an understanding of the rhetorical situation. Grammar and mechanics are learned in context.",
+        "Technical and Digital Skills": [
+            "Advanced writing processes",
+            "Incorporating sources",
+            "Understanding rhetorical situation",
+            "Grammar and mechanics in context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of ideas",
+            "Collaboration on writing projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Analyzing and synthesizing sources"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced I Academic Presentations and Pronunciation",
+        "courseCode": "CGE 024",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students for success in public speaking situations typically encountered in university courses and professional environments. Students will learn to plan, organize, and deliver presentations on a variety of formal and informal topics using effective visual aids. A variety of areas of pronunciation will be covered, paying special attention to comprehensibility and individual students’ needs.",
+        "Technical and Digital Skills": [
+            "Effective use of visual aids in presentations",
+            "Pronunciation techniques",
+            "Technology for recording and analyzing presentations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Adapting presentation style to different audiences",
+            "Receiving and incorporating feedback on presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating and improving pronunciation clarity",
+            "Troubleshooting technical issues during presentations",
+            "Analyzing audience engagement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and structuring presentations",
+            "Leading group presentations",
+            "Time management for presentations"
+        ]
+    },
+    {
+        "courseTitle": "Advanced I Topics in English for Academic Purposes",
+        "courseCode": "CGE 025",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics in English for Academic Purposes based on student need and interest.",
+        "Technical and Digital Skills": [
+            "Advanced academic writing techniques",
+            "Research skills for academic purposes",
+            "Digital tools for academic research",
+            "Using academic databases effectively"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting academic work with clarity and confidence",
+            "Effective communication in academic settings",
+            "Collaborating on academic projects with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of academic sources",
+            "Analyzing and synthesizing academic information",
+            "Developing logical arguments in academic writing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for academic tasks",
+            "Leading academic group discussions",
+            "Organizing academic research materials"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Reading and Vocabulary",
+        "courseCode": "CGE 031",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on developing students’ academic reading skills through critical engagement with a variety of text genres including English literature, academic journal articles, research essays, and mainstream media.  Application of reading strategies, vocabulary development, critical thinking, reflection, and discussion of texts are centered throughout the course.",
+        "Technical and Digital Skills": [
+            "Utilizing online databases for research articles",
+            "Digital text annotation tools",
+            "Advanced search techniques for academic literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in text-based discussions",
+            "Participating in group reflections on readings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex texts for key information",
+            "Synthesizing information from multiple sources"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced II Writing from Sources",
+        "courseCode": "CGE 032",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building and refining students’ advanced-level skills and strategies to be effective writers of the kinds of compositions they will produce in university coursework. Students will progress in their understanding and use of language, develop effective writing processes, incorporate sources, and demonstrate an understanding of the rhetorical situation. Grammar and mechanics are learned in context.",
+        "Technical and Digital Skills": [
+            "Incorporating sources in writing",
+            "Understanding language nuances",
+            "Grammar and mechanics in context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing processes",
+            "Understanding rhetorical situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced II Listening and Speaking",
+        "courseCode": "CGE 033",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building students’ listening competence and communicative fluency to a level sufficient to handle most everyday, academic, and professional encounters. In this course, students will move from listening to conversations, interviews, radio programs, or podcasts to more complex documentaries, movies, and lectures. Students will develop their discussion and conversation skills for social and academic purposes, both in and out of class.",
+        "Technical and Digital Skills": [],
+        "Interpersonal and Communication Skills": [
+            "Listening comprehension",
+            "Conversational skills development",
+            "Discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in conversations",
+            "Analyzing complex audio content",
+            "Extracting key information from lectures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective communication in social and academic settings",
+            "Managing group discussions",
+            "Leading conversations"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Academic Presentations and Pronunciation",
+        "courseCode": "CGE 034",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students for success in public speaking situations typically encountered in university courses and professional environments. Students will learn to plan, organize, and deliver presentations on a variety of formal and informal topics using effective visual aids. A variety of areas of pronunciation will be covered, paying special attention to comprehensibility and individual students’ needs.",
+        "Technical and Digital Skills": [
+            "Creating effective visual aids for presentations",
+            "Utilizing presentation software tools",
+            "Recording and editing presentations for online delivery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Delivering presentations confidently",
+            "Adapting speech for enhanced comprehensibility",
+            "Tailoring presentations to different audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating pronunciation challenges",
+            "Addressing individual students' pronunciation needs",
+            "Analyzing presentation feedback for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing presentations",
+            "Leading group presentations effectively",
+            "Providing constructive feedback to peers"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Topics in English for Academic Purposes",
+        "courseCode": "CGE 035",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics in English for Academic Purposes based on student need and interest.",
+        "Technical and Digital Skills": [
+            "Advanced English language proficiency",
+            "Research skills in academic writing",
+            "Literature review techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Engaging in academic discussions",
+            "Collaborative writing and editing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic texts",
+            "Synthesizing information from multiple sources",
+            "Developing coherent arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for research projects",
+            "Leading group discussions in academic settings",
+            "Providing constructive feedback to peers"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Grammar",
+        "courseCode": "CGE 036",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on providing students with a comprehensive understanding of advanced grammatical structures, enabling students to effectively communicate and write in a precise, nuanced, and sophisticated manner within an academic setting. Emphasis is placed on both accuracy and fluency, ensuring that students not only recognize and understand advanced grammar rules but also practice incorporating them naturally in speaking and writing.",
+        "Technical and Digital Skills": [
+            "Understanding advanced grammatical structures",
+            "Applying complex grammar rules",
+            "Precise writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in academic settings",
+            "Nuanced writing abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing grammar rules in context",
+            "Applying grammar rules in speaking and writing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Oral Communication and Literacy",
+        "courseCode": "CGE 040",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for multilingual and/or international undergraduate students in order to develop, use, and refine academic communication skills by critically engaging with a variety of college-level text genres. Students will learn to prepare and develop academic presentations as well as effectively participate in group discussions.  This is a non-credit course; students cannot use this course for academic credit toward a degree program.   Undergraduate Monarch English Transition (MET) Program Exit Criteria: Earn a grade point average of 2.5 in academic courses and grades of C or higher and 85% attendance or higher in the MET courses.",
+        "Technical and Digital Skills": [
+            "Preparing academic presentations",
+            "Engaging with college-level text genres"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in group discussions",
+            "Refining academic communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in English for Special Programs",
+        "courseCode": "CGE 095",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Specialized topics in English designed for Special Programs. Courses offered based on programmatic needs and interests.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced II Reading and Vocabulary",
+        "courseCode": "CGE 131",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on developing students’ academic reading skills through critical engagement with a variety of text genres including English literature, academic journal articles, research essays, and mainstream media.  Application of reading strategies, vocabulary development, critical thinking, reflection, and discussion of texts are centered throughout the course.",
+        "Technical and Digital Skills": [
+            "Utilizing online databases for research articles",
+            "Utilizing academic reading software tools",
+            "Utilizing vocabulary building apps"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in text analysis discussions",
+            "Engaging in critical thinking exercises with peers",
+            "Presenting findings from text analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex text genres",
+            "Synthesizing information from multiple sources",
+            "Identifying key themes and arguments in texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced II Writing from Sources",
+        "courseCode": "CGE 132",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building and refining students’ advanced-level skills and strategies to be effective writers of the kinds of compositions they will produce in university coursework. Students will progress in their understanding and use of language, develop effective writing processes, incorporate sources, and demonstrate an understanding of the rhetorical situation. Grammar and mechanics are learned in context.",
+        "Technical and Digital Skills": [
+            "Incorporating sources effectively in writing",
+            "Understanding and applying language conventions",
+            "Using grammar and mechanics in context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting arguments based on sources",
+            "Engaging in academic discourse",
+            "Collaborating on peer reviews"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and evaluating sources critically",
+            "Synthesizing information from multiple sources",
+            "Identifying credibility and bias in sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research materials efficiently",
+            "Leading group discussions on source analysis"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Listening and Speaking",
+        "courseCode": "CGE 133",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on building students’ listening competence and communicative fluency to a level sufficient to handle most everyday, academic, and professional encounters. In this course, students will move from listening to conversations, interviews, radio programs, or podcasts to more complex documentaries, movies, and lectures. Students will develop their discussion and conversation skills for social and academic purposes, both in and out of class.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening in conversations",
+            "Engaging in discussions and debates",
+            "Participating in interviews or group conversations"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Coordinating group activities",
+            "Organizing social or academic events"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Academic Presentations and Pronunciation",
+        "courseCode": "CGE 134",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course prepares students for success in public speaking situations typically encountered in university courses and professional environments. Students will learn to plan, organize, and deliver presentations on a variety of formal and informal topics using effective visual aids. A variety of areas of pronunciation will be covered, paying special attention to comprehensibility and individual students’ needs.",
+        "Technical and Digital Skills": [
+            "Effective visual aid design",
+            "Presentation planning and organization",
+            "Pronunciation techniques for comprehensibility"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking skills",
+            "Delivering presentations confidently",
+            "Tailoring presentations to different audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting presentations to various topics",
+            "Identifying individual pronunciation needs",
+            "Evaluating effectiveness of visual aids"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced II Topics in English for Academic Purposes",
+        "courseCode": "CGE 135",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics in English for Academic Purposes based on student need and interest.",
+        "Technical and Digital Skills": [
+            "Research skills in academic databases",
+            "Presentation software proficiency",
+            "Online collaboration tools mastery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective academic writing skills",
+            "Participation in academic discussions",
+            "Peer review feedback provision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic texts",
+            "Identifying and evaluating credible sources",
+            "Research design and methodology understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for academic tasks",
+            "Group project coordination",
+            "Leading academic discussions"
+        ]
+    },
+    {
+        "courseTitle": "Advanced II Grammar",
+        "courseCode": "CGE 136",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on providing students with a comprehensive understanding of advanced grammatical structures, enabling students to effectively communicate and write in a precise, nuanced, and sophisticated manner within an academic setting. Emphasis is placed on both accuracy and fluency, ensuring that students not only recognize and understand advanced grammar rules but also practice incorporating them naturally in speaking and writing.",
+        "Technical and Digital Skills": [
+            "Advanced grammar structures understanding",
+            "Advanced writing skills",
+            "Incorporating grammar rules naturally in speaking and writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in academic settings",
+            "Nuanced writing",
+            "Fluency in speaking and writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex grammar structures",
+            "Applying advanced grammar rules in practice",
+            "Identifying and correcting grammar errors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Oral Communication and Literacy",
+        "courseCode": "CGE 140",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for multilingual and/or international undergraduate students in order to develop, use, and refine academic communication skills by critically engaging with a variety of college-level text genres. Students will learn to prepare and develop academic presentations as well as effectively participate in group discussions.",
+        "Technical and Digital Skills": [
+            "Academic presentation preparation",
+            "Group discussion participation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Multilingual communication",
+            "Engaging with college-level text genres"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of academic texts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Academic Writing",
+        "courseCode": "CGE 142",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course develops multilingual and/or international undergraduate students’ foundational writing skills, emphasizing the writing process. Students learn to match writing to audience and purpose, write in a variety of academic genres, and incorporate source material into their work to be able to transfer acquired skills into discipline-specific writing. Students will learn to recognize and avoid plagiarism by developing a personal voice while also appreciating the importance of the author’s ideas and credibility. Problems with sentence structure, lexical grammar, and diction are addressed individually.",
+        "Technical and Digital Skills": [
+            "Incorporating source material into writing",
+            "Recognizing and avoiding plagiarism",
+            "Addressing sentence structure issues",
+            "Lexical grammar improvement",
+            "Diction refinement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Adapting writing to audience and purpose",
+            "Developing a personal voice in writing",
+            "Appreciating author's ideas and credibility"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Transfer of writing skills into discipline-specific writing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in English for Academic Purposes",
+        "courseCode": "CGE 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in English for academic purposes. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Research skills in English language literature",
+            "Digital writing proficiency",
+            "Information retrieval techniques",
+            "Online academic database navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of academic findings",
+            "Collaborative writing and editing",
+            "Peer review communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of academic sources",
+            "Analyzing and synthesizing complex information",
+            "Identifying and addressing language barriers in academic writing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for academic research",
+            "Leading academic discussions and seminars",
+            "Time management for academic writing tasks"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Language, Culture, and Society",
+        "courseCode": "CGE 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in language, culture and society. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Language processing tools utilization",
+            "Cultural data analysis software proficiency",
+            "Societal trend tracking applications knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings effectively",
+            "Cross-cultural communication proficiency",
+            "Collaborative research project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting language data patterns",
+            "Analyzing cultural impact on society",
+            "Solving societal challenges through language understanding"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cross-disciplinary research teams",
+            "Coordinating cultural research projects",
+            "Managing diverse perspectives in society analysis"
+        ]
+    },
+    {
+        "courseTitle": "Topics in English for Academic Purposes",
+        "courseCode": "CGE 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in English for academic purposes. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Digital research skills",
+            "Online academic writing tools",
+            "Effective use of online databases",
+            "Research paper formatting using software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective academic presentation skills",
+            "Collaborative writing and editing",
+            "Peer feedback and review process",
+            "Online academic discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic texts",
+            "Identifying and evaluating credible sources",
+            "Developing research questions and hypotheses",
+            "Synthesizing information from multiple sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for academic tasks",
+            "Group project coordination and planning",
+            "Leading academic discussions or debates",
+            "Managing academic deadlines and submissions"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Language, Culture, and Society",
+        "courseCode": "CGE 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in language, culture and society. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Research methodologies in social sciences",
+            "Data analysis techniques in cultural studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Cross-cultural communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural texts",
+            "Interpretation of linguistic data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "CGE 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A structured work experience which allows students to apply skills and further develop knowledge related to their program of study in a multicultural and multilingual context. Students must work for at least 50 hours per course credit.",
+        "Technical and Digital Skills": [
+            "Practical application of programming languages",
+            "Data analysis using software tools",
+            "Experience with information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective team collaboration in a diverse environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Troubleshooting technical issues",
+            "Analyzing data to make informed decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management for efficient work completion"
+        ]
+    },
+    {
+        "courseTitle": "Topics in English for Academic Purposes",
+        "courseCode": "CGE 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in English for academic purposes. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Academic writing proficiency",
+            "Research paper formatting",
+            "Use of academic databases",
+            "Citation management software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative writing and editing",
+            "Peer review process understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of academic texts",
+            "Synthesizing information from multiple sources",
+            "Identifying credible sources for research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for academic tasks",
+            "Group project coordination",
+            "Peer mentoring for language improvement"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Language, Culture, and Society",
+        "courseCode": "CGE 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in language, culture and society. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of language and cultural texts",
+        "Organizational and Leadership Skills": "Effective collaboration in diverse cultural settings"
+    },
+    {
+        "courseTitle": "Social Justice & Literacy for Immigrant and Refugee Learners",
+        "courseCode": "CGE 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an introduction to issues critical to the education of immigrant- and refugee-background learners. Students will learn to actively participate in refugee and immigrant communities, acquire an awareness of this population's experiences and needs, and explore issues related to social justice, education, language, and access. Language development theories and pedagogical strategies to engage collaboratively and compassionately with multilingual and multicultural newcomers are explored and practiced.",
+        "Technical and Digital Skills": [
+            "Language development theories",
+            "Pedagogical strategies for multilingual students",
+            "Engaging with multilingual and multicultural newcomers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in refugee and immigrant communities",
+            "Acquiring awareness of immigrant and refugee experiences and needs",
+            "Compassionate engagement with newcomers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social justice issues in education",
+            "Identifying barriers to access for immigrant and refugee learners"
+        ],
+        "Organizational and Leadership Skills": [
+            "Exploring issues related to social justice, education, language, and access",
+            "Collaborative engagement with diverse populations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Language, Culture, and Society",
+        "courseCode": "CGE 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics in language, culture, and society designedA to permit small groups of qualified students to work on subjects of mutual interest, which because of their specialized nature, may not be offered regularly. These courses will appear in the course schedule and will be more fully described by academic advisors.",
+        "Technical and Digital Skills": [
+            "Research methodologies in humanities",
+            "Cross-cultural communication techniques",
+            "Digital ethnography tools",
+            "Data analysis for cultural studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of research findings",
+            "Collaboration in interdisciplinary teams",
+            "Interviewing skills for qualitative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural texts",
+            "Interpretation of linguistic data",
+            "Synthesis of diverse cultural perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research projects",
+            "Facilitation of group discussions",
+            "Cultural sensitivity in leadership roles"
+        ]
+    },
+    {
+        "courseCode": "CGE 550",
+        "courseTitle": "Social Justice & Literacy for Immigrant and Refugee Learners",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to issues critical to the education of immigrant- and refugee-background learners. Students will learn to actively participate in refugee and immigrant communities, acquire an awareness of this population's experiences and needs, and explore issues related to social justice, education, language, and access. Language development theories and pedagogical strategies to engage collaboratively and compassionately with multilingual and multicultural newcomers are explored and practiced.",
+        "Technical and Digital Skills": [
+            "Language development theories",
+            "Pedagogical strategies for multilingual learners",
+            "Accessing resources for immigrant and refugee communities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in immigrant and refugee communities",
+            "Awareness of immigrant and refugee experiences and needs",
+            "Engaging collaboratively and compassionately with newcomers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of social justice issues in education",
+            "Identifying language barriers and solutions for multilingual learners"
+        ],
+        "Organizational and Leadership Skills": [
+            "Advocacy for social justice in education",
+            "Facilitating access to educational resources for immigrant and refugee learners"
+        ]
+    },
+    {
+        "courseCode": "CGE 650",
+        "courseTitle": "Graduate Oral Communication",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed for multilingual and/or international graduate and professional students who are preparing to engage in scholarly activity in their academic disciplines. Students will develop the speaking skills needed to prepare and deliver academic presentations as well as effectively participate in seminar-style discussions and other formal group settings. Students are expected to tailor the opportunities provided by the course to their respective disciplines. A variety of areas of pronunciation will be covered while paying special attention to comprehensibility and individual students’ needs.  Graduate Monarch English Transition (MET) Program Exit Criteria: Earn a grade point average of 3.0 in academic courses and grades of B or higher and 85% attendance or higher in the MET courses.",
+        "Technical and Digital Skills": [
+            "Preparing academic presentations",
+            "Engaging in seminar-style discussions",
+            "Tailoring communication to respective disciplines",
+            "Pronunciation improvement for comprehensibility"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating effectively in formal group settings",
+            "Adapting language skills for scholarly activity",
+            "Engaging in scholarly discussions",
+            "Tailoring communication for academic contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information for scholarly activity",
+            "Identifying individual students' needs for pronunciation improvement"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CGE 652",
+        "courseTitle": "Graduate Academic Writing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed for graduate multilingual and/or international graduate and professional students who are preparing to engage in scholarly activity in their academic disciplines. In this course, students learn writing practices required in order to write cohesive, coherent, and convincing academic papers. Writing skills are developed through guided examination and analysis of discipline-specific authors and texts. Students are expected to tailor the opportunities provided by the course to their respective disciplines. Problems with sentence structure, lexical grammar, and diction are addressed individually.  Graduate Monarch English Transition (MET) Program Exit Criteria: Earn a grade point average of 3.0 in academic courses and grades of B or higher and 85% attendance or higher in the MET courses.",
+        "Technical and Digital Skills": [
+            "Critical analysis of discipline-specific texts",
+            "Sentence structure refinement",
+            "Lexical grammar improvement",
+            "Diction enhancement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Tailoring writing to specific disciplines",
+            "Engaging in scholarly activity",
+            "Guided examination of authors and texts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing sentence structure issues",
+            "Analyzing and evaluating academic papers"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CGE 695",
+        "courseTitle": "Topics in Graduate Communication",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of selected topics designed to permit qualified students to work on subjects of mutual interest in a seminar format which may not be offered regularly due to their specialized nature.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective public speaking",
+            "Professional writing skills",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Argument analysis",
+            "Research methodology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Conflict resolution",
+            "Team coordination"
+        ]
+    }
+]

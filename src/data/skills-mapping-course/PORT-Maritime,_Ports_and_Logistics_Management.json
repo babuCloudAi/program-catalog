@@ -1,0 +1,341 @@
+[
+    {
+        "courseCode": "PORT 610",
+        "courseTitle": "International Shipping and Supply Chain Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with MSCM 610)",
+        "Technical and Digital Skills": [
+            "Understanding of international freight transportation",
+            "Knowledge of terms for movement of international trade",
+            "Management of information, materials, and products flow"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Improving supply chain relationships",
+            "Effective communication within international trade environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing supply chain processes",
+            "Problem-solving in international trade operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Directing the flow of information, materials, and products",
+            "Leading supply chain management"
+        ]
+    },
+    {
+        "courseCode": "PORT 611",
+        "courseTitle": "International Maritime Transport",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the international business of shipping, commercial processes, maritime-related organizations, shipbuilding and repair, ship types and fleets, and commodity movement.",
+        "Technical and Digital Skills": [
+            "Understanding of international shipping processes",
+            "Knowledge of shipbuilding and repair techniques",
+            "Familiarity with various ship types and fleets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Liaising with maritime-related organizations",
+            "Effective communication within the shipping industry"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of commodity movement",
+            "Commercial process optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of shipping operations",
+            "Coordinating with shipbuilding and repair teams"
+        ]
+    },
+    {
+        "courseCode": "PORT 612",
+        "courseTitle": "Port Operations and Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers role, functions, and types of international terminals and ports, including design and operation of general and specialized cargo handling facilities and offshore systems, port authorities, operational structures, and labor.",
+        "Technical and Digital Skills": [
+            "Cargo handling systems operation",
+            "Designing port facilities",
+            "Understanding offshore systems",
+            "Operational knowledge of international terminals and ports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordination with port authorities",
+            "Collaboration with labor and operational structures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing port operations",
+            "Troubleshooting cargo handling systems",
+            "Evaluating operational structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing port operations",
+            "Directing cargo handling processes",
+            "Leading operational structures"
+        ]
+    },
+    {
+        "courseCode": "PORT 613",
+        "courseTitle": "International Maritime and Admiralty Law",
+        "academicLevel": "graduate",
+        "courseDescription": "International law of the sea, maritime jurisdiction, regulation of shipping, carriage of goods, marine insurance, salvage, marine environmental law, safety at sea, and the Oil Pollution Act of 1990 are covered, along with other maritime laws.",
+        "Technical and Digital Skills": [
+            "Understanding of international law of the sea",
+            "Knowledge of maritime jurisdiction",
+            "Regulation of shipping",
+            "Understanding of carriage of goods",
+            "Knowledge of marine insurance",
+            "Understanding of salvage",
+            "Knowledge of marine environmental law",
+            "Understanding of safety at sea",
+            "Knowledge of the Oil Pollution Act of 1990"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of legal information",
+            "Negotiation and dispute resolution in maritime scenarios"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of maritime laws",
+            "Problem-solving in maritime disputes",
+            "Critical analysis of marine insurance policies",
+            "Risk assessment in shipping regulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of maritime operations",
+            "Leadership in maritime legal disputes",
+            "Regulatory compliance"
+        ]
+    },
+    {
+        "courseCode": "PORT 614",
+        "courseTitle": "Port Planning and Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Port planning and competition, ports and ocean container shipping, port impacts, port users in theory, port operator costing and pricing, port carriers and shippers, government and maritime institutions, dockworkers, port environment and port performance evaluation.",
+        "Technical and Digital Skills": [
+            "Port planning",
+            "Understanding of ocean container shipping",
+            "Port operator costing and pricing",
+            "Knowledge of maritime institutions",
+            "Port performance evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Liaising with port users",
+            "Communication with government and maritime institutions",
+            "Interaction with dockworkers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of port impacts",
+            "Port competition analysis",
+            "Understanding of port carriers and shippers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Port environment management",
+            "Coordinating with port users and shippers"
+        ]
+    },
+    {
+        "courseCode": "PORT 615",
+        "courseTitle": "Maritime Security and Risk Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with MSCM 615)",
+        "Technical and Digital Skills": [
+            "Understanding of regulatory requirements in maritime commerce",
+            "Knowledge of state-of-the-art techniques and tools for safeguarding ocean-borne commerce",
+            "Understanding of international and U.S initiatives to ensure maritime security"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with maritime coalitions",
+            "Ability to communicate threats and risks in maritime domain",
+            "Ability to communicate maritime security initiatives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk analysis of maritime threats",
+            "Assessment of impacts on maritime commerce",
+            "Analysis and interpretation of maritime security regulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading maritime security initiatives",
+            "Coordinating with international maritime coalitions",
+            "Managing and mitigating risks in maritime commerce"
+        ]
+    },
+    {
+        "courseCode": "PORT 616",
+        "courseTitle": "Reverse Logistics and Sustainable Operations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with MSCM 616)",
+        "Technical and Digital Skills": [
+            "Understanding of global supply chain partnerships",
+            "Knowledge of reverse logistics systems",
+            "Ability to use fundamental tools and techniques for system optimization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in supply chain partnerships",
+            "Communication within logistics systems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment in supply chain and logistics",
+            "Solution development for system optimization",
+            "Analyzing practices, risks, and opportunities in supply chain and logistics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of supply chain partnerships and logistics systems",
+            "Organizing supply chain and logistics systems for sustainable performance"
+        ]
+    },
+    {
+        "courseCode": "PORT 617",
+        "courseTitle": "Transportation Management",
+        "academicLevel": "graduate",
+        "courseDescription": "The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.",
+        "Technical and Digital Skills": [
+            "Understanding of transportation technology",
+            "Knowledge of transportation sourcing",
+            "Risk management in transportation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Negotiation with intermediaries, carriers and shippers",
+            "Understanding of company roles and operations within the transportation field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of transportation economics",
+            "Evaluation of transportation risks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of transportation operations",
+            "Leadership in transportation field"
+        ]
+    },
+    {
+        "courseCode": "PORT 618",
+        "courseTitle": "Shipbuilding and Ship Repair Business Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the shipbuilding and ship repair industry from the perspective of industry economics, industry financial management and repair operations and acquisition processes.  Provides industry professionals with business management practices that shape the industry.",
+        "Technical and Digital Skills": [
+            "Industry economics evaluation",
+            "Financial management in shipbuilding and repair",
+            "Understanding repair operations and acquisition processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with industry professionals",
+            "Negotiation and persuasion in business deals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing industry financial data",
+            "Problem-solving in repair operations",
+            "Critical evaluation of acquisition processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading business management practices",
+            "Organizing repair operations",
+            "Strategic planning in shipbuilding and repair industry"
+        ]
+    },
+    {
+        "courseCode": "PORT 619",
+        "courseTitle": "Marine Insurance",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the rise of Lloyd's and the London Insurance Market, the current maritime insurance market, priciples of insurance and law, Hull Insurance Law, cargo insurance, general average and salvage insurance.",
+        "Technical and Digital Skills": [
+            "Understanding of Lloyd's and the London Insurance Market",
+            "Knowledge of principles of insurance and law",
+            "Proficiency in Hull Insurance Law",
+            "Understanding of cargo insurance",
+            "Comprehension of general average and salvage insurance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to interpret and communicate insurance principles",
+            "Ability to explain complex insurance terms and conditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and interpret marine insurance laws",
+            "Critical evaluation of insurance market trends",
+            "Risk assessment and management in marine insurance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage insurance claims",
+            "Understanding and application of maritime insurance regulations"
+        ]
+    },
+    {
+        "courseCode": "PORT 641",
+        "courseTitle": "Supply Chain Management and Logistics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines supply chain management, the integration of all activities associated with the flow of materials and information from product start to customers' receipt. Examples include order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities. Particular attention will be paid to global logistics systems supporting port and maritime activities. Supply chain relationships can be improved through effective integration of management and via such technologies as the World Wide Web, electronic data exchange, and enterprise resource planning (ERP). (cross-listed with MSCM 641)",
+        "Technical and Digital Skills": [
+            "Order processing",
+            "Warehousing and inventory management",
+            "Transportation and logistics management",
+            "Cost analysis",
+            "Use of information systems",
+            "Global logistics systems",
+            "Use of World Wide Web",
+            "Electronic data exchange",
+            "Enterprise resource planning (ERP)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Improving supply chain relationships",
+            "Effective integration of management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of materials and information flow",
+            "Management of product start to customers' receipt",
+            "Evaluation of port and maritime activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supply chain management",
+            "Integration of various activities",
+            "Management of global logistics systems"
+        ]
+    },
+    {
+        "courseCode": "PORT 668",
+        "courseTitle": "Directed Research/Port Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Practical field experience in international maritime, ports and logistics related challenges through supervised investigation and analysis of a problem or a working internship within the port-related arena.",
+        "Technical and Digital Skills": [
+            "Investigation of maritime logistics",
+            "Analysis of port-related challenges",
+            "Understanding of international maritime protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication within a professional setting",
+            "Collaboration on field projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem-solving within the realm of maritime and port logistics",
+            "Analytical thinking in real-world contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervised project management",
+            "Task organization and prioritization"
+        ]
+    },
+    {
+        "courseCode": "PORT 695",
+        "courseTitle": "Selected Topics in Maritime and Port Management",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics not offered on a regular basis.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PORT 697",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the opportunity for independent study under the guidance of a member of the faculty.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Communication with faculty members",
+            "Effective articulation of study progress"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent research",
+            "Critical evaluation of study materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Independent planning and organization"
+        ]
+    }
+]

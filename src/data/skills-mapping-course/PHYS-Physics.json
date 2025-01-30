@@ -1,0 +1,2478 @@
+[
+    {
+        "courseTitle": "Conceptual Physics",
+        "courseCode": "PHYS 101N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory descriptive course which develops and illustrates the concepts of physics in terms of phenomena encountered in daily life.  Topics include mechanics, electricity and magnetism.  (offered fall, summer)",
+        "Technical and Digital Skills": [
+            "Understanding of mechanics",
+            "Understanding of electricity and magnetism",
+            "Ability to relate physics concepts to daily life phenomena"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply physics concepts to solve real-world problems",
+            "Analytical reasoning",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Conceptual Physics",
+        "courseCode": "PHYS 102N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory descriptive course which develops and illustrates the concepts of physics in terms of phenomena encountered in daily life.  Topics include sound, light, fluids and heat.  (offered spring)",
+        "Technical and Digital Skills": [
+            "Understanding of physics concepts",
+            "Knowledge of sound, light, fluids, and heat",
+            "Ability to relate natural phenomena to physics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex concepts in simple terms",
+            "Ability to communicate physics concepts in an understandable way"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem-solving using physics concepts",
+            "Critical evaluation of everyday phenomena"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory General Physics",
+        "courseCode": "PHYS 111N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes mechanics, wave motion and heat and will also cover the needed elements of trigonometry and vectors.  Students receiving credit for PHYS 111N cannot receive credit for PHYS 102N either simultaneously or subsequently. (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Understanding of mechanics",
+            "Understanding of wave motion",
+            "Understanding of heat",
+            "Knowledge of trigonometry",
+            "Knowledge of vectors"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical phenomena",
+            "Solving problems involving mechanics",
+            "Solving problems involving wave motion",
+            "Solving problems involving heat",
+            "Applying trigonometry and vectors to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory General Physics",
+        "courseCode": "PHYS 112N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes electricity, light, and introduction to modern physics. (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Understanding of electricity",
+            "Knowledge on light",
+            "Introduction to modern physics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reasoning",
+            "Critical thinking",
+            "Problem-solving in physics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Physics Laboratory",
+        "courseCode": "PHYS 113",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  An introductory laboratory covering experiments from mechanics, wave motion, heat and sound.",
+        "Technical and Digital Skills": [
+            "Conducting mechanical experiments",
+            "Executing wave motion experiments",
+            "Performing heat experiments",
+            "Carrying out sound experiments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing experimental results",
+            "Identifying experimental errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory equipment",
+            "Following laboratory safety protocols"
+        ]
+    },
+    {
+        "courseTitle": "Physics Laboratory",
+        "courseCode": "PHYS 114",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  An introductory laboratory covering experiments from electricity, magnetism, and optics.",
+        "Technical and Digital Skills": [
+            "Electricity experiments",
+            "Magnetism experiments",
+            "Optics experiments",
+            "Laboratory equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative lab work",
+            "Experimental results communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis from experiments",
+            "Troubleshooting experimental setups",
+            "Critical evaluation of experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Experimental process coordination"
+        ]
+    },
+    {
+        "courseTitle": "Physics in the 21st Century",
+        "courseCode": "PHYS 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This seminar will provide students with a broad introduction to the cutting edge of physics research and its applications in diverse areas of contemporary physics.  Recommended for incoming students interested in physics and the natural sciences.",
+        "Technical and Digital Skills": [
+            "Understanding of contemporary physics applications",
+            "Familiarity with cutting edge physics research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex physics concepts",
+            "Collaborative problem-solving in physics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of physics research",
+            "Application of physics concepts to solve real-world problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Quantum Science and Technology",
+        "courseCode": "PHYS 137T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Quantum mechanics has had an enormous impact on society since its discovery nearly a century ago and has been instrumental in developing technology such as transistors and lasers. This course will explore the potential benefits of emerging quantum technologies, how they will impact present and future society, and the technical challenges posed in implementing them. Students will develop a conceptual understanding of these technologies and their fundamental underlying principles of superposition, interference, and entanglement. Topics include quantum computing, quantum communications, and quantum sensing. These ideas will be explored quantitatively using basic algebra. It is strongly recommended that students have passed a college-level math class.",
+        "Technical and Digital Skills": [
+            "Understanding of Quantum Mechanics",
+            "Knowledge of Quantum Technologies (Quantum Computing, Quantum Communications, Quantum Sensing)",
+            "Conceptual understanding of superposition, interference, and entanglement",
+            "Quantitative exploration using basic Algebra"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex quantum principles and technologies",
+            "Ability to discuss the societal impacts of quantum technologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing technical challenges in implementing quantum technologies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Research Experience in Physics",
+        "courseCode": "PHYS 197",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Physics-related software usage",
+            "Data collection and analysis",
+            "Scientific writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Research collaboration",
+            "Presenting research findings",
+            "Interdisciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Hypothesis testing",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Independent work"
+        ]
+    },
+    {
+        "courseTitle": "Honors: University Physics I",
+        "courseCode": "PHYS 226N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors version of PHYS 231N.  This course also includes a Recitation Section for more in-depth discussion of advanced problems.",
+        "Technical and Digital Skills": [
+            "Advanced problem solving in Physics",
+            "Understanding and application of PHYS 231N principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in in-depth discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in Physics",
+            "Advanced problem-solving techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Honors: University Physics II",
+        "courseCode": "PHYS 227N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors version of PHYS 232N, including a recitation section for discussion of advanced problems.",
+        "Technical and Digital Skills": [
+            "Advanced problem-solving in physics",
+            "Understanding complex physics concepts",
+            "Application of advanced physics principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in intellectual discussions",
+            "Collaborative problem solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in advanced physics",
+            "Analytical skills in complex problem-solving",
+            "Problem decomposition"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "University Physics I",
+        "courseCode": "PHYS 231N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A general introduction to physics in which the principles of classical and modern physics are applied to the solution of physical problems. The reasoning through which solutions are obtained is stressed. Topics include mechanics, fluids, and thermodynamics. This course is designed for majors in the physical sciences, engineering, mathematics, and computational sciences. Students receiving credit for PHYS 231N and PHYS 232N cannot simultaneously or subsequently receive credit for PHYS 101N and PHYS 102N or PHYS 111N and PHYS 112N. (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Classical physics principles",
+            "Modern physics principles",
+            "Mechanics",
+            "Fluids",
+            "Thermodynamics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying physics principles to solve problems",
+            "Reasoning to obtain solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "University Physics II",
+        "courseCode": "PHYS 232N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A general introduction to physics in which the principles of classical and modern physics are applied to the solution of physical problems.  The reasoning through which solutions are obtained is stressed.  This course is designed for majors in the physical sciences, engineering, mathematics, and computational sciences. Topics include electricity and magnetism, and optics.  Students receiving credit for PHYS 231N and PHYS 232N cannot simultaneously or subsequently receive credit for PHYS 101N and PHYS 102N or PHYS 111N and PHYS 112N. (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Understanding of classical physics principles",
+            "Understanding of modern physics principles",
+            "Application of physics principles to physical problem-solving",
+            "Knowledge of electricity and magnetism",
+            "Knowledge of optics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Physical problem-solving",
+            "Reasoning skills for solution derivation"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Advanced University Physics I",
+        "courseCode": "PHYS 261N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This calculus-based course is the required introductory course for Physics majors.  In addition to the physics curriculum of PHYS 231N, this course has a recitation section for advanced problems and additional mathematical preparation for advanced courses in physics.",
+        "Technical and Digital Skills": [
+            "Calculus applications in Physics",
+            "Advanced problem-solving methods in Physics",
+            "Additional mathematical preparation for advanced physics courses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Advanced problem-solving in physics",
+            "Analytical skills in physics",
+            "Application of calculus in problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced University Physics II",
+        "courseCode": "PHYS 262N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This calculus-based course is the required introductory course for Physics majors. In addition to the physics curriculum of PHYS 232N, this course has a recitation section for advanced problems and additional mathematical preparation for advanced courses in physics.",
+        "Technical and Digital Skills": [
+            "Calculus-based problem-solving",
+            "Mathematical preparation for advanced physics",
+            "Understanding and application of advanced physics concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Solving advanced physics problems",
+            "Analytical thinking in physics context",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Undergraduate Research I",
+        "courseCode": "PHYS 297",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers students at the Freshman and Sophomore levels their first opportunity to work one-on-one with a research mentor to acquire and develop skills in research techniques, information literacy, research planning, proposal preparation and report writing. Research experiences may include but are not limited to hands-on instrument control to collect and analyze data, including graphical, statistical and error analysis of their data. Students will also be instructed on accepted methods for dissemination of data, including written, oral and poster presentation, as well as procedures for research proposal preparation and submission. Students will be required to deliver to their peers and department faculty at the end of semester an oral and written presentation of their research, as well as a poster presentation at an annual department or university event including the ODU Undergraduate Research Symposium.",
+        "Technical and Digital Skills": [
+            "Research techniques",
+            "Information literacy",
+            "Instrument control",
+            "Data collection",
+            "Data analysis",
+            "Graphical analysis",
+            "Statistical analysis",
+            "Error analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Proposal preparation",
+            "Report writing",
+            "Oral presentation",
+            "Written presentation",
+            "Poster presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research planning",
+            "Data interpretation",
+            "Critical evaluation of information",
+            "Research proposal preparation and submission"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Peer feedback delivery",
+            "Event preparation and participation"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Experimental Physics",
+        "courseCode": "PHYS 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory-oriented course designed to provide students with a broad introduction to instrumentation and techniques used in modern physics laboratories. Topics to be covered include: basic electronics with an introduction to diode, transistor and op-amp circuitry, and an introduction to physical computing using LabView and Arduino micro controllers.",
+        "Technical and Digital Skills": [
+            "Understanding of basic electronics",
+            "Introduction to diode, transistor and op-amp circuitry",
+            "Physical computing using LabView",
+            "Programming with Arduino micro controllers"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Instrumentation troubleshooting",
+            "Analysis of circuit functionality"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Physics on the Back of an Envelope",
+        "courseCode": "PHYS 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Physicists should be able to estimate the order-of-magnitude of anything.  How many atoms of Julius Caesar do you eat every day?  How much waste does a nuclear power plant generate?   Will develop concepts, relations and numbers useful for estimation.  Will cover little new material, emphasizing already acquired knowledge.  Will help students apply physics to real-life questions and understand which physical effects are appropriate on which scales.  Seminar course.",
+        "Technical and Digital Skills": [
+            "Understanding of basic physics concepts",
+            "Ability to apply physics concepts to real-world scenarios",
+            "Estimation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to present complex concepts in understandable terms",
+            "Collaborative learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem-solving using physics principles",
+            "Critical evaluation of information",
+            "Deductive reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Analytical Mechanics",
+        "courseCode": "PHYS 319",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamentals of Newtonian mechanics.  Topics include kinematics, dynamics, energy and momentum, central forces and planetary motion, and resonance phenomena.  (Offered Spring)",
+        "Technical and Digital Skills": [
+            "Understanding of Newtonian Mechanics",
+            "Knowledge of kinematics",
+            "Understanding of dynamics",
+            "Comprehension of energy and momentum",
+            "Understanding central forces and planetary motion",
+            "Knowledge of resonance phenomena"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical phenomena",
+            "Solving mechanics problems",
+            "Applying Newtonian principles to solve real-world problems",
+            "Predicting planetary motion",
+            "Analyzing resonance phenomena"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Modern Physics",
+        "courseCode": "PHYS 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the wave nature of matter, with applications in materials science, atomic, and nuclear physics.  Introduction to relativity, including applications in mechanics and electrodynamics.  (Offered Fall)",
+        "Technical and Digital Skills": [
+            "Understanding the wave nature of matter",
+            "Knowledge in materials science",
+            "Atomic physics",
+            "Nuclear physics",
+            "Understanding relativity",
+            "Applications in mechanics",
+            "Applications in electrodynamics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical phenomena",
+            "Application of scientific principles to solve problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Mathematical Methods of Physics",
+        "courseCode": "PHYS 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide a strong foundation in the mathematical methods and applications necessary for undergraduate study of physics beyond the introductory level. The course contains a mandatory recitation section. (Offered Fall)",
+        "Technical and Digital Skills": [
+            "Understanding of mathematical methods in physics",
+            "Application of mathematical methods in physics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in mandatory recitation section"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex mathematical problems",
+            "Solving physics problems using mathematical methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "PHYS 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be repeated for credit.  Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with department and Career Development Services",
+            "Ability to present and explain academic relevance of work experience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating academic relevance of work experience",
+            "Adapting to new work environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing work experience",
+            "Meeting evaluative procedures",
+            "Self-management"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "PHYS 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": [
+            "Industry-specific software proficiency",
+            "Data recording",
+            "Practical application of academic knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Interdepartmental coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Real-time problem solving",
+            "Task analysis",
+            "Career-related problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self motivation",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Research II",
+        "courseCode": "PHYS 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers students at the Sophomore and Junior levels an opportunity to work one-on-one with a research mentor on a self-designed research project of mutual interest, and typically within the research field of their mentor. The student will demonstrate their knowledge of the research skills covered in PHYS 297 by formulating their own research plan and then collecting and analyzing their data. Students will also be instructed in research publication skills as well as conference standard presentation techniques. Students will be required to attend at least two conferences, within and outside the university.",
+        "Technical and Digital Skills": [
+            "Formulating research plans",
+            "Data collection and analysis",
+            "Research publication skills",
+            "Conference standard presentation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one collaboration with research mentor",
+            "Presenting research findings at conferences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing a self-directed research project",
+            "Analyzing research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing a self-directed research project",
+            "Attending professional conferences"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Atomic Physics",
+        "courseCode": "PHYS 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The hydrogen atom, radiative transitions, two-electron systems, many-electron atoms, interaction with external fields, theory of atomic spectra.",
+        "Technical and Digital Skills": [
+            "Understanding of atomic structures",
+            "Knowledge on interaction of atoms with external fields",
+            "Theory of atomic spectra",
+            "Understanding of radiative transitions",
+            "Knowledge on two-electron and many-electron systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex atomic theories",
+            "Ability to discuss scientific theories in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing atomic structures",
+            "Predicting atomic interactions",
+            "Understanding and interpreting atomic spectra"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Methods of Experimental Physics",
+        "courseCode": "PHYS 413/513",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experiments in classical and modern physics, designed to develop skills in the collection, analysis, and interpretation of experimental data. (Offered Spring)",
+        "Technical and Digital Skills": [
+            "Experimental data collection",
+            "Data analysis",
+            "Interpretation of experimental data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative data collection",
+            "Presenting experimental findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing experimental results",
+            "Problem-solving in experimental setup and data collection",
+            "Interpretation and analysis of experimental data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing experimental procedures",
+            "Coordinating data collection and analysis"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Nuclear and Particle Physics",
+        "courseCode": "PHYS 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the structure of the atomic nucleus, natural and artificial radioactivity, nuclear decay processes and stability of nuclei, nuclear reactions, properties of nuclear forces, and nuclear models. Also, particle phenomenology, experimental techniques and the standard model.  Topics include the spectra of leptons, mesons, and baryons; strong, weak, and electromagnetic interactions.",
+        "Technical and Digital Skills": [
+            "Understanding of atomic nucleus structure",
+            "Knowledge of natural and artificial radioactivity",
+            "Understanding of nuclear decay processes and stability of nuclei",
+            "Understanding of nuclear reactions",
+            "Understanding of properties of nuclear forces",
+            "Knowledge of nuclear models",
+            "Understanding of particle phenomenology",
+            "Knowledge of experimental techniques",
+            "Understanding of the standard model",
+            "Understanding of the spectra of leptons, mesons, and baryons",
+            "Understanding of strong, weak, and electromagnetic interactions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex nuclear and particle physics concepts",
+            "Collaborative problem-solving in experimental techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing nuclear decay processes",
+            "Interpreting spectra of leptons, mesons, and baryons",
+            "Analysing strong, weak, and electromagnetic interactions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting experiments in nuclear and particle physics",
+            "Managing and interpreting data from experiments"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Solid State Physics",
+        "courseCode": "PHYS 416/516",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to solid state physics and materials science, with emphasis placed on the applications of each topic to experimental and analytical techniques.  Topics include crystallography, thermal and vibrational properties of crystals and semiconductors, metals and the band theory of solids, superconductivity and the magnetic properties of materials.",
+        "Technical and Digital Skills": [
+            "Understanding of solid state physics",
+            "Knowledge in materials science",
+            "Application of experimental techniques",
+            "Application of analytical techniques",
+            "Understanding of crystallography",
+            "Knowledge of thermal properties of crystals and semiconductors",
+            "Understanding of vibrational properties of crystals and semiconductors",
+            "Knowledge of metals and the band theory of solids",
+            "Understanding of superconductivity",
+            "Knowledge of magnetic properties of materials"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing properties of solid materials",
+            "Analyzing vibrational properties of crystals and semiconductors",
+            "Analyzing thermal properties of crystals and semiconductors",
+            "Problem solving in the context of solid state physics and materials science"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Particle Accelerator Physics",
+        "courseCode": "PHYS 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamentals of relativistic particle dynamics including particle acceleration; weak and strong focusing; linear beam optics and particle transfer matrices; linear and non-linear synchrotron motion; introduction to the statistical descriptions of particle beams; and radiation production by accelerated relativistic particles. Examples relevant to betatrons, cyclotrons, synchrotrons, and linear accelerators will be given.",
+        "Technical and Digital Skills": [
+            "Understanding of relativistic particle dynamics",
+            "Knowledge of particle acceleration",
+            "Comprehension of weak and strong focusing",
+            "Ability to understand linear beam optics and particle transfer matrices",
+            "Understanding of linear and non-linear synchrotron motion",
+            "Knowledge of statistical descriptions of particle beams",
+            "Understanding of radiation production by accelerated relativistic particles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and explain complex physics concepts",
+            "Collaboration for practical examples understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for understanding and applying examples relevant to betatrons, cyclotrons, synchrotrons, and linear accelerators",
+            "Problem-solving skills to understand particle dynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory Computational Physics",
+        "courseCode": "PHYS 420/520",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to computationally based problem solving in physics with an emphasis on understanding and applying various numerical algorithms to different types of physics problems. Topics will include numerical integration (quadrature), numerical solution of ordinary differential equations, Runge-Kutta and Numerov methods, polynomial approximations, numerical linear algebra, and Monte-Carlo methods. These computational methods will be applied to problems in classical and quantum mechanics, as well as electromagnetic theory.",
+        "Technical and Digital Skills": [
+            "Understanding and applying numerical algorithms",
+            "Numerical integration (quadrature)",
+            "Numerical solution of ordinary differential equations",
+            "Runge-Kutta and Numerov methods",
+            "Polynomial approximations",
+            "Numerical linear algebra",
+            "Monte-Carlo methods",
+            "Applying computational methods to problems in classical and quantum mechanics",
+            "Applying computational methods to problems in electromagnetic theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Computationally based problem solving in physics",
+            "Analyzing different types of physics problems",
+            "Designing and implementing algorithms for physics problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electromagnetism I",
+        "courseCode": "PHYS 425/525",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the classical theory and phenomena of electricity and magnetism. Topics include the calculation of electric and magnetic fields, magnetic and dielectric properties of matter, and an introduction to Maxwell's equations. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Calculation of electric and magnetic fields",
+            "Understanding magnetic and dielectric properties of matter",
+            "Introduction to Maxwell's equations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem-solving in recitations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of electrical and magnetic phenomena",
+            "Problem solving in electric and magnetic field calculations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active participation in mandatory recitation sections"
+        ]
+    },
+    {
+        "courseTitle": "Theoretical Mechanics",
+        "courseCode": "PHYS 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A mathematical study of the concepts of mechanics. Vector calculus methods are used.  Topics include mechanics of a system of particles, Lagrangian mechanics, Hamilton's canonical equations, and motion of a rigid body.",
+        "Technical and Digital Skills": [
+            "Vector calculus methods",
+            "Understanding and applying the concepts of mechanics",
+            "Practical application of Lagrangian mechanics",
+            "Understanding and applying Hamilton's canonical equations",
+            "Understanding the motion of a rigid body"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for solving mathematical problems",
+            "Problem-solving techniques in mechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Quantum Mechanics",
+        "courseCode": "PHYS 452/552",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the physical and mathematical structure of quantum theory, including the historical and experimental origins of the subject. The subject matter includes techniques for solving the Schrodinger equation in one, two, and three dimensions.   Both coordinate and momentum space representations are used. The harmonic oscillator and the Hydrogen atom receive particular attention.  The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding of quantum theory",
+            "Solving the Schrodinger equation in one, two, and three dimensions",
+            "Use of coordinate and momentum space representations",
+            "Knowledge of the harmonic oscillator and the Hydrogen atom"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex quantum mechanics concepts",
+            "Participation in mandatory recitation section"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for solving complex mathematical problems",
+            "Ability to interpret experimental data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electromagnetism II",
+        "courseCode": "PHYS 453/553",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course in electrodynamics developed from Maxwell's Equations.  Topics include Maxwell's Equations, Conservation Laws, Electromagnetic Waves, Potentials and Fields, Radiation, and the interplay of electrodynamics and special relativity. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding and application of Maxwell's Equations",
+            "Understanding of Electromagnetic Waves",
+            "Knowledge of Potentials and Fields",
+            "Understanding of Radiation",
+            "Interplay of electrodynamics and special relativity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in mandatory recitation section",
+            "Ability to discuss and explain electromagnetic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of Conservation Laws in electrodynamics",
+            "Ability to solve problems involving Maxwell's Equations and related topics",
+            "Analyzing and understanding complex electromagnetic systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Thermal and Statistical Physics",
+        "courseCode": "PHYS 454/554",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the fundamental concepts of thermodynamics, kinetic theory, and statistical mechanics.  Topics include the thermodynamics of simple systems, kinetic theory of gases, statistical mechanics of gases and an introduction to quantum statistics.",
+        "Technical and Digital Skills": [
+            "Understanding thermodynamics",
+            "Applying kinetic theory",
+            "Statistical mechanics",
+            "Introduction to quantum statistics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing simple systems in thermodynamics",
+            "Analyzing gases using kinetic theory",
+            "Applying statistical mechanics to gases"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Quantum Mechanics",
+        "courseCode": "PHYS 456/556",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course follows directly from PHYS 452.  It includes a more detailed study of simple systems, an introduction to abstract quantum mechanics and Dirac notation, and applications to operator methods.  Particular attention is paid to electron spin, angular momentum theory, operator treatment of the harmonic oscillator, the Pauli exclusion principle, perturbation theory, and scattering.  The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding of abstract quantum mechanics",
+            "Knowledge of Dirac notation",
+            "Application of operator methods",
+            "Understanding of electron spin",
+            "Knowledge of angular momentum theory",
+            "Operator treatment of the harmonic oscillator",
+            "Understanding of the Pauli exclusion principle",
+            "Knowledge of perturbation theory",
+            "Understanding of scattering theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in mandatory recitation sections",
+            "Ability to communicate complex quantum mechanics concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical understanding of simple systems",
+            "Ability to use quantum mechanics to solve complex problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab",
+        "courseCode": "PHYS 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Explores the historical development of accelerators and their past and present applications.  Principles of acceleration, including the physics of linear accelerators, synchrotrons, and storage rings.  Magnet design; machine lattice design and particle beam optics.  Longitudinal and transverse beam dynamics, including synchrotron and betatron particle motion.  Special topics will be reviewed, including synchrotron radiation, injection techniques, and collective effects and beam instabilities.",
+        "Technical and Digital Skills": [
+            "Understanding of accelerator physics",
+            "Proficiency in magnet design",
+            "Knowledge of machine lattice design",
+            "Understanding of particle beam optics",
+            "Comprehension of longitudinal and transverse beam dynamics",
+            "Knowledge of synchrotron radiation",
+            "Understanding of injection techniques",
+            "Proficiency in dealing with collective effects and beam instabilities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex physics principles",
+            "Collaboration in lab testing and simulations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing particle motion",
+            "Troubleshooting beam instabilities",
+            "Applying physics principles to solve problems in acceleration",
+            "Analysis of machine lattice design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab simulations",
+            "Leading design experiments"
+        ]
+    },
+    {
+        "courseTitle": "Preparing for the Physics GRE",
+        "courseCode": "PHYS 467",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will review the style and scope of problems likely to be found on the Physics Graduate Record Exam (GRE). Emphasis is on quick solving of problems based on foundational knowledge and intuition. This course is particularly intended for students preparing to apply for graduate school, but may be of interest to all students.",
+        "Technical and Digital Skills": [
+            "Understanding and applying foundational Physics knowledge",
+            "Quick problem-solving techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing different types of Physics problems",
+            "Applying intuition to problem solving",
+            "Rapid decision making under time pressure"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Research Methods in Mathematics and Sciences",
+        "courseCode": "PHYS 468W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes the tools and techniques used to solve scientific problems.  Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results.  Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems.  Required for Physics teaching licensure track; not available as upper-division elective in content area.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Design of experiments",
+            "Statistical interpretation of experimental results",
+            "Mathematical modeling of scientific phenomena",
+            "Written presentation of scientific results",
+            "Oral presentation of scientific results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication of scientific results",
+            "Written communication of scientific results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Use of statistics to interpret experimental results",
+            "Problem-solving through independent inquiries",
+            "Analytical thinking in combining skills from mathematics and science"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and execution of independent research inquiries",
+            "Leadership in problem-solving using interdisciplinary skills"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis I",
+        "courseCode": "PHYS 489W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Part one of a two-semester option for completing the Senior Thesis. This is a writing intensive course. PHYS 489W plus PHYS 490W is equivalent to PHYS 499W.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Research methods",
+            "Citation and referencing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer collaboration",
+            "Clear written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Subject analysis",
+            "Critical thinking",
+            "Abstract reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis II",
+        "courseCode": "PHYS 490W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Part two of a two-semester option for completing the Senior Thesis.  PHYS 489W plus PHYS 490W is equivalent to PHYS 499W.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Research methodologies",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting academic findings",
+            "Peer review feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thesis development",
+            "Critical evaluation of scientific literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseTitle": "Special Topics in Physics",
+        "courseCode": "PHYS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In-depth study of a selected topic in physics at the advanced undergraduate level. May include a laboratory or computational component.",
+        "Technical and Digital Skills": [
+            "Advanced physics knowledge",
+            "Laboratory techniques",
+            "Computational physics",
+            "Research tools and methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Conceptual problem solving",
+            "Analytical thinking",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Special Problems and Research",
+        "courseCode": "PHYS 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "These courses afford the student an opportunity to pursue individual study and research.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Individual project execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem-solving methodologies",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Individual project planning"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis",
+        "courseCode": "PHYS 499W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Each student will undertake a research experience under the supervision of a department faculty member.  The experience can be of an experimental, theoretical, or calculational type.  A final oral and written report are required.  The research may be completed on campus or at one of the department affiliated research organizations. This is a writing intensive course.(offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Solution development",
+            "Critical evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-direction",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PHYS 513",
+        "courseTitle": "Methods of Experimental Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Experiments in classical and modern physics, designed to develop skills in the collection, analysis, and interpretation of experimental data.",
+        "Technical and Digital Skills": [
+            "Conducting physical experiments",
+            "Collecting experimental data",
+            "Analyzing experimental data",
+            "Interpreting experimental data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting experimental findings",
+            "Collaborating in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving in experimental design",
+            "Analytical interpretation of experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing experimental data",
+            "Leading experimental projects"
+        ]
+    },
+    {
+        "courseCode": "PHYS 515",
+        "courseTitle": "Introduction to Nuclear Particle Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the structure of the atomic nucleus, natural and artificial radioactivity, nuclear decay processes and stability of nuclei, nuclear reactions, properties of nuclear forces, and nuclear models. Also, particle phenomenology, experimental techniques and the standard model.  Topics include the spectra of leptons, mesons, and baryons; strong, weak, and electromagnetic interactions.",
+        "Technical and Digital Skills": [
+            "Understanding of atomic nucleus structure",
+            "Knowledge of natural and artificial radioactivity",
+            "Understanding of nuclear decay processes and stability of nuclei",
+            "Knowledge of nuclear reactions",
+            "Understanding of nuclear forces properties",
+            "Familiarity with nuclear models",
+            "Understanding of particle phenomenology",
+            "Experience with experimental techniques",
+            "Understanding of the standard model",
+            "Knowledge of spectra of leptons, mesons, and baryons",
+            "Understanding of strong, weak, and electromagnetic interactions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex nuclear physics concepts",
+            "Capability to collaborate in experimental setups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear decay processes",
+            "Analyzing nuclear reactions",
+            "Analyzing properties of nuclear forces",
+            "Analyzing strong, weak, and electromagnetic interactions",
+            "Problem-solving in experimental techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting experiments",
+            "Leading physics-focused projects"
+        ]
+    },
+    {
+        "courseCode": "PHYS 516",
+        "courseTitle": "Introduction to Solid State Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to solid state physics and materials science, with emphasis placed on the applications of each topic to experimental and analytical techniques.  Topics include crystallography, thermal and vibrational properties of crystals and semiconductors, metals and the band theory of solids, superconductivity and the magnetic properties of materials.",
+        "Technical and Digital Skills": [
+            "Understanding of crystallography",
+            "Knowledge about thermal and vibrational properties of crystals",
+            "Understanding of semiconductors",
+            "Knowledge about metals and the band theory of solids",
+            "Understanding of superconductivity",
+            "Knowledge about the magnetic properties of materials",
+            "Application of experimental and analytical techniques in solid state physics and materials science"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the properties of different materials",
+            "Problem-solving in solid state physics",
+            "Analytical skills in materials science",
+            "Application of analytical techniques in materials science"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 517",
+        "courseTitle": "Introduction to Particle Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Fundamentals of relativistic particle dynamics including particle acceleration; weak and strong focusing; linear beam optics and particle transfer matrices; linear and non-linear synchrotron motion; introduction to the statistical descriptions of particle beams; and radiation production by accelerated relativistic particles. Examples relevant to betatrons, cyclotrons, synchrotrons, and linear accelerators will be given.",
+        "Technical and Digital Skills": [
+            "Understanding of relativistic particle dynamics",
+            "Knowledge of particle acceleration",
+            "Understanding of weak and strong focusing",
+            "Knowledge of linear beam optics and particle transfer matrices",
+            "Understanding of linear and non-linear synchrotron motion",
+            "Ability to use statistical descriptions of particle beams",
+            "Understanding of radiation production by accelerated relativistic particles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex physics concepts",
+            "Ability to work collaboratively in a laboratory or research setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing beam optics",
+            "Understanding and applying particle transfer matrices",
+            "Analyzing synchrotron motion",
+            "Applying statistical descriptions to particle beams"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of complex physics experiments",
+            "Leading research teams in laboratory or research settings"
+        ]
+    },
+    {
+        "courseCode": "PHYS 520",
+        "courseTitle": "Introductory Computational Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to computationally based problem solving in physics with an emphasis on understanding and applying various numerical algorithms to different types of physics problems. Topics will include numerical integration (quadrature), numerical solution of ordinary differential equations, Runge-Kutta and Numerov methods, polynomial approximations, numerical linear algebra, and Monte-Carlo methods. These computational methods will be applied to problems in classical and quantum mechanics, as well as electromagnetic theory.",
+        "Technical and Digital Skills": [
+            "Understanding of numerical algorithms",
+            "Application of numerical integration (quadrature)",
+            "Numerical solution of ordinary differential equations",
+            "Application of Runge-Kutta and Numerov methods",
+            "Understanding of polynomial approximations",
+            "Numerical linear algebra",
+            "Application of Monte-Carlo methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in physics",
+            "Analytical skills for different types of physics problems",
+            "Applying computational methods to classical and quantum mechanics problems",
+            "Applying computational methods to electromagnetic theory problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 525",
+        "courseTitle": "Electromagnetism I",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the classical theory and phenomena of electricity and magnetism.  Topics include the calculation of electric and magnetic fields, magnetic and dielectric properties of matter, and an introduction to Maxwell's equations. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Calculation of electric and magnetic fields",
+            "Understanding of magnetic and dielectric properties of matter",
+            "Introduction to Maxwell's equations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in mandatory recitation section"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of classical theory and phenomena of electricity and magnetism"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 551",
+        "courseTitle": "Theoretical Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "A mathematical study of the concepts of mechanics. Vector calculus methods are used.  Topics include mechanics of a system of particles, Lagrangian mechanics, Hamilton’s canonical equations, and motion of a rigid body.",
+        "Technical and Digital Skills": [
+            "Vector calculus methods",
+            "Understanding of mechanics of a system of particles",
+            "Lagrangian mechanics",
+            "Hamilton’s canonical equations",
+            "Understanding motion of a rigid body"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical problem-solving",
+            "Analyzing mechanical systems",
+            "Applying theory to practical mechanics problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 552",
+        "courseTitle": "Introduction to Quantum Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to the physical and mathematical structure of quantum theory, including the historical and experimental origins of the subject.  The curriculum includes techniques for solving the Schrodinger wave equation, particularly for the harmonic oscillator and the hydrogen atom. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding of quantum theory",
+            "Solving the Schrodinger wave equation",
+            "Knowledge on harmonic oscillator",
+            "Understanding of the hydrogen atom"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in mandatory recitation section",
+            "Explaining complex quantum theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing quantum experiments",
+            "Applying mathematical structures to physical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 553",
+        "courseTitle": "Electromagnetism II",
+        "academicLevel": "graduate",
+        "courseDescription": "A course in electrodynamics developed from Maxwell’s Equations.  Topics include Maxwell’s Equations, Conservation Laws, Electromagnetic Waves, Potentials and Fields, Radiation, and the interplay of electrodynamics and special relativity. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding and application of Maxwell's Equations",
+            "Knowledge of Conservation Laws in electromagnetism",
+            "Comprehension of Electromagnetic Waves",
+            "Understanding of Potentials and Fields in electrodynamics",
+            "Knowledge of Radiation principles in electrodynamics",
+            "Understanding of the interplay between electrodynamics and special relativity"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex electromagnetic concepts",
+            "Participation in academic discussions during recitation section"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing electromagnetic phenomena",
+            "Applying Maxwell's Equations to solve problems",
+            "Critical thinking in the application of Conservation Laws",
+            "Analyzing the effects of Potentials and Fields"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 554",
+        "courseTitle": "Thermal and Statistical Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the fundamental concepts of thermodynamics, kinetic theory, and statistical mechanics.  Topics include the thermodynamics of simple systems, kinetic theory of gases, statistical mechanics of gases and an introduction to quantum statistics.",
+        "Technical and Digital Skills": [
+            "Understanding of thermodynamics",
+            "Knowledge of kinetic theory",
+            "Proficiency in statistical mechanics",
+            "Basics of quantum statistics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of simple systems",
+            "Comprehension of gas behaviors",
+            "Application of quantum statistics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 556",
+        "courseTitle": "Intermediate Quantum Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course follows directly from PHYS 552.  It includes a more detailed study of simple systems, an introduction to abstract quantum mechanics and Dirac notation, and applications to operator methods.  Particular attention is paid to electron spin, angular momentum theory, operator treatment of the harmonic oscillator, the Pauli exclusion principle, perturbation theory, and scattering. The course contains a mandatory recitation section.",
+        "Technical and Digital Skills": [
+            "Understanding of abstract quantum mechanics",
+            "Proficiency in Dirac notation",
+            "Application of operator methods",
+            "Understanding of electron spin",
+            "Angular momentum theory",
+            "Operator treatment of the harmonic oscillator",
+            "Understanding of the Pauli exclusion principle",
+            "Perturbation theory",
+            "Scattering theory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in mandatory recitation section"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of simple systems",
+            "Application of quantum mechanics to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 595",
+        "courseTitle": "Special Topics in Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "In-depth study of a selected topic in physics at the graduate level. May include a laboratory or computational component.",
+        "Technical and Digital Skills": [
+            "Advanced physics concepts",
+            "Laboratory techniques",
+            "Computational physics",
+            "Use of laboratory equipment",
+            "Data analysis software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lab collaboration",
+            "Scientific reporting",
+            "Group discussions",
+            "Presenting complex physics concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning",
+            "Problem-solving in physics",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Project planning and execution",
+            "Research organization",
+            "Leading scientific discussions"
+        ]
+    },
+    {
+        "courseCode": "PHYS 597",
+        "courseTitle": "Special Problems and Research",
+        "academicLevel": "graduate",
+        "courseDescription": "These courses afford the student an opportunity to pursue individual study and research.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Hypothesis testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "PHYS 601",
+        "courseTitle": "Mathematical Methods of Physics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Basic mathematical methods with applications: vector analysis, linear algebra, series and series of functions, Hilbert spaces, complex variable theory.",
+        "Technical and Digital Skills": [
+            "Vector analysis",
+            "Linear algebra",
+            "Understanding and applying series and series of functions",
+            "Knowledge of Hilbert spaces",
+            "Complex variable theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving mathematical problems",
+            "Applying complex variable theory in problem solving",
+            "Using series and series of functions to find solutions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 602",
+        "courseTitle": "Mathematical Methods of Physics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Continuation of PHYS 601. Basic mathematical methods with applications: integral transforms, ordinary differential equations and partial differential equations.",
+        "Technical and Digital Skills": [
+            "Application of integral transforms",
+            "Solving ordinary differential equations",
+            "Solving partial differential equations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for mathematical problem-solving",
+            "Application of mathematical methods to solve physics problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 603",
+        "courseTitle": "Classical Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Particle in a central-force field.  Dynamics in a rotating reference frame.  Lagrangian and Hamiltonian formulations.  Small oscillations.  Kinematics and dynamics of a rigid body.  Canonical transformation, Hamilton-Jacobi theory.",
+        "Technical and Digital Skills": [
+            "Understanding of Lagrangian and Hamiltonian formulations",
+            "Knowledge of kinematics and dynamics of a rigid body",
+            "Understanding of canonical transformation and Hamilton-Jacobi theory",
+            "Skill in analyzing particle in a central-force field",
+            "Experience with dynamics in a rotating reference frame"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to solve problems involving small oscillations",
+            "Analytical skills for understanding dynamics in different reference frames",
+            "Ability to apply Hamiltonian and Lagrangian formulations to solve mechanical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 604",
+        "courseTitle": "Classical Electrodynamics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Electrostatics:  Gauss' Law and Poisson and Laplace equations.  Methods for the solution of boundary-value problems with rectangular, cylindrical, and spherical symmetry.  Expansion in multipoles.  Dielectrics.  Magnetostatics and Faraday's law.",
+        "Technical and Digital Skills": [
+            "Understanding of Gauss' Law",
+            "Solving Poisson and Laplace equations",
+            "Boundary-value problem-solving",
+            "Understanding of dielectrics",
+            "Comprehension of magnetostatics",
+            "Knowledge of Faraday's law",
+            "Ability to perform expansions in multipoles"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and solving complex electrostatic problems",
+            "Analyzing and solving complex magnetostatic problems",
+            "Applying various methods for the solution of boundary-value problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 621",
+        "courseTitle": "Quantum Mechanics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Mathematical foundations of Hilbert spaces.  Background on Hamiltonian mechanics and electro-magnetism.  Postulates of Quantum Mechanics, measurements and Schroedinger equation.  Simple systems.  Schroedinger Equation in 1-3 dimensions and solutions for specific systems.  Symmetries and angular momentum.  Time-independent perturbation theory.",
+        "Technical and Digital Skills": [
+            "Understanding of Hilbert spaces",
+            "Background on Hamiltonian mechanics",
+            "Understanding of electro-magnetism",
+            "Knowledge of Quantum Mechanics postulates",
+            "Proficiency in solving Schroedinger equation",
+            "Ability to analyze simple systems",
+            "Solving Schroedinger Equation in 1-3 dimensions",
+            "Understanding of symmetries and angular momentum",
+            "Time-independent perturbation theory"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to derive solutions for specific systems",
+            "Analytical skills to understand and interpret quantum mechanics concepts",
+            "Problem-solving skills to tackle complex equations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 695",
+        "courseTitle": "Selected Topics in Pure and Applied Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "These courses afford the student an opportunity to pursue individual study.",
+        "Technical and Digital Skills": [
+            "Physics concepts application",
+            "Utilizing relevant physics software and tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting individual study findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving complex physics problems",
+            "Analytical thinking in topic selection and study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management and organization",
+            "Independent research planning and execution"
+        ]
+    },
+    {
+        "courseCode": "PHYS 696",
+        "courseTitle": "Special Topics in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics related to particle accelerators and their applications. Departmental approval required.",
+        "Technical and Digital Skills": [
+            "Understanding of particle accelerators",
+            "Knowledge of accelerator applications"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing accelerator performance",
+            "Troubleshooting accelerator issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 698",
+        "courseTitle": "M.S. Level Research",
+        "academicLevel": "graduate",
+        "courseDescription": "M.S. level research supervised by the student's thesis advisor.",
+        "Technical and Digital Skills": [
+            "Research methods",
+            "Data analysis",
+            "Statistical software usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem-solving",
+            "Data interpretation",
+            "Research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Independent work"
+        ]
+    },
+    {
+        "courseCode": "PHYS 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "M.S. level research supervised by the student's thesis advisor.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Specialized tools or software relevant to the research area"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively articulating research findings",
+            "Building relationships with advisors and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Hypothesis testing",
+            "Solution development based on research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-discipline and self-direction"
+        ]
+    },
+    {
+        "courseCode": "PHYS 704",
+        "courseTitle": "Classical Electrodynamics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Electrodynamics:  Maxwell equations, plane electromagnetic waves and wave propagation, waveguides, radiating systems, special theory of relativity, including the dynamics of relativistic particles and electromagnetic fields.",
+        "Technical and Digital Skills": [
+            "Understanding of Maxwell equations",
+            "Knowledge of plane electromagnetic waves and wave propagation",
+            "Ability to work with waveguides",
+            "Understanding of radiating systems",
+            "Comprehension of special theory of relativity",
+            "Understanding the dynamics of relativistic particles and electromagnetic fields"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex electromagnetic concepts",
+            "Ability to discuss and collaborate on advanced physics problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for solving electrodynamics problems",
+            "Ability to apply Maxwell's equations to solve practical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 707",
+        "courseTitle": "Statistical Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of thermodynamics.   Classical statistical mechanics and applications.  The virial expansion.  Quantum statistical mechanics and the micro-canonical, canonical, and grand-canonical ensembles.  The Fermi and Bose gases, and applications.  Special topics in statistical mechanics.",
+        "Technical and Digital Skills": [
+            "Understanding of thermodynamics",
+            "Application of classical statistical mechanics",
+            "Knowledge of virial expansion",
+            "Grasp of quantum statistical mechanics",
+            "Understanding of micro-canonical, canonical, and grand-canonical ensembles",
+            "Understanding of Fermi and Bose gases",
+            "Knowledge on special topics in statistical mechanics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply statistical mechanics principles to practical problems",
+            "Analysis of various physics phenomena using statistical mechanics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 711",
+        "courseTitle": "Computational Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Studies of high level computer languages.  Computational techniques used in physics.  Numerical techniques for differential and integral problems.  Algebraic processing languages.  Introduction to scientific visualization techniques.",
+        "Technical and Digital Skills": [
+            "Understanding of high-level computer languages",
+            "Application of computational techniques in physics",
+            "Numerical techniques for differential and integral problems",
+            "Familiarity with algebraic processing languages",
+            "Introduction to scientific visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Applying numerical techniques to solve complex physics problems",
+            "Analyzing and interpreting scientific visualizations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 721",
+        "courseTitle": "Quantum Mechanics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Further development of quantum mechanics.  Multi-particle states, bosons and fermions.  Classical Limit.  Variational principle, time-dependent perturbation theory and scattering.  Path integral formulation.  Symmetry and groups, addition of angular moments.  Examples from solid state, atomic, nuclear, and particle physics.",
+        "Technical and Digital Skills": [
+            "Understanding of multi-particle states, bosons and fermions",
+            "Knowledge of the Classical Limit",
+            "Proficiency in variational principle",
+            "Time-dependent perturbation theory",
+            "Scattering analysis",
+            "Path integral formulation",
+            "Understanding symmetry and groups",
+            "Addition of angular moments",
+            "Knowledge in solid state, atomic, nuclear, and particle physics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex quantum mechanics concepts",
+            "Collaborative problem-solving in physics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for multi-particle states",
+            "Problem-solving in time-dependent perturbation theory",
+            "Analysis of scattering phenomena",
+            "Problem-solving using path integral formulation",
+            "Symmetry and group analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning and research",
+            "Organizing complex physics concepts",
+            "Leading group study sessions"
+        ]
+    },
+    {
+        "courseCode": "PHYS 722",
+        "courseTitle": "Nuclear and Particle Physics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Nuclear forces, models of nuclear structure and reactions, hadron and lepton scattering, introduction to constituent quark model and hadron spectroscopy.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear forces",
+            "Knowledge of models of nuclear structure and reactions",
+            "Understanding of hadron and lepton scattering",
+            "Introduction to constituent quark model",
+            "Understanding of hadron spectroscopy"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze nuclear structures and reactions",
+            "Analytical skills for interpreting hadron and lepton scattering",
+            "Problem-solving in quark model",
+            "Analyzing hadron spectroscopy"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 723",
+        "courseTitle": "Nuclear and Particle Physics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Discrete and continuous symmetries and application to particle physics, SU(2) and SU(3) symmetries and static properties of hadrons.   Klein-Gordon and Dirac equations, quantum electrodynamics and Feynman rules, strong and weak interactions, Standard Model and physics beyond the Standard Model.",
+        "Technical and Digital Skills": [
+            "Understanding of SU(2) and SU(3) symmetries",
+            "Application of Klein-Gordon and Dirac equations",
+            "Knowledge of quantum electrodynamics and Feynman rules",
+            "Understanding of strong and weak interactions",
+            "Knowledge of the Standard Model and physics beyond the Standard Model"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physics concepts",
+            "Communication of theoretical physics concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of discrete and continuous symmetries to particle physics",
+            "Analysis of static properties of hadrons",
+            "Understanding and application of quantum electrodynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 727",
+        "courseTitle": "Atomic Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Irreducible tensor methods.  Radiative excitation and ionization processes. Atom-atom scattering.  Time-evolution of atomic observables in external fields.  Multiple channel quantum defect theory and complex atomic and molecular spectra.",
+        "Technical and Digital Skills": [
+            "Understanding of irreducible tensor methods",
+            "Knowledge of radiative excitation and ionization processes",
+            "Understanding of atom-atom scattering",
+            "Ability to examine time-evolution of atomic observables in external fields",
+            "Knowledge of multiple channel quantum defect theory",
+            "Ability to interpret complex atomic and molecular spectra"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze atomic and molecular spectra",
+            "Understanding and application of atomic observables in external fields"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 754",
+        "courseTitle": "Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the underlying physics of modern particle accelerators. Beam acceleration, coupled and uncoupled beam transport, nonlinear dynamics, collective effects, phase space cooling, and free-electron lasers will be covered. Depending on the instructor, additional topics of current interest such as coherent synchrotron radiation, wakefields and impedances, and novel methods of acceleration will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of beam acceleration",
+            "Knowledge of coupled and uncoupled beam transport",
+            "Understanding of nonlinear dynamics",
+            "Knowledge of collective effects",
+            "Understanding of phase space cooling",
+            "Knowledge of free-electron lasers",
+            "Understanding of coherent synchrotron radiation",
+            "Knowledge of wakefields and impedances"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze complex physical phenomena",
+            "Ability to understand and solve problems related to particle accelerators",
+            "Understanding and interpretation of complex physical systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 755",
+        "courseTitle": "Experimental and Computational Techniques in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the tools and techniques used in the design of particle accelerators and the measurement of their components.  The course is targeted for both physicists and engineers, and its intent is to provide them with a common language and understanding.  The course consists of 6 modules of 2 weeks each.  Each module will be a combination of assigned readings, lectures, computer-based design, and hand-on measurements. Typical topics to be addressed in the 6 modules are: beamline design, electromagnetic cavity design, magnets, beam instrumentation, engineering principles for superconducting rf accelerators, machine learning.",
+        "Technical and Digital Skills": [
+            "Beamline design",
+            "Electromagnetic cavity design",
+            "Understanding and application of magnets in particle accelerators",
+            "Beam instrumentation",
+            "Understanding and application of engineering principles for superconducting rf accelerators",
+            "Machine learning",
+            "Computer-based design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem solving",
+            "Technical communication",
+            "Interdisciplinary communication (between physicists and engineers)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Design and measurement of particle accelerator components",
+            "Analytical understanding of particle accelerators",
+            "Problem-solving in design and measurement of particle accelerators",
+            "Application of machine learning in accelerator physics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in scientific research",
+            "Organization and execution of hands-on measurements"
+        ]
+    },
+    {
+        "courseCode": "PHYS 759",
+        "courseTitle": "Classical Mechanics and Electromagnetism in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Further developments in classical mechanics and electromagnetism and their application to accelerator physics: Lagrangian and Hamiltonian formulation of equations of motion, canonical transformations, adiabatic invariants, linear and nonlinear resonances. Louisville's theorem, solutions of Maxwell's equation in cavities and waveguides, wakefields, radiation and retarded potentials, and synchrotron radiation.",
+        "Technical and Digital Skills": [
+            "Understanding of classical mechanics",
+            "Understanding of electromagnetism",
+            "Application of Lagrangian and Hamiltonian formulation of equations of motion",
+            "Understanding of canonical transformations",
+            "Understanding of adiabatic invariants",
+            "Understanding of linear and nonlinear resonances",
+            "Understanding of Louisville's theorem",
+            "Understanding of solutions of Maxwell's equation in cavities and waveguides",
+            "Understanding of wakefields",
+            "Understanding of radiation and retarded potentials",
+            "Understanding of synchrotron radiation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing equations of motion",
+            "Applying canonical transformations",
+            "Analyzing adiabatic invariants",
+            "Analyzing linear and nonlinear resonances",
+            "Applying solutions of Maxwell's equation in cavities and waveguides",
+            "Analyzing wakefields",
+            "Analyzing radiation and retarded potentials",
+            "Analyzing synchrotron radiation"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 760",
+        "courseTitle": "Low Temperature Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Properties and behavior of materials and systems at low temperature with emphasis on particle accelerator and microwave applications.  Macroscopic quantum phenomena in condensates.  Superfluidity, electrodynamic properties of superconductors.",
+        "Technical and Digital Skills": [
+            "Understanding of properties and behavior of materials and systems at low temperature",
+            "Knowledge on particle accelerator applications",
+            "Understanding of microwave applications",
+            "Knowledge on macroscopic quantum phenomena in condensates",
+            "Understanding of superfluidity",
+            "Knowledge on electrodynamic properties of superconductors"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing behavior of materials and systems at low temperature",
+            "Analyzing electrodynamic properties of superconductors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 765",
+        "courseTitle": "Design and Operating Principles of Particle Accelerators",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce design and general operating principles for particle accelerators, including acceleration methods for particles and beams. Topics will include the evolution and descriptions of particle beams under acceleration, physics of accelerated particle beams, as well as the effects of space charge, high-order modes (HOMs), and other collective effects. Aspects of both normal conducting (RF) and superconducting (SRF) particle beam acceleration will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding of particle acceleration methods",
+            "Knowledge on the physics of accelerated particle beams",
+            "Familiarity with effects of space charge and high-order modes",
+            "Understanding of normal conducting (RF) and superconducting (SRF) particle beam acceleration"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the evolution and descriptions of particle beams under acceleration",
+            "Understanding and mitigating the implications of collective effects"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 790",
+        "courseTitle": "Introduction to the Processes of Quantum Chromodynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to basic Quantum Chromodynamics (QCD) methods in hadron-scattering experiments.  Focus will be placed on perturbative methods and partonic interpretations of specific processes. The course will begin with a general overview of QCD, and specific processes will be studied in detail to illustrate the general features of patronic physics and their QCD interpretations. The course will close with a summary of questions of current research interest.",
+        "Technical and Digital Skills": [
+            "Understanding of Quantum Chromodynamics (QCD)",
+            "Application of perturbative methods in QCD",
+            "Interpretation of partonic processes",
+            "Conducting hadron-scattering experiments",
+            "Knowledge of current research in QCD"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing QCD processes",
+            "Application of theoretical physics principles in problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 791",
+        "courseTitle": "Seminar I",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar is designed to enhance both written and oral communication skills as applied to physics. Topics include effective display of data, preparation of scientific reports and preparation and delivery of scientific talks.",
+        "Technical and Digital Skills": [
+            "Data Display",
+            "Scientific Report Writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral Communication",
+            "Written Communication",
+            "Scientific Presentation Delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Evaluation of Scientific Data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Preparation of Scientific Talks",
+            "Preparation of Scientific Reports"
+        ]
+    },
+    {
+        "courseCode": "PHYS 795",
+        "courseTitle": "Special Topics in Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Thorough coverage of areas selected to meet special needs and interests.",
+        "Technical and Digital Skills": [
+            "Understanding and applying advanced physics concepts",
+            "Usage of physics simulation software",
+            "Data analysis with physics software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex physics theories to peers",
+            "Collaborative research",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking for complex physics problems",
+            "Critical evaluation of physics theories",
+            "Hypothesis testing in physics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading physics research projects",
+            "Organizing and planning physics experiments",
+            "Time management for complex projects"
+        ]
+    },
+    {
+        "courseCode": "PHYS 796",
+        "courseTitle": "Special Topics in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics related to particle accelerators and their applications.",
+        "Technical and Digital Skills": [
+            "Particle accelerator operation",
+            "Application of particle accelerators",
+            "Understanding of accelerator-related technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Technical communication",
+            "Presentation of complex physics concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing accelerator performance",
+            "Troubleshooting accelerator issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in physics research",
+            "Coordination of accelerator operation and maintenance"
+        ]
+    },
+    {
+        "courseCode": "PHYS 804",
+        "courseTitle": "Classical Electrodynamics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Electrodynamics:  Maxwell equations, plane electromagnetic waves and wave propagation, waveguides, radiating systems, special theory of relativity, including the dynamics of relativistic particles and electromagnetic fields.",
+        "Technical and Digital Skills": [
+            "Understanding Maxwell equations",
+            "Knowledge of plane electromagnetic waves and wave propagation",
+            "Familiarity with waveguides",
+            "Understanding radiating systems",
+            "Comprehension of special theory of relativity",
+            "Understanding the dynamics of relativistic particles and electromagnetic fields"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing electromagnetic waves",
+            "Solving complex problems related to waveguides",
+            "Analyzing relativistic particles and electromagnetic fields"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 807",
+        "courseTitle": "Statistical Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Review of thermodynamics.   Classical statistical mechanics and applications.  The virial expansion.  Quantum statistical mechanics and the micro-canonical, canonical, and grand-canonical ensembles.  The Fermi and Bose gases, and applications.  Special topics in statistical mechanics.",
+        "Technical and Digital Skills": [
+            "Understanding of thermodynamics",
+            "Knowledge of classical statistical mechanics and its applications",
+            "Comprehension of the virial expansion",
+            "Proficiency in quantum statistical mechanics and the micro-canonical, canonical, and grand-canonical ensembles",
+            "Familiarity with the Fermi and Bose gases, and applications",
+            "Insight into special topics in statistical mechanics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to apply knowledge of statistical mechanics in problem solving",
+            "Analytical skills to understand complex concepts within statistical mechanics",
+            "Skill to use quantum statistical mechanics for problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 811",
+        "courseTitle": "Computational Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Studies of high level computer languages.  Computational techniques used in physics.  Numerical techniques for differential and integral problems.  Algebraic processing languages.  Introduction to scientific visualization techniques.",
+        "Technical and Digital Skills": [
+            "High level computer languages",
+            "Computational techniques",
+            "Numerical techniques for differential and integral problems",
+            "Algebraic processing languages",
+            "Scientific visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving using computational techniques",
+            "Analytical thinking with algebraic processing languages",
+            "Problem solving using scientific visualization techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 821",
+        "courseTitle": "Quantum Mechanics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Further development of quantum mechanics.  Multi-particle states, bosons and fermions.  Classical Limit.  Variational principle, time-dependent perturbation theory and scattering.  Path integral formulation.  Symmetry and groups, addition of angular moments.  Examples from solid state, atomic, nuclear and particle physics.",
+        "Technical and Digital Skills": [
+            "Understanding of multi-particle states",
+            "Knowledge of bosons and fermions",
+            "Understanding of Classical Limit",
+            "Application of variational principle",
+            "Understanding of time-dependent perturbation theory",
+            "Understanding of scattering",
+            "Application of path integral formulation",
+            "Understanding of symmetry and groups",
+            "Application of angular moments",
+            "Knowledge of solid state, atomic, nuclear and particle physics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing multi-particle states",
+            "Applying variational principle to solve problems",
+            "Analyzing scattering using time-dependent perturbation theory",
+            "Using path integral formulation for problem solving",
+            "Applying symmetry and groups to solve physics problems",
+            "Utilizing angular moments for problem solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 822",
+        "courseTitle": "Nuclear and Particle Physics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Nuclear forces, models of nuclear structure and reactions, hadron and lepton scattering, introduction to constituent quark model and hadron spectroscopy.",
+        "Technical and Digital Skills": [
+            "Understanding of nuclear forces",
+            "Knowledge of models of nuclear structure and reactions",
+            "Hadron and lepton scattering",
+            "Introduction to constituent quark model",
+            "Understanding of hadron spectroscopy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physics concepts",
+            "Communicating research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing nuclear reactions",
+            "Problem-solving in nuclear and particle physics",
+            "Analytical thinking in quark model and hadron spectroscopy"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 823",
+        "courseTitle": "Nuclear and Particle Physics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Discrete and continuous symmetries and application to particle physics, SU(2) and SU(3) symmetries and static properties of hadrons.  Klein-Gordon and Dirac equations, quantum electrodynamics and Feynman rules, strong and weak interactions. Standard Model and physics beyond the Standard Model.",
+        "Technical and Digital Skills": [
+            "Understanding of discrete and continuous symmetries",
+            "Application of symmetries to particle physics",
+            "Knowledge of SU(2) and SU(3) symmetries",
+            "Understanding of Klein-Gordon and Dirac equations",
+            "Knowledge of quantum electrodynamics and Feynman rules",
+            "Understanding of strong and weak interactions",
+            "Knowledge of the Standard Model",
+            "Exploring physics beyond the Standard Model"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex physics concepts to peers",
+            "Collaborative problem-solving in the field of advanced physics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting complex physics equations",
+            "Critical evaluation of theories and models",
+            "Problem-solving in quantum electrodynamics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading study groups for complex physics topics",
+            "Organizing and synthesizing large amounts of theoretical information"
+        ]
+    },
+    {
+        "courseCode": "PHYS 824",
+        "courseTitle": "Condensed Matter Physics I",
+        "academicLevel": "graduate",
+        "courseDescription": "Electronic and lattice properties of solids, band structures of metals, semiconductors and insulators, dynamics of electron and phonons, electromagnetic and optical properties of metals and doped semiconductors, phenomenology of superconductivity and magnetism, and selected experimental methods of solid state physics.",
+        "Technical and Digital Skills": [
+            "Understanding of electronic and lattice properties of solids",
+            "Knowledge of band structures of metals, semiconductors and insulators",
+            "Understanding of dynamics of electron and phonons",
+            "Knowledge on electromagnetic and optical properties of metals and doped semiconductors",
+            "Understanding of phenomenology of superconductivity and magnetism",
+            "Capable of using selected experimental methods of solid state physics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in solid state physics",
+            "Analytical skills for interpreting experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 825",
+        "courseTitle": "Condensed Matter Physics II",
+        "academicLevel": "graduate",
+        "courseDescription": "Many body and collective effects in condensed matter, including phase transitions, Bose and Fermi quantum liquids, superfluidity, superconductivity and magnetism, and properties of mesoscopic and low-dimensional systems.",
+        "Technical and Digital Skills": [
+            "Understanding of phase transitions",
+            "Knowledge of Bose and Fermi quantum liquids",
+            "Understanding of superfluidity",
+            "Knowledge of superconductivity and magnetism",
+            "Understanding of properties of mesoscopic and low-dimensional systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex physics concepts",
+            "Collaborating with fellow physicists on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reasoning in quantum physics",
+            "Problem-solving in condensed matter physics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 827",
+        "courseTitle": "Atomic Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Irreducible tensor methods.  Radiative excitation and ionization processes. Atom-atom scattering.  Time-evolution of atomic observables in external fields.  Multiple channel quantum defect theory and complex atomic and molecular spectra.",
+        "Technical and Digital Skills": [
+            "Understanding of irreducible tensor methods",
+            "Knowledge of radiative excitation and ionization processes",
+            "Skills in atom-atom scattering",
+            "Experience with time-evolution of atomic observables in external fields",
+            "Familiarity with multiple channel quantum defect theory",
+            "Interpretation of complex atomic and molecular spectra"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of atomic observables in external fields",
+            "Problem-solving in quantum defect theory",
+            "Analytical interpretation of complex atomic and molecular spectra"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 842",
+        "courseTitle": "Advanced Quantum Mechanics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduction to relativistic quantum mechanics; symmetries in relativistic wave equations; solutions to relativistic wave equations for bound states and scattering processes; classical field theory and role of symmetries in construction of conserved currents; introduction to second quantization of fields.",
+        "Technical and Digital Skills": [
+            "Understanding of relativistic quantum mechanics",
+            "Knowledge of symmetries in relativistic wave equations",
+            "Ability to find solutions to relativistic wave equations for bound states and scattering processes",
+            "Grasping classical field theory",
+            "Understanding the role of symmetries in construction of conserved currents",
+            "Introduction to second quantization of fields"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing relativistic wave equations",
+            "Solving complex quantum mechanical problems",
+            "Critical evaluation of quantum mechanical theories",
+            "Application of classical field theory to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 854",
+        "courseTitle": "Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the underlying physics of modern particle accelerators. Beam acceleration, coupled and uncoupled beam transport, nonlinear dynamics, collective effects, phase space cooling, and free-electron lasers will be covered. Depending on the instructor, additional topics of current interest such as coherent synchrotron radiation, wakefields and impedances, and novel methods of acceleration will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of modern particle accelerators",
+            "Knowledge of beam acceleration",
+            "Knowledge of coupled and uncoupled beam transport",
+            "Understanding of nonlinear dynamics",
+            "Understanding of collective effects",
+            "Understanding of phase space cooling",
+            "Knowledge of free-electron lasers",
+            "Understanding of coherent synchrotron radiation",
+            "Understanding of wakefields and impedances",
+            "Knowledge of novel methods of acceleration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physical phenomena in particle accelerators",
+            "Problem-solving in beam transport and acceleration",
+            "Analytical understanding of nonlinear dynamics",
+            "Analyzing collective effects in particle accelerators",
+            "Analyzing phase space cooling",
+            "Problem-solving in free-electron lasers"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 855",
+        "courseTitle": "Experimental and Computational Techniques in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the tools and techniques used in the design of particle accelerators and the measurement of their components.  The course is targeted for both physicists and engineers, and its intent is to provide them with a common language and understanding.  The course consists of 6 modules of 2 weeks each.  Each module will be a combination of assigned readings, lectures, computer-based design, and hand-on measurements. Typical topics to be addressed in the 6 modules are: beamline design, electromagnetic cavity design, magnets, beam instrumentation, engineering principles for superconducting rf accelerators, machine learning.",
+        "Technical and Digital Skills": [
+            "Understanding of beamline design",
+            "Electromagnetic cavity design",
+            "Knowledge of magnets",
+            "Beam instrumentation",
+            "Understanding engineering principles for superconducting rf accelerators",
+            "Machine learning",
+            "Computer-based design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with physicists and engineers",
+            "Discussion and interpretation of assigned readings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing measurements of particle accelerator components",
+            "Designing and troubleshooting particle accelerators",
+            "Applying machine learning to the field of accelerator physics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and executing module-based learning",
+            "Coordinating hands-on measurements",
+            "Planning and organizing computer-based designs"
+        ]
+    },
+    {
+        "courseCode": "PHYS 857",
+        "courseTitle": "Plasma Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Motion of charged particles in electromagnetic fields. Coulomb collisions and transport processes. Collisional Boltzmann equation. Generation of various forms of plasma in the laboratory. Basic plasma diagnostic methods including plasma and laser spectroscopy, measurements of electron and ion density and energy distribution.",
+        "Technical and Digital Skills": [
+            "Understanding electromagnetic fields",
+            "Knowledge of Coulomb collisions and transport processes",
+            "Understanding of the Collisional Boltzmann equation",
+            "Generation of plasma in a laboratory setting",
+            "Basic plasma diagnostic methods",
+            "Plasma and laser spectroscopy",
+            "Measurement of electron and ion density",
+            "Measurement of energy distribution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of charged particle motion",
+            "Interpretation of spectroscopic data",
+            "Assessment of ion and electron density and energy distribution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory resources",
+            "Conducting and interpreting experiments"
+        ]
+    },
+    {
+        "courseCode": "PHYS 859",
+        "courseTitle": "Classical Mechanics and Electromagnetism in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Further development in classical mechanics and electromagnetism and their application to accelerator physics:  Lagrangian and Hamiltonian formulation of equations of motion, canonical transformations, adiabatic invariants, linear and nonlinear resonances.  Louisville's theorem, solutions of Maxwell's equation in cavities and waveguides, wakefields, radiation and retarded potentials, and synchrotron radiation.",
+        "Technical and Digital Skills": [
+            "Lagrangian and Hamiltonian Formulations",
+            "Canonical Transformations",
+            "Understanding of Adiabatic Invariants",
+            "Understanding of Linear and Nonlinear Resonances",
+            "Solving Maxwell's Equations in Cavities and Waveguides",
+            "Knowledge of Louisville's Theorem",
+            "Understanding of Wakefields",
+            "Understanding of Radiation and Retarded Potentials",
+            "Understanding of Synchrotron Radiation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex physics concepts",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing accelerator physics problems",
+            "Developing solutions for equations of motion",
+            "Analyzing nonlinear resonances",
+            "Understanding and solving Maxwell's equations",
+            "Analyzing waveguides and cavities"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 860",
+        "courseTitle": "Low Temperature Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Properties and behavior of materials and systems at low temperature with emphasis on particle accelerator and microwave applications.  Macroscopic quantum phenomena in condensates. Superfluidity, electrodynamic properties of superconductors.",
+        "Technical and Digital Skills": [
+            "Understanding of particle accelerator applications",
+            "Knowledge of microwave applications",
+            "Understanding of macroscopic quantum phenomena in condensates",
+            "Knowledge on superfluidity",
+            "Understanding electrodynamic properties of superconductors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of complex physical phenomena",
+            "Discussion of theoretical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of properties and behavior of materials and systems at low temperature",
+            "Solution development for particle accelerator and microwave applications"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 861",
+        "courseTitle": "Nuclear Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "The Yukawa potential in classical and quantum mechanics.  One- and two-meson exchange amplitudes.  Pion-exchange interactions: one- and two-pion exchange two-nucleon     potentials, and two-pion exchange three-nucleon potentials. Electromagnetic interactions. Nucleon-nucleon scattering. Realistic models of two- and three-nucleon potentials. Relativistic corrections to the nuclear Hamiltonian. Electro-weak currents of nucleons and nuclei.",
+        "Technical and Digital Skills": [
+            "Understanding of Yukawa potential in classical and quantum mechanics",
+            "Knowledge of one- and two-meson exchange amplitudes",
+            "Understanding of pion-exchange interactions",
+            "Knowledge of electromagnetic interactions",
+            "Understanding of nucleon-nucleon scattering",
+            "Application of realistic models of two- and three-nucleon potentials",
+            "Understanding relativistic corrections to the nuclear Hamiltonian",
+            "Knowledge of electro-weak currents of nucleons and nuclei"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex physics concepts",
+            "Ability to explain quantum mechanics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in nuclear physics",
+            "Problem-solving in quantum mechanics",
+            "Ability to use models for problem-solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 865",
+        "courseTitle": "Design and Operating Principles of Particle Accelerators",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce design and general operating principles for particle accelerators, including acceleration methods for particles and beams. Topics will include the evolution and descriptions of particle beams under acceleration, physics of accelerated particle beams, as well as the effects of space charge, high-order modes (HOMs), and other collective effects. Aspects of both normal conducting (RF) and superconducting (SRF) particle beam acceleration will be covered.",
+        "Technical and Digital Skills": [
+            "Understanding of particle accelerator design",
+            "Knowledge of acceleration methods for particles and beams",
+            "Understanding of the effects of space charge, high-order modes, and other collective effects",
+            "Knowledge of normal conducting (RF) and superconducting (SRF) particle beam acceleration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss complex physics concepts",
+            "Ability to present findings on accelerated particle beams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in particle beam acceleration",
+            "Analytical skills to understand the physics of accelerated particle beams",
+            "Ability to evaluate and mitigate the effects of space charge and high-order modes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 871",
+        "courseTitle": "Introduction to Quantum Field Theory I",
+        "academicLevel": "graduate",
+        "courseDescription": "Quantization of the Klein-Gordon field, interactions in quantum field theory and Feynman diagrams, quantization of the Dirac field, quantization of the electromagnetic field, quantum electrodynamics, renormalization, quantum chromodynamics and asymptotic freedom.",
+        "Technical and Digital Skills": [
+            "Quantization of the Klein-Gordon field",
+            "Interacting in quantum field theory",
+            "Understanding and applying Feynman diagrams",
+            "Quantization of the Dirac field",
+            "Quantization of the electromagnetic field",
+            "Understanding quantum electrodynamics",
+            "Applying principles of renormalization",
+            "Understanding quantum chromodynamics",
+            "Applying principles of asymptotic freedom"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex quantum field theory concepts",
+            "Collaborating on theoretical or mathematical problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing quantum field scenarios",
+            "Solving complex quantum field equations",
+            "Applying theoretical knowledge to practical quantum field problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 872",
+        "courseTitle": "Introduction to Quantum Field Theory II",
+        "academicLevel": "graduate",
+        "courseDescription": "Further development of topics in quantum field theory. The course addresses renormalization, non-abelian gauge theories, and advanced calculation techniques.",
+        "Technical and Digital Skills": [
+            "Understanding of renormalization",
+            "Knowledge of non-abelian gauge theories",
+            "Advanced calculation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex quantum field theory concepts",
+            "Collaboration in theoretical discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical skills for solving quantum field theory problems",
+            "Critical thinking in developing advanced calculation techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 890",
+        "courseTitle": "Introduction to the Processes of Quantum Chromodynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to basic Quantum Chromodynamics (QCD) methods in hadron-scattering experiments. Focus will be placed on perturbative methods and partonic interpretations of specific processes. The course will begin with a general overview of QCD, and specific processes will be studied in detail to illustrate the general features of patronic physics and their QCD interpretations. The course will close with a summary of questions of current research interest.",
+        "Technical and Digital Skills": [
+            "Understanding of basic Quantum Chromodynamics methods",
+            "Knowledge of partonic interpretations of specific processes",
+            "Ability to conduct hadron-scattering experiments",
+            "Proficiency in perturbative methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to summarize and explain complex quantum chromodynamics concepts",
+            "Ability to discuss current research interest in QCD"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to interpret general features of patronic physics",
+            "Analyzing specific processes in QCD",
+            "Critical evaluation of QCD interpretations"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "PHYS 891",
+        "courseTitle": "Seminar I",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar is designed to enhance both written and oral communication skills as applied to physics. Topics include effective display of data, preparation of scientific reports and preparation and delivery of scientific talks.",
+        "Technical and Digital Skills": [
+            "Data display",
+            "Scientific report preparation",
+            "Scientific talk preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Oral communication",
+            "Effective presentation of scientific reports and talks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Content structuring"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Coordinating presentations"
+        ]
+    },
+    {
+        "courseCode": "PHYS 892",
+        "courseTitle": "Seminar II",
+        "academicLevel": "graduate",
+        "courseDescription": "A continuation of PHYS 891 at an advanced level. This seminar is designed to enhance both written and oral communication skills as applied to physics. Topics include effective display of data, preparation of scientific reports and preparation and delivery of scientific talks.",
+        "Technical and Digital Skills": [
+            "Data display techniques",
+            "Scientific report preparation",
+            "Scientific talk preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication for scientific presentations",
+            "Written communication for scientific reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Scientific problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for scientific research",
+            "Data organization"
+        ]
+    },
+    {
+        "courseCode": "PHYS 895",
+        "courseTitle": "Special Topics in Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Thorough coverage of areas selected to meet special needs and interests.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of physical theories",
+            "Adapting to new concepts and topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PHYS 896",
+        "courseTitle": "Special Topics in Accelerator Physics",
+        "academicLevel": "graduate",
+        "courseDescription": "Special topics related to particle accelerators and their applications.",
+        "Technical and Digital Skills": [
+            "Understanding of particle accelerators",
+            "Knowledge of accelerator applications",
+            "Use of technical tools for accelerator analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing accelerator data",
+            "Problem-solving in accelerator function"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    }
+]

@@ -1,0 +1,1461 @@
+[
+    {
+        "courseTitle": "Introduction to the Visual Arts",
+        "courseCode": "ARTH 121A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the various media, techniques, styles, content, and contexts in the visual arts as they are manifested in the world's cultures.",
+        "Technical and Digital Skills": [
+            "Understanding various art media",
+            "Techniques of visual arts creation",
+            "Digital art tools and software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic collaboration with peers",
+            "Communicating artistic concepts effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing different artistic styles and content",
+            "Critically evaluating cultural contexts of art"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing art projects",
+            "Leading artistic endeavors in a group setting"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Introduction to the Visual Arts",
+        "courseCode": "ARTH 127A",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the various media, techniques, styles, content, and contexts in the visual arts as they are manifested in the world's cultures. Open only to students in the Honors College.",
+        "Technical and Digital Skills": [
+            "Media exploration techniques",
+            "Artistic styles analysis",
+            "Digital art creation tools proficiency",
+            "Cultural context research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique articulation",
+            "Collaboration with artists",
+            "Presentation of visual concepts",
+            "Effective feedback delivery"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Artistic interpretation",
+            "Visual problem-solving",
+            "Contextual analysis of art",
+            "Creative thinking in art projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating exhibitions",
+            "Leading art discussions",
+            "Managing art projects",
+            "Organizing art events"
+        ]
+    },
+    {
+        "courseTitle": "Global Survey of Art History",
+        "courseCode": "ARTH 150",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an opportunity to discover, appreciate, and acquire broad knowledge of art history through the ages, from the Prehistoric era to contemporary times within a global perspective. Students will learn to examine and critically analyze major forms of artistic expression from diverse cultures and periods of art in order to understand their individual and collective contributions to the arts.",
+        "Technical and Digital Skills": [
+            "Researching art history online",
+            "Digital image analysis",
+            "Database management for art collections"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting art historical findings",
+            "Collaborating with peers on art research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of art styles across cultures and time periods",
+            "Identifying artistic influences and trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on art history topics",
+            "Organizing and curating art exhibitions"
+        ]
+    },
+    {
+        "courseTitle": "Special topics in art history",
+        "courseCode": "ARTH 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Special topics in art history.",
+        "Technical and Digital Skills": [
+            "Research skills in art history",
+            "Digital art database management",
+            "Image analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of art historical research",
+            "Collaborative research project coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art historical texts",
+            "Identifying trends in art movements",
+            "Research methodology selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating art historical exhibitions",
+            "Leading group discussions on art history topics"
+        ]
+    },
+    {
+        "courseTitle": "Ancient Art",
+        "courseCode": "ARTH 203",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the art and architecture of the ancient world from its Paleolithic origins to the end of antiquity and the birth of Christian art. Ranging from drawings in caves to mosaics in churches, the material addressed in the course is situated in its social, political, and historical context. The objective of this course is to provide a visual and cultural literacy of ancient art and to familiarize students with the methods, theories, and traditions upon which ancient art history is grounded.",
+        "Technical and Digital Skills": [
+            "Art and architecture analysis",
+            "Cultural context interpretation",
+            "Historical context understanding",
+            "Visual literacy development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of artistic insights",
+            "Collaboration on art analysis projects",
+            "Discussion facilitation on ancient art topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ancient art information",
+            "Identification of artistic traditions and methods",
+            "Interpretation of ancient art theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in art history research",
+            "Leading discussions on ancient art topics",
+            "Coordinating group projects in art analysis"
+        ]
+    },
+    {
+        "courseTitle": "Debunking Myths in Art",
+        "courseCode": "ARTH 204",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an effort to confront conspiratorial thinking where art is concerned. The interpretation of human visual culture – particularly from ancient periods – is a particularly subjective endeavor, but in recent years social media have accelerated the proliferation of baseless theories about art, architecture, and material culture. From alien-builder theories to simple misconceptions about the polychromatic nature of Classical art, these pseudoarchaeologies can be found throughout the world, but they tend to harangue and ultimately undermine non-European peoples and cultures and their cultural heritage.",
+        "Technical and Digital Skills": [
+            "Art history knowledge",
+            "Research skills in visual culture",
+            "Critical analysis of art theories and interpretations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debunking myths through clear communication",
+            "Engaging with diverse perspectives in art history"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and disproving false narratives in art history",
+            "Analyzing the impact of misinformation on cultural heritage"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on debunking art myths",
+            "Organizing research materials efficiently for fact-checking"
+        ]
+    },
+    {
+        "courseTitle": "Early Modern Art in Europe",
+        "courseCode": "ARTH 210",
+        "academicLevel": "undergraduate",
+        "courseDescription": "“Early Modern” is a relatively new term applied to a broad period of artistic production in Europe that encompasses distinct, yet overlapping, style periods, which include the “Renaissance,” “Baroque,”  “Rococo,” and “Neoclassicism.” This course will examine painting, sculpture, architecture, and graphic arts in Europe from 1400—1800 within the context of artistic creativity in relationship with intellectual, religious, economic, political, scientific, and cultural changes and developments in the Western world.",
+        "Technical and Digital Skills": [
+            "Artistic techniques in painting, sculpture, and graphic arts",
+            "Architectural styles and structures in Europe from 1400-1800",
+            "Digital art history research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting historical art insights",
+            "Collaborating with peers on art analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art in the context of intellectual, religious, economic, political, scientific, and cultural changes",
+            "Identifying artistic influences and developments in European art"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating art exhibitions",
+            "Leading discussions on Early Modern art movements"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Art History",
+        "courseCode": "ARTH 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected art history topics to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical analysis of art pieces, Research skills in art history, Interpretation of historical context",
+        "Organizational and Leadership Skills": "Time management for research deadlines, Group collaboration for class discussions"
+    },
+    {
+        "courseTitle": "Egyptian Art",
+        "courseCode": "ARTH 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the art and architecture of ancient Egypt from the migrations of anatomically modern humans out of Africa to the persistence of Egyptian identity under Roman domination. Egypt looms large in the popular consciousness of modern society, with extraterrestrial or magical connotations. This course encourages critical thinking skills by stressing the importance of evidence and context in the interpretation of Egyptian monuments and iconography. Fulfills non-western requirement for majors.",
+        "Technical and Digital Skills": [
+            "Art and architecture analysis of ancient Egypt",
+            "Interpretation of Egyptian monuments and iconography",
+            "Understanding Egyptian identity under Roman domination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical thinking skills",
+            "Presentation of evidence and context in art analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of Egyptian art",
+            "Evidence-based interpretation of Egyptian artifacts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Women in the Visual Arts",
+        "courseCode": "ARTH 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The contributions of women in the various fields in the visual arts--painting, graphics, sculpture, architecture, and the crafts.",
+        "Technical and Digital Skills": [
+            "Painting techniques",
+            "Graphics software proficiency",
+            "Sculpting methods",
+            "Architectural design software knowledge",
+            "Craftsmanship skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic collaboration",
+            "Effective visual communication",
+            "Presentation of artistic ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Artistic problem-solving",
+            "Critical analysis of visual compositions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in visual arts",
+            "Leading artistic teams"
+        ]
+    },
+    {
+        "courseTitle": "15th and 16th Century Art in Northern Europe",
+        "courseCode": "ARTH 314",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The painting, sculpture, and graphics of the Netherlands, France and Germany in the fifteenth and sixteenth centuries with discussion of artists such as Jan van Eyck, Hieronymus Bosch, Pieter Bruegel the Elder, and Albrecht Durer.",
+        "Technical and Digital Skills": [
+            "Painting techniques of the 15th and 16th centuries",
+            "Understanding of sculpture methods",
+            "Knowledge of graphic design in Northern Europe",
+            "Identification of artistic styles of Jan van Eyck, Hieronymus Bosch, Pieter Bruegel the Elder, and Albrecht Durer"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and analysis",
+            "Participation in group discussions on art history",
+            "Effective communication of art concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art pieces",
+            "Identification of symbolic meanings in artwork",
+            "Comparative analysis of different artists' styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating art exhibitions",
+            "Leading group art discussions",
+            "Organizing research on art history"
+        ]
+    },
+    {
+        "courseTitle": "High Renaissance Art in Italy",
+        "courseCode": "ARTH 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of High Renaissance Art in Italy (roughly 1473 to 1520), focusing on the recognized major artists or 'masters' of the High Renaissance, Leonardo da Vinci, Michelangelo, Raphael, and Titian, as well as their lesser known contemporaries.",
+        "Technical and Digital Skills": [
+            "Artistic techniques of Leonardo da Vinci, Michelangelo, Raphael, and Titian",
+            "Knowledge of art history and styles of the High Renaissance period",
+            "Understanding of color theory and composition in art"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Collaboration with peers on art projects",
+            "Effective communication of artistic ideas and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting visual art",
+            "Identifying influences and themes in High Renaissance artworks",
+            "Critical evaluation of art pieces"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for art exhibitions or showcases",
+            "Leadership in group art projects",
+            "Organizing art-related events or workshops"
+        ]
+    },
+    {
+        "courseTitle": "Mannerism and Late Renaissance Art in Italy",
+        "courseCode": "ARTH 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The works of Leonardo, Michelangelo, and Raphael brought the Renaissance to its height, but by 1520, two of these masters were dead. It is in this aftermath - post-1520 - that a new generation of artists arose revolutionizing the art world. This course is a survey of mid-late sixteenth-century art in Italy.",
+        "Technical and Digital Skills": [
+            "Knowledge of art techniques used by Leonardo, Michelangelo, and Raphael",
+            "Understanding of art history in the mid-late sixteenth century in Italy",
+            "Ability to analyze and interpret art styles and movements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing and presenting art concepts and ideas",
+            "Collaborating with peers on art analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating art pieces and styles",
+            "Identifying influences and innovations in art during the post-1520 period"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating and organizing art exhibitions",
+            "Leading discussions on art history topics"
+        ]
+    },
+    {
+        "courseTitle": "Baroque Art in Italy and Spain",
+        "courseCode": "ARTH 318",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of Baroque Art in Italy and Spain. Material includes painting, sculpture, and architecture of the seventeenth and early eighteenth centuries, with discussion of artists such as Caravaggio, Annibale Carracci, Gian Lorenzo Bernini, Francesco Borromini, Diego Velazquez, Jusepe de Ribera, and Francisco de Zurbaran, among others.",
+        "Technical and Digital Skills": [
+            "Artistic techniques in Baroque painting, sculpture, and architecture",
+            "Understanding of Baroque artistic styles and influences",
+            "Digital art history research skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic interpretation and communication",
+            "Discussion and analysis of Baroque art with peers",
+            "Presentation of research findings on Baroque artists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of Baroque artworks",
+            "Interpreting symbolism in Baroque art pieces",
+            "Comparative analysis of different Baroque artists"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating virtual exhibitions of Baroque art",
+            "Leading group discussions on Baroque art movements",
+            "Organizing research projects on specific Baroque artists"
+        ]
+    },
+    {
+        "courseTitle": "Baroque Art in Northern Europe",
+        "courseCode": "ARTH 319",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of Baroque Art in Northern Europe. Materials include painting, sculpture, and architecture of the seventeenth and early eighteenth centuries, with discussion of artists such as Peter Paul Rubens, Rembrandt, Vermeer, and Poussin, among others.",
+        "Technical and Digital Skills": [
+            "Understanding of Baroque art techniques",
+            "Knowledge of art history in Northern Europe",
+            "Ability to analyze paintings, sculptures, and architecture from the seventeenth and early eighteenth centuries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective discussion and presentation of Baroque art concepts",
+            "Collaboration with peers to analyze and interpret artworks"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of Baroque art pieces",
+            "Identifying artistic influences and styles in the works of artists like Rubens, Rembrandt, Vermeer, and Poussin"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research materials on Baroque art",
+            "Leading group discussions on specific artworks or artists"
+        ]
+    },
+    {
+        "courseTitle": "History of Graphic Design",
+        "courseCode": "ARTH 320W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A critical study of the formal, cultural, and intellectual developments of the graphic design discipline, including related activity in fine art, illustration, and industrial design. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Graphic design software proficiency (e.g., Adobe Creative Suite)",
+            "Typography principles knowledge",
+            "Color theory understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing skills for analyzing and interpreting design history",
+            "Presentation of research findings in a clear and concise manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of historical design movements and their impact on contemporary graphic design practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritization of research tasks for writing-intensive assignments",
+            "Time management for meeting course deadlines"
+        ]
+    },
+    {
+        "courseTitle": "History of Decorative Arts",
+        "courseCode": "ARTH 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the major historical developments in the decorative and applied arts, landscape design, and material culture from the Renaissance to the Modern period.",
+        "Technical and Digital Skills": [
+            "Knowledge of historical art styles and movements",
+            "Understanding of material culture",
+            "Familiarity with landscape design principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of historical research findings",
+            "Ability to collaborate with peers on projects related to decorative arts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art pieces and their cultural significance",
+            "Identification of trends in decorative arts over different historical periods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating and organizing exhibitions of decorative arts",
+            "Leading discussions on the importance of material culture in historical contexts"
+        ]
+    },
+    {
+        "courseTitle": "American Art and Architecture, 1600 to the Present",
+        "courseCode": "ARTH 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Through the study of form, content, and context of selected works of painting, architecture and sculpture made in colonial North America and the US from the 17th to the 20th century, this course will probe changing American social and cultural values embodied in art. Students will study individual artists as well as themes, with particular attention to the production and reception of art in a developing nation, the transformation of European architectural styles into a new environment, the construction of race in ante- and post-bellum America, and the identification of an abstract style of art with the political ascendancy of the US after World War II.",
+        "Technical and Digital Skills": [
+            "Understanding architectural styles",
+            "Analyzing artistic form and content",
+            "Identifying art movements and themes",
+            "Researching historical context of artworks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing and presenting art analysis",
+            "Collaborating on research projects with peers",
+            "Communicating historical interpretations effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cultural values in art",
+            "Evaluating the impact of social changes on artistic expression",
+            "Interpreting the transformation of European styles in American art"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on art history topics",
+            "Organizing research materials and sources effectively",
+            "Managing time to complete research projects"
+        ]
+    },
+    {
+        "courseTitle": "Nineteenth-Century European Art",
+        "courseCode": "ARTH 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Survey of the mainstreams of European art during the late eighteenth and nineteenth centuries, including discussion of architecture, sculpture, painting, and the graphic arts.",
+        "Technical and Digital Skills": [
+            "Understanding art restoration techniques",
+            "Digital imaging for art analysis",
+            "Knowledge of art historical databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting art historical research findings",
+            "Collaborating with peers on art analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing art styles and techniques",
+            "Interpreting historical context in art pieces"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on art movements",
+            "Organizing art exhibition proposals"
+        ]
+    },
+    {
+        "courseTitle": "History of Photography",
+        "courseCode": "ARTH 327",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the development of photography as a scientific curiosity, a tool for artists, and as a fine art in itself from the early nineteenth century to the present day.",
+        "Technical and Digital Skills": [
+            "Understanding camera technology",
+            "Photo editing software proficiency",
+            "Digital image manipulation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic interpretation communication",
+            "Historical context explanation to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing photographic techniques evolution",
+            "Identifying influences on photography trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating photography exhibitions",
+            "Leading discussions on photography history"
+        ]
+    },
+    {
+        "courseTitle": "Art of Gardens",
+        "courseCode": "ARTH 328",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course to the history of gardens. Gardening is explored as an artistic expression and connections are made to other visual arts such as painting, sculpture and architecture, as well as to as theater and public representation. The course combines a heavy site-visiting component with readings and individual research directed towards the final course paper and presentations.",
+        "Technical and Digital Skills": [
+            "Artistic design principles",
+            "Gardening techniques",
+            "Site analysis for garden design",
+            "Research skills for historical context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of garden concepts",
+            "Collaboration with other artists and designers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of garden designs",
+            "Identifying connections between different art forms and garden design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and coordinating site visits",
+            "Leading discussions on garden history and artistic expression"
+        ]
+    },
+    {
+        "courseTitle": "Surrealism and other Utopias",
+        "courseCode": "ARTH 339",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the international movements in visual arts and design in the interwar years from Dada to the New World's Fair.",
+        "Technical and Digital Skills": [
+            "Visual arts and design techniques",
+            "Understanding of interwar art movements",
+            "Digital art tools and software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic expression and communication",
+            "Collaboration with other artists and designers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art and design concepts",
+            "Creative problem-solving in visual arts",
+            "Interpretation of surrealistic and utopian themes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in art and design",
+            "Leading artistic projects and exhibitions"
+        ]
+    },
+    {
+        "courseTitle": "Abstract Expressionism and its Discontents",
+        "courseCode": "ARTH 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive study of the two decades when modernist styles and theories in art, design, and architecture were codified and challenged internationally.",
+        "Technical and Digital Skills": [
+            "Understanding modernist styles in art, design, and architecture",
+            "Analyzing and interpreting artistic theories",
+            "Researching international art movements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in critical discussions about art history",
+            "Presenting findings from research",
+            "Collaborating on group projects in art analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating modernist art and design concepts",
+            "Identifying challenges to established artistic theories",
+            "Developing innovative perspectives on art movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on art theories",
+            "Organizing research materials on modernist styles",
+            "Facilitating group projects in art analysis"
+        ]
+    },
+    {
+        "courseTitle": "Art Criticism",
+        "courseCode": "ARTH 350W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the analysis, theoretical approaches, methodologies, and effects of the practice of art criticism. This is a writing-intensive course.",
+        "Technical and Digital Skills": [
+            "Art analysis techniques",
+            "Research methodologies in art criticism",
+            "Digital media analysis in art criticism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing skills for art critique",
+            "Presenting art analysis findings",
+            "Engaging in constructive discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art pieces",
+            "Identifying different theoretical approaches in art criticism",
+            "Analyzing the effects of art criticism on the art community"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing writing-intensive assignments in art criticism",
+            "Leading group discussions on art analysis"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in Art History",
+        "courseCode": "ARTH 351W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of past and present approaches to scholarship in art history.  Students participate in a series of writing assignments designed to strengthen their research and writing skills, culminating with the presentation of original research in oral and written form. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Research database navigation",
+            "Digital art preservation techniques",
+            "Online archival research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings orally",
+            "Collaborating with peers on research projects",
+            "Providing constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art historical sources",
+            "Identifying themes in art movements",
+            "Analyzing visual data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research timelines",
+            "Coordinating group research projects",
+            "Leading research discussions"
+        ]
+    },
+    {
+        "courseTitle": "Problems in Postmodernism",
+        "courseCode": "ARTH 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Lectures and critical discussion of the development and configurations of the various styles emergent since 1960, both in America and Europe.",
+        "Technical and Digital Skills": [
+            "Understanding postmodern art movements",
+            "Analyzing postmodern literature",
+            "Researching postmodern cultural influences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in critical discussions on postmodernism",
+            "Presenting analyses of postmodern works",
+            "Collaborating with peers on postmodern theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critically evaluating postmodern texts and artworks",
+            "Identifying themes in postmodern cultural developments",
+            "Synthesizing diverse perspectives on postmodernism"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "ARTH 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An unpaid, structured work experience in a museum, gallery, archive, or related environment for credit. Criteria for evaluation will be determined by work supervisor and cooperating faculty advisor. May be repeated for credit.  Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Archival management",
+            "Exhibit curation",
+            "Digital asset management",
+            "Artifact preservation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with colleagues and supervisors",
+            "Professional email etiquette",
+            "Team collaboration in a museum setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical information",
+            "Research skills for museum projects",
+            "Troubleshooting exhibit display issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution for museum exhibits",
+            "Coordinating with different departments within a museum",
+            "Taking initiative in completing assigned tasks"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "ARTH 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A specialized field activity outside of the classroom. Qualifies as a CAP experience. Available for pass/fail grading only.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "CAP experience qualification, pass/fail grading"
+    },
+    {
+        "courseTitle": "Extracurricular Studies",
+        "courseCode": "ARTH 377",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An extracurricular activity approved for credit based on objectives, criteria, and evaluative procedures as formally determined by the department and the student prior to the semester in which the activity is to take place.  Such credit is subject to review by the provost.",
+        "Technical and Digital Skills": [
+            "Project planning and management",
+            "Online research skills",
+            "Data analysis using Excel",
+            "Information security awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative decision-making",
+            "Professional email communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Risk assessment and mitigation strategies",
+            "Troubleshooting technical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team coordination and delegation",
+            "Conflict resolution in a group setting",
+            "Time management and prioritization"
+        ]
+    },
+    {
+        "courseTitle": "Extracurricular Studies",
+        "courseCode": "ARTH 378",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An extracurricular activity approved for credit based on objectives, criteria, and evaluative procedures as formally determined by the department and the student prior to the semester in which the activity is to take place.  Such credit is subject to review by the provost.",
+        "Technical and Digital Skills": [
+            "Project management software proficiency",
+            "Data visualization tools mastery",
+            "Coding proficiency in relevant languages/frameworks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Team collaboration and communication",
+            "Networking and relationship building"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking and decision-making",
+            "Research and data analysis skills",
+            "Problem-solving techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management and prioritization",
+            "Conflict resolution skills",
+            "Project coordination and leadership"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Art History",
+        "courseCode": "ARTH 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Researching and presenting historical information",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of art historical sources",
+        "Organizational and Leadership Skills": "Managing research materials and deadlines"
+    },
+    {
+        "courseTitle": "Topics in Art History",
+        "courseCode": "ARTH 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester.  May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": [
+            "Researching art history resources online",
+            "Utilizing digital archives for art research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting art historical findings",
+            "Participating in group discussions on art topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting art historical texts",
+            "Identifying trends in art movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group projects on art history topics",
+            "Organizing art history research materials"
+        ]
+    },
+    {
+        "courseTitle": "Hieronymus Bosch Course",
+        "courseCode": "ARTH 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Before Dalí…before Magritte…before De Chirico, there was Hieronymus Bosch. Well before the advent of the Surrealism movement in the twentieth century, the late fifteenth-century/early sixteenth-century Dutch painter Hieronymus Bosch rocked the art world with his fantastical, disturbing, and enigmatic paintings.  This course will critically examine Bosch and his work. Students will work like detectives, first by dismantling long-standing misinterpretations about Bosch’s work, then by analyzing and deciphering his iconography through the lens of the period in which he lived, including art theory, politics, religion, devotion, and alchemy, among other topics.",
+        "Technical and Digital Skills": [
+            "Art analysis",
+            "Iconography interpretation",
+            "Historical context research",
+            "Critical thinking in art analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of art analysis findings",
+            "Collaboration with peers in art research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deciphering complex iconography",
+            "Analyzing historical influences on art",
+            "Critical evaluation of art theories and interpretations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on art analysis",
+            "Organizing research materials and findings effectively"
+        ]
+    },
+    {
+        "courseTitle": "Michelangelo",
+        "courseCode": "ARTH 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the life, sculptures, paintings, and architecture of one of the greatest Italian Renaissance artists, Michelangelo Buonarroti.",
+        "Technical and Digital Skills": [
+            "Sculpture techniques",
+            "Painting methods",
+            "Architectural design principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic expression through different mediums",
+            "Effective visual storytelling"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex compositions",
+            "Interpreting historical context in art"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for large-scale artworks",
+            "Leading artistic collaborations"
+        ]
+    },
+    {
+        "courseTitle": "Caravaggio",
+        "courseCode": "ARTH 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the life and revolutionary paintings of the Italian Baroque painter Caravaggio.",
+        "Technical and Digital Skills": [
+            "Artistic techniques in painting",
+            "Understanding Baroque art style",
+            "Analyzing and interpreting historical art pieces"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing and critiquing art",
+            "Presenting findings on Caravaggio's works",
+            "Collaborating with peers on art analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex paintings",
+            "Identifying symbolism in art pieces",
+            "Comparing and contrasting artistic styles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on Caravaggio",
+            "Organizing art analysis projects",
+            "Managing time effectively for art research"
+        ]
+    },
+    {
+        "courseTitle": "Myths of Venice",
+        "courseCode": "ARTH 416/516",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Venice is set apart from other cities in Italy and from Europe not only by its geography—a city seemingly floating on water, with canals instead of streets—but also by its unique history, traditions, and cultural identity. The consideration and examination of its mythical origins in the fifth century, through its history as a territory of the Byzantine Empire, and the establishment of their Republic in 1297, this course will examine how Venice fashioned its own identity through its art and architecture during the Italian Renaissance.",
+        "Technical and Digital Skills": [
+            "Art and architecture analysis",
+            "Historical research skills",
+            "Cultural identity exploration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of historical findings",
+            "Discussion facilitation on myths and legends"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical information",
+            "Mythical origins analysis",
+            "Interpretation of cultural symbolism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Team collaboration on historical investigations"
+        ]
+    },
+    {
+        "courseTitle": "Renaissance and Baroque Women",
+        "courseCode": "ARTH 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will examine the ways in which prevailing ideas about women shaped visual imagery, and in turn, how these images influenced, perpetuated, and even changed perceptions about women from the fifteenth through seventeenth centuries in Italy (Renaissance and Baroque periods). Students will explore how text and visual imagery informed one another, and closely examine works of art by women artists, commissioned by women patrons, and works featuring women through thematic topics. Although patriarchy dominated the Renaissance and Baroque periods, the course will recover the histories of women artists, patrons, and writers, and examine how women navigated the gender oppression of their periods to reclaim their power and value.",
+        "Technical and Digital Skills": [
+            "Art history research",
+            "Visual imagery analysis",
+            "Historical context understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings",
+            "Discussion facilitation on gender roles in art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of gender representation in art",
+            "Identifying societal influences on women's portrayal"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Leading group discussions on women's empowerment in art"
+        ]
+    },
+    {
+        "courseTitle": "Pompeii",
+        "courseCode": "ARTH 420/520",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This seminar is an exploration of the visual and material culture of Pompeii, incorporating a broad spectrum of evidence, ranging from the city’s temples to the wall paintings in the city’s brothels. The goal of the class is to instill a working knowledge of the most recent scholarship on the ancient city and to contextualize Pompeii's art and architecture in the historical narrative of the city and the broader body of scholarship on Roman cultural history.",
+        "Technical and Digital Skills": [
+            "Visual and material culture analysis",
+            "Historical research skills",
+            "Scholarship review and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of research findings",
+            "Discussion facilitation in class",
+            "Peer feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical evidence",
+            "Contextualization of art and architecture",
+            "Synthesis of scholarly perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research assignments",
+            "Coordination of group discussions",
+            "Leading group presentations"
+        ]
+    },
+    {
+        "courseTitle": "Romantic Architecture",
+        "courseCode": "ARTH 434/534",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of the aesthetic, technological, and social forces that transformed international architecture in the 18th and 19th centuries.",
+        "Technical and Digital Skills": [
+            "Architectural design principles of the 18th and 19th centuries",
+            "Historical research in architecture",
+            "Drawing and drafting techniques in architecture"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting architectural concepts and ideas",
+            "Collaborating with peers on architectural projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing architectural styles from the Romantic era",
+            "Critically evaluating the impact of social forces on architecture"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading architectural design projects",
+            "Managing timelines and deadlines in architecture"
+        ]
+    },
+    {
+        "courseTitle": "Modern Architecture",
+        "courseCode": "ARTH 435W/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the architecture, planning, and related design of the twentieth and twenty-first centuries around the globe.  Special emphasis is placed on the formation of the international style between the world wars and its disintegration in the recent past. This is a writing intensive course; the course also satisfies the general education impact of technology requirement.",
+        "Technical and Digital Skills": [
+            "Architectural design software proficiency",
+            "Digital modeling skills",
+            "Understanding of building materials and technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing for architectural analysis",
+            "Presentation skills for design concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of architectural styles",
+            "Design problem-solving abilities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for architectural projects",
+            "Collaboration with design teams"
+        ]
+    },
+    {
+        "courseTitle": "Realism in Modern and Contemporary Art",
+        "courseCode": "ARTH 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the changing motivations, contexts, and characteristics of realist art since the inception of modernism. While definitions of radical and conservative have wavered and flipped, recognizable imagery seems always to function as a critical intervention within aesthetic racial, or gender-based hegemonies. As students examine numerous artists’ strategies, they will see that reality isn’t always so easy to pin down.",
+        "Technical and Digital Skills": [
+            "Artistic techniques in realism art",
+            "Digital rendering software proficiency",
+            "Understanding of modern art movements"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic interpretation and expression",
+            "Artistic critique and feedback giving/receiving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art pieces",
+            "Interpretation of artistic intentions and contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Curating art exhibitions",
+            "Leading art discussions and debates"
+        ]
+    },
+    {
+        "courseTitle": "Painting Now",
+        "courseCode": "ARTH 442/542",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Anxiety about painting’s purpose and relevance are woven into modern art’s linear concept of history. The goal of this class is to help students understand, both intellectually and emotionally, the ambitions that motivate painting, as well as to give them an opportunity to sample the diverse practices and critical approaches that make up the painterly landscape, and finally to examine how or if it fits within the broader scope of contemporary art.",
+        "Technical and Digital Skills": [
+            "Painting techniques",
+            "Color theory",
+            "Canvas preparation",
+            "Brushwork",
+            "Digital painting tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Collaboration with other artists",
+            "Artistic expression through painting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimentation with different styles",
+            "Creative problem-solving in painting compositions",
+            "Critical analysis of own work and others"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for painting projects",
+            "Leading group painting sessions",
+            "Planning and executing art exhibitions"
+        ]
+    },
+    {
+        "courseTitle": "Public Art",
+        "courseCode": "ARTH 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a collaborative exploration of the problems and opportunities of national and international public art that combines the practical with the theoretical, and the studio with the art-historical.",
+        "Technical and Digital Skills": [
+            "Artistic design software proficiency",
+            "Digital rendering techniques",
+            "Knowledge of installation tools and techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative art project management",
+            "Effective communication with stakeholders and communities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art installations",
+            "Critical analysis of public art impact and reception"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and coordination for public art projects",
+            "Team leadership in art collaboration"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis",
+        "courseCode": "ARTH 480",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The research and writing of a thesis on an advanced topic in art history to be determined by the student in concert with a faculty advisor. The thesis option is intended for art history majors preparing for graduate study in the field, and serves as the required culminating work for their degree.",
+        "Technical and Digital Skills": [
+            "Research methodology in art history",
+            "Advanced topic exploration in art history",
+            "Thesis writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty advisor",
+            "Effective communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art historical information",
+            "Research design and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for thesis completion",
+            "Independent study and self-motivation"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Art History",
+        "courseCode": "ARTH 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Research presentation skills",
+        "Problem-Solving and Analytical Skills": "Critical analysis of historical context",
+        "Organizational and Leadership Skills": "Managing research projects"
+    },
+    {
+        "courseTitle": "Topics in Art History",
+        "courseCode": "ARTH 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Research presentation skills",
+        "Problem-Solving and Analytical Skills": "Critical analysis of art history topics",
+        "Organizational and Leadership Skills": "Independent research planning"
+    },
+    {
+        "courseTitle": "Tutorial Work in Art History",
+        "courseCode": "ARTH 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent research on a topic to be selected under the guidance of a faculty advisor. Course is restricted to art history majors.",
+        "Technical and Digital Skills": [
+            "Research skills in art history",
+            "Utilizing academic databases for research",
+            "Digital archiving of art resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty advisor",
+            "Presenting research findings to peers and faculty",
+            "Collaborating with other art history majors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent research design and execution",
+            "Critical evaluation of art historical sources",
+            "Identifying gaps in existing art historical research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent research projects",
+            "Taking initiative in selecting research topics",
+            "Leading discussions in art history seminars"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Art History",
+        "courseCode": "ARTH 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent research on a topic to be selected under the guidance of a faculty advisor. Course is restricted to art history majors.",
+        "Technical and Digital Skills": [
+            "Research methodology in art history",
+            "Digital archives navigation",
+            "Academic database search proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty advisor",
+            "Presentation of research findings to peers",
+            "Peer feedback incorporation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art historical sources",
+            "Identifying research gaps",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent research",
+            "Project planning and execution",
+            "Taking initiative in research direction"
+        ]
+    },
+    {
+        "courseCode": "ARTH 508",
+        "courseTitle": "Hieronymus Bosch",
+        "academicLevel": "graduate",
+        "courseDescription": "Before Dalí…before Magritte…before De Chirico, there was Hieronymus Bosch. Well before the advent of the Surrealism movement in the twentieth century, the late fifteenth-century/early sixteenth-century Dutch painter Hieronymus Bosch rocked the art world with his fantastical, disturbing, and enigmatic paintings. Bosch’s contemporaries and modern scholars have deemed his art as the product of both his madness and genius. This course will critically examine Bosch and his work. Students will work like detectives, first by dismantling long-standing misinterpretations about Bosch’s work, then by analyzing and deciphering his iconography through the lens of the period in which he lived, including art theory, politics, religion, devotion, and alchemy, among other topics.",
+        "Technical and Digital Skills": [
+            "Art theory analysis",
+            "Iconography interpretation",
+            "Historical context research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical thinking in art analysis",
+            "Debunking misinterpretations",
+            "Presenting findings effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deciphering enigmatic paintings",
+            "Connecting symbolism to historical events",
+            "Identifying religious and political influences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Coordinating group discussions",
+            "Leading collaborative analysis"
+        ]
+    },
+    {
+        "courseCode": "ARTH 510",
+        "courseTitle": "Michelangelo",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the life, sculptures, paintings, and architecture of one of the greatest Italian Renaissance artists, Michelangelo Buonarroti.",
+        "Technical and Digital Skills": [
+            "Sculpture techniques",
+            "Painting methods",
+            "Architectural design principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic interpretation communication",
+            "Collaboration with other artists",
+            "Client communication for commissions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in art",
+            "Innovative approaches to artistic challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for large-scale artworks",
+            "Team coordination for complex artistic projects"
+        ]
+    },
+    {
+        "courseCode": "ARTH 511",
+        "courseTitle": "Caravaggio",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the life and revolutionary paintings of the Italian Baroque painter Caravaggio.",
+        "Technical and Digital Skills": [
+            "Artistic techniques in painting",
+            "Understanding Baroque art style",
+            "Analyzing Caravaggio's painting methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Presentation of art historical research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting symbolic meanings in paintings",
+            "Identifying influences on Caravaggio's work"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ARTH 516",
+        "courseTitle": "Myths of Venice",
+        "academicLevel": "graduate",
+        "courseDescription": "Venice is set apart from other cities in Italy and from Europe not only by its geography—a city seemingly floating on water, with canals instead of streets—but also by its unique history, traditions, and cultural identity.  The consideration and examination of its mythical origins in the fifth century, through its history as a territory of the Byzantine Empire, and the establishment of their Republic in 1297, this course will examine how Venice fashioned its own identity through its art and architecture during the Italian Renaissance.",
+        "Technical and Digital Skills": [
+            "Art history research",
+            "Architectural analysis",
+            "Cultural identity examination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of historical findings",
+            "Discussion facilitation on myths and traditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical information",
+            "Mythical origins analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on Venice's history",
+            "Organizing research materials for presentations"
+        ]
+    },
+    {
+        "courseCode": "ARTH 517",
+        "courseTitle": "Renaissance and Baroque Women",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the ways in which prevailing ideas about women shaped visual imagery, and in turn, how these images, influenced, perpetuated, and even changed perceptions about women from the fifteenth through seventeenth centuries in Italy (Renaissance and Baroque periods). Students will explore how text and visual imagery informed one another, and closely examine works of art by women artists, commissioned by women patrons, and works featuring women through thematic topics. Although patriarchy dominated the Renaissance and Baroque periods, the course will recover the histories of women artists, patrons, and writers, and examine how women navigated the gender oppression of their periods to reclaim their power and value.",
+        "Technical and Digital Skills": [
+            "Visual art analysis",
+            "Research skills in art history",
+            "Interpreting text and imagery",
+            "Understanding gender dynamics in art"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting historical findings",
+            "Discussing art themes and symbolism",
+            "Engaging in group discussions on gender roles in art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing visual imagery for hidden meanings",
+            "Identifying influences on art perception",
+            "Interpreting the impact of patriarchal norms on art creation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects on women artists",
+            "Leading discussions on reclaiming women's history in art",
+            "Organizing presentations on women's empowerment in art"
+        ]
+    },
+    {
+        "courseCode": "ARTH 520",
+        "courseTitle": "Pompeii",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar is an exploration of the visual and material culture of Pompeii, incorporating a broad spectrum of evidence, ranging from the city’s temples to the wall paintings in the city’s brothels. The goal of the class is to instill a working knowledge of the most recent scholarship on the ancient city and to contextualize Pompeii's art and architecture in the historical narrative of the city and the broader body of scholarship on Roman cultural history.",
+        "Technical and Digital Skills": [
+            "Visual and material culture analysis",
+            "Scholarship review",
+            "Historical contextualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of findings",
+            "Collaboration with peers in research",
+            "Discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of evidence",
+            "Interpretation of art and architecture",
+            "Synthesis of diverse sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Coordination of group work",
+            "Leading discussions"
+        ]
+    },
+    {
+        "courseCode": "ARTH 534",
+        "courseTitle": "Romantic Architecture",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of the aesthetic, technological and social forces that transformed international architecture in the 18th and 19th centuries.",
+        "Technical and Digital Skills": [
+            "Architectural design principles",
+            "Historical research skills",
+            "CAD software proficiency",
+            "Digital modeling techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of architectural concepts",
+            "Collaboration with peers on design projects",
+            "Effective communication of design ideas to clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of architectural styles",
+            "Creative problem-solving in design challenges",
+            "Adaptation of historical concepts to modern projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for architectural endeavors",
+            "Team coordination in design teams",
+            "Leadership in architectural presentations and critiques"
+        ]
+    },
+    {
+        "courseCode": "ARTH 535",
+        "courseTitle": "Modern Architecture",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the architecture, planning, and related design of the twentieth and twenty-first centuries around the globe.  Special emphasis is placed on the formation of the international style between the world wars and its disintegration in the recent past.",
+        "Technical and Digital Skills": [
+            "Architectural design software proficiency",
+            "3D modeling software expertise",
+            "CAD (Computer-Aided Design) skills",
+            "BIM (Building Information Modeling) knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of architectural concepts",
+            "Collaboration with multidisciplinary teams in design projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of architectural styles",
+            "Evaluation of design principles in different cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in architectural design",
+            "Leadership in design decision-making processes"
+        ]
+    },
+    {
+        "courseCode": "ARTH 541",
+        "courseTitle": "Realism in Modern and Contemporary Art",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the changing motivations, contexts, and characteristics of realist art since the inception of modernism. While definitions of radical and conservative have wavered and flipped, recognizable imagery seems always to function as a critical intervention within aesthetic racial, or gender-based hegemonies. As students examine numerous artists’ strategies, they will see that reality isn’t always so easy to pin down.",
+        "Technical and Digital Skills": [
+            "Understanding digital art tools",
+            "Image editing software proficiency",
+            "Digital art creation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Effective communication of artistic concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of artistic works",
+            "Interpreting complex visual narratives"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ARTH 542",
+        "courseTitle": "Painting Now",
+        "academicLevel": "graduate",
+        "courseDescription": "Anxiety about painting’s purpose and relevance are woven into modern art’s linear concept of history. The goal of this class is to help students understand, both intellectually and emotionally, the ambitions that motivate painting, as well as to give them an opportunity to sample the diverse practices and critical approaches that make up the painterly landscape, and finally to examine how or if it fits within the broader scope of contemporary art.",
+        "Technical and Digital Skills": [
+            "Painting techniques",
+            "Color theory",
+            "Canvas preparation",
+            "Brushwork techniques",
+            "Digital painting software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Artistic critique and feedback",
+            "Collaboration with other artists",
+            "Presentation of artwork",
+            "Artistic expression through painting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving in painting",
+            "Critical analysis of artwork",
+            "Experimentation with different styles and techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for art projects",
+            "Leading group art projects",
+            "Organizing art exhibitions",
+            "Artistic vision and direction"
+        ]
+    },
+    {
+        "courseCode": "ARTH 550",
+        "courseTitle": "Public Art",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a collaborative exploration of the problems and opportunities of national and international public art that combines the practical with the theoretical, and the studio with the art-historical.",
+        "Technical and Digital Skills": [
+            "Art installation techniques",
+            "Digital imaging software proficiency",
+            "Knowledge of public art regulations and permits"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative project planning",
+            "Effective communication with stakeholders and communities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying suitable public art locations",
+            "Budget management for art projects",
+            "Creative problem-solving for art installations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for public art initiatives",
+            "Team coordination for large-scale art projects"
+        ]
+    },
+    {
+        "courseCode": "ARTH 595",
+        "courseTitle": "Topics in Art History",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Research presentation skills",
+        "Problem-Solving and Analytical Skills": "Critical analysis of historical information",
+        "Organizational and Leadership Skills": "Time management for research projects"
+    },
+    {
+        "courseCode": "ARTH 596",
+        "courseTitle": "Topics in Art History",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of selected topics in art history to be specified in the class schedule each semester. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Critical analysis of art history topics",
+        "Problem-Solving and Analytical Skills": "Research skills in art history, identifying themes and patterns",
+        "Organizational and Leadership Skills": "Managing research materials, time management for studying different art periods"
+    },
+    {
+        "courseCode": "ARTH 598",
+        "courseTitle": "Tutorial Work in Art History",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a topic to be selected under the guidance of a faculty advisor.",
+        "Technical and Digital Skills": [
+            "Research methodology in art history",
+            "Digital archives navigation",
+            "Image analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty advisor",
+            "Collaborative research with peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of sources",
+            "Artwork interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Time management for research tasks"
+        ]
+    },
+    {
+        "courseCode": "ARTH 695",
+        "courseTitle": "Topics in Art History",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be specified in the class schedule. Intensive critical investigations of specialized areas in art history. May be repeated for credit as topics vary.",
+        "Technical and Digital Skills": [
+            "In-depth research skills in art history",
+            "Specialized knowledge in various art historical topics",
+            "Critical analysis of art historical materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex art historical concepts",
+            "Engaging in critical discussions about art history topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art historical information",
+            "Synthesizing diverse sources of art historical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ARTH 697",
+        "courseTitle": "Tutorial in Art History",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research on a topic to be selected under the guidance of a faculty advisor.",
+        "Technical and Digital Skills": [
+            "Research skills in art history",
+            "Digital art database navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty advisor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of art historical texts",
+            "Interpretation of visual art forms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research planning and execution",
+            "Time management for research projects"
+        ]
+    }
+]

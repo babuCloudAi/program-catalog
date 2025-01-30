@@ -1,0 +1,371 @@
+[
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "INBU 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be repeated for credit.  Supervised experience in the international business work place requiring written statement of objectives and evaluation of experience.  Pass/fail grading only.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Workplace correspondence",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Workplace problem-solving",
+            "Evaluation of business procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "International business protocol",
+            "Workplace autonomy",
+            "Project management"
+        ]
+    },
+    {
+        "courseTitle": "Internship in International Business",
+        "courseCode": "INBU 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised experience in the international business work place requiring written statement of objectives and evaluation of experience.  Pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Microsoft Office proficiency",
+            "Understanding of international business software",
+            "Data analysis and reporting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Cross-cultural communication",
+            "Professional interaction in a business setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to evaluate and improve business processes",
+            "Critical thinking and decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project management",
+            "Adaptability in a dynamic environment"
+        ]
+    },
+    {
+        "courseTitle": "Doing Business in Europe",
+        "courseCode": "INBU 431",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey course to provide an overview of the contemporary business environment in Europe, with a focus on the European Union.  Topics will include an examination of the social, political, and economic forces which affect business in Europe.",
+        "Technical and Digital Skills": [
+            "Understanding of the European Union's business environment",
+            "Knowledge of social, political, and economic forces in Europe"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a European business context",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the impact of social, political, and economic forces on business",
+            "Strategic thinking in a European context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing business strategies for European markets",
+            "Leading in a culturally diverse environment"
+        ]
+    },
+    {
+        "courseTitle": "Doing Business in Latin America",
+        "courseCode": "INBU 432",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey  to provide an overview of the contemporary business environment in Latin America.  Topics will include an examination of the social, political and economic forces which affect business in Latin America.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation with diverse stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of socio-political structures",
+            "Economic trend analysis",
+            "Strategic decision-making in diverse contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptable business strategy development",
+            "Leadership in diverse cultural environment",
+            "Managing business in volatile economic conditions"
+        ]
+    },
+    {
+        "courseTitle": "Doing Business in Asia",
+        "courseCode": "INBU 433",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of business practices in Asia.  Emphasis will be on business, government relations, business strategy, structure, organizational processes, and human resource management.",
+        "Technical and Digital Skills": [
+            "Business analysis",
+            "Understanding of government-business relations",
+            "Business strategy development",
+            "Structure analysis",
+            "Organizational process mapping",
+            "Human resource management principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation tactics",
+            "Stakeholder engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Business problem solving",
+            "Market analysis",
+            "Policy analysis",
+            "Strategic thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in multicultural environments",
+            "Organizational strategy development",
+            "Change management",
+            "Team coordination"
+        ]
+    },
+    {
+        "courseTitle": "International Trade Field Study",
+        "courseCode": "INBU 434",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An applied field research study to develop an export trade plan which involves market analysis, risk analysis, financing and distribution decisions in overseas markets.",
+        "Technical and Digital Skills": [
+            "Market analysis",
+            "Risk analysis",
+            "Developing export trade plans",
+            "Overseas distribution decisions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "International communication",
+            "Cross-cultural negotiation",
+            "Presentation of trade plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing international market trends",
+            "Identifying and mitigating trade risks",
+            "Financial analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Strategic planning for international markets",
+            "Leadership in cross-cultural setting"
+        ]
+    },
+    {
+        "courseTitle": "International Business Law",
+        "courseCode": "INBU 436",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the sources of international business law, the relationship between such law and the U.S. legal system, the choice of law in international business disputes, the special issues that arise when doing business with foreign governments, the law governing international sales and the shipment of goods, and international intellectual property protection. In addition, the relationships between law and culture involved in international business transactions will be examined.",
+        "Technical and Digital Skills": [
+            "Understanding of international business law",
+            "Knowledge of U.S. legal system",
+            "Knowledge of international sales law",
+            "Understanding of international intellectual property protection",
+            "Knowledge of laws governing shipment of goods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiating international business disputes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of legal systems and laws",
+            "Problem-solving in international business disputes",
+            "Evaluating issues in business with foreign governments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigating legal and cultural complexities in international business",
+            "Decision making in choosing law for international business disputes"
+        ]
+    },
+    {
+        "courseTitle": "International Human Resource Management",
+        "courseCode": "INBU 437",
+        "academicLevel": "undergraduate",
+        "courseDescription": "International HRM focuses on the management of human resources in an international context.  The course will focus on policies, programs and practice characteristics of organizational efforts to manage human assets worldwide, including an overview of cross-national team dynamics and communication systems, leadership techniques, and national employment laws.  It will also explore the critical impact that these policies have on the success of firms in doing business abroad.",
+        "Technical and Digital Skills": [
+            "Understanding of national employment laws",
+            "Knowledge of international HR policies and programs",
+            "Understanding of cross-national team dynamics and communication systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Team communication within international context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of HR policies on international business success",
+            "Problem-solving in cross-national team dynamics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of human resources in international context",
+            "Leadership techniques in international context"
+        ]
+    },
+    {
+        "courseTitle": "Globalization and International Trade",
+        "courseCode": "INBU 438",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an economic overview of international trade and the theories that support globalization and international trade policies. The course introduces students to the global value chain and its stakeholders, with an emphasis on costs, transportation, infrastructure, and technology. Students will examine supply chain management processes that organizations use to successfully manage import and export operations.",
+        "Technical and Digital Skills": [
+            "Understanding of global value chain",
+            "Knowledge of supply chain management processes",
+            "Familiarity with import and export operations",
+            "Understanding of international trade policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to identify and engage with stakeholders in the global value chain",
+            "Interacting with international trade entities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Economic analysis of international trade",
+            "Evaluation of international trade costs",
+            "Understanding and analysis of transportation and infrastructure aspects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing global supply chains",
+            "Influencing international trade policies",
+            "Leadership in managing import and export operations"
+        ]
+    },
+    {
+        "courseTitle": "Global Business",
+        "courseCode": "INBU 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Lecture, discussion and case studies.  A capstone course to integrate and apply the theories and concepts learned in required international business courses to the operations of international business organizations.",
+        "Technical and Digital Skills": [
+            "International business operations",
+            "Application of theories and concepts",
+            "Case study analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation of business theories and concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration of international business theories and concepts",
+            "Problem-solving in international business context",
+            "Decision making based on case studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational understanding of international businesses",
+            "Leadership in international business context"
+        ]
+    },
+    {
+        "courseTitle": "International Business Seminar Abroad",
+        "courseCode": "INBU 463",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study tour abroad arranged in cooperation with a foreign university, including lectures on international business topics and visits to international firms and economic/business organizations.  Written work required.",
+        "Technical and Digital Skills": [
+            "International business research",
+            "Composing professional reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Collaborative work with foreign counterparts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of international business environments",
+            "Problem-solving in cross-cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of activities in foreign settings",
+            "Leading discussions on international business topics"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in International Business",
+        "courseCode": "INBU 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Affords students the opportunity to undertake independent study under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback interpretation and implementation",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Directed self-learning",
+            "Critical evaluation of international business concepts",
+            "Problem-solving in international business context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent task management",
+            "Self-discipline and self-motivation",
+            "Research planning and execution"
+        ]
+    },
+    {
+        "courseCode": "INBU 620",
+        "courseTitle": "International Business Issues",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will develop a deep understanding of the issues facing international firms.  The course will use case studies, lectures, and simulations to highlight the cultural, organizational, and financial challenges to doing business in various regions of the world with particular emphasis on Europe, China, and India.",
+        "Technical and Digital Skills": [
+            "Financial analysis",
+            "Cultural competency in business contexts",
+            "Understanding of international business laws and regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation and conflict resolution in international business settings",
+            "Presentation of business strategies and case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of business case studies",
+            "Risk assessment in different global markets",
+            "Strategic problem-solving in international business contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptability to different business environments",
+            "Leading and managing diverse teams",
+            "Project management in international business operations"
+        ]
+    },
+    {
+        "courseCode": "INBU 630",
+        "courseTitle": "Fundamentals of International Business",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers topics from management, marketing, economics, and finance that are important to the study of international business.",
+        "Technical and Digital Skills": [
+            "Understanding of global financial systems",
+            "Knowledge of international marketing strategies",
+            "Familiarity with global economic structures",
+            "Understanding of international management principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation with international partners",
+            "Building international business relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of global market trends",
+            "Identifying and managing international business risks",
+            "Evaluating international economic conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading international teams",
+            "Managing global projects",
+            "Organizing international marketing campaigns"
+        ]
+    },
+    {
+        "courseCode": "INBU 631",
+        "courseTitle": "International Business Issues",
+        "academicLevel": "graduate",
+        "courseDescription": "This 2 hour capstone course covers topics facing international firms.  This course uses a combination of case studies, lectures, and simulations to highlight the cultural, organizational, and financial challenges to doing business in various regions of the world.",
+        "Technical and Digital Skills": [
+            "Financial analysis",
+            "Simulation modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Case study analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Strategic decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational management in diverse cultures",
+            "Leadership in international business context"
+        ]
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "courseTitle": "Introduction to Naval Science",
+        "courseCode": "NAVS 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "General introduction to the naval service.  Particular emphasis placed on the mission, organization, regulations and broad warfare components of the Navy and Marine Corps.  Includes customs, discipline, courtesies, leadership, core values and shipboard nomenclatures.",
+        "Technical and Digital Skills": [
+            "Understanding of naval service organization",
+            "Knowledge of broad warfare components",
+            "Familiarity with shipboard nomenclatures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Adherence to naval service customs and courtesies",
+            "Effective communication within naval service regulations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Discipline in problem-solving situations",
+            "Analysis of naval warfare strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within a naval context",
+            "Implementation of core naval values",
+            "Organization in alignment with naval service regulations"
+        ]
+    },
+    {
+        "courseTitle": "Naval Sea Power and Maritime Affairs",
+        "courseCode": "NAVS 102",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the evolution of the major world naval and maritime nations. The role of American naval and maritime affairs in the rivalries of the great world powers during the colonial period, the spread of revolutionary movements, and the era of civil and international conflicts in the 19th and 20th centuries.",
+        "Technical and Digital Skills": [
+            "Historical research methods",
+            "Digital archival research",
+            "Data analysis and interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of complex historical narratives",
+            "Written and verbal communication of historical events"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of historical context",
+            "Evaluating historical sources",
+            "Understanding and interpreting geopolitical trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management in historical research",
+            "Leadership in collaborative research"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory I",
+        "courseCode": "NAVS 111+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers basic military formations, drill movements, commands, customs, courtesies, honors and inspection.  Lecture and discussion topics include security, equal opportunity and military justice.  First year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Understanding of military formations",
+            "Knowledge of drill movements",
+            "Execution of commands",
+            "Understanding of military customs and courtesies",
+            "Honors and inspection practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in a military context",
+            "Respectful interaction within military hierarchy",
+            "Equal opportunity awareness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting security protocols",
+            "Understanding military justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership within military formations",
+            "Organizing drill movements",
+            "Implementing commands"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory I",
+        "courseCode": "NAVS 112+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continues basic military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture and discussion topics include cruise preparation, safety education, administration, security, equal opportunity and military justice.  First year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Military drill movements",
+            "Safety education",
+            "Security administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and executing commands",
+            "Maintaining military courtesies and customs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cruise preparation",
+            "Security administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating military formations",
+            "Conducting inspections",
+            "Understanding military justice",
+            "Promoting equal opportunity"
+        ]
+    },
+    {
+        "courseTitle": "Naval Ships Systems I",
+        "courseCode": "NAVS 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Familiarizes students with types, structure and purpose of naval engineering systems, propulsion systems, auxiliary power systems, electrical systems and ship control.  Ship design and stability characteristics are examined.",
+        "Technical and Digital Skills": [
+            "Understanding of naval engineering systems",
+            "Knowledge of propulsion systems",
+            "Familiarity with auxiliary power systems",
+            "Proficiency in electrical systems",
+            "Skills in ship control",
+            "Knowledge of ship design and stability characteristics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to evaluate and analyze ship design",
+            "Ability to troubleshoot problems in naval engineering systems",
+            "Assessment of stability characteristics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Naval Ships Systems II",
+        "courseCode": "NAVS 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to theory and principles of operation of naval weapons systems.  Covers types of weapons and fire control systems, capabilities/limitations, theory of target acquisition, identification and tracking, trajectory principles and basics of naval ordnance.",
+        "Technical and Digital Skills": [
+            "Understanding of naval weapons systems",
+            "Knowledge of fire control systems",
+            "Ability to identify and track targets",
+            "Understanding of trajectory principles",
+            "Basic knowledge of naval ordnance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing capabilities and limitations of weapon systems",
+            "Application of theory for target acquisition",
+            "Analysis and application of trajectory principles"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory II",
+        "courseCode": "NAVS 211+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture/discussion topics include cruise preparation/evaluation, security, administration and military justice.  Second year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Military formations",
+            "Drill movements",
+            "Security administration",
+            "Military justice administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Giving and receiving commands",
+            "Understanding and following customs and courtesies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cruise preparation and evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading inspections",
+            "Implementing military honors"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory II",
+        "courseCode": "NAVS 212+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture and discussion topics include cruise preparation and evaluation, safety, administration, security, equal opportunity and military justice.  Second year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Military drill movements",
+            "Command execution",
+            "Administration of military procedures",
+            "Understanding and application of military justice",
+            "Safety protocols",
+            "Security measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear and concise command communication",
+            "Respect for and adherence to military customs and courtesies",
+            "Promotion of equal opportunity within a military context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cruise preparation and evaluation",
+            "Problem-solving in the context of military administration and security",
+            "Analyzing situations under the scope of military justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in military formations",
+            "Organizing and conducting military inspections",
+            "Ensuring safety and security in a military organization"
+        ]
+    },
+    {
+        "courseTitle": "Navigation and Naval Operations I",
+        "courseCode": "NAVS 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In-depth study of piloting including theory, principles and procedures.  Includes use of charts, visual and electronic aids, and theory and operation of compasses.  Other topics include tides, currents, effects of wind and weather, and nautical rules of the road.",
+        "Technical and Digital Skills": [
+            "Chart Reading",
+            "Operation of Electronic Navigation Aids",
+            "Compass Operation",
+            "Understanding of Wind and Weather Effects on Navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Navigational Problem Solving",
+            "Analysis of Tides and Currents",
+            "Navigational Rule Interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigational Planning",
+            "Execution of Navigation Procedures"
+        ]
+    },
+    {
+        "courseTitle": "Navigation and Naval Operations II",
+        "courseCode": "NAVS 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Relative motion vector-analysis theory, relative motion problems, formation tactics, and ship employment.  Also includes an introduction to naval operations and operations analysis, ship behavior and characteristics in maneuvering, applied aspects of ship handling, and afloat communications.  Concepts in naval leadership and naval operations reinforced through case studies.",
+        "Technical and Digital Skills": [
+            "Relative motion vector-analysis",
+            "Ship handling",
+            "Afloat communications",
+            "Understanding of ship behavior and characteristics in maneuvering"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating in naval operations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Solving relative motion problems",
+            "Operations analysis",
+            "Formation tactics",
+            "Ship employment strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Naval leadership",
+            "Case study analysis",
+            "Strategic planning in naval operations"
+        ]
+    },
+    {
+        "courseTitle": "Evolution of Warfare",
+        "courseCode": "NAVS 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Explores the basic concepts for understanding the operational art of warfare from the beginning of recorded history to the present.",
+        "Technical and Digital Skills": [
+            "Historical data analysis",
+            "Military technology understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of historical concepts",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Strategic analysis",
+            "Historical context interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of military strategy and tactics",
+            "Leadership studies in historical context"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory III",
+        "courseCode": "NAVS 311+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture/discussion topics include cruise preparation and evaluation, security and military justice. Third year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Military drill movements",
+            "Commands execution",
+            "Military inspections",
+            "Understanding of naval customs and courtesies",
+            "Security practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Command and control communication",
+            "Cultural competence in military customs and courtesies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cruise preparation and evaluation",
+            "Understanding and application of military justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in military formations",
+            "Organizational skills for cruise preparation",
+            "Execution of military honors"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory III",
+        "courseCode": "NAVS 312+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture and discussion topics include cruise preparation and evaluation, safety, administration, security, equal opportunity and military justice.  Third year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Understanding of military formations",
+            "Drill movements execution",
+            "Knowledge of military commands",
+            "Safety protocols",
+            "Administration and security procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and application of military customs and courtesies",
+            "Proper execution of honors and inspections",
+            "Equal opportunity awareness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cruise preparation",
+            "Military justice application",
+            "Evaluation of military procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in military formations",
+            "Organizational skills for cruise preparation",
+            "Administrative management",
+            "Security enforcement"
+        ]
+    },
+    {
+        "courseTitle": "Study of selected topics",
+        "courseCode": "NAVS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Leadership and Management I",
+        "courseCode": "NAVS 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The fundamentals of the managerial process (planning, organization, directing, and controlling) are considered in their relationship to the effectiveness of naval organization and readiness.  Coverage includes human resources management, naval personnel management, material management and administration of division discipline.",
+        "Technical and Digital Skills": [
+            "Human resources management",
+            "Naval personnel management",
+            "Material management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Administration of division discipline",
+            "Directing teams and personnel"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and organization",
+            "Identifying and improving organizational effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing the managerial process",
+            "Directing and controlling operations"
+        ]
+    },
+    {
+        "courseTitle": "Leadership and Ethics",
+        "courseCode": "NAVS 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Capstone course, designed to equip the student with the critical thinking skills to address moral and ethical dilemmas frequently faced by naval officers.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Addressing moral and ethical dilemmas",
+            "Understanding and respecting diverse viewpoints"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing and resolving ethical dilemmas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making under moral and ethical considerations",
+            "Leading with integrity",
+            "Navigating ethical challenges in leadership roles"
+        ]
+    },
+    {
+        "courseTitle": "Fundamentals of Maneuver Warfare",
+        "courseCode": "NAVS 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Broad aspects of warfare and their interactions with maneuver warfare doctrine. Focus on the United States Marine Corps as the premier maneuver warfare fighting institution. Historical influences on current tactical, operational, and strategic implications of maneuver warfare practices. Case studies. Enrollment preference to NROTC students.",
+        "Technical and Digital Skills": [
+            "Understanding of maneuver warfare doctrine",
+            "Analysis of historical warfare practices",
+            "Case study research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting and communicating tactical, operational, and strategic implications",
+            "Collaborating with diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current warfare practices based on historical influences",
+            "Critical evaluation of warfare tactics and strategies",
+            "Problem-solving in high-pressure situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in a combat environment",
+            "Strategic planning and execution",
+            "Organizing and leading diverse teams"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory IV",
+        "courseCode": "NAVS 411+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers military formations, drills, commands, customs, courtesies, honors and inspections.  Lecture/discussion topics include precommissioning preparation, administration, equal opportunity, safety and military justice.  Fourth year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Military drills execution",
+            "Military formations execution",
+            "Administration of military operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Adherence to military customs and courtesies",
+            "Effective communication of commands",
+            "Interpersonal communication within a military context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation and application of military justice",
+            "Risk assessment and safety protocol adherence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Precommissioning preparation",
+            "Leadership in military context",
+            "Equal opportunity enforcement"
+        ]
+    },
+    {
+        "courseTitle": "Naval Laboratory IV",
+        "courseCode": "NAVS 412+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Military formations, drill movements, commands, customs, courtesies, honors and inspections.  Lecture and discussion topics include precommissioning preparation, safety, administration, security, equal opportunity and military justice.  Fourth year Naval Science students only.",
+        "Technical and Digital Skills": [
+            "Understanding of military formations and drills",
+            "Knowledge of military customs, courtesies, and honors",
+            "Understanding of military administration and security",
+            "Understanding of equal opportunity and military justice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to give and follow commands",
+            "Understanding and practicing military courtesies",
+            "Promotion of equal opportunity within a team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Precommissioning preparation",
+            "Safety procedures analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in military formations",
+            "Conducting inspections",
+            "Administration of military operations",
+            "Promotion of equal opportunity within a team"
+        ]
+    }
+]

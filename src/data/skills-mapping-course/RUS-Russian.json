@@ -1,0 +1,204 @@
+[
+    {
+        "courseTitle": "Beginning Russian I",
+        "courseCode": "RUS 101F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drill and discussion of grammar principles, written exercises, and reading assignments.",
+        "Technical and Digital Skills": [
+            "Understanding spoken Russian",
+            "Verbal communication in Russian",
+            "Written Russian exercises",
+            "Reading in Russian"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Russian",
+            "Listening comprehension in Russian",
+            "Cultural understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Grammar problem solving",
+            "Contextual understanding"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Russian II",
+        "courseCode": "RUS 102F",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Aural comprehension, oral drill and discussion of grammar principles, written exercises, and reading assignments.",
+        "Technical and Digital Skills": [
+            "Russian aural comprehension",
+            "Russian grammar principles",
+            "Russian reading comprehension",
+            "Russian written exercises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication in Russian",
+            "Active participation in language drills",
+            "Discussion participation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of Russian texts",
+            "Application of grammar rules"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Russian",
+        "courseCode": "RUS 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives.  These courses will appear in the course schedule.  Highly interactive.",
+        "Technical and Digital Skills": [
+            "Interactive digital platforms usage",
+            "Online research for topic discussions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Verbal communication in Russian",
+            "Group discussions",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing texts in Russian",
+            "Critical evaluation of various topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Time management for self-study"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Russian",
+        "courseCode": "RUS 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives.  These courses will appear in the course schedule.  Highly interactive.",
+        "Technical and Digital Skills": [
+            "Understanding of Russian language and culture",
+            "Proficiency in reading and writing Russian"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interactive participation in class discussions",
+            "Cross-cultural communication",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of Russian texts",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active participation in group activities",
+            "Peer leadership"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Russian I",
+        "courseCode": "RUS 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Graded readings with grammar review followed in the second semester by an introduction to Russian literature.",
+        "Technical and Digital Skills": [
+            "Reading in Russian",
+            "Grammar review",
+            "Introduction to Russian literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication in Russian",
+            "Understanding and interpreting Russian texts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting Russian literature"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Russian II",
+        "courseCode": "RUS 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Graded readings with grammar review followed in the second semester by an introduction to Russian literature.",
+        "Technical and Digital Skills": [
+            "Russian grammar comprehension",
+            "Russian literature analysis",
+            "Reading in Russian"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Russian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting Russian texts",
+            "Critical evaluation of Russian literature"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Russian",
+        "courseCode": "RUS 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding cultural nuances",
+            "Verbal and written communication in Russian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of Russian texts",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Russian",
+        "courseCode": "RUS 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating in Russian",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting Russian texts",
+            "Critical thinking in Russian"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Contemporary Russian Conversation",
+        "courseCode": "RUS 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected dialogues emphasizing the spoken language and designed to improve oral proficiency and aural comprehension.",
+        "Technical and Digital Skills": [
+            "Russian language proficiency",
+            "Aural comprehension",
+            "Oral proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpersonal communication in Russian",
+            "Verbal expression in Russian",
+            "Active listening in Russian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting spoken Russian",
+            "Problem-solving in language comprehension"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Russian",
+        "courseCode": "RUS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed as electives.  These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural communication",
+            "Fluent communication in Russian",
+            "Written communication in Russian"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting Russian texts",
+            "Contextual analysis of Russian literature",
+            "Critical evaluation of Russian historical events"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

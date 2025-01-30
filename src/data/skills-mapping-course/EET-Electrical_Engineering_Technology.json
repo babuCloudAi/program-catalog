@@ -1,0 +1,913 @@
+[
+    {
+        "courseTitle": "Electrical Circuits I",
+        "courseCode": "EET 110",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamentals of electrical circuits including basic electrical parameters and variables, circuit laws and theorems, mesh analysis, node analysis, Thevenin's and Norton's Theorems, capacitance, inductance, magnetism, and elementary RC and RL transients.",
+        "Technical and Digital Skills": [
+            "Understanding basic electrical parameters and variables",
+            "Applying circuit laws and theorems",
+            "Performing mesh and node analysis",
+            "Utilizing Thevenin's and Norton's Theorems",
+            "Handling capacitance and inductance",
+            "Analyzing magnetism",
+            "Solving elementary RC and RL transient circuits"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing circuit problems",
+            "Applying theoretical knowledge to practical circuits",
+            "Identifying and solving circuit malfunctions",
+            "Troubleshooting circuit issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamentals of Logic Circuits",
+        "courseCode": "EET 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to logic circuits, Boolean algebra, digital interface devices, combinational and sequential logic design, and microprocessor fundamentals.",
+        "Technical and Digital Skills": [
+            "Logic circuit design",
+            "Boolean algebra application",
+            "Digital interface device implementation",
+            "Combinational logic design",
+            "Sequential logic design",
+            "Microprocessor fundamentals understanding"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in logic circuit design",
+            "Analytical approach to Boolean algebra problems",
+            "Problem-solving in sequential logic design",
+            "Analyzing digital interface device functionalities"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Logic Circuits Laboratory",
+        "courseCode": "EET 125",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Team-oriented experiments in basic combinational and sequential logic circuits and an introduction to fundamental microprocessors.",
+        "Technical and Digital Skills": [
+            "Designing basic combinational and sequential logic circuits",
+            "Implementing logic circuits on breadboards",
+            "Understanding microprocessor functionalities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating in team-oriented experiments",
+            "Presenting experimental findings to peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting circuit errors",
+            "Analyzing logic circuit performance",
+            "Debugging microprocessor programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group experiments",
+            "Managing time effectively during lab sessions"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "EET 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review process",
+            "Data analysis techniques",
+            "Information retrieval strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative group work",
+            "Peer feedback evaluation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Hypothesis testing",
+            "Problem identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team coordination",
+            "Time management",
+            "Decision-making skills"
+        ]
+    },
+    {
+        "courseTitle": "Electrical Circuits II",
+        "courseCode": "EET 200",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A continuation of EET 110 with emphasis on steady-state ac circuit analysis and applications. Topics include alternating current and voltage, phasors and complex numbers and their applications in circuit analysis, series and parallel resonance, complex power, and polyphase circuits.",
+        "Technical and Digital Skills": [
+            "AC circuit analysis",
+            "Phasors and complex numbers application",
+            "Series and parallel resonance analysis",
+            "Complex power calculation",
+            "Polyphase circuit analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in circuit analysis",
+            "Problem-solving in complex circuit scenarios",
+            "Analyzing circuit behavior based on alternating current and voltage"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electrical Circuits Laboratory",
+        "courseCode": "EET 205",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Electrical laboratory instruction including test equipment, measurements, data analysis, verification of circuit laws, formal report preparation, and circuit implementation.",
+        "Technical and Digital Skills": [
+            "Handling test equipment",
+            "Data analysis",
+            "Verification of circuit laws",
+            "Circuit implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative teamwork in lab settings",
+            "Effective communication of experimental results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting circuit issues",
+            "Interpreting measurement data",
+            "Analyzing circuit behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively during experiments",
+            "Coordinating group tasks for lab projects"
+        ]
+    },
+    {
+        "courseTitle": "Electronic Circuits",
+        "courseCode": "EET 210",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Semiconductor properties and semiconductor devices including diodes, MOS field-effect transistors, junction field-effect transistors and bipolar junction transistors. The ideal operational amplifier and its applications. FET and BJT biasing, including constant current biasing, and amplifier circuits with emphasis on DC modeling and graphical analysis, including Multisim simulation of circuit biasing.",
+        "Technical and Digital Skills": [
+            "Semiconductor properties understanding",
+            "Diode functionality comprehension",
+            "MOSFET operation understanding",
+            "JFET characteristics comprehension",
+            "BJT functionality comprehension",
+            "Ideal operational amplifier knowledge",
+            "DC modeling of circuits",
+            "Graphical analysis of circuits",
+            "Multisim simulation proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing circuit behavior",
+            "Troubleshooting circuit issues",
+            "Designing amplifier circuits",
+            "Evaluating biasing methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electronic Circuits Laboratory",
+        "courseCode": "EET 225",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical design, construction, testing and troubleshooting of electronic circuits, including single state and multistage amplifiers, power amplifiers, linear integrated circuits, and control devices.",
+        "Technical and Digital Skills": [
+            "Designing electronic circuits",
+            "Constructing electronic circuits",
+            "Testing electronic circuits",
+            "Troubleshooting electronic circuits",
+            "Building single-stage amplifiers",
+            "Building multistage amplifiers",
+            "Constructing power amplifiers",
+            "Utilizing linear integrated circuits",
+            "Implementing control devices"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing circuit performance",
+            "Identifying circuit issues",
+            "Troubleshooting circuit problems",
+            "Evaluating amplifier functionality"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Microprocessors and Microcontrollers",
+        "courseCode": "EET 261",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction of software and hardware that relates to PIC16FXXX 8 bit microprocessor and microcontroller architectures, interface circuitry, and system designs. Programming in controls of internal and external hardware/peripherals, communication protocols between the logic circuits, peripherals, and MCUs. The ASM programming and design is the focus and C coding will also be introduced.",
+        "Technical and Digital Skills": [
+            "PIC16FXXX architecture understanding",
+            "Interface circuitry design",
+            "System design for microprocessors and microcontrollers",
+            "ASM programming for microprocessors",
+            "C coding for microcontrollers",
+            "Programming internal and external hardware/peripherals",
+            "Communication protocols implementation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting hardware/peripheral issues",
+            "Analyzing communication protocols",
+            "Debugging ASM programming code",
+            "Analyzing system designs for optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Programmable Logic Controllers (PLCs)",
+        "courseCode": "EET 263",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the design and programming of automatic machine controls.  Topics include controls diagrams, programmable logic controllers, ladder logic programming, interfacing, sensors, transducers, encoders, analog I/O, PID, motor controls, codes and standards, controls programming languages, controls safety, and pneumatics.  Lab assignments include ladder logic program simulations.",
+        "Technical and Digital Skills": [
+            "Design of automatic machine controls",
+            "Programming of programmable logic controllers (PLCs)",
+            "Ladder logic programming",
+            "Interfacing with sensors, transducers, and encoders",
+            "Analog I/O configuration",
+            "PID control implementation",
+            "Motor controls programming",
+            "Understanding codes and standards related to controls",
+            "Knowledge of controls programming languages",
+            "Controls safety protocols",
+            "Pneumatics control"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of controls diagrams",
+            "Troubleshooting control system issues",
+            "Simulating and testing ladder logic programs",
+            "Analyzing sensor data for control optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "EET 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Circuit Analysis",
+        "courseCode": "EET 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "General analysis of linear networks using classical methods, Laplace transforms and computer-aided methods. Topics include single element transients, first- and second-order circuits, transfer function analysis, Bode plots and waveform analysis.  Circuit analysis software is used to support the analytical methods.",
+        "Technical and Digital Skills": [
+            "Analysis of linear networks using classical methods",
+            "Laplace transforms",
+            "Computer-aided circuit analysis software",
+            "Transfer function analysis",
+            "Bode plots",
+            "Waveform analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Single element transients analysis",
+            "First- and second-order circuits analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Digital Electronics",
+        "courseCode": "EET 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "First course in an upper division sequence in digital electronics circuits and systems.  Topics include a comprehensive treatment of Boolean algebra, computer arithmetic, and applications of digital integrated circuits.",
+        "Technical and Digital Skills": [
+            "Boolean algebra",
+            "Computer arithmetic",
+            "Digital integrated circuits design",
+            "Logic gate implementation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing digital circuits",
+            "Troubleshooting circuit issues",
+            "Optimizing circuit performance"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Principles of Communication Systems",
+        "courseCode": "EET 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Overview of communications systems, including both time and frequency domain analysis. Topics include spectrum analysis, analog modulation methods, digital modulation methods, receiver design, and multiplexing methods. Virtual laboratory projects utilize simulation software.",
+        "Technical and Digital Skills": [
+            "Time and frequency domain analysis",
+            "Spectrum analysis",
+            "Analog modulation methods",
+            "Digital modulation methods",
+            "Receiver design",
+            "Multiplexing methods",
+            "Virtual laboratory projects using simulation software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of communication systems",
+            "Analyzing simulation results",
+            "Troubleshooting virtual laboratory projects"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Digital Electronics Laboratory",
+        "courseCode": "EET 315",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Application-oriented experiments and design problems in digital electronics.  Multistage prototype construction requiring system design, module interface, and Engineering Design Journaling.",
+        "Technical and Digital Skills": [
+            "Prototype construction",
+            "System design",
+            "Module interface design",
+            "Digital electronics experimentation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in design problems",
+            "Experimental troubleshooting",
+            "Analyzing system performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Engineering Design Journaling",
+            "Project management in prototype construction"
+        ]
+    },
+    {
+        "courseTitle": "Microcontroller Applications",
+        "courseCode": "EET 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the second course in the digital electronics course sequence. The course will focus on software/hardware design of microprocessors and microcontrollers in C under ARM M4 and PIC microcontrollers, interface circuitry, simulation, and system designs in CAD circuit layout. The focus will be on application of microprocessor-based systems design.",
+        "Technical and Digital Skills": [
+            "C programming for microcontrollers",
+            "ARM M4 microcontroller programming",
+            "PIC microcontroller programming",
+            "CAD circuit layout design",
+            "System designs in simulation software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Debugging microprocessor-based systems",
+            "Troubleshooting interface circuitry issues",
+            "Optimizing system designs for efficiency and performance"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Microcontroller Applications Laboratory",
+        "courseCode": "EET 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Hands-on implementation of microprocessor and microcontroller systems and peripheral interfacing experiments. Emphasis is placed on the hardware and software design and firmware construction in embedded system applications.",
+        "Technical and Digital Skills": [
+            "Microprocessor systems implementation",
+            "Microcontroller systems design",
+            "Peripheral interfacing",
+            "Embedded system firmware construction"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Hardware troubleshooting",
+            "Software debugging",
+            "System optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Linear Electronics",
+        "courseCode": "EET 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "General treatment of linear electronic circuits with emphasis on the operational amplifier and integrated circuits derived from it. Topics include various amplifier circuits and converters, integrators and differentiators, comparators, waveform generators, active filters, A/D and D/A converters, and regulators. Design of circuits to meet specifications.  Circuit analysis software is used to validate some of the designs.",
+        "Technical and Digital Skills": [
+            "Operational amplifier circuit design",
+            "Integrated circuit analysis",
+            "Amplifier circuit design",
+            "Converter circuit design",
+            "Comparator circuit design",
+            "Waveform generator design",
+            "Active filter design",
+            "A/D and D/A converter design",
+            "Regulator circuit design",
+            "Circuit analysis software utilization"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Circuit specifications analysis",
+            "Design validation using software",
+            "Troubleshooting electronic circuits"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Linear Electronics Laboratory",
+        "courseCode": "EET 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Design testing, and evaluation of 'linear' electronic circuits and subsystems with primary emphasis on circuit components and modules. Measurement techniques, instrumentation and error analysis. Simulation of circuit designs using Multisim including transient response and frequency response.",
+        "Technical and Digital Skills": [
+            "Designing linear electronic circuits",
+            "Testing electronic circuits",
+            "Evaluating circuit components",
+            "Simulation using Multisim",
+            "Transient response analysis",
+            "Frequency response analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Error analysis in electronic circuits",
+            "Troubleshooting circuit issues",
+            "Critical evaluation of circuit designs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fundamentals of Electrical Technology",
+        "courseCode": "EET 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A comprehensive course in electrical engineering technology for nonmajors. Major topics are basic electricity (AC and DC), circuit analysis, linear electronics and digital electronics. Not open to electrical engineering technology majors except as a substitute for EET 110 in special cases.",
+        "Technical and Digital Skills": [
+            "Basic electricity (AC and DC) knowledge",
+            "Circuit analysis techniques",
+            "Linear electronics understanding",
+            "Digital electronics comprehension"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting electrical circuits",
+            "Analyzing electronic components",
+            "Applying circuit theories to practical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electrical Laboratory",
+        "courseCode": "EET 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected electrical laboratory topics for nonmajors including basic measurements, instrumentation, operational amplifiers, digital circuits, and rotating machines. Not open to electrical engineering technology majors.",
+        "Technical and Digital Skills": [
+            "Basic measurements",
+            "Instrumentation",
+            "Operational amplifiers",
+            "Digital circuits",
+            "Rotating machines"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting electrical circuits",
+            "Analyzing measurement data",
+            "Identifying circuit faults"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electrical Power and Machinery",
+        "courseCode": "EET 360",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of synchronous and asynchronous AC machinery, DC machinery, power distribution systems, and instrumentation.",
+        "Technical and Digital Skills": [
+            "AC machinery operation",
+            "DC machinery maintenance",
+            "Power distribution system design",
+            "Instrumentation calibration"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting machinery issues",
+            "Analyzing power system efficiency",
+            "Interpreting instrumentation data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Electrical Power and Machinery Laboratory",
+        "courseCode": "EET 365W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course dealing with electrical power and machinery as covered in EET 360. Formal written reports will be required.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Electrical power systems analysis",
+            "Machinery operation and maintenance",
+            "Data collection and analysis for power systems",
+            "Lab equipment calibration and troubleshooting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective technical report writing",
+            "Collaboration in lab settings",
+            "Clear and concise communication of experimental results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and resolving power system issues",
+            "Analyzing machinery performance data",
+            "Troubleshooting electrical faults in equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab projects and deadlines",
+            "Coordinating with team members for experiments",
+            "Taking initiative in lab activities"
+        ]
+    },
+    {
+        "courseTitle": "Electrical Power and Machinery Laboratory",
+        "courseCode": "EET 366",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course dealing with electrical power and machinery as covered in EET 360. Students taking this lab should not take EET 365W.",
+        "Technical and Digital Skills": [
+            "Electrical circuit analysis",
+            "Power system modeling",
+            "Machinery troubleshooting",
+            "Lab equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative lab work",
+            "Technical report writing",
+            "Effective lab communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting electrical issues",
+            "Analyzing machinery performance data",
+            "Interpreting experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Lab equipment maintenance",
+            "Team coordination in lab experiments",
+            "Time management for lab tasks"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "EET 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Student participation evaluation",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of work experience",
+        "Organizational and Leadership Skills": "Department and Career Development Services coordination"
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "EET 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.",
+        "Technical and Digital Skills": [
+            "Career-related experience in a specific field",
+            "Hands-on application of academic knowledge",
+            "Utilizing industry-specific tools and software",
+            "Implementing theoretical concepts in practical settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with colleagues and supervisors",
+            "Networking within the industry",
+            "Collaborating in a team setting",
+            "Receiving and incorporating feedback effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and resolving issues in real-world scenarios",
+            "Adapting to unexpected challenges",
+            "Critical evaluation of work performance",
+            "Applying problem-solving strategies to achieve desired outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively to meet project deadlines",
+            "Taking initiative in project tasks",
+            "Delegating responsibilities within a team",
+            "Demonstrating accountability and reliability in work assignments"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "EET 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Available for pass/fail grading only.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Energy and The Environment",
+        "courseCode": "EET 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of existing and new energy production methods, energy as a purchased/traded commodity, physics of energy, positive and negative implications for the environment, economics of energy alternatives, and resulting human/social impacts.",
+        "Technical and Digital Skills": [
+            "Understanding energy production methods",
+            "Knowledge of energy economics",
+            "Physics of energy applications",
+            "Environmental impact assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of energy concepts",
+            "Collaboration on energy projects",
+            "Negotiation skills in energy trading"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of energy sources",
+            "Analyzing human/social impacts of energy decisions",
+            "Problem-solving in energy alternatives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in energy initiatives",
+            "Leadership in sustainable energy practices"
+        ]
+    },
+    {
+        "courseTitle": "Instrumentation",
+        "courseCode": "EET 373",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamental concepts of electromechanical devices used in mechatronics and automation control systems. The working principles, calibration, interfacing methods and control loops of analog and digital instrumentation devices in a process control system.  The instrumentation devices, including sensors, actuators, signal conditioning circuits and data acquisition boards, will be used in class projects as basic feedback control blocks in practical simulation and PLC-based mechatronics systems. The simulation projects will use PLC hardware, MATLAB and/or LabView software.",
+        "Technical and Digital Skills": [
+            "Understanding of electromechanical devices in mechatronics",
+            "Calibration of instrumentation devices",
+            "Interfacing methods for analog and digital devices",
+            "Control loops in process control systems",
+            "Working with sensors and actuators",
+            "Signal conditioning circuit design",
+            "Data acquisition board utilization",
+            "PLC hardware programming",
+            "MATLAB and/or LabView software proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting instrumentation devices",
+            "Simulation of feedback control blocks",
+            "Analyzing data from instrumentation devices",
+            "Designing practical simulation projects",
+            "Implementing PLC-based mechatronics systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "EET 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis techniques",
+            "Literature review methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Effective writing skills",
+            "Team collaboration abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking skills",
+            "Problem identification and resolution",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills",
+            "Time management abilities",
+            "Decision-making skills"
+        ]
+    },
+    {
+        "courseTitle": "Topics",
+        "courseCode": "EET 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis techniques",
+            "Literature review methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation skills",
+            "Effective writing skills",
+            "Team collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research design",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Decision-making skills"
+        ]
+    },
+    {
+        "courseTitle": "Data Communications and Computer Networks",
+        "courseCode": "EET 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course provides an overview of the local area networks (LANs), wide-area networks (WANs), and backbone technologies. It combines the fundamental concepts of data communications and networking with practical applications and emphasizes the OSI reference model and its relationship to traditional and next-generation LAN/WAN technologies, as well as general topics such as network topology, network interface, client/server hardware, bridges and routers. Hands-on activities using Wireshark are included.",
+        "Technical and Digital Skills": [
+            "Understanding of local area networks (LANs) and wide-area networks (WANs)",
+            "Knowledge of backbone technologies",
+            "Familiarity with OSI reference model",
+            "Experience with network topology",
+            "Hands-on experience using Wireshark"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing network interface configurations",
+            "Troubleshooting client/server hardware issues",
+            "Identifying and resolving network connectivity problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Wireless Communication Systems",
+        "courseCode": "EET 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include digital encoding techniques, signal-to-noise comparisons of different analog and digital modulation methods, link analysis, basic data transmission, cellular networks, wireless standards, basic computer networks framing and protocols, and satellite communication. System level simulations for determining subsystem design requirements and overall performance.",
+        "Technical and Digital Skills": [
+            "Digital encoding techniques",
+            "Analog and digital modulation methods",
+            "Link analysis",
+            "Basic data transmission",
+            "Cellular networks",
+            "Wireless standards",
+            "Computer networks framing and protocols",
+            "Satellite communication",
+            "System level simulations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of system performance",
+            "Subsystems design requirements determination"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Logic Design",
+        "courseCode": "EET 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced digital logic design and circuit reduction.  Topics include lattice structure, symmetry recognition and simplification, threshold logic, design-for-testing techniques, shortest path test planning, adaptive testing, and fuzzy logic.  Computer assignments include design simulation and testing.",
+        "Technical and Digital Skills": [
+            "Advanced digital logic design",
+            "Circuit reduction",
+            "Lattice structure recognition",
+            "Symmetry recognition and simplification",
+            "Threshold logic implementation",
+            "Design-for-testing techniques application",
+            "Shortest path test planning",
+            "Adaptive testing implementation",
+            "Fuzzy logic design",
+            "Design simulation and testing"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in circuit reduction",
+            "Logical reasoning in design-for-testing techniques",
+            "Analytical skills in shortest path test planning",
+            "Problem-solving in adaptive testing scenarios",
+            "Analyzing fuzzy logic outcomes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Motion Control Systems",
+        "courseCode": "EET 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of modern control devices and applications including electrical, mechanical and pneumatic types. This course is a study of modern electro-mechanical devices and advanced PLCs as applied to modern automation process control systems. The course covers motion control mathematical modeling, design using advanced PLCs and motion control PLC module cards, closed loop control theory and simulations. The emphasis is on understanding the underlying principles that support the building blocks of industrial process control systems.",
+        "Technical and Digital Skills": [
+            "Understanding modern control devices (electrical, mechanical, pneumatic)",
+            "Advanced PLC programming",
+            "Motion control mathematical modeling",
+            "Design using advanced PLCs",
+            "Closed loop control theory",
+            "Simulations of control systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing control system performance",
+            "Troubleshooting control system errors",
+            "Optimizing motion control algorithms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Microcontrollers/Embedded-Based Designs",
+        "courseCode": "EET 470",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced embedded system designs. Topics focus in ADC, DAC, EEPROM External Memories, temperature sensor, digital RF wireless communications, communications in synchronous and asynchronous serial forms of SCI, SPI, & I2C, and parallel communication in system integration and design. The 32 bit ARM M4 in C code designs will be used in the course.",
+        "Technical and Digital Skills": [
+            "Advanced embedded system designs",
+            "ADC",
+            "DAC",
+            "EEPROM External Memories",
+            "Temperature sensor integration",
+            "Digital RF wireless communications",
+            "Synchronous and asynchronous serial communication (SCI, SPI, I2C)",
+            "Parallel communication in system integration",
+            "32 bit ARM M4 in C code designs"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting embedded systems",
+            "Analyzing communication protocols",
+            "Debugging hardware-software interactions",
+            "Optimizing memory usage"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Smart Grids",
+        "courseCode": "EET 483",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course introduces the fundamental principles and techniques in smart grids, with focus on information and communication technologies (ICT) deployed to modernize the electric energy infrastructure. It provides an overview on: the smart grid and its main components; smart devices at transmission, distribution and customer level; distributed energy resources (DER) and emerging technologies; customer systems, including demand response, home energy management and smart appliances; communications technologies and standards/protocols for the smart grid; and smart distribution and customer system projects from real-world smart grid projects.",
+        "Technical and Digital Skills": [
+            "Understanding smart grid principles",
+            "Knowledge of information and communication technologies (ICT)",
+            "Familiarity with smart devices in transmission, distribution, and customer systems",
+            "Understanding distributed energy resources (DER) and emerging technologies",
+            "Knowledge of communications technologies and standards/protocols for the smart grid",
+            "Experience with smart distribution and customer system projects"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of smart grid concepts",
+            "Collaboration with team members on smart grid projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of smart grid components and technologies",
+            "Analytical skills in assessing smart grid challenges and solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management skills in implementing smart grid projects",
+            "Leadership in guiding smart grid initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Electrical Power Systems",
+        "courseCode": "EET 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamentals of electrical power transmission and distribution systems.  Transformer operation/application,  balanced/unbalanced loads, power factor correction, per-unit system system applications, fault calculations, power quality, over-current protection, relay construction/application, lighting system design, grounding, and introduction  to the National Electric Code.",
+        "Technical and Digital Skills": [
+            "Transformer operation/application",
+            "Power factor correction",
+            "Per-unit system applications",
+            "Fault calculations",
+            "Over-current protection",
+            "Relay construction/application",
+            "Lighting system design",
+            "Grounding principles",
+            "National Electric Code knowledge"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Balanced/unbalanced load analysis",
+            "Power quality assessment",
+            "Fault diagnosis and resolution"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Electrical Engineering Technology",
+        "courseCode": "EET 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Circuit design",
+            "Electronics troubleshooting",
+            "Microcontroller programming",
+            "Power systems analysis",
+            "Signal processing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective technical documentation",
+            "Collaborative project planning",
+            "Presentation of technical findings to non-technical audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis in electrical systems",
+            "Simulation software utilization for problem-solving",
+            "Troubleshooting complex electrical issues",
+            "Critical evaluation of experimental data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in electrical engineering",
+            "Team coordination for design projects",
+            "Prioritization of tasks in a technical setting"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Electrical Engineering Technology",
+        "courseCode": "EET 496",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Circuit design",
+            "Electromagnetic theory",
+            "Control systems analysis",
+            "Signal processing techniques",
+            "Microcontroller programming"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Technical report writing",
+            "Effective presentation of engineering concepts",
+            "Collaborative problem-solving in project teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting electrical systems",
+            "Root cause analysis of technical issues",
+            "Optimization of circuit performance",
+            "Mathematical modeling of electrical phenomena"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering contexts",
+            "Team coordination for design projects",
+            "Effective communication with stakeholders"
+        ]
+    }
+]

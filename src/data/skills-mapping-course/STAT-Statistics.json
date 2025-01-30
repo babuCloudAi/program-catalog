@@ -1,0 +1,1481 @@
+[
+    {
+        "courseTitle": "Elementary Statistics",
+        "courseCode": "STAT 130M",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include: data description, elementary probability, binomial and normal distributions, interval estimation, hypothesis testing, and correlation. The role of probability in inference is emphasized.",
+        "Technical and Digital Skills": [
+            "Data description",
+            "Understanding of probability",
+            "Knowledge of binomial and normal distributions",
+            "Interval estimation",
+            "Hypothesis testing",
+            "Understanding of correlation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Statistical inference",
+            "Analytical thinking",
+            "Hypothesis formulation and testing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory Statistics",
+        "courseCode": "STAT 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A general probability and statistics course designed specifically to accommodate the needs of school teachers and health professionals.  Topics include: descriptive statistics, basic probability, discrete random variables, continuous random variables, interval estimation, regression and correlation, hypothesis testing, and applications.  (May not be used to satisfy the upper-division elective requirement of the math major program.)",
+        "Technical and Digital Skills": [
+            "Descriptive statistics",
+            "Basic probability",
+            "Discrete random variables",
+            "Continuous random variables",
+            "Interval estimation",
+            "Regression and correlation",
+            "Hypothesis testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Application of statistical concepts in professional fields"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing statistical data",
+            "Problem-solving using probability",
+            "Interpretation of regression and correlation data",
+            "Application of hypothesis testing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory Data Analysis",
+        "courseCode": "STAT 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include measures of location, dispersion, and strength of relationship; parametric and nonparametric tests of location; one-way analysis of variance; complete block designs; simple and multiple regression; correlation; measures of association for categorical data. Microsoft EXCEL will be used extensively as an aid in data analysis.  Written interpretation of results will be a routine component of daily assignments.",
+        "Technical and Digital Skills": [
+            "Microsoft Excel operations",
+            "Data analysis using Excel",
+            "Parametric and nonparametric tests of location",
+            "One-way analysis of variance",
+            "Complete block designs",
+            "Simple and multiple regression",
+            "Correlation",
+            "Measures of association for categorical data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written interpretation of data analysis results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Measures of location",
+            "Dispersion analysis",
+            "Strength of relationship analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "An Introduction to Probability and Statistics",
+        "courseCode": "STAT 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include: descriptive statistics, probability theory and probability distributions, mathematical expectation and its role in decision making, hypothesis testing, point and interval estimation, numerous applications. (Not open to students with credit in STAT 331.)",
+        "Technical and Digital Skills": [
+            "Understanding Descriptive Statistics",
+            "Applying Probability Theory",
+            "Using Probability Distributions",
+            "Calculating Mathematical Expectation",
+            "Conducting Hypothesis Testing",
+            "Performing Point and Interval Estimation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem Solving with Probability Theory",
+            "Decision Making using Mathematical Expectation",
+            "Analyzing Data using Statistics",
+            "Hypothesis Formulation and Testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Theory of Probability",
+        "courseCode": "STAT 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to probability theory including probability functions, continuous and discrete random variables, combinatorics, special probability distributions, moment generating functions, and limit laws.",
+        "Technical and Digital Skills": [
+            "Understanding of probability functions",
+            "Handling continuous and discrete random variables",
+            "Combinatorics",
+            "Knowledge of special probability distributions",
+            "Working with moment generating functions",
+            "Applying limit laws"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing probability problems",
+            "Solving complex combinatorial problems",
+            "Applying limit laws to solve problems",
+            "Statistical analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Data Handling",
+        "courseCode": "STAT 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce SAS and R, two of the most widely used statistical software packages. This course will cover the basic skills needed for using computer packages to perform a variety of statistical analyses. Topics include data import/export, manipulation, descriptive statistics and visualization, advanced data handling, and the use of statistical computer packages for categorical data analysis, regression analysis, hypothesis testing, and more.",
+        "Technical and Digital Skills": [
+            "SAS Programming",
+            "R Programming",
+            "Data Import/Export",
+            "Data Manipulation",
+            "Descriptive Statistics",
+            "Data Visualization",
+            "Advanced Data Handling",
+            "Use of Statistical Computer Packages",
+            "Categorical Data Analysis",
+            "Regression Analysis",
+            "Hypothesis Testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical Analysis",
+            "Data Interpretation",
+            "Hypothesis Testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Theory of Statistics",
+        "courseCode": "STAT 431/531",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include point and interval estimation, tests of hypotheses, introduction to linear models, likelihood techniques, and regression and correlation analysis.",
+        "Technical and Digital Skills": [
+            "Point and interval estimation",
+            "Hypothesis testing",
+            "Understanding linear models",
+            "Likelihood techniques application",
+            "Regression and correlation analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem solving with statistical methods",
+            "Critical evaluation of statistical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Sampling Theory",
+        "courseCode": "STAT 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Sampling from finite populations is discussed. Topics such as simple random sampling, stratified random sampling and ratio and regression estimation are included. Also discussed are aspects of systematic sampling, cluster sampling, and multi-stage sampling.",
+        "Technical and Digital Skills": [
+            "Understanding of random sampling",
+            "Knowledge of stratified random sampling",
+            "Proficiency in ratio and regression estimation",
+            "Understanding of systematic sampling",
+            "Knowledge of cluster sampling",
+            "Proficiency in multi-stage sampling"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to select appropriate sampling method",
+            "Analytical thinking in sampling design and execution",
+            "Problem-solving in complex sampling scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Design and Analysis of Experiments",
+        "courseCode": "STAT 435/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include introduction to design of experiments, analysis of variance with a single factor, power and OC curves, and two factors with interactions, random effects models, randomized blocks, Latin square and related designs, introduction to factorial and 2k factorial designs. Statistical software will be used to analyze real life data.",
+        "Technical and Digital Skills": [
+            "Design of experiments",
+            "Analysis of variance",
+            "Understanding power and OC curves",
+            "Two-factor interactions",
+            "Random effects models",
+            "Randomized blocks",
+            "Latin square and related designs",
+            "Factorial and 2k factorial designs",
+            "Using statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Applying statistical methods to real life data",
+            "Designing and analyzing experiments",
+            "Interpreting results from statistical software"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Applied Regression and Time Series Analysis",
+        "courseCode": "STAT 437/537",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include introduction to regression and model building, simple linear regression, multiple regression, logistic regression, and simple time series, residual analysis, selection of variables, model adequacy checking, regression on dummy variables, analysis of covariance, regression analysis of time series data, and applications of these techniques to real life data using statistical software. Pre- or",
+        "Technical and Digital Skills": [
+            "Regression and model building",
+            "Simple linear regression",
+            "Multiple regression",
+            "Logistic regression",
+            "Simple time series",
+            "Residual analysis",
+            "Selection of variables",
+            "Model adequacy checking",
+            "Regression on dummy variables",
+            "Analysis of covariance",
+            "Regression analysis of time series data",
+            "Applications of these techniques to real life data using statistical software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of statistical analysis results",
+            "Collaboration in data analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation and analysis of statistical results",
+            "Identification and selection of relevant variables",
+            "Analysis and interpretation of covariance",
+            "Time series data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of data analysis projects",
+            "Coordination in the use of statistical software"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Trials",
+        "courseCode": "STAT 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce basic statistical concepts and methods used in clinical trials. Topics include phase-I trial designs including 3+3 and CRM dose-finding designs; phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs; phase-III trial designs including parallel, group allocation, cross-over, and factorial designs; randomization; sample size and power calculation; adaptive trials; and monitoring of trials for safety and efficacy.",
+        "Technical and Digital Skills": [
+            "Understanding of phase-I, II, and III trial designs",
+            "Knowledge of 3+3 and CRM dose-finding designs",
+            "Knowledge of Gehan’s two-stage and Simon’s two-stage designs",
+            "Understanding of parallel, group allocation, cross-over, and factorial designs",
+            "Understanding of randomization",
+            "Ability to calculate sample size and power",
+            "Knowledge of adaptive trials",
+            "Ability to monitor trials for safety and efficacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex statistical concepts",
+            "Ability to present trial findings effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze trial data",
+            "Ability to problem-solve in the context of trial design and implementation",
+            "Understanding of statistical concepts and methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and monitor clinical trials",
+            "Ability to adapt trial designs based on emerging data",
+            "Understanding of safety and efficacy monitoring"
+        ]
+    },
+    {
+        "courseTitle": "Environmental Statistics",
+        "courseCode": "STAT 442/542",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include nonlinear and generalized linear models, quantitative risk assessment, analysis of stimulus-response and spatially correlated data, methods of combining data from several independent studies.  Regression settings are emphasized where one or more predictor variables are used to make inferences on an outcome variable of interest.  Applications include modeling growth inhibition of organisms exposed to environmental toxins, spatial associations of like species, risk estimation, and spatial prediction.  SAS is used extensively in the course.",
+        "Technical and Digital Skills": [
+            "Nonlinear and generalized linear models",
+            "Quantitative risk assessment",
+            "Analysis of stimulus-response and spatially correlated data",
+            "Methods of combining data from several independent studies",
+            "Regression settings",
+            "SAS software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Quantitative risk assessment",
+            "Analysis of stimulus-response and spatially correlated data",
+            "Methods of combining data from several independent studies",
+            "Regression analysis",
+            "Modeling growth inhibition of organisms exposed to environmental toxins",
+            "Spatial associations of like species",
+            "Risk estimation",
+            "Spatial prediction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Analysis of Longitudinal Data",
+        "courseCode": "STAT 447/547",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces statistical methods for analyzing multivariate and longitudinal data. Topics include multivariate normal distribution, covariance modeling, multivariate linear models, principal components, analysis of continuous response repeated measures, and models for discrete longitudinal data. Emphasis will be on the applications to the biological and health sciences and the use of the statistical software.",
+        "Technical and Digital Skills": [
+            "Statistical methods for multivariate and longitudinal data",
+            "Covariance modeling",
+            "Multivariate linear models",
+            "Principal components analysis",
+            "Analysis of continuous response repeated measures",
+            "Models for discrete longitudinal data",
+            "Use of statistical software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing multivariate and longitudinal data",
+            "Application of statistical methods to biological and health sciences"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Nonparametric Statistics",
+        "courseCode": "STAT 449/549",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include the theory and applications of binomial tests and rank tests, including the tests of McNemar, Mann-Whitney, Friedman, Kruskal-Wallis, and Smirnov.",
+        "Technical and Digital Skills": [
+            "Understanding of binomial tests",
+            "Application of rank tests",
+            "Knowledge of McNemar test",
+            "Application of Mann-Whitney test",
+            "Understanding of Friedman test",
+            "Knowledge of Kruskal-Wallis test",
+            "Application of Smirnov test"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing statistical results",
+            "Problem-solving using nonparametric statistics",
+            "Critical thinking in test selection"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Categorical Data Analysis",
+        "courseCode": "STAT 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include types of categorical data, relative risk and odds ratio measures for 2 x 2 tables, the chi-square and Mantel-Haenszel tests, Fisher's exact test, analysis of sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology, analysis of I x J and sets of I x J tables for both nominal and ordinal data, logistic regression including the logit and probit models. Emphasis will be on the application of these statistical tools to data related to the health and social sciences. Interpretation of computer output will be stressed.",
+        "Technical and Digital Skills": [
+            "Analysis of categorical data",
+            "Calculating relative risk and odds ratio measures for 2 x 2 tables",
+            "Applying chi-square and Mantel-Haenszel tests",
+            "Implementing Fisher's exact test",
+            "Analyzing sets of tables using Cochran-Mantel-Haenszel methodology",
+            "Analyzing I x J and sets of I x J tables for both nominal and ordinal data",
+            "Applying logistic regression including the logit and probit models",
+            "Interpreting computer output"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting statistical findings",
+            "Communicating complex statistical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Risk assessment",
+            "Problem-solving using statistical models",
+            "Analytical interpretation of data",
+            "Application of statistical tools to health and social sciences data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Entrepreneurship in Statistics",
+        "courseCode": "STAT 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to apply their knowledge of statistics to the development of a new product, business, nonprofit program, or other initiative. The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. This course is administered as an independent project for individual students, or as group projects.",
+        "Technical and Digital Skills": [
+            "Application of statistical knowledge",
+            "Innovation in product development",
+            "Understanding of real world business scenarios"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with professionals",
+            "Working in group projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem diagnosis using academic knowledge",
+            "Creating innovative solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work"
+        ]
+    },
+    {
+        "courseCode": "STAT 505",
+        "courseTitle": "Introduction to Data Handling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce SAS and R, two of the most widely used statistical software packages. This course will cover the basic skills needed for using computer packages to perform a variety of statistical analyses. Topics include data import/export, manipulation, descriptive statistics and visualization, advanced data handling, and the use of statistical computer packages for categorical data analysis, regression analysis, hypothesis testing, and more.",
+        "Technical and Digital Skills": [
+            "SAS programming",
+            "R programming",
+            "Data import/export",
+            "Data manipulation",
+            "Descriptive statistics",
+            "Data visualization",
+            "Advanced data handling",
+            "Categorical data analysis",
+            "Regression analysis",
+            "Hypothesis testing"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Data interpretation",
+            "Hypothesis formulation and testing"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 531",
+        "courseTitle": "Theory of Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include point and interval estimation, tests of hypotheses, introduction to linear models, likelihood techniques, and regression and correlation analysis.",
+        "Technical and Digital Skills": [
+            "Point and interval estimation",
+            "Hypothesis testing",
+            "Introduction to linear models",
+            "Likelihood techniques",
+            "Regression analysis",
+            "Correlation analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Analytical reasoning",
+            "Critical evaluation of statistical results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 532",
+        "courseTitle": "Sampling Theory",
+        "academicLevel": "graduate",
+        "courseDescription": "Sampling from finite populations is discussed. Topics such as simple random sampling, stratified random sampling and ratio and regression estimation are included. Also discussed are aspects of systematic sampling, cluster sampling, and multi-stage sampling.",
+        "Technical and Digital Skills": [
+            "Understanding of simple random sampling",
+            "Knowledge of stratified random sampling",
+            "Ratio and regression estimation",
+            "Systematic sampling techniques",
+            "Cluster sampling methods",
+            "Multi-stage sampling techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Data interpretation",
+            "Problem-solving in sampling strategies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 535",
+        "courseTitle": "Design and Analysis of Experiments",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include introduction to design of experiments, analysis of variance with a single factor, power and OC curves, and two factors with interactions, random effects models, randomized blocks, Latin square and related designs, introduction to factorial and 2k factorial designs. Statistical software will be used to analyze real life data.",
+        "Technical and Digital Skills": [
+            "Design of experiments",
+            "Analysis of variance with a single factor",
+            "Understanding of power and OC curves",
+            "Two factors with interactions",
+            "Understanding of random effects models",
+            "Understanding of randomized blocks",
+            "Knowledge of Latin square and related designs",
+            "Introduction to factorial and 2k factorial designs",
+            "Use of statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing real life data",
+            "Problem-solving through design of experiments",
+            "Analytical thinking through analysis of variance"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 537",
+        "courseTitle": "Applied Regression and Time Series Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include introduction to regression and model building, simple linear regression, multiple regression, logistic regression, and simple time series, residual analysis, selection of variables, model adequacy checking, regression on dummy variables, analysis of covariance, regression analysis of time series data, and applications of these techniques to real life data using statistical software.",
+        "Technical and Digital Skills": [
+            "Regression and model building",
+            "Simple linear regression",
+            "Multiple regression",
+            "Logistic regression",
+            "Simple time series",
+            "Residual analysis",
+            "Selection of variables",
+            "Model adequacy checking",
+            "Regression on dummy variables",
+            "Analysis of covariance",
+            "Regression analysis of time series data",
+            "Use of statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving through statistical methods",
+            "Analytical thinking using regression models",
+            "Ability to identify appropriate variables for regression",
+            "Time series analysis",
+            "Analysis of residuals",
+            "Checking model adequacy"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 540",
+        "courseTitle": "Clinical Trials",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce basic statistical concepts and methods used in clinical trials. Topics include phase-I trial designs including 3+3 and CRM dose-finding designs; phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs; phase-III trial designs including parallel, group allocation, cross-over, and factorial designs; randomization; sample size and power calculation; adaptive trials; and monitoring of trials for safety and efficacy.",
+        "Technical and Digital Skills": [
+            "Understanding of basic statistical concepts",
+            "Knowledge of phase-I trial designs including 3+3 and CRM dose-finding designs",
+            "Knowledge of phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs",
+            "Knowledge of phase-III trial designs including parallel, group allocation, cross-over, and factorial designs",
+            "Understanding of randomization",
+            "Ability to calculate sample size and power",
+            "Understanding of adaptive trials",
+            "Monitoring of trials for safety and efficacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Analyzing trial designs",
+            "Critical evaluation of safety and efficacy data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 542",
+        "courseTitle": "Environmental Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include nonlinear and generalized linear models, quantitative risk assessment, analysis of stimulus-response and spatially correlated data, methods of combining data from several independent studies.  Regression settings are emphasized where one or more predictor variables are used to make inferences on an outcome variable of interest.  Applications include modeling growth inhibition of organisms exposed to environmental toxins, spatial associations of like species, risk estimation, and spatial prediction.  SAS is used extensively in the course.",
+        "Technical and Digital Skills": [
+            "Nonlinear and generalized linear models",
+            "Quantitative risk assessment",
+            "Analysis of stimulus-response and spatially correlated data",
+            "Methods of combining data from several independent studies",
+            "Using SAS software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Regression analysis",
+            "Modeling growth inhibition",
+            "Spatial associations analysis",
+            "Risk estimation",
+            "Spatial prediction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 547",
+        "courseTitle": "Analysis of Longitudinal Data",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces statistical methods for analyzing multivariate and longitudinal data. Topics include multivariate normal distribution, covariance modeling, multivariate linear models, principal components, analysis of continuous response repeated measures, and models for discrete longitudinal data. Emphasis will be on the applications to the biological and health sciences and the use of the statistical software.",
+        "Technical and Digital Skills": [
+            "Statistical methods",
+            "Multivariate normal distribution",
+            "Covariance modeling",
+            "Multivariate linear models",
+            "Principal components analysis",
+            "Analysis of continuous response repeated measures",
+            "Models for discrete longitudinal data",
+            "Use of statistical software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Application of statistical methods to biological and health sciences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Problem-solving through statistical modeling"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 549",
+        "courseTitle": "Nonparametric Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include the theory and applications of binomial tests and rank tests, including the tests of McNemar, Mann-Whitney, Friedman, Kruskal-Wallis, and Smirnov.",
+        "Technical and Digital Skills": [
+            "Binomial tests",
+            "Rank tests",
+            "Applications of McNemar test",
+            "Applications of Mann-Whitney test",
+            "Applications of Friedman test",
+            "Applications of Kruskal-Wallis test",
+            "Applications of Smirnov test"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate statistical tests",
+            "Interpreting statistical test results",
+            "Applying nonparametric statistical methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 550",
+        "courseTitle": "Categorical Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include types of categorical data, relative risk and odds ratio measures for 2 x 2 tables, the chi-square and Mantel-Haenszel tests, Fisher's exact test, analysis of sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology, analysis of I x J and sets of I x J tables for both nominal and ordinal data, logistic regression including the logit and probit models. Emphasis will be on the application of these statistical tools to data related to the health and social sciences. Interpretation of computer output will be stressed.",
+        "Technical and Digital Skills": [
+            "Understanding types of categorical data",
+            "Performing chi-square and Mantel-Haenszel tests",
+            "Applying Fisher's exact test",
+            "Analyzing sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology",
+            "Analyzing I x J and sets of I x J tables for both nominal and ordinal data",
+            "Applying logistic regression including the logit and probit models",
+            "Interpreting computer output"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of statistical results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Calculating relative risk and odds ratio measures for 2 x 2 tables",
+            "Application of statistical tools to health and social sciences data",
+            "Interpreting statistical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 597",
+        "courseTitle": "Topics in Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 603",
+        "courseTitle": "Probability Models for Data Science and Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will serve as an introduction for modeling data using probability and statistical methods. Topics include basic concepts of probability, Bayes theorem, frequently-occurring discrete and continuous probability distributions, as well as how to simulate data from these distributions. Basic properties of the probability distributions will be discussed, which will provide an insight into the use of these distributions in data science. R and/or Python will be the computation software used in class. This course is open only for students enrolled in the M.S. degree program in Data Science and Analytics.",
+        "Technical and Digital Skills": [
+            "Data modeling using probability methods",
+            "Data simulation from probability distributions",
+            "Understanding of frequently-occurring discrete and continuous probability distributions",
+            "Command of R and Python programming languages",
+            "Basic knowledge of statistical methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Application of Bayes theorem",
+            "Analyzing properties of probability distributions",
+            "Insight generation from data using probability distributions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 604",
+        "courseTitle": "Statistical Tools for Data Science and Analytics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover statistical tools for data exploration. Topics taught include descriptive statistics, correlation, confidence intervals, linear and logistic regressions, t-test for one and two samples, and analysis of variance. For analyzing categorical data, students will study contingency tables, odds ratios for measuring association, and chi-square tests for testing independence. The course will also introduce principal components and clustering methods to analyze multivariate data. R and/or Python software for computing various statistics for real data analysis will be used. This course is open only for students enrolled in the M.S. degree program in Data Science and Analytics.",
+        "Technical and Digital Skills": [
+            "Descriptive statistics",
+            "Correlation analysis",
+            "Understanding and application of confidence intervals",
+            "Linear and logistic regressions",
+            "T-test application for one and two samples",
+            "Analysis of variance (ANOVA)",
+            "Analyzing categorical data",
+            "Studying contingency tables",
+            "Calculation and interpretation of odds ratios",
+            "Application of chi-square tests",
+            "Principal components analysis",
+            "Clustering methods for multivariate data analysis",
+            "R programming",
+            "Python programming"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data exploration",
+            "Statistical data analysis",
+            "Measuring association in categorical data",
+            "Testing independence in categorical data",
+            "Multivariate data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 613",
+        "courseTitle": "Applied Statistical Methods I",
+        "academicLevel": "graduate",
+        "courseDescription": "Intended for graduate students in all academic disciplines; not available for credit to graduate students in the Department of Mathematics and Statistics.  Topics include descriptive statistics, probability computations, estimation, hypothesis testing, linear regression, analysis of variance and categorical data analysis.  Emphasis will be on statistical analysis of data arising in a research setting.  The rationale for selecting methods to address research questions will be emphasized.  Examples will be given from the health sciences, social sciences, engineering, education and other application areas.",
+        "Technical and Digital Skills": [
+            "Descriptive statistics",
+            "Probability computations",
+            "Estimation",
+            "Hypothesis testing",
+            "Linear regression",
+            "Analysis of variance",
+            "Categorical data analysis",
+            "Statistical analysis of research data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating rationale for method selection",
+            "Interpreting data from various disciplines (health sciences, social sciences, engineering, education)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selecting appropriate statistical methods for research questions",
+            "Analyzing data from various fields",
+            "Solving statistical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing statistical data",
+            "Leading statistical analysis in a research setting"
+        ]
+    },
+    {
+        "courseCode": "STAT 625",
+        "courseTitle": "Probability Theory for Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to probability. Topics include axiomatic foundations of probability, conditional probability, Bayes formula, random variables, density and mass functions, stochastic independence, expectation, moment generating functions, transformations, common families of distributions, multiple random variables, covariance and correlation, multivariate distributions, convergence concepts, law of large numbers, limit theorems.",
+        "Technical and Digital Skills": [
+            "Understanding of axiomatic foundations of probability",
+            "Application of conditional probability and Bayes formula",
+            "Working with random variables",
+            "Understanding of density and mass functions",
+            "Understanding of stochastic independence",
+            "Calculation and interpretation of expectation and moment generating functions",
+            "Execution of transformations",
+            "Understanding of common families of distributions",
+            "Working with multiple random variables",
+            "Understanding of covariance and correlation",
+            "Working with multivariate distributions",
+            "Understanding convergence concepts",
+            "Application of law of large numbers",
+            "Understanding and application of limit theorems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reasoning for probability theory",
+            "Problem-solving using Bayes formula",
+            "Statistical analysis using random variables",
+            "Analytical understanding of multivariate distributions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 626",
+        "courseTitle": "Statistical Theory for Data Science",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to statistical inference. Principles of data reduction, sufficiency, completeness, ancillary, likelihood principle, point estimation, method of moments, maximum likelihood and Bayes estimation, Cramer-Rao inequality, hypothesis testing, likelihood ratio tests, Bayesian tests, most powerful tests, Neyman-Pearson Lemma, interval estimates, pivotal quantities, asymptotic evaluations, consistency and asymptotic relative efficiency.",
+        "Technical and Digital Skills": [
+            "Understanding and application of statistical inference",
+            "Principles of data reduction",
+            "Bayes estimation",
+            "Method of moments",
+            "Maximum likelihood estimation",
+            "Understanding of Cramer-Rao inequality",
+            "Hypothesis testing",
+            "Understanding and application of likelihood ratio tests",
+            "Understanding of Neyman-Pearson Lemma",
+            "Understanding and application of interval estimates",
+            "Understanding of consistency and asymptotic relative efficiency",
+            "Understanding and application of pivotal quantities",
+            "Understanding and application of asymptotic evaluations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clearly explaining complex statistical concepts",
+            "Presenting data insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of statistical information",
+            "Analyzing data using statistical inference",
+            "Applying principles of data reduction",
+            "Performing hypothesis testing",
+            "Applying Bayes estimation",
+            "Applying likelihood ratio tests",
+            "Solving problems using Neyman-Pearson Lemma",
+            "Performing asymptotic evaluations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing large data sets",
+            "Leading data analysis projects"
+        ]
+    },
+    {
+        "courseCode": "STAT 630",
+        "courseTitle": "Time Series Models",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the principles and concepts of time series and forecasting.  Study includes theory, methods, and model parameter estimation taking into account correlation and autocorrelation structures with data applications from pollution, economics, seasonal trends, and the stock market.  Notions of autoregressive, moving, average, stationary and nonstationary ARIMA models will be discussed.  The multivariate version and state-space models will also be introduced. Simulation of time series data will be discussed in depth.",
+        "Technical and Digital Skills": [
+            "Understanding of time series principles and concepts",
+            "Knowledge of forecasting methods",
+            "Ability to estimate model parameters",
+            "Understanding of correlation and autocorrelation structures",
+            "Application of time series concepts to real world data from various fields",
+            "Understanding of autoregressive, moving average, stationary and nonstationary ARIMA models",
+            "Knowledge of multivariate versions and state-space models",
+            "Ability to simulate time series data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex time series concepts",
+            "Ability to present data applications from various fields"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze time series data",
+            "Ability to detect patterns and trends in time series data",
+            "Ability to apply forecasting methods to solve problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 632",
+        "courseTitle": "Master’s Project",
+        "academicLevel": "graduate",
+        "courseDescription": "Under the guidance of a faculty member in the Department of Mathematics and Statistics, the student will undertake a significant data analysis problem in a scientific setting outside the department.  A written report and/or public presentation of results will be required.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Scientific computing",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public presentation of results",
+            "Collaboration with faculty members and external scientific settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Problem-solving in complex scientific settings",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent research",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "STAT 635",
+        "courseTitle": "Statistical Consulting",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is intended to teach statistical consulting techniques to graduate students in statistics. Students are expected to work on statistical consulting problems brought by faculty and graduate students in various fields.",
+        "Technical and Digital Skills": [
+            "Statistical analysis",
+            "Data interpretation",
+            "Use of statistical tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of statistical findings",
+            "Collaboration with faculty and students from various fields"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and solving statistical problems",
+            "Critical thinking",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Coordinating with various stakeholders",
+            "Leading statistical consulting projects"
+        ]
+    },
+    {
+        "courseCode": "STAT 637",
+        "courseTitle": "Advanced Regression and Time Series",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include theory of least squares regression, multiple linear regression (including its matrix formulation), transformations and weighting, diagnostics for leverage and influence, polynomial and indicator regression model, multi-collinearity, variable selection and model building, validation of regression models, introduction to nonlinear regression, robust regression, regression for time series data, and applications of these techniques using statistical software.",
+        "Technical and Digital Skills": [
+            "Least squares regression theory",
+            "Multiple linear regression",
+            "Matrix formulation of regression",
+            "Transformations and weighting",
+            "Regression diagnostics for leverage and influence",
+            "Polynomial and indicator regression model",
+            "Multi-collinearity",
+            "Variable selection and model building",
+            "Validation of regression models",
+            "Introduction to nonlinear regression",
+            "Robust regression",
+            "Regression for time series data",
+            "Statistical software applications"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Outlier detection",
+            "Model validation",
+            "Variable selection",
+            "Analyzing time series data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 638",
+        "courseTitle": "Advanced Design and Analysis of Experiments",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include blocking and confounding in factorial designs, power, balanced incomplete block designs, fractional factorial designs, factors with mixed levels, response surface methods and designs, Latin and Graeco-Latin square designs, optimality criterion, examples of optimal designs, experiments with random factors, nested and split-plot designs, analysis of covariance, robust designs. Statistical software will be used to analyze real life data.",
+        "Technical and Digital Skills": [
+            "Understanding of factorial designs",
+            "Knowledge of balanced incomplete block designs",
+            "Working with fractional factorial designs",
+            "Application of response surface methods and designs",
+            "Creating Latin and Graeco-Latin square designs",
+            "Understanding of optimality criterion",
+            "Application of analysis of covariance",
+            "Working with robust designs",
+            "Use of statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing real life data",
+            "Dealing with experiments with random factors",
+            "Handling nested and split-plot designs",
+            "Application of power analysis",
+            "Understanding factors with mixed levels",
+            "Implementing optimal designs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 640",
+        "courseTitle": "Survival Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces basic concepts and methods for analyzing survival time data obtained from following individuals until occurrence of an event or their loss to follow-up. Topics include survival and hazard functions, censoring, Kaplan-Meier estimation, log-rank and related tests, Cox proportional hazards model, and the extended Cox model for time-varying covariates, and parametric models. Both SAS and R software will be used to analyze survival data.",
+        "Technical and Digital Skills": [
+            "Survival and hazard function analysis",
+            "Data censoring techniques",
+            "Kaplan-Meier estimation",
+            "Log-rank and related tests",
+            "Cox proportional hazards model",
+            "Extended Cox model for time-varying covariates",
+            "Parametric models",
+            "SAS software",
+            "R software",
+            "Survival data analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing survival time data",
+            "Working with event occurrence data",
+            "Working with loss to follow-up data",
+            "Understanding and applying statistical concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 660",
+        "courseTitle": "Advanced Programming in R",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is intended to develop the ability to perform statistical computing using R statistical software. The course will cover programming topics (vectorization, data input and output, data manipulation, and building R packages), statistical and computational methods (visualization, optimization, simulation, and resampling), and direct integration and dynamic reporting using R markdown. Additionally, this course will include the use of high-performance computing resources at Old Dominion University. This is a finishing course for statisticians and professionals willing to pursue a career in statistical programming and simulation.",
+        "Technical and Digital Skills": [
+            "Statistical computing using R statistical software",
+            "Programming in R (vectorization, data input and output, data manipulation)",
+            "Building R packages",
+            "Statistical and computational methods (visualization, optimization, simulation, resampling)",
+            "Direct integration and dynamic reporting using R markdown",
+            "Use of high-performance computing resources"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical computing and simulation",
+            "Data manipulation and optimization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Student participation for credit based on academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the cooperative education program prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "Academic relevance evaluation",
+            "Criteria assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Workplace communication",
+            "Inter-departmental coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Work Experience Analysis",
+            "Evaluative procedures application"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and Organizing Work Experience",
+            "Leadership in cooperative settings"
+        ]
+    },
+    {
+        "courseCode": "STAT 697",
+        "courseTitle": "Topics in Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 728",
+        "courseTitle": "Advanced Statistical Inference II",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include convergence concepts, limit theorems, large sample theory, asymptotic distributions, decision theory, minimax, admissibility, Bayes estimates, generalized Neyman-Pearson Lemma, uniformly most powerful tests, unbiased tests, invariant tests, and Bayesian tests.",
+        "Technical and Digital Skills": [
+            "Understanding convergence concepts",
+            "Applying limit theorems",
+            "Handling large sample theory",
+            "Comprehending asymptotic distributions",
+            "Practicing decision theory",
+            "Implementing minimax",
+            "Understanding admissibility",
+            "Applying Bayes estimates",
+            "Interpreting generalized Neyman-Pearson Lemma",
+            "Implementing uniformly most powerful tests",
+            "Performing unbiased tests",
+            "Applying invariant tests",
+            "Implementing Bayesian tests"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing statistical data",
+            "Solving problems using decision theory",
+            "Applying Bayes estimates for problem-solving",
+            "Using asymptotic distributions to analyze large sample data",
+            "Applying Neyman-Pearson Lemma for hypothesis testing",
+            "Problem-solving using unbiased tests",
+            "Analyzing data using Bayesian tests"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 730",
+        "courseTitle": "Multivariate Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include the multivariate normal distribution, graphical display of multivariate data and tests for normality, Hotelling's T2, multivariate analysis of variance (MANOVA) and regression, profile analysis, growth curve models, canonical correlation analysis, principal components, factor models, clustering, and discriminant analysis. All methods are implemented using the SAS statistical software.",
+        "Technical and Digital Skills": [
+            "Implementing statistical methods using SAS statistical software",
+            "Graphical display of multivariate data",
+            "Conducting multivariate analysis of variance (MANOVA) and regression",
+            "Executing Hotelling's T2 tests",
+            "Profile analysis",
+            "Developing growth curve models",
+            "Performing canonical correlation analysis",
+            "Applying principal components",
+            "Creating factor models",
+            "Applying clustering techniques",
+            "Conducting discriminant analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting results of multivariate normal distribution",
+            "Analyzing multivariate data",
+            "Evaluating profile analyses",
+            "Analyzing growth curve models",
+            "Interpreting canonical correlation analysis results",
+            "Applying and interpreting principal components",
+            "Evaluating factor models",
+            "Analyzing clustering results",
+            "Applying and interpreting results of discriminant analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 740",
+        "courseTitle": "Clinical Trials I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.",
+        "Technical and Digital Skills": [
+            "Understanding of sequential and adaptive designs for clinical trials",
+            "Knowledge of statistical properties of clinical trials",
+            "Ability to evaluate the advantages and disadvantages of different trial designs"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of statistical properties and challenges",
+            "Evaluation of different trial designs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 741",
+        "courseTitle": "Clinical Trials II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.",
+        "Technical and Digital Skills": [
+            "Understanding of sequential and adaptive designs for clinical trials",
+            "Knowledge of statistical properties and challenges induced by these designs",
+            "Ability to assess advantages and disadvantages of sequential and adaptive designs compared to a standard, fixed-sample design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex statistical concepts",
+            "Capability to articulate pros and cons of different trial designs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in design comparison",
+            "Problem-solving in addressing design challenges"
+        ],
+        "Organizational and Leadership Skills": []
+    },
+    {
+        "courseCode": "STAT 747",
+        "courseTitle": "Advanced Analysis of Longitudinal Data",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include general linear models, weighted least squares (WLS), maximum likelihood (ML), restricted maximum likelihood (REML) methods of estimation, analysis of continuous response repeated measures data, parametric models for covariance structure, generalized estimating equations (GEE) for discrete longitudinal data, marginal, random effects, and transition models. Limitations of existing approaches will be discussed. Emphasis will be on the application of these tools to data related to the biological and health sciences. Methods will be implemented using statistical software.",
+        "Technical and Digital Skills": [
+            "Understanding of general linear models",
+            "Application of weighted least squares (WLS)",
+            "Utilization of maximum likelihood (ML) methods",
+            "Utilization of restricted maximum likelihood (REML) methods",
+            "Analysis of continuous response repeated measures data",
+            "Application of parametric models for covariance structure",
+            "Use of generalized estimating equations (GEE) for discrete longitudinal data",
+            "Understanding of marginal, random effects, and transition models",
+            "Using statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining limitations of existing approaches",
+            "Communicating statistical results and their implications in the context of biological and health sciences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing limitations of existing analytical approaches",
+            "Applying advanced statistical methods to real-world data",
+            "Analyzing continuous and discrete longitudinal data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 749",
+        "courseTitle": "Advanced Nonparametric Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include multivariate permutation tests, multivariate rank tests, permutation and rank tests for censored data, bootstrap methods, permutation and rank tests for the analysis of multifactor experiments, and nonparametric smoothing methods.",
+        "Technical and Digital Skills": [
+            "Multivariate permutation tests",
+            "Multivariate rank tests",
+            "Permutation and rank tests for censored data",
+            "Bootstrap methods",
+            "Permutation and rank tests for the analysis of multifactor experiments",
+            "Nonparametric smoothing methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Data interpretation",
+            "Problem-solving with permutation tests",
+            "Analyzing multifactor experiments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 750",
+        "courseTitle": "Advanced Categorical Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover statistical models and methods appropriate for analyzing categorical responses, contingency tables, Pearson Chi-square test, Fisher’s Exact test, Mantel-Haenszel test, Cochran-Armitage trend test, independence and conditional independence, Simpson’s paradox, generalized linear models, logistic and Poisson regression models, matched paired studies, McNemar test, conditional logistic regression model and random effects logistic model for data from matched paired studies, models for multinomial data.",
+        "Technical and Digital Skills": [
+            "Implementing statistical models and methods for categorical responses analysis",
+            "Applying Pearson Chi-square test",
+            "Utilizing Fisher’s Exact test",
+            "Executing Mantel-Haenszel test",
+            "Performing Cochran-Armitage trend test",
+            "Understanding of independence and conditional independence",
+            "Resolving Simpson’s paradox",
+            "Applying generalized linear models",
+            "Implementing logistic and Poisson regression models",
+            "Analyzing matched paired studies",
+            "Applying McNemar test",
+            "Using conditional logistic regression model",
+            "Applying random effects logistic model for data from matched paired studies",
+            "Implementing models for multinomial data"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing categorical responses",
+            "Problem-solving using statistical methods",
+            "Analyzing contingency tables",
+            "Applying statistical tests for problem-solving",
+            "Analyzing and interpreting statistical models",
+            "Applying regression models for problem-solving",
+            "Analyzing matched paired studies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 795",
+        "courseTitle": "Seminar in Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Seminar.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 825",
+        "courseTitle": "Linear Statistical Models",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include the multivariate normal distribution, distributions of quadratic forms, the general linear model, estimability, the Gauss-Markov theorem and general linear hypotheses, analysis of variance (ANOVA) and covariance (ANCOVA) with special attention to unbalanced data, and analysis of mixed effects and variance components models including repeated measures and split-plot designs.",
+        "Technical and Digital Skills": [
+            "Understanding of multivariate normal distribution",
+            "Knowledge of distributions of quadratic forms",
+            "Proficiency in the general linear model",
+            "Understanding of estimability",
+            "Knowledge of the Gauss-Markov theorem",
+            "Understanding of general linear hypotheses",
+            "Experience with analysis of variance (ANOVA)",
+            "Experience with analysis of covariance (ANCOVA)",
+            "Understanding of unbalanced data",
+            "Knowledge of mixed effects models",
+            "Understanding of variance components models",
+            "Knowledge of repeated measures models",
+            "Understanding of split-plot designs"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze unbalanced data",
+            "Ability to analyze mixed effects models",
+            "Ability to analyze variance components models",
+            "Ability to analyze repeated measures models",
+            "Ability to analyze split-plot designs"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 827",
+        "courseTitle": "Advanced Statistical Inference I",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include introduction to measure theoretic probability, properties of group and exponential families, sufficiency, unbiasedness, equivariance, properties of estimators, large sample theory, maximum likelihood estimation, EM algorithm, information inequality, asymptotic optimality.",
+        "Technical and Digital Skills": [
+            "Understanding of measure theoretic probability",
+            "Knowledge of properties of group and exponential families",
+            "Proficiency in evaluating properties of estimators",
+            "Expertise in large sample theory",
+            "Skills in maximum likelihood estimation",
+            "Adeptness with EM algorithm",
+            "Familiarity with information inequality",
+            "Application of the principle of asymptotic optimality"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Ability to identify sufficiency, unbiasedness, and equivariance",
+            "Competence in problem-solving using statistical methods",
+            "Analytical skills to interpret complex statistical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 828",
+        "courseTitle": "Advanced Statistical Inference II",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics to be covered include convergence concepts, limit theorems, large sample theory, asymptotic distributions, decision theory, minimax, admissibility, Bayes estimates, generalized Neyman-Pearson Lemma, uniformly most powerful tests, unbiased tests, invariant tests, and Bayesian tests.",
+        "Technical and Digital Skills": [
+            "Understanding convergence concepts",
+            "Application of limit theorems",
+            "Knowledge of large sample theory",
+            "Utilization of asymptotic distributions",
+            "Comprehension of decision theory",
+            "Implementation of minimax",
+            "Application of admissibility",
+            "Utilization of Bayes estimates",
+            "Understanding of generalized Neyman-Pearson Lemma",
+            "Application of uniformly most powerful tests",
+            "Implementation of unbiased tests",
+            "Understanding of invariant tests",
+            "Application of Bayesian tests"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing statistical data",
+            "Problem-solving with decision theory",
+            "Using Bayes estimates for hypothesis testing",
+            "Applying Neyman-Pearson Lemma in statistical decision making",
+            "Implementing uniformly most powerful tests for statistical analysis",
+            "Problem-solving with invariant tests"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 830",
+        "courseTitle": "Multivariate Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include the multivariate normal distribution, graphical display of multivariate data and tests for normality, Hotelling's T2, multivariate analysis of variance (MANOVA) and regression, profile analysis, growth curve models, canonical correlation analysis, principal components, factor models, clustering, and discriminant analysis. All methods are implemented using the SAS statistical software.",
+        "Technical and Digital Skills": [
+            "SAS statistical software",
+            "Graphical display of multivariate data",
+            "Hotelling's T2",
+            "Multivariate analysis of variance (MANOVA) and regression",
+            "Profile analysis",
+            "Growth curve models",
+            "Canonical correlation analysis",
+            "Principal components",
+            "Factor models",
+            "Clustering",
+            "Discriminant analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Normality tests",
+            "Analysis of multivariate data",
+            "Profile analysis",
+            "Growth curve analysis",
+            "Canonical correlation analysis",
+            "Principal component analysis",
+            "Factor analysis",
+            "Cluster analysis",
+            "Discriminant analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 840",
+        "courseTitle": "Clinical Trials I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.",
+        "Technical and Digital Skills": [
+            "Understanding of sequential and adaptive designs for clinical trials",
+            "Knowledge of statistical properties of trial designs",
+            "Assessment of advantages and disadvantages of different trial designs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of statistical findings",
+            "Presentation of trial design advantages and disadvantages"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical understanding of trial designs",
+            "Problem-solving in the face of design challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of clinical trial processes",
+            "Leadership in decision-making for trial designs"
+        ]
+    },
+    {
+        "courseCode": "STAT 841",
+        "courseTitle": "Clinical Trials II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.",
+        "Technical and Digital Skills": [
+            "Understanding of sequential and adaptive designs",
+            "Knowledge of statistical properties of clinical trials",
+            "Familiarity with standard, fixed-sample design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to articulate advantages and disadvantages of different trial designs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing challenges in clinical trial designs",
+            "Evaluation of statistical properties in clinical trials"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 847",
+        "courseTitle": "Advanced Analysis of Longitudinal Data",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include general linear models, weighted least squares (WLS), maximum likelihood (ML), restricted maximum likelihood (REML) methods of estimation, analysis of continuous response repeated measures data, parametric models for covariance structure, generalized estimating equations (GEE) for discrete longitudinal data, marginal, random effects, and transition models. Limitations of existing approaches will be discussed. Emphasis will be on the application of these tools to data related to the biological and health sciences. Methods will be implemented using statistical software.",
+        "Technical and Digital Skills": [
+            "Understanding of general linear models",
+            "Knowledge of weighted least squares (WLS)",
+            "Application of maximum likelihood (ML)",
+            "Comprehension of restricted maximum likelihood (REML) methods of estimation",
+            "Analysis of continuous response repeated measures data",
+            "Knowledge of parametric models for covariance structure",
+            "Application of generalized estimating equations (GEE) for discrete longitudinal data",
+            "Understanding of marginal, random effects, and transition models",
+            "Use of statistical software for data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze complex biological and health science data",
+            "Critical evaluation of limitations of existing approaches",
+            "Application of advanced statistical tools to real-world data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 849",
+        "courseTitle": "Advanced Nonparametric Statistics",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include multivariate permutation tests, multivariate rank tests, permutation and rank tests for censored data, bootstrap methods, permutation and rank tests for the analysis of multifactor experiments, and nonparametric smoothing methods.",
+        "Technical and Digital Skills": [
+            "Multivariate permutation tests",
+            "Multivariate rank tests",
+            "Permutation and rank tests for censored data",
+            "Bootstrap methods",
+            "Permutation and rank tests for the analysis of multifactor experiments",
+            "Nonparametric smoothing methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of multifactor experiments",
+            "Data interpretation using nonparametric tests",
+            "Censored data analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "STAT 850",
+        "courseTitle": "Advanced Categorical Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover statistical models and methods appropriate for analyzing categorical responses, contingency tables, Pearson Chi-square test, Fisher’s Exact test, Mantel-Haenszel test, Cochran-Armitage trend test, independence and conditional independence, Simpson’s paradox, generalized linear models, logistic and Poisson regression models, matched paired studies, McNemar test, conditional logistic regression model and random effects logistic model for data from matched paired studies, models for multinomial data.",
+        "Technical and Digital Skills": [
+            "Statistical models application",
+            "Categorical responses analysis",
+            "Contingency tables analysis",
+            "Pearson Chi-square test",
+            "Fisher’s Exact test",
+            "Mantel-Haenszel test",
+            "Cochran-Armitage trend test",
+            "Understanding independence and conditional independence",
+            "Understanding Simpson’s paradox",
+            "Generalized linear models application",
+            "Logistic and Poisson regression models application",
+            "Matched paired studies analysis",
+            "McNemar test",
+            "Conditional logistic regression model application",
+            "Random effects logistic model application",
+            "Models for multinomial data application"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Categorical data analysis",
+            "Statistical problem solving",
+            "Identification of trends",
+            "Understanding and analyzing statistical paradoxes",
+            "Regression analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Maintaining active communication with faculty and peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Self-directed learning",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Long-term project planning"
+        ]
+    }
+]

@@ -1,0 +1,735 @@
+[
+    {
+        "courseTitle": "Introduction to World Literatures and Cultures",
+        "courseCode": "WCS 100L",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This multicultural course introduces the student to the forms and meanings of cultural expressions from around the world, with an emphasis on world literature. It provides students with the skills necessary for the appreciation and comparative analysis of these works as representations of rich and diverse cultural values. A primary focus of the course will be the role of culture in the formation of national and individual identity, paying special attention to gender, sexuality, race, class, and struggles for social justice. All works will be read in English.",
+        "Technical and Digital Skills": [
+            "Analyzing literary works",
+            "Understanding and interpreting cultural expressions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Appreciating diversity and multicultural perspectives",
+            "Discussing and interpreting cultural values"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of cultural works",
+            "Critical thinking regarding issues of gender, sexuality, race, class, and social justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Introduction to World Literatures and Cultures",
+        "courseCode": "WCS 120L",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This multicultural course introduces the student to the forms and meanings of cultural expressions from around the world, with an emphasis on world literature. It provides students with the skills necessary for the appreciation and comparative analysis of these works as representations of rich and diverse cultural values. A primary focus of the course will be the role of culture in the formation of national and individual identity, paying special attention to gender, sexuality, race, class, and struggles for social justice. All works will be read in English. This course is reserved for students enrolled in the Honors College.",
+        "Technical and Digital Skills": [
+            "Comparative analysis of cultural works",
+            "Appreciation of different forms of cultural expression"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and respecting diverse cultural values",
+            "Engaging with complex issues around identity formation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of literary works",
+            "Analysis of cultural influence on national and individual identity"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in World Cultural Studies",
+        "courseCode": "WCS 196",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics for elective credit. These courses will appear in the course schedule.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening in diverse contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cultural analysis",
+            "Interpretation of cultural artifacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting culturally sensitive discussions",
+            "Leading diverse teams"
+        ]
+    },
+    {
+        "courseTitle": "Understanding European Culture through Film",
+        "courseCode": "WCS 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students with an historic overview of films from a variety of European countries. Students will gain the vocabulary necessary to analyze individual films and for the comparative analysis of films from different cultural and historical contexts. The course will focus on issues such as national and individual identity, film as aesthetic form, gender and sexuality, and popular culture. (cross-listed with COMM 307)",
+        "Technical and Digital Skills": [
+            "Film analysis",
+            "Comparative analysis of films from different cultural and historical contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Developing and expressing informed opinions on films",
+            "Communicating film analysis in verbal and written forms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpreting cultural and historical contexts",
+            "Critical thinking about national and individual identity, aesthetic form, gender, sexuality, and popular culture through film"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Japan: A Cultural Odyssey",
+        "courseCode": "WCS 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Exploration of Japanese culture and society from local and global perspectives. Topics may include language, arts, literature, music, food, traditional and contemporary culture, entertainment, media, religion, gender, education and work. The course aims to foster in-depth cultural understanding beyond stereotypes and to develop critical thinking and analytical skills to reflect on one's own experiences and assumptions about cultural similarities and differences. All readings, discussions, and lectures in English. No knowledge of Japanese is necessary. Cross-listed with JAPN 310.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural understanding and appreciation",
+            "Deconstructing stereotypes",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Cultural analysis",
+            "Reflective thinking on personal experiences and assumptions"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Global Conversations",
+        "courseCode": "WCS 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is primarily a 'hands on' communicative course to develop cultural competence (verbal communication). Task-oriented communication strategies in cross-cultural training will be practiced by presenting students with models who demonstrate appropriate cultural skills. The course will include cognitive learning with lectures from experts (invited speakers), analysis of critical incidents and assigned readings, and application of sophisticated concepts from the behavioral and social sciences. Students will practice these skills by giving presentations, enriching self-awareness with group discussions on prejudice, racism, values and customs, and participation in guided cultural encounters (such as field trip assignments that demand new behaviors). Students will participate in role-playing and in simulations of real-life demands in extended experimental encounters with another culture or complex approximations of another culture. Effectively, students will learn how to communicate and collaborate with other people and cultures in a global age.",
+        "Technical and Digital Skills": [
+            "Verbal communication",
+            "Presentation preparation and delivery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Group discussion facilitation",
+            "Role-playing in cross-cultural scenarios"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of critical incidents",
+            "Application of behavioral and social science concepts",
+            "Cognitive learning from lectures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Task-oriented communication strategy",
+            "Collaboration in cross-cultural settings",
+            "Self-awareness and bias recognition",
+            "Participation in guided cultural encounters"
+        ]
+    },
+    {
+        "courseTitle": "Writing Around the World",
+        "courseCode": "WCS 312W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is an intensive writing course designed with writing assignments that examine various cultural contexts that enable students to understand cultural content, style, audience and organization. The main objective of the course is increased awareness of and sensitivity to appropriate word choice, and syntax in the targeted languages. Students will engage in writing for different cultural audiences and in varied contexts such as literary, artistic and media expressions around the world. Special emphasis is placed on the methodology of close reading as students hone the analytics skills and vocabulary necessary to interpret idioms, regionalism, cultural expressions and overall intercultural skills observed in various genres and cultures. Students will analyze compelling global issues and the diverse cultural perspectives that inform them.",
+        "Technical and Digital Skills": [
+            "Multicultural writing",
+            "Close reading methodology",
+            "Syntax analysis in targeted languages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Intercultural communication",
+            "Writing for varied cultural audiences",
+            "Understanding and interpreting cultural expressions and idioms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cultural content analysis",
+            "Interpreting regionalisms",
+            "Analyzing global issues from diverse cultural perspectives"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Contemporary Cultures and Media",
+        "courseCode": "WCS 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of film as a means of communication from an intercultural perspective. The course is designed to cultivate an ability to deal with film in a critical way, as well as broaden understanding of film and culture in a global context. A variety of cinematic traditions will be examined including film works from Europe, the Middle East, Asia, Africa, and North and South America.",
+        "Technical and Digital Skills": [
+            "Critical film analysis",
+            "Understanding of cinematic traditions",
+            "Knowledge of global film and culture"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Intercultural communication",
+            "Expressing critical viewpoints"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Cultural analysis",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Global Communications for International Business",
+        "courseCode": "WCS 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, students learn to value diverse global perspectives, and to seek multiple approaches to defining and solving problems based on intercultural awareness. This course will focus on the ways that culture and language influence human behavior, and on the practical development of communicative strategies, from compelling writing to effective discussion and collaboration.",
+        "Technical and Digital Skills": [
+            "Cross-cultural communication strategies",
+            "Effective writing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and valuing diverse global perspectives",
+            "Effective discussion and collaboration",
+            "Intercultural awareness and sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem definition and solution using multiple cultural perspectives",
+            "Analyzing the influence of culture and language on human behavior"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in multicultural environments",
+            "Organizing effective cross-cultural collaboration",
+            "Adapting communication to diverse cultural contexts"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "WCS 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Internships in private, public, non-profit and business organizations that deal with global communications and world cultures.",
+        "Technical and Digital Skills": [
+            "Understanding of global communications",
+            "Familiarity with world cultures",
+            "Knowledge of public, private, non-profit and business organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse organizations",
+            "Inter-cultural communication",
+            "Collaboration with varied entities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing organizational strategies",
+            "Problem-solving in a global context",
+            "Assessing cultural impacts on communication"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading within diverse organizations",
+            "Organizing global communication strategies",
+            "Navigating public, private, non-profit, and business environments"
+        ]
+    },
+    {
+        "courseTitle": "Topics in World Cultural Studies",
+        "courseCode": "WCS 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course invites students to discover approaches to global problems and concerns through an analysis of cultural expressions from around the world.  Students will consider the ways in which literary and artistic expression (literature, film, visual art, music) draw from and impact broader social and political contexts.",
+        "Technical and Digital Skills": [
+            "Analysis of cultural expressions",
+            "Understanding of global problems through cultural contexts",
+            "Interpretation of literature, film, visual art, and music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural communication",
+            "Presenting cultural analysis",
+            "Discussion and debate of global issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural expressions",
+            "Analyzing social and political contexts",
+            "Understanding and addressing global issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Cultural context organization",
+            "Leading cultural discussions",
+            "Conceptualizing and addressing global problems"
+        ]
+    },
+    {
+        "courseTitle": "Global Cultural Studies",
+        "courseCode": "WCS 400",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will examine selected cultural studies perspectives on mass communication. It will cover cultural studies philosophies, theories, and/or approaches to the study of cultural artifacts and practices that may include some of the following: postmodernism, deconstruction, feminism, and post-colonialism. The readings will include theoretical texts as well as artistic or cultural texts that will more clearly illustrate the theoretical positions.",
+        "Technical and Digital Skills": [
+            "Understanding and application of cultural studies theories",
+            "Analysis of cultural artifacts",
+            "Interpretation of artistic and cultural texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of theoretical and philosophical ideas",
+            "Cross-cultural communication",
+            "Understanding and discussing postmodernism, deconstruction, feminism, and post-colonialism"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural studies philosophies",
+            "Analysis and interpretation of cultural practices",
+            "Problem-solving using cultural studies perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing theoretical and cultural texts",
+            "Leading discussions on cultural studies perspectives",
+            "Coordinating and synthesizing multiple theoretical positions"
+        ]
+    },
+    {
+        "courseTitle": "Global Communication in Practice",
+        "courseCode": "WCS 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of communication styles and strategies around the world. Students will analyze how global concerns and national priorities are articulated across cultures and languages, and they will navigate techniques necessary for effective communication within intercultural contexts. This course, through interactive lectures, discussions, guest speaker presentations and case studies, is intended to prepare students to be fluent in intercultural understanding and global collaboration and to apply these skills in professional settings.",
+        "Technical and Digital Skills": [
+            "Intercultural communication techniques",
+            "Analysis of global concerns and national priorities",
+            "Navigating diverse languages"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within intercultural contexts",
+            "Fluency in intercultural understanding",
+            "Global collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of communication strategies",
+            "Understanding and navigating cultural nuances"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions in intercultural contexts",
+            "Organizing and presenting case studies",
+            "Hosting guest speakers"
+        ]
+    },
+    {
+        "courseTitle": "Berlin-Paris: Crucibles of European Ideas",
+        "courseCode": "WCS 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the cultural movements that have characterized the German-French commonalities and differences from the early 1900s through the 1990s in cross-disciplinary discourses such as film, literature, art, politics, and economics.",
+        "Technical and Digital Skills": [
+            "Film analysis",
+            "Literary analysis",
+            "Art critique",
+            "Economic analysis",
+            "Political discourse analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discourse presentation",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical interpretation",
+            "Cultural comparison",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project organization",
+            "Team leadership in cross-disciplinary projects"
+        ]
+    },
+    {
+        "courseTitle": "The Question of Memory in World Cultures",
+        "courseCode": "WCS 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class explores how societies across the world choose to remember people and events through culture. Students will consider 'official' manifestations – government-sponsored or public memorials and art – as well as general and popular culture such as museums, literature, film, TV, music, etc. The class will interrogate not only what is chosen to be memorialized but how it is memorialized, and how public memory of events is shaped by such choices. Students will consider what decisions are made at the local and national level, how those decisions are made, and what consultations or processes are considered necessary or desirable when deciding public memorials and artwork.",
+        "Technical and Digital Skills": [
+            "Cultural artifact analysis",
+            "Media interpretation",
+            "Researching historical documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Articulating complex cultural concepts",
+            "Public speaking for presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of public memory",
+            "Evaluation of societal decisions",
+            "Assessment of cultural influences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for cultural studies",
+            "Leadership in group discussions",
+            "Facilitation of public consultations"
+        ]
+    },
+    {
+        "courseTitle": "German Cinema I",
+        "courseCode": "WCS 445/545",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The first half of the 20th century was the most creative and destructive period in German and European history. Its rich cultural achievements included Viennese psychoanalytical theory of the turn of the century, Art Nouveau, German Expressionism, and the avant garde aesthetics of the Weimar Republic. Conversely, World War I and II exposed the cultural agony and human depravity of modern civilization. This course will trace these various aspects and developments in a variety of exemplary genres. Readings and discussions in German. (Cross-listed with GER 445/GER 545 and COMM 444/COMM 544)",
+        "Technical and Digital Skills": [
+            "Understanding of German Expressionism",
+            "Knowledge of Viennese psychoanalytical theory",
+            "Familiarity with Art Nouveau",
+            "Artistic appreciation of the avant garde aesthetics of the Weimar Republic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in discussions in German",
+            "Communicating historical and cultural knowledge",
+            "Critical evaluation of cultural artifacts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting German and European history",
+            "Critical analysis of various genres",
+            "Understanding the cultural impact of World War I and II"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hispanic Women Authors",
+        "courseCode": "WCS 471/571",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of fictional and non-fictional works by Spanish, Spanish-American, and U.S. Latina writers from the 16th to the 20th century. The course analyzes gender identity and roles and the interaction of gender, race, and class in literary representations of courtship and marriage, spirituality, nationalism, colonialism, and multiculturalism.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Research on historical and sociocultural contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written and verbal communication in Spanish",
+            "Articulating complex ideas about gender, race, and class",
+            "Critiquing and interpreting various forms of literature"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Interpreting and analyzing literary texts",
+            "Understanding and analyzing historical and cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent research",
+            "Organizing and presenting literary analyses",
+            "Leading and participating in intellectual discussions"
+        ]
+    },
+    {
+        "courseTitle": "German-Jewish Literature and Culture",
+        "courseCode": "WCS 476/576",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of seminal texts by German-Jewish philosophers and writers from the Enlightenment to the present day, including Marx, Kafka, Freud, Schnitzler and Arendt.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Cultural context interpretation",
+            "Historical context interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion",
+            "Inter-cultural communication",
+            "Textual critique and debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis",
+            "Contextual analysis",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Senior Seminar in International Studies",
+        "courseCode": "WCS 480W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Interdisciplinary research and the preparation of a senior thesis in international studies. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Thesis writing",
+            "Interdisciplinary research",
+            "Use of research databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Academic writing",
+            "Oral communication",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Problem framing",
+            "Evidence-based argumentation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in World Languages and Cultures",
+        "courseCode": "WCS 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge related to world languages and cultures through developing a nonprofit program, product, business, or other initiative with other students.",
+        "Technical and Digital Skills": [
+            "Nonprofit program development",
+            "Product design",
+            "Business planning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Collaborative project development",
+            "Professional networking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Innovation in program design",
+            "Strategic planning for initiatives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leading diverse teams",
+            "Organizational development"
+        ]
+    },
+    {
+        "courseTitle": "Topics in World Cultural Studies",
+        "courseCode": "WCS 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course invites students to discover approaches to global problems and concerns through an analysis of cultural expressions from around the world.  Students will consider the ways in which literary and artistic expression (literature, film, visual art, music) draw from and impact broader social and political contexts.",
+        "Technical and Digital Skills": [
+            "Analysis of literary works",
+            "Analysis of visual arts",
+            "Analysis of film and music",
+            "Understanding of cultural expressions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Oral and written communication about cultural expressions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of global problems and concerns",
+            "Interpretation of social and political contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in World Cultural Studies",
+        "courseCode": "WCS 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course invites students to discover approaches to global problems and concerns through an analysis of cultural expressions from around the world.  Students will consider the ways in which literary and artistic expression (literature, film, visual art, music) draw from and impact broader social and political contexts.",
+        "Technical and Digital Skills": [
+            "Analysis of literary and artistic expressions",
+            "Understanding of global cultural expressions through various mediums like literature, film, visual art, music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and interpretation of social and political contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of global problems and concerns",
+            "Critical evaluation of cultural impact on social and political contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in World Cultural Studies",
+        "courseCode": "WCS 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent readings and study on a topic to be selected under direction of professor.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital literacy for academic databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear and concise communication",
+            "One-on-one interactions with professor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of readings",
+            "Development and refinement of research questions",
+            "Problem-solving in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Time-management",
+            "Self-discipline and self-directed learning"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in World Cultural Studies",
+        "courseCode": "WCS 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent readings and study on a topic to be selected under direction of professor.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Communicating complex concepts",
+            "Working with academic advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and comprehension of academic texts",
+            "Analytical thinking on world cultural topics",
+            "Development of independent research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Research project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "WCS 510",
+        "courseTitle": "Berlin-Paris: Crucibles of European Ideas",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the cultural movements that have characterized German-French commonalities and differences from the early 1900s through the 1990s in cross-disciplinary discourses such as film, literature, art, politics, and economics.",
+        "Technical and Digital Skills": [
+            "Research in cultural movements",
+            "Use of digital archives for historical data",
+            "Analysis of films, literature, and art from historical perspective"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presenting and debating ideas",
+            "Interdisciplinary discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in cultural analysis",
+            "Analysis of political and economic discourses",
+            "Historical interpretation and contextualization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading and organizing discussions",
+            "Project management of historical research",
+            "Interdisciplinary coordination"
+        ]
+    },
+    {
+        "courseCode": "WCS 521",
+        "courseTitle": "The Question of Memory in World Cultures",
+        "academicLevel": "graduate",
+        "courseDescription": "This class explores how societies across the world choose to remember people and events through culture. Students will consider 'official' manifestations – government-sponsored or public memorials and art – as well as general and popular culture such as museums, literature, film, TV, music, etc. The class will interrogate not only what is chosen to be memorialized but how it is memorialized, and how public memory of events is shaped by such choices. Students will consider what decisions are made at the local and national level, how those decisions are made, and what consultations or processes are considered necessary or desirable when deciding public memorials and artwork.",
+        "Technical and Digital Skills": [
+            "Cultural artifact analysis",
+            "Media analysis",
+            "Literature analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in public and cultural contexts",
+            "Presenting complex cultural concepts",
+            "Interpreting and explaining public memorials and art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of memorial choices",
+            "Analyzing the influence of cultural memorials on public memory",
+            "Understanding and interpreting societal decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing cultural information",
+            "Understanding and interpreting organizational decisions in cultural contexts",
+            "Leading discussions and debates on public memory"
+        ]
+    },
+    {
+        "courseCode": "WCS 545",
+        "courseTitle": "German Cinema I",
+        "academicLevel": "graduate",
+        "courseDescription": "The first half of the 20th century was the most creative and destructive period in German and European history. Its rich cultural achievements included Viennese psychoanalytical theory of the turn of the century, Art Nouveau, German Expressionism, and the avant garde aesthetics of the Weimar Republic. Conversely, World War I and II exposed the cultural agony and human depravity of modern civilization. This course will trace these various aspects and developments in a variety of exemplary genres. Readings and discussions in German. (Cross-listed with GER 445/GER 545 and COMM 444/COMM 544)",
+        "Technical and Digital Skills": [
+            "Reading comprehension in German",
+            "Cinematic analysis",
+            "Understanding of historical genres"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Leading discussions in German",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cultural and historical contexts",
+            "Analyzing and interpreting film and literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting organized research",
+            "Leading group discussions"
+        ]
+    },
+    {
+        "courseCode": "WCS 571",
+        "courseTitle": "Hispanic Women Authors",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of fictional and non-fictional works by Spanish, Spanish-American, and U.S. Latina writers from the 16th to the 20th century. The course analyzes gender identity and roles and the interaction of gender, race, and class in literary representations of courtship and marriage, spirituality, nationalism, colonialism, and multiculturalism.",
+        "Technical and Digital Skills": [
+            "Literary analysis",
+            "Historical and cultural contextualization",
+            "Understanding of gender, race, and class in literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of literary themes",
+            "Effective written and verbal communication",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and interpretation of texts",
+            "Analytical thinking and argumentation",
+            "Evaluation of literary representations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research and study",
+            "Time management and organization of workload",
+            "Leading group discussions and debates"
+        ]
+    },
+    {
+        "courseCode": "WCS 576",
+        "courseTitle": "German-Jewish Literature and Culture",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of seminal texts by German-Jewish philosophers and writers from the Enlightenment to the present day, including Marx, Kafka, Freud, Schnitzler and Arendt.",
+        "Technical and Digital Skills": [
+            "Textual analysis of German-Jewish literature",
+            "Use of digital resources and databases for historical and literary research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating complex ideas",
+            "Debating and discussing philosophical theories",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and interpretation of texts",
+            "Comparative analysis of different philosophical ideas",
+            "Historical context analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading literature discussion groups",
+            "Planning and organizing research work",
+            "Time management for extensive reading"
+        ]
+    },
+    {
+        "courseCode": "WCS 595",
+        "courseTitle": "Topics in World Cultural Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course invites students to discover approaches to global problems and concerns through an analysis of cultural expressions from around the world. Students will consider the ways in which literary and artistic expression (literature, film, visual art, music) draw from and impact broader social and political contexts.",
+        "Technical and Digital Skills": [
+            "Analysis of cultural expressions",
+            "Literature review",
+            "Film appreciation",
+            "Visual art interpretation",
+            "Music analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Cross-cultural communication",
+            "Critical discourse analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Contextual analysis",
+            "Problem identification in social and political contexts",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "WCS 596",
+        "courseTitle": "Topics in World Cultural Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course invites students to discover approaches to global problems and concerns through an analysis of cultural expressions from around the world. Students will consider the ways in which literary and artistic expression (literature, film, visual art, music) draw from and impact broader social and political contexts.",
+        "Technical and Digital Skills": [
+            "Analysis of cultural expressions",
+            "Understanding of global literature, film, visual art, music"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpretation of diverse cultural contexts",
+            "Conveyance of cultural analyses"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of global problems and concerns",
+            "Critical evaluation of social and political contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing cultural studies research",
+            "Leading discussions on global cultural concerns"
+        ]
+    }
+]

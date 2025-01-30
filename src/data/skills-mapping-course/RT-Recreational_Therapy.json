@@ -1,0 +1,335 @@
+[
+    {
+        "courseTitle": "Leisure, Health, and Wellness",
+        "courseCode": "RT 210",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the concept of leisure and its impact on health and wellness for individuals and groups. Fundamental principles, philosophies, and theories of leisure, health, and wellness are emphasized. Leisure’s relationships with physical, cognitive, social, emotional, and spiritual growth, human satisfaction, and quality of life are explored. Leisure’s influence on challenges to wellness experienced by diverse populations (e.g., individuals with disabilities, older adults, racial and ethnic groups, individuals identifying as LGBTQIA+) is examined. Strategies for protecting and promoting health through leisure are integrated throughout the course.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing the needs of diverse populations",
+            "Effective communication with individuals identifying as LGBTQIA+",
+            "Adaptive communication with older adults",
+            "Cultural sensitivity and awareness in communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the impact of leisure on health and wellness",
+            "Identification and implementation of strategies for promoting health through leisure",
+            "Understanding and addressing challenges to wellness in diverse populations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementation of health-promoting leisure activities",
+            "Leadership in promoting physical, cognitive, social, emotional, and spiritual growth through leisure"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Recreational Therapy Practice",
+        "courseCode": "RT 261",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to be an introduction to the historical and conceptual roots of recreational therapy. Content includes recreational therapy service delivery models, legislation, professional organizations, places of practice, ethical conduct, and credentialing procedures.",
+        "Technical and Digital Skills": [
+            "Understanding of recreational therapy service delivery models",
+            "Knowledge of professional credentialing procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical conduct in recreational therapy practice",
+            "Communication within professional organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and conceptual roots of recreational therapy",
+            "Understanding legislation related to recreational therapy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Navigating places of practice in recreational therapy",
+            "Participation in professional organizations"
+        ]
+    },
+    {
+        "courseTitle": "Professional Preparation in Recreational Therapy",
+        "courseCode": "RT 290",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to facilitate personal exploration and professional preparation for careers in recreational therapy. Topics include professional ethics, professional involvement, professional behaviors & responsibilities, and career preparation. On-site observation of recreational therapists in practice settings is required.",
+        "Technical and Digital Skills": [
+            "On-site observation",
+            "Understanding professional ethics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Building professional relationships",
+            "Understanding and adhering to professional behaviors & responsibilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Career planning",
+            "Problem-solving in professional settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Professional involvement",
+            "Career preparation",
+            "Understanding professional responsibilities"
+        ]
+    },
+    {
+        "courseTitle": "Internship Preparation",
+        "courseCode": "RT 366",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide students with the skills and knowledge required to successfully acquire an internship placement in recreational therapy.  Emphasis will be placed on resume and cover letters, internship search strategies, interviewing skills, and internship documentation requirements.  Students are required to become familiar with all documentation requirements in the Recreational Therapy Internship Manual, and successfully secure an internship for the following semester.",
+        "Technical and Digital Skills": [
+            "Resume and cover letter writing",
+            "Internship search strategies",
+            "Understanding of internship documentation requirements",
+            "Familiarity with Recreational Therapy Internship Manual"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and securing of appropriate internship placements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of internship application process",
+            "Compliance with documentation requirements"
+        ]
+    },
+    {
+        "courseTitle": "Junior Internship",
+        "courseCode": "RT 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course requires a 200-hour junior internship experience at an approved health and human service agency in which students are involved with ongoing recreational therapy programs. Students are expected to observe and assist recreational therapy staff during this field experience. Students must be supervised by a Certified Therapeutic Recreation Specialist (CTRS) working for the agency.",
+        "Technical and Digital Skills": [
+            "Observation of recreational therapy programs",
+            "Assisting recreational therapy staff",
+            "Understanding of health and human service agency operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with health and human service agency staff",
+            "Cooperation with Certified Therapeutic Recreation Specialist (CTRS)"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation to the work environment of a health and human service agency",
+            "Understanding and assisting in the implementation of recreational therapy programs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time Management in completing 200-hour internship",
+            "Observing and following leadership of CTRS"
+        ]
+    },
+    {
+        "courseTitle": "Intervention Techniques in Recreational Therapy",
+        "courseCode": "RT 420",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to a wide variety of Recreational Therapy interventions. Students will explore physical, cognitive, and psychosocial interventions. Facilitation techniques, activity modification, and group facilitation will be explored. Students will connect diagnostic groups to specific Recreational Therapy interventions. Students will facilitate group recreational therapy interventions during lab.",
+        "Technical and Digital Skills": [
+            "Understanding of physical, cognitive, and psychosocial interventions in Recreational Therapy",
+            "Knowledge of facilitation techniques",
+            "Understanding of activity modification techniques",
+            "Ability to connect diagnostic groups to specific Recreational Therapy interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group facilitation skills",
+            "Ability to communicate therapeutic techniques effectively",
+            "Experience in facilitating group recreational therapy interventions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze different Recreational Therapy interventions",
+            "Problem-solving skills in modifying activities for varied needs",
+            "Analytical skills in connecting diagnostic groups to specific interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership skills in facilitating group interventions",
+            "Organizational skills in planning and implementing therapeutic interventions"
+        ]
+    },
+    {
+        "courseTitle": "Assessment, Documentation, and Evaluation in Recreational Therapy",
+        "courseCode": "RT 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide students with a detailed examination of assessment, documentation, and evaluation procedures used in the recreation therapy treatment process. Course focus includes the assessment and documentation process, including instrument design, selection, and implementation, and the reporting and use of data for treatment planning and program evaluation.",
+        "Technical and Digital Skills": [
+            "Assessment design",
+            "Treatment data recording",
+            "Data analysis",
+            "Instrument selection and implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining assessment results",
+            "Communicating treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data-driven treatment planning",
+            "Evaluating program effectiveness",
+            "Selective use of assessment instruments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Treatment planning",
+            "Data-driven program evaluation",
+            "Assessment implementation coordination"
+        ]
+    },
+    {
+        "courseTitle": "Diagnostic Groups in Recreational Therapy",
+        "courseCode": "RT 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to a variety of disabilities, illnesses, and health conditions recreational therapists may encounter in practice. The prevalence, etiology, diagnostic criteria, pathology, symptomatology, and prognosis of various conditions is presented, and the bio-psycho-social impact of the illness/disability on the individual and family is discussed. Emphasis is placed on the delivery of recreational therapy services for individuals with illnesses/disabilities and related populations.",
+        "Technical and Digital Skills": [
+            "Understanding of various disabilities, illnesses, and health conditions",
+            "Knowledge of diagnostic criteria and pathology",
+            "Familiarity with recreational therapy services and their application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy and understanding for individuals with illnesses/disabilities",
+            "Ability to communicate effectively with patients and their families",
+            "Coordination with medical professionals and other stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the bio-psycho-social impact of illnesses/disabilities",
+            "Identifying suitable recreational therapy services for specific conditions",
+            "Evaluating the effectiveness of recreational therapy interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and delivering recreational therapy services",
+            "Leading a team of recreational therapists",
+            "Coordinating patient care in a complex medical environment"
+        ]
+    },
+    {
+        "courseTitle": "Administration of Recreational Therapy Services",
+        "courseCode": "RT 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the basic principles of organizing and managing quality recreational therapy services. Content includes supervisory and administrative responsibilities, budgeting, managing personnel including student interns and volunteers, developing a clinical supervision program, marketing recreational therapy services, and developing a recreational therapy department based on professional standards of practice and recreational therapy models of service delivery.",
+        "Technical and Digital Skills": [
+            "Budgeting",
+            "Developing a clinical supervision program"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Managing personnel",
+            "Supervisory responsibilities",
+            "Marketing recreational therapy services"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Organizing quality recreational therapy services",
+            "Managing student interns and volunteers"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administrative responsibilities",
+            "Developing a recreational therapy department based on professional standards of practice and recreational therapy models of service delivery"
+        ]
+    },
+    {
+        "courseTitle": "Senior Internship",
+        "courseCode": "RT 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This capstone course requires a 560-hour and 14-week senior internship experience at an approved health and human service agency practicing recreational therapy. Students will apply academic learning and will demonstrate competencies associated with entry-level practice in recreational therapy. The student’s academic and agency direct supervisors must be Certified Therapeutic Recreation Specialists.",
+        "Technical and Digital Skills": [
+            "Application of academic learning in recreational therapy",
+            "Adherence to health and human service agency protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication with agency staff and clients",
+            "Collaboration with certified therapeutic recreation specialists"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptation to real-world therapeutic scenarios",
+            "Demonstration of competencies associated with entry-level practice in recreational therapy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of a 560-hour and 14-week internship experience",
+            "Maintaining professional relationships with academic and agency direct supervisors"
+        ]
+    },
+    {
+        "courseTitle": "Recreational Therapy Program Design and Implementation",
+        "courseCode": "RT 470",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This skill-based course is designed to further students’ practical understanding of client-centered recreational therapy program design and implementation using evidence-based strategies, techniques, and interventions. Emphasis is placed on the purpose, roles, and outcomes of recreational therapy service delivery in healthcare and community settings. Topics include assessment, recreational therapy practice models, specific program planning, task analysis, facilitation techniques, implementation of evidence-based interventions, documentation, and evaluation of services as well as interprofessional practice. Field-based application of course concepts is required.",
+        "Technical and Digital Skills": [
+            "Client-centered recreational therapy program design",
+            "Implementation of evidence-based interventions",
+            "Task analysis",
+            "Documentation",
+            "Assessment",
+            "Recreational Therapy Practice Models"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Facilitation techniques",
+            "Interprofessional practice",
+            "Service delivery in healthcare and community settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Use of evidence-based strategies, techniques, and interventions",
+            "Evaluation of services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Specific program planning",
+            "Field-based application of course concepts",
+            "Understanding roles and outcomes of recreational therapy service delivery"
+        ]
+    },
+    {
+        "courseTitle": "Evidence-Based Practice and Trends in Recreational Therapy",
+        "courseCode": "RT 480W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of evidence-based practice and related disciplinary writing in recreational therapy contexts. Through exploration of current trends and issues in the field of therapeutic recreation and a writing intensive approach, students develop skills in evaluating and interpreting research and applying applicable findings through evidence-based practice, service to the field, and professional advocacy. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Evaluating and Interpreting Research",
+            "Disciplinary Writing",
+            "Application of Evidence-Based Practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional Advocacy",
+            "Service to the Field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Current Trends and Issues in Therapeutic Recreation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of Research Findings",
+            "Identification of Applicable Findings"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "RT 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Individualized instruction to include research, specialized studies, or other scholarly writing.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Scholarly writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Personal initiative",
+            "Communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Analysis of research data",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-directed learning",
+            "Project management for research"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Recreational Therapy",
+        "courseCode": "RT 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in recreational therapy. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Conducting research",
+            "Writing technical reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral communication",
+            "Collaborating with faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Analyzing research data",
+            "Developing solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project coordination"
+        ]
+    }
+]

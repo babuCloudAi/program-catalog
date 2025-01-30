@@ -1,0 +1,1267 @@
+[
+    {
+        "courseTitle": "Principles of Financial Accounting",
+        "courseCode": "ACCT 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
+        "Technical and Digital Skills": [
+            "Preparation of financial statements",
+            "Financial statement analysis",
+            "Use of financial accounting information for decision making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information",
+            "Collaboration with team members on financial reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing financial data for insights",
+            "Identifying financial trends and patterns",
+            "Interpreting financial ratios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritizing financial tasks",
+            "Leading financial reporting projects",
+            "Managing financial information effectively"
+        ]
+    },
+    {
+        "courseTitle": "Principles of Managerial Accounting",
+        "courseCode": "ACCT 202",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
+        "Technical and Digital Skills": [
+            "Operational accounting procedures",
+            "Utilization of accounting software for decision making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information to non-accounting personnel"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting accounting data for decision-making purposes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading internal financial decision-making processes"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Principles of Financial Accounting",
+        "courseCode": "ACCT 226",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College. Special honors section of ACCT 201.  Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
+        "Technical and Digital Skills": [
+            "Preparation of financial statements",
+            "Financial statement analysis",
+            "Use of financial accounting information for decision making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data",
+            "Collaborating on financial analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing financial data",
+            "Interpreting financial statements",
+            "Decision making based on financial information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing financial projects",
+            "Leading financial analysis teams"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Principles of Managerial Accounting",
+        "courseCode": "ACCT 227",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  Special honors section of ACCT 202.  Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
+        "Technical and Digital Skills": [
+            "Operational accounting",
+            "Use of accounting data for decision making"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in analyzing accounting data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Accounting for Entrepreneurs",
+        "courseCode": "ACCT 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is for non-accounting students who wish to start their own businesses. The course is designed to support entrepreneur activities such as: producing meaningful financial statements and management accounting reports to measure firm performance; choosing the appropriate business entity type; basic tax issues and planning in starting and running a small business; establishing an effective governance structure; and setting up an anti-fraud prevention program. Accounting majors or minors cannot use this course as an accounting elective, but can use the course as a 300-400 business elective. This course will not be used in the calculation of grade point average for an accounting major or accounting minor.",
+        "Technical and Digital Skills": [
+            "Producing financial statements",
+            "Management accounting reporting",
+            "Tax planning for small businesses",
+            "Anti-fraud prevention program setup"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective governance structure establishment",
+            "Choosing appropriate business entity type"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Measuring firm performance",
+            "Critical evaluation of financial information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Business planning for entrepreneurs"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Accounting I",
+        "courseCode": "ACCT 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  The course covers financial statement and managerial accounting information preparation for external and internal users in accordance with prevailing accounting standards established by recognized accounting bodies. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 301 are strongly encouraged to retake these courses in preparation for ACCT 301.  Students must have a C or better in ACCT 301 to proceed to other upper-level accounting courses. Students in the Accounting Major Professional (AP) program or seeking acceptance in the MSA program must achieve a B- or better in ACCT 301.",
+        "Technical and Digital Skills": [
+            "Financial statement preparation",
+            "Managerial accounting information preparation",
+            "Knowledge of prevailing accounting standards",
+            "Understanding of recognized accounting bodies' standards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with external and internal users",
+            "Presentation of financial information to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial data",
+            "Application of accounting standards to real-world scenarios",
+            "Identification of discrepancies in financial statements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for accounting tasks",
+            "Teamwork in group accounting projects"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Accounting II",
+        "courseCode": "ACCT 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  Preparation of financial statements and other reports in accordance with prevailing accounting standards established by the accounting profession. Students must have a C- or better grade in ACCT 302 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
+        "Technical and Digital Skills": [
+            "Preparation of financial statements",
+            "Understanding prevailing accounting standards",
+            "Financial reporting compliance",
+            "Accounting software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information",
+            "Collaboration with team members on financial reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing financial data",
+            "Identifying discrepancies in financial statements",
+            "Interpreting accounting regulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading financial reporting projects",
+            "Prioritizing tasks in financial statement preparation"
+        ]
+    },
+    {
+        "courseTitle": "Essentials of Financial Accounting I",
+        "courseCode": "ACCT 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the gateway to the undergraduate accounting program at Old Dominion University. It is the first of three financial accounting courses designed to strengthen the technical, communication, and critical thinking skills required to succeed in accounting-related careers. This course covers the theoretical foundation, concepts, and principles that underlie financial statement preparation. It exposes students to accounting by providing an in-depth study of the accounting cycle, income statement and balance sheet. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 305 are strongly encouraged to retake these courses in preparation for ACCT 305. Students must have a C or better in ACCT 305 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 305.",
+        "Technical and Digital Skills": [
+            "Financial statement preparation",
+            "Excel for financial statements",
+            "Data analysis using Excel",
+            "Using authoritative sources for accounting positions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in accounting",
+            "Analyzing financial data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning for upper-level accounting courses",
+            "Achieving required grades for MSA program acceptance"
+        ]
+    },
+    {
+        "courseTitle": "Essentials of Financial Accounting II",
+        "courseCode": "ACCT 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the second of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include: inventories; property, plant, and equipment; investments; and current and long-term liabilities. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better in ACCT 306 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 306.",
+        "Technical and Digital Skills": [
+            "Financial statement preparation",
+            "Excel for financial statements",
+            "Data analysis using Excel",
+            "FASB Accounting Standards Codification",
+            "Authoritative sources for accounting positions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Understanding of inventories, investments, and liabilities in financial statements"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Essentials of Financial Accounting III",
+        "courseCode": "ACCT 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the third of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include leases, pensions, accounting for income taxes, stockholders’ equity, earnings per share, the Statement of Cash Flows, and other corporate reporting issues. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better grade in ACCT 307 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better in ACCT 307.",
+        "Technical and Digital Skills": [
+            "Financial statement preparation",
+            "Excel for financial statements",
+            "Data analysis in Excel",
+            "FASB Accounting Standards Codification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data",
+            "Collaborating on financial reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing financial data",
+            "Critical evaluation of financial information",
+            "Applying accounting standards"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing financial projects",
+            "Leading financial reporting teams"
+        ]
+    },
+    {
+        "courseTitle": "Managerial Accounting",
+        "courseCode": "ACCT 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students. This course focuses on recording and allocating costs within traditional managerial accounting systems. Common and joint cost allocations are performed under job order, process and standard costing systems. Income models are developed for exploring cost-volume-profit relationships. Students must have a C- or better in ACCT 311 to graduate with a major in accounting.  Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
+        "Technical and Digital Skills": [
+            "Cost allocation methods in managerial accounting",
+            "Income model development",
+            "Job order costing systems",
+            "Process costing systems",
+            "Standard costing systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cost information",
+            "Exploring cost-volume-profit relationships"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "ACCT 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be repeated for credit and available for pass/fail grading only. Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of work experience criteria",
+        "Organizational and Leadership Skills": "Planning work experience activities, coordinating with Career Development Services"
+    },
+    {
+        "courseTitle": "Student Internship",
+        "courseCode": "ACCT 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department and the Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": [
+            "Professional work experience in a specific field",
+            "Hands-on application of theoretical knowledge",
+            "Utilizing industry-specific tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisors and colleagues",
+            "Networking within the organization",
+            "Receiving and implementing feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to new challenges in a professional setting",
+            "Identifying and addressing issues in work tasks",
+            "Developing creative solutions to problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a work environment",
+            "Taking initiative in project tasks",
+            "Working collaboratively in a team setting"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "ACCT 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": [
+            "Professional work experience in a specialized field",
+            "Approval process understanding",
+            "Enrollment credit determination"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "courseCode": "ACCT 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities. Students must have a C- or better in ACCT 405 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 405.",
+        "Technical and Digital Skills": [
+            "Governmental and nonprofit accounting principles application",
+            "Budgeting and control implementation",
+            "Auditing procedures for such entities",
+            "Knowledge of ACCT 405 course material"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information to stakeholders",
+            "Collaboration with team members on auditing concerns"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial data",
+            "Identifying discrepancies in accounting records",
+            "Analyzing budgeting variances in governmental and nonprofit organizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading auditing teams in governmental and nonprofit settings",
+            "Implementing accounting control measures",
+            "Managing budgeting processes in such entities"
+        ]
+    },
+    {
+        "courseTitle": "Financial Auditing",
+        "courseCode": "ACCT 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.  Students must have a C- or better grade in ACCT 411 to graduate with a major in accounting.",
+        "Technical and Digital Skills": [
+            "Understanding Generally Accepted Accounting Principles (GAAP)",
+            "Financial statement analysis",
+            "Public reporting standards knowledge",
+            "Audit software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of audit findings",
+            "Collaboration with audit team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial information",
+            "Identification of audit risks",
+            "Root cause analysis of financial discrepancies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of audit engagements",
+            "Delegation of audit tasks",
+            "Decision-making in audit processes"
+        ]
+    },
+    {
+        "courseTitle": "Tax Research",
+        "courseCode": "ACCT 422/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships.  The course emphasizes research skills and professional ethics. Students must have a C- or better in ACCT 422 to graduate with a major in accounting.",
+        "Technical and Digital Skills": [
+            "Taxation regulations understanding",
+            "Tax research methodologies",
+            "Financial statement analysis for tax purposes",
+            "Tax software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional ethics in taxation",
+            "Effective communication of tax findings",
+            "Collaboration with tax professionals and clients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of tax laws and regulations",
+            "Identification of tax implications for different business entities",
+            "Problem-solving in complex tax scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in tax research",
+            "Leadership in tax planning initiatives",
+            "Organizing tax data for efficient analysis"
+        ]
+    },
+    {
+        "courseTitle": "Taxation of Individuals",
+        "courseCode": "ACCT 425",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations. Reconciliation of tax and accounting concepts. Students must have a C- or better in ACCT 425 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better. This course, plus an additional self-study module and test on Blackboard, will satisfy the requirement for those whose catalog requires ACCT 421.",
+        "Technical and Digital Skills": [
+            "Federal income tax law analysis",
+            "Tax and accounting reconciliation",
+            "Blackboard self-study module proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of tax concepts",
+            "Collaboration on tax case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of tax implications",
+            "Problem-solving in tax scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of personal and business tax situations",
+            "Leadership in tax planning and compliance"
+        ]
+    },
+    {
+        "courseTitle": "Taxation of Business Entities",
+        "courseCode": "ACCT 426",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of federal income tax law and its application to business entities. Students must have a C- or better in ACCT 426 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better.",
+        "Technical and Digital Skills": [
+            "Understanding federal income tax law",
+            "Application of tax law to business entities",
+            "Tax planning for businesses"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of tax implications to stakeholders",
+            "Collaboration with tax professionals and business leaders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex tax scenarios for businesses",
+            "Identifying tax-saving opportunities for companies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax compliance for business entities",
+            "Leading tax strategy development for organizations"
+        ]
+    },
+    {
+        "courseTitle": "International and Advanced Accounting",
+        "courseCode": "ACCT 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of accounting for international operations and business combinations. Students may enroll in ACCT 450 as the BSBA required International Business elective.  Students must have a C- or better in ACCT 450 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 450.",
+        "Technical and Digital Skills": [
+            "International accounting standards knowledge",
+            "Financial reporting for multinational corporations",
+            "Consolidated financial statements preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective cross-cultural communication in accounting",
+            "Collaboration in international accounting teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex international financial data",
+            "Identification of accounting issues in global business operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading international accounting projects",
+            "Managing accounting teams across borders"
+        ]
+    },
+    {
+        "courseTitle": "Accounting Information Systems",
+        "courseCode": "ACCT 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The theoretical and practical approaches to the understanding of accounting information systems. Emphasis is placed on the understanding of how accounting is related to other business processes, how internal controls are ensured, and exposure to manual and ERP based accounting systems. Students must have a C- or better in ACCT 460 to graduate with a major in accounting. Students are encouraged to take ACCT 460 before completing ACCT 411.",
+        "Technical and Digital Skills": [
+            "Understanding of ERP based accounting systems",
+            "Internal controls implementation",
+            "Knowledge of manual accounting systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of accounting information",
+            "Identification of business process relationships"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Selected Topics in Accounting",
+        "courseCode": "ACCT 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study designed for students desiring additional work in an area of particular interest in accounting.  This course may not be substituted for any required accounting course. Students must have a C- or better in ACCT 495 to graduate.",
+        "Technical and Digital Skills": [
+            "Advanced financial modeling",
+            "Data analysis using accounting software",
+            "Utilizing spreadsheet functions for financial analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of accounting findings",
+            "Collaboration on accounting projects with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial data",
+            "Identifying accounting discrepancies",
+            "Developing solutions for complex accounting problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading accounting project teams",
+            "Time management for accounting tasks",
+            "Prioritizing accounting responsibilities"
+        ]
+    },
+    {
+        "courseCode": "ACCT 505",
+        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "academicLevel": "graduate",
+        "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities.",
+        "Technical and Digital Skills": [
+            "Governmental fund accounting",
+            "Not-for-profit organization accounting",
+            "Auditing procedures for public/nonprofit entities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with government officials",
+            "Clear reporting to stakeholders in the nonprofit sector"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Budget analysis and forecasting for governmental funds",
+            "Identifying control weaknesses in nonprofit organizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading audit teams in the public sector",
+            "Project management for auditing concerns in nonprofits"
+        ]
+    },
+    {
+        "courseCode": "ACCT 511",
+        "courseTitle": "Financial Auditing",
+        "academicLevel": "graduate",
+        "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.",
+        "Technical and Digital Skills": [
+            "Understanding Generally Accepted Accounting Principles (GAAP)",
+            "Financial statement analysis",
+            "Public reporting standards knowledge",
+            "Auditing standards comprehension"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of audit findings",
+            "Team collaboration in auditing processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial statements",
+            "Identification of financial discrepancies",
+            "Analytical review of audit evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in auditing",
+            "Leading audit teams",
+            "Ethical decision-making in auditing"
+        ]
+    },
+    {
+        "courseCode": "ACCT 521",
+        "courseTitle": "Taxation",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations.  Reconciliation of tax and accounting concepts.",
+        "Technical and Digital Skills": [
+            "Understanding federal income tax law",
+            "Applying tax law to personal and business situations",
+            "Reconciliation of tax and accounting concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining tax concepts to clients",
+            "Effective communication with stakeholders regarding tax situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex tax scenarios",
+            "Identifying tax implications in different situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax documentation efficiently",
+            "Leading tax-related projects"
+        ]
+    },
+    {
+        "courseCode": "ACCT 522",
+        "courseTitle": "Tax Research",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships. The course emphasizes research skills and professional ethics.",
+        "Technical and Digital Skills": [
+            "Tax research methodologies",
+            "Taxation of corporations (C and S corporations)",
+            "Taxation of partnerships and sole proprietorships"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective research communication",
+            "Professional ethics in taxation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of tax information",
+            "Research-based decision-making in taxation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritizing tax research tasks",
+            "Leading tax research projects"
+        ]
+    },
+    {
+        "courseCode": "ACCT 550",
+        "courseTitle": "International and Advanced Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of accounting for international operations and business combinations.",
+        "Technical and Digital Skills": [
+            "Understanding international accounting standards",
+            "Financial reporting for multinational corporations",
+            "Consolidation of financial statements for global entities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective cross-cultural communication in accounting",
+            "Presenting complex financial information to diverse stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing foreign exchange impact on financial statements",
+            "Interpreting international tax implications on business operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating global accounting teams",
+            "Leading international financial reporting projects"
+        ]
+    },
+    {
+        "courseCode": "ACCT 609",
+        "courseTitle": "Managerial Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of concepts of managerial accounting.  This course focuses on the techniques and approaches to organizing and understanding internally generated accounting information.  The objective of the course is to provide students with a set of tools that utilize managerial accounting information for solving business problems.",
+        "Technical and Digital Skills": [
+            "Understanding accounting information systems",
+            "Financial statement analysis",
+            "Cost-volume-profit analysis",
+            "Budgeting techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data to stakeholders",
+            "Collaborating with cross-functional teams on cost analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Utilizing variance analysis for decision-making",
+            "Interpreting internal accounting information for strategic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cost reduction initiatives",
+            "Implementing performance measurement systems for team evaluation"
+        ]
+    },
+    {
+        "courseCode": "ACCT 611",
+        "courseTitle": "Financial Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the concepts of financial accounting.  This course covers the financial reporting process and the development of financial statements for external users.  The overall objective of the course is to provide students with a sufficient fluency to be intelligent readers of financial accounting information.",
+        "Technical and Digital Skills": [
+            "Financial reporting process",
+            "Development of financial statements",
+            "Reading financial accounting information intelligently"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial data to external users",
+            "Collaboration with stakeholders on financial reporting",
+            "Presentation of financial information in a clear and concise manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of financial data for decision-making",
+            "Identification of financial trends and patterns",
+            "Interpretation of financial statements for strategic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial project management",
+            "Leading financial reporting teams",
+            "Strategic financial decision-making"
+        ]
+    },
+    {
+        "courseCode": "ACCT 623",
+        "courseTitle": "Accounting Analytics and Operational Reviews",
+        "academicLevel": "graduate",
+        "courseDescription": "Accounting analytics appropriate for professional accountants, whether in public accounting, industry, or government/non-profit. Much of the course involves hands-on learning focusing on decision, descriptive, predictive, and prescriptive analytics using the latest analytics/data visualization software.",
+        "Technical and Digital Skills": [
+            "Decision analytics",
+            "Descriptive analytics",
+            "Predictive analytics",
+            "Prescriptive analytics",
+            "Data visualization software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ACCT 624",
+        "courseTitle": "Information Technology Assurance Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Standards, ethics, and practice of information technology assurance services particularly as it concerns the governance and control of information systems.",
+        "Technical and Digital Skills": [
+            "Information security protocols",
+            "Risk assessment methodologies",
+            "IT governance frameworks",
+            "Control systems implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of technical findings to non-technical stakeholders",
+            "Collaboration with cross-functional teams on audit projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information systems",
+            "Identification and remediation of control weaknesses",
+            "Root cause analysis of security incidents"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of IT assurance engagements",
+            "Team leadership in audit planning and execution"
+        ]
+    },
+    {
+        "courseCode": "ACCT 625",
+        "courseTitle": "Fraud Examination and Forensic Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "Standards, ethics, and practice of fraud examination and forensic accounting particularly as it concerns the accounting profession.",
+        "Technical and Digital Skills": [
+            "Fraud examination techniques",
+            "Forensic accounting methods",
+            "Data analysis tools for financial investigations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical communication with stakeholders",
+            "Interviewing techniques for fraud detection"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of financial documents",
+            "Identifying patterns of fraudulent activities",
+            "Evidence collection and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing fraud examination teams",
+            "Ethical decision-making in forensic accounting"
+        ]
+    },
+    {
+        "courseCode": "ACCT 626",
+        "courseTitle": "Financial and Global Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers current financial accounting standards and the problems faced by national and multinational corporations in reporting financial information to external users in a global economy. There will be a discussion of the various techniques for presenting and analyzing financial statements and the ethical issues related to those presentations.",
+        "Technical and Digital Skills": [
+            "Financial accounting standards knowledge",
+            "Financial statement analysis techniques",
+            "Ethical issues in financial reporting",
+            "Global economy understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information to external users",
+            "Collaboration with multinational corporations",
+            "Presentation skills for financial statements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex financial data",
+            "Identifying and resolving reporting challenges faced by corporations",
+            "Critical evaluation of financial information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading financial reporting projects",
+            "Managing global accounting teams",
+            "Strategic planning for financial statement presentations"
+        ]
+    },
+    {
+        "courseCode": "ACCT 627",
+        "courseTitle": "Operational Cost Control",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers cost concepts and analysis in both a manufacturing and service operational environment.  Provides an introduction to activity based costing and standard cost systems, methodology for measuring productivity changes and cost of quality and measurement and control of operating performance.",
+        "Technical and Digital Skills": [
+            "Activity-based costing analysis",
+            "Standard cost systems implementation",
+            "Productivity measurement techniques",
+            "Quality cost analysis",
+            "Operating performance control methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Cost concepts analysis",
+            "Measurement methodology application",
+            "Performance evaluation",
+            "Data interpretation for cost control"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ACCT 630",
+        "courseTitle": "Business Valuations using Financial Statement Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the analysis and interpretation of financial statements, including the significant accounting issues involved in performing an effective valuation of a company.",
+        "Technical and Digital Skills": [
+            "Financial statement analysis",
+            "Valuation techniques",
+            "Accounting principles",
+            "Excel financial modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial analysis",
+            "Collaboration with team members on valuation projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying key financial metrics for valuation",
+            "Interpreting complex financial data",
+            "Critical thinking in valuation analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for valuation projects",
+            "Leading valuation team discussions and decision-making"
+        ]
+    },
+    {
+        "courseCode": "ACCT 640",
+        "courseTitle": "Professional Ethics and Legal Issues In Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive course covering ethical and legal issues confronted by practicing accountants.  The course emphasizes rigorous analysis of complex situations leading to appropriate solutions.",
+        "Technical and Digital Skills": [
+            "Understanding of accounting software systems",
+            "Knowledge of financial data analysis tools",
+            "Information security in accounting practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex accounting issues",
+            "Collaborative problem-solving with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ethical and legal dilemmas in accounting",
+            "Analytical reasoning for complex accounting situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making under ethical constraints",
+            "Leadership in resolving legal issues in accounting"
+        ]
+    },
+    {
+        "courseCode": "ACCT 650",
+        "courseTitle": "Tax Strategies for Business Decisions",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietor-ships. The course emphasizes research skills and professional ethics.",
+        "Technical and Digital Skills": [
+            "Taxation regulations understanding",
+            "Tax planning software proficiency",
+            "Research skills in tax laws",
+            "Knowledge of C and S corporations taxation",
+            "Partnerships and sole proprietorships tax implications awareness"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of tax strategies",
+            "Collaboration with tax professionals and clients",
+            "Professional ethics in tax decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of tax implications for business decisions",
+            "Research skills for tax planning strategies",
+            "Evaluation of tax efficiency for different business entities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making in tax planning",
+            "Leadership in tax strategy implementation",
+            "Organization of tax documents and filings"
+        ]
+    },
+    {
+        "courseCode": "ACCT 651",
+        "courseTitle": "Taxation of Corporations I",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers federal income taxation of corporations and shareholders. Includes organizing a corporation; establishing capital structure; determining tax liability; dividends and other non-liquidating distributions; stock redemptions; and liquidations.",
+        "Technical and Digital Skills": [
+            "Understanding federal income taxation laws for corporations",
+            "Calculating tax liability for corporations",
+            "Analyzing capital structure for tax optimization",
+            "Interpreting tax implications of dividends and distributions",
+            "Knowledge of stock redemptions and liquidations in tax context"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex tax concepts to stakeholders",
+            "Collaborating with tax professionals and shareholders",
+            "Negotiating tax strategies with clients or authorities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing financial data for tax planning purposes",
+            "Identifying tax-saving opportunities for corporations",
+            "Interpreting tax laws for specific corporate scenarios",
+            "Evaluating tax consequences of different corporate actions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading tax planning initiatives for corporations",
+            "Coordinating with legal and financial teams for tax compliance",
+            "Managing tax documentation and reporting processes"
+        ]
+    },
+    {
+        "courseCode": "ACCT 652",
+        "courseTitle": "Taxation of Partners and Partnerships",
+        "academicLevel": "graduate",
+        "courseDescription": "Taxation of partners and partnerships: formation, termination, distributions and liquidations, and sales of partnership interests. Limited partnerships in conjunction with their use as tax shelters, and the multifaceted attributes of family partnerships.",
+        "Technical and Digital Skills": [
+            "Understanding tax laws related to partnerships",
+            "Calculating partnership tax liabilities",
+            "Analyzing tax implications of partnership transactions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining tax strategies to partners",
+            "Negotiating tax issues with stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating tax consequences of partnership decisions",
+            "Resolving tax disputes within partnerships"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing partnership tax compliance",
+            "Leading tax planning initiatives for partnerships"
+        ]
+    },
+    {
+        "courseCode": "ACCT 653",
+        "courseTitle": "Taxation of Estates and Gifts",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines transfers under federal estate and gift tax laws. Includes property owned by the decedent; retained life estates; transfers taking effect at death; transfers with retained powers; concurrent property interest; powers of appointment; valuation problems; expenses, debts, and taxes; charitable bequests; marital deduction; taxable inter vivos gifts; gift splitting and credits; consideration of Chapter 14 and asset freezing techniques; and transfer taxation of life insurance.",
+        "Technical and Digital Skills": [
+            "Valuation techniques for estate and gift tax purposes",
+            "Understanding federal estate and gift tax laws",
+            "Asset freezing techniques",
+            "Transfer taxation of life insurance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex tax concepts to clients",
+            "Negotiating with tax authorities on estate and gift tax matters"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing concurrent property interests for tax implications",
+            "Identifying and resolving valuation problems in estate and gift tax calculations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading estate planning meetings with clients",
+            "Managing multiple estate and gift tax cases simultaneously"
+        ]
+    },
+    {
+        "courseCode": "ACCT 654",
+        "courseTitle": "Income Taxation of Estates, Trusts & Beneficiaries",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines simple, complex, and revocable trusts; trusts accumulation distributions; income in respect of decedents; trust accounting income; distributable net income; terminations; excess deductions; basis rules; and the decedent's final income tax return.",
+        "Technical and Digital Skills": [
+            "Understanding of income tax laws related to estates and trusts",
+            "Calculation of trust accounting income",
+            "Knowledge of distributable net income rules",
+            "Ability to prepare the decedent's final income tax return"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with beneficiaries and trustees regarding tax implications",
+            "Ability to explain complex tax concepts to non-tax professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing trust accumulation distributions",
+            "Solving issues related to excess deductions",
+            "Interpreting basis rules for estate and trust assets"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing multiple trust terminations simultaneously",
+            "Providing leadership in coordinating estate tax filings"
+        ]
+    },
+    {
+        "courseCode": "ACCT 655",
+        "courseTitle": "Taxation of Corporations II",
+        "academicLevel": "graduate",
+        "courseDescription": "Analyzes the different types of taxable and tax-free acquisitions and reorganizations. Includes determining tax consequences for corporations and shareholders involved in an acquisition or reorganization and analyzing necessary requirements for a tax-free corporate division (spin-off). Covers aspects of filing consolidated federal income tax returns.",
+        "Technical and Digital Skills": [
+            "Tax consequences analysis for corporations and shareholders",
+            "Filing consolidated federal income tax returns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of tax implications to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of tax consequences in acquisitions and reorganizations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for tax-free corporate divisions (spin-offs)"
+        ]
+    },
+    {
+        "courseCode": "ACCT 656",
+        "courseTitle": "Taxation of Deferred Compensation",
+        "academicLevel": "graduate",
+        "courseDescription": "Discusses federal income taxation of deferred compensation plans with emphasis on qualified retirement plans. Reviews plan qualification requirements, reporting and disclosure requirements, and distribution rules. Includes discussion of specific types of plans such as Sec. 401(K) and ESOPs.",
+        "Technical and Digital Skills": [
+            "Understanding federal income tax laws related to deferred compensation plans",
+            "Knowledge of qualified retirement plans regulations",
+            "Familiarity with reporting and disclosure requirements for deferred compensation",
+            "Understanding distribution rules for deferred compensation plans"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex tax concepts to clients or colleagues",
+            "Interacting with plan participants to explain tax implications",
+            "Communicating effectively with IRS or other regulatory bodies regarding plan compliance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the tax implications of different types of deferred compensation plans",
+            "Identifying potential issues with plan qualification requirements",
+            "Resolving discrepancies in plan reporting and disclosures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a team in ensuring plan compliance with tax laws",
+            "Organizing and overseeing the implementation of new deferred compensation plans",
+            "Managing multiple deadlines related to plan qualification and reporting"
+        ]
+    },
+    {
+        "courseCode": "ACCT 661",
+        "courseTitle": "Taxation of the Small Business Corporation",
+        "academicLevel": "graduate",
+        "courseDescription": "Covers federal income taxation of S corporations including election eligibility; termination of status; treatment of income and deduction items; distributions; and basis of stock and debt. Also discusses compensation arrangements in closely held corporations; fiscal year issues; personal service corporations; the advantages of C corporations versus S corporations; corporation liquidation and redemption rules; and the S corporations' built-in gains tax.",
+        "Technical and Digital Skills": [
+            "Federal income taxation knowledge",
+            "Understanding of S corporations regulations",
+            "Basis of stock and debt calculation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with clients on tax matters",
+            "Negotiation skills for compensation arrangements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing income and deduction items for tax optimization",
+            "Identifying built-in gains for tax planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing corporation liquidation processes",
+            "Leading discussions on advantages of C corporations vs. S corporations"
+        ]
+    },
+    {
+        "courseCode": "ACCT 662",
+        "courseTitle": "Tax Procedure and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Discusses procedures for dealing with the IRS. Includes sources of IRS policy; processing returns; auditing returns; rulings and determination letters; assessments and collections; and interest and civil penalties.",
+        "Technical and Digital Skills": [
+            "Knowledge of tax laws and regulations",
+            "Understanding IRS policies",
+            "Processing tax returns efficiently",
+            "Auditing tax returns accurately",
+            "Familiarity with rulings and determination letters",
+            "Handling assessments and collections effectively",
+            "Calculating interest and civil penalties correctly"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with IRS officials professionally",
+            "Explaining tax procedures to clients clearly",
+            "Negotiating with tax authorities persuasively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex tax situations",
+            "Identifying errors in tax documentation",
+            "Resolving tax-related issues efficiently"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing tax-related tasks and deadlines",
+            "Leading a team in tax procedures and practice",
+            "Coordinating with tax professionals and clients"
+        ]
+    },
+    {
+        "courseCode": "ACCT 667",
+        "courseTitle": "Cooperative Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Student participation in a full-time professional work experience.",
+        "Technical and Digital Skills": [
+            "Professional work experience in a specific field",
+            "Hands-on application of technical knowledge in real-world settings",
+            "Utilizing industry-specific software or tools",
+            "Troubleshooting technical issues in a professional environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with colleagues and supervisors",
+            "Networking with professionals in the field",
+            "Team collaboration on projects",
+            "Providing updates on progress and results to stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing challenges in the workplace",
+            "Analyzing data or information to make informed decisions",
+            "Adapting to changing circumstances or requirements",
+            "Implementing innovative solutions to problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively in a professional setting",
+            "Taking initiative on tasks or projects",
+            "Leading a team towards common goals",
+            "Demonstrating accountability and responsibility in work tasks"
+        ]
+    },
+    {
+        "courseCode": "ACCT 668",
+        "courseTitle": "Accounting Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "The course is a practicum in the profession of accounting where theories, concepts, and financial management techniques are applied in a business environment.",
+        "Technical and Digital Skills": [
+            "Financial statement analysis",
+            "Accounting software proficiency (e.g., QuickBooks)",
+            "Excel data manipulation",
+            "Tax preparation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written and verbal communication with clients and team members",
+            "Ability to explain complex financial concepts clearly",
+            "Active listening skills during client meetings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying financial discrepancies",
+            "Analyzing financial data to identify trends and patterns",
+            "Problem-solving in complex financial scenarios",
+            "Critical evaluation of financial information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management to meet deadlines",
+            "Prioritizing tasks effectively",
+            "Taking initiative in completing assigned projects",
+            "Working collaboratively in a team setting"
+        ]
+    },
+    {
+        "courseCode": "ACCT 695",
+        "courseTitle": "Selected Topics in Accounting",
+        "academicLevel": "graduate",
+        "courseDescription": "Study designed for students who have had one of the required courses waived or for students desiring additional work in an area of particular interest in accounting.",
+        "Technical and Digital Skills": [
+            "Advanced financial modeling",
+            "Data analysis using Excel",
+            "Accounting software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of financial data",
+            "Collaboration on accounting projects",
+            "Client communication skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial statement analysis",
+            "Identification of accounting discrepancies",
+            "Problem-solving in complex accounting scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in accounting",
+            "Team coordination in accounting tasks",
+            "Leadership in accounting projects"
+        ]
+    },
+    {
+        "courseCode": "ACCT 697",
+        "courseTitle": "Independent Study in Taxation",
+        "academicLevel": "graduate",
+        "courseDescription": "Individually supervised research projects in selected tax areas. Approval of supervising professor as to topic and evaluation of project required at time of registration.",
+        "Technical and Digital Skills": [
+            "Tax law research",
+            "Tax code analysis",
+            "Financial statement interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of tax findings",
+            "Presentation of research results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of tax information",
+            "Tax planning and strategy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for tax research",
+            "Supervision and evaluation of tax projects"
+        ]
+    },
+    {
+        "courseCode": "ACCT 727",
+        "courseTitle": "Strategic Cost Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on advanced costing concepts, current management accounting practices, and analytical techniques employed by controllers in supporting their organizations' strategic planning processes.",
+        "Technical and Digital Skills": [
+            "Advanced costing concepts",
+            "Management accounting practices",
+            "Analytical techniques for strategic planning processes"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of costing information",
+            "Strategic decision-making based on cost analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "ACCT 730",
+        "courseTitle": "Financial Management Decision Making",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an overview of the role of financial accounting in internal and external decision making. Financial modeling with an emphasis on assessing and valuing economic return will be included.",
+        "Technical and Digital Skills": [
+            "Financial modeling",
+            "Assessing economic return",
+            "Financial accounting principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of financial information",
+            "Collaborative decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Valuing economic return",
+            "Critical evaluation of financial data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial decision-making leadership",
+            "Strategic financial planning"
+        ]
+    },
+    {
+        "courseCode": "ACCT 747",
+        "courseTitle": "Seminar in Controllership",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the capstone course for the study of management accounting.  It includes a review of management accounting practices and analytical techniques employed by controllers in supporting their organization's strategic decision-making process.",
+        "Technical and Digital Skills": [
+            "Management accounting practices",
+            "Analytical techniques for decision-making",
+            "Financial modeling",
+            "Budgeting and forecasting software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting financial data",
+            "Effective communication with stakeholders",
+            "Negotiation skills in financial contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial data analysis",
+            "Cost-benefit analysis",
+            "Risk assessment and mitigation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing financial strategies",
+            "Leading cross-functional teams in financial projects",
+            "Change management in financial processes"
+        ]
+    },
+    {
+        "courseCode": "ACCT 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fall course for master's students in their final semester.  It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of graduation.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis techniques",
+            "Information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination and planning",
+            "Team communication strategies"
+        ]
+    },
+    {
+        "courseCode": "ACCT 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review skills",
+            "Academic writing proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Peer review collaboration",
+            "Professional correspondence abilities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research papers",
+            "Data interpretation and synthesis",
+            "Problem formulation and hypothesis development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research projects",
+            "Team coordination for group assignments",
+            "Project planning and execution"
+        ]
+    }
+]

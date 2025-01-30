@@ -1,0 +1,2098 @@
+[
+    {
+        "courseTitle": "Principles of Nutrition",
+        "courseCode": "HLSC 318",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed especially for those entering the health education or health care field, covering the physiology of each of the major body systems as a basis for understanding those aspects of its function that reflect the importance of various nutrients.",
+        "Technical and Digital Skills": [
+            "Understanding of human physiology",
+            "Knowledge of nutrient function within body systems",
+            "Application of nutritional principles in health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain nutritional concepts",
+            "Effective communication within a healthcare setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physiological responses to nutrients",
+            "Problem-solving in nutrition-related health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of nutritional care plans",
+            "Leading nutritional education initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Health Equity and Disability Culture",
+        "courseCode": "HLSC 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore the history of health equity and disability and how prejudice and discrimination against people with disabilities impact health. Students will learn how to apply health equity frameworks, theories, and research to address disability-specific models of health disparities and to achieve health equity in populations with disabilities.",
+        "Technical and Digital Skills": [
+            "Applying health equity frameworks",
+            "Researching health disparities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and empathizing with people with disabilities",
+            "Confronting prejudice and discrimination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing disability-specific health disparities",
+            "Applying theories to achieve health equity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting health equity in communities",
+            "Addressing systemic discrimination"
+        ]
+    },
+    {
+        "courseTitle": "Population Health",
+        "courseCode": "HLSC 335",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a population-based approach to professional work in disease management, chronic care management and politics, in addition to students studying public health, health policy, quality and patient safety, health care administration, medicine, nursing, pharmacy, social work and other related clinical professions.",
+        "Technical and Digital Skills": [
+            "Disease management",
+            "Chronic care management",
+            "Public health policy analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Patient communication",
+            "Healthcare administration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health policy evaluation",
+            "Quality and patient safety analysis",
+            "Chronic care problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare leadership",
+            "Policy implementation",
+            "Organizational management in healthcare settings"
+        ]
+    },
+    {
+        "courseTitle": "The U.S. Healthcare Delivery System",
+        "courseCode": "HLSC 390",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The uniqueness of the U.S. healthcare delivery system will be explored in terms of a systems framework and its complexity. The basic characteristics that differentiate the U.S. healthcare delivery system from that of other countries will be presented. An understanding of the U.S. health care system has specific implications for health services managers.",
+        "Technical and Digital Skills": [
+            "Understanding of U.S. Healthcare Delivery System",
+            "Comparative analysis of healthcare systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of healthcare policies",
+            "Understanding and explaining healthcare complexities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare services",
+            "Problem-solving in healthcare management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health services management",
+            "Organizing and leading healthcare systems"
+        ]
+    },
+    {
+        "courseTitle": "Interprofessional Study Abroad on Global Health",
+        "courseCode": "HLSC 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This study abroad service learning course will introduce the student to the political, social, cultural, and ethical issues involved in prevention and health promotion globally. Students will travel to another country and learn the incidence/prevalence, morbidity/mortality, and identified public health problems in specific regions and countries.",
+        "Technical and Digital Skills": [
+            "Analyzing health data",
+            "Identifying public health problems",
+            "Understanding of global health statistics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Collaboration with health professionals",
+            "Ethical communication with diverse populations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social and cultural factors influencing health",
+            "Problem identification in global health",
+            "Preventive strategy formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination in diverse contexts",
+            "Leading health promotion initiatives",
+            "Understanding of global health policy"
+        ]
+    },
+    {
+        "courseTitle": "Health Aspects of Aging",
+        "courseCode": "HLSC 425/525",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Identifies major issues and problems in meeting health care needs of the aged. Emphasis on role of social assets and supports in determining effects of life changes on the aging process.",
+        "Technical and Digital Skills": [
+            "Understanding of health care systems",
+            "Knowledge on the aging process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with the aged",
+            "Understanding and empathizing with aging individuals' life changes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing health care issues for the aged",
+            "Analyzing effects of social assets and supports on the aging process"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading support groups for the aged",
+            "Coordinating health care needs for the aged"
+        ]
+    },
+    {
+        "courseTitle": "Community Health Resources and Health Promotion",
+        "courseCode": "HLSC 430W/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to provide information about community health resources and health promotion theory. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Researching online health resources",
+            "Using digital platforms for health promotion",
+            "Writing health promotion materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of health promotion theory",
+            "Writing proficiently on health topics",
+            "Communicating community health resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing community health needs",
+            "Developing health promotion strategies",
+            "Evaluating effectiveness of health resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning health promotion campaigns",
+            "Organizing community health resource information",
+            "Leading health promotion efforts in the community"
+        ]
+    },
+    {
+        "courseTitle": "Finance and Budgeting in Healthcare",
+        "courseCode": "HLSC 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers financial management functions in healthcare organizations including operating and capital budgeting processes along with budgeting and financial controls.",
+        "Technical and Digital Skills": [
+            "Financial management in healthcare",
+            "Operating budgeting processes",
+            "Capital budgeting processes",
+            "Budgeting and financial controls"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of financial information",
+            "Inter-departmental coordination for budgeting processes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial problem-solving",
+            "Analytical skills for budgeting processes",
+            "Analyzing financial controls"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial leadership in healthcare",
+            "Budget planning and organization",
+            "Implementation of financial controls"
+        ]
+    },
+    {
+        "courseTitle": "Health Services Research Methods",
+        "courseCode": "HLSC 445/545",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on health services research and its assessment abilities and application in health care and public health. Topics include the use of EXCEL, SAS, and SPSS to analyze data. An exploration of the issues and challenges of health services research for health related organizations and other organizations. Statistical procedures and practices will also be conducted.",
+        "Technical and Digital Skills": [
+            "EXCEL proficiency",
+            "SAS proficiency",
+            "SPSS proficiency",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with health related organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health services research",
+            "Statistical procedures and practices",
+            "Assessment abilities application",
+            "Understanding and addressing challenges in health services research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health services research",
+            "Managing health data",
+            "Applying research findings in health care and public health"
+        ]
+    },
+    {
+        "courseTitle": "Public and Community Health Administration",
+        "courseCode": "HLSC 450/550",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A review of the principles and practice of administering public and community health organizations and programs at federal, state, and local levels. Constitutional, statutory and administrative bases for organizing and conducting public/community health programs will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of public health policies",
+            "Knowledge of community health systems",
+            "Familiarity with federal, state, and local health regulations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex health policies",
+            "Interacting with health agencies",
+            "Collaborating with community health organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health policies and programs",
+            "Evaluating effectiveness of public/community health programs",
+            "Identifying potential legal issues in health administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administering health organizations and programs",
+            "Leading public/community health initiatives",
+            "Organizing health programs at different administrative levels"
+        ]
+    },
+    {
+        "courseTitle": "Managerial Epidemiology",
+        "courseCode": "HLSC 461/561",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will blend theory and application of epidemiology. This course will also provide a comprehensive introduction to epidemiology and explain how to use epidemiological concepts and tools to improve decisions about the management of health services.",
+        "Technical and Digital Skills": [
+            "Application of epidemiological concepts",
+            "Use of epidemiological tools",
+            "Health services management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of epidemiological findings",
+            "Effective communication of management decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of epidemiological data",
+            "Decision making in health services management",
+            "Problem solving in epidemiology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in health services",
+            "Leadership in health service management"
+        ]
+    },
+    {
+        "courseTitle": "Policy and Politics of Health",
+        "courseCode": "HLSC 465/565",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore both health policy and the politics of health. Students will develop an understanding of the systematic and analytical framework for developing health and health care policy issues.",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Research on health care issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion on policy issues",
+            "Presenting health care policy issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical framework development",
+            "Systematic approach to policy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning in health policy",
+            "Leading health policy change initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "HLSC 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The internship will allow a student new to the health administration field or public health field to complete a capstone internship to gain entry skills for a beginning career pathway in the profession. The course is intended to provide field experience and assimilation of the theoretical aspects learned in the coursework in a practical/work setting. A minimum of 200 hours is required for the 3-credit internship.",
+        "Technical and Digital Skills": [
+            "Health administration",
+            "Public health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Field experience",
+            "Workplace assimilation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theoretical application",
+            "Real-world problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-guidance"
+        ]
+    },
+    {
+        "courseTitle": "Healthcare Marketing",
+        "courseCode": "HLSC 475/575",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a basic understanding of marketing in a health care setting. It will cover the following: the history of marketing in a health care setting, health care markets, marketing techniques, and leadership skills in managing and supporting the marketing efforts.",
+        "Technical and Digital Skills": [
+            "Understanding of healthcare markets",
+            "Knowledge of marketing techniques in a health care setting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting marketing strategies",
+            "Communicating marketing efforts to the team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare markets",
+            "Evaluating the effectiveness of marketing techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in managing marketing efforts",
+            "Supporting the marketing team",
+            "Organizing marketing strategies"
+        ]
+    },
+    {
+        "courseTitle": "Health Ethics and the Law",
+        "courseCode": "HLSC 480/580",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the students with a basic knowledge of health law and examines legal issues confronting health services administrators in various health care environments.",
+        "Technical and Digital Skills": [
+            "Understanding of health law",
+            "Familiarity with legal issues in health care environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with health services administrators",
+            "Negotiation and conflict resolution within legal contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of legal issues in health care",
+            "Problem-solving in health law disputes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in health care environments",
+            "Management of legal issues in health services administration"
+        ]
+    },
+    {
+        "courseTitle": "Health Informatics",
+        "courseCode": "HLSC 485/585",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on healthcare informatics (information systems) and applications in health care organizations. It provides an overview of health information system concepts, management, and integration of technology in healthcare organizations.",
+        "Technical and Digital Skills": [
+            "Understanding of healthcare informatics",
+            "Management of health information systems",
+            "Integration of technology in healthcare organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of healthcare information",
+            "Collaboration within healthcare organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of healthcare information",
+            "Problem-solving in healthcare informatics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare informatics",
+            "Organization of health information systems"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Public/Community Health Administration",
+        "courseCode": "HLSC 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides the opportunity for the study of selected topics in public/community health under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "Data collection and analysis",
+            "Healthcare software usage",
+            "Basic IT skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse communities",
+            "Collaboration with healthcare professionals",
+            "Community engagement",
+            "Stakeholder management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Public health issue analysis",
+            "Solution development for community health issues",
+            "Critical thinking",
+            "Healthcare policy analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in health administration",
+            "Leadership in healthcare settings",
+            "Organizational skills in community outreach programs"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Health Services Administration",
+        "courseCode": "HLSC 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in health services administration. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data analysis",
+            "Report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Collaboration with faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of research problems",
+            "Critical thinking",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-direction",
+            "Meeting scheduling and management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 525",
+        "courseTitle": "Health Aspects of Aging",
+        "academicLevel": "graduate",
+        "courseDescription": "Identifies major issues and problems in meeting health care needs of the aged. Emphasis on role of social assets and supports in determining effects of life changes on the aging process.",
+        "Technical and Digital Skills": [
+            "Healthcare systems understanding",
+            "Data analysis of social factors impacting health",
+            "Evaluation of healthcare needs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Empathy towards aged individuals",
+            "Effective communication with aged individuals",
+            "Collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of health issues in aged individuals",
+            "Assessment of life changes impact on aging process",
+            "Evaluation of social support systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organization of suitable healthcare for aged",
+            "Leadership in healthcare context for the aged"
+        ]
+    },
+    {
+        "courseCode": "HLSC 530",
+        "courseTitle": "Community Health Resources and Health Promotion",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide information about community health resources and health promotion theory.",
+        "Technical and Digital Skills": [
+            "Health promotion theory understanding",
+            "Research and identification of community health resources",
+            "Utilization of digital health databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating health promotion strategies",
+            "Liaising with community health resources",
+            "Presenting health information clearly"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing community health needs",
+            "Evaluating effectiveness of health resources",
+            "Problem-solving in health promotion strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing health resources",
+            "Leading health promotion initiatives",
+            "Strategic planning for community health improvement"
+        ]
+    },
+    {
+        "courseCode": "HLSC 540",
+        "courseTitle": "Finance and Budgeting in Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers financial management functions in healthcare organizations including operating and capital budgeting processes along with budgeting and financial controls.",
+        "Technical and Digital Skills": [
+            "Financial management in healthcare",
+            "Operating and capital budgeting",
+            "Budgeting and financial controls"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating financial information",
+            "Collaboration in financial planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Financial problem solving",
+            "Analytical budgeting",
+            "Financial analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Financial leadership in healthcare",
+            "Organizing and leading budgeting processes"
+        ]
+    },
+    {
+        "courseCode": "HLSC 545",
+        "courseTitle": "Health Services Research Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on health services research and its assessment abilities and application in health care and public health. Topics include the use of EXCEL, SAS, and SPSS to analyze data. An exploration of the issues and challenges of health services research for health related organizations and other organizations. Statistical procedures and practices will also be conducted.",
+        "Technical and Digital Skills": [
+            "EXCEL data analysis",
+            "SAS data analysis",
+            "SPSS data analysis",
+            "Understanding of statistical procedures and practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex health service research findings",
+            "Collaboration with health related organizations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health services research and assessment",
+            "Data analysis and interpretation",
+            "Addressing issues and challenges in health services research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting health services research",
+            "Leading health services research initiatives within organizations"
+        ]
+    },
+    {
+        "courseCode": "HLSC 550",
+        "courseTitle": "Public and Community Health Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "A review of the principles and practice of administering public and community health organizations and programs at federal, state, and local levels. Constitutional, statutory and administrative bases for organizing and conducting public/community health programs will be discussed.",
+        "Technical and Digital Skills": [
+            "Understanding of public and community health organizations",
+            "Knowledge of federal, state, and local health programs",
+            "Familiarity with constitutional, statutory and administrative bases for health programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to liaise with various levels of government and health organizations",
+            "Ability to clearly communicate health administration principles and practices",
+            "Ability to discuss and explain statutory and administrative bases for health programs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze and evaluate health administration principles",
+            "Ability to identify potential issues in the administration of public/community health programs",
+            "Ability to solve administrative problems in public and community health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to administer and manage health organizations and programs",
+            "Understanding of leadership roles in public and community health",
+            "Ability to organize public/community health programs"
+        ]
+    },
+    {
+        "courseCode": "HLSC 561",
+        "courseTitle": "Managerial Epidemiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will blend theory and application of epidemiology. This course will also provide a comprehensive introduction to epidemiology and explain how to use epidemiological concepts and tools to improve decisions about the management of health services.",
+        "Technical and Digital Skills": [
+            "Applying epidemiological concepts",
+            "Using epidemiological tools",
+            "Health service management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating epidemiological findings",
+            "Health service communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Improving decisions about health services",
+            "Analyzing epidemiological data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health service management",
+            "Organizing epidemiological findings"
+        ]
+    },
+    {
+        "courseCode": "HLSC 565",
+        "courseTitle": "Policy and Politics of Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will explore both health policy and the politics of health. Students will develop an understanding of the systematic and analytical framework for developing health and health care policy issues.",
+        "Technical and Digital Skills": [
+            "Health policy analysis",
+            "Healthcare system evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Healthcare policy communication",
+            "Articulating health policy issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Systematic analysis of health policy",
+            "Analytical framework development for health care issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare policy development",
+            "Leadership in health politics"
+        ]
+    },
+    {
+        "courseCode": "HLSC 575",
+        "courseTitle": "Healthcare Marketing",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a basic understanding of marketing in a health care setting. This course will cover the following: the history of marketing in a health care setting, health care markets, marketing techniques, and leadership skills in managing and supporting the marketing efforts.",
+        "Technical and Digital Skills": [
+            "Marketing techniques",
+            "Understanding of healthcare markets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating marketing strategies",
+            "Collaboration with marketing team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare markets",
+            "Developing effective marketing strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing marketing efforts",
+            "Supporting marketing team",
+            "Leadership in healthcare setting"
+        ]
+    },
+    {
+        "courseCode": "HLSC 580",
+        "courseTitle": "Health Ethics and the Law",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the students with a basic knowledge of health law and examines legal issues confronting health services administrators in various health care environments.",
+        "Technical and Digital Skills": [
+            "Basic knowledge of health law",
+            "Understanding of legal issues in health care environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating legal issues effectively",
+            "Negotiation and conflict resolution in legal contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing legal issues in health care",
+            "Problem-solving in health care legal situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Decision-making in legal health care contexts",
+            "Leadership in handling legal issues in health care"
+        ]
+    },
+    {
+        "courseCode": "HLSC 585",
+        "courseTitle": "Health Informatics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on healthcare informatics (information systems) and application in health care organizations. It provides an overview of health information system concepts, management, and integration of technology in healthcare organizations.",
+        "Technical and Digital Skills": [
+            "Understanding healthcare informatics",
+            "Knowledge of health information systems",
+            "Integration of technology in healthcare organizations",
+            "Healthcare IT management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating technical information to non-technical personnel",
+            "Liaising between healthcare professionals and IT professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying opportunities for technology integration in healthcare",
+            "Analyzing health information systems for improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing health information systems",
+            "Leading technology integration projects"
+        ]
+    },
+    {
+        "courseCode": "HLSC 595",
+        "courseTitle": "Topics in Public/Community Health Administration",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the opportunity for the study of selected topics in public/community health under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "Research methodologies in public/community health",
+            "Data analysis in public health",
+            "Digital health literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty supervisor",
+            "Interpersonal skills for community engagement",
+            "Cross-cultural communication in public health settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of public/community health issues",
+            "Problem-solving in community health administration",
+            "Evidence-based decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational skills for independent study",
+            "Leadership in public health settings",
+            "Strategic planning in community health"
+        ]
+    },
+    {
+        "courseCode": "HLSC 702",
+        "courseTitle": "Health Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar will provide students with an understanding of health care organizations and effective management. Particular attention will be given to the issues of access, cost and quality.",
+        "Technical and Digital Skills": [
+            "Understanding health care systems",
+            "Data analysis in health management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating health care issues",
+            "Negotiating health care access"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cost-benefit analysis in health care",
+            "Identifying and addressing quality issues in health care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing health care organizations",
+            "Leading health care quality improvement initiatives"
+        ]
+    },
+    {
+        "courseCode": "HLSC 705",
+        "courseTitle": "Interprofessional Study Abroad on Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This study abroad service learning course will introduce the student to the political, social, cultural, and ethical issues involved in prevention and health promotion globally. Students will travel another country and learn the incidence/prevalence, morbidity/mortality, and identified public health problems in specific regions and countries.",
+        "Technical and Digital Skills": [
+            "Data analysis of health statistics",
+            "Research on public health issues",
+            "Identify and understand regional and country-specific health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Interprofessional collaboration",
+            "Effective communication in a foreign environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of political, social, and ethical issues in global health",
+            "Problem identification and prevention strategies in global health",
+            "Promotion of health globally"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing a study abroad program",
+            "Leading health promotion initiatives",
+            "Coordinating with foreign health agencies"
+        ]
+    },
+    {
+        "courseCode": "HLSC 706",
+        "courseTitle": "Leadership in Complex Systems and Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the leadership that comprises two types: informal and formal leadership. Competencies will include communication, knowledge of health care environment, leadership, professionalism, and business skills.",
+        "Technical and Digital Skills": [
+            "Understanding of health care systems",
+            "Basic business and accounting skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Negotiation skills",
+            "Conflict resolution"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex systems",
+            "Strategic decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Formal and informal leadership",
+            "Professionalism in leadership",
+            "Change management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 707",
+        "courseTitle": "Informatics and Healthcare Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover the use of data in health care as well as other informatics applications. Students will explore healthcare technology used to improve the delivery and evaluation of care.",
+        "Technical and Digital Skills": [
+            "Data analysis in healthcare",
+            "Understanding of healthcare technology",
+            "Informatics applications",
+            "Use of data in health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of healthcare data insights",
+            "Collaboration in healthcare technology implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of care through technology",
+            "Analysis of healthcare data",
+            "Problem solving in healthcare informatics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing healthcare data",
+            "Leadership in healthcare technology implementation"
+        ]
+    },
+    {
+        "courseCode": "HLSC 708",
+        "courseTitle": "Evidence-Based Management for Quality Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of the course is on the development of system processes to ensure quality health care. The evidence-based model will be applied to organizational systems.",
+        "Technical and Digital Skills": [
+            "Evidence-based model application",
+            "Healthcare system process development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of system process changes",
+            "Cross-departmental collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification in healthcare processes",
+            "Solution implementation based on evidence-based models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Quality management in healthcare",
+            "Leadership in healthcare system process change"
+        ]
+    },
+    {
+        "courseCode": "HLSC 710",
+        "courseTitle": "Research Design and Application",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HLSC 713",
+        "courseTitle": "Measurement of Health Phenomena",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of measurement theory with emphasis on the development, testing, and refinement of norm- and criterion-referenced data collection instruments for health-related research.",
+        "Technical and Digital Skills": [
+            "Development of data collection instruments",
+            "Testing and refinement of data collection instruments",
+            "Understanding of norm-referenced data",
+            "Understanding of criterion-referenced data"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Measurement theory",
+            "Analysis of health-related research data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HLSC 716",
+        "courseTitle": "Competitive Resource Design and Utilization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the competitive design and utilization of organizational and human resources. Emphasis will be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes. The course will cover the business models for effective financial and personnel management of healthcare organizations. Analysis of the costs and quality of care will be performed.",
+        "Technical and Digital Skills": [
+            "Strategic resource allocation",
+            "Business model analysis",
+            "Cost-quality analysis in healthcare",
+            "Financial management of healthcare organizations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a healthcare setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic problem solving",
+            "Analytical evaluation of resource utilization",
+            "Financial analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare organizations",
+            "Strategic planning and implementation",
+            "Organizational resource management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 746",
+        "courseTitle": "Epidemiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines epidemiology as a method for viewing inborn community health problems and as a body of knowledge derived from this method. Skills in using epidemiology as a method and as knowledge to solve community health problems will be included.",
+        "Technical and Digital Skills": [
+            "Application of epidemiological methods",
+            "Understanding of community health problems",
+            "Knowledge of epidemiology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of health issues",
+            "Community engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in community health",
+            "Analytical thinking in epidemiology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing community health initiatives",
+            "Leading health problem-solving efforts"
+        ]
+    },
+    {
+        "courseCode": "HLSC 751",
+        "courseTitle": "Developmental Neonatal Physiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an in-depth examination of human genetics, embryologic development and normal physiologic functioning of developing body systems. Mechanisms involved in cell division, gametogenesis, and inheritance patterns will be addressed. Basic genetics and epigenetics will be included. The structural and functional development of fetal systems, during critical periods, will be emphasized. Abnormalities and alterations in fetal development will be explored.",
+        "Technical and Digital Skills": [
+            "Understanding of human genetics",
+            "Knowledge of embryologic development",
+            "Understanding of normal physiologic functioning of developing body systems",
+            "Understanding of cell division mechanisms",
+            "Knowledge of gametogenesis",
+            "Understanding of inheritance patterns",
+            "Basic genetics and epigenetics",
+            "Understanding the structural and functional development of fetal systems",
+            "Understanding of abnormalities and alterations in fetal development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex genetic and physiological information",
+            "Ability to communicate findings and observations regarding fetal development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic and physiological data",
+            "Identifying abnormalities in fetal development",
+            "Applying knowledge of genetics and physiology to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to organize and interpret complex genetic and physiological data",
+            "Leading discussions on fetal development",
+            "Managing resources for in-depth research"
+        ]
+    },
+    {
+        "courseCode": "HLSC 764",
+        "courseTitle": "Health Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "Lecture 3 hours; 3 credits.  This course describes the application of economic tools to analyze the operation of markets for health care and insurance.  Topics covered include the consumption and costs of health care in the United States, the viewpoints of players in the health care market, and an overview of both supply and demand analysis and cost effectiveness analysis.  Complexities of economics unique to health care will be detailed.  Further, students will employ these principles in several case studies of current and classic issues in health economics. (Cross-listed with CHP 764)",
+        "Technical and Digital Skills": [
+            "Application of economic tools",
+            "Analyzing operation of markets",
+            "Cost effectiveness analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting case studies",
+            "Understanding viewpoints of players in health care market"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Consumption and costs analysis",
+            "Supply and demand analysis",
+            "Understanding complexities of economics unique to health care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Employing principles in case studies",
+            "Analyzing current and classic issues in health economics"
+        ]
+    },
+    {
+        "courseCode": "HLSC 768",
+        "courseTitle": "Practicum in Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "Global health related field placement (112 hours).",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Collaborative problem-solving",
+            "Health-related field communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health issues analysis",
+            "Public health strategy development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health project management",
+            "Community leadership"
+        ]
+    },
+    {
+        "courseCode": "HLSC 771",
+        "courseTitle": "Foundations of Advanced Neonatal Care",
+        "academicLevel": "graduate",
+        "courseDescription": "The foundations of advanced neonatal care course provides the theoretical and practical knowledge for the neonatal nurse practitioner or physician assistant to manage the health care needs of the neonate in the newborn nursery or level II neonatal intensive care unit.",
+        "Technical and Digital Skills": [
+            "Neonatal care management",
+            "Nursery operations",
+            "Level II neonatal intensive care unit operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with neonatal care team",
+            "Empathy and understanding in neonatal care",
+            "Patient-family communication in neonatal settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Healthcare needs assessment for neonates",
+            "Critical decision making in neonatal care",
+            "Problem-solving under high-stress situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in neonatal care settings",
+            "Organizational skills in managing neonatal care",
+            "Task delegation in neonatal care team"
+        ]
+    },
+    {
+        "courseCode": "HLSC 772",
+        "courseTitle": "Policy and Politics of Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course enables the student to develop a systematic and analytical framework for understanding health care policy issues. The policy process is covered in detail. Timely policy issues also are discussed.",
+        "Technical and Digital Skills": [
+            "Healthcare policy research",
+            "Online policy database navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion of policy issues",
+            "Effective communication of policy analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical framework development",
+            "Healthcare policy analysis",
+            "Issue identification and evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Policy process understanding and management",
+            "Timely issue discussion and resolution"
+        ]
+    },
+    {
+        "courseCode": "HLSC 773",
+        "courseTitle": "Pharmacology for Advanced Neonatal Care",
+        "academicLevel": "graduate",
+        "courseDescription": "This course offers scientific inquiry into the use of pharmacologic agents in the advanced nursing care of infants, including fetal, neonatal life, and early childhood. Pharmacokiinetcs, pharmacodynamics, drug use in pregnancy and lactation, pharmacologic agents used in disease prevention and treatment, drug monitoring and drug safety in the home are explored.",
+        "Technical and Digital Skills": [
+            "Understanding of pharmacokinetics",
+            "Knowledge of pharmacodynamics",
+            "Familiarity with drug use in pregnancy and lactation",
+            "Proficiency in pharmacologic agents used in disease prevention and treatment",
+            "Ability to monitor drug safety in the home environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with pregnant and lactating mothers regarding drug use",
+            "Ability to explain complex pharmacological concepts to non-medical individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting pharmacokinetic and pharmacodynamic data",
+            "Assessing drug safety and efficacy in different neonatal stages"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating and managing drug administration in neonatal care",
+            "Leading patient education initiatives regarding drug safety in the home"
+        ]
+    },
+    {
+        "courseCode": "HLSC 774",
+        "courseTitle": "Advanced Neonatal Care: High Risk Management I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops the students' ability to manage high-risk neonates. This is the second of three sequential management courses that provide the theoretical and practical knowledge for the neonatal nurse practitioner to manage the health care needs of the neonate at the highest level of nursing practice.",
+        "Technical and Digital Skills": [
+            "Neonatal health care management",
+            "Theoretical and practical application of neonatal nursing practices",
+            "High-risk neonate management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a clinical setting",
+            "Collaborative patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of neonatal health status",
+            "Problem-solving in high-risk neonate care",
+            "Critical evaluation of neonatal care practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in neonatal nursing",
+            "Organization of neonatal health care",
+            "Managing neonatal nursing workflow"
+        ]
+    },
+    {
+        "courseCode": "HLSC 775",
+        "courseTitle": "Advanced Neonatal Care: High Risk Management II",
+        "academicLevel": "graduate",
+        "courseDescription": "An organ systems approach is used to explore the diagnosis and management of neonates requiring surgery and advanced technologies. Additional topics will include developmental follow-up of the medically fragile infant and withdrawal of life support in the NICU.",
+        "Technical and Digital Skills": [
+            "Management of neonates requiring surgery",
+            "Utilization of advanced medical technologies",
+            "Developmental follow-up of medically fragile infants"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with neonates' families",
+            "Interdisciplinary collaboration in the NICU"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of neonatal health conditions",
+            "Analyzing and interpreting neonatal health data",
+            "Decision-making in the withdrawal of life support"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a NICU team",
+            "Coordinating care for high-risk neonates",
+            "Organizing follow-up care for medically fragile infants"
+        ]
+    },
+    {
+        "courseCode": "HLSC 776",
+        "courseTitle": "Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce the student to the political, social, cultural and ethical issues involved in disease prevention and health promotion globally. Specific emphasis will be on incidence/prevalence, morbidity/mortality, and identified health problems in specific regions and countries. This course will also identify international health prerogatives aimed at improving health status through education and intervention.",
+        "Technical and Digital Skills": [
+            "Disease prevention and health promotion strategies",
+            "Analyzing health data for specific regions and countries",
+            "Understanding of international health prerogatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical communication regarding sensitive health issues",
+            "Cross-cultural communication and understanding",
+            "Dissemination of health education"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying health problems in specific regions",
+            "Analyzing incidence, prevalence, morbidity, mortality data",
+            "Designing and implementing health intervention strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing disease prevention initiatives",
+            "Leading health promotion efforts",
+            "Coordinating with global health organizations"
+        ]
+    },
+    {
+        "courseCode": "HLSC 778",
+        "courseTitle": "Global Environmental Health",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to guide students with a public health perspective to develop skills to identify and analyze environmental health problems globally. It is designed to provide knowledge on recognizing and evaluating major environmental health issues and risk factors in developed and developing countries by using group discussions and real-life case studies.",
+        "Technical and Digital Skills": [
+            "Environmental risk factor identification",
+            "Analysis of global health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Case study presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Public health issue analysis",
+            "Risk factor evaluation",
+            "Developing solutions for environmental health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Organizing case studies"
+        ]
+    },
+    {
+        "courseCode": "HLSC 780",
+        "courseTitle": "Monitoring & Evaluating Global Health Programs",
+        "academicLevel": "graduate",
+        "courseDescription": "This course familiarizes students with the basic concepts, issues, theories, approaches and models in evaluation in a global public health context. Students in this course will begin to develop technical skills to conceptualize and design evaluations of global public health programs or projects. These practices include determining which evaluation approach to use in a given context, developing an evaluation plan and appropriate evaluation questions, determining the data needed to answer the evaluation questions and establishing reporting processes to provide information to program developers.",
+        "Technical and Digital Skills": [
+            "Conceptualizing and designing evaluations",
+            "Developing an evaluation plan",
+            "Determining appropriate evaluation questions",
+            "Establishing reporting processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating evaluation plans",
+            "Presenting evaluation findings",
+            "Liaising with program developers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification and solution design",
+            "Data analysis for evaluation",
+            "Deciding on appropriate evaluation approach"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing evaluations",
+            "Managing evaluation processes"
+        ]
+    },
+    {
+        "courseCode": "HLSC 782",
+        "courseTitle": "One Health, One Medicine",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will teach students the applications of multidisciplinary competencies towards solving human health challenges. The course will identify all areas of global health issues that require human, veterinary and environmental applications for solutions. One Health One Medicine is an important course for all students in Health or Environmental Sciences that are called upon to integrate multidisciplinary competencies as part of their education and career experiences.",
+        "Technical and Digital Skills": [
+            "Multidisciplinary competency application",
+            "Human health issue identification",
+            "Veterinary health issue identification",
+            "Environmental health issue identification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Effective knowledge sharing across disciplines"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Human health problem-solving",
+            "Veterinary health problem-solving",
+            "Environmental health problem-solving",
+            "Multidisciplinary analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Health issue project coordination",
+            "Leadership in multidisciplinary environments"
+        ]
+    },
+    {
+        "courseCode": "HLSC 784",
+        "courseTitle": "Creating Sustainable Environmental Futures",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the interrelationships between individual and societal decisions and the global environment, and analyzes the consequences these interrelationships have for public health and sustainability. The course will review food, environmental quality, climate variability, sea-level rise and public health, homes-workplaces-communities, and environmental health and sustainability in the region, the nation and around the world.",
+        "Technical and Digital Skills": [
+            "Environmental data analysis",
+            "Understanding of climate variability",
+            "Knowledge on sea-level rise",
+            "Public health data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating complex environmental concepts",
+            "Advocating for sustainable practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing societal and environmental interrelationships",
+            "Assessing consequences of human decisions on environment",
+            "Identifying sustainable solutions in food and environmental quality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning for environmental sustainability",
+            "Leading initiatives for public health and sustainability"
+        ]
+    },
+    {
+        "courseCode": "HLSC 785",
+        "courseTitle": "Issues and Opportunities in Global Health Research",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on global health research with an emphasis on cultural, political and economic influences on health in various regions and provides students opportunities to engage in inter-professional teamwork to brainstorm problem-based issues and establish research proposals.",
+        "Technical and Digital Skills": [
+            "Global health research techniques",
+            "Understanding of cultural, political, and economic influences on health",
+            "Creation of research proposals"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional teamwork",
+            "Brainstorming",
+            "Communication of research proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem identification",
+            "Solution brainstorming",
+            "Analysis of global health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team leadership",
+            "Project organization",
+            "Research proposal management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 795",
+        "courseTitle": "Topics in Health Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced student with an opportunity to study independently or in small groups and investigate specific topics of current interest in health services or health sciences.",
+        "Technical and Digital Skills": [
+            "Health data analysis",
+            "Healthcare technology utilization",
+            "Digital health records management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Articulating complex health concepts",
+            "Healthcare communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Health services research",
+            "Critical analysis of health studies",
+            "Problem solving in healthcare settings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Health project coordination",
+            "Leadership in health group studies"
+        ]
+    },
+    {
+        "courseCode": "HLSC 798",
+        "courseTitle": "Supervised Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research on a specialized topic. Can be repeated.",
+        "Technical and Digital Skills": [
+            "Subject-specific research methodologies",
+            "Use of specialized research tools and software",
+            "Data collection and management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Research presentation and reporting",
+            "Effective communication with supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of research problems",
+            "Development of research hypothesis",
+            "Data analysis and interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Time management",
+            "Self-discipline and self-direction"
+        ]
+    },
+    {
+        "courseCode": "HLSC 801",
+        "courseTitle": "Introduction to Health Services",
+        "academicLevel": "graduate",
+        "courseDescription": "Focuses on the complexities involved in providing health services to populations.  Presents issues related to public health, community health, urban and rural health, healthy people/communities and health care delivery in traditional and non-traditional settings.",
+        "Technical and Digital Skills": [
+            "Understanding of public health services",
+            "Knowledge of healthcare delivery in various settings"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working with diverse communities",
+            "Communicating health information",
+            "Collaborating in health service provision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing health service needs for different populations",
+            "Analyzing health service delivery challenges",
+            "Developing solutions for health service delivery"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading health service initiatives",
+            "Organizing health service delivery in various settings"
+        ]
+    },
+    {
+        "courseCode": "HLSC 802",
+        "courseTitle": "Health Management",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar will provide students with an understanding of health care organizations and effective management. Particular attention will be given to the issues of access, cost and quality.",
+        "Technical and Digital Skills": [
+            "Understanding health care systems",
+            "Healthcare cost analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating healthcare policies",
+            "Negotiation and articulation of healthcare issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare access issues",
+            "Quality assessment in healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective healthcare management",
+            "Leading healthcare organizations"
+        ]
+    },
+    {
+        "courseCode": "HLSC 804",
+        "courseTitle": "Methods of Program Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "Examination of various methodologies for designing and conducting public health program evaluation and research. Experimental, quasi-experimental and non-experimental procedures will be covered.  Departmental approval required.",
+        "Technical and Digital Skills": [
+            "Understanding of experimental procedures",
+            "Knowledge of quasi-experimental procedures",
+            "Application of non-experimental procedures",
+            "Designing public health program evaluations",
+            "Conducting public health program evaluations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Methodological analysis",
+            "Evaluation and research design",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Organizing and conducting research"
+        ]
+    },
+    {
+        "courseCode": "HLSC 805",
+        "courseTitle": "Interprofessional Study Abroad on Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This study abroad service learning course will introduce the student to the political, social, cultural, and ethical issues involved in prevention and health promotion globally. Students will travel another country and learn the incidence/prevalence, morbidity/mortality, and identified public health problems in specific regions and countries.",
+        "Technical and Digital Skills": [
+            "Health data analysis",
+            "Understanding of global health metrics (incidence, prevalence, morbidity, mortality)",
+            "Identifying public health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Effective communication in diverse settings",
+            "Ethical negotiation and decision making in health promotion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Prevention strategy formulation",
+            "Critical analysis of health promotion strategies",
+            "Analysis of political, social, and cultural impacts on health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing health promotion activities",
+            "Leading in diverse and international settings",
+            "Navigating ethical issues in global health"
+        ]
+    },
+    {
+        "courseCode": "HLSC 806",
+        "courseTitle": "Leadership in Complex Systems and Organizations",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will focus on the leadership that comprises two types: informal and formal leadership. Competencies will include communication, knowledge of health care environment, leadership, professionalism, and business skills.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication",
+            "Informal and formal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding of complex systems",
+            "Analysis of organizational structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Formal leadership",
+            "Informal leadership",
+            "Professionalism",
+            "Business skills",
+            "Understanding and navigating the health care environment"
+        ]
+    },
+    {
+        "courseCode": "HLSC 807",
+        "courseTitle": "Informatics and Healthcare Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover the use of data in health care as well as other informatics applications. Students will explore healthcare technology used to improve the delivery and evaluation of care.",
+        "Technical and Digital Skills": [
+            "Understanding data usage in healthcare",
+            "Knowledge of healthcare technology",
+            "Evaluation of care delivery technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex informatics concepts",
+            "Collaborative work in technology evaluation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical evaluation of healthcare technology",
+            "Data-driven problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in healthcare technology",
+            "Leading technology adoption in healthcare settings"
+        ]
+    },
+    {
+        "courseCode": "HLSC 808",
+        "courseTitle": "Evidence-Based Management for Quality Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "The focus of the course is on the development of system processes to ensure quality health care. The evidence-based model will be applied to organizational systems.",
+        "Technical and Digital Skills": [
+            "Applying evidence-based model to organizational systems",
+            "Development of system processes for quality health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with healthcare teams to implement system processes",
+            "Communicating system process changes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the effectiveness of system processes",
+            "Identifying issues in healthcare quality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading system process development for healthcare quality",
+            "Organizing evidence-based healthcare management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 809",
+        "courseTitle": "Multidisciplinary Approaches to Health Services Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Uses theory and research findings from areas such as Biology, Psychology, Sociology, Economics, Urban Studies, and Health Services to achieve an understanding of health services issues and problems.  Emphasizes methods of analysis and of developing alternatives related to multidisciplinary perspectives.",
+        "Technical and Digital Skills": [
+            "Research and analysis methods",
+            "Interpreting data from various fields such as Biology, Psychology, Sociology, Economics, Urban Studies, and Health Services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Communicating complex health services issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing alternatives for health services issues",
+            "Critical evaluation of multidisciplinary perspectives",
+            "Problem identification in health services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating multidisciplinary research",
+            "Leading discussions on health services issues"
+        ]
+    },
+    {
+        "courseCode": "HLSC 810",
+        "courseTitle": "Research Design and Application",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasis is on exploring the advantages/disadvantages and uses of non-experimental, quasi-experimental, and experimental designs in health-related research with application to management, education, and clinical practice. (cross-listed with PT 810).",
+        "Technical and Digital Skills": [
+            "Understanding of non-experimental designs",
+            "Knowledge on quasi-experimental designs",
+            "Familiarity with experimental designs",
+            "Application of research concepts in health-related fields"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings effectively",
+            "Collaboration in research groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing advantages and disadvantages of different research designs",
+            "Critical evaluation of research methods",
+            "Problem-solving in health-related research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Leading research initiatives in management, education, and clinical practice"
+        ]
+    },
+    {
+        "courseCode": "HLSC 811",
+        "courseTitle": "Quantitative Research Methods in Health Care",
+        "academicLevel": "graduate",
+        "courseDescription": "An applied approach to the selection and application of bivariate and multivariate statistical techniques in health services research.  Emphasis is placed on handling large data sets and the use of a computer for manipulation of quantitative data.",
+        "Technical and Digital Skills": [
+            "Use of computer for data manipulation",
+            "Handling large health data sets",
+            "Bivariate and multivariate statistical techniques",
+            "Application of statistical techniques in health services research"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Selection of appropriate statistical techniques",
+            "Quantitative data analysis",
+            "Application of analysis results to health services research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of large health data sets"
+        ]
+    },
+    {
+        "courseCode": "HLSC 812",
+        "courseTitle": "Qualitative Research Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "An exploration of qualitative research methods including participant observation, ethnography and the generation of grounded theory.  Individual interviews and focus group methods will be covered and historical, content analysis, phenomenological and montage approaches will also be discussed.  Health related examples of published research in a variety of fields will be utilized to exemplify the methods.",
+        "Technical and Digital Skills": [
+            "Participant observation",
+            "Ethnography",
+            "Generation of grounded theory",
+            "Individual interviews",
+            "Focus group methods",
+            "Historical content analysis",
+            "Phenomenological approaches",
+            "Montage approaches"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication during individual interviews",
+            "Facilitating and moderating focus group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting qualitative data",
+            "Applying phenomenological approaches",
+            "Implementing montage approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting interviews",
+            "Leading focus group discussions"
+        ]
+    },
+    {
+        "courseCode": "HLSC 813",
+        "courseTitle": "Health Outcomes Research",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of measurement theory with emphasis on the development, testing, and refinement of norm- and criterion-referenced data collection instruments for health-related research.",
+        "Technical and Digital Skills": [
+            "Development of data collection instruments",
+            "Testing of data collection instruments",
+            "Refinement of data collection instruments",
+            "Understanding of measurement theory",
+            "Health-related research methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of norm- and criterion-referenced data collection",
+            "Analysis of health-related data",
+            "Critical evaluation of data collection instruments"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "HLSC 814",
+        "courseTitle": "Theory in the Health Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces the philosophy of science by studying the nature and purposes of theory for the health sciences. Standards for evaluation of theories will be described.  Selected theories and supporting research from the health services literature will be discussed and critically evaluated.",
+        "Technical and Digital Skills": [
+            "Understanding and interpreting health services literature",
+            "Evaluation of health theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and critical evaluation of theories in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of health theories",
+            "Analysis and interpretation of supporting research"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "HLSC 815",
+        "courseTitle": "Decision Analysis in Health Care",
+        "academicLevel": "graduate",
+        "courseDescription": "This course teaches students the art and science of decision making.  It covers expected utility theory, decision tree analysis, cost-benefit analysis, and the psychological aspects of the decision-making process in the context of health policy research.",
+        "Technical and Digital Skills": [
+            "Expected utility theory",
+            "Decision tree analysis",
+            "Cost-benefit analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding psychological aspects of decision-making"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making",
+            "Analysis of health policy research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing decision-making strategies in health policy"
+        ]
+    },
+    {
+        "courseCode": "HLSC 816",
+        "courseTitle": "Competitive Resource Design and Utilization",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the competitive design and utilization of organizational and human resources. Emphasis will be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes. The course will cover the business models for effective financial and personnel management of healthcare organizations. Analysis of the costs and quality of care will be performed.",
+        "Technical and Digital Skills": [
+            "Business model analysis",
+            "Financial management of healthcare organizations",
+            "Cost and quality of care analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of strategic processes",
+            "Presentation of analytical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning and resource allocation",
+            "Critical evaluation of healthcare outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare management",
+            "Organizational resource utilization",
+            "Creation and implementation of high-quality care strategies"
+        ]
+    },
+    {
+        "courseCode": "HLSC 820",
+        "courseTitle": "Health Care Delivery System",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides the student with an opportunity to analyze the American health care system.  The health care system is composed of complex organizational dynamics and structures which predicate the interaction between the major components of the system: personnel who provide service; institutions in which care is provided; financing mechanisms which pay for care; and the government which attempts to regulate it.  This course is designed for in-depth analysis and synthesis of all aspects of health care delivery with an emphasis on improving the delivery and access to care.",
+        "Technical and Digital Skills": [
+            "Analysis of health care system",
+            "Understanding of health care financing mechanisms",
+            "Knowledge of government regulations in health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interaction with major components of the health care system",
+            "Communication within health care institutions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "In-depth analysis of health care delivery aspects",
+            "Synthesis of health care delivery aspects",
+            "Improving delivery and access to care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding complex organizational dynamics and structures in health care",
+            "Leadership in health care service provision"
+        ]
+    },
+    {
+        "courseCode": "HLSC 846",
+        "courseTitle": "Epidemiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines epidemiology as a method for viewing inborn community health problems and as a body of knowledge derived from this method.  Skills in using epidemiology as a method and as knowledge to solve community health problems will be included.",
+        "Technical and Digital Skills": [
+            "Using epidemiology as a method for viewing community health problems",
+            "Applying epidemiological knowledge to solve health problems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating epidemiological findings to a non-expert audience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and analyzing community health problems using epidemiological methods",
+            "Applying epidemiological knowledge to devise solutions for community health problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and synthesizing epidemiological data",
+            "Leading initiatives to address community health problems"
+        ]
+    },
+    {
+        "courseCode": "HLSC 861",
+        "courseTitle": "Advanced Quantitative Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "This course adopts an applied approach to teaching health professions students the necessary competencies and skills in advanced quantitative methods. Topics include handling missing data, survey design and exploratory factor analysis, mediation and moderation analysis, and an introduction to confirmatory factor analysis and structural equation modeling (SEM).",
+        "Technical and Digital Skills": [
+            "Handling missing data",
+            "Survey design",
+            "Exploratory factor analysis",
+            "Mediation and moderation analysis",
+            "Confirmatory factor analysis",
+            "Structural equation modeling (SEM)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex statistical concepts",
+            "Collaborating in a data-driven environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quantitative problem-solving",
+            "Analytical reasoning in statistical methods",
+            "Data interpretation",
+            "Application of advanced statistical techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting surveys",
+            "Managing data-related projects"
+        ]
+    },
+    {
+        "courseCode": "HLSC 864",
+        "courseTitle": "Health Economics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course describes the application of economic tools to analyze the operation of markets for health care and insurance.  Topics covered include the consumption and costs of health care in the United States, the viewpoints of players in the health care market, and an overview of both supply and demand analysis and cost effectiveness analysis.  Complexities of economics unique to health care will be detailed.  Further, students will employ these principles in several case studies of current and classic issues in health economics. (Cross-listed with CHP 764)",
+        "Technical and Digital Skills": [
+            "Application of economic tools in health care",
+            "Supply and demand analysis in health care",
+            "Cost effectiveness analysis in health care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of case studies",
+            "Discussion of health economics issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health care consumption and costs",
+            "Understanding complexities of economics unique to health care",
+            "Problem-solving in health economics through case studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding viewpoints of players in health care market",
+            "Organizing and presenting complex economic data"
+        ]
+    },
+    {
+        "courseCode": "HLSC 868",
+        "courseTitle": "Internship in Health Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised health services field experiences or health sciences laboratory experiences.  A completed research project which is publishable or presentable at a professional conference is required to complete the course.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection and analysis",
+            "Laboratory techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional presentation",
+            "Collaboration in a healthcare setting",
+            "Effective communication in a professional environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of healthcare data",
+            "Problem-solving in a health sciences context",
+            "Analytical skills in a research setting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in health research",
+            "Leadership in a healthcare setting",
+            "Time management and organization"
+        ]
+    },
+    {
+        "courseCode": "HLSC 872",
+        "courseTitle": "Policy and Politics of Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course enables the student to develop a systematic and analytical framework for understanding health care policy issues.  The policy process is covered in detail.  Timely policy issues are also discussed.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion of policy issues",
+            "Explaining complex policy matters"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Developing systematic and analytical framework for health policy issues",
+            "Critical evaluation of health policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and following the policy process",
+            "Addressing and managing timely policy issues"
+        ]
+    },
+    {
+        "courseCode": "HLSC 873",
+        "courseTitle": "Planning Proposals and Developing Grants in Health Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed as a 'hand-on' approach in effective grantsmanship, this course will guide the student from the identification of potential funding sources through proposal development.  Highlights include program planning, nonprofit status, governmental/foundation corporate trends, local resources and grants administration.",
+        "Technical and Digital Skills": [
+            "Identifying potential funding sources",
+            "Proposal development",
+            "Understanding governmental/foundation corporate trends"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective grantsmanship",
+            "Utilizing local resources"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Program planning",
+            "Grants administration"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing nonprofit status",
+            "Coordinating with local resources"
+        ]
+    },
+    {
+        "courseCode": "HLSC 875",
+        "courseTitle": "Comprehensive Health Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "This course emphasizes the principles and processes of program planning, including a consideration of objectives, priorities, policy choices, assessment of resources, implementation, and evaluation.  The student will gain practical experience in program development by developing a planning document.",
+        "Technical and Digital Skills": [
+            "Program planning",
+            "Policy choices assessment",
+            "Program implementation",
+            "Program evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of planning objectives and priorities",
+            "Ability to present and explain policy choices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of program objectives and priorities",
+            "Assessment of available resources",
+            "Analysis and evaluation of program outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and managing program resources",
+            "Leading program implementation",
+            "Coordinating evaluation processes"
+        ]
+    },
+    {
+        "courseCode": "HLSC 876",
+        "courseTitle": "Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce the student to the political, social, cultural and ethical issues involved in disease prevention and health promotion globally. Specific emphasis will be on incidence/prevalence, morbidity/mortality, and identified health problems in specific regions and countries. This course will also identify international health prerogatives aimed at improving health status through education and intervention.",
+        "Technical and Digital Skills": [
+            "Health data analysis",
+            "Understanding of global health trends",
+            "Identification of health problems in specific regions and countries",
+            "Understanding of disease prevention techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Education and intervention strategies",
+            "Ethical communication in health scenarios"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health data",
+            "Problem identification and solution proposal",
+            "Preventive measures planning",
+            "Critical evaluation of health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for health promotion",
+            "Leadership in international health prerogatives",
+            "Organizing educational and intervention programs"
+        ]
+    },
+    {
+        "courseCode": "HLSC 881",
+        "courseTitle": "Dissertation Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will assist students in developing a dissertation proposal.  Steps in the research process will be reviewed as students submit drafts of their proposal for faculty and peer review.  Problem formulation, integrating theoretical frameworks, preparing for human subjects review and outlining data analysis techniques for hypothesis testing will be discussed.  Students will be introduced to University guidelines related to dissertations and other resources to assist them in their task.",
+        "Technical and Digital Skills": [
+            "Dissertation proposal development",
+            "Research process understanding",
+            "Data analysis techniques",
+            "Understanding and application of university dissertation guidelines"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer review participation",
+            "Faculty review participation",
+            "Effective communication of research concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem formulation",
+            "Integration of theoretical frameworks",
+            "Hypothesis testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and organization",
+            "Preparation for human subjects review",
+            "Use of research resources"
+        ]
+    },
+    {
+        "courseCode": "HLSC 889",
+        "courseTitle": "Colloquium I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the first in a series of colloquial courses in which doctoral level students receive presentations and present research and current topics of interest in health related professions.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Peer feedback",
+            "Professional communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of health-related research",
+            "Problem identification in health professions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research management",
+            "Leadership in research presentation"
+        ]
+    },
+    {
+        "courseCode": "HLSC 890",
+        "courseTitle": "Colloquium II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the second in a series of colloquial courses in which doctoral level students receive presentations and present research and current topics of interest in health related professions.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Digital presentation tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication",
+            "Public speaking",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Research interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Leadership in academic discussions"
+        ]
+    },
+    {
+        "courseCode": "HLSC 891",
+        "courseTitle": "Colloquium III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the third in a series of colloquial courses in which doctoral level students receive presentations and present research and current topics of interest in health related professions.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data presentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Professional communication",
+            "Peer feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research",
+            "Evaluation of healthcare topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing presentations",
+            "Leading discussions"
+        ]
+    },
+    {
+        "courseCode": "HLSC 892",
+        "courseTitle": "Colloquium IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the fourth in a series of colloquial courses in which doctoral level students receive presentations and present research and current topics of interest in health related professions.",
+        "Technical and Digital Skills": [
+            "Research presentation",
+            "Healthcare data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Peer collaboration",
+            "Discussion facilitation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research analysis",
+            "Critical evaluation of health-related topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Leading academic discussions"
+        ]
+    },
+    {
+        "courseCode": "HLSC 895",
+        "courseTitle": "Topics in Health Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to provide the advanced student with an opportunity to study independently or in small groups and investigate specific topics of current interest in health services.",
+        "Technical and Digital Skills": [
+            "Healthcare technology usage",
+            "Data interpretation",
+            "Research methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative studies",
+            "Effective communication in group studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of health services",
+            "Independent problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Group leadership in study sessions"
+        ]
+    },
+    {
+        "courseCode": "HLSC 897",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Individualized study selected by the student in collaboration with a faculty member. Area of study to be supervised and approved by a faculty member with the approval of the graduate program director.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Collaborative project planning",
+            "Effective communication with faculty members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and defining research questions",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and management",
+            "Self-direction",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 898",
+        "courseTitle": "Supervised Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised research on a specialized topic.  Can be repeated.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection and analysis",
+            "Specialized knowledge in chosen research topic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating research findings",
+            "Collaboration with supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem formulation",
+            "Hypothesis testing",
+            "Critical evaluation of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-discipline and initiative",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "Available for pass/fail grading only.  An approved research project written under the supervision of a faculty advisor, in which the student demonstrates the capacity to design and complete independent applied research.  The completed project must be approved by the dissertation committee.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty advisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing research project",
+            "Conducting independent research",
+            "Analysis of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent working",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HLSC 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Maintaining active academic status",
+            "Meeting graduate credit hour requirements",
+            "Time management for continuous registration until graduation"
+        ]
+    }
+]

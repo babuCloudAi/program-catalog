@@ -1,0 +1,124 @@
+[
+    {
+        "courseTitle": "Introduction to the Health Professions",
+        "courseCode": "HLTH 101",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Explores careers in the health professions.  Assists students in making informed choices regarding careers and programs of study and prepares students to apply for acceptance into health-related majors. Activities are included to help freshmen transition to college work.",
+        "Technical and Digital Skills": [
+            "Researching health professions",
+            "Using digital tools to explore career options"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Expressing career interests",
+            "Asking insightful questions about health professions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing personal aptitudes for different health professions",
+            "Making informed decisions about career paths"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning academic paths towards career goals",
+            "Navigating college transition"
+        ]
+    },
+    {
+        "courseTitle": "Health Professions in the United States",
+        "courseCode": "HLTH 102",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the health care system in the U.S. and identifies the role played by selected health professions in the delivery of care.  Designed for students preparing themselves for entry into health related majors.",
+        "Technical and Digital Skills": [
+            "Understanding of U.S. health care system",
+            "Knowledge of various health professions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within a health care context",
+            "Collaboration with health care professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing roles within the health care system",
+            "Identifying solutions for health care delivery"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding organizational structures in health care",
+            "Preparing for leadership roles in health professions"
+        ]
+    },
+    {
+        "courseTitle": "Information Literacy for Health Professions",
+        "courseCode": "HLTH 120G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to information literacy and research in health disciplines in the context of future careers. Students will develop skills in searching, evaluating, and citing information required for health research projects.  The course examines the methods and tools of health analysis and explores the mechanics of research presentation and writing to help student pursuing health related majors and careers prepare for successful completion of upper-division requirements.  The class provides a brief introduction to ethical issues related to health research and writing.",
+        "Technical and Digital Skills": [
+            "Information searching",
+            "Evaluating health research information",
+            "Citing health research information",
+            "Understanding of health research tools and methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Health research presentation",
+            "Health research writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating health research information",
+            "Understanding and application of health research methods",
+            "Problem solving in health research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing health research projects",
+            "Understanding ethical issues in health research"
+        ]
+    },
+    {
+        "courseTitle": "Computer Technology Skills for the Health Professions",
+        "courseCode": "HLTH 130",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to help students in the health professions gain the computer and technological skills needed to succeed in their academic careers and in today's workplace.  Students will develop personal competency in practical applications such as Google Docs, spreadsheets and presentation graphics, note taking applications, document revisions, computer hardware, information retrieval and ethics in health information.",
+        "Technical and Digital Skills": [
+            "Google Docs",
+            "Spreadsheets",
+            "Presentation Graphics",
+            "Note Taking Applications",
+            "Document Revisions",
+            "Computer Hardware",
+            "Information Retrieval"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical Communication in Health Information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data Analysis with Spreadsheets",
+            "Troubleshooting Computer Hardware"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing Digital Files and Documents",
+            "Leading Ethical Practices in Health Information"
+        ]
+    },
+    {
+        "courseTitle": "Leadership and Management for Health Professionals",
+        "courseCode": "HLTH 425",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A review of the administration, management, policies, and practices governed by scopes of practice in a variety of health care settings.  Topics covered include communication, planning and decision making, leadership and conflict management, and legal and ethical issues of concern to specific health professions.",
+        "Technical and Digital Skills": [
+            "Knowledge in health policies and practices",
+            "Understanding of legal and ethical issues in healthcare",
+            "Familiarity with health care settings and scopes of practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in health care settings",
+            "Conflict management",
+            "Negotiation and persuasion skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning and decision making in health care",
+            "Analysis and interpretation of health policies",
+            "Problem-solving in conflict situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in healthcare",
+            "Management of health care settings",
+            "Administration in healthcare",
+            "Strategic planning in healthcare"
+        ]
+    }
+]

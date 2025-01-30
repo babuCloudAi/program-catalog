@@ -1,0 +1,715 @@
+[
+    {
+        "courseCode": "NURA 745",
+        "courseTitle": "Applied Chemistry and Physics for Nurse Anesthetists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a review of the principles of organic chemistry, biochemistry, and physics. It is designed as a foundation for the students' understanding of pharmacology, physiology, and the anesthesia gas machine. This course will also provide an introduction to the chemical structure-activity relationships, metabolism and mechanism of action of selected agents.",
+        "Technical and Digital Skills": [
+            "Understanding of organic chemistry",
+            "Knowledge of biochemistry",
+            "Basic physics principles",
+            "Understanding of pharmacology",
+            "Physiology comprehension",
+            "Operation of anesthesia gas machine",
+            "Understanding chemical structure-activity relationships",
+            "Knowledge of metabolism",
+            "Understanding mechanism of action of selected agents"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chemical structure-activity relationships",
+            "Understanding and applying principles of organic chemistry, biochemistry, and physics to solve problems",
+            "Analyzing the effects of selected agents on metabolism and their mechanism of action"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURA 746",
+        "courseTitle": "Advanced Physiology for Nurse Anesthetists",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on normal physiological functioning of body systems building on undergraduate anatomy and physiology to further examine structure and function focusing on cellular, subcellular, genetic and biochemical processes.   The goal is to provide an in-depth understanding of the function and regulation of body systems to maintain homeostasis. Learners will integrate physiologic concepts for the basis for critical thinking and decision making when assessing patients with multi-system failure. Learners are provided with essential knowledge of human health and disease across the lifespan necessary for advanced nursing practice. This course consists of four hours of lecture/discussion/in-class clinical module work per week.",
+        "Technical and Digital Skills": [
+            "Understanding of cellular, subcellular, genetic and biochemical processes",
+            "Knowledge of human health and disease",
+            "Ability to analyze multi-system failure"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication for patient assessment",
+            "Cooperation in clinical module work"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in medical decision making",
+            "Ability to integrate physiologic concepts",
+            "Analyzing and understanding the function and regulation of body systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Participation and engagement in lecture/discussion/in-class clinical module work",
+            "Ability to maintain homeostasis in body systems"
+        ]
+    },
+    {
+        "courseCode": "NURA 750",
+        "courseTitle": "Applied Principles of Anesthesia Practice I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course integrates scientific concepts with basic principles of anesthesia practice and prepares the student for their new role in the safe and effective delivery of anesthesia. Emphasis is on vital anesthesia monitoring and delivery systems. Airway management and general anesthesia techniques will also be discussed. Simulation is incorporated into the learning process to reinforce principles introduced in class.",
+        "Technical and Digital Skills": [
+            "Anesthesia practice",
+            "Anesthesia monitoring and delivery systems",
+            "Airway management",
+            "General anesthesia techniques",
+            "Simulation for learning reinforcement"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective delivery of anesthesia",
+            "Safe practice of anesthesia"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integrating scientific concepts with anesthesia principles",
+            "Problem-solving in realistic simulation scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing anesthesia delivery systems",
+            "Preparation for new role in anesthesia delivery"
+        ]
+    },
+    {
+        "courseCode": "NURA 751",
+        "courseTitle": "Applied Principles of Anesthesia Practice II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.",
+        "Technical and Digital Skills": [
+            "Anesthesia management",
+            "Application of physiological principles",
+            "Human Simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient interaction",
+            "Team coordination during surgical procedures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physiological data",
+            "Preoperative and postoperative problem-solving",
+            "Complex surgical procedure analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of preoperative, intraoperative, and postoperative anesthesia periods",
+            "Leadership during complex surgical procedures"
+        ]
+    },
+    {
+        "courseCode": "NURA 752",
+        "courseTitle": "Applied Principles of Anesthesia Practice III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.",
+        "Technical and Digital Skills": [
+            "Application of anesthesia principles",
+            "Formulating safe plans of care",
+            "Understanding of pathophysiological conditions",
+            "Use of human simulation technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear communication of care plans",
+            "Effective collaboration in clinical practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision making for complex anesthesia issues",
+            "Analyzing complex surgical procedures",
+            "Adapting anesthesia plans to patient's pathophysiological conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of complex anesthesia procedures",
+            "Leadership in clinical practice"
+        ]
+    },
+    {
+        "courseCode": "NURA 753",
+        "courseTitle": "Advanced Pharmacology for Nurse Anesthesia Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This is a course in advanced anesthesia pharmacotherapeutics that builds on prior knowledge of drug classification, actions, interactions and adverse drug reactions. The major focus of the course is synthesizing principles learned in Advanced Pharmacology for Nursing Practice and applying them to anesthetic pharmaceuticals. Emphasis is placed on the critical thinking process used to choose and prescribe drugs in the management of anesthetic. Core concepts include applied pharmacodynamics, pharmacokinetics, volatile agent delivery systems, theories of anesthetic action and the interactions between patient medication and anesthetic agents. This course consists of three hours of lecture/discussion/in-class clinical module work per week.",
+        "Technical and Digital Skills": [
+            "Applied pharmacodynamics",
+            "Pharmacokinetics",
+            "Understanding of volatile agent delivery systems",
+            "Knowledge of theories of anesthetic action",
+            "Understanding of drug classification, actions, and interactions",
+            "Understanding of adverse drug reactions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Lecture presentation",
+            "Discussion facilitation",
+            "Communication of complex medical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in drug prescription",
+            "Analysis of patient medication and anesthetic agents interactions",
+            "Synthesizing principles learned in Advanced Pharmacology for Nursing Practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of anesthetic",
+            "Planning and executing in-class clinical module work"
+        ]
+    },
+    {
+        "courseCode": "NURA 760",
+        "courseTitle": "Evidence Based Seminar for Anesthesia Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.",
+        "Technical and Digital Skills": [
+            "Clinical evidence assessment",
+            "Scientific literature appraisal",
+            "Understanding of nursing knowledge and evidence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of clinical findings",
+            "Collaboration with medical professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical review of scientific literature",
+            "Problem-solving in clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and presenting clinical evidence",
+            "Leading discussions around nursing knowledge and evidence"
+        ]
+    },
+    {
+        "courseCode": "NURA 761",
+        "courseTitle": "Evidenced-Based Seminar for Anesthesia Practice I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the first in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.",
+        "Technical and Digital Skills": [
+            "Literature appraisal",
+            "Clinical and scientific evidence assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Scientific communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning",
+            "Problem-solving in nursing practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing scientific evidence",
+            "Leading discussions on nursing knowledge and evidence"
+        ]
+    },
+    {
+        "courseCode": "NURA 762",
+        "courseTitle": "Evidenced-Based Seminar for Anesthesia Practice II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the second in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course is designed to build on the understanding gained in NURA 761 and to expand the advanced practice nursing student's understanding of research methods, design, and statistics.",
+        "Technical and Digital Skills": [
+            "Literature appraisal",
+            "Understanding of research methods",
+            "Understanding of statistical methods",
+            "Understanding research design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessment of clinical and scientific evidence",
+            "Analysis of research findings",
+            "Critical evaluation of scientific literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURA 797",
+        "courseTitle": "Independent Study in Nurse Anesthesia",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent study in nurse anesthesia under the guidance of a faculty.",
+        "Technical and Digital Skills": [
+            "Nurse Anesthesia Techniques",
+            "Patient Monitoring Technology",
+            "Anesthetic Administration",
+            "Medical Record Keeping",
+            "Patient Safety Protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient Communication",
+            "Medical Team Collaboration",
+            "Empathy and Compassion",
+            "Active Listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient Care Plan Development",
+            "Anesthesia Dosage Calculation",
+            "Critical Thinking in Emergency Situations",
+            "Risk Assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time Management",
+            "Clinical Leadership",
+            "Ethical Decision Making",
+            "Self-directed Learning"
+        ]
+    },
+    {
+        "courseCode": "NURA 836",
+        "courseTitle": "Advanced Physiology and Pathophysiology for Nurse Anesthesia I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level. The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  cellular and molecular physiology, immune system, nervous system, skeletal muscle system, and the cardiovascular system.",
+        "Technical and Digital Skills": [
+            "Understanding of human anatomy and physiology",
+            "Knowledge of cellular, subcellular, genetic, and biochemical structures",
+            "Understanding of normal and abnormal physiological functioning of body systems",
+            "Knowledge of immune system, nervous system, skeletal muscle system, and cardiovascular system"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physiological functions",
+            "Ability to communicate the state of a patient's body system"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physiological dysfunctions",
+            "Understanding of how to maintain homeostasis",
+            "Ability to diagnose and understand diseases at a cellular level"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to manage and prioritize patient care",
+            "Ability to lead and educate others in understanding complex physiological functions"
+        ]
+    },
+    {
+        "courseCode": "NURA 837",
+        "courseTitle": "Advanced Physiology and Pathophysiology for Nurse Anesthesia II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level.  The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  respiratory system, digestive/hepatic system, endocrine system, and neoplasia mechanisms and treatments.",
+        "Technical and Digital Skills": [
+            "Understanding of human anatomy and physiology",
+            "Knowledge of molecular and biochemical processes",
+            "Insight into respiratory, digestive/hepatic, and endocrine systems",
+            "Expertise in identifying and understanding neoplasia mechanisms and treatments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex physiological processes in layman's terms",
+            "Capacity to communicate patient conditions effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physiological and pathological data",
+            "Identifying abnormalities in body systems",
+            "Understanding the dysfunction of body systems in a diseased state"
+        ],
+        "Organizational and Leadership Skills": [
+            "Prioritizing and managing patient care based on level of system dysfunction",
+            "Leading healthcare teams in managing patient conditions"
+        ]
+    },
+    {
+        "courseCode": "NURA 838",
+        "courseTitle": "Professional Aspects for Anesthesia",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the unique goals, distinctive content, and special problems of health/anesthesia care and education in this country. Includes such areas as management, organization, legal aspects, professional adjustments, ethics, psychology, and history.",
+        "Technical and Digital Skills": [
+            "Understanding of anesthesia care techniques",
+            "Knowledge of legal aspects in health/anesthesia care",
+            "Awareness of the history and evolution of anesthesia"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional adjustments in health/anesthesia care environments",
+            "Communication within healthcare teams",
+            "Ethical decision-making in health/anesthesia care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing special problems in health/anesthesia care",
+            "Analysis of psychological aspects in anesthesia",
+            "Critical evaluation of management strategies in anesthesia care"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of health/anesthesia care settings",
+            "Organization of anesthesia care and education",
+            "Leadership in anesthesia care and education"
+        ]
+    },
+    {
+        "courseCode": "NURA 842",
+        "courseTitle": "Principles of Anesthesia Practice II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human simulation is incorporated into the learning process to reinforce principles introduced in class.",
+        "Technical and Digital Skills": [
+            "Application of basic physiological principles",
+            "Management of patients undergoing complex surgical procedures",
+            "Use of human simulation in learning"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication before, during, and after anesthesia",
+            "Collaboration with surgical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of physiological principles",
+            "Preoperative, intraoperative, and postoperative problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Anesthesia management",
+            "Organizing preoperative, intraoperative, and postoperative stages"
+        ]
+    },
+    {
+        "courseCode": "NURA 843",
+        "courseTitle": "Principles of Anesthesia Practice III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.",
+        "Technical and Digital Skills": [
+            "Application of pathophysiological knowledge",
+            "Formulating safe care plans for complex surgical procedures",
+            "Effective delivery of anesthesia",
+            "Use of Human Simulation technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a clinical setting",
+            "Patient care coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Decision-making in complex anesthesia issues",
+            "Analyzing pathophysiological conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient care management",
+            "Leading care plan formulation and implementation"
+        ]
+    },
+    {
+        "courseCode": "NURA 844",
+        "courseTitle": "Principles of Anesthesia Practice IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the fourth in an increasingly more complex eight-course series intended to accompany NURA 842. It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice.",
+        "Technical and Digital Skills": [
+            "Basic sciences review",
+            "Equipment operation",
+            "Instrumentation handling",
+            "Anesthesia technology usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Clinical practice analysis",
+            "Instrumentation troubleshooting"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURA 845",
+        "courseTitle": "Principles of Anesthesia Practice V",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the fifth in an increasingly more complex eight-course series intended to accompany NURA 843. It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice. This course also incorporates preoperative, intraoperative, and postoperative care of patients.",
+        "Technical and Digital Skills": [
+            "Understanding of basic sciences",
+            "Knowledge of clinical equipment",
+            "Proficiency in using clinical instrumentation and technology",
+            "Preoperative care",
+            "Intraoperative care",
+            "Postoperative care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Team communication in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of patient's preoperative condition",
+            "Decision-making during intraoperative care",
+            "Evaluation of postoperative patient status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care",
+            "Overseeing clinical procedures"
+        ]
+    },
+    {
+        "courseCode": "NURA 846",
+        "courseTitle": "Principles of Anesthesia Practice VI",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the sixth in an increasingly more complex eight-course series intended to accompany NURA 844. This course is designed to review anesthesia concepts and begin the preparation to take the National Certification Exam.",
+        "Technical and Digital Skills": [
+            "Reviewing anesthesia concepts",
+            "Preparation for National Certification Exam"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex anesthesia concepts",
+            "Critical evaluation for examination preparation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline for rigorous exam preparation",
+            "Organizing study materials for successful certification"
+        ]
+    },
+    {
+        "courseCode": "NURA 847",
+        "courseTitle": "Principles of Anesthesia Practice VII",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the seventh in an increasingly more complex eight-course series intended to accompany NURA 845. This course is designed to review anesthesia concepts and continue the preparation to take the National Certification Exam",
+        "Technical and Digital Skills": [
+            "Advanced anesthesia concepts",
+            "Preparation for National Certification Exam"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Peer collaboration",
+            "Effective communication in high-stress situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in complex medical scenarios",
+            "Adapting anesthesia techniques to diverse patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Leadership in medical contexts"
+        ]
+    },
+    {
+        "courseCode": "NURA 848",
+        "courseTitle": "Principles of Anesthesia Practice VIII",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the final in an increasingly more complex eight-course series intended to accompany NURA 846. This course is designed to review anesthesia concepts and examine student readiness of the National Certification Exam.",
+        "Technical and Digital Skills": [
+            "Understanding of complex anesthesia concepts",
+            "Readiness for the National Certification Exam"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing anesthesia concepts",
+            "Identifying areas of improvement for National Certification Exam readiness"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURA 853",
+        "courseTitle": "Nurse Anesthesia Practicum: Orientation for Clinical Anesthesia",
+        "academicLevel": "graduate",
+        "courseDescription": "This introductory-level course is designed to integrate didactic knowledge with basic practical application. The student will apply knowledge concerning preoperative assessment, care plan development, induction sequence, basic airway management, function and usage of anesthesia equipment, pharmacology dosing and mathematics for anesthesia. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Preoperative assessment",
+            "Care plan development",
+            "Induction sequence",
+            "Basic airway management",
+            "Function and usage of anesthesia equipment",
+            "Pharmacology dosing",
+            "Mathematics for anesthesia"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Patient condition analysis",
+            "Adjusting anesthesia plans based on patient condition",
+            "Pharmacology dosing adjustments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Patient case management",
+            "Healthcare team coordination"
+        ]
+    },
+    {
+        "courseCode": "NURA 854",
+        "courseTitle": "Nurse Anesthesia Practicum I",
+        "academicLevel": "graduate",
+        "courseDescription": "This introductory-level course is designed to integrate didactic knowledge with basic practical application to the art and science of nurse anesthesia. It designed to cultivate the novice student nurse anesthetist in selected clinical settings under direct supervision of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Practical application of nurse anesthesia",
+            "Understanding and adhering to the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating effectively in clinical settings",
+            "Collaborating with qualified clinical preceptors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing clinical situations",
+            "Implementing appropriate anesthesia techniques based on patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Manage clinical environment",
+            "Adhering to the American Association of Colleges of Nursing DNP Essentials"
+        ]
+    },
+    {
+        "courseCode": "NURA 856",
+        "courseTitle": "Nurse Anesthesia Practicum III",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical course is the third in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the competent student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Integration of didactic knowledge and practical application",
+            "Understanding of nurse anesthesia standards",
+            "Applying nursing DNP essentials",
+            "Working in a clinical environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with clinical preceptors",
+            "Communicating effectively in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying nurse anesthesia practice standards in real-world scenarios",
+            "Analyzing clinical settings and applying appropriate anesthesia techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing patient care in a variety of clinical settings",
+            "Leading in a clinical anesthesia environment"
+        ]
+    },
+    {
+        "courseCode": "NURA 857",
+        "courseTitle": "Nurse Anesthesia Practicum IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical course is the fourth in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Application of didactic knowledge in nurse anesthesia",
+            "Adherence to Standards for Nurse Anesthesia Practice",
+            "Understanding and application of DNP Essentials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with clinical preceptors",
+            "Effective communication in a clinical environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification and resolution of anesthesia-related issues",
+            "Critical evaluation of patient's condition"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of various clinical settings",
+            "Leadership in anesthesia clinical environment"
+        ]
+    },
+    {
+        "courseCode": "NURA 858",
+        "courseTitle": "Nurse Anesthesia Practicum V",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical course is the fifth of six in an increasingly more complex six-course series, and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Application of nurse anesthesia techniques",
+            "Integration of didactic knowledge to practical application",
+            "Compliance with American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with qualified clinical preceptors",
+            "Effective communication in a clinical environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patient conditions in various clinical settings",
+            "Applying clinical solutions in a complex, real-world environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient care in a variety of clinical settings",
+            "Leadership in a clinical environment"
+        ]
+    },
+    {
+        "courseCode": "NURA 859",
+        "courseTitle": "Nurse Anesthesia Practicum VI",
+        "academicLevel": "graduate",
+        "courseDescription": "This clinical course is the final in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.",
+        "Technical and Digital Skills": [
+            "Integration of didactic knowledge and practical application",
+            "Understanding and application of anesthesia clinical environment",
+            "Knowledge of American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with qualified clinical preceptors",
+            "Verbal and non-verbal communication in clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to adapt and apply anesthesia techniques in a variety of clinical settings",
+            "Analytical skills to evaluate patient conditions and apply appropriate anesthesia"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of patient care in a variety of clinical settings",
+            "Leadership in anesthesia practice within a clinical team"
+        ]
+    },
+    {
+        "courseCode": "NURA 863",
+        "courseTitle": "Evidenced-Based Seminar for Anesthesia Practice III",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the third in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.",
+        "Technical and Digital Skills": [
+            "Understanding of research methods",
+            "Design and analysis of research studies",
+            "Evaluation of anesthesia care using published studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in a journal club format",
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research studies for optimum outcomes",
+            "Analysis of research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "NURA 864",
+        "courseTitle": "Evidenced-Based Seminar for Anesthesia Practice IV",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the fourth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.",
+        "Technical and Digital Skills": [
+            "Understanding of research methods",
+            "Research design and analysis",
+            "Evaluation of anesthesia care using research studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and argumentation in a journal club format",
+            "Communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research studies",
+            "Applying research to optimize anesthesia outcomes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and leading a journal club discussion",
+            "Application of research findings to clinical practice"
+        ]
+    },
+    {
+        "courseCode": "NURA 865",
+        "courseTitle": "Evidenced Based Seminar for Anesthesia Practice V",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is the fifth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.",
+        "Technical and Digital Skills": [
+            "Understanding of research methods",
+            "Design and analysis of research studies",
+            "Evaluation of anesthesia care using published research studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in a journal club format",
+            "Discussion and critique of research studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of research studies for optimum anesthesia outcomes",
+            "Critical evaluation of research methods and design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions in a journal club format",
+            "Organizing and interpreting research data for practical application"
+        ]
+    },
+    {
+        "courseCode": "NURA 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understand and follow registration requirement",
+            "Meeting graduation deadlines"
+        ]
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "courseTitle": "Introductory Astronomy of the Solar System",
+        "courseCode": "ASTP 103N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the physical principles and scientific investigation of objects in our solar system. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.",
+        "Technical and Digital Skills": [
+            "Telescope operation",
+            "Astrophotography techniques",
+            "Data analysis using software like Stellarium or Celestia"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting scientific findings to a non-technical audience",
+            "Collaborating on group research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting astronomical data",
+            "Identifying patterns in celestial observations",
+            "Evaluating the validity of scientific models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating observation schedules",
+            "Leading discussions on scientific theories"
+        ]
+    },
+    {
+        "courseTitle": "Introductory Astronomy of Galaxies and Cosmology",
+        "courseCode": "ASTP 104N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes the study of stars, star systems, cosmology and relativity. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.",
+        "Technical and Digital Skills": [
+            "Stellar classification techniques",
+            "Data analysis in astronomy",
+            "Cosmological models understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting astronomical findings",
+            "Collaborating on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting observational data",
+            "Evaluating cosmological theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on astronomical topics",
+            "Organizing research tasks"
+        ]
+    },
+    {
+        "courseTitle": "Intro Astronomy Solar Sys Lab",
+        "courseCode": "ASTP 108",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory laboratory course in astronomy dealing with experiments about the laws of nature that apply to objects in our solar system. This course is intended for students with previous transfer credit for an Introductory Astronomy of the Solar System Lecture course.",
+        "Technical and Digital Skills": [
+            "Understanding laws of nature in astronomy",
+            "Experimental data collection and analysis",
+            "Solar system object observation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with lab partners on experiments",
+            "Presenting findings from experiments to peers",
+            "Effective communication of experimental procedures and results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying scientific method to experimental design",
+            "Analyzing data to draw conclusions about solar system objects",
+            "Identifying and troubleshooting experimental errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group experiments and data collection",
+            "Taking initiative in experimental setup and execution",
+            "Leading group discussions on experimental findings"
+        ]
+    },
+    {
+        "courseTitle": "Intro Astron Galaxy/Cosmo Lab",
+        "courseCode": "ASTP 109",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course in astronomy dealing with experiments about the laws of nature that apply to galaxies and the cosmos as a whole. This course is intended for students with previous transfer credit for an Introductory Astronomy of Stars, Galaxies and the Cosmos Lecture course.",
+        "Technical and Digital Skills": [
+            "Astronomical data analysis",
+            "Galaxy classification techniques",
+            "Cosmological simulations",
+            "Telescope operation",
+            "Data visualization in astronomy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team collaboration on lab experiments",
+            "Presenting findings to peers and instructors",
+            "Effective communication of complex astronomical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting astronomical data",
+            "Identifying patterns in galaxy data",
+            "Troubleshooting equipment issues during experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab schedules and assignments",
+            "Coordinating group projects in the lab setting",
+            "Providing guidance to peers during experiments"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Introductory Astronomy of the Solar System",
+        "courseCode": "ASTP 126N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College. A special honors version of ASTP 103N.",
+        "Technical and Digital Skills": [
+            "Data analysis using astronomical software",
+            "Spacecraft trajectory simulations",
+            "Remote sensing data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting scientific findings to a non-technical audience",
+            "Collaborating on group research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex astronomical data",
+            "Identifying patterns in celestial observations",
+            "Developing hypotheses based on astronomical evidence"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on astronomical topics",
+            "Coordinating research efforts within a team"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Introductory Astronomy of Galaxies and Cosmology",
+        "courseCode": "ASTP 127N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College. A special honors version of ASTP 104N.",
+        "Technical and Digital Skills": [
+            "Stellar classification techniques",
+            "Galaxy morphology analysis",
+            "Cosmological simulations",
+            "Data visualization using astronomical software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in interpreting astronomical data",
+            "Quantitative analysis of galaxy properties",
+            "Problem-solving in cosmological models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Elements of Astrophysics",
+        "courseCode": "ASTP 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A one-semester course covering the important topics of modern astrophysics. The elementary physical basis of stellar structure and evolution is derived from first principles. Theoretical and observational details of white dwarfs, neutron stars, pulsars, and black holes are developed. Elements of Big Bang cosmology are also presented.",
+        "Technical and Digital Skills": [
+            "Stellar structure analysis",
+            "Observational data interpretation",
+            "Cosmological modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex astrophysical concepts",
+            "Collaborating on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Deriving stellar evolution equations from first principles",
+            "Analyzing observational data of celestial objects",
+            "Applying theoretical concepts to practical astrophysical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on astrophysical topics",
+            "Organizing research presentations and projects"
+        ]
+    },
+    {
+        "courseTitle": "Observational Astronomy",
+        "courseCode": "ASTP 406/506",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Observational techniques in astronomy with emphasis on constellation identification, celestial movements, and telescopic observation.  Individualized night observations are required.",
+        "Technical and Digital Skills": [
+            "Telescopic observation techniques",
+            "Celestial movements analysis",
+            "Constellation identification skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration during night observations",
+            "Effective communication of findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting observational data",
+            "Identifying patterns in celestial movements",
+            "Troubleshooting telescope issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing night observations",
+            "Leading observation teams"
+        ]
+    },
+    {
+        "courseTitle": "Astronomy for Teachers",
+        "courseCode": "ASTP 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course in astronomy dealing with stars and stellar systems. Topics will include observational astronomy, the electromagnetic spectrum, relativity, stellar and galactic structures, cosmology, and the search for extraterrestrial intelligence.",
+        "Technical and Digital Skills": [
+            "Observational astronomy techniques",
+            "Understanding the electromagnetic spectrum",
+            "Utilizing astronomical software and tools",
+            "Data analysis and interpretation in astronomy",
+            "Knowledge of stellar and galactic structures",
+            "Using technology for cosmological simulations",
+            "Exploring methods for the search for extraterrestrial intelligence"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effectively communicating complex astronomical concepts",
+            "Facilitating group discussions on astronomy topics",
+            "Collaborating with other educators on astronomy lesson plans",
+            "Engaging students in hands-on astronomical activities",
+            "Presenting astronomical information in an engaging manner"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing astronomical data sets",
+            "Critical thinking in evaluating astronomical theories",
+            "Problem-solving in observational challenges",
+            "Interpreting complex astronomical phenomena",
+            "Applying mathematical concepts to astronomical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing astronomy-related events",
+            "Leading astronomy-focused workshops or seminars",
+            "Managing astronomy resources effectively",
+            "Motivating students to explore astronomy further",
+            "Providing guidance on career paths in astronomy"
+        ]
+    },
+    {
+        "courseTitle": "Relativity and Cosmology",
+        "courseCode": "ASTP 414",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to special and general relativity and cosmology. The course covers the current understanding of the structure and evolution of the Universe. The most important unsolved cosmological problems will be discussed, as well as current efforts/theories that may lead to the solution. Special and general relativity, Einstein's field equations, Friedmann-Lemaitre-Robertson-Walker metric, Friedmann’s equations, Schwarzschild solution and black holes, Big Bang, cosmic microwave background radiation, dark matter and dark energy are covered.",
+        "Technical and Digital Skills": [
+            "Understanding of special and general relativity",
+            "Application of Einstein's field equations",
+            "Knowledge of Friedmann-Lemaitre-Robertson-Walker metric",
+            "Utilization of Friedmann’s equations",
+            "Understanding of Schwarzschild solution and black holes",
+            "Analysis of Big Bang theory",
+            "Interpretation of cosmic microwave background radiation",
+            "Knowledge of dark matter and dark energy theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of complex cosmological concepts with peers",
+            "Presentation of cosmological theories and solutions",
+            "Engagement in group discussions regarding unsolved cosmological problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cosmological theories",
+            "Analysis of current efforts and theories in cosmology",
+            "Problem-solving in the context of unresolved cosmological issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Special Topics in Astrophysics",
+        "courseCode": "ASTP 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In-depth study of a selected topic in astrophysics at the advanced undergraduate level. May include a laboratory or computational component.",
+        "Technical and Digital Skills": [
+            "Computational astrophysics",
+            "Data analysis using Python or R",
+            "Utilizing astronomical software packages",
+            "Simulating astrophysical phenomena"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex astrophysical concepts",
+            "Collaborating on research projects",
+            "Explaining technical details to non-experts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex astrophysical data",
+            "Developing mathematical models for astrophysical phenomena",
+            "Troubleshooting computational issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research teams",
+            "Managing project timelines and milestones",
+            "Coordinating group laboratory activities"
+        ]
+    },
+    {
+        "courseCode": "ASTP 506",
+        "courseTitle": "Observational Astronomy",
+        "academicLevel": "graduate",
+        "courseDescription": "Observational techniques in astronomy with emphasis on constellation identification, celestial movements, and telescopic observation.  Individualized night observations are required.",
+        "Technical and Digital Skills": [
+            "Telescopic observation techniques",
+            "Constellation identification methods",
+            "Celestial movements analysis",
+            "Night sky photography skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration during night observations",
+            "Sharing findings with peers",
+            "Effective communication of observational data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting observational data",
+            "Identifying patterns in celestial movements",
+            "Troubleshooting equipment issues during observations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and coordinating night observation sessions",
+            "Leading group observational activities",
+            "Time management for night sky observations"
+        ]
+    },
+    {
+        "courseCode": "ASTP 508",
+        "courseTitle": "Astronomy for Teachers",
+        "academicLevel": "graduate",
+        "courseDescription": "A course in astronomy dealing with stars and stellar systems. Topics will include observational astronomy, the electromagnetic spectrum, relativity, stellar and galactic structures, cosmology, and the search for extraterrestrial intelligence.",
+        "Technical and Digital Skills": [
+            "Observational astronomy techniques",
+            "Understanding the electromagnetic spectrum",
+            "Relativity concepts in astronomy",
+            "Stellar and galactic structure analysis",
+            "Cosmology knowledge",
+            "Extraterrestrial intelligence search methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex astronomical concepts to students",
+            "Facilitating group discussions on astronomy topics",
+            "Collaborating with other teachers on astronomy lesson plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing observational data for astronomical research",
+            "Interpreting complex astronomical theories",
+            "Developing creative teaching strategies for astronomy concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading astronomy-related projects in the classroom",
+            "Organizing astronomy field trips or stargazing events for students",
+            "Managing resources for astronomy education initiatives"
+        ]
+    },
+    {
+        "courseCode": "ASTP 595",
+        "courseTitle": "Special Topics in Astrophysics",
+        "academicLevel": "graduate",
+        "courseDescription": "In-depth study of a selected topic in astrophysics at the introductory graduate level. May include a laboratory or computational component.",
+        "Technical and Digital Skills": [
+            "Computational astrophysics",
+            "Laboratory skills",
+            "Data analysis using Python or MATLAB"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in astrophysical problem-solving",
+            "Quantitative analysis of astronomical data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

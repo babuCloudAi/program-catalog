@@ -1,0 +1,738 @@
+[
+    {
+        "courseCode": "MPHO 600",
+        "courseTitle": "Introduction to Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to the multidisciplinary field of public health. Students will learn the history, core functions, and roles of the US public health system through grounding in the 12 foundational public health knowledge areas.",
+        "Technical and Digital Skills": [
+            "Understanding of public health system",
+            "Knowledge in foundational public health areas"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate public health concepts",
+            "Collaboration within multidisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public health problems",
+            "Assessment of public health needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading public health initiatives",
+            "Coordinating public health interventions"
+        ]
+    },
+    {
+        "courseCode": "MPHO 605",
+        "courseTitle": "Introduction to Biostatistics for Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces fundamental concepts in biostatistics. Students will learn how to analyze and interpret numeric data using statistical tools to investigate and evaluate public health issues.",
+        "Technical and Digital Skills": [
+            "Analyzing numerical data",
+            "Using statistical tools"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting statistical results",
+            "Investigating public health issues",
+            "Evaluating public health issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MPHO 608",
+        "courseTitle": "Environment and Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to 21st century environmental health science and practice. In addition to covering foundational environmental issues affecting people’s health, the class familiarizes students with contemporary environmental health challenges such as climate change, sea level rise, antibiotic resistance, food and sustainability, plastics and environmental health, disaster preparedness, lead poisoning, radiation safety and health, environmental justice, cultural competence, and environmental risk communication.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental health science",
+            "Knowledge of climate change effects",
+            "Understanding of sea level rise",
+            "Knowledge about antibiotic resistance",
+            "Understanding of food and sustainability",
+            "Knowledge about environmental health impacts of plastics",
+            "Understanding of disaster preparedness",
+            "Knowledge on lead poisoning",
+            "Understanding of radiation safety",
+            "Knowledge about environmental justice",
+            "Understanding of environmental risk communication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural competence",
+            "Environmental risk communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of environmental health challenges",
+            "Analyzing the effects of climate change",
+            "Evaluating sustainability measures",
+            "Assessing health risks associated with environmental factors",
+            "Analyzing environmental justice issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Disaster preparedness management",
+            "Organizing and interpreting data on environmental health issues",
+            "Leading initiatives on environmental health and justice"
+        ]
+    },
+    {
+        "courseCode": "MPHO 610",
+        "courseTitle": "Introduction to Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This introductory readings course provides students with an overview of the public health sector from a local, national, and global perspective.  The history of public health and recent events leading to a complete transformation of service delivery are two of the topics presented.",
+        "Technical and Digital Skills": [
+            "Researching public health history",
+            "Understanding modern public health delivery systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting and communicating public health data",
+            "Collaborating with public health stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing public health trends",
+            "Assessing the effectiveness of public health interventions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding public health policy",
+            "Planning and implementing public health initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 611",
+        "courseTitle": "Social and Behavioral Sciences for Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course reviews and critiques psychological, social, and cultural concepts and models relevant to health and disease in society. Students will learn how to select and apply appropriate social and behavioral models to the design of public health interventions and policies. Existing social inequalities in health status related to race, social class, and gender will be explored, as will the intersection between risk factors and the development/implementation of public health interventions.",
+        "Technical and Digital Skills": [
+            "Applying social and behavioral models",
+            "Designing public health interventions",
+            "Policy development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critiquing social, cultural, and psychological concepts",
+            "Understanding and addressing social inequalities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of health and disease concepts",
+            "Understanding intersection of risk factors and public health interventions",
+            "Selection of appropriate social and behavioral models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Addressing health disparities related to race, social class, and gender",
+            "Implementing public health interventions"
+        ]
+    },
+    {
+        "courseCode": "MPHO 614",
+        "courseTitle": "Principles of Epidemiology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce the principles and basic methods of epidemiology for applications in public health. These include measures of disease frequency and association, study design, sources of errors in epidemiological studies, validity and reliability of diagnostic and screening tests, causation, and outbreak investigations.",
+        "Technical and Digital Skills": [
+            "Understanding of epidemiological methods",
+            "Application of diagnostic and screening tests",
+            "Outbreak investigation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating public health information",
+            "Interpreting and explaining epidemiological studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying sources of errors in epidemiological studies",
+            "Designing epidemiological studies",
+            "Analyzing disease frequency and association"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and conducting epidemiological studies",
+            "Leading outbreak investigations",
+            "Ensuring validity and reliability in studies"
+        ]
+    },
+    {
+        "courseCode": "MPHO 616",
+        "courseTitle": "Research Methods in Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "Public health professionals require skills to identify problems that face population groups, and to delineate ways to solve them. Often this necessitates conducting small- or large-scale investigations on their own, or as a member of a project team. The goal of this course is to provide practical, step-by-step guidance to the research process in public health.",
+        "Technical and Digital Skills": [
+            "Conducting small- or large-scale investigations",
+            "Data collection and analysis",
+            "Practical research implementation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative team work in research projects",
+            "Effective communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of public health problems",
+            "Delineation of problem-solving strategies",
+            "Critical evaluation of information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Leadership in research teams"
+        ]
+    },
+    {
+        "courseCode": "MPHO 620",
+        "courseTitle": "Health Management and Systems Thinking",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course, students will review the structure and functions of American and international healthcare systems, public health practice, and managerial responsibilities. Additionally, this course will introduce students to the practice of systems thinking in public health and the influence of systems thinking on public health policy.",
+        "Technical and Digital Skills": [
+            "Understanding of American and international healthcare systems",
+            "Knowledge of public health practices",
+            "Understanding of health policy",
+            "Practicing systems thinking in public health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a healthcare setting",
+            "Influencing public health policy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing healthcare systems",
+            "Solving problems in a public health context",
+            "Critical thinking in health management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare management",
+            "Leadership in public health settings",
+            "Implementing systems thinking for organizational improvement"
+        ]
+    },
+    {
+        "courseCode": "MPHO 622",
+        "courseTitle": "Environmental Health Law, Justice and Governance",
+        "academicLevel": "graduate",
+        "courseDescription": "This course surveys the basic legal concepts affecting environmental health services and program enforcement & administration. It is designed to provide a fundamental background of environmental and public health law for public health officers and other environmental health workers to fulfill their respective roles more successfully.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental health law",
+            "Basic legal concepts knowledge",
+            "Environment health services administration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with public health officers and other environmental health workers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in environmental health law enforcement",
+            "Analytical thinking for program enforcement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Program enforcement and administration",
+            "Leadership in public health services"
+        ]
+    },
+    {
+        "courseCode": "MPHO 630",
+        "courseTitle": "Health Communication and Social Marketing for Public Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines social marketing concepts and tools for influencing health behavior change. Students learn how to design, implement, and evaluate strategies for social marketing campaigns.",
+        "Technical and Digital Skills": [
+            "Social marketing campaign design",
+            "Implementation of marketing strategies",
+            "Evaluation of marketing campaigns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Health communication",
+            "Influencing behavior change",
+            "Public health messaging"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic planning for health behavior change",
+            "Analyzing effectiveness of health marketing strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing health communication campaigns",
+            "Leading social marketing initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 632",
+        "courseTitle": "Environmental and Occupational Health Risk Assessment",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an introduction to risk assessment, as applied to environmental and workplace hazards.  It examines the fundamental concepts of risk.  Students will learn the United States Environmental Protection Agency (USEPA) standard and advanced methodology for quantitative risk assessment including hazard identification, exposure assessment, dose-response modeling, risk characterization, and risk communication.  Utilization of qualitative assessment methods and ecological risk assessment are also explored.",
+        "Technical and Digital Skills": [
+            "USEPA standard and advanced methodology for quantitative risk assessment",
+            "hazard identification",
+            "exposure assessment",
+            "dose-response modeling",
+            "risk characterization",
+            "risk communication",
+            "qualitative assessment methods",
+            "ecological risk assessment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Risk communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Hazard identification",
+            "Exposure assessment",
+            "Dose-response modeling",
+            "Risk characterization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of USEPA methodology for risk assessment",
+            "Implementation of qualitative and quantitative risk assessment methods"
+        ]
+    },
+    {
+        "courseCode": "MPHO 633",
+        "courseTitle": "Financing Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will examine financial evaluation of the health care industry, the source of funds, and the effects of changing patient policies. Other topics of interest will be financial strategies, budgets and capital outlay. Cross-listed with CHP 633.",
+        "Technical and Digital Skills": [
+            "Financial analysis",
+            "Budgeting",
+            "Capital outlay management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating financial strategies",
+            "Interpreting and communicating policy changes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluating funding sources",
+            "Assessing financial impact of policy changes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic financial planning",
+            "Budget management"
+        ]
+    },
+    {
+        "courseCode": "MPHO 640",
+        "courseTitle": "Health Disparities and Social Justice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction to the topic of global health disparities through an in-depth examination and discussion of the relationship between social injustice and inequitable health outcomes. Students will be introduced to the behavioral, social and environmental determinants of health disparities and the pathways and mechanisms leading to inequitable health outcomes in vulnerable groups, as well as strategies for addressing these determinants to improve health.",
+        "Technical and Digital Skills": [
+            "Data analysis on health disparities",
+            "Research on social and environmental determinants of health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective discussion and debate on social issues",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of health outcomes",
+            "Evaluation of methods for addressing health disparities",
+            "Understanding of behavioral determinants of health"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning for health improvement",
+            "Leadership in social justice initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 643",
+        "courseTitle": "Principles of Toxicology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an introduction to the basic principles of toxicology, and the interactions between toxic agents and living systems.  The course consists of a study of general principles, dose response, toxin recognition and evaluation, chemicals, the human environment, and ecological toxicology.",
+        "Technical and Digital Skills": [
+            "Understanding of toxicological principles",
+            "Knowledge in toxin recognition and evaluation",
+            "Familiarity with chemicals and their interactions with living systems",
+            "Understanding of ecological toxicology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Dose response analysis",
+            "Critical evaluation of effects of toxins on human environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "MPHO 651",
+        "courseTitle": "Health Promotion Theory and Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides public health promotion graduate students with a comprehensive overview of the practical and theoretical principles and skills needed to plan, implement, and evaluate health promotion programs in a variety of settings. The course will help students apply constructs from theories to understand the determinants of health behaviors and emphasizes the importance of addressing health behavior change at the individual, interpersonal, organizational, community and societal levels of the social ecological model.",
+        "Technical and Digital Skills": [
+            "Application of health promotion theories",
+            "Planning health promotion programs",
+            "Implementing health promotion programs",
+            "Evaluation of health promotion programs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding determinants of health behaviors",
+            "Addressing health behavior change at different societal levels"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health behavior determinants",
+            "Evaluating health promotion program efficacy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating health promotion programs",
+            "Leading health behavior change initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 660",
+        "courseTitle": "Healthcare Informatics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the availability, use of interpretation of data obtained from traditional and new data systems used for population health monitoring. Included are public health surveillance systems, vital statistics, hospital discharge data, Health Plan Employer Data and Set (HEDIS), immunization information, school health data, 1996 Health Insurance Portability and Accountability Act (HIPAA), and regulatory agency data related to health.",
+        "Technical and Digital Skills": [
+            "Data interpretation",
+            "Use of public health surveillance systems",
+            "Use of hospital discharge data system",
+            "Use of Health Plan Employer Data and Set (HEDIS)",
+            "Use of immunization information",
+            "Understanding of 1996 Health Insurance Portability and Accountability Act (HIPAA)",
+            "Use and interpretation of regulatory agency data related to health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing population health data",
+            "Evaluating data from various health systems",
+            "Identifying trends and patterns in health data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing various data systems",
+            "Compliance with health data regulations"
+        ]
+    },
+    {
+        "courseCode": "MPHO 661",
+        "courseTitle": "Program Planning and Evaluation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides public and community health graduate students with a comprehensive overview of the practical and theoretical principles and skills needed to plan, implement, and evaluate health programs in a variety of settings.",
+        "Technical and Digital Skills": [
+            "Health program planning",
+            "Health program implementation",
+            "Health program evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interagency communication",
+            "Community outreach and engagement"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic health program design",
+            "Health program impact analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in public and community health settings"
+        ]
+    },
+    {
+        "courseCode": "MPHO 669",
+        "courseTitle": "Applied Practice Experience",
+        "academicLevel": "graduate",
+        "courseDescription": "In this course, students build on their earlier practice activities (i.e., Practice Labs) and undertake an extensive, hands-on activity at a field-based practice site. The Practice Labs, which are completed prior to taking this course, are designed to meet foundational and track competencies as well as prepare students for an on-site work experience.",
+        "Technical and Digital Skills": [
+            "Implementing practice lab activities",
+            "Field-based technical operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative field work",
+            "Communication at workplace"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Site-specific problem solving",
+            "Analysis of practical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing field-based tasks",
+            "Leading practice activities"
+        ]
+    },
+    {
+        "courseCode": "MPHO 670",
+        "courseTitle": "Cultural Issues in Health Promotion and Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an introduction for multicultural communication for health promotion and disease management. Topics to be covered include how to work collaboratively in diverse groups with an understanding of health behaviors, values, and health benefits.",
+        "Technical and Digital Skills": [
+            "Multicultural communication for health promotion",
+            "Disease management techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working collaboratively in diverse groups",
+            "Effective communication in multicultural settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding of health behaviors and values",
+            "Analyzing health benefits in a multicultural context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse teams in health promotion",
+            "Organizing multicultural health education programs"
+        ]
+    },
+    {
+        "courseCode": "MPHO 673",
+        "courseTitle": "Policy and Politics of Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course enables the student to develop systematic and analytical frameworks for understanding health and healthcare policy issues. It will introduce the policy process, background research necessary for policy implementation, and implementation strategies.",
+        "Technical and Digital Skills": [
+            "Background research for policy implementation",
+            "Policy process analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of healthcare policy issues",
+            "Communication of implementation strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Development of systematic frameworks for policy issues",
+            "Analytical understanding of health and healthcare policy issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of policy implementation strategies",
+            "Organization of healthcare policy research"
+        ]
+    },
+    {
+        "courseCode": "MPHO 680",
+        "courseTitle": "Global Health Issues",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the political, social, cultural, and ethical issues for disease prevention and health promotion in developing countries. Students will learn to identify international health prerogatives aimed at improving health status through education and intervention.",
+        "Technical and Digital Skills": [
+            "Disease prevention techniques",
+            "Health promotion strategies",
+            "Education methods for health improvement",
+            "Intervention methods in health crises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Ethical communication in health contexts",
+            "Dissemination of health-related information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of international health prerogatives",
+            "Analysis of health status in developing countries",
+            "Strategic planning for health improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in disease prevention and health promotion",
+            "Organizing education and intervention programs",
+            "Coordinating international health initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 686",
+        "courseTitle": "Legal Aspects of Health Services",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the legal requirements affecting the health care industry, including a survey of the basic concepts and content in the major areas of health law, an explanation and identification of sources of legal authority, and a familiarity with legal language.",
+        "Technical and Digital Skills": [
+            "Understanding of health law concepts",
+            "Identification of legal authority sources",
+            "Familiarity with legal language"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of legal requirements",
+            "Interpretation and explanation of legal concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health law content",
+            "Problem-solving in legal contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Application of legal requirements in health care settings",
+            "Leadership in legal aspects of health care"
+        ]
+    },
+    {
+        "courseCode": "MPHO 688",
+        "courseTitle": "Grant Writing for Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers issues and problems concerned with the development of grants and contracts as they relate to the health professions.  The course focuses on the multiple roles of funding agencies and the importance of matching the interests of the grant seeker with the corresponding funding agency.",
+        "Technical and Digital Skills": [
+            "Grant proposal writing",
+            "Understanding of health-related contracts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Liaising with funding agencies",
+            "Presentation of grant proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interest alignment between grant seeker and funding agency",
+            "Identification and resolution of grant development issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for grant development",
+            "Leadership in grant-seeking initiatives"
+        ]
+    },
+    {
+        "courseCode": "MPHO 689",
+        "courseTitle": "Integrative Learning Experience",
+        "academicLevel": "graduate",
+        "courseDescription": "This is the culminating course for the MPH program. Students demonstrate an ability to integrate and synthesize foundational and concentration-specific competencies from their MPH program coursework. Students complete assignments that address timely public health issues culminating in high quality written products and an e-portfolio that demonstrate the analysis, synthesis and intersection of course work and concurrent practicum experiences. Students from all tracks are required to complete this course prior to graduation.",
+        "Technical and Digital Skills": [
+            "Creating e-portfolios",
+            "Written communication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of public health issues",
+            "Collaborative learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of public health issues",
+            "Synthesis of foundational and concentration-specific competencies",
+            "Interpretation and evaluation of practicum experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Cross-disciplinary integration",
+            "Leadership in public health contexts"
+        ]
+    },
+    {
+        "courseCode": "MPHO 712",
+        "courseTitle": "Applied Biostatistics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents modern methods for analyzing data from epidemiologic and public health studies using the latest statistical methods. Emphasis is placed on practical, applied theories/concepts, aspects of methods for the analysis of diverse types of data including from observational studies, and the use of a computer for quantitative data management. Emphasis will also be placed on technical and statistical report writing.",
+        "Technical and Digital Skills": [
+            "Data analysis",
+            "Use of statistical methods",
+            "Quantitative data management",
+            "Technical and statistical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting statistical insights",
+            "Communication of technical and statistical reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data from epidemiologic and public health studies",
+            "Application of practical theories/concepts",
+            "Analysis of diverse types of data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MPHO 713",
+        "courseTitle": "Applied Statistical Programming",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers programming and computing techniques using contemporary statistical packages. Emphasis is placed on practical issues relating to organizing, modifying, and preparing data for analysis.",
+        "Technical and Digital Skills": [
+            "Programming with statistical packages",
+            "Data organization techniques",
+            "Data modification techniques",
+            "Data preparation for analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Practical problem-solving in data organization",
+            "Analytical approach to data modification",
+            "Strategic planning for data preparation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of data organization",
+            "Leadership in data preparation processes"
+        ]
+    },
+    {
+        "courseCode": "MPHO 716",
+        "courseTitle": "Application of Epidemiological Methods",
+        "academicLevel": "graduate",
+        "courseDescription": "The course aims to prepare graduate students with hands-on experience in producing common epidemiological measures while critically evaluating the quality of data and the design of epidemiological investigations.",
+        "Technical and Digital Skills": [
+            "Producing epidemiological measures",
+            "Data quality evaluation",
+            "Epidemiological investigation design"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of data",
+            "Analyzing epidemiological measures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MPHO 717",
+        "courseTitle": "Epidemiology of Infectious Diseases",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the epidemiology of infectious diseases from a public health perspective. It applies traditional and contemporary epidemiological methods used to deal with infectious diseases.",
+        "Technical and Digital Skills": [
+            "Understanding of epidemiology methods",
+            "Knowledge of infectious diseases",
+            "Ability to apply traditional and contemporary epidemiological methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate epidemiological findings",
+            "Collaboration in public health settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of infectious disease trends",
+            "Problem-solving in disease control",
+            "Application of epidemiological methods to real-world infectious diseases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of public health data",
+            "Decision-making in public health contexts"
+        ]
+    },
+    {
+        "courseCode": "MPHO 776",
+        "courseTitle": "Global Health",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces students to the political, social, cultural, environmental, and ethical issues globally involved in disease prevention and health promotion. Specific emphasis is on incidence/prevalence, morbidity/mortality, and identified health problems in specific regions and countries.  This course also identifies global health prerogatives aimed at improving health status through education and intervention.",
+        "Technical and Digital Skills": [
+            "Understanding of global health statistics",
+            "Familiarity with health promotion strategies",
+            "Knowledge of disease prevention methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Communication of health issues and solutions",
+            "Educational outreach for health promotion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health issues in specific regions and countries",
+            "Identification and evaluation of health problems",
+            "Development of interventions for health improvement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in health education and intervention",
+            "Organizing health promotion campaigns",
+            "Strategic planning for disease prevention"
+        ]
+    },
+    {
+        "courseCode": "MPHO 778",
+        "courseTitle": "Global Environmental Health",
+        "academicLevel": "graduate",
+        "courseDescription": "The goal of this course is to guide students with a public health perspective to develop skills to identify and analyze environmental health problems globally. It is designed to provide knowledge on recognizing and evaluating major environmental health issues and risk factors in developed and developing countries by using group discussions and real-life case studies.",
+        "Technical and Digital Skills": [
+            "Identification of environmental health problems",
+            "Evaluation of major environmental health issues and risk factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation of case studies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of environmental health problems",
+            "Risk factor analysis",
+            "Case study analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Organizing case study presentations"
+        ]
+    },
+    {
+        "courseCode": "MPHO 784",
+        "courseTitle": "Creating Sustainable Environmental Futures",
+        "academicLevel": "graduate",
+        "courseDescription": "This second-year MPH course examines the interrelationships between individual and societal decisions and the global environment, and the consequences these interrelationships have for public health. Students engage in an in-depth examination of key environmental health issues, analyze the public health implications, and consider various strategies for improving individual and population health, and enhancing sustainability, in the local area, the region, the nation and around the world.",
+        "Technical and Digital Skills": [
+            "In-depth examination of environmental health issues",
+            "Analysis of public health implications",
+            "Understanding of strategies for improving individual and population health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of environmental health issues",
+            "Discussion and debate on societal decisions impacting the environment",
+            "Presentation of strategies for enhancing sustainability"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of the interrelationships between individual and societal decisions and the global environment",
+            "Strategic thinking for enhancing sustainability",
+            "Critical evaluation of environmental health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in environmental health discussions",
+            "Organizing and prioritizing environmental health issues",
+            "Developing and implementing sustainability strategies"
+        ]
+    }
+]

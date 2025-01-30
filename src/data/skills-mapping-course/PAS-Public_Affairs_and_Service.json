@@ -1,0 +1,256 @@
+[
+    {
+        "courseTitle": "Foundations of Public Service",
+        "courseCode": "PAS 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the study of public service.  Emphasis is placed on the history and framework of public service and the study and practice of public administration.",
+        "Technical and Digital Skills": [
+            "Understanding of public service frameworks",
+            "Basic administration techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication within public administration",
+            "Interdepartmental coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis and interpretation of public service history",
+            "Evaluation of public service practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Public service organization",
+            "Leadership within public administration"
+        ]
+    },
+    {
+        "courseTitle": "Ethics, Governance and Accountability in Public Service",
+        "courseCode": "PAS 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview of ethics, governance and accountability in public service, with particular emphasis on the linkages between these three concepts.  The focus is on the ethical context and implications of public management, governance structures, and public sector accountability, particularly in relation to critical social, political, and economic issues.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Communicating ethical considerations",
+            "Conveying accountability measures",
+            "Explaining governance structures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing public management implications",
+            "Evaluating governance structures",
+            "Assessing accountability in public sector"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading with ethical diligence",
+            "Organizing governance structures",
+            "Managing public sector accountability"
+        ]
+    },
+    {
+        "courseTitle": "Internship in Public Service",
+        "courseCode": "PAS 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participates in a relevant public service-related work experience.  Approval for enrollment and allowable credits is determined by the PAS CAP advisor and the Career Development Services in the semester prior to enrollment.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Networking",
+            "Collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to new work environments",
+            "Understanding and fulfilling job roles"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseTitle": "Public Service Films",
+        "courseCode": "PAS 408",
+        "academicLevel": "undergraduate",
+        "courseDescription": "From the invention of the first simple 'moving pictures' more than 130 years ago to the latest multi-million dollar, high-tech blockbuster, films have served as a vehicle for both political messages and societal critiques.  As a unifying theme, we will focus our analysis on the films' implications for the study and practice of public service.",
+        "Technical and Digital Skills": [
+            "Film analysis",
+            "Understanding of historical and contemporary film technologies",
+            "Media literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of film critiques",
+            "Collaborative film study"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of film content",
+            "Analysis of political messages and societal critiques in films"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing film study groups",
+            "Leading discussions on film implications for public service"
+        ]
+    },
+    {
+        "courseTitle": "Leadership and Cultural Competence",
+        "courseCode": "PAS 409",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on the study of contemporary leadership theory and practice, with particular emphasis on public and non-profit sectors.  The critical themes of ethics and cultural competence are woven throughout the course.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective communication in public and non-profit sectors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethics-based problem-solving",
+            "Critical evaluation of leadership practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and application of contemporary leadership theories",
+            "Leadership in public and non-profit sectors",
+            "Ethical decision making",
+            "Cultural competence in leadership"
+        ]
+    },
+    {
+        "courseTitle": "Public and Non-profit Organization",
+        "courseCode": "PAS 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the study and practice of public and non-profit agencies.  The course is designed to explore fundamental issues of organizational structure, management, and operations of public and non-profit organizations in modern American society.",
+        "Technical and Digital Skills": [
+            "Understanding of public and non-profit agency structures",
+            "Knowledge of organizational operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working effectively within public and non-profit organizations",
+            "Communicating organizational issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing organizational issues",
+            "Analyzing organizational structures and operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing public and non-profit organizations",
+            "Leading operations within an organizational structure"
+        ]
+    },
+    {
+        "courseTitle": "Multi-Sector Partnerships for Public Service",
+        "courseCode": "PAS 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the interplay between the public, private, and non-profit sectors.  Particular emphasis is placed on the structure and operation of intersectoral partnerships to achieve public goals.",
+        "Technical and Digital Skills": [
+            "Understanding of public, private, and non-profit sectors",
+            "Knowledge about intersectoral partnership structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder coordination",
+            "Intersectoral communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of partnership operations",
+            "Identification of partnership opportunities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of intersectoral partnerships",
+            "Leadership in achieving public goals"
+        ]
+    },
+    {
+        "courseTitle": "Public Service Practice",
+        "courseCode": "PAS 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide an overview of the essential elements of learning and serving. The course will focus on how to provide meaningful service to a community agency or organization while simultaneously gaining new skills, knowledge, and understanding as an integrated aspect of the student's academic program.",
+        "Technical and Digital Skills": [
+            "Understanding community agency operations",
+            "Creating service strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement",
+            "Cross-cultural communication",
+            "Negotiation with community stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying community needs",
+            "Service impact assessment",
+            "Strategic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leadership in community service",
+            "Team coordination"
+        ]
+    },
+    {
+        "courseTitle": "Public Service Entrepreneurship",
+        "courseCode": "PAS 413",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Public service entrepreneurship supports the development of socially aware and responsive students through service and learning. Students will participate in service projects with community partners to recognize and reflect on the social needs of their community. This course will integrate classroom learning with community participation to provide practical experience for students to recognize the rewards of serving.",
+        "Technical and Digital Skills": [
+            "Project management software",
+            "Basic digital literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Community engagement",
+            "Collaboration with partners",
+            "Reflective listening",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of social needs",
+            "Critical reflection",
+            "Creative problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Team leadership",
+            "Community leadership"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Public Affairs and Service",
+        "courseCode": "PAS 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed for the study of selected topics in public affairs and service.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Written and verbal communication",
+            "Negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Decision making",
+            "Policy analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership",
+            "Strategic planning"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Public Service",
+        "courseCode": "PAS 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Provides students the opportunity to undertake independent study of selected topics/issues in public service under the guidance of a faculty member.  Student and faculty member must complete and agree on a learning contract before study begins. Pass/Fail grading only.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis",
+            "Digital documentation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Negotiation and agreement on contracts",
+            "Effective correspondence with a mentor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Issue identification",
+            "Solution proposal",
+            "Critical thinking",
+            "Independent problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning",
+            "Time management",
+            "Task prioritization"
+        ]
+    }
+]

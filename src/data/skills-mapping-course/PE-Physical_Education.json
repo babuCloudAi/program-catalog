@@ -1,0 +1,634 @@
+[
+    {
+        "courseTitle": "Swim Conditioning",
+        "courseCode": "PE 101+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will discuss and learn the training process including advantages and benefits of swimming, principles of training, training procedures, evaluation and motivation, and minor annoyances. Stroke mechanics and improvement and information for triathletes.",
+        "Technical and Digital Skills": [
+            "Understanding principles of training",
+            "Stroke mechanics",
+            "Training procedures",
+            "Evaluation and motivation strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing training processes",
+            "Motivating other swimmers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and addressing minor annoyances",
+            "Evaluating swimming performance",
+            "Improving stroke mechanics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing training procedures",
+            "Leading and motivating a team of swimmers"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Swimming",
+        "courseCode": "PE 102+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Development of the basic water safety skills and knowledge to make one reasonably safe in the water.",
+        "Technical and Digital Skills": [
+            "Basic swimming techniques",
+            "Water safety protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and following instructions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying potential water hazards"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Swimming",
+        "courseCode": "PE 103+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Instruction in all strokes will be covered.",
+        "Technical and Digital Skills": [
+            "Breaststroke technique",
+            "Freestyle swimming technique",
+            "Backstroke technique",
+            "Butterfly stroke technique"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructor feedback interpretation",
+            "Peer feedback comprehension"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Stroke correction",
+            "Technique refinement"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Lifeguard Training",
+        "courseCode": "PE 104+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Development of the skills and knowledge designed to save the life of another in the event of an emergency in the water.  Red Cross certification.",
+        "Technical and Digital Skills": [
+            "Emergency rescue techniques",
+            "Water safety procedures",
+            "First aid",
+            "CPR and AED operation",
+            "Red Cross certification knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in emergencies",
+            "Coordinating with other lifeguards and emergency responders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quick decision making in high-stress situations",
+            "Identifying potential hazards and preventing accidents",
+            "Evaluating emergency situations and determining the best course of action"
+        ],
+        "Organizational and Leadership Skills": [
+            "Maintaining orderly and safe swimming environments",
+            "Leading emergency response efforts",
+            "Enforcing pool rules and regulations"
+        ]
+    },
+    {
+        "courseTitle": "Water Safety Instruction",
+        "courseCode": "PE 105+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide the student with knowledge and skills in water safety and teaching techniques for certification to teach swimming, lifesaving, rescue and water safety courses.  Red Cross Water Safety Instructor Certificate upon successful completion.",
+        "Technical and Digital Skills": [
+            "Swimming techniques",
+            "Lifesaving methods",
+            "Rescue operations",
+            "Water safety principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional skills",
+            "Communication in emergency situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Quick decision making in emergencies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Course management",
+            "Leadership in rescue operations"
+        ]
+    },
+    {
+        "courseTitle": "Yoga",
+        "courseCode": "PE 112+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The 1-credit option of this course focuses on yoga postures and breathing exercises. The 2-credit option provides a foundation for the understanding and practice of Hatha yoga in its complete form. Course covers yoga postures, breathing exercises, philosophy, and meditation.",
+        "Technical and Digital Skills": [
+            "Yoga postures",
+            "Breathing exercises",
+            "Meditation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching yoga postures",
+            "Explaining breathing exercises",
+            "Guiding meditation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting yoga postures for different abilities",
+            "Adjusting breathing exercises to individual needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading yoga sessions",
+            "Organizing course materials",
+            "Planning yoga sequences"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Rock Climbing",
+        "courseCode": "PE 115+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to guide students through several processes in rock climbing.  Students will be able to properly fit a harness, tie in to the system, use passive and active belay devices, and perform basic rescues.  The class will also focus on proper climbing technique and injury prevention.  Additionally, rock climbing facility administration will be discussed.",
+        "Technical and Digital Skills": [
+            "Proper harness fitting",
+            "Usage of passive and active belay devices",
+            "Basic rescue performance",
+            "Rock climbing technique",
+            "Injury prevention"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instruction following",
+            "Safety communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk assessment",
+            "Problem-solving in emergency situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Rock climbing facility administration"
+        ]
+    },
+    {
+        "courseTitle": "Accessible Fitness and Wellness",
+        "courseCode": "PE 117+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed for students who self-identify as having social, cognitive, emotional, psychological, or physical limitations who would benefit from a small group and/or individualized fitness/nutritional training program. Students will learn the basic principles about cardiovascular/aerobic training and resistance/weight training to increase flexibility, balance and overall fitness. Upon completion, students should be able to plan and implement a personal, lifelong fitness program based on their individual needs, abilities, goals and interests.  Course will also include classes on nutrition to increase overall wellness.",
+        "Technical and Digital Skills": [
+            "Cardiovascular/aerobic training principles",
+            "Resistance/weight training principles",
+            "Understanding and applying nutrition principles",
+            "Designing a personal, lifelong fitness program"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working in a small group environment",
+            "Communicating individual needs and goals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and adapting exercises to meet individual abilities and limitations",
+            "Evaluating and adjusting personal fitness program for optimal results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing a personal fitness program",
+            "Setting and achieving fitness and wellness goals"
+        ]
+    },
+    {
+        "courseTitle": "Weight Training",
+        "courseCode": "PE 118+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to allow students an individualized weight training program.  The program will include use of free weights, universal, and other appropriate tools for the variety of weight training differences.",
+        "Technical and Digital Skills": [
+            "Understanding of free weights usage",
+            "Knowledge of universal weight training tools",
+            "Ability to use appropriate tools for different weight training exercises"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate with trainers and peers",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and improving weight training techniques",
+            "Adjusting exercise routines to meet individual fitness goals"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline and management",
+            "Adherence to safety guidelines and protocols",
+            "Planning and structuring individualized weight training program"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Golf",
+        "courseCode": "PE 134+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The fundamentals of golf, stance, grip, swing, rules, and etiquette are presented.  Driving range and golf course may be used.  Students pay all fees.",
+        "Technical and Digital Skills": [
+            "Understanding golf fundamentals",
+            "Mastering golf stance",
+            "Mastering golf grip",
+            "Executing a golf swing",
+            "Knowledge of golf rules",
+            "Understanding golf etiquette"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Golf course etiquette",
+            "Communicating with other players and staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing golf swing technique",
+            "Assessing golf course layout",
+            "Evaluating best grip and stance for different situations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Beginning Self-Defense",
+        "courseCode": "PE 140+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The student is introduced to the various practical skills and methods of self-defense. Judo, Aikido, Jujutsu, and Karate are combined to explore the most effective means to defend oneself.",
+        "Technical and Digital Skills": [
+            "Application of Judo techniques",
+            "Application of Aikido techniques",
+            "Application of Jujutsu techniques",
+            "Application of Karate techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and responding to body language",
+            "Verbal de-escalation techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quick decision making",
+            "Threat assessment",
+            "Adapting techniques to different situations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Self-Defense",
+        "courseCode": "PE 141+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to give the student further instruction and practice in the various practical skills and methods of self-defense.",
+        "Technical and Digital Skills": [
+            "Advanced defensive techniques",
+            "Knowledge of attack patterns",
+            "Use of self-defense tools and equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Deescalation techniques",
+            "Assertive communication in threatening situations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Threat assessment",
+            "Quick decision-making under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a self-defense practice session",
+            "Maintaining discipline during high-stress scenarios"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Karate",
+        "courseCode": "PE 142+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to give the traditional Karate training ('Art of Empty Hand') to the beginning student. It emphasizes the traditional mode of training with mental and physical discipline. Formal Kata, defensive skills, punches, kicks, and blocking techniques are introduced.",
+        "Technical and Digital Skills": [
+            "Basic karate techniques",
+            "Kata performance",
+            "Defensive skills",
+            "Punches",
+            "Kicks",
+            "Blocking techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discipline",
+            "Respect for traditional practices",
+            "Communication within a dojo environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to opponent's moves",
+            "Analyzing own performance",
+            "Reacting to physical cues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following instructions",
+            "Self-discipline",
+            "Maintaining a training regimen"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Karate",
+        "courseCode": "PE 143+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to give the student further instruction and practice in traditional Karate.",
+        "Technical and Digital Skills": [
+            "Advanced karate techniques",
+            "Physical conditioning",
+            "Self-defense techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Non-verbal communication",
+            "Discipline and respect for others",
+            "Partner training exercises"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic combat techniques",
+            "Adaptability to different fighting styles",
+            "Risk analysis in combat situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Leadership in group training",
+            "Time management for training sessions"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Karate",
+        "courseCode": "PE 144+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce further instruction and practice in traditional martial art aspects of Karate-doh. Philosophical understanding and high level of skill proficiency are emphasized.",
+        "Technical and Digital Skills": [
+            "High-level Karate techniques",
+            "Understanding Karate-doh philosophy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Non-verbal communication",
+            "Respect and courtesy in martial arts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategy development in martial arts",
+            "Critical evaluation of opponent's moves"
+        ],
+        "Organizational and Leadership Skills": [
+            "Discipline and self-control",
+            "Leadership in Karate practice"
+        ]
+    },
+    {
+        "courseTitle": "Theory of Advanced Karatedo",
+        "courseCode": "PE 145+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide the theoretical framework of Karatedo that embodies the higher principle of physical and mental dynamics and aims to achieve the advanced skills in Karatedo.",
+        "Technical and Digital Skills": [
+            "Advanced Karatedo techniques",
+            "Understanding of physical and mental dynamics in Karatedo"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Demonstration of Karatedo techniques",
+            "Verbal communication of Karatedo principles"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Karatedo movements",
+            "Problem-solving in Karatedo techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in Karatedo practice",
+            "Organization of Karatedo training sessions"
+        ]
+    },
+    {
+        "courseTitle": "Beginning Aikido",
+        "courseCode": "PE 146+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed to introduce the fundamental dynamics of Aikido principle. It contains the fundamental skills in body dynamics, body movements, safety landing, defensive pattern drills, and overall understanding of Aikido as a classical art form. Course provide comprehensive information on the philosophical and aesthetic aspects of Aikido.",
+        "Technical and Digital Skills": [
+            "Body dynamics fundamentals",
+            "Safety landing techniques",
+            "Defensive pattern drills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and appreciating the aesthetics of Aikido"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding the philosophical aspects of Aikido"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Intermediate Aikido",
+        "courseCode": "PE 147+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed to introduce the intermediate level of Aikido dynamics. It contains the basics of fundamental skills in body dynamics, body movements, safety landing, intermediate level of defensive pattern drills, and overall understanding of Aikido as a classical art form.",
+        "Technical and Digital Skills": [
+            "Body dynamics",
+            "Body movements",
+            "Safety landing techniques",
+            "Defensive pattern drills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Physical coordination with partner",
+            "Non-verbal communication cues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different defensive patterns",
+            "Quick decision-making in response to partner's movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Discipline in following Aikido practices",
+            "Respect for classical art form traditions"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Aikido",
+        "courseCode": "PE 148+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed to introduce the advanced level of Aikido dynamics. It contains training in advanced skills in body dynamics, body movements, defensive pattern drills, and overall understanding of Aikido theory and application as a classical art form.",
+        "Technical and Digital Skills": [
+            "Advanced body dynamics",
+            "Advanced defensive pattern drills",
+            "Understanding of Aikido theory and application"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of Aikido principles",
+            "Non-verbal communication through body movements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and executing advanced Aikido techniques",
+            "Adapting body movements in response to opponent"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading advanced Aikido drills",
+            "Organizing and executing complex Aikido movements"
+        ]
+    },
+    {
+        "courseTitle": "Theory of Advanced Aikido",
+        "courseCode": "PE 149+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to provide the theoretical framework of Aikido that embodies the mental and physical dynamics of the martial arts discipline of Aikido.",
+        "Technical and Digital Skills": [
+            "Understanding of Aikido techniques",
+            "Knowledge of the theoretical framework of Aikido",
+            "Physical dynamics of Aikido"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective demonstration of Aikido techniques",
+            "Verbal communication of theoretical concepts",
+            "Teaching and instructing Aikido"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Strategic application of Aikido techniques",
+            "Analysis of opponent's movements",
+            "Adapting techniques to different situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading Aikido practice sessions",
+            "Organizing and structuring Aikido training sessions",
+            "Motivating and inspiring fellow students"
+        ]
+    },
+    {
+        "courseTitle": "Physical Conditioning",
+        "courseCode": "PE 171+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course addresses the basic principles of progressive weight training.  Objectives of the course include knowledge of various weight-training systems, proper use of weight-training equipment, and effective record-keeping to monitor individual progress.",
+        "Technical and Digital Skills": [
+            "Understanding of weight-training systems",
+            "Proper use of weight-training equipment"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Monitoring and analyzing individual progress"
+        ],
+        "Organizational and Leadership Skills": [
+            "Effective record-keeping"
+        ]
+    },
+    {
+        "courseTitle": "Aerobics I",
+        "courseCode": "PE 174+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce the student to a complete physical fitness program that strengthens the heart and lungs, and tones up the muscles.",
+        "Technical and Digital Skills": [
+            "Understanding of aerobic exercises",
+            "Knowledge of physical fitness programs",
+            "Ability to perform exercises that strengthen the heart and lungs",
+            "Ability to perform exercises that tone up muscles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to follow instructor's instructions",
+            "Ability to communicate physical discomfort or difficulties during the session"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding how different exercises impact different muscle groups",
+            "Ability to modify exercises to suit personal fitness level"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Zumba",
+        "courseCode": "PE 175+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Zumba is a Latin inspired, dance-fitness class that incorporates Latin and International music with dance movements.  It is a high calorie-burning fitness class that features fast and slow rhythms.  The student will participate in instructor led routines.  This class will include discussion of Zumba's history and basic four rhythms.  No dance experience necessary.",
+        "Technical and Digital Skills": [
+            "Understanding of Zumba's basic four rhythms",
+            "Following instructor led routines",
+            "Ability to adapt to fast and slow rhythms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in group fitness classes",
+            "Understanding instructions from the instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting dance movements to varying rhythms",
+            "Understanding and applying the history of Zumba to enhance performance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following a structured class routine",
+            "Keeping pace with the instructor led routines"
+        ]
+    },
+    {
+        "courseTitle": "Pilates",
+        "courseCode": "PE 176+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will understand the basic principles of Pilates and will be able to demonstrate the ability of performing beginning and intermediate Pilates exercises with correct form and technique.",
+        "Technical and Digital Skills": [
+            "Understanding basic principles of Pilates",
+            "Performing beginning and intermediate Pilates exercises",
+            "Correct form and technique in Pilates"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructing others in Pilates exercises",
+            "Giving feedback on Pilates form and technique"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing body alignment and posture",
+            "Adjusting Pilates exercises to individual fitness level"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading Pilates workout sessions",
+            "Planning and structuring Pilates routines"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Health and Physical Education",
+        "courseCode": "PE 196+",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A variety of new and innovative courses in lifetime physical activities are offered such as advanced theory class in martial arts, advanced Iaido, self defense seminar, yoga, cross country skiing, yacht racing, racquetball, nautilus, swim conditioning, water safety instructor, scuba and aerobic dance.",
+        "Technical and Digital Skills": [
+            "Advanced martial arts theory",
+            "Iaido expertise",
+            "Self-defense techniques",
+            "Yoga poses and techniques",
+            "Cross country skiing skills",
+            "Yacht racing skills",
+            "Racquetball techniques",
+            "Nautilus operation",
+            "Swim conditioning exercises",
+            "Water safety instruction",
+            "Scuba diving skills",
+            "Aerobic dance techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructing and demonstrating physical activities",
+            "Coordinating group physical activities",
+            "Safety communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting physical activities for individual abilities and needs",
+            "Troubleshooting equipment issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and leading diverse physical activities",
+            "Managing safety in physical activities"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Health and Physical Education",
+        "courseCode": "PE 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an opportunity for in-depth study of selected topics in health and physical education.",
+        "Technical and Digital Skills": [
+            "Knowledge in health and physical education theories",
+            "Using digital tools for health education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of health and fitness topics",
+            "Peer education and training"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing health-related cases",
+            "Designing physical education curriculum"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing health programs",
+            "Leading physical education activities"
+        ]
+    },
+    {
+        "courseCode": "PE 597",
+        "courseTitle": "Topics in Health and Physical Education",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides an opportunity for in-depth study of selected topics in health and physical education.",
+        "Technical and Digital Skills": [
+            "Understanding of health and physical education topics",
+            "Use of digital tools for research and study",
+            "Application of health and fitness tracking technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss and explain health and physical education topics",
+            "Collaboration in group study and projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of health and physical education issues",
+            "Development of solutions for health and physical education challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementation of health and physical education projects",
+            "Leadership in group study and projects"
+        ]
+    }
+]

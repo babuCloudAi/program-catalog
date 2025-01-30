@@ -1,0 +1,1201 @@
+[
+    {
+        "courseTitle": "Dental Hygiene Services I",
+        "courseCode": "DNTH 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Preclinical experience in the on-campus supervised clinic.  Clinical and laboratory application of introductory skills essential to rendering oral health services to patients with emphasis on basic dental hygiene instrumentation and ergonomics. Offered each fall.",
+        "Technical and Digital Skills": [
+            "Dental hygiene instrumentation",
+            "Basic dental hygiene techniques",
+            "Clinical application skills",
+            "Laboratory skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient communication skills",
+            "Teamwork in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in clinical decision-making",
+            "Problem-solving in dental hygiene scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a clinical setting",
+            "Leadership in patient care"
+        ]
+    },
+    {
+        "courseTitle": "Oral Anatomy and Histology",
+        "courseCode": "DNTH 302",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the anatomical, histological, embryological and morphological features and development of the head, neck and dentition. Emphasis is on nomenclature, nerve and vascular innervation, muscles of mastication, orofacial embryology and histological features of the oral cavity for practice and forensic identification.",
+        "Technical and Digital Skills": [
+            "Knowledge of anatomical structures in the head, neck, and dentition",
+            "Understanding of histological features of the oral cavity",
+            "Familiarity with nerve and vascular innervation in the oral region",
+            "Identification of muscles of mastication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of anatomical and histological information",
+            "Collaboration with peers on anatomical studies",
+            "Presentation of findings related to orofacial embryology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of anatomical structures",
+            "Identification of morphological features for forensic purposes",
+            "Evaluation of embryological development in the orofacial region"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing anatomical study materials",
+            "Leading group discussions on histological features",
+            "Taking initiative in identifying and studying relevant aspects of oral anatomy"
+        ]
+    },
+    {
+        "courseTitle": "Applied Dental Materials",
+        "courseCode": "DNTH 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to biomaterials with emphasis on those materials and techniques common in dental hygiene practice and used and maintained by the dental hygienist.  (offered fall)",
+        "Technical and Digital Skills": [
+            "Understanding biomaterial properties",
+            "Knowledge of dental materials used in practice",
+            "Maintenance of dental materials",
+            "Techniques for working with dental materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with dental team regarding materials",
+            "Collaboration with dentists and other dental professionals on material selection",
+            "Patient education on dental materials and maintenance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate materials for specific dental procedures",
+            "Troubleshooting issues with dental materials",
+            "Analyzing the durability and effectiveness of different dental materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing inventory of dental materials",
+            "Leading discussions on best practices for material use in dental hygiene practice",
+            "Providing guidance and training to other dental hygienists on material techniques"
+        ]
+    },
+    {
+        "courseTitle": "Oral Radiology I",
+        "courseCode": "DNTH 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the nature and production of x rays and basic principles and procedures in oral radiology.  Emphasis is on radiation physics, radiation biology, radiation protection and safety, basic intraoral radiographic techniques and imaging procedures. (offered fall)",
+        "Technical and Digital Skills": [
+            "Understanding of radiation physics",
+            "Knowledge of radiation biology",
+            "Intraoral radiographic techniques",
+            "Imaging procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of radiographic findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Radiation protection and safety procedures",
+            "Critical evaluation of radiographic images"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Dental Hygiene Theory II",
+        "courseCode": "DNTH 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of study of the theoretical foundation of preventive and therapeutic oral health services used in the dental hygiene process.  Emphasis is on preparation for ethical, evidence-based client care. (offered spring).",
+        "Technical and Digital Skills": [
+            "Ethical client care preparation",
+            "Evidence-based practice implementation",
+            "Therapeutic oral health services knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective client communication",
+            "Building rapport with patients",
+            "Team collaboration in client care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of oral health data",
+            "Problem identification in oral health services",
+            "Analyzing preventive strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making in client care",
+            "Leading oral health service teams",
+            "Organizing evidence-based client care plans"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Services II",
+        "courseCode": "DNTH 306",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical experience in the on-campus supervised clinic.  Continued development of clinical proficiency and ethical, evidence-based decision making in rendering comprehensive preventive oral health services using the dental hygiene process.  Emphasis is on clinical application and development of competence in maintenance, management and evaluation of the periodontal patient; care planning, disease control strategies; and scaling and oral debridement on periodontally involved patients (offered spring).",
+        "Technical and Digital Skills": [
+            "Clinical proficiency in preventive oral health services",
+            "Disease control strategies implementation",
+            "Scaling and oral debridement techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical decision-making in clinical settings",
+            "Effective communication with patients and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of periodontal patient care plans",
+            "Management and assessment of periodontally involved patients"
+        ],
+        "Organizational and Leadership Skills": [
+            "Competence development in maintenance of patient records",
+            "Leadership in clinical application and development"
+        ]
+    },
+    {
+        "courseTitle": "Pharmacology and Medical Emergencies",
+        "courseCode": "DNTH 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of pharmacologic agents used in oral healthcare and of medications that the patient may be taking, their clinical effects, adverse effects, and dental implications, and the prevention and management of medical emergencies.  Emphasis is on agents commonly used by patients which may require the alteration of treatment procedures, therapeutic agents used adjunctively in dental hygiene therapy and agents used in medical emergency procedures. (offered spring)",
+        "Technical and Digital Skills": [
+            "Understanding pharmacologic agents in oral healthcare",
+            "Knowledge of medications and their effects",
+            "Management of medical emergencies in a dental setting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients regarding medication use",
+            "Working collaboratively with dental team during emergencies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying adverse effects of medications",
+            "Critical thinking in adjusting treatment procedures based on patient medications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading medical emergency response in a dental office",
+            "Organizing emergency protocols and procedures"
+        ]
+    },
+    {
+        "courseTitle": "Oral Pathology",
+        "courseCode": "DNTH 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Principles of the disease process and general pathology including cell injury, infection, inflammation, neoplasia and circulatory disturbances are followed by the study of pathology of the teeth, supporting and associated oral structures.  Emphasis is on the clinical and radiological appearance of local and systemic disease processes affecting the oral and facial structures. (offered spring)",
+        "Technical and Digital Skills": [
+            "Radiological interpretation",
+            "Clinical observation skills",
+            "Understanding disease processes in oral and facial structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and colleagues",
+            "Team collaboration in diagnosis and treatment planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosing oral diseases based on clinical and radiological findings",
+            "Identifying systemic disease manifestations in oral tissues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interdisciplinary teams in oral pathology cases",
+            "Managing patient treatment plans and follow-ups"
+        ]
+    },
+    {
+        "courseTitle": "Oral Radiology II",
+        "courseCode": "DNTH 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continued development of the principles and techniques obtained in Oral Radiology I with emphasis on supplemental intraoral techniques especially for client management; extraoral techniques; radiographic interpretation of film-based and digitally acquired images; and use of dental photography in patient care. (offered spring)",
+        "Technical and Digital Skills": [
+            "Radiographic interpretation of film-based images",
+            "Radiographic interpretation of digitally acquired images",
+            "Utilization of dental photography in patient care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client management",
+            "Effective communication with patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of radiographic images",
+            "Identification of oral health issues from radiographs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Efficient workflow management in radiology procedures"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Therapies and Practice",
+        "courseCode": "DNTH 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasis is on principles of periodontics, evaluation of periodontal disease, and theoretical and clinical preparation for delivery of dental hygiene interventions. (offered spring)",
+        "Technical and Digital Skills": [
+            "Evaluation of periodontal disease",
+            "Clinical preparation for dental hygiene interventions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient education on periodontics",
+            "Collaboration with dental professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of periodontal conditions",
+            "Development of treatment plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of dental hygiene interventions",
+            "Leadership in dental care delivery"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Theory and Services III",
+        "courseCode": "DNTH 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical experience in the on-campus supervised clinic. Continued development of clinical competency and ethical, evidence-based decision making in rendering comprehensive preventive  and therapeutic oral health services and technologies using the dental hygiene process of care. (offered summer)",
+        "Technical and Digital Skills": [
+            "Clinical competency development",
+            "Ethical decision making",
+            "Evidence-based practice implementation",
+            "Preventive oral health services",
+            "Therapeutic oral health services",
+            "Dental hygiene process of care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Professional interaction in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in clinical scenarios",
+            "Decision making based on evidence and data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a clinical setting",
+            "Team collaboration for patient care"
+        ]
+    },
+    {
+        "courseTitle": "Anxiety and Pain Control",
+        "courseCode": "DNTH 317",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical experience in the on-campus supervised clinic.  Principles and techniques for local anesthesia injections and nitrous oxide-oxygen analgesia administration, neurophysiologic considerations, prevention of anesthesia-associated emergencies and application of techniques in laboratory.  Five hours of instruction will be web-based. (Offered summer)",
+        "Technical and Digital Skills": [
+            "Local anesthesia injections",
+            "Nitrous oxide-oxygen analgesia administration",
+            "Neurophysiologic considerations",
+            "Application of techniques in laboratory",
+            "Web-based instruction"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients",
+            "Building rapport with patients",
+            "Empathy in patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Prevention of anesthesia-associated emergencies",
+            "Critical evaluation of patient conditions",
+            "Decision-making under pressure"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervised clinic management",
+            "Time management in clinical settings",
+            "Team coordination in emergency situations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dental Hygiene Practice",
+        "courseCode": "DNTH 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected topics in dental hygiene vary by semester. (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Dental hygiene procedures",
+            "Digital radiography techniques",
+            "Intraoral camera usage",
+            "Electronic health record management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient education delivery",
+            "Team collaboration in dental settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of dental conditions",
+            "Treatment planning based on patient needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing dental hygiene appointments",
+            "Supervising dental hygiene assistants"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Dental Hygiene",
+        "courseCode": "DNTH 397",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic selected under direction of a faculty member.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Research methodology in dental hygiene",
+            "Literature review skills",
+            "Data analysis in dental research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty mentor",
+            "Presentation of study findings",
+            "Collaboration with research team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of dental hygiene literature",
+            "Identifying research gaps in dental hygiene field",
+            "Developing research hypotheses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project planning and execution",
+            "Taking initiative in research process"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Theory IV",
+        "courseCode": "DNTH 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the psychosocial, physical and oral characteristics of patients with special needs.  Emphasis is on the care and clinical management of the following patients:  cognitively, developmentally and physically challenged, aged, pregnant, epileptic, diabetic, cancer, AIDS, chemically dependent and the blind and deaf. (offered fall)",
+        "Technical and Digital Skills": [
+            "Clinical management of patients with special needs",
+            "Understanding oral characteristics of patients with special needs"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with cognitively, developmentally, and physically challenged patients",
+            "Empathy in patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying appropriate care methods for patients with special needs",
+            "Adapting treatment plans based on patient characteristics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating care for patients with multiple special needs",
+            "Leading a team in providing comprehensive care"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Services IV",
+        "courseCode": "DNTH 411",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical experience in the on-campus supervised clinic.  Continued development of clinical proficiency and ethical, evidence-based decision making in providing comprehensive preventive and therapeutic oral health services.  Emphasis is on intra/interprofessional clinical application and development of competencies for the treatment of diverse, special needs and periodontally involved patients using the dental hygiene process of care.  (offered fall)",
+        "Technical and Digital Skills": [
+            "Clinical proficiency in preventive and therapeutic oral health services",
+            "Intra/interprofessional clinical application",
+            "Dental hygiene process of care"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical decision making in oral health services",
+            "Effective communication with diverse patients and special needs individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evidence-based decision making",
+            "Critical evaluation of patient treatment plans"
+        ],
+        "Organizational and Leadership Skills": [
+            "Development of competencies for treating periodontally involved patients",
+            "Leadership in the clinical setting"
+        ]
+    },
+    {
+        "courseTitle": "Perspectives on Dental Hygiene Practice",
+        "courseCode": "DNTH 412W/512",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Course is designed for the licensed dental hygienist who seeks to maintain an awareness of changing trends, perspectives, evidence-based interventions and technologies in dental hygiene, health, and society that influence the dental hygiene process of care. This is a writing intensive course. (Offered summer)",
+        "Technical and Digital Skills": [
+            "Knowledge of evidence-based interventions in dental hygiene",
+            "Awareness of changing trends in technology in dental hygiene",
+            "Basic understanding of health informatics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective writing skills for documentation",
+            "Ability to communicate complex dental hygiene concepts to patients",
+            "Collaboration with other healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of evidence-based practices in dental hygiene",
+            "Problem-solving in complex patient cases",
+            "Analytical skills for assessing new technologies in dental hygiene"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in implementing new dental hygiene practices",
+            "Organization of patient care plans",
+            "Management of dental hygiene process of care"
+        ]
+    },
+    {
+        "courseTitle": "Community Oral Health Planning",
+        "courseCode": "DNTH 413",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to the principles of dental public health, health literacy, oral epidemiology, evidenced-based prevention and control of oral disease on a population basis.  Emphasis is on program assessment, planning, implementation, and evaluation for the development of community-based dental programs.  This course prepares students for the role of oral health educator, client advocate and resource person in community settings.  (offered fall)",
+        "Technical and Digital Skills": [
+            "Health literacy assessment",
+            "Oral epidemiology analysis",
+            "Program evaluation",
+            "Community-based program development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client advocacy",
+            "Resource coordination in community settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evidenced-based prevention strategies",
+            "Population-based disease control planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Oral health educator role preparation",
+            "Program assessment and planning"
+        ]
+    },
+    {
+        "courseTitle": "Educational Concepts for the Health Professional I",
+        "courseCode": "DNTH 414/514",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to explore various educational concepts, principles and methods of teaching for adults. Students will learn to present educational information to a diverse client population, in a variety of settings, in an ethical and professional manner. Topics include, but are not limited to, objectives, planning, implementation and evaluation of instruction; instructional strategies; delivery models; presentation skills; and techniques for communicating health information.",
+        "Technical and Digital Skills": [
+            "Presentation software usage",
+            "Instructional technology integration",
+            "Health information communication tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse populations",
+            "Professional presentation skills",
+            "Client-centered communication techniques"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Instructional strategy evaluation",
+            "Instructional delivery model analysis",
+            "Health information presentation assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Instructional planning and implementation",
+            "Evaluation of instructional effectiveness",
+            "Ethical decision-making in education"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in the Health Sciences",
+        "courseCode": "DNTH 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to develop skills in scientific methods, evidence based decision making and critical analysis of research findings. Emphasis on types of research, levels of evidence, problem selection and hypothesis writing, research planning and design, data collection and measuring techniques, analysis and interpretation of data, research proposal writing and computer application.  A written research proposal is required for graduate credit.(offered fall)",
+        "Technical and Digital Skills": [
+            "Scientific methods application",
+            "Data collection techniques",
+            "Measuring techniques",
+            "Computer applications in research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative research planning",
+            "Effective communication of research proposals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research findings",
+            "Hypothesis writing",
+            "Research planning and design",
+            "Data analysis and interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research proposal writing",
+            "Project management in research",
+            "Leadership in research teams"
+        ]
+    },
+    {
+        "courseTitle": "Administrative Leadership and Professional Development",
+        "courseCode": "DNTH 416/516",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of current trends that influence the profession of dental hygiene including oral health care delivery, manpower, financing mechanisms, quality improvement, third party payers, professional associations,  regulatory agencies and legislation.  Emphasis is on ethical, political, and legal issues as they relate to the dental hygiene profession. offered spring)",
+        "Technical and Digital Skills": [
+            "Knowledge of information security protocols",
+            "Understanding of digital communication tools",
+            "Proficiency in using online collaboration platforms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written and verbal communication",
+            "Conflict resolution skills in a professional setting",
+            "Ability to lead and participate in group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of complex information",
+            "Identifying and addressing ethical dilemmas in a professional context",
+            "Analyzing regulatory requirements and implications for decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning and goal setting",
+            "Team management and delegation",
+            "Conflict management and negotiation skills"
+        ]
+    },
+    {
+        "courseTitle": "Dental Hygiene Services V",
+        "courseCode": "DNTH 418",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Clinical experience in the on-campus supervised clinic.  Continued development of proficiency and ethical, evidence-based decision making in providing comprehensive preventive and therapeutic oral health services within the dental hygiene process of care.  Emphasis is on intra/interprofessional development of competencies for the treatment of periodontally involved, special needs and diverse patients. (offered spring)",
+        "Technical and Digital Skills": [
+            "Proficiency in providing preventive and therapeutic oral health services",
+            "Ethical decision-making in dental hygiene care process",
+            "Treatment of periodontally involved patients"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interprofessional development of competencies",
+            "Communication with special needs and diverse patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evidence-based decision-making",
+            "Critical evaluation of patient needs and treatment options"
+        ],
+        "Organizational and Leadership Skills": [
+            "Supervised clinic experience management",
+            "Leadership in intra/interprofessional development"
+        ]
+    },
+    {
+        "courseTitle": "Community Oral Health Practice",
+        "courseCode": "DNTH 419",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Interprofessional service-learning and internship experiences designed to prepare students to function as oral health practitioners, educators, client advocates and resource persons in community health settings. Emphasis is on providing evidenced-based educational, preventive, and therapeutic services for vulnerable and underserved populations including low-income, geriatric, pediatric, institutionalized, and cognitively, developmentally, and physically challenged individuals. Design and delivery of a poster session is required. (offered spring; varies days and times)",
+        "Technical and Digital Skills": [
+            "Evidenced-based practice implementation",
+            "Educational program design",
+            "Therapeutic services delivery",
+            "Poster session design and delivery"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Client advocacy",
+            "Community health education",
+            "Interprofessional collaboration",
+            "Resource coordination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying needs of vulnerable populations",
+            "Developing solutions for underserved communities",
+            "Critical evaluation of oral health practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing community health projects",
+            "Advocating for policy change in healthcare",
+            "Leading oral health initiatives in diverse populations"
+        ]
+    },
+    {
+        "courseTitle": "Telehealthcare Technology",
+        "courseCode": "DNTH 440T/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the concept, global impact, and trends in telehealthcare technology on the client/patient, multidisciplinary practitioners, and various healthcare systems.  Emphasis is on effective evidence-based decision making to reduce errors in patient care, promote care in remote or underserved geographical areas, and the ability to retrieve and evaluate healthcare information that improves access to quality, cost effective health care. (Offered spring)",
+        "Technical and Digital Skills": [
+            "Telehealthcare technology implementation",
+            "Healthcare information retrieval",
+            "Evidence-based decision making",
+            "Remote care technology utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and multidisciplinary practitioners",
+            "Collaboration in remote healthcare settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of healthcare information",
+            "Error reduction in patient care",
+            "Problem-solving in underserved areas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in telehealthcare technology",
+            "Organizational management in remote healthcare systems"
+        ]
+    },
+    {
+        "courseTitle": "International Dental Hygiene",
+        "courseCode": "DNTH 450",
+        "academicLevel": "undergraduate",
+        "courseDescription": "International locations are determined by the School of Dental Hygiene in conjunction with the Office of Study Abroad.  Program participation requires approval from the School of Dental Hygiene and the Office of Study Abroad.  Provides an on-location international experience in oral care delivery, practice and regulation, and dental hygiene education.  Students will be required to give presentations, review the dental care delivery system, and explore how the cultural beliefs and practices affect oral health, dental care seeking behaviors, and the oral health status of the population.  Orientations will be conducted prior to travel.",
+        "Technical and Digital Skills": [
+            "Understanding international dental regulations",
+            "Knowledge of oral care delivery systems",
+            "Presentation skills for sharing findings",
+            "Utilizing digital tools for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective cross-cultural communication",
+            "Presenting to diverse audiences",
+            "Collaborating with international partners",
+            "Active listening during cultural exchanges"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cultural influences on oral health",
+            "Identifying barriers to dental care access",
+            "Developing solutions for improving oral health outcomes",
+            "Critical evaluation of cultural practices and beliefs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading international oral care projects",
+            "Organizing cross-cultural workshops",
+            "Managing international collaborations",
+            "Adapting to changing environments during travel"
+        ]
+    },
+    {
+        "courseTitle": "Ergonomics and Exercises for Static Posture Occupations",
+        "courseCode": "DNTH 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This active participation course is designed for persons who work in static posture professions (e.g., dental hygienists, laboratory and computer office personnel) and who seek to practice ergonomic body mechanics and exercise therapies to prevent musculoskeletal disorders and repetitive strain injuries. Topics include biomechanics, creating an ergonomically sound work space, alternative sitting and standing techniques during clinical care, types of disorders and injuries, risk management, comprehension and demonstration of full body exercises with emphasis on core strength training, and self-monitoring. (offered online summer session only)",
+        "Technical and Digital Skills": [
+            "Understanding biomechanics",
+            "Creating ergonomically sound work space",
+            "Demonstrating full body exercises",
+            "Self-monitoring techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining ergonomic principles to colleagues",
+            "Collaborating on ergonomic solutions with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying musculoskeletal disorders and repetitive strain injuries",
+            "Analyzing risks associated with static posture professions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading ergonomic training sessions for colleagues",
+            "Implementing ergonomic strategies in the workplace"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Dental Hygiene",
+        "courseCode": "DNTH 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Seminars on selected topics in dental hygiene. Topics vary by semester.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Dental hygiene software usage",
+            "Digital imaging techniques in dentistry",
+            "Electronic health records management in dental practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with dental professionals",
+            "Patient education on dental hygiene practices",
+            "Effective communication with patients about treatment plans"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosing dental hygiene issues",
+            "Developing treatment plans based on patient needs",
+            "Analyzing dental X-rays for abnormalities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing dental hygiene appointments efficiently",
+            "Leading a dental hygiene team during patient care",
+            "Implementing new dental hygiene protocols in a practice"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study in Dental Hygiene",
+        "courseCode": "DNTH 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic selected under direction of a faculty member.  (Offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Literature review skills",
+            "Research methodology",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Presentation skills for research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in evaluating dental hygiene literature",
+            "Problem-solving in research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in research direction"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Dental Hygiene",
+        "courseCode": "DNTH 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in dental hygiene.  Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methodology",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Regular meetings with faculty",
+            "Oral and written report presentations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying specific problems in dental hygiene",
+            "Critical evaluation of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Leading and coordinating research activities"
+        ]
+    },
+    {
+        "courseCode": "DNTH 512",
+        "courseTitle": "Perspectives on Dental Hygiene Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "Course is designed for the licensed dental hygienist who seeks to maintain an awareness of changing trends, perspectives, evidence-based interventions and technologies in dental hygiene, health, and society that influence the dental hygiene process of care.  (Offered summer.)",
+        "Technical and Digital Skills": [
+            "Knowledge of evidence-based interventions in dental hygiene",
+            "Understanding of dental hygiene technologies",
+            "Awareness of changing trends in dental hygiene practice"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with patients and colleagues",
+            "Empathy in patient care",
+            "Working collaboratively in a healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of evidence-based practices in dental hygiene",
+            "Problem-solving in patient care scenarios",
+            "Analyzing the impact of societal trends on dental hygiene practice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in dental hygiene practice",
+            "Leadership in patient education and advocacy",
+            "Organizing and leading dental hygiene interventions"
+        ]
+    },
+    {
+        "courseCode": "DNTH 514",
+        "courseTitle": "Educational Concepts for the Health Professional I",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to explore various educational concepts, principles and methods of teaching for adults. Students will learn to present educational information to a diverse client population, in a variety of settings, in an ethical and professional manner. Topics include, but are not limited to, objectives, planning, implementation and evaluation of instruction; instructional strategies; delivery models; presentation skills; and techniques for communicating health information. (offered fall)",
+        "Technical and Digital Skills": [
+            "Presentation software proficiency",
+            "Instructional technology tools utilization",
+            "Health information communication techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse client population",
+            "Professional presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of instructional methods",
+            "Instructional strategies analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementation of instruction",
+            "Ethical teaching practices"
+        ]
+    },
+    {
+        "courseCode": "DNTH 515",
+        "courseTitle": "Research Methods in the Health Sciences",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to develop skills in scientific methods, evidence based decision making, levels of evidence, and critical analysis of research findings. Emphasis on types of research, problem selection and hypothesis writing, research planning and design, data collection and measuring techniques, analysis and interpretation of data, research proposal writing and computer application.  A written research proposal is required for graduate credit. (offered fall)",
+        "Technical and Digital Skills": [
+            "Research methods in the health sciences",
+            "Data collection techniques",
+            "Computer application skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaboration on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of research findings",
+            "Hypothesis writing",
+            "Statistical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research planning and design",
+            "Research proposal writing"
+        ]
+    },
+    {
+        "courseCode": "DNTH 516",
+        "courseTitle": "Administrative Leadership and Professional Development",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of current trends that influence the profession of dental hygiene including oral health care delivery, manpower, financing mechanisms, quality improvement, third party payers, professional associations,  regulatory agencies and legislation.  Emphasis is on ethical, political, and legal issues as they relate to the dental hygiene profession. (offered spring)",
+        "Technical and Digital Skills": [
+            "Information security awareness",
+            "Data analysis using Excel",
+            "Regulatory compliance understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional networking",
+            "Conflict resolution",
+            "Effective presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in decision-making",
+            "Risk assessment in professional contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Team building and motivation",
+            "Policy implementation"
+        ]
+    },
+    {
+        "courseCode": "DNTH 540",
+        "courseTitle": "Telehealthcare Technology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the concept, global impact, and trends in telehealthcare technology on the client/patient, multidisciplinary practitioners, and various healthcare systems.  Emphasis is on effective evidence-based decision making to reduce errors in patient care, promote care in remote or underserved geographical areas, and the ability to retrieve and evaluate healthcare information that improves access to quality, cost effective health care. (Offered spring)",
+        "Technical and Digital Skills": [
+            "Information security in telehealthcare technology",
+            "Data retrieval and evaluation in healthcare systems",
+            "Telehealthcare technology trends analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with multidisciplinary practitioners",
+            "Presentation of evidence-based decision making in telehealthcare",
+            "Collaboration with remote healthcare teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of healthcare information",
+            "Error reduction in patient care through data analysis",
+            "Problem-solving for underserved geographical areas in healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in implementing telehealthcare technology",
+            "Organizational management for cost-effective healthcare access",
+            "Decision-making for improving quality of healthcare services"
+        ]
+    },
+    {
+        "courseCode": "DNTH 597",
+        "courseTitle": "Independent Study in Dental Hygiene",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic selected under direction of a faculty member. (Offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Research skills in dental hygiene",
+            "Data analysis in dental research",
+            "Literature review techniques in oral health studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty mentor",
+            "Presenting research findings to peers and faculty",
+            "Collaborating with other researchers in the field of dental hygiene"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of dental hygiene literature",
+            "Identifying gaps in current research in oral health",
+            "Developing research questions in dental hygiene"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for independent study",
+            "Taking initiative in pursuing research in dental hygiene",
+            "Demonstrating leadership in conducting dental hygiene research"
+        ]
+    },
+    {
+        "courseCode": "DNTH 604",
+        "courseTitle": "Clinical Administration and Teaching",
+        "academicLevel": "graduate",
+        "courseDescription": "The application of principles and theories of education and management to dental hygiene clinical education.  Emphasis is on planning, implementing and evaluating clinical teaching, assessment of clinical competence, management of human and physical resources, and regulations affecting clinical education. This course is offered only during fall semester.",
+        "Technical and Digital Skills": [
+            "Clinical teaching methods",
+            "Clinical competence assessment techniques",
+            "Resource management in clinical education",
+            "Regulatory compliance in clinical education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students and staff",
+            "Conflict resolution in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of clinical teaching effectiveness",
+            "Problem-solving in clinical education scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementation of clinical education programs",
+            "Leadership in clinical education management"
+        ]
+    },
+    {
+        "courseCode": "DNTH 611",
+        "courseTitle": "Modeling and Simulation Applications in Healthcare",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the principles and innovative applications for modeling and simulation in healthcare practice, research, education, and administration with emphasis on emerging issues and trends in technology.  Topics include the selection and implementation of simulation technology in conceptual epidemiology public and environmental health, dental hygiene, dentistry, nursing, medicine, laboratory sciences, healthcare management and health information. (offered summer)",
+        "Technical and Digital Skills": [
+            "Modeling and simulation technology implementation",
+            "Conceptual epidemiology simulation",
+            "Healthcare practice simulation",
+            "Health information simulation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of simulation results",
+            "Collaboration with interdisciplinary healthcare teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing simulation data for healthcare trends",
+            "Identifying issues in simulation models",
+            "Developing innovative simulation applications for healthcare"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading simulation projects in healthcare settings",
+            "Managing simulation technology implementation in healthcare organizations"
+        ]
+    },
+    {
+        "courseCode": "DNTH 621",
+        "courseTitle": "Aging in the 21st Century",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will expose the inter-professional student to current and future challenges of aging in our society. Topics will include Healthy People 2020 objectives, health promotion and disease prevention for the aging, sociocultural issues, and theories on behavior and motivation. Common systemic and oral health conditions of the aging adult will be identified. Critical analysis of the current health environment will provide a format for discussion and identification of strategies for health promotion and disease control for the aging. Measures for promoting and maintaining oral health and overall health of the aging population will be explored, with attention to current research from the literature. This course is offered during summer semesters only.",
+        "Technical and Digital Skills": [
+            "Health promotion strategies for the aging population",
+            "Identifying common systemic and oral health conditions in aging adults",
+            "Utilizing current research from literature for health promotion in the aging population"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Inter-professional collaboration in addressing aging challenges",
+            "Effective communication with aging individuals and their families"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of the current health environment related to aging",
+            "Identification of strategies for health promotion and disease control in the aging population"
+        ],
+        "Organizational and Leadership Skills": [
+            "Developing measures for promoting and maintaining oral health and overall health in aging adults",
+            "Leading discussions on sociocultural issues and theories related to aging"
+        ]
+    },
+    {
+        "courseCode": "DNTH 650",
+        "courseTitle": "Advanced International Dental Hygiene",
+        "academicLevel": "graduate",
+        "courseDescription": "Faculty-led experiences offer unique opportunities for students to travel abroad, develop cross cultural competence, experience global health challenges, and engage in projects that advance oral health worldwide.",
+        "Technical and Digital Skills": [
+            "Global oral health research",
+            "International dental hygiene practices",
+            "Cross-cultural competence development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in diverse settings",
+            "Interacting with global health professionals",
+            "Cross-cultural collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of global health challenges",
+            "Analyzing international oral health data",
+            "Developing solutions for global health disparities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading projects to advance oral health worldwide",
+            "Managing cross-cultural teams in global health initiatives",
+            "Strategic planning for international dental hygiene projects"
+        ]
+    },
+    {
+        "courseCode": "DNTH 660",
+        "courseTitle": "Educational Concepts for the Health Professional II",
+        "academicLevel": "graduate",
+        "courseDescription": "Explores instructional strategies and their application to contemporary health professional roles.  Emphasis is on individuals as health care specialists in business and industry; professional, private and public organizations; higher education; and the health care industry.  Topics include implementation and evaluation of instruction, roles and responsibilities of faculty within an accredited program affected by state and national standards, and ethical and career related issues and trends.  Students are provided with practical experience in traditional and distance education instructional methods. (offered spring)",
+        "Technical and Digital Skills": [
+            "Instructional technology implementation",
+            "Distance education methods",
+            "Online learning platforms utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with diverse audiences",
+            "Collaborative instructional design with colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of instructional methods",
+            "Adaptation to changing educational standards"
+        ],
+        "Organizational and Leadership Skills": [
+            "Roles and responsibilities within educational programs",
+            "Ethical decision-making in educational settings"
+        ]
+    },
+    {
+        "courseCode": "DNTH 663",
+        "courseTitle": "Interprofessional Health Promotion",
+        "academicLevel": "graduate",
+        "courseDescription": "Course brings together students from various health disciplines to learn each other's roles and collaborate as a team using technology to promote health and prevent disease.  Focus will be on optimizing health efforts and outcomes through an interprofessional approach that is guided by the research evidence and current technologies. Topics include Healthy People 2020 objectives, age, specific clinical guidelines for health promotion and illness prevention, theories on behavior and motivation, sociocultural issues, telehealth care, and various health problems.  Evidence-based measures used by the team for promoting and maintaining health throughout the lifespan are emphasized. (spring only)",
+        "Technical and Digital Skills": [
+            "Utilizing telehealth technologies for healthcare delivery",
+            "Implementing evidence-based measures for health promotion",
+            "Understanding and applying Healthy People 2020 objectives",
+            "Using current technologies for promoting and maintaining health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with team members from various health disciplines",
+            "Effective communication of health promotion strategies",
+            "Working as a team to optimize health outcomes"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing research evidence for health promotion",
+            "Applying clinical guidelines for health promotion and disease prevention",
+            "Critical evaluation of behavior theories and motivation strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interprofessional health promotion initiatives",
+            "Organizing and coordinating team efforts for health optimization",
+            "Guiding the team based on current research evidence"
+        ]
+    },
+    {
+        "courseCode": "DNTH 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Experience-based learning activities designed to develop a role of competence related to the individual’s area of specialization while working under the supervision of a faculty member or host supervisor within an educational, health care, research, or corporate health setting.  A clinical dental hygiene internship is prerequisite to DNTH 669.  Available for pass/fail grade only.  (offered fall, spring, summer as available)",
+        "Technical and Digital Skills": [
+            "Workplace-specific software proficiency",
+            "Data entry and analysis",
+            "Research methodology",
+            "Technical writing for reports"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional email etiquette",
+            "Team collaboration in a professional setting",
+            "Effective communication with supervisors and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of workplace tasks",
+            "Troubleshooting technical issues",
+            "Adapting to new challenges and tasks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a work environment",
+            "Taking initiative on projects",
+            "Demonstrating leadership potential in tasks"
+        ]
+    },
+    {
+        "courseCode": "DNTH 669",
+        "courseTitle": "Clinical Administration & Teaching Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "This practicum course is for students to apply principles and theories of education and management to dental hygiene clinical education. Emphasis is on planning, implementing, and evaluating clinical teaching, assessment of clinical competence, management of human and physical resources, and regulations affecting clinical education. This course is only offered during fall semester.",
+        "Technical and Digital Skills": [
+            "Clinical teaching methodologies",
+            "Assessment of clinical competence",
+            "Management of human resources",
+            "Management of physical resources",
+            "Regulatory compliance in clinical education"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students",
+            "Team collaboration in clinical settings",
+            "Feedback delivery to students and staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of clinical teaching effectiveness",
+            "Identification and resolution of clinical education challenges",
+            "Data analysis for clinical performance evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning clinical teaching activities",
+            "Implementing clinical education strategies",
+            "Evaluation of clinical education outcomes",
+            "Leadership in clinical education management"
+        ]
+    },
+    {
+        "courseCode": "DNTH 695",
+        "courseTitle": "Topics in Dental Hygiene",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced seminars on selected topics in dental hygiene.  Topics vary by semester.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Dental hygiene procedures",
+            "Digital imaging techniques",
+            "Software for dental records management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient education communication",
+            "Teamwork in dental settings",
+            "Conflict resolution with patients"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnosis of dental issues",
+            "Treatment planning for patients",
+            "Critical evaluation of dental research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in dental practice",
+            "Supervising dental assistants",
+            "Leading dental hygiene team meetings"
+        ]
+    },
+    {
+        "courseCode": "DNTH 697",
+        "courseTitle": "Independent Study-Dental Hygiene",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic selected under direction of a faculty member.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Research skills in dental hygiene",
+            "Information retrieval techniques",
+            "Literature review methodologies",
+            "Data analysis in dental research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty members",
+            "Presentation of research findings",
+            "Collaboration with peers in the field of dental hygiene"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of dental research",
+            "Identifying gaps in existing literature",
+            "Designing research methodologies for dental studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Taking initiative in research projects",
+            "Leading discussions on dental hygiene topics"
+        ]
+    },
+    {
+        "courseCode": "DNTH 698",
+        "courseTitle": "Research",
+        "academicLevel": "graduate",
+        "courseDescription": "An original thesis research project executed with the major advisor and thesis committee supervising the student's research project.  A written research proposal must be submitted and approved prior to beginning the project.  Required for students in the thesis option. Available as pass/fail grade only. (offered fall, spring, summer).",
+        "Technical and Digital Skills": [
+            "Research proposal writing",
+            "Thesis research execution",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with thesis committee",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research information",
+            "Statistical analysis of results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management of research timeline",
+            "Leading research team"
+        ]
+    },
+    {
+        "courseCode": "DNTH 699",
+        "courseTitle": "Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Devoted to research, writing of the thesis, and scheduled conferences with the candidate's advisor and thesis committee.  Students must submit an acceptable written thesis demonstrating knowledge of problem selection, data classification, analysis and interpretation and defend it.  Available as pass/fail grade only.  (offered fall, spring, summer)",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data classification techniques",
+            "Data analysis",
+            "Data interpretation",
+            "Thesis writing skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Scheduled conferences with advisor and thesis committee",
+            "Defending thesis orally"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Problem selection"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for thesis completion",
+            "Project management for thesis writing"
+        ]
+    },
+    {
+        "courseCode": "DNTH 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data analysis techniques",
+            "Information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Professional email communication",
+            "Collaborative project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Research design and execution",
+            "Data interpretation and synthesis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Team coordination and delegation",
+            "Conflict resolution strategies"
+        ]
+    }
+]

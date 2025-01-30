@@ -1,0 +1,867 @@
+[
+    {
+        "courseTitle": "Clinical Methods in Microbiology",
+        "courseCode": "MLS 307",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory techniques in the diagnosis of clinically relevant microorganisms.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Microorganism diagnosis",
+            "Clinical microbiology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of laboratory results",
+            "Diagnostic reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Safety protocols adherence"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Microbiology",
+        "courseCode": "MLS 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A fundamental course in microbiology that includes bacterial growth, synthesis, differentiation, microbial nutrition and metabolism.",
+        "Technical and Digital Skills": [
+            "Understanding of bacterial growth",
+            "Understanding of bacterial synthesis",
+            "Knowledge in microbial nutrition",
+            "Knowledge in microbial metabolism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of microbial growth",
+            "Analysis of microbial synthesis",
+            "Analysis of microbial nutrition",
+            "Analysis of microbial metabolism"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Medical Bacteriology",
+        "courseCode": "MLS 309",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A comprehensive survey of bacteria, including colonial morphology, cultural characteristics, biochemical identification, pathogenicity, epidemiology, and treatment.",
+        "Technical and Digital Skills": [
+            "Identification of bacterial colonial morphology",
+            "Understanding of cultural characteristics",
+            "Biochemical identification of bacteria",
+            "Knowledge in bacterial pathogenicity",
+            "Understanding of bacterial epidemiology",
+            "Knowledge in bacterial treatment procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of bacterial findings",
+            "Collaboration with medical professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of bacterial cultures",
+            "Problem solving in bacterial treatment",
+            "Identification and analysis of bacterial epidemiology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of microbiological data",
+            "Leadership in bacterial treatment procedures"
+        ]
+    },
+    {
+        "courseTitle": "Urinalysis and Body Fluids",
+        "courseCode": "MLS 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the chemical, physical and microscopic analysis of human urine and other body fluids, with abnormal results interpreted and correlated to disease processes and cancer cytology of the urinary tract.",
+        "Technical and Digital Skills": [
+            "Chemical analysis of body fluids",
+            "Physical analysis of urine",
+            "Microscopic analysis of body fluids",
+            "Understanding and interpreting abnormal results",
+            "Knowledge of urinary tract cancer cytology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Correlating abnormal results to disease processes",
+            "Identifying signs of urinary tract cancer"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hematology",
+        "courseCode": "MLS 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the principles of the formation and development of blood, including the interpretation of normal and abnormal blood morphology and diagnostic procedures in the investigation of hematological disorders.",
+        "Technical and Digital Skills": [
+            "Understanding of blood formation and development principles",
+            "Interpretation of normal and abnormal blood morphology",
+            "Diagnostic procedures in investigating hematological disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of diagnostic results",
+            "Collaboration with medical team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of blood samples",
+            "Identifying hematological disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of diagnostic procedures",
+            "Prioritization of hematological investigations"
+        ]
+    },
+    {
+        "courseTitle": "Hematology Laboratory",
+        "courseCode": "MLS 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods utilizing microscopy and other analytical procedures in the diagnosis and investigation of hematological disorders.",
+        "Technical and Digital Skills": [
+            "Utilization of Microscopy",
+            "Execution of Analytical Procedures",
+            "Diagnosis of Hematological Disorders"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Investigation of Hematological Disorders",
+            "Interpretation of Laboratory Results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Diagnostic Methods in Urinalysis",
+        "courseCode": "MLS 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory experience in the chemical, physical, and microscopic examination of the urine and body fluids with emphasis on quality control, osmometry, and disease correlates.",
+        "Technical and Digital Skills": [
+            "Chemical examination of urine and body fluids",
+            "Physical examination of urine and body fluids",
+            "Microscopic examination of urine and body fluids",
+            "Quality control procedures",
+            "Use of osmometry instruments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Disease correlation analysis",
+            "Interpretation of examination results",
+            "Troubleshooting laboratory equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Maintaining laboratory safety",
+            "Organizing laboratory workflow",
+            "Quality control management"
+        ]
+    },
+    {
+        "courseTitle": "Medical Bacteriology Methods",
+        "courseCode": "MLS 319",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods emphasizing isolation, identification and media requirements for pathogenic microorganisms.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques for bacterial isolation",
+            "Identification of pathogenic microorganisms",
+            "Understanding and handling different growth media"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying laboratory findings effectively",
+            "Collaborative work in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing growth patterns of microorganisms",
+            "Problem-solving when identification of pathogen is challenging"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory resources",
+            "Effectively organizing laboratory workflows"
+        ]
+    },
+    {
+        "courseTitle": "Blood Collection Techniques",
+        "courseCode": "MLS 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods in the procurement of blood by capillary, venipuncture and arterial draws, analytical variables, special phlebotomy tests, isolation techniques, safety, forensic, molecular, legal and ethical implications, pediatric, geriatric, and compromised patient concerns. All students must submit to venipuncture by fellow students.",
+        "Technical and Digital Skills": [
+            "Capillary blood procurement",
+            "Venipuncture",
+            "Arterial draws",
+            "Special phlebotomy tests",
+            "Safety and isolation techniques",
+            "Understanding of analytical variables"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical considerations during blood collection",
+            "Handling pediatric, geriatric, and compromised patients",
+            "Forensic and molecular implications"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Managing compromised patient concerns",
+            "Understanding legal implications during blood collection",
+            "Analyzing special phlebotomy test results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ensuring safety during blood collection",
+            "Organizing blood collection procedures"
+        ]
+    },
+    {
+        "courseTitle": "Phlebotomy Internship",
+        "courseCode": "MLS 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A 120-hour clinical internship for those desiring to qualify for the ASCP certification exam in phlebotomy.",
+        "Technical and Digital Skills": [
+            "Clinical phlebotomy",
+            "Preparation for ASCP certification exam"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient interaction",
+            "Collaboration with healthcare team"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Sample analysis",
+            "Identifying and resolving patient complications"
+        ],
+        "Organizational and Leadership Skills": [
+            "Compliance with healthcare regulations",
+            "Managing patient records"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Instrumentation",
+        "courseCode": "MLS 324",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course covers the theory of operation of instrumentation used in the clinical chemistry laboratory. Methodologies discussed include: atomic absorption spectrometry, automation, blood gas instrumentation, chromatography, electrochemistry, electrophoresis, fluorometry, immunochemistry, luminometry, mass spectrometry, nephelometry, osmometry, POCT, spectrophotometry, and turbidimetry. Basic laboratory mathematics applicable to serial and compound dilutions, conversion between metric units, and determination of analyte concentration are presented.  Statistical applications for quality control data analysis are introduced.",
+        "Technical and Digital Skills": [
+            "Operation of clinical chemistry laboratory instrumentation",
+            "Atomic absorption spectrometry",
+            "Automation",
+            "Blood gas instrumentation",
+            "Chromatography",
+            "Electrochemistry",
+            "Electrophoresis",
+            "Fluorometry",
+            "Immunochemistry",
+            "Luminometry",
+            "Mass spectrometry",
+            "Nephelometry",
+            "Osmometry",
+            "POCT",
+            "Spectrophotometry",
+            "Turbidimetry",
+            "Basic laboratory mathematics",
+            "Conversion between metric units",
+            "Determination of analyte concentration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Serial and compound dilutions",
+            "Quality control data analysis",
+            "Statistical applications"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Instrumentation Methods",
+        "courseCode": "MLS 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory course designed for students entering the clinical laboratory field. The course includes the instrumental and data processing techniques required for the clinical analysis of body fluids, as well as statistical techniques applied to the interpretation of laboratory data, method comparison studies, quality control, calibration, maintenance, and troubleshooting of clinical chemistry analytics.",
+        "Technical and Digital Skills": [
+            "Instrumental techniques for clinical analysis",
+            "Data processing techniques",
+            "Clinical chemistry analytics",
+            "Maintenance of clinical instruments",
+            "Quality control in laboratory"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting of clinical chemistry analytics",
+            "Statistical techniques for data interpretation",
+            "Method comparison studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory data management",
+            "Calibration of clinical instruments"
+        ]
+    },
+    {
+        "courseTitle": "Immunohematology",
+        "courseCode": "MLS 326",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the identification of blood group antigens and antibodies, standard testing procedures, decision criteria for component selection, and regulations of blood banks and transfusion services.",
+        "Technical and Digital Skills": [
+            "Identification of blood group antigens and antibodies",
+            "Standard testing procedures",
+            "Understanding regulations of blood banks and transfusion services"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining testing procedures",
+            "Communicating decision criteria for component selection"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing results of blood tests",
+            "Determining appropriate component selection based on testing results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Following blood bank regulations",
+            "Implementing standard testing procedures"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Immunology/Serology",
+        "courseCode": "MLS 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the body's immune response, its cellular and non-cellular components, in-vitro manifestations, diagnostic techniques and interpretations related to the investigation and diagnosis of infectious and non-infectious disease states.",
+        "Technical and Digital Skills": [
+            "Understanding of the body's immune response",
+            "Knowledge of cellular and non-cellular components",
+            "Ability to perform in-vitro manifestations",
+            "Proficiency in diagnostic techniques",
+            "Interpretation of investigations related to infectious and non-infectious disease states"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of diagnostic results",
+            "Collaboration with medical professionals for disease diagnosis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Abilities to identify and diagnose infectious and non-infectious disease states",
+            "Analytical skills for interpreting cellular and non-cellular components investigations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Manage diagnostic procedures effectively",
+            "Prioritize investigations based on severity of disease states"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Immunology/Serology Laboratory",
+        "courseCode": "MLS 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods emphasizing in-vitro antigen and antibody reactions used to aid in the diagnosis of infectious and non-infectious disorders.",
+        "Technical and Digital Skills": [
+            "In-vitro antigen and antibody reactions",
+            "Diagnostic laboratory methods",
+            "Identification of infectious and non-infectious disorders"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of antigen and antibody reactions",
+            "Differential diagnosis of infectious and non-infectious disorders"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Quality control in laboratory testing"
+        ]
+    },
+    {
+        "courseTitle": "Immunohematology Laboratory",
+        "courseCode": "MLS 336",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods emphasizing procedures that lead to the identification of blood group antigens and antibodies and the selection of therapeutic components necessary for making transfusion-related decisions.",
+        "Technical and Digital Skills": [
+            "Laboratory methods",
+            "Procedures for blood group antigen identification",
+            "Procedures for blood group antibody identification",
+            "Selection of therapeutic components for transfusion"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating laboratory results",
+            "Collaboration in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing laboratory results",
+            "Problem-solving in transfusion-related decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory procedures",
+            "Leading a laboratory team"
+        ]
+    },
+    {
+        "courseTitle": "Medical Parasitology and Mycology Laboratory",
+        "courseCode": "MLS 339",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory methods emphasizing the identification of medically relevant parasites and fungi.",
+        "Technical and Digital Skills": [
+            "Identification of medically relevant parasites",
+            "Identification of medically relevant fungi",
+            "Laboratory methods and procedures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Differential diagnosis of parasitic and fungal infections",
+            "Analyzing lab results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory resources",
+            "Ensuring laboratory safety"
+        ]
+    },
+    {
+        "courseTitle": "Medical Parasitology, Mycology, and Virology",
+        "courseCode": "MLS 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the medically important parasites, fungi, and viruses, and their medical significance.",
+        "Technical and Digital Skills": [
+            "Understanding of medically important parasites",
+            "Knowledge of significant fungi and viruses",
+            "Ability to use medical reference databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to explain complex medical concepts",
+            "Sharing findings with medical professionals",
+            "Written communication for medical reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing patterns and trends in parasitic, fungal, and viral infections",
+            "Identifying medical significance of various organisms",
+            "Critical thinking in medical diagnosis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Clinical Biochemistry",
+        "courseCode": "MLS 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the applications of biochemistry and clinical testing in the diagnosis of human disease. Practice given in the interpretation of laboratory data in the areas of carbohydrate, protein, lipid, genetic disorders, liver, renal, pancreatic, G.I., enzymatic, and cardiac testing. Also enzyme kinetics, electrolytes, acid base physiology, tumor markers, endocrinology, pharmacokinetics, therapeutic drug monitoring, and molecular diagnostics. Special emphasis on specimen collecting, pre- and post-analytical variables, and case studies.",
+        "Technical and Digital Skills": [
+            "Interpretation of laboratory data",
+            "Understanding of biochemical tests and procedures",
+            "Knowledge on enzyme kinetics",
+            "Understanding of electrolytes and acid base physiology",
+            "Knowledge on tumor markers, endocrinology, pharmacokinetics, therapeutic drug monitoring, and molecular diagnostics",
+            "Specimen collection techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of test results",
+            "Teamwork in a clinical laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting test results",
+            "Critical evaluation of pre- and post-analytical variables",
+            "Solving complex problems related to human disease diagnosis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of laboratory data and records",
+            "Understanding and complying with standard lab safety and procedure guidelines"
+        ]
+    },
+    {
+        "courseTitle": "General Pathology",
+        "courseCode": "MLS 401",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an overview of general disease processes and causes in the human. All body systems will be covered including respiratory, gastrointestinal, circulatory, nervous, reproductive, and urinary. Aging, dietary, and stress factors will be discussed in the disease process. Bacteria, fungi, and viruses will be discussed in general and for each body system. Neoplasms will be covered for each body site. This course will be of benefit to anyone interested in diseases of the human body or entering the medical field. (cross listed with CYTO 404) Pre- or",
+        "Technical and Digital Skills": [
+            "Understanding of disease processes and causes",
+            "Knowledge of different body systems including respiratory, gastrointestinal, circulatory, nervous, reproductive, and urinary",
+            "Understanding of impact of aging, dietary, and stress factors on disease process",
+            "Knowledge of bacteria, fungi, and viruses both in general and in relation to each body system",
+            "Understanding of neoplasms in various body sites"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to evaluate the impact of various factors on the disease process",
+            "Analytical skills to understand the interaction of different body systems and diseases",
+            "Problem-solving skills for understanding complex disease processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Survey of Clinical Molecular Techniques",
+        "courseCode": "MLS 402",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A brief review of nucleic acid chemistry, followed by discussion of clinical applications of FDA approved assays used to detect pathogens for which testing algorithms include molecular based testing.",
+        "Technical and Digital Skills": [
+            "Understanding of nucleic acid chemistry",
+            "Knowledge of FDA approved assays",
+            "Ability to detect pathogens using molecular based testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to discuss clinical applications of assays",
+            "Ability to communicate complex scientific concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing molecular test results",
+            "Identifying appropriate assays for detecting specific pathogens"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Management in the Clinical Setting",
+        "courseCode": "MLS 403W/503",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A course concerned with organization and management in the clinical setting including personnel supervision, planning, equipment justification, quality assurance, data processing, budgeting, fiscal techniques, marketing, regulatory agencies, educational methodologies, current issues, as well as legal and ethical considerations. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Data processing",
+            "Equipment justification",
+            "Budgeting",
+            "Fiscal techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Personnel supervision",
+            "Marketing",
+            "Educational methodologies",
+            "Writing intensive"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning",
+            "Quality assurance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and management in the clinical setting",
+            "Dealing with regulatory agencies",
+            "Understanding legal and ethical considerations",
+            "Addressing current issues"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Hematology Practicum",
+        "courseCode": "MLS 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Direct clinical experience offered in automated and manual hematology procedures used in distinguishing blood dyscrasias and coagulation abnormalities. (qualifies as a CAP experience)",
+        "Technical and Digital Skills": [
+            "Automated hematology procedures",
+            "Manual hematology procedures",
+            "Identification of blood dyscrasias",
+            "Identification of coagulation abnormalities"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Patient interaction",
+            "Medical team collaboration",
+            "Clinical reporting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Blood disorder diagnosis",
+            "Coagulation issue resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical process management",
+            "Patient case prioritization",
+            "Regulatory compliance (CAP experience)"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Microbiology Practicum",
+        "courseCode": "MLS 406",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Direct clinical experience offered in isolating and identifying human pathogens such as bacteria, fungi, and parasites from various clinical specimens.",
+        "Technical and Digital Skills": [
+            "Isolating human pathogens",
+            "Identifying bacteria",
+            "Identifying fungi",
+            "Identifying parasites"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Clinical specimen analysis",
+            "Pathogen detection"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Statistical Applications and Data Analysis in the Clinical Laboratory",
+        "courseCode": "MLS 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Topics include review of basic statistics used in the laboratory; use of statistics for quality control, reference range determination, method comparisons, test utility assessment, techniques for searching the literature and assessing quality and applicability of published studies; and data organization and retrieval via queries. Students will perform projects, preferably using actual laboratory data, that relate to lecture topics.",
+        "Technical and Digital Skills": [
+            "Basic statistics",
+            "Quality control statistics",
+            "Reference range determination",
+            "Method comparisons",
+            "Test utility assessment",
+            "Literature searching techniques",
+            "Data organization",
+            "Data retrieval via queries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of project findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Statistical analysis",
+            "Assessing quality and applicability of published studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Data management"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Hematology Competencies",
+        "courseCode": "MLS 441",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Demonstration of stated clinical laboratory competencies within the discipline of hematology.",
+        "Technical and Digital Skills": [
+            "Clinical laboratory procedures",
+            "Hematology testing",
+            "Use of laboratory equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Reporting laboratory findings",
+            "Effective communication with medical staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing hematology test results",
+            "Diagnosis through laboratory results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory workflow",
+            "Ensuring quality control in hematology testing"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Chemistry Competencies",
+        "courseCode": "MLS 443",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Demonstration of stated clinical laboratory competencies within the discipline of clinical chemistry.",
+        "Technical and Digital Skills": [
+            "Clinical laboratory operating procedures",
+            "Equipment calibration and maintenance",
+            "Clinical chemistry testing and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of laboratory findings",
+            "Interdisciplinary collaboration in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of clinical chemistry results",
+            "Troubleshooting laboratory equipment issues",
+            "Critical evaluation of laboratory procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Compliance with laboratory safety protocols",
+            "Management of laboratory resources",
+            "Supervision of clinical laboratory operations"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Blood Bank Competencies",
+        "courseCode": "MLS 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Demonstration of stated clinical laboratory competencies in the discipline of blood banking.",
+        "Technical and Digital Skills": [
+            "Clinical laboratory procedures",
+            "Blood bank equipment operation",
+            "Knowledge of blood banking protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating laboratory results",
+            "Team collaboration in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing blood samples",
+            "Problem solving in blood banking procedures",
+            "Quality control in clinical laboratories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Compliance with clinical laboratory regulations"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Biochemistry Practicum",
+        "courseCode": "MLS 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Direct clinical experience offered in automated and manual clinical chemistry determinations with emphasis on the principles, instrumentation, interpretation, and diagnostic significance.",
+        "Technical and Digital Skills": [
+            "Automated clinical chemistry determinations",
+            "Manual clinical chemistry determinations",
+            "Instrumentation operation",
+            "Diagnostic significance interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of diagnostic results",
+            "Collaboration in a laboratory setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of clinical chemistry results",
+            "Problem-solving in clinical chemistry determinations",
+            "analysis of diagnostic significance"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Organizing clinical determinations"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Blood Bank Practicum",
+        "courseCode": "MLS 454",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Direct clinical experience offered in the theories and principles of blood banking with emphasis on the instruction of technical procedures used in an AABB approved blood bank.",
+        "Technical and Digital Skills": [
+            "Understanding of blood bank theories and principles",
+            "Proficiency in AABB approved technical procedures",
+            "Operation of blood bank equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate technical procedures effectively",
+            "Interaction with clinical staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of blood bank procedures",
+            "Troubleshooting technical issues in blood bank operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of blood bank operations",
+            "Ensuring compliance with AABB standards"
+        ]
+    },
+    {
+        "courseTitle": "Medical Laboratory Science Seminar",
+        "courseCode": "MLS 457",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In-depth review for Medical Laboratory Scientist (MLS) certification exam.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Clinical data analysis",
+            "Medical technology operation",
+            "Understanding of laboratory equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex medical information",
+            "Cooperating with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Diagnostic problem-solving",
+            "Interpretation of laboratory results",
+            "Critical evaluation of medical data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory workflow",
+            "Compliance with healthcare regulations"
+        ]
+    },
+    {
+        "courseTitle": "Special Topics in Medical Laboratory Science",
+        "courseCode": "MLS 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics within the medical field.",
+        "Technical and Digital Skills": [
+            "Advanced laboratory techniques",
+            "Data analysis",
+            "Medical software utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Medical terminology",
+            "Effective communication in clinical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical data",
+            "Diagnostic problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Laboratory management",
+            "Quality control in a medical laboratory"
+        ]
+    },
+    {
+        "courseTitle": "Directed Study in Medical Laboratory Science",
+        "courseCode": "MLS 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised experience in medical laboratory science specialties, allowing students to pursue areas of interest under faculty direction.",
+        "Technical and Digital Skills": [
+            "Medical laboratory procedures",
+            "Specialized lab equipment operation",
+            "Data recording and reporting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Effective communication with faculty supervisors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of laboratory results",
+            "Troubleshooting laboratory equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Research project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Directed Research in Medical Laboratory Science",
+        "courseCode": "MLS 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised research on a specific problem in Medical Laboratory Science. Regular meetings with faculty and a written/oral report are required.",
+        "Technical and Digital Skills": [
+            "Medical laboratory techniques",
+            "Data recording and analysis",
+            "Technical report writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation skills",
+            "Collaboration with faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research problem identification",
+            "Solution development for medical laboratory problems",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Independent work and self-direction"
+        ]
+    },
+    {
+        "courseCode": "MLS 503",
+        "courseTitle": "Management in the Clinical Setting",
+        "academicLevel": "graduate",
+        "courseDescription": "A course concerned with organization and management in the clinical setting including personnel supervision, planning, equipment justification, quality assurance, data processing, budgeting, fiscal techniques, marketing, regulatory agencies, educational methodologies, current issues, as well as legal and ethical considerations.",
+        "Technical and Digital Skills": [
+            "Data processing",
+            "Equipment justification",
+            "Fiscal techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Personnel supervision",
+            "Interacting with regulatory agencies",
+            "Educational methodologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Planning",
+            "Quality assurance",
+            "Budgeting"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization and management",
+            "Marketing",
+            "Understanding legal and ethical considerations in a clinical setting"
+        ]
+    },
+    {
+        "courseCode": "MLS 540",
+        "courseTitle": "Statistical Applications and Data Analysis in the Clinical Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics include review of basic statistics used in the laboratory; use of statistics for quality control, reference range determination, method comparisons, test utility assessment, techniques for searching the literature and assessing quality and applicability of published studies; and data organization and retrieval via queries. Students will perform projects, preferably using actual laboratory data, that relate to lecture topics.",
+        "Technical and Digital Skills": [
+            "Basic statistics",
+            "Use of statistics for quality control",
+            "Reference range determination",
+            "Method comparisons",
+            "Test utility assessment",
+            "Literature searching techniques",
+            "Data organization",
+            "Data retrieval via queries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing quality and applicability of published studies",
+            "Performing projects related to lecture topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management"
+        ]
+    }
+]

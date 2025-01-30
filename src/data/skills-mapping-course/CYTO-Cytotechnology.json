@@ -1,0 +1,498 @@
+[
+    {
+        "courseTitle": "Gynecological Screening Laboratory",
+        "courseCode": "CYTO 403",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory experience in the screening of gynecological smears.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques for gynecological smears",
+            "Microscopy skills",
+            "Sample preparation methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying abnormalities in gynecological samples",
+            "Troubleshooting technical issues in screening processes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "General Pathology",
+        "courseCode": "CYTO 404",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an overview of general disease processes and causes in the human.  All body systems will be covered including respiratory, gastrointestinal, circulatory, nervous, reproductive, and urinary.  Aging, dietary, and stress factors will be discussed in the disease process.  Bacteria, fungi, and viruses will be discussed in general and for each body system.  Neoplasms will be covered for each body site. This course will be of benefit to anyone interested in diseases of the human body or entering the medical field.  (cross listed with MLS 401)",
+        "Technical and Digital Skills": [
+            "Understanding disease processes in the human body",
+            "Identifying causes of diseases",
+            "Knowledge of bacterial, fungal, and viral infections",
+            "Understanding neoplasms for different body systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting disease information",
+            "Collaborating with medical professionals for disease management",
+            "Explaining disease concepts to non-medical audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing disease progression",
+            "Identifying treatment options based on disease causes",
+            "Evaluating the impact of aging, dietary, and stress factors on diseases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading disease management teams",
+            "Organizing disease-related information",
+            "Developing strategies for disease prevention and control"
+        ]
+    },
+    {
+        "courseTitle": "Normal Gynecological Cytology",
+        "courseCode": "CYTO 405",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to histological and cytological features of the normal female genital tract with emphasis on normal and non-neoplastic abnormalities.  Principles of cytological diagnostic techniques will be discussed.",
+        "Technical and Digital Skills": [
+            "Histological analysis",
+            "Cytological diagnostic techniques",
+            "Understanding normal and non-neoplastic abnormalities in female genital tract"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of diagnostic findings",
+            "Collaboration with healthcare professionals for patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting histological and cytological features",
+            "Identifying abnormalities based on diagnostic techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing cytological diagnostic processes",
+            "Leading discussions on normal and abnormal findings"
+        ]
+    },
+    {
+        "courseTitle": "Clinical Histology",
+        "courseCode": "CYTO 407",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course consists of the systematic study of cellular components as well as the grouping/organization of tissues into major 'organ' systems. Additionally, the cellular basis of examples of human diseases will be studied. Microscopic and virtual identification and morphology of cells, tissues, and organ substructures will be emphasized.  This course will be of benefit to anyone interested in diseases of the human body or entering the medical field.",
+        "Technical and Digital Skills": [
+            "Microscopic identification of cells",
+            "Virtual identification of tissues",
+            "Study of cellular components",
+            "Understanding organ systems",
+            "Identifying organ substructures"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cellular basis of human diseases",
+            "Identifying examples of human diseases based on cellular morphology"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Abnormal Gynecological Cytology",
+        "courseCode": "CYTO 415",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to diagnostic cytological techniques and pathology of the female reproductive tract with emphasis on premalignant and malignant changes.",
+        "Technical and Digital Skills": [
+            "Diagnostic cytological techniques",
+            "Pathology knowledge of female reproductive tract",
+            "Identification of premalignant and malignant changes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of diagnostic findings",
+            "Collaboration with healthcare team for patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of cytological results",
+            "Problem-solving in identifying abnormal cell changes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and prioritizing cytology samples",
+            "Leading discussions on treatment plans based on cytology results"
+        ]
+    },
+    {
+        "courseTitle": "Respiratory Cytology",
+        "courseCode": "CYTO 424",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Principles of diagnostic cytology and pathology of the respiratory tract, including benign conditions, inflammatory and infectious diseases, premalignant conditions and primary and metastatic malignancies.",
+        "Technical and Digital Skills": [
+            "Diagnostic cytology techniques",
+            "Pathology analysis of respiratory tract samples",
+            "Identification of benign and malignant conditions in respiratory samples",
+            "Differentiation of inflammatory and infectious diseases in cytology",
+            "Understanding premalignant conditions in respiratory cytology",
+            "Recognition of primary and metastatic malignancies in respiratory samples"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cytology findings to healthcare professionals",
+            "Collaboration with pathologists and medical staff for accurate diagnosis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of respiratory cytology samples",
+            "Interpretation of complex cytology results",
+            "Identification of abnormal cells in respiratory specimens",
+            "Problem-solving in diagnosing respiratory tract diseases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Efficient organization of respiratory cytology samples",
+            "Leadership in managing respiratory cytology workflows"
+        ]
+    },
+    {
+        "courseTitle": "Cytopreparatory Techniques and Procedures",
+        "courseCode": "CYTO 428W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to collection, processing and preparation of cytologic specimens from all body sites and general laboratory procedures and regulations.  A portion of this course consists of practical experience acquired in the laboratory.  Practical experience will be perfected during clinical site rotations throughout the Cytotechnology Program. Students will learn how to properly write lab reports and papers related to health science fields. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Collection, processing, and preparation of cytologic specimens",
+            "Lab procedures and regulations",
+            "Lab report writing",
+            "Health science paper writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in a lab setting",
+            "Collaboration with clinical site rotations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing cytologic specimens",
+            "Critical evaluation of lab results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing practical experience in the laboratory",
+            "Leadership during clinical site rotations"
+        ]
+    },
+    {
+        "courseTitle": "Cytopreparation & Ancillary Techniques",
+        "courseCode": "CYTO 430",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course offers an introduction to cytopreparation and ancillary diagnostic techniques.  Upon completion, students should be able to understand the principles of cytology preparatory techniques as well as fixation and staining theory and use. In addition, students will learn the application and interpretation of various special and immunohistochemical stains, and understand the various molecular tests available for use in cytopathology.",
+        "Technical and Digital Skills": [
+            "Understanding principles of cytology preparatory techniques",
+            "Fixation and staining theory",
+            "Application and interpretation of special and immunohistochemical stains",
+            "Understanding molecular tests in cytopathology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Gastro-Intestinal Cytology",
+        "courseCode": "CYTO 442",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the pathology and cytology of the gastro-intestinal tract, including the oral cavity, esophagus, stomach, colon, and rectum.  Emphasis on normal conditions, benign inflammatory, infections, parasitic conditions, gastric ulcers, premalignant and malignant lesions.",
+        "Technical and Digital Skills": [
+            "Cytology techniques",
+            "Pathology analysis",
+            "Microscopic examination of tissue samples",
+            "Identification of normal and abnormal cells in the gastro-intestinal tract"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of findings to medical professionals",
+            "Collaboration with healthcare team members for patient care"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of premalignant and malignant lesions",
+            "Critical evaluation of tissue samples for diagnosis",
+            "Differential diagnosis of benign and malignant conditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory procedures for sample processing",
+            "Leading a team of cytotechnologists for efficient workflow"
+        ]
+    },
+    {
+        "courseTitle": "Genitourinary Cytology",
+        "courseCode": "CYTO 444",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the pathology and cytology of the genitourinary tract, with emphasis in normal conditions, benign inflammatory and infectious conditions, crystals, premalignant and malignant lesions.",
+        "Technical and Digital Skills": [
+            "Microscopic examination of cells",
+            "Identification of normal and abnormal cells in genitourinary tract samples",
+            "Utilization of staining techniques for cell identification"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cytology findings to medical professionals",
+            "Collaboration with pathologists and clinicians for accurate diagnosis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Differentiation between benign and malignant lesions in genitourinary samples",
+            "Interpretation of cytology results for treatment decisions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing cytology laboratory workflow",
+            "Supervising and training cytotechnologists for sample processing"
+        ]
+    },
+    {
+        "courseTitle": "Breast Cytology",
+        "courseCode": "CYTO 445",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of pathology and cytology of the breast, with emphasis on benign, inflammatory conditions,  premalignant and malignant disease in both breast smears and fine needle aspirations.",
+        "Technical and Digital Skills": [
+            "Interpreting breast pathology slides",
+            "Analyzing breast smears",
+            "Fine needle aspiration techniques",
+            "Using cytology equipment",
+            "Identifying benign and malignant conditions in breast samples"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting cytology findings",
+            "Collaborating with pathologists and medical professionals",
+            "Effective written and verbal communication in medical settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Differentiating between premalignant and malignant breast conditions",
+            "Critical evaluation of breast cytology results",
+            "Developing treatment plans based on cytology findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing breast cytology cases efficiently",
+            "Leading a team of cytotechnologists and medical staff in breast cytology procedures"
+        ]
+    },
+    {
+        "courseTitle": "Body Fluids Cytology",
+        "courseCode": "CYTO 446",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the pleural, peritoneal and pericardial cavity fluids, synovial and cerebral spinal fluids, with emphasis on benign, inflammatory conditions, and primary and metastatic malignancies.",
+        "Technical and Digital Skills": [
+            "Identification of cells in body fluids",
+            "Microscopic examination techniques",
+            "Cell staining methods",
+            "Differentiation of benign and malignant cells in fluids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cytology findings to healthcare professionals",
+            "Collaboration with pathologists and medical staff for accurate diagnosis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of cytology results for diagnosing disease conditions",
+            "Critical analysis of cell morphology in body fluids"
+        ],
+        "Organizational and Leadership Skills": [
+            "Efficient handling and processing of body fluid samples",
+            "Leadership in managing cytology workflow for timely diagnosis"
+        ]
+    },
+    {
+        "courseTitle": "Non-Epithelial Cytology",
+        "courseCode": "CYTO 448",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the pathology and cytology of non-epithelial lesions with emphasis on benign, inflammatory, and malignant conditions.",
+        "Technical and Digital Skills": [
+            "Pathology knowledge",
+            "Cytology expertise",
+            "Lesion identification skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of findings",
+            "Collaboration with healthcare professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Differential diagnosis of benign, inflammatory, and malignant conditions",
+            "Critical evaluation of cytology results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing cytology reports efficiently",
+            "Leading discussions on treatment plans"
+        ]
+    },
+    {
+        "courseTitle": "Fine Needle Aspiration Cytology I",
+        "courseCode": "CYTO 456",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of specialized collection techniques, processing and diagnosis of fine needle aspirations from various body sites, including thyroid, liver, lymph nodes, pancreas, lung, mediastinum,  salivary gland, and ovary.  Clinical practical application of these principles will be continued at the clinical sites.",
+        "Technical and Digital Skills": [
+            "Fine needle aspiration techniques",
+            "Processing of samples",
+            "Diagnosis of samples",
+            "Clinical application at various body sites"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of samples",
+            "Differentiation of sample types",
+            "Interpreting diagnostic results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Fine Needle Aspiration Cytology II",
+        "courseCode": "CYTO 457",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of specialized collection techniques, processing and diagnosis of fine needle aspirations from various body sites, including kidney, retroperitoneum, breast, soft tissue, bone, eye, central nervous system, and skin. Clinical practical application of these principles will be continued at the clinical sites.",
+        "Technical and Digital Skills": [
+            "Specialized collection techniques",
+            "Processing of fine needle aspirations",
+            "Diagnosis of fine needle aspirations",
+            "Clinical practical application"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of fine needle aspirations",
+            "Diagnosis interpretation",
+            "Problem-solving in clinical scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Clinical site coordination",
+            "Leadership in clinical settings"
+        ]
+    },
+    {
+        "courseTitle": "Cytology Internship I",
+        "courseCode": "CYTO 458",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Directly supervised experience in a clinical setting:  includes evaluation of gynecologic  smears and study set assignments.  Students will be exposed to cytopreparatory techniques.",
+        "Technical and Digital Skills": [
+            "Evaluation of gynecologic smears",
+            "Cytopreparatory techniques",
+            "Clinical setting experience"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisors and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cytology samples",
+            "Problem-solving in cytopreparatory techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for study set assignments",
+            "Following direct supervision guidelines"
+        ]
+    },
+    {
+        "courseTitle": "Cytology Internship II",
+        "courseCode": "CYTO 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Directly supervised experience in a clinical setting.  Includes evaluation of gynecologic and non-gynecologic specimen slides and study set assignments.  Students will pre-screen gynecologic and non-gynecologic smears and study set assignments.  Students will be exposed to cytopreparatory techniques.",
+        "Technical and Digital Skills": [
+            "Evaluation of gynecologic and non-gynecologic specimen slides",
+            "Pre-screening of gynecologic and non-gynecologic smears",
+            "Cytopreparatory techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with supervisors and colleagues",
+            "Collaboration in a clinical setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of specimen slides",
+            "Problem-solving in cytopreparatory techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a clinical setting",
+            "Taking initiative in study set assignments"
+        ]
+    },
+    {
+        "courseTitle": "Cytology Internship III",
+        "courseCode": "CYTO 478",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Directly supervised experience in a clinical setting. Includes evaluation of gynecologic and non-gynecologic smears and study set assignments.  Students will be exposed to cytopreparatory techniques.",
+        "Technical and Digital Skills": [
+            "Evaluation of gynecologic and non-gynecologic smears",
+            "Cytopreparatory techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Cytology",
+        "courseCode": "CYTO 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study of selected topics in clinical cytology. Review of cytologic specimens from various body sites",
+        "Technical and Digital Skills": [
+            "Cytologic specimen analysis",
+            "Clinical cytology techniques",
+            "Digital imaging analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of cytologic findings",
+            "Collaboration with healthcare professionals for specimen review"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of abnormal cells in cytologic specimens",
+            "Critical evaluation of cytologic findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cytology specimen review sessions",
+            "Organizing and managing cytology research projects"
+        ]
+    },
+    {
+        "courseTitle": "Cytology Senior Seminar",
+        "courseCode": "CYTO 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Supervised experience consists of clinical cases and seminar presentations into current advances within the specialty of clinical cytology.  A student research project and oral presentation of current journal articles and the research paper are required.",
+        "Technical and Digital Skills": [
+            "Clinical case analysis",
+            "Research paper writing",
+            "Oral presentation skills",
+            "Current journal article review"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective seminar presentations",
+            "Collaboration on student research project"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of clinical cytology cases",
+            "Analyzing current advances in cytology specialty"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading seminar discussions",
+            "Coordinating student research project"
+        ]
+    },
+    {
+        "courseTitle": "Topics Course",
+        "courseCode": "CYTO 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": [
+            "Advanced data visualization techniques",
+            "Machine learning algorithms implementation",
+            "Web development using HTML/CSS/JavaScript",
+            "Database management with MySQL"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication in virtual environments",
+            "Presentation of complex technical concepts to non-technical audiences",
+            "Active listening during group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Root cause analysis for technical issues",
+            "Optimization of code for performance improvement",
+            "Debugging and troubleshooting software problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cross-functional project teams",
+            "Prioritizing tasks in a fast-paced environment",
+            "Conflict resolution in team settings"
+        ]
+    },
+    {
+        "courseTitle": "Comprehensive Cytology Review",
+        "courseCode": "CYTO 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course is a comprehensive review course that includes the review and study of the exfoliative and non-exfoliative (including fine needle aspirations) cytomorphologic features of neoplastic and non-neoplastic lesions of the female genital tract, respiratory tract, urinary tract, body fluids, lymph nodes, thyroid, salivary glands, pancreas and biliary tract, the diagnostic pitfalls associated with the various body sites, the appropriate use of ancillary techniques in diagnostic cytology, the principles of quality assurance, and the new developments in the field of cytopathology.",
+        "Technical and Digital Skills": [
+            "Exfoliative and non-exfoliative cytology review",
+            "Fine needle aspirations analysis",
+            "Ancillary techniques in diagnostic cytology",
+            "Quality assurance principles in cytopathology",
+            "New developments in cytopathology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cytological findings",
+            "Collaboration with healthcare professionals for accurate diagnosis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of cytomorphologic features",
+            "Diagnostic pitfalls identification and resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in cytopathology practice",
+            "Organizing and managing cytology review sessions"
+        ]
+    }
+]

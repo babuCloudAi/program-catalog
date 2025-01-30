@@ -1,0 +1,948 @@
+[
+    {
+        "courseTitle": "Information Literacy for the Digital Age",
+        "courseCode": "LIBS 110G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students require a comprehensive understanding of information literacy so they can become effective users of ideas and information and guide others in activities of knowledge use and creation. This course will provide an introduction to the process and methods of retrieving information using digital literacies. Students will learn to identify an information need, then locate, evaluate, and use appropriate resources while embedding the dispositions of academic integrity and ethical use. Topics include use of collaborative tools for development of information, including social media. The content focuses on implementing effective digital information literacy strategies situated in various content areas with the intent that these strategies can be incorporated into future professional and instructional practices.",
+        "Technical and Digital Skills": [
+            "Understanding of information literacy",
+            "Retrieving information using digital literacies",
+            "Locating and using appropriate resources",
+            "Use of collaborative tools for development of information, including social media"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Guiding others in activities of knowledge use and creation",
+            "Collaborative development of information through digital tools",
+            "Ethical use of information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying an information need",
+            "Evaluating resources for appropriateness",
+            "Implementing effective digital information literacy strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Embedding academic integrity in information use",
+            "Incorporating digital literacy strategies into professional and instructional practices"
+        ]
+    },
+    {
+        "courseCode": "LIBS 601",
+        "courseTitle": "STEM Education and Maker Spaces in Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "This course builds on current research and practice to strengthen candidates’ conceptual understanding of design-based STEM pedagogy. Through participation in activities and discussions, students will review concepts embedded within design-based, problem-based, project-based, and inquiry instruction and learning. This course will explore a synthesized overview of trends affecting STEM education and investigate makerspaces and making activities to support inquiry-driven, community engagement in information settings. Students will gain hands-on experience with digital and physical making toolkits and design maker experiences within library spaces.",
+        "Technical and Digital Skills": [
+            "Understanding of design-based STEM pedagogy",
+            "Knowledge of problem-based, project-based, and inquiry instruction and learning",
+            "Practical use of digital and physical making toolkits",
+            "Designing maker experiences within library spaces"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in activities and discussions",
+            "Community engagement in information settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Reviewing and understanding embedded concepts within different teaching methodologies",
+            "Investigation and exploration of trends affecting STEM education",
+            "Hands-on experience with problem-solving toolkits"
+        ],
+        "Organizational and Leadership Skills": [
+            "Designing and planning maker experiences",
+            "Leading and managing community engagement activities"
+        ]
+    },
+    {
+        "courseCode": "LIBS 602",
+        "courseTitle": "Production of Instructional Materials",
+        "academicLevel": "graduate",
+        "courseDescription": "Develops skills in preparing, evaluating, and presenting instructional materials and the use of those materials to promote higher-level thinking and enhance the learning environment. Includes elements of design, multimedia materials, and development of in-service activities. Hands-on practice in media production and dissemination.",
+        "Technical and Digital Skills": [
+            "Preparation of instructional materials",
+            "Evaluation of instructional materials",
+            "Presentation of instructional materials",
+            "Design elements incorporation",
+            "Multimedia materials production",
+            "Media production",
+            "Media dissemination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of materials",
+            "Communication of higher-level thinking",
+            "Enhancement of learning environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of instructional materials",
+            "Promotion of higher-level thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of in-service activities",
+            "Creation of enriched learning environments"
+        ]
+    },
+    {
+        "courseCode": "LIBS 603",
+        "courseTitle": "Online Resources for Teaching",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will gain experience locating, evaluating, collecting, arranging, and disseminating content resources available as open educational resources to support learning and teaching. Issues surrounding open educational resources including copyright, licensing, access, and quality will be addressed. A primary focus will be on developing digital textbooks that may include websites, databases, current awareness experts, and digital field trips to support the delivery of instruction.",
+        "Technical and Digital Skills": [
+            "Locating open educational resources",
+            "Evaluating the quality of digital content",
+            "Collecting and arranging digital resources",
+            "Developing digital textbooks",
+            "Managing websites and databases",
+            "Understanding copyright and licensing issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Disseminating content resources",
+            "Communicating complex digital resource concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving related to access issues",
+            "Analyzing the quality of open educational resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading digital resource arrangement",
+            "Organizing digital field trips"
+        ]
+    },
+    {
+        "courseCode": "LIBS 608",
+        "courseTitle": "Foundations of Libraries and Information",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides social, cultural, and historical perspectives on libraries and librarianship. The purpose, functions and processes of libraries and information are explored.  Current types of libraries and information agencies are explored.  Legal, ethical, advocacy, and economic policies, trends and positions are addressed.",
+        "Technical and Digital Skills": [
+            "Understanding of library systems and processes",
+            "Knowledge of different types of libraries and information agencies",
+            "Understanding of legal and ethical policies in libraries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of library functions and purpose",
+            "Advocacy for libraries and information agencies",
+            "Understanding and discussing economic trends in libraries"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of library and information agency trends",
+            "Evaluation of library processes and functions",
+            "Problem solving in the context of library policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and application of library and information agency policies",
+            "Leadership in advocacy and communication of library purposes",
+            "Organizing and managing library resources and processes"
+        ]
+    },
+    {
+        "courseCode": "LIBS 609",
+        "courseTitle": "History of Books and Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides a historical perspective on books and libraries as social and cultural objects and spaces. Surveys the history of communication technologies from early history through current events and from stone tablets to electronic formats.",
+        "Technical and Digital Skills": [
+            "Understanding communication technologies",
+            "Knowledge of electronic format history"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural understanding",
+            "Interpreting historical context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Critical evaluation of historical events"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "LIBS 610",
+        "courseTitle": "Preservation Management in Libraries and Archives",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the principles and practice of preservation with an emphasis on the management of preservation activities. Includes physical and intellectual preservation of records and media and the history, kinds of materials and treatments, techniques and technologies, and digitization and digital records. Issues of storage, security, and disaster prevention and response will also be addressed.",
+        "Technical and Digital Skills": [
+            "Management of preservation activities",
+            "Intellectual preservation of records and media",
+            "Understanding of preservation materials and treatments",
+            "Knowledge of preservation techniques and technologies",
+            "Digitization and management of digital records",
+            "Security and storage solutions",
+            "Disaster prevention and response"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysing the types of materials for preservation",
+            "Identifying and resolving issues related to storage and security",
+            "Planning and implementing disaster prevention and response measures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing preservation activities",
+            "Planning and implementing storage solutions",
+            "Leading disaster prevention and response measures"
+        ]
+    },
+    {
+        "courseCode": "LIBS 611",
+        "courseTitle": "Community Archiving",
+        "academicLevel": "graduate",
+        "courseDescription": "All communities create historical records, and recent decades have brought a growing critical awareness of how existing social hierarchies influence the creation and maintenance of historical archives. Community archive projects locate the power to preserve and shape history, heritage, and memory in communities themselves. Through readings, discussion, and analysis, this course will introduce students to a range of issues relating to grassroots community archives, archives of community organizations, and what happens when larger institutions partner with communities and community organizations to create and maintain archives.",
+        "Technical and Digital Skills": [
+            "Understanding of archival processes",
+            "Knowledge of community archive projects",
+            "Understanding of how larger institutions partner with communities to create and maintain archives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with community members",
+            "Collaboration with larger institutions",
+            "Negotiation and mediation in community archival projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social hierarchies in archival processes",
+            "Critical evaluation of community archival projects",
+            "Problem-solving in archival work"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in community archival projects",
+            "Organizational skills in archive management",
+            "Creating and maintaining community partnerships with larger institutions"
+        ]
+    },
+    {
+        "courseCode": "LIBS 612",
+        "courseTitle": "Research Methods in Library and Information Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will introduce students to theoretical and applied research design, methodologies, and evaluation of research in library and information science (LIS). The course will include a review of existing research, allowing students to evaluate and assess the potential value of literature and research findings through critical analysis. Basic qualitative and quantitative research protocols will be learned through this class.",
+        "Technical and Digital Skills": [
+            "Applied research design",
+            "Qualitative and quantitative research protocols",
+            "Literature evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critically communicating research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Research evaluation",
+            "Assessing potential value of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research management"
+        ]
+    },
+    {
+        "courseCode": "LIBS 614",
+        "courseTitle": "Information Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "Introduces the major theories and basic concepts of ethics. Historical and contemporary professional frameworks and positions will be analyzed in ethical contexts. Students will apply ethical principles to dilemmas and decision making in the information and library profession.",
+        "Technical and Digital Skills": [
+            "Understanding of ethical principles",
+            "Applying ethical frameworks to information and library profession"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating ethical dilemmas",
+            "Communicating ethical decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing professional frameworks and positions in ethical contexts",
+            "Decision making in ethical dilemmas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Applying ethical principles in professional decision making",
+            "Leading discussions on ethical dilemmas"
+        ]
+    },
+    {
+        "courseCode": "LIBS 615",
+        "courseTitle": "Action Research for School Librarians",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores action research in a school library. Students will examine the value and characteristics of educational action research and apply these ideas toward the development of an action research project. Topics include the evaluation of published action research projects, community-based assessment, data collection and analysis, and the design and development of a project conducted in a school library setting.",
+        "Technical and Digital Skills": [
+            "Evaluation of published action research projects",
+            "Community-based assessment",
+            "Data collection",
+            "Data analysis",
+            "Project design and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with school community",
+            "Presenting research findings",
+            "Sharing project ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying educational research gaps",
+            "Analyzing collected data",
+            "Applying research principles to real-world problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leading action research initiatives",
+            "Organizing research data"
+        ]
+    },
+    {
+        "courseCode": "LIBS 626",
+        "courseTitle": "Web Archiving Theory, Practice, and Implications",
+        "academicLevel": "graduate",
+        "courseDescription": "An interdisciplinary introduction to web archiving fundamentals including web crawling, collection development and summarization including planning, analyzing, and sharing collections. Includes a review of ethical and legal issues, trustworthiness, preservation, security, and cultural impact of web archiving.",
+        "Technical and Digital Skills": [
+            "Web crawling",
+            "Collection development and summarization",
+            "Planning web archiving projects",
+            "Analyzing web collections",
+            "Sharing web collections",
+            "Understanding of web preservation techniques",
+            "Understanding of web security measures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex technical concepts",
+            "Discussing ethical and legal issues in web archiving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing web collections for summary",
+            "Addressing security issues in web archiving",
+            "Identifying and solving preservation challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing web archiving projects",
+            "Leading discussions on ethical, legal, and cultural implications of web archiving"
+        ]
+    },
+    {
+        "courseCode": "LIBS 642",
+        "courseTitle": "Children’s Literature PREK-8",
+        "academicLevel": "graduate",
+        "courseDescription": "Students examine, evaluate, discuss, and use literature and related materials for children and young adolescents and explore strategies for introducing and using literature with children.",
+        "Technical and Digital Skills": [
+            "Evaluating children's literature",
+            "Using related materials for children's literature",
+            "Introducing literature to children"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing literature",
+            "Communicating effectively with children and young adolescents"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Examining literature",
+            "Evaluating suitability of literature for different age groups"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing strategies for literature introduction",
+            "Managing literature usage"
+        ]
+    },
+    {
+        "courseCode": "LIBS 644",
+        "courseTitle": "Literature and Media for Young Adults",
+        "academicLevel": "graduate",
+        "courseDescription": "An exploration of the selection of literature and media for young adults (ages 12 - 18). Includes current trends and research in teens' social, physical and cultural development, teen interests and needs, and multiple literacies. Focus is on multiple formats, diverse learners, and strategies to promote reading for information, pleasure and lifelong learning.",
+        "Technical and Digital Skills": [
+            "Media selection for young adults",
+            "Understanding and application of current trends in young adult literature",
+            "Knowledge of multiple literacies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and addressing teen interests and needs",
+            "Promoting reading for pleasure and lifelong learning",
+            "Engaging diverse learners"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research in teens' social, physical and cultural development",
+            "Strategizing to promote reading for information",
+            "Analysis of diverse learning requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing multiple formats of literature",
+            "Leading strategies to promote reading",
+            "Managing literature selection"
+        ]
+    },
+    {
+        "courseCode": "LIBS 647",
+        "courseTitle": "Reading and Literature for Adults",
+        "academicLevel": "graduate",
+        "courseDescription": "Survey of trends and selection tools in literature and reading for adult library patrons including popular fiction and non-fiction genres in multiple formats and across life stages in adulthood.  Strategies will include reader’s advisory, book clubs, and other programming to meet the diverse needs and interests of adult readers.",
+        "Technical and Digital Skills": [
+            "Genre identification",
+            "Use of digital reading platforms",
+            "Understanding of various literature formats"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Reader's advisory skills",
+            "Facilitation of book clubs",
+            "Programming for diverse needs and interests"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Trend analysis in literature",
+            "Selection of appropriate reading materials"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing reading programs",
+            "Leading book clubs"
+        ]
+    },
+    {
+        "courseCode": "LIBS 648",
+        "courseTitle": "Reading, Evaluating, and Selecting Graphic Novels",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the use, selection and evaluation of literature and media that use sequential art to tell stories in a visual format: comics, webcomics, graphic novels, and more. The course will include the history of the sequential art format; an exploration of reading through a variety of  graphics, text and media; and a survey of current and historical titles for all ages. Students will explore resources for selecting and evaluating materials in graphic format as well as specific applications for graphic materials in classrooms and libraries.",
+        "Technical and Digital Skills": [
+            "Understanding of sequential art formats",
+            "Knowledge of graphic materials and media",
+            "Ability to navigate and utilize resources for selecting and evaluating graphic materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate and discuss the history and current trends of sequential art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of literature and media using sequential art",
+            "Differentiating between various graphic materials",
+            "Ability to analyze and interpret graphics and texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of graphic resources for classroom and library applications",
+            "Curating and selecting appropriate graphic materials for different age groups"
+        ]
+    },
+    {
+        "courseCode": "LIBS 649",
+        "courseTitle": "Storytelling",
+        "academicLevel": "graduate",
+        "courseDescription": "Explores storytelling for the purpose of informing, entertaining and/or educating in an information setting. This course introduces narrative structure and technique using a variety of different media. Storytelling strategies help students gain communication skills and practice. Students will explore the potential use of storytelling for a variety of age groups, from preschool through adults, and for special audiences.",
+        "Technical and Digital Skills": [
+            "Understanding narrative structures",
+            "Techniques for storytelling via different media",
+            "Utilizing storytelling strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective oral and written communication",
+            "Adapting storytelling for diverse age groups",
+            "Engaging special audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Creative problem-solving for storytelling",
+            "Analyzing audience responses",
+            "Evaluating storytelling effectiveness"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing narratives",
+            "Leading storytelling sessions",
+            "Managing audience engagement"
+        ]
+    },
+    {
+        "courseCode": "LIBS 653",
+        "courseTitle": "User Centered Design in Library and Information",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces current and future information professionals to user-centered design in library and information studies. Students learn how to conduct research with users, gather users' requirements, and develop intuitive, user-friendly interfaces (e.g., software, mobile applications). Theories and techniques for engaging users and designing user-centered interfaces are learned and applied.",
+        "Technical and Digital Skills": [
+            "Conducting user research",
+            "Gathering user requirements",
+            "Developing user-friendly interfaces",
+            "Designing software",
+            "Designing mobile applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging users",
+            "Communicating user requirements"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying user needs",
+            "Analyzing user feedback",
+            "Problem-solving for user experience design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leading user-centered design processes"
+        ]
+    },
+    {
+        "courseCode": "LIBS 654",
+        "courseTitle": "Information Literacy Instruction",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will develop expertise in the delivery of in-person and online information literacy and research instruction in library and information contexts through an exploration of various information literacy models, standards, and theories. Students will gain practical experience in planning, implementing, and assessing library instruction and digital learning objects through a variety of delivery methods.",
+        "Technical and Digital Skills": [
+            "Delivery of online information literacy and research instruction",
+            "Planning and implementing library instruction",
+            "Creation of digital learning objects",
+            "Exploration of information literacy models, standards, and theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "In-person delivery of information literacy instruction",
+            "Communication of library instruction and digital learning objects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of various information literacy models, standards, and theories",
+            "Assessment of library instruction and digital learning objects",
+            "Adaptation of delivery methods to diverse needs"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing library instruction",
+            "Assessment of library instruction",
+            "Organization of digital learning objects"
+        ]
+    },
+    {
+        "courseCode": "LIBS 655",
+        "courseTitle": "Methods and Strategies for the School Library",
+        "academicLevel": "graduate",
+        "courseDescription": "Participants will draw from research-based theory of pedagogical best practice to discuss, model and apply practical applications to content topics. Content focuses on strategies to implement effective classroom management for the library learning environment, engage library learners and assess their performance, and build collaborative relationships that integrates library and content instruction into practice.",
+        "Technical and Digital Skills": [
+            "Content management",
+            "Digital curation",
+            "Application of pedagogical best practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Building collaborative relationships",
+            "Engaging library learners",
+            "Modeling theoretical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing learner performance",
+            "Implementing effective classroom management strategies",
+            "Applying practical applications to content topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing a library learning environment",
+            "Integrating library and content instruction into practice"
+        ]
+    },
+    {
+        "courseCode": "LIBS 657",
+        "courseTitle": "LGBTQIA+ Issues in Public Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "The populations served by public libraries are varied and diverse, and they require resources that will address these diverse needs. Budgetary and political concerns, among other things, often restrict the ability of libraries to fulfill the needs of 'invisible populations,' or groups whose minority status is not readily or visually apparent, such as the lesbian, gay, bisexual, transgender, queer, intersex, asexual plus (LGBTQIA+) community. This course is designed to bring particular issues the LGBTQIA+ community may have in relation to public libraries to the forefront and provide students with the tools to address these issues in the field.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating with diverse populations",
+            "Understanding and addressing the needs of the LGBTQIA+ community",
+            "Advocacy for minority groups"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying resources for diverse needs",
+            "Addressing budgetary and political constraints",
+            "Recognizing and addressing issues faced by 'invisible populations'"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting inclusivity in library resources and services",
+            "Navigating political and budgetary limitations",
+            "Leadership in advocating for minority groups in public libraries"
+        ]
+    },
+    {
+        "courseCode": "LIBS 658",
+        "courseTitle": "Knowledge Resources: Planning, Selecting & Managing Collections",
+        "academicLevel": "graduate",
+        "courseDescription": "Examines the concepts and issues related to the lifecycle of recorded knowledge and information including emerging technologies. Addresses fundamentals of planning, selecting, analyzing, managing, and developing collections and technology resources for diverse communities.",
+        "Technical and Digital Skills": [
+            "Understanding emerging technologies",
+            "Managing technology resources",
+            "Development of collections",
+            "Knowledge lifecycle management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Adapting resources for diverse communities"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing collections and technology resources",
+            "Planning and selecting suitable resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing collections",
+            "Planning resource development"
+        ]
+    },
+    {
+        "courseCode": "LIBS 668",
+        "courseTitle": "Internship in Libraries and Information Workplaces",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will work in a library or related workplace, fully participating in the day-to-day operations including administrative tasks, instruction, and/or other programming and services.  Students taking this course for school library endorsement may have additional requirements/prerequisites.",
+        "Technical and Digital Skills": [
+            "Library cataloging systems",
+            "Digital archiving",
+            "Online research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional skills",
+            "Customer service",
+            "Oral and written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Information organization",
+            "Resource allocation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Administrative tasks management",
+            "Program and services planning"
+        ]
+    },
+    {
+        "courseCode": "LIBS 669",
+        "courseTitle": "Internship in School Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will work in a school library setting, participating fully in the administrative tasks, collaborative planning with teaching peers, and preparation and delivery of instructional lessons. This course is for students who are already licensed teachers or who are seeking initial licensure in school librarianship.",
+        "Technical and Digital Skills": [
+            "Digital library administration",
+            "Instructional materials preparation",
+            "Digital literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative planning",
+            "Instruction delivery",
+            "Peer communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Administrative problem-solving",
+            "Instructional planning and execution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Task organization",
+            "Leadership in library setting",
+            "Collaborative leadership"
+        ]
+    },
+    {
+        "courseCode": "LIBS 674",
+        "courseTitle": "Library Management and Leadership",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the critical issues concerning the leadership and management of a library. Students will explore the issues involved in building library programs to include considerations of physical space, budgetary decisions, and personnel.",
+        "Technical and Digital Skills": [
+            "Database management",
+            "Digital library systems",
+            "Managing online resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team management",
+            "Conflict resolution",
+            "Verbal and written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Budget analysis",
+            "Problem-solving in library management",
+            "Strategic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Library program development",
+            "Space management",
+            "Leadership in library settings",
+            "Budget management",
+            "Personnel management"
+        ]
+    },
+    {
+        "courseCode": "LIBS 676",
+        "courseTitle": "Library Media Services and the Curriculum",
+        "academicLevel": "graduate",
+        "courseDescription": "Emphasis is on library services/ programs and the curriculum of the school.  Includes techniques for curriculum design and development, information skills instruction, instructional partnerships, advocacy, implementation of an integrated library-media instructional program and public relations programs.",
+        "Technical and Digital Skills": [
+            "Curriculum design and development",
+            "Information skills instruction",
+            "Implementation of an integrated library-media instructional program"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Instructional partnerships",
+            "Public relations programs",
+            "Advocacy"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Designing library services/programs",
+            "Adapting curriculum to fit library-media instructional program"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementation of an integrated library-media instructional program",
+            "Advocacy",
+            "Instructional partnerships"
+        ]
+    },
+    {
+        "courseCode": "LIBS 677",
+        "courseTitle": "Knowledge Organization and Access",
+        "academicLevel": "graduate",
+        "courseDescription": "Describes the fundamentals whereby library materials are uniformly described and made available through recognized cataloging, processing, organizing and accessing of materials. In this course, students will develop the ability to apply and adapt the principles of classifying and cataloging, and will understand how these fundamental skills fit into the broader area of technical processing and how they support the principles of services in the library.",
+        "Technical and Digital Skills": [
+            "Classifying and cataloging library materials",
+            "Applying and adapting principles of cataloging",
+            "Understanding of technical processing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting cataloging and classification principles to varying library materials",
+            "Understanding how cataloging supports library services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing library materials",
+            "Understanding the broader area of technical processing"
+        ]
+    },
+    {
+        "courseCode": "LIBS 679",
+        "courseTitle": "Theory and Management of Reference and Information Retrieval",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will explore database structures, search algorithms, indexing principles, and user interfaces for information search and retrieval. Current issues in the evaluation, acquisitions and management of databases and other information resources will be addressed.  Includes advanced strategies for effective information search and educating and assisting users in search techniques and evaluation.",
+        "Technical and Digital Skills": [
+            "Understanding database structures",
+            "Applying search algorithms",
+            "Utilizing indexing principles",
+            "Designing user interfaces for information search",
+            "Evaluating and managing databases",
+            "Deploying advanced search strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Educating users in search techniques",
+            "Assisting users in information evaluation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current issues in database management and acquisition",
+            "Developing effective information retrieval strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing information resources",
+            "Coordinating user education and assistance in search techniques"
+        ]
+    },
+    {
+        "courseCode": "LIBS 680",
+        "courseTitle": "Culturally Responsive Librarianship",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides thought-provoking background and practical suggestions for engaging with a diverse population. Participants explore their own assumptions about race, class, and culture and learn strategies for creating environments and an open dialog that are culturally inviting to all.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Engaging with a diverse population",
+            "Creating culturally inviting environments",
+            "Facilitating open dialogues about race, class, and culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Exploring personal assumptions about race, class, and culture",
+            "Implementing strategies for cultural inclusivity"
+        ],
+        "Organizational and Leadership Skills": [
+            "Creating an inclusive and welcoming library environment"
+        ]
+    },
+    {
+        "courseCode": "LIBS 681",
+        "courseTitle": "Assessment and Evaluation in Library and Information Science",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will explore assessment and evaluation related to library and information contexts with particular attention to historical and current theories and values, relevant standards, and current initiatives and measures. Students will design an evaluation of a current library service or resource that is connected to library goals and objectives with a presentation to effectively communicate data to various stakeholders.",
+        "Technical and Digital Skills": [
+            "Assessment design",
+            "Data presentation",
+            "Understanding of relevant standards and initiatives"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of data",
+            "Presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Evaluation of library services and resources",
+            "Connection of assessments to goals and objectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Design of evaluations aligned with library goals",
+            "Implementation of current initiatives and measures"
+        ]
+    },
+    {
+        "courseCode": "LIBS 684",
+        "courseTitle": "Advanced Library Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Reviews the advanced knowledge and competencies required for the senior administration level of all types of libraries and library systems. Competencies include budgeting and analysis, project management, human resources, and the development of library reporting and advocacy materials.",
+        "Technical and Digital Skills": [
+            "Budgeting and Analysis",
+            "Project Management Tools",
+            "Human Resources Management Software",
+            "Development of Library Reporting Tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Human Resources Communication",
+            "Advocacy Material Development",
+            "Employee Management Communication",
+            "Project Management Communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Budget Analysis",
+            "Human Resources Problem Solving",
+            "Project Management Analysis",
+            "Library Reporting Analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management",
+            "Human Resources Management",
+            "Library Systems Leadership",
+            "Budgeting and Financial Management"
+        ]
+    },
+    {
+        "courseCode": "LIBS 687",
+        "courseTitle": "Cataloging and Classification",
+        "academicLevel": "graduate",
+        "courseDescription": "Cataloging and metadata principles introduced in LIBS 677 are further developed and applied in this course.  Students will apply principles of bibliographic description, subject analysis, and classification to a variety of formats including multimedia, serials, and online resources. The course will address systems, technology and trends in cataloging and metadata environments.",
+        "Technical and Digital Skills": [
+            "Application of bibliographic description",
+            "Subject analysis",
+            "Classification of various formats including multimedia, serials, and online resources",
+            "Understanding of systems, technology and trends in cataloging and metadata environments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of various formats including multimedia, serials, and online resources",
+            "Identification and analysis of trends in cataloging and metadata environments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of various formats including multimedia, serials, and online resources",
+            "Adaptation to changing technology and trends in cataloging and metadata environments"
+        ]
+    },
+    {
+        "courseCode": "LIBS 690",
+        "courseTitle": "Seminar in Academic Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "Academic libraries are dynamic organizations, working to meet the needs of their users and stakeholders while supporting parent higher education institutions. This course examines the functions of the academic library within the higher education environment. A wide variety of topics are covered in this survey of the field, including a focus on the historical background, current trends, and future directions in academic librarianship.",
+        "Technical and Digital Skills": [
+            "Understanding of academic library systems",
+            "Knowledge of current trends in academic librarianship"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Stakeholder engagement",
+            "User needs assessment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of library functions within higher education",
+            "Assessment of future directions in academic librarianship"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing dynamic organizations",
+            "Supporting parent higher education institutions"
+        ]
+    },
+    {
+        "courseCode": "LIBS 691",
+        "courseTitle": "Seminar in Public Libraries",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will gain an understanding of public libraries in the United States and their role within their communities. Topics covered include a historical background of public libraries, overviews of current trends, and future directions in public libraries. This course also explores public services, the roles and expectations of public librarianship as a career.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Trend analysis",
+            "Understanding of library digital systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Community engagement",
+            "Customer service"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Community needs assessment",
+            "Strategic planning",
+            "Policy evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership",
+            "Change management"
+        ]
+    },
+    {
+        "courseCode": "LIBS 693",
+        "courseTitle": "Seminar in Archives and Special Collections",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the nature of archives and special collections. The course explores the history of special collections, archives, records, and cultural memory. Aspects of the profession including ethics, values, financial and legal responsibilities are included. Students will be introduced to the basic knowledge, tools, methods and practices associated with archival work.",
+        "Technical and Digital Skills": [
+            "Understanding archival tools",
+            "Knowledge of archival methods",
+            "Understanding of archival practices",
+            "Understanding of special collections and records"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding of the nature of archives and special collections",
+            "Understanding of the history of special collections, archives, records, and cultural memory"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding of professional ethics and values in archival work",
+            "Knowledge of financial and legal responsibilities in archival work"
+        ]
+    },
+    {
+        "courseCode": "LIBS 694",
+        "courseTitle": "Seminar in Social Justice in Library and Information Work",
+        "academicLevel": "graduate",
+        "courseDescription": "In this seminar course, students will explore current social justice issues through an activist framework.  Historical and contemporary frameworks, positions and initiatives related to the library profession will be considered. The course will examine professional structures, documents, emerging frameworks and social actions as they relate to specific topics of social justice.",
+        "Technical and Digital Skills": [
+            "Researching historical and contemporary social justice issues",
+            "Analyzing professional structures and documents",
+            "Understanding emerging frameworks"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication in an activist framework",
+            "Presenting social justice topics",
+            "Facilitating group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing current social justice issues",
+            "Critical evaluation of historical and contemporary frameworks",
+            "Assessing initiatives related to the library profession"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on social justice issues",
+            "Organizing information related to social justice topics",
+            "Applying activist frameworks"
+        ]
+    },
+    {
+        "courseCode": "LIBS 695",
+        "courseTitle": "Topics in Library and Information Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides opportunities for graduate students to explore current topics, trends and issues related to libraries and information studies.",
+        "Technical and Digital Skills": [
+            "Digital cataloging",
+            "Information systems management",
+            "Data analytics",
+            "Digital preservation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of library services",
+            "User needs assessment",
+            "Collaboration with diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Issue identification and resolution",
+            "Strategic planning for library services"
+        ],
+        "Organizational and Leadership Skills": [
+            "Library management",
+            "Project management",
+            "Leadership in information settings"
+        ]
+    },
+    {
+        "courseCode": "LIBS 697",
+        "courseTitle": "Independent Study in Library Science",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an independent study of special topics in Library Science.",
+        "Technical and Digital Skills": [
+            "Cataloging and classification",
+            "Database management",
+            "Digital preservation",
+            "Knowledge of library management software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Literacy instruction",
+            "Customer service",
+            "Communication with various age groups and demographics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research methodology",
+            "Information retrieval",
+            "Bibliographic control"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collection development and management",
+            "Library policy formulation",
+            "Library leadership and administration"
+        ]
+    }
+]

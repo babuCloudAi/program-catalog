@@ -1,0 +1,184 @@
+[
+    {
+        "courseTitle": "Introduction to Anthropology",
+        "courseCode": "ANTR 110S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of what we know about the emergence of humans:  where we came from; how we developed physically and why; how human cultures became more complex through time; and the variety of human ways of life today.",
+        "Technical and Digital Skills": [
+            "Evolutionary anthropology research methods",
+            "Human physical development analysis",
+            "Cultural complexity assessment",
+            "Contemporary human culture examination"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of anthropological findings",
+            "Collaboration in research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of human origins theories",
+            "Analyzing cultural evolution patterns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects in anthropology"
+        ]
+    },
+    {
+        "courseTitle": "Biological Anthropology",
+        "courseCode": "ANTR 303",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Human physical and cultural evolution from our earliest primate beginnings through the appearance of anatomically modern humans.",
+        "Technical and Digital Skills": [
+            "Understanding of human anatomy",
+            "Knowledge of evolutionary biology",
+            "Data analysis in biological contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with peers on group projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of evolutionary theories",
+            "Interpreting genetic data for evolutionary relationships"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on course material",
+            "Organizing research data effectively"
+        ]
+    },
+    {
+        "courseTitle": "Digging Up the Past",
+        "courseCode": "ANTR 304",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A comprehensive study of the philosophical and scientific foundations of archaeology and of a general prehistory to which they are applied.  The course includes discussions of methods and theories used to reconstruct ancient Egypt and Mexico and other early cultures.",
+        "Technical and Digital Skills": [
+            "Archaeological excavation techniques",
+            "Artifact preservation methods",
+            "Radiocarbon dating analysis",
+            "Geospatial mapping tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration in fieldwork",
+            "Clear report writing on archaeological findings",
+            "Oral presentation of research findings to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting stratigraphy layers",
+            "Critical evaluation of archaeological evidence",
+            "Developing hypotheses based on limited data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing excavation team logistics",
+            "Coordinating research schedules and resources",
+            "Leading fieldwork operations"
+        ]
+    },
+    {
+        "courseTitle": "North American Archaeology",
+        "courseCode": "ANTR 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the prehistory of native cultures north of Mexico from the peopling of the New World to contact with Europeans.",
+        "Technical and Digital Skills": [
+            "Archaeological field methods",
+            "Geospatial mapping tools",
+            "Radiocarbon dating techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with team members on excavation sites"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting archaeological data",
+            "Identifying cultural patterns and trends"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading excavation teams",
+            "Managing research projects and timelines"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Anthropology",
+        "courseCode": "ANTR 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics, designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "Effective presentation of research findings",
+        "Problem-Solving and Analytical Skills": "Critical evaluation of anthropological theories and data",
+        "Organizational and Leadership Skills": "Research project management"
+    },
+    {
+        "courseTitle": "Topics in Anthropology",
+        "courseCode": "ANTR 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for either majors or nonmajors. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": [
+            "Data collection and analysis techniques",
+            "Ethnographic research methods",
+            "GIS mapping tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Interviewing skills",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting qualitative data",
+            "Ethical considerations in research",
+            "Identifying patterns in cultural practices"
+        ],
+        "Organizational and Leadership Skills": [
+            "Team collaboration on research projects",
+            "Time management for fieldwork",
+            "Project coordination with multiple stakeholders"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Anthropology",
+        "courseCode": "ANTR 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Literature review skills",
+            "Research methodology",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative research practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in anthropology",
+            "Research design and implementation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in anthropology research",
+            "Team coordination for conferences and papers"
+        ]
+    },
+    {
+        "courseCode": "ANTR 697",
+        "courseTitle": "Tutorial Work in Special Topics in Anthropology",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of a member of the graduate faculty. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology in anthropology",
+            "Data collection techniques in anthropology",
+            "Literature review skills",
+            "Academic writing proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Presentation skills for conferences and papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of anthropological literature",
+            "Synthesizing information from diverse sources",
+            "Formulating research questions",
+            "Evaluating research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project management for researching a selected topic",
+            "Self-directed learning and goal setting"
+        ]
+    }
+]

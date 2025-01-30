@@ -1,0 +1,70 @@
+[
+    {
+        "courseCode": "BMS 898",
+        "courseTitle": "Doctoral Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Supervised doctoral research.",
+        "Technical and Digital Skills": [
+            "Literature review analysis",
+            "Data collection methods",
+            "Research methodology design",
+            "Statistical analysis software proficiency",
+            "Qualitative data analysis tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration with research peers",
+            "Presentation skills for academic conferences",
+            "Networking with industry professionals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis formulation and testing",
+            "Data interpretation and visualization",
+            "Research question refinement",
+            "Research design optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research deadlines",
+            "Project management for multi-disciplinary research teams",
+            "Mentoring junior researchers",
+            "Grant proposal writing"
+        ]
+    },
+    {
+        "courseCode": "BMS 899",
+        "courseTitle": "Dissertation Research",
+        "academicLevel": "graduate",
+        "courseDescription": "Directed research for the doctoral dissertation.",
+        "Technical and Digital Skills": [
+            "Literature review analysis",
+            "Data collection methods",
+            "Statistical analysis software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with advisors",
+            "Effective communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Research design and methodology",
+            "Critical evaluation of sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Time management for dissertation completion"
+        ]
+    },
+    {
+        "courseCode": "BMS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination. All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status in doctoral program",
+            "Registration process for graduate credit hour"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

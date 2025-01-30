@@ -1,0 +1,3277 @@
+[
+    {
+        "courseTitle": "Preparatory Chemistry",
+        "courseCode": "CHEM 103",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introductory course designed to acquaint the student with the basic principles of chemistry.",
+        "Technical and Digital Skills": [
+            "Basic principles of chemistry understanding",
+            "Laboratory techniques",
+            "Chemical formula calculations",
+            "Safety protocols in a lab setting"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with lab partners",
+            "Effective communication of experimental results",
+            "Active listening during lectures",
+            "Asking clarifying questions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying chemical reactions",
+            "Troubleshooting experiment errors",
+            "Data analysis and interpretation",
+            "Applying mathematical concepts to chemical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for lab experiments",
+            "Group coordination for lab assignments",
+            "Taking initiative in group projects",
+            "Leading group discussions on course topics"
+        ]
+    },
+    {
+        "courseTitle": "Introductory Chemistry",
+        "courseCode": "CHEM 105N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the first part of a two-semester sequence of chemistry covering topics in general, organic, and biological chemistry.  In this part, an introduction to the principles of inorganic (general) chemistry is provided.  The topics to be covered include measurements, atoms and elements, compounds and their bonds, energy and matter, gases, solutions, acids and bases, chemical reactions and quantities, chemical equilibrium, and nuclear chemistry.  This course does not meet the prerequisite for CHEM 123N, and cannot be used toward the CHEM major or minor.  Students wishing to pursue advanced study in chemistry should take CHEM 121N, CHEM 122N, CHEM 123N, and CHEM 124N.  Credit for CHEM 105N is not allowed if a student has prior credit for CHEM 121N.  CHEM 105N + CHEM 106N satisfy four credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Understanding measurements in chemistry",
+            "Knowledge of atoms and elements",
+            "Understanding compounds and chemical bonds",
+            "Knowledge of energy and matter in chemical reactions",
+            "Understanding gases and solutions in chemistry",
+            "Knowledge of acids, bases, and chemical equilibrium",
+            "Familiarity with nuclear chemistry concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chemical reactions and quantities",
+            "Critical thinking in solving chemistry problems",
+            "Applying principles of chemistry to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory Chemistry Laboratory",
+        "courseCode": "CHEM 106N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to common laboratory techniques and the process of science is provided.  CHEM 105N + CHEM 106N satisfy four credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Scientific process understanding"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in laboratory settings",
+            "Clear communication of experimental results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data from experiments",
+            "Identifying sources of error in experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab materials and equipment",
+            "Leading group experiments"
+        ]
+    },
+    {
+        "courseTitle": "Introductory Organic and Biochemistry",
+        "courseCode": "CHEM 107N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the second part of a two-semester sequence of chemistry covering topics in general, organic, and biological chemistry.  In this part, an introduction to organic compounds and their role in biological systems is provided.  The topics to be covered include the structure, nomenclature, and reactivity of organic compounds, the structure and function of important biomolecules, and the chemistry of metabolic pathways.  This course does not meet the prerequisite for CHEM 211, and cannot be used toward the CHEM major or minor.  Students wishing to pursue advanced study in chemistry should take CHEM 121N, CHEM 122N, CHEM 123N, and CHEM 124N.  CHEM 107N + CHEM 108N satisfy four credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Understanding organic compound structure",
+            "Naming organic compounds",
+            "Reactivity of organic compounds",
+            "Chemistry of metabolic pathways"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing biomolecule structure and function",
+            "Evaluating reactivity of organic compounds",
+            "Identifying key components of metabolic pathways"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introductory Organic and Biochemistry Laboratory",
+        "courseCode": "CHEM 108N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory experiments involving organic compounds and biomolecules are performed.  CHEM 107N + CHEM 108N satisfy four credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Chemical compound identification techniques",
+            "Biomolecule analysis methods",
+            "Laboratory equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in laboratory settings",
+            "Effective communication of experimental results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting experimental data",
+            "Troubleshooting experimental procedures",
+            "Identifying sources of error in experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively in laboratory experiments",
+            "Leading group experiments",
+            "Organizing experimental data"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Chemistry I Laboratory for Online Degree Programs",
+        "courseCode": "CHEM 120",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, students perform laboratory experiments to complement the topics presented in the companion lecture course, CHEM 121N.  CHEM 121N + CHEM 120 does not satisfy the university's Nature of Science requirement. This is a distance learning course restricted to students in an online degree program.",
+        "Technical and Digital Skills": [
+            "Performing laboratory experiments",
+            "Utilizing scientific equipment",
+            "Data collection and analysis",
+            "Following experimental protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with lab partners remotely",
+            "Communicating experimental results clearly",
+            "Seeking clarification when needed"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental setups",
+            "Analyzing experimental data accurately",
+            "Identifying sources of error in experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively for lab assignments",
+            "Taking initiative in coordinating with lab partners",
+            "Following safety protocols diligently"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Chemistry I Lecture",
+        "courseCode": "CHEM 121N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This is the first of a two-course series, designed for science and engineering majors, that prepares the student for subsequent studies in molecular science and constitutes the foundation for all upper-level chemistry courses. Topics include the descriptive chemistry of selected elements, modern atomic and molecular structure, stoichiometry, thermochemistry, and gas laws. A student receiving credit for CHEM 121N cannot receive additional credit for CHEM 103 or CHEM 105N. CHEM 121N + CHEM 122N satisfy 4 credits of the University's Nature of Science general education requirement. Pre- or",
+        "Technical and Digital Skills": [
+            "Descriptive chemistry of selected elements",
+            "Modern atomic and molecular structure analysis",
+            "Stoichiometry calculations",
+            "Thermochemistry applications",
+            "Gas laws comprehension"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of chemical information",
+            "Problem-solving in chemistry concepts",
+            "Analytical thinking in chemical reactions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Foundations of Chemistry I Laboratory",
+        "courseCode": "CHEM 122N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory experiments are designed to complement the topics presented in the companion lecture course, CHEM 121N.  A student receiving credit for CHEM 122N cannot receive additional credit for CHEM 106N.  CHEM 121N + CHEM 122N satisfy 4 credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Performing laboratory experiments following protocols",
+            "Handling lab equipment safely",
+            "Recording and analyzing experimental data using software",
+            "Understanding chemical reactions and properties"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with lab partners effectively",
+            "Communicating experimental procedures and results clearly",
+            "Seeking help or clarification when needed"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying sources of experimental error",
+            "Troubleshooting equipment malfunctions",
+            "Analyzing data to draw conclusions about chemical reactions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time efficiently during lab sessions",
+            "Taking initiative in setting up experiments",
+            "Assuming leadership roles in group experiments when necessary"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Chemistry II Laboratory",
+        "courseCode": "CHEM 124N",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Laboratory experiments are designed to complement the topics in the companion lecture course, CHEM 123N.  CHEM 123N + CHEM 124N satisfy 4 credits of the University's Nature of Science general education requirement.",
+        "Technical and Digital Skills": [
+            "Chemical analysis techniques",
+            "Laboratory equipment operation",
+            "Data interpretation from experiments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative experiment planning",
+            "Effective data sharing with peers",
+            "Clear lab report writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying experimental variables",
+            "Error analysis in data",
+            "Troubleshooting equipment issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Lab group coordination",
+            "Time management for experiments",
+            "Leading experimental procedures"
+        ]
+    },
+    {
+        "courseTitle": "Foundations of Chemistry II Lab with Introduction to Chemical Research",
+        "courseCode": "CHEM 125",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to foundational laboratory skills and research in the chemical sciences. Students will gain experience in experimental design and chemical research through a rotation in a faculty member's research lab.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques in chemistry",
+            "Experimental design in chemical research",
+            "Chemical analysis methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of research findings",
+            "Collaboration in a research lab setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental issues",
+            "Data interpretation in chemical research",
+            "Critical analysis of research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in a research lab",
+            "Team coordination for research projects"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Chemistry and Biochemistry Research and Careers",
+        "courseCode": "CHEM 160G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to information literacy and research in chemistry and biochemistry in the context of future career success. Students will develop skills in searching, evaluating, and citing information required for research projects. Potential career paths and strategies for student success will be investigated to establish a solid platform for development as a chemist or biochemist. Course activities will include field trips to and guest speakers from local industry.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Research skills",
+            "Citation management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Networking with industry professionals",
+            "Collaborating on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Research project design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career path planning",
+            "Industry insight development"
+        ]
+    },
+    {
+        "courseTitle": "Nutritional Biochemistry",
+        "courseCode": "CHEM 173T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will explore the role biotechnology plays in understanding and advancing nutrition and the effects this has on human health, development and societies. The key biological molecules such as vitamins, amino acids, proteins, fats and carbohydrates and their nutritional functions will be discussed. Nutritional biochemistry as it relates to human development, medicine and the evolution of human species will be explored. Students will review present day nutritional issues such as popular diets, organic foods, farming practices and advances such as genetically modified foods.",
+        "Technical and Digital Skills": [
+            "Understanding of biotechnology in nutrition",
+            "Knowledge of key biological molecules (vitamins, amino acids, proteins, fats, carbohydrates)",
+            "Awareness of genetically modified foods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of nutritional concepts",
+            "Collaboration on research projects related to nutritional biochemistry"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of nutrition on human health and societies",
+            "Critical evaluation of present day nutritional issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in conducting nutritional research",
+            "Organizing data related to nutritional biochemistry"
+        ]
+    },
+    {
+        "courseTitle": "Neurotechnology",
+        "courseCode": "CHEM 175T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Neurotechnology is the technology used to understand (assessment neurotechnology) and moderate (intervention neurotechnology) brain chemistry with regards to various aspects of consciousness, thought, memory, perception, addiction and other higher order activities and disorders in the brain. From pharmaceutical drugs to brain scanning, the impact of neurotechnology affects nearly everyone either directly or indirectly - for example: drug use for depression, sleep, ADD, or neurotic behavior; cancer scanning; stroke rehabilitation; etc. This course will explore the basics of neurotechnology and its impact on human behavior and performance as well as broader impacts on society. Further, students will learn how neurotechnology is used to assess and intervene in the neurochemistry of the brain with a particular emphasis on addictive behavior and neurodegenerative disorders.",
+        "Technical and Digital Skills": [
+            "Brain scanning technology",
+            "Neurochemical assessment techniques",
+            "Understanding brain chemistry",
+            "Intervention neurotechnology applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex neurotechnology concepts to non-specialists",
+            "Collaborating with multidisciplinary teams in neurotechnology projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing neurotechnology data for patterns and insights",
+            "Developing interventions based on neurochemical assessments",
+            "Addressing addictive behavior and neurodegenerative disorders through neurotechnology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading neurotechnology research projects",
+            "Managing neurotechnology interventions in clinical settings"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics",
+        "courseCode": "CHEM 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Selected laboratory or lecture topics designed for students who need to supplement a transfer course to fulfill a course requirement.",
+        "Technical and Digital Skills": [
+            "Laboratory procedures",
+            "Data analysis techniques",
+            "Experimental design principles"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaborative teamwork in a lab setting"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Troubleshooting experimental errors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research projects",
+            "Delegating tasks in a team"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Research Experience in Chemistry and Biochemistry",
+        "courseCode": "CHEM 197",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques in chemistry and biochemistry",
+            "Data analysis using software tools",
+            "Instrumentation operation and maintenance",
+            "Experimental design and execution"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with research team members",
+            "Presenting research findings",
+            "Clear and concise written communication of results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental problems",
+            "Data interpretation and analysis",
+            "Experimental design optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research project timelines",
+            "Leading a research team towards project goals",
+            "Adapting to changing research priorities"
+        ]
+    },
+    {
+        "courseTitle": "Organic Chemistry I Lecture",
+        "courseCode": "CHEM 211",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Introduction to organic compounds, isomerism and nomenclature, stereochemistry and conformational analysis, in depth mechanistic understanding of proton transfer reactions, substitution and elimination reactions, and addition to C=C bonds.",
+        "Technical and Digital Skills": [
+            "Understanding organic compounds",
+            "Isomerism identification",
+            "Nomenclature rules application",
+            "Stereochemistry analysis",
+            "Conformational analysis techniques",
+            "Mechanistic understanding of proton transfer reactions",
+            "Substitution and elimination reactions comprehension",
+            "Addition to C=C bonds mechanisms"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of reaction mechanisms",
+            "Identification of key reaction pathways",
+            "Problem-solving in organic synthesis scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Organic Chemistry I Laboratory",
+        "courseCode": "CHEM 212",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experience is offered in fundamental laboratory techniques applicable to the characterization, separation and purification of various organic compounds including stereoisomers and introduction to organic reactions.",
+        "Technical and Digital Skills": [
+            "Characterization of organic compounds",
+            "Separation techniques for organic compounds",
+            "Purification methods for organic compounds",
+            "Identification of stereoisomers",
+            "Introduction to organic reactions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of experimental results",
+            "Troubleshooting in laboratory settings",
+            "Experimental design for organic compound analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Organic Chemistry II Lecture",
+        "courseCode": "CHEM 213",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Chemistry of carbon compounds with in-depth treatments of reaction mechanisms, modern spectral techniques, and new synthetic methods to meet the needs of chemistry and biochemistry majors.",
+        "Technical and Digital Skills": [
+            "Understanding reaction mechanisms",
+            "Utilizing modern spectral techniques",
+            "Applying new synthetic methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chemical reactions",
+            "Identifying organic compounds",
+            "Evaluating synthetic methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Organic Chemistry II Laboratory",
+        "courseCode": "CHEM 214",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experience is offered in synthetic,  separation, and analytical methods of organic chemistry.  Modern synthetic and spectroscopic techniques are introduced.",
+        "Technical and Digital Skills": [
+            "Synthetic methods in organic chemistry",
+            "Separation techniques in organic chemistry",
+            "Analytical methods in organic chemistry",
+            "Spectroscopic techniques in organic chemistry"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of synthetic methods",
+            "Problem-solving in separation techniques",
+            "Analytical reasoning in spectroscopic techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Organic Chemistry Laboratory",
+        "courseCode": "CHEM 216",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Experience is offered in advanced organic reactions and spectroscopic techniques. In addition, students will carry out a short, customized, research project in Organic Chemistry or Organic Materials.",
+        "Technical and Digital Skills": [
+            "Advanced organic reactions knowledge",
+            "Spectroscopic techniques expertise",
+            "Research project execution in Organic Chemistry or Organic Materials",
+            "Laboratory equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in research projects",
+            "Effective communication of experimental findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental issues",
+            "Data analysis and interpretation in organic reactions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution in a laboratory setting",
+            "Team coordination for research projects"
+        ]
+    },
+    {
+        "courseTitle": "Analytical Chemistry Lecture",
+        "courseCode": "CHEM 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the fundamental principles of quantitative chemical analysis including the application of principles of equilibria to analytical processes.  Emphasis is given to gravimetric and titrimetric methods as well as consideration of electrical, optical, and other methods of chemical analysis.",
+        "Technical and Digital Skills": [
+            "Quantitative chemical analysis techniques",
+            "Gravimetric analysis methods",
+            "Titrimetric analysis methods",
+            "Electrochemical analysis methods",
+            "Optical analysis methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Application of equilibria principles to analytical processes",
+            "Critical data interpretation",
+            "Experimental error analysis",
+            "Method validation and verification"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Analytical Chemistry Laboratory",
+        "courseCode": "CHEM 322",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Statistical principles or measurements and error analysis are integrated with experiments designed to evaluate and refine techniques of fundamental measurements to a level of analytical competency.  These techniques are applied to the analysis of samples using gravimetric, titrimetric, electrical and optical methods.",
+        "Technical and Digital Skills": [
+            "Gravimetric analysis techniques",
+            "Titrimetric analysis techniques",
+            "Electrical analysis methods",
+            "Optical analysis methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Error analysis",
+            "Critical evaluation of experimental results",
+            "Measurement refinement techniques"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Physical Chemistry Lecture I",
+        "courseCode": "CHEM 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Quantum chemistry, molecular structure, and spectroscopy.",
+        "Technical and Digital Skills": [
+            "Quantum chemistry calculations",
+            "Molecular structure analysis",
+            "Spectroscopy data interpretation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Quantum mechanics problem-solving",
+            "Spectroscopy data analysis",
+            "Molecular structure prediction"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Experimental Physical Chemistry I",
+        "courseCode": "CHEM 332W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory class focusing on a variety of physical chemical techniques. Topics may include electronic, vibrational (Raman) and NMR spectroscopies, calorimetry, viscosity, and atomic force microscopy. This is a writing intensive course, aiming to achieve an in-depth understanding of the physical principles underlying the techniques.",
+        "Technical and Digital Skills": [
+            "Electronic spectroscopy techniques",
+            "Vibrational (Raman) spectroscopy",
+            "NMR spectroscopy",
+            "Calorimetry",
+            "Viscosity measurement",
+            "Atomic force microscopy",
+            "Data analysis of experimental results"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective written communication of experimental procedures and results",
+            "Collaboration with lab partners for experiments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental setups",
+            "Interpreting complex spectroscopic data",
+            "Identifying sources of error in measurements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab time efficiently",
+            "Leading a group in experimental procedures"
+        ]
+    },
+    {
+        "courseTitle": "Physical Chemistry Lecture II",
+        "courseCode": "CHEM 333",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Chemical thermodynamics of pure substances and solutions, chemical equilibrium, electrochemistry, chemical kinetics, and statistical thermodynamics.",
+        "Technical and Digital Skills": [
+            "Chemical thermodynamics calculations",
+            "Electrochemical analysis techniques",
+            "Statistical thermodynamics modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex scientific concepts",
+            "Collaborating on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chemical equilibrium systems",
+            "Solving kinetics rate equations",
+            "Interpreting thermodynamic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions on course material",
+            "Organizing research experiments efficiently"
+        ]
+    },
+    {
+        "courseTitle": "Experimental Physical Chemistry II",
+        "courseCode": "CHEM 334W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A laboratory class focusing on a variety of physical chemical techniques. Topics may include X-Ray Diffraction, Bomb Calorimetry, Thermal Gravimetric Analysis (TGA), Conductance of Solutions, and Polymer Physical Properties. This course may also include a team project that will incorporate many of the techniques learned in the physical chemistry lab sequence.  This project will introduce the students to working as a team to address a specific challenge such as one might encounter in an industrial or government laboratory setting.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "X-Ray Diffraction techniques",
+            "Bomb Calorimetry analysis",
+            "Thermal Gravimetric Analysis (TGA)",
+            "Conductance measurement methods",
+            "Polymer physical properties testing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Team project collaboration",
+            "Technical report writing",
+            "Presentation of experimental findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimental data interpretation",
+            "Troubleshooting equipment issues",
+            "Identifying sources of error in experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for team projects",
+            "Delegating tasks within a team",
+            "Meeting deadlines for lab reports"
+        ]
+    },
+    {
+        "courseTitle": "The Chemistry of the Environment",
+        "courseCode": "CHEM 339T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This class explores the impact of chemical technologies on current environmental topics using basic chemical principles and the scientific method as standards for evaluating and understanding pressing environmental issues. Topics include global and ocean warming, air pollution, atmospheric ozone depletion, effects of enhanced UV light, acid rain and ocean acidification, toxic heavy metals, radioactivity and nuclear power plant disasters, indoor air quality and radon, water pollution, sewage and water treatment, drinking water quality, waste disposal and plastics, pesticides, and the food chain. The course will use math to a modest degree including basic Algebra. It is highly recommended that students have passed a college level algebra math class (e.g., MATH 102M or MATH 103M or higher) and one year of high school chemistry.",
+        "Technical and Digital Skills": [
+            "Basic chemical principles application",
+            "Scientific method application in environmental analysis",
+            "Mathematical modeling for environmental issues",
+            "Algebraic calculations for environmental parameters"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting environmental research findings",
+            "Collaborating on environmental projects",
+            "Communicating scientific concepts to non-experts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing environmental data",
+            "Identifying chemical solutions to environmental problems",
+            "Evaluating the impact of chemical technologies on the environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading environmental research projects",
+            "Organizing environmental data effectively",
+            "Managing group discussions on environmental topics"
+        ]
+    },
+    {
+        "courseTitle": "Science and Technology in Art",
+        "courseCode": "CHEM 343T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This combined lecture and lab course will explore the chemical and physical properties of artists’ materials from pigments and binders to ceramics. Topics will include the nature of light and color, historical origins and development of pigments and artistic methods, synthesis of dyes and pigments, and the application of technology to art historical analysis. The course will include hands-on experience with modern laboratory equipment and field trips to local museums and conservation labs.",
+        "Technical and Digital Skills": [
+            "Chemical analysis of materials",
+            "Synthesis of dyes and pigments",
+            "Handling modern laboratory equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration during lab experiments",
+            "Presenting findings from field trips"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical properties of artists' materials",
+            "Troubleshooting equipment issues during experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating field trips to museums and conservation labs",
+            "Leading group projects in the lab"
+        ]
+    },
+    {
+        "courseTitle": "Inorganic Chemistry",
+        "courseCode": "CHEM 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This foundational course provides an introduction to inorganic chemistry.  Topics include periodic law, bonding theory, oxidation/reduction, acid/base theory, descriptive chemistry of the main group, an introduction to transition metal coordination chemistry, and human applications of inorganic chemistry.",
+        "Technical and Digital Skills": [
+            "Understanding periodic law",
+            "Applying bonding theory",
+            "Knowledge of oxidation/reduction reactions",
+            "Acid/base theory proficiency",
+            "Transition metal coordination chemistry basics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing descriptive chemistry of main group elements",
+            "Problem-solving in human applications of inorganic chemistry"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Inorganic Chemistry Laboratory",
+        "courseCode": "CHEM 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Synthesis of metal and nonmetal inorganic compounds and organometallic compounds, their characterization by physical methods, and a study of their properties.",
+        "Technical and Digital Skills": [
+            "Synthesis of inorganic compounds",
+            "Characterization using physical methods",
+            "Handling organometallic compounds",
+            "Lab equipment operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective lab communication",
+            "Collaboration with lab partners",
+            "Presenting experimental findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing properties of compounds",
+            "Troubleshooting experimental issues",
+            "Interpreting characterization results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab resources efficiently",
+            "Leading lab experiments",
+            "Creating detailed experimental plans"
+        ]
+    },
+    {
+        "courseTitle": "Undergraduate Teaching Experience",
+        "courseCode": "CHEM 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Teaching experience in a chemistry classroom or laboratory setting under the direct supervision of the course instructor.  Available for Pass/Fail grading only.",
+        "Technical and Digital Skills": [
+            "Chemistry knowledge",
+            "Lab equipment operation",
+            "Data collection techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective classroom communication",
+            "Student engagement strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental procedures",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Classroom management",
+            "Lesson planning and implementation"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "CHEM 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "May be repeated for credit.  Student participation for credit is based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.  Available for pass/fail grading only.  (qualifies as a CAP experience)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Chemistry Practicum",
+        "courseCode": "CHEM 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A student may choose a coop, internship, research, or student teaching experience to gain out-of-class experience related to the major.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Chemical analysis methods",
+            "Data interpretation using software tools",
+            "Experimental design"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with team members",
+            "Presenting research findings",
+            "Clear and concise writing for lab reports"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying unknown substances",
+            "Troubleshooting experimental errors",
+            "Critical analysis of experimental results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab resources efficiently",
+            "Leading group experiments",
+            "Time management for multiple research projects"
+        ]
+    },
+    {
+        "courseTitle": "Natural Products Chemistry in the Caribbean",
+        "courseCode": "CHEM 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A bioinorganic and natural products course that entails the chemistry of the use of chromium, vanadium, and herbs in medicine and the use of tunicates as biomonitors of heavy metal pollution in Jamaica. This is a study abroad course intended for the Maymester term.",
+        "Technical and Digital Skills": [
+            "Chemical analysis of chromium and vanadium",
+            "Herbal medicine chemistry",
+            "Biomonitoring using tunicates",
+            "Laboratory techniques in natural products chemistry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in field research settings",
+            "Presenting research findings to diverse audiences",
+            "Networking with local experts in Jamaica"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying heavy metal pollution sources",
+            "Designing experiments for bioinorganic studies",
+            "Analyzing data from natural products research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating study abroad logistics",
+            "Leading fieldwork activities in Jamaica",
+            "Managing research team dynamics during the Maymester term"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Organic Chemistry",
+        "courseCode": "CHEM 415/515",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An in-depth look at organic reaction mechanisms, including polar, pericyclic, radical and organometallic reactions.",
+        "Technical and Digital Skills": [
+            "Understanding organic reaction mechanisms",
+            "Knowledge of polar reactions",
+            "Pericyclic reaction comprehension",
+            "Radical reaction understanding",
+            "Knowledge of organometallic reactions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reaction mechanisms",
+            "Identifying reaction pathways",
+            "Problem-solving in complex organic reactions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Instrumental Analysis Lecture",
+        "courseCode": "CHEM 421/521",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Designed to be taken concurrently with CHEM 422/CHEM 522.  A study of the basic principles of spectroscopic, chromatographic, and electrochemical methods of quantitative chemical analysis.  Methods of chemical instrumentation are also included.",
+        "Technical and Digital Skills": [
+            "Spectroscopic analysis techniques",
+            "Chromatographic methods",
+            "Electrochemical analysis skills",
+            "Quantitative chemical analysis methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instrument data",
+            "Troubleshooting instrumentation issues",
+            "Data interpretation and analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Instrumental Analysis Laboratory",
+        "courseCode": "CHEM 422/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive laboratory study of the principles of analytical chemistry.  Experiments in spectroscopic, chromatographic, and electrochemical methods are conducted to illustrate fundamental principles and to provide the opportunity to develop skills in the use of instrumentation for chemical measurement.",
+        "Technical and Digital Skills": [
+            "Spectroscopic analysis",
+            "Chromatographic techniques",
+            "Electrochemical methods",
+            "Instrument operation and maintenance"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chemical data",
+            "Troubleshooting instrument issues",
+            "Experimental design for chemical measurement"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Introduction to Pharmaceutical Chemistry",
+        "courseCode": "CHEM 439/539",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the fundamental concepts of drug action including pharmacodynamics (effect of drugs on the body) and pharmacokinetics (ADME: absorption, distribution, metabolism and elimination) of drugs; an introduction to the process of new drug discovery and synthesis will also be taught.",
+        "Technical and Digital Skills": [
+            "Pharmacodynamics",
+            "Pharmacokinetics",
+            "Drug action mechanisms",
+            "New drug discovery process",
+            "Chemical synthesis techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of drug effects",
+            "Evaluation of drug metabolism pathways",
+            "Identification of drug elimination mechanisms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Biochemistry Lecture",
+        "courseCode": "CHEM 441/541",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a one-semester survey of the major molecular constituents, bioenergetics, enzymes, nucleic acid structure, and genetic information transfer pathways fundamental to biochemistry.",
+        "Technical and Digital Skills": [
+            "Understanding molecular constituents",
+            "Bioenergetics principles",
+            "Enzyme kinetics analysis",
+            "Structure of nucleic acids",
+            "Genetic information transfer pathways"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of biochemistry concepts",
+            "Problem-solving in enzyme mechanisms",
+            "Analytical thinking in genetic information transfer"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Biochemistry Laboratory",
+        "courseCode": "CHEM 442W/542",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Principles and techniques of biochemical and immunological procedures involving protein characterization and isolation, enzymology, bioinformatics, and common molecular biology techniques for nucleic acids will be presented. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Protein characterization techniques",
+            "Enzymology procedures",
+            "Bioinformatics analysis",
+            "Molecular biology techniques for nucleic acids",
+            "Writing intensive skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of experimental results",
+            "Troubleshooting biochemical procedures",
+            "Data interpretation in biochemistry",
+            "Experimental design for biochemical research"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Intermediate Biochemistry",
+        "courseCode": "CHEM 443/543",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course presents and in-depth study of protein structure, folding, and synthesis.  The major metabolic pathways will be studied in detail regarding thermodynamics and mechanism of regulation or control of individual enzymes and entire metabolic pathways.  Concepts of metabolic disease will be introduced and effects on integrated metabolism will be presented.",
+        "Technical and Digital Skills": [
+            "Protein structure analysis",
+            "Enzyme kinetics calculations",
+            "Metabolic pathway modeling and simulation"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of metabolic pathways",
+            "Identification of regulatory mechanisms in metabolism",
+            "Problem-solving in metabolic disease scenarios"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Environmental Chemistry",
+        "courseCode": "CHEM 449/549",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An overview of the natural chemical systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.",
+        "Technical and Digital Skills": [
+            "Understanding chemical systems in the atmosphere, terrestrial environments, and oceans",
+            "Analyzing the chemistry of the ozone layer and greenhouse effect",
+            "Chemical weathering of rocks",
+            "Metal complexation processes",
+            "Biological processes in soil and water",
+            "Global-scale chemical processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting scientific findings to diverse audiences",
+            "Collaborating with multidisciplinary teams on environmental projects",
+            "Communicating complex chemical concepts in layman's terms"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying potential impacts of human activities on natural chemical systems",
+            "Conducting data analysis on environmental samples",
+            "Evaluating the effects of chemical processes on ecosystems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and coordinating fieldwork for environmental research",
+            "Leading environmental impact assessments",
+            "Managing research projects related to environmental chemistry"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Inorganic Chemistry",
+        "courseCode": "CHEM 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Theoretical aspects of modern inorganic chemistry:  bonding theories, stereochemistry, acid-base theories, coordination compounds, organometallic and bioinorganic compounds.",
+        "Technical and Digital Skills": [
+            "Understanding bonding theories",
+            "Applying stereochemistry principles",
+            "Knowledge of acid-base theories",
+            "Analyzing coordination compounds",
+            "Working with organometallic compounds",
+            "Understanding bioinorganic compounds"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of bonding structures",
+            "Problem-solving in stereochemical configurations",
+            "Analytical thinking in acid-base reactions",
+            "Troubleshooting coordination compound reactions",
+            "Critical evaluation of organometallic compound properties",
+            "Analyzing bioinorganic compound structures"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Inorganic Chemistry Laboratory",
+        "courseCode": "CHEM 452/552",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Synthesis of metal and nonmetal inorganic compounds and organometallic  compounds, their characterization by modern physical methods, and a study of their properties.",
+        "Technical and Digital Skills": [
+            "Synthesis of inorganic compounds",
+            "Characterization using modern physical methods",
+            "Organometallic compound synthesis",
+            "Understanding properties of inorganic compounds"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing compound properties",
+            "Troubleshooting experimental procedures",
+            "Interpreting characterization data",
+            "Identifying reaction mechanisms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Essentials of Toxicology",
+        "courseCode": "CHEM 453/553",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Fundamental principles of toxicology: dose-response relationship, toxicologic testing, chemical and biological factors influencing toxicity, organ toxicology, carcinogenesis, mutagenesis, teratogenesis.",
+        "Technical and Digital Skills": [
+            "Understanding dose-response relationship",
+            "Interpreting toxicologic testing results",
+            "Knowledge of chemical and biological factors influencing toxicity",
+            "Identifying organ-specific toxicology effects",
+            "Understanding carcinogenesis, mutagenesis, teratogenesis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of toxicology data",
+            "Analyzing toxicological outcomes",
+            "Identifying patterns in toxicity data",
+            "Interpreting complex toxicological information"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Frontiers in Nanoscience and Nanotechnology",
+        "courseCode": "CHEM 460/560",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Nanotechnology presents unparalleled opportunities for advances in technology and medicine.  Simultaneously, nanotechnology presents new challenges to organisms and to our environment.  These undefined risk factors threaten to slow the development of new technologies and novel medical therapies.  This course will review: structure, synthesis and properties of key nanomaterials; key applications of nanomaterials in technology and medicine; and impacts of nanomaterials on plant and animal physiology and the environment more generally.  This course will be team-taught by faculty members in Biological Sciences, Chemistry and Biochemistry, and Engineering.",
+        "Technical and Digital Skills": [
+            "Understanding nanomaterial structure and synthesis",
+            "Characterization techniques for nanomaterial properties",
+            "Knowledge of key applications in nanotechnology and medicine",
+            "Awareness of nanomaterial impacts on plant and animal physiology and the environment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty members from different disciplines (Biological Sciences, Chemistry, Biochemistry, Engineering)",
+            "Effective communication of complex scientific concepts to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of nanomaterial information",
+            "Analyzing the potential risks and benefits of nanotechnology advancements",
+            "Identifying solutions to challenges in nanotechnology development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating interdisciplinary team-teaching efforts",
+            "Taking initiative in exploring new research directions in nanoscience and nanotechnology"
+        ]
+    },
+    {
+        "courseTitle": "Research Methods in Mathematics and Science",
+        "courseCode": "CHEM 468",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Emphasizes the tools and techniques used to solve scientific problems.  Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results. Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems. Required for Chemistry teaching licensure track; not available as upper-division elective in content area.",
+        "Technical and Digital Skills": [
+            "Experimental design",
+            "Statistical analysis",
+            "Mathematical modeling",
+            "Data interpretation",
+            "Scientific presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective oral communication of scientific results",
+            "Clear and concise scientific writing",
+            "Collaboration in interdisciplinary teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of experimental results",
+            "Integration of mathematics and science to solve research problems",
+            "Identification of research gaps and opportunities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for independent inquiries",
+            "Team coordination for research projects",
+            "Time management for multiple research tasks"
+        ]
+    },
+    {
+        "courseTitle": "Chemistry and Biochemistry Seminar",
+        "courseCode": "CHEM 485",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The formal presentation of a chemical or biochemical topic before students and faculty.  Students will also take Major Field Test during this course.",
+        "Technical and Digital Skills": [
+            "Chemical analysis techniques",
+            "Biochemical assay methods",
+            "Major Field Test preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective public speaking",
+            "Research presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of chemical/biochemical data",
+            "Experimental design for research projects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for seminar topics",
+            "Leading group discussions in chemistry/biochemistry"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis I",
+        "courseCode": "CHEM 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Part one of a two-semester thesis project involving literature research, development of scientific writing skills, and obtaining lab experience using a variety of techniques and equipment.  Each student will undertake a research experience under the supervision of a departmental faculty member.  A preliminary report of research findings is required at the end of the semester.",
+        "Technical and Digital Skills": [
+            "Literature research techniques",
+            "Scientific writing skills",
+            "Lab experience with various equipment"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with departmental faculty",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research information",
+            "Research methodology design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Supervision under faculty guidance"
+        ]
+    },
+    {
+        "courseTitle": "Entrepreneurship in Chemistry and Biochemistry",
+        "courseCode": "CHEM 494",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A high level of economic activity and development for any industrialized nation has at its core a strong STEM component. Within this component, the fields of chemistry and biochemistry form one of the strongest inter-disciplinary links by providing an understanding of the processes and products at a molecular level. This course will allow students to combine their academic knowledge in chemistry and biochemistry with the needs of real-world businesses to formulate an economically viable business plan that encompasses a scientifically and economically sound proof-of-concept.",
+        "Technical and Digital Skills": [
+            "Chemical process optimization",
+            "Product development in biochemistry",
+            "Market research for chemical products",
+            "Financial modeling for scientific ventures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Pitching scientific ideas to investors",
+            "Negotiating partnerships with industry stakeholders",
+            "Networking within the scientific community"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying market gaps for chemical innovations",
+            "Analyzing scientific data for business decisions",
+            "Developing innovative solutions to scientific challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading cross-functional scientific teams",
+            "Project management for scientific ventures",
+            "Strategic planning for scientific business growth"
+        ]
+    },
+    {
+        "courseTitle": "Selected Topics",
+        "courseCode": "CHEM 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "CHEM 497",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An opportunity is afforded students to undertake independent study or an original investigation under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review skills",
+            "Data collection techniques",
+            "Experimental design knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty mentor",
+            "Presentation of research findings",
+            "Active listening skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research design",
+            "Data interpretation and analysis",
+            "Identifying research gaps",
+            "Developing hypotheses"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Initiative in research planning",
+            "Self-motivation and self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "CHEM 498",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An opportunity is afforded students to undertake independent study or an original investigation under the direction of a faculty member.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review skills",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with faculty",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research",
+            "Designing research experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for independent study",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis II",
+        "courseCode": "CHEM 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Continuation of CHEM 490.  The research culminates in a thesis that includes a literature review, description of methods, results and conclusions, and an oral presentation.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Research methods description",
+            "Data analysis techniques",
+            "Oral presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation delivery",
+            "Clear communication of research findings",
+            "Team collaboration for thesis completion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Data interpretation and synthesis",
+            "Identifying research gaps and proposing solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for thesis completion",
+            "Leading research discussions",
+            "Time management for meeting thesis deadlines"
+        ]
+    },
+    {
+        "courseCode": "CHEM 515",
+        "courseTitle": "Intermediate Organic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An in-depth look at organic reaction mechanisms, including polar, pericyclic, radical and organometallic reactions.",
+        "Technical and Digital Skills": [
+            "Understanding organic reaction mechanisms",
+            "Knowledge of polar reactions",
+            "Knowledge of pericyclic reactions",
+            "Knowledge of radical reactions",
+            "Knowledge of organometallic reactions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reaction mechanisms",
+            "Identifying reaction intermediates",
+            "Evaluating reaction pathways"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 521",
+        "courseTitle": "Instrumental Analysis Lecture",
+        "academicLevel": "graduate",
+        "courseDescription": "Designed to be taken concurrently with CHEM 522.  A study of the basic principles of spectroscopic, chromatographic, and electrochemical methods of quantitative chemical analysis.  Methods of chemical instrumentation are also included.",
+        "Technical and Digital Skills": [
+            "Spectroscopic methods proficiency",
+            "Chromatographic techniques mastery",
+            "Electrochemical analysis expertise",
+            "Quantitative chemical analysis skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of analytical results",
+            "Collaboration on instrumentation projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of instrumental data",
+            "Troubleshooting instrumentation issues",
+            "Interpretation of analytical results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for instrument analysis tasks",
+            "Team coordination in laboratory settings"
+        ]
+    },
+    {
+        "courseCode": "CHEM 522",
+        "courseTitle": "Instrumental Analysis Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive laboratory study of the principles of analytical chemistry.  Experiments in spectroscopic, chromatographic, and electrochemical methods are conducted to illustrate fundamental principles and to provide the opportunity to develop skills in the use of instrumentation for chemical measurement.",
+        "Technical and Digital Skills": [
+            "Spectroscopic methods",
+            "Chromatographic methods",
+            "Electrochemical methods",
+            "Instrumentation utilization for chemical measurement"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Experimental design",
+            "Data analysis for chemical measurements",
+            "Troubleshooting instrumentation issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 539",
+        "courseTitle": "Introduction to Pharmaceutical Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to the fundamental concepts of drug action including pharmacodynamics (effect of drugs on the body) and pharmacokinetics (ADME: absorption, distribution, metabolism and elimination) of drugs; an introduction to the process of new drug discovery and synthesis will also be taught.",
+        "Technical and Digital Skills": [
+            "Pharmacodynamics",
+            "Pharmacokinetics",
+            "Drug discovery process",
+            "Drug synthesis techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of drug action",
+            "Understanding ADME processes",
+            "Problem-solving in drug discovery"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 541",
+        "courseTitle": "Biochemistry Lecture",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a one-semester survey of the major molecular constituents, bioenergetics, enzymes, nucleic acid structure, and genetic information transfer pathways fundamental to biochemistry.",
+        "Technical and Digital Skills": [
+            "Understanding major molecular constituents",
+            "Bioenergetics analysis",
+            "Enzyme kinetics calculations",
+            "Nucleic acid structure determination",
+            "Genetic information transfer pathways analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of biochemical concepts",
+            "Collaboration on biochemistry research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing complex biochemical data",
+            "Identifying key factors in bioenergetics processes",
+            "Solving enzyme kinetics problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading biochemistry group discussions",
+            "Organizing biochemistry study sessions"
+        ]
+    },
+    {
+        "courseCode": "CHEM 542",
+        "courseTitle": "Biochemistry Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Principles and techniques of biochemical and immunological procedures involving protein characterization and isolation, enzymology, bioinformatics, and common molecular biology techniques for nucleic acids will be presented. (This is a writing intensive course.)",
+        "Technical and Digital Skills": [
+            "Protein characterization techniques",
+            "Enzymology procedures",
+            "Bioinformatics tools and software",
+            "Molecular biology techniques for nucleic acids"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective scientific writing for biochemical procedures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing protein structures and functions",
+            "Evaluating results from biochemical experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing biochemical experiments",
+            "Leading a biochemistry laboratory team"
+        ]
+    },
+    {
+        "courseCode": "CHEM 543",
+        "courseTitle": "Intermediate Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents and in-depth study of protein structure, folding, and synthesis.  The major metabolic pathways will be studied in detail regarding thermodynamics and mechanism of regulation or control of individual enzymes and entire metabolic pathways.  Concepts of metabolic disease will be introduced and effects on integrated metabolism will  be presented.",
+        "Technical and Digital Skills": [
+            "Protein structure analysis",
+            "Metabolic pathway analysis",
+            "Enzyme regulation mechanisms",
+            "Metabolic disease concepts"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Thermodynamics analysis",
+            "Critical evaluation of metabolic pathways",
+            "Identifying regulatory mechanisms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 549",
+        "courseTitle": "Environmental Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of the natural chemical systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.",
+        "Technical and Digital Skills": [
+            "Understanding chemical systems in the atmosphere, water, and soil",
+            "Knowledge of ozone layer and greenhouse effect chemistry",
+            "Chemical weathering of rocks",
+            "Metal complexation processes",
+            "Biological processes in soil and water",
+            "Global-scale chemical processes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of environmental chemistry concepts to diverse audiences",
+            "Collaboration with experts in related fields such as ecology and geology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of human activities on natural chemical systems",
+            "Identifying potential solutions to mitigate environmental harm caused by chemical processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on environmental chemistry topics",
+            "Organizing and coordinating research projects related to environmental impact assessment"
+        ]
+    },
+    {
+        "courseCode": "CHEM 551",
+        "courseTitle": "Advanced Inorganic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Theoretical aspects of modern inorganic chemistry:  bonding theories, stereochemistry, acid-base theories, coordination compounds, organometallic and bioinorganic compounds.",
+        "Technical and Digital Skills": [
+            "Understanding bonding theories",
+            "Applying stereochemistry principles",
+            "Analyzing acid-base theories",
+            "Knowledge of coordination compounds",
+            "Familiarity with organometallic compounds",
+            "Understanding bioinorganic compounds"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of bonding theories",
+            "Analytical problem-solving in stereochemistry",
+            "Identifying acid-base reactions",
+            "Problem-solving in coordination chemistry",
+            "Analyzing organometallic compound reactivity",
+            "Analyzing biological applications of inorganic chemistry"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 552",
+        "courseTitle": "Advanced Inorganic Chemistry Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced topics in inorganic synthesis.",
+        "Technical and Digital Skills": [
+            "Advanced inorganic synthesis techniques",
+            "Handling specialized lab equipment",
+            "Utilizing spectroscopic methods for characterization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating with lab partners on experiments",
+            "Presenting findings to peers and instructors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental procedures",
+            "Interpreting complex data from experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing time effectively during lab sessions",
+            "Leading group discussions during experiments"
+        ]
+    },
+    {
+        "courseCode": "CHEM 553",
+        "courseTitle": "Essentials of Toxicology",
+        "academicLevel": "graduate",
+        "courseDescription": "Fundamental principles of toxicology: dose-response relationship, toxicologic testing, chemical and biological factors influencing toxicity, organ toxicology, carcinogenesis, mutagenesis, teratogenesis.",
+        "Technical and Digital Skills": [
+            "Understanding dose-response relationships",
+            "Interpreting toxicologic testing results",
+            "Knowledge of chemical and biological factors influencing toxicity",
+            "Identifying organ-specific toxicology effects",
+            "Recognizing carcinogenesis, mutagenesis, and teratogenesis pathways"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining toxicological concepts to non-experts",
+            "Collaborating with multidisciplinary teams for toxicity assessments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing toxicological data for risk assessment",
+            "Interpreting complex toxicology reports",
+            "Identifying potential toxicological hazards in different scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading toxicology research projects",
+            "Coordinating toxicology studies with external partners"
+        ]
+    },
+    {
+        "courseCode": "CHEM 560",
+        "courseTitle": "Frontiers in Nanoscience and Nanotechnology",
+        "academicLevel": "graduate",
+        "courseDescription": "Nanotechnology presents unparalleled opportunities for advances in technology and medicine.  Simultaneously, nanotechnology presents new challenges to organisms and to our environment.  These undefined risk factors threaten to slow the development of new technologies and novel medical therapies.  This course will review: structure, synthesis and properties of key nanomaterials; key applications of nanomaterials in technology and medicine; and impacts of nanomaterials on plant and animal physiology and the environment more generally.  This course will be team-taught by faculty members in Biological Sciences, Chemistry and Biochemistry, and Engineering.",
+        "Technical and Digital Skills": [
+            "Understanding nanomaterial structure",
+            "Nanomaterial synthesis techniques",
+            "Characterization of nanomaterial properties",
+            "Applications of nanomaterials in technology and medicine",
+            "Assessment of nanomaterial impacts on plant and animal physiology",
+            "Knowledge of environmental impacts of nanomaterials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration with faculty members from different disciplines",
+            "Clear communication of complex scientific concepts to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of nanomaterial research findings",
+            "Problem-solving in assessing risks and benefits of nanotechnology advancements",
+            "Analytical skills in interpreting data on nanomaterial properties and impacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of interdisciplinary team efforts in teaching and learning",
+            "Leadership in promoting responsible use of nanotechnology for societal benefit"
+        ]
+    },
+    {
+        "courseCode": "CHEM 595",
+        "courseTitle": "Selected Topics",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis techniques",
+            "Literature review methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Collaboration in group projects",
+            "Peer feedback giving and receiving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification and resolution",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Team coordination"
+        ]
+    },
+    {
+        "courseCode": "CHEM 669",
+        "courseTitle": "In-Service Practicum",
+        "academicLevel": "graduate",
+        "courseDescription": "6 credits; 50 hours per credit.  One semester of work experience in local hospital, forensic, or industrial laboratory.  Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Lab equipment operation",
+            "Data collection techniques",
+            "Quality control procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team collaboration",
+            "Professional reporting",
+            "Client interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting laboratory processes",
+            "Data interpretation",
+            "Identifying anomalies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing project timelines",
+            "Supervising junior staff",
+            "Prioritizing tasks"
+        ]
+    },
+    {
+        "courseCode": "CHEM 670",
+        "courseTitle": "Graduate Orientation",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to graduate studies in chemistry.  Topics include responsible conduct of research (RCR), grant writing skills, oral presentation of chemical research and methods for searching the chemical literature.  Attendance at departmental seminars is required.  Limited to first-year chemistry doctoral students.",
+        "Technical and Digital Skills": [
+            "Grant writing skills",
+            "Chemical literature search methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Attendance at departmental seminars"
+        ]
+    },
+    {
+        "courseCode": "CHEM 685",
+        "courseTitle": "Frontiers in Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Topics representing the most recent advances in various fields of chemistry or ones which represent an interdisciplinary advancement.",
+        "Technical and Digital Skills": [
+            "Advanced spectroscopy techniques",
+            "Quantum chemistry simulations",
+            "Chemical informatics tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research across disciplines",
+            "Presenting complex scientific concepts to non-experts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integrating data from multiple sources",
+            "Critical evaluation of cutting-edge research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading interdisciplinary research teams",
+            "Strategic planning for innovative chemical projects"
+        ]
+    },
+    {
+        "courseCode": "CHEM 695",
+        "courseTitle": "Topics in Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of selected topics in chemistry.",
+        "Technical and Digital Skills": [
+            "Chemical analysis techniques",
+            "Laboratory equipment operation",
+            "Data interpretation from experiments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in lab settings",
+            "Effective scientific communication with peers and instructors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex chemical data",
+            "Identifying trends in experimental results",
+            "Troubleshooting experimental procedures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Lab group coordination",
+            "Project planning for experiments"
+        ]
+    },
+    {
+        "courseCode": "CHEM 698",
+        "courseTitle": "Master’s Research",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": [
+            "Literature review methodology",
+            "Research design and methodology",
+            "Data collection and analysis techniques",
+            "Statistical analysis software proficiency",
+            "Experimental design and implementation",
+            "Research ethics and compliance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Clear and concise scientific writing",
+            "Collaborative research skills",
+            "Peer review process understanding",
+            "Effective communication with stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research",
+            "Hypothesis formulation and testing",
+            "Data interpretation and visualization",
+            "Identifying research gaps",
+            "Troubleshooting research challenges"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Time management for research tasks",
+            "Mentoring junior researchers",
+            "Collaboration facilitation in research teams",
+            "Leading research discussions and debates"
+        ]
+    },
+    {
+        "courseCode": "CHEM 699",
+        "courseTitle": "Master’s Thesis",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": [
+            "Literature review and synthesis",
+            "Research methodology selection",
+            "Data collection and analysis",
+            "Software tools proficiency for data analysis (e.g., SPSS, R)",
+            "Statistical modeling",
+            "Experimental design",
+            "Data visualization techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective academic writing",
+            "Presentation of research findings",
+            "Peer review feedback incorporation",
+            "Collaboration with advisors and committee members",
+            "Professional networking for research dissemination"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research question formulation",
+            "Hypothesis development and testing",
+            "Critical thinking and evaluation of research literature",
+            "Identification of research gaps",
+            "Development of research frameworks and models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research milestones",
+            "Project planning and execution",
+            "Team coordination for research projects",
+            "Conflict resolution in research teams",
+            "Decision-making in research methodologies"
+        ]
+    },
+    {
+        "courseCode": "CHEM 701",
+        "courseTitle": "Advanced Analytical Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "The theoretical and practical foundation of analysis with emphasis on recent analytical developments and current literature; topics may include figures of merit and data treatment, sampling and extraction, HPLC, electrochemistry, circular dichroism, FT-IR, Raman, MS, electrophoresis and NMR.  Lectures are given by experts in those techniques.",
+        "Technical and Digital Skills": [
+            "High-Performance Liquid Chromatography (HPLC)",
+            "Electrochemistry",
+            "Circular Dichroism",
+            "Fourier Transform Infrared Spectroscopy (FT-IR)",
+            "Raman Spectroscopy",
+            "Mass Spectrometry (MS)",
+            "Electrophoresis",
+            "Nuclear Magnetic Resonance (NMR)"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data treatment and analysis",
+            "Critical evaluation of analytical data",
+            "Troubleshooting analytical instruments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 702",
+        "courseTitle": "Advanced Analytical Chemistry II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will review the most cutting-edge advanced analytical chemistry instrumentation and methods, spanning three core areas of analytical chemistry (spectroscopy, separation, and electrochemistry) and offering an in-depth understanding of objectives, motivations, and future directions. The course will focus on advanced instrumentation and methodologies that can achieve ultra-sensitive analysis and detection, including single molecular spectroscopy, nanoparticle probes, high-speed separation in microfluidic devices, and ultramicroelectrodes for sensing and imaging.",
+        "Technical and Digital Skills": [
+            "Operation of advanced analytical chemistry instrumentation",
+            "Single molecular spectroscopy techniques",
+            "Nanoparticle probe utilization",
+            "Microfluidic device operation for high-speed separation",
+            "Ultramicroelectrode handling for sensing and imaging"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of analytical data",
+            "Troubleshooting instrumentation issues",
+            "Optimization of analytical methods for ultra-sensitive analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 703",
+        "courseTitle": "Chromatographic Separations by HPLC and GC",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers basic principles of  chromatography emphasizing high performance liquid chromatography (HPLC) and gas chromatography (GC), as well as separation modes, instrumentation, detection methods, quantification, and sample preparation including solid phase extraction.  Examples from environmental sciences, biosciences and industry will be stressed.",
+        "Technical and Digital Skills": [
+            "Chromatographic techniques (HPLC, GC)",
+            "Instrumentation operation",
+            "Quantification methods",
+            "Sample preparation techniques (solid phase extraction)",
+            "Detection methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing chromatographic data",
+            "Troubleshooting instrument issues",
+            "Optimizing separation conditions"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 704",
+        "courseTitle": "HPLC and GC Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "This lab course consists of six to seven independent HPLC and GC exercises based on examples from environmental, bioscience, and industrial applications.",
+        "Technical and Digital Skills": [
+            "HPLC operation",
+            "GC operation",
+            "Sample preparation techniques",
+            "Data analysis using chromatography software"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting chromatography equipment",
+            "Interpreting chromatograms",
+            "Identifying peaks in chromatograms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 715",
+        "courseTitle": "Automation and Management of the Clinical Chemistry Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "The basic principles of management of the clinical chemistry laboratory and regulatory issues in laboratory management are presented.",
+        "Technical and Digital Skills": [
+            "Laboratory automation systems management",
+            "Quality control software utilization",
+            "Data analysis tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective team communication in laboratory settings",
+            "Collaboration with regulatory bodies for compliance"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting laboratory automation issues",
+            "Data interpretation for decision-making in laboratory management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Resource allocation in laboratory operations",
+            "Implementing regulatory changes in laboratory protocols"
+        ]
+    },
+    {
+        "courseCode": "CHEM 716",
+        "courseTitle": "Electrochemical Methods of Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course presents the fundamental principals and practical applications of modern electrochemical methods of analysis. Lectures and text readings cover the basic concepts and fundamental principals of this division of analytical techniques.  Detailed descriptions and demonstrations of modern electrochemical research instrumentation will be provided.  Students will obtain hands-on experience with this instrumentation by performing a required chemical determination using an electroanalytical method, and by undertaking a special analytical project.  Research applications of other electroanalytical techniques and instrumentation, in addition to those actually used by the students in this course, will be discussed and/or demonstrated.",
+        "Technical and Digital Skills": [
+            "Understanding electrochemical techniques",
+            "Operating electrochemical research instrumentation",
+            "Performing chemical determinations using electroanalytical methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborating on analytical projects",
+            "Presenting findings from electrochemical analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing data from electrochemical experiments",
+            "Troubleshooting instrumentation issues",
+            "Developing research applications of electroanalytical techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing analytical projects",
+            "Coordinating research activities with team members"
+        ]
+    },
+    {
+        "courseCode": "CHEM 720",
+        "courseTitle": "Experimental Design and Data Treatment",
+        "academicLevel": "graduate",
+        "courseDescription": "A hands-on approach to experimental design and multivariate data analysis.  Modern computer-based chemometric theories will be presented.",
+        "Technical and Digital Skills": [
+            "Experimental design techniques",
+            "Multivariate data analysis",
+            "Computer-based chemometric theories"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in experimental design",
+            "Data interpretation and analysis",
+            "Identifying patterns in data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 723",
+        "courseTitle": "Modern Synthetic Organic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the design of complex organic molecules and natural products. Topics covered will include: retrosynthetic analysis; stereochemical control; application of fundamental organic reactions to develop synthetic strategies; implementation of protecting groups in organic synthesis; construction of carbocyclic and heterocyclic ring systems, organometallic coupling reactions, and contemporary methods.",
+        "Technical and Digital Skills": [
+            "Retrosynthetic analysis",
+            "Stereochemical control",
+            "Fundamental organic reactions",
+            "Protecting groups in organic synthesis",
+            "Carbocyclic and heterocyclic ring systems construction",
+            "Organometallic coupling reactions",
+            "Contemporary synthetic methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Synthetic strategies development",
+            "Critical evaluation of synthetic pathways",
+            "Problem-solving in complex molecule design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 724",
+        "courseTitle": "Bioinorganic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of the mechanisms of biochemical activity of the trace elements.  Topics include oxygen uptake, oxidation-reduction, metabolism, and toxicity.",
+        "Technical and Digital Skills": [
+            "Understanding biochemical mechanisms of trace elements",
+            "Knowledge of oxygen uptake process",
+            "Familiarity with oxidation-reduction reactions in biological systems"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing metabolism pathways of trace elements",
+            "Identifying potential toxicity mechanisms in biological systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 725",
+        "courseTitle": "Physical Organic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Approaches to the study of reaction mechanisms, including molecular orbital theory, thermochemistry, kinetics, isotop effects, solvent and substituent effects (including linear free energy relationships), acidity, acid catalysis, and detection of reactive intermediates.",
+        "Technical and Digital Skills": [
+            "Understanding molecular orbital theory",
+            "Thermochemistry calculations",
+            "Kinetics analysis",
+            "Isotope effects interpretation",
+            "Linear free energy relationship application",
+            "Acid-base reaction analysis",
+            "Detection of reactive intermediates"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of reaction mechanisms",
+            "Problem-solving in reaction pathways",
+            "Analyzing solvent and substituent effects",
+            "Identifying key factors in acidity and acid catalysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 726",
+        "courseTitle": "Medicinal Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the chemistry and mode of action of various medicinal and physiologically active compounds.",
+        "Technical and Digital Skills": [
+            "Chemical structure analysis",
+            "Drug synthesis techniques",
+            "Pharmacological data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with research teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Structure-activity relationship analysis",
+            "Drug target identification",
+            "Bioassay interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in drug discovery",
+            "Team coordination in research projects"
+        ]
+    },
+    {
+        "courseCode": "CHEM 728",
+        "courseTitle": "Organic Reactions",
+        "academicLevel": "graduate",
+        "courseDescription": "A comprehensive evaluation of modern organic transformations with emphasis on the fundamentals of each reaction, their utility and applications.  Topics covered will include: nomenclature, classes of compounds, functional group exchanges (oxidation and reduction reactions), bond forming reactions (carbon-carbon, carbon-oxygen, and carbon-nitrogen), introduction to protecting groups, and reaction control by steric, electronic and topological considerations.",
+        "Technical and Digital Skills": [
+            "Understanding of organic reaction mechanisms",
+            "Knowledge of nomenclature in organic chemistry",
+            "Application of oxidation and reduction reactions",
+            "Execution of bond forming reactions",
+            "Utilization of protecting groups in reactions",
+            "Control of reactions based on steric, electronic, and topological factors"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of reaction outcomes",
+            "Identification of optimal reaction conditions",
+            "Troubleshooting reaction failures",
+            "Interpretation of complex reaction mechanisms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 734",
+        "courseTitle": "Organic Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "Organic functional group and structure analysis with ultraviolet, infrared, nuclear magnetic resonance, mass, and other spectroscopic techniques.",
+        "Technical and Digital Skills": [
+            "Interpreting ultraviolet, infrared, nuclear magnetic resonance, and mass spectra",
+            "Analyzing organic functional groups",
+            "Utilizing spectroscopic techniques for structure analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying unknown compounds through spectroscopic data",
+            "Troubleshooting spectral data inconsistencies",
+            "Evaluating spectral peaks for compound characterization"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 736",
+        "courseTitle": "Introduction to Organic Synthesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Detailed coverage of fundamental organic transformations with emphasis on reduction, oxidation, carbon-carbon bond formation, and protecting group strategy.",
+        "Technical and Digital Skills": [
+            "Understanding of reduction reactions",
+            "Knowledge of oxidation reactions",
+            "Ability to perform carbon-carbon bond formation",
+            "Implementing protecting group strategies"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reaction mechanisms",
+            "Evaluating reaction outcomes",
+            "Troubleshooting synthesis challenges"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 738",
+        "courseTitle": "Organometallics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines important transformations of organotransition-metal species. There is an emphasis on basic mechanism, structure-reactivity relationships, and applications in organic synthesis with applications of organotransition-metal catalysis towards industrial applications.",
+        "Technical and Digital Skills": [
+            "Understanding organotransition-metal species transformations",
+            "Mechanism analysis in organometallic reactions",
+            "Structure-reactivity relationships in organometallic chemistry",
+            "Utilizing organotransition-metal catalysis in organic synthesis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing industrial applications of organotransition-metal catalysis",
+            "Evaluating the effectiveness of organometallic reactions in organic synthesis",
+            "Identifying key factors influencing reactivity in organometallic chemistry"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 740",
+        "courseTitle": "Coordination and Transition Metal Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is based on the coordination and transition metal chemistry of first row, second row, and third row transition metals.",
+        "Technical and Digital Skills": [
+            "Understanding coordination chemistry",
+            "Knowledge of transition metal complexes",
+            "Spectroscopic techniques in metal chemistry"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying metal-ligand bonding interactions",
+            "Interpreting spectroscopic data in metal complexes",
+            "Solving coordination isomerism problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 742",
+        "courseTitle": "Advanced Mass Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course trains students in the theory and application of advanced mass spectrometric methods as used in all subdisciplines of chemistry and biochemistry.",
+        "Technical and Digital Skills": [
+            "Advanced mass spectrometric methods application",
+            "Chemical and biochemical analysis techniques",
+            "Data interpretation and analysis in mass spectrometry"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of mass spectrometric data",
+            "Identification of chemical compounds using mass spectrometry",
+            "Troubleshooting mass spectrometry instrumentation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 743",
+        "courseTitle": "Organic Geochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Organic geochemistry is the study of organic compounds originally produced by photosynthesis and altered as they cycle through the soils, atmosphere, rivers, oceans, and crustal rocks.  This course will include the carbon/oxygen cycles, biomarkers, organic matter diagenesis/catagenesis, analytical techniques used in organic geochemistry, and an introduction to carbon isotopes.",
+        "Technical and Digital Skills": [
+            "Analytical techniques in organic geochemistry",
+            "Carbon isotopes analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of biomarkers",
+            "Diagenesis/catagenesis analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 744",
+        "courseTitle": "NMR Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "NMR is a highly specific spectroscopic technique. It can probe the individual atoms in molecules via a limitless array of distinct experiments tailored to nearly every need. While NMR experiments can contain up to several hundred magnetic pulses, the effect of the pulses and therefore the utility of each experiment can be understood via a primarily visual approach. This course offers a visual-based approach to discuss spectrometer hardware, basic NMR theory, and a series of one, two and three-dimensional NMR experiments, with applications to small molecules, proteins, nucleic acids and their interactions.",
+        "Technical and Digital Skills": [
+            "Understanding NMR spectrometer hardware",
+            "Executing one, two, and three-dimensional NMR experiments",
+            "Interpreting magnetic pulses in NMR experiments"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing NMR data",
+            "Identifying atoms in molecules using NMR spectra",
+            "Troubleshooting NMR experiment results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 747",
+        "courseTitle": "Medical Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the applied biochemistry associated with human biological systems. Topics to be covered include the hormonal control of metabolism, vitamins, minerals, diagnostic tests; the biochemistry of the digestive system; connective tissue and bone; the immune system; the urinary system; and the nervous systems, among others. Exams involve answering United States Medical Licensing Exam type questions in some instances. Medical biochemistry case studies are presented and discussed in class that relate to the biochemical basis of disease to enhance the learning experience. Students will also write a research paper and give an in-class presentation on selected topics.",
+        "Technical and Digital Skills": [
+            "Understanding hormonal control of metabolism",
+            "Analysis of diagnostic tests",
+            "Biochemical basis of disease",
+            "Research paper writing",
+            "In-class presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of medical biochemistry concepts",
+            "Engaging in case study discussions",
+            "Collaborating on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of medical biochemistry case studies",
+            "Analyzing biochemical processes in human biological systems",
+            "Identifying connections between biochemistry and disease"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on selected topics",
+            "Organizing research paper content",
+            "Managing time effectively for exams and presentations"
+        ]
+    },
+    {
+        "courseCode": "CHEM 748",
+        "courseTitle": "Environmental Chemistry Laboratory",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the basic principles and methods of trace chemical analysis of environmental systems, including spectroscopic, chromatographic, and electrochemical instrumental methods, in addition to wet chemical methods.",
+        "Technical and Digital Skills": [
+            "Trace chemical analysis",
+            "Spectroscopic methods",
+            "Chromatographic methods",
+            "Electrochemical instrumental methods",
+            "Wet chemical methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Experimental design",
+            "Troubleshooting analytical instruments"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 749",
+        "courseTitle": "Environmental Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of the natural chemistry systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them.  Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.",
+        "Technical and Digital Skills": [
+            "Understanding natural chemistry systems",
+            "Chemical analysis techniques",
+            "Environmental monitoring methods",
+            "Data interpretation and analysis in environmental contexts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of environmental issues",
+            "Collaboration with multidisciplinary teams on environmental projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of chemical processes in environmental systems",
+            "Problem-solving in assessing human impact on natural systems",
+            "Analyzing global-scale chemical processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in environmental research",
+            "Leadership in implementing sustainable practices",
+            "Organization of data for environmental studies"
+        ]
+    },
+    {
+        "courseCode": "CHEM 754",
+        "courseTitle": "Quantum Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the development and application of quantum mechanics from a chemical perspective.",
+        "Technical and Digital Skills": [
+            "Quantum mechanics application in chemistry",
+            "Computational chemistry software proficiency",
+            "Molecular modelling software knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex scientific concepts",
+            "Collaborative research in quantum chemistry projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Quantum mechanics problem-solving",
+            "Data interpretation in quantum chemistry experiments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in quantum chemistry research",
+            "Team coordination for experimental setups"
+        ]
+    },
+    {
+        "courseCode": "CHEM 755",
+        "courseTitle": "Computational Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Comprehensive overview of ab initio (quantum) calculations and molecular dynamic simulations, the two most widely used computational methods.  Plus a brief overview of other computational applications in chemistry and biology.",
+        "Technical and Digital Skills": [
+            "Ab initio quantum calculations",
+            "Molecular dynamic simulations",
+            "Computational applications in chemistry and biology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of computational results",
+            "Optimization of computational algorithms"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 756",
+        "courseTitle": "Inorganic Reaction Mechanisms",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of the major mechanisms of inorganic and organometallic chemistry.  Topics include kinetics, ligand substitution, electron transfer, and photochemistry.",
+        "Technical and Digital Skills": [
+            "Understanding inorganic reaction mechanisms",
+            "Knowledge of kinetics",
+            "Ligand substitution techniques",
+            "Electron transfer processes",
+            "Photochemical reactions"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reaction pathways",
+            "Identifying reaction intermediates",
+            "Predicting reaction outcomes based on mechanism"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 758",
+        "courseTitle": "Atmospheric Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory survey of atmospheric chemistry and physics. Topics to be covered include atmospheric composition, atmospheric pressure, simple models, atmospheric transport, geochemical cycles, the greenhouse effect, aerosols, stratospheric ozone, the oxidizing power of the troposphere, ozone air pollution, satellite orbits, and radiative transfer. The course will also provide a survey of satellite remote sensing. It will conclude with the basics of satellite remote sensing, including a brief survey of satellite instruments.",
+        "Technical and Digital Skills": [
+            "Understanding atmospheric composition",
+            "Knowledge of atmospheric pressure",
+            "Utilizing simple models for analysis",
+            "Understanding geochemical cycles",
+            "Familiarity with greenhouse effect and aerosols",
+            "Knowledge of satellite remote sensing basics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex scientific concepts",
+            "Collaboration on atmospheric research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing atmospheric transport patterns",
+            "Identifying relationships in geochemical cycles",
+            "Evaluating the impact of stratospheric ozone depletion",
+            "Problem-solving for tropospheric ozone air pollution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading atmospheric research teams",
+            "Organizing satellite remote sensing data for analysis"
+        ]
+    },
+    {
+        "courseCode": "CHEM 760",
+        "courseTitle": "Molecular Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory survey of the rotational, vibrational and electronic spectroscopy of molecules from the perspective of quantum mechanics and group theory.",
+        "Technical and Digital Skills": [
+            "Understanding rotational, vibrational, and electronic spectroscopy",
+            "Applying quantum mechanics to spectroscopic analysis",
+            "Utilizing group theory in molecular spectroscopy"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing molecular spectra",
+            "Interpreting spectroscopic data",
+            "Applying quantum principles to solve spectroscopic problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 763",
+        "courseTitle": "Mechanisms of Sensing and Signal Transduction",
+        "academicLevel": "graduate",
+        "courseDescription": "Living organisms must sense and respond to changes in their environment, which requires perceiving extracellular stimuli and converting this information into tangible changes to intracellular function. Sensory and metabolic pathways must integrate stimuli from multiple signals to coordinate cell-wide or organism-wide responses, and signal transduction pathways must be considered in the context of the networks they comprise. Signal transduction networks are the very definition of ‘wholes’ that are greater and more complex than the sums of their parts. This course will have a dual focus on mechanisms of signal transduction, with an emphasis on macromolecular structure, and on network modeling.",
+        "Technical and Digital Skills": [
+            "Understanding macromolecular structure",
+            "Signal transduction pathway analysis",
+            "Network modeling",
+            "Integrating stimuli from multiple signals"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of signal transduction mechanisms",
+            "Systems thinking in network analysis",
+            "Coordinating cell-wide responses"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 765",
+        "courseTitle": "Advanced Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover macromolecular structure, function, thermodynamic stability and folding kinetics; protein chemistry; molecular biology; and molecular mechanisms of disease and bioinformatics.",
+        "Technical and Digital Skills": [
+            "Macromolecular structure analysis",
+            "Protein chemistry techniques",
+            "Bioinformatics tools utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective scientific presentation skills",
+            "Collaboration in molecular research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thermodynamic stability analysis",
+            "Folding kinetics interpretation",
+            "Molecular mechanisms of disease investigation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in molecular biology research",
+            "Leading bioinformatics data analysis teams"
+        ]
+    },
+    {
+        "courseCode": "CHEM 769",
+        "courseTitle": "Nucleic Acids Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "A comprehensive presentation of the chemistry of RNA and DNA, including modern concepts of gene regulation, the control over transcription, RNA processing and translation, cell cycle control and molecular carcinogenesis.",
+        "Technical and Digital Skills": [
+            "Understanding the chemistry of RNA and DNA",
+            "Knowledge of gene regulation mechanisms",
+            "RNA processing and translation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex biochemical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of molecular processes",
+            "Interpretation of gene control mechanisms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ability to lead discussions on molecular carcinogenesis"
+        ]
+    },
+    {
+        "courseCode": "CHEM 775",
+        "courseTitle": "Physical Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the physical characterization of macromolecules, polarized light, absorption and fluorescence, sedimentation and transport hydrodynamics, electrophoretic mobility, light scattering, and structural x-ray crystallography of proteins and nucleic acids.",
+        "Technical and Digital Skills": [
+            "Physical characterization of macromolecules",
+            "Polarized light analysis",
+            "Absorption and fluorescence techniques",
+            "Sedimentation and transport hydrodynamics knowledge",
+            "Electrophoretic mobility understanding",
+            "Light scattering methods",
+            "Structural x-ray crystallography proficiency"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing macromolecular structures",
+            "Interpreting polarized light data",
+            "Troubleshooting absorption and fluorescence experiments",
+            "Solving sedimentation and transport hydrodynamics problems",
+            "Problem-solving in electrophoretic mobility experiments",
+            "Analyzing light scattering results",
+            "Interpreting structural x-ray crystallography data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 779",
+        "courseTitle": "Kinetics and Thermodynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of modern theories of reaction rates and mechanisms, classic  thermodynamic functions, and an introduction to statistical thermodynamics.",
+        "Technical and Digital Skills": [
+            "Understanding reaction rates and mechanisms",
+            "Analyzing thermodynamic functions",
+            "Applying statistical thermodynamics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of reaction mechanisms",
+            "Quantitative analysis of thermodynamic data",
+            "Problem-solving in statistical thermodynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 781",
+        "courseTitle": "Protein Bioinformatics and Functional Genomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn cutting-edge bioinformatics and genomics approaches to gain an in depth understanding of genetic and protein evolution as it relates to genetic mutation and adaption and to protein structure, folding and function. The theory and computational skills needed to analyze protein, DNA and non-coding RNA sequences as well as protein structures will be taught and applied. Comparative genomics studies will be conducted, focusing on current topics such as viral outbreaks where students will elucidate functional variations leading to enhanced virulence in isolates during a pandemic such as Zika.",
+        "Technical and Digital Skills": [
+            "Bioinformatics analysis",
+            "Genomics approaches",
+            "Protein structure analysis",
+            "DNA sequence analysis",
+            "Non-coding RNA sequence analysis",
+            "Comparative genomics studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of bioinformatics findings",
+            "Collaboration in genomics research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of genetic mutations",
+            "Analysis of protein evolution",
+            "Functional variation elucidation in viral outbreaks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in bioinformatics research",
+            "Team coordination for genomics studies"
+        ]
+    },
+    {
+        "courseCode": "CHEM 790",
+        "courseTitle": "Master's Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Master's students attend seminars given by researchers from across the country in order to expose them to additional areas of research in chemistry and biochemistry.",
+        "Technical and Digital Skills": [
+            "Chemistry research techniques",
+            "Biochemistry analysis methods",
+            "Data interpretation in research presentations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective seminar participation",
+            "Engaging with researchers",
+            "Asking insightful questions during seminars"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Identifying gaps in current research",
+            "Developing research hypotheses based on seminar content"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating seminar schedules",
+            "Leading discussions on research topics",
+            "Facilitating collaboration among students"
+        ]
+    },
+    {
+        "courseCode": "CHEM 791",
+        "courseTitle": "Master's Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Master's students attend seminars, attend a class on giving seminars, and present a seminar on their own research.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Literature review skills",
+            "Data analysis techniques",
+            "Presentation software proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective public speaking",
+            "Constructive feedback delivery",
+            "Engaging audience interaction"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking in research",
+            "Data interpretation",
+            "Identifying research gaps"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research",
+            "Time management for seminar preparation",
+            "Peer mentorship in seminar presentations"
+        ]
+    },
+    {
+        "courseCode": "CHEM 795",
+        "courseTitle": "Selected Topics in Chemistry and Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Thorough coverage of areas selected to meet special needs and interests.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Instrumentation operation",
+            "Data analysis using software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in experimental design",
+            "Presentation of research findings to peers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex data sets",
+            "Troubleshooting experimental procedures",
+            "Experimental design optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research project timelines",
+            "Coordinating team efforts in the lab"
+        ]
+    },
+    {
+        "courseCode": "CHEM 802",
+        "courseTitle": "Advanced Analytical Chemistry II",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will review the most cutting-edge advanced analytical chemistry instrumentation and methods, spanning three core areas of analytical chemistry (spectroscopy, separation, and electrochemistry) and offering an in-depth understanding of objectives, motivations, and future directions. The course will focus on advanced instrumentation and methodologies that can achieve ultra-sensitive analysis and detection, including single molecular spectroscopy, nanoparticle probes, high-speed separation in microfluidic devices, and ultramicroelectrodes for sensing and imaging.",
+        "Technical and Digital Skills": [
+            "Operational knowledge of cutting-edge analytical chemistry instrumentation",
+            "Utilization of single molecular spectroscopy techniques",
+            "Proficiency in nanoparticle probes application",
+            "Experience in high-speed separation using microfluidic devices",
+            "Ability to work with ultramicroelectrodes for sensing and imaging"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of analytical methods",
+            "Troubleshooting advanced instrumentation issues",
+            "Data interpretation and analysis for ultra-sensitive detection methods"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 823",
+        "courseTitle": "Modern Synthetic Organic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the design of complex organic molecules and natural products. Topics covered will include: retrosynthetic analysis; stereochemical control; application of fundamental organic reactions to develop synthetic strategies; implementation of protecting groups in organic synthesis; construction of carbocyclic and heterocyclic ring systems, organometallic coupling reactions, and contemporary methods",
+        "Technical and Digital Skills": [
+            "Retrosynthetic analysis",
+            "Stereochemical control",
+            "Fundamental organic reactions",
+            "Protecting groups in organic synthesis",
+            "Construction of carbocyclic and heterocyclic ring systems",
+            "Organometallic coupling reactions",
+            "Contemporary synthetic methods"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Synthetic strategy development",
+            "Analysis of complex organic molecules",
+            "Application of organic reactions in synthesis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 824",
+        "courseTitle": "Bioinorganic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of the mechanisms of biochemical activity of the trace elements.  Topics include oxygen uptake, oxidation-reduction, metabolism, and toxicity.",
+        "Technical and Digital Skills": [
+            "Understanding mechanisms of biochemical activity of trace elements",
+            "Knowledge of oxygen uptake processes",
+            "Understanding of oxidation-reduction reactions in biological systems",
+            "Metabolism analysis in a biochemical context",
+            "Toxicity assessment of trace elements"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing biochemical data",
+            "Identifying key factors in biochemical processes",
+            "Evaluating biological mechanisms",
+            "Solving complex biochemical problems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 825",
+        "courseTitle": "Physical Organic Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Approaches to the study of reaction mechanisms, including molecular orbital theory, thermochemistry, kinetics, isotop effects, solvent and substituent effects (including linear free energy relationships), acidity, acid catalysis, and detection of reactive intermediates.",
+        "Technical and Digital Skills": [
+            "Molecular orbital theory application",
+            "Thermochemistry calculations",
+            "Kinetics analysis",
+            "Isotop effects interpretation",
+            "Linear free energy relationships understanding",
+            "Acidity determination",
+            "Detection of reactive intermediates techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of reaction mechanisms",
+            "Problem-solving in reaction pathways",
+            "Analytical thinking in studying substituent effects"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 826",
+        "courseTitle": "Medicinal Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the chemistry and mode of action of various medicinal and physiologically active compounds.",
+        "Technical and Digital Skills": [
+            "Chemical structure analysis",
+            "Drug synthesis techniques",
+            "Pharmacophore modeling",
+            "Spectroscopic analysis of compounds"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with research team",
+            "Presentation of research findings to peers and stakeholders"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting structure-activity relationships",
+            "Identifying potential drug targets",
+            "Analyzing biological pathways affected by compounds"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Coordinating experimental procedures",
+            "Leading discussions on research strategies"
+        ]
+    },
+    {
+        "courseCode": "CHEM 828",
+        "courseTitle": "Organic Reactions",
+        "academicLevel": "graduate",
+        "courseDescription": "A comprehensive evaluation of modern organic transformations with emphasis on the fundamentals of each reaction, their utility and applications. Topics covered will include: nomenclature, classes of compounds, functional group exchanges (oxidation and reduction reactions), bond forming reactions (carbon-carbon, carbon-oxygen, and carbon-nitrogen), introduction to protecting groups, and reaction control by steric, electronic and topological considerations",
+        "Technical and Digital Skills": [
+            "Understanding of organic chemistry principles",
+            "Knowledge of chemical nomenclature",
+            "Ability to perform oxidation and reduction reactions",
+            "Skills in carbon-carbon, carbon-oxygen, and carbon-nitrogen bond formation",
+            "Proficiency in utilizing protecting groups",
+            "Control of reactions based on steric, electronic, and topological factors"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of reaction mechanisms",
+            "Troubleshooting reaction outcomes",
+            "Identifying optimal reaction conditions based on chemical properties"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 834",
+        "courseTitle": "Organic Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "Organic functional group and structure analysis with ultraviolet, infrared, nuclear magnetic resonance, mass, and other spectroscopic techniques.",
+        "Technical and Digital Skills": [
+            "Interpreting ultraviolet spectra",
+            "Analyzing infrared spectra",
+            "Understanding nuclear magnetic resonance spectroscopy",
+            "Interpreting mass spectra",
+            "Utilizing spectroscopic techniques for structure analysis"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying functional groups in organic compounds",
+            "Analyzing complex spectral data",
+            "Troubleshooting spectroscopic data",
+            "Interpreting spectroscopic results"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 836",
+        "courseTitle": "Introduction to Organic Synthesis",
+        "academicLevel": "graduate",
+        "courseDescription": "Detailed coverage of fundamental organic transformations with emphasis on reduction, oxidation, carbon-carbon bond formation, and protecting group strategy.",
+        "Technical and Digital Skills": [
+            "Understanding of reduction reactions",
+            "Knowledge of oxidation reactions",
+            "Ability to perform carbon-carbon bond formation",
+            "Proficiency in protecting group strategy"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Identifying optimal reaction conditions",
+            "Troubleshooting reaction mechanisms",
+            "Analyzing the efficiency of transformations"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 838",
+        "courseTitle": "Organometallics",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines important transformations of organotransition-metal species. There is an emphasis on basic mechanism, structure-reactivity relationships, and applications in organic synthesis with applications of organotransition-metal catalysis towards industrial applications.",
+        "Technical and Digital Skills": [
+            "Understanding organotransition-metal species transformations",
+            "Mechanism analysis",
+            "Structure-reactivity relationships in organometallic compounds",
+            "Utilizing organotransition-metal catalysis in organic synthesis",
+            "Application of organometallic chemistry in industrial settings"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of organometallic reactions",
+            "Identifying key reaction mechanisms",
+            "Troubleshooting in organometallic synthesis",
+            "Analyzing structure-activity relationships in catalysts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 840",
+        "courseTitle": "Coordination and Transition Metal Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the coordination and transition metal chemistry of first row, second row, and third row transition metals.",
+        "Technical and Digital Skills": [
+            "Understanding of coordination chemistry",
+            "Knowledge of transition metal properties",
+            "Utilizing spectroscopic techniques for metal analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration in laboratory settings",
+            "Communicating complex chemical concepts to non-experts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying coordination isomers",
+            "Analyzing ligand exchange reactions",
+            "Interpreting spectroscopic data for metal complexes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing laboratory experiments efficiently",
+            "Leading group discussions on metal coordination chemistry"
+        ]
+    },
+    {
+        "courseCode": "CHEM 842",
+        "courseTitle": "Advanced Mass Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course trains students in the theory and application of advanced mass spectrometric methods as used in all subdisciplines of chemistry and biochemistry.",
+        "Technical and Digital Skills": [
+            "Advanced mass spectrometry methods application",
+            "Chemical and biochemical analysis techniques",
+            "Data interpretation and analysis in mass spectrometry"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of mass spectrometry data",
+            "Collaboration with research team members for data interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of unknown compounds using mass spectrometry data",
+            "Optimization of mass spectrometry methods for specific applications",
+            "Troubleshooting mass spectrometry instrumentation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for mass spectrometry experiments",
+            "Leading a research team in mass spectrometry data analysis"
+        ]
+    },
+    {
+        "courseCode": "CHEM 844",
+        "courseTitle": "NMR Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "NMR is a highly specific spectroscopic technique. It can probe the individual atoms in molecules via a limitless array of distinct experiments tailored to nearly every need. While NMR experiments can contain up to several hundred magnetic pulses, the effect of the pulses and therefore the utility of each experiment can be understood via a primarily visual approach. This course offers a visual-based approach to discuss spectrometer hardware, basic NMR theory, and a series of one, two and three-dimensional NMR experiments, with applications to small molecules, proteins, nucleic acids and their interactions.",
+        "Technical and Digital Skills": [
+            "Understanding NMR spectrometer hardware",
+            "Interpreting NMR experimental data",
+            "Implementing one, two, and three-dimensional NMR experiments",
+            "Visual-based analysis of NMR data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex NMR concepts to others",
+            "Collaborating with peers on NMR experiments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of magnetic pulses on NMR experiments",
+            "Troubleshooting NMR experimental issues",
+            "Interpreting NMR results for different types of molecules"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading NMR experiment planning and execution",
+            "Organizing NMR experimental data effectively"
+        ]
+    },
+    {
+        "courseCode": "CHEM 847",
+        "courseTitle": "Medical Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course focuses on the applied biochemistry associated with human biological systems. Topics to be covered include the hormonal control of metabolism, vitamins, minerals, diagnostic tests; the biochemistry of the digestive system; connective tissue and bone; the immune system; the urinary system; and the nervous systems, among others. Exams involve answering United States Medical Licensing Exam type questions in some instances. Medical biochemistry case studies are presented and discussed in class that relate to the biochemical basis of disease to enhance the learning experience. Students will also write a research paper and give an in-class presentation on selected topics.",
+        "Technical and Digital Skills": [
+            "Understanding hormonal control of metabolism",
+            "Knowledge of vitamins and minerals",
+            "Familiarity with diagnostic tests",
+            "Understanding the biochemistry of the digestive system",
+            "Knowledge of connective tissue and bone biochemistry",
+            "Understanding the biochemistry of the immune system",
+            "Knowledge of urinary system biochemistry",
+            "Understanding the biochemistry of the nervous system",
+            "Ability to answer United States Medical Licensing Exam type questions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting medical biochemistry case studies",
+            "Participating in class discussions on the biochemical basis of disease",
+            "Writing a research paper on medical biochemistry",
+            "Delivering an in-class presentation on selected topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing medical biochemistry case studies",
+            "Applying biochemical knowledge to disease scenarios",
+            "Critically evaluating biochemistry research for the research paper",
+            "Solving complex biochemistry problems in exams"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on medical biochemistry topics",
+            "Organizing research paper content effectively",
+            "Coordinating in-class presentations on selected topics"
+        ]
+    },
+    {
+        "courseCode": "CHEM 849",
+        "courseTitle": "Environmental Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An overview of the natural chemistry systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.",
+        "Technical and Digital Skills": [
+            "Chemical analysis techniques",
+            "Environmental sampling methods",
+            "Data interpretation in environmental contexts",
+            "Understanding chemical reactions in natural systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex scientific concepts",
+            "Collaborative research in environmental chemistry projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex data sets related to environmental chemistry",
+            "Identifying and analyzing chemical patterns in natural systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in environmental research",
+            "Leading environmental fieldwork expeditions"
+        ]
+    },
+    {
+        "courseCode": "CHEM 854",
+        "courseTitle": "Quantum Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Overview of the development and application of quantum mechanics from a chemical perspective.",
+        "Technical and Digital Skills": [
+            "Quantum mechanics application in chemistry",
+            "Computational chemistry software proficiency",
+            "Quantum chemical calculations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex quantum concepts to non-experts",
+            "Collaborating on research projects with team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing quantum systems",
+            "Interpreting quantum chemical data",
+            "Troubleshooting computational chemistry simulations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects in quantum chemistry",
+            "Leading discussions on quantum mechanics applications in chemistry"
+        ]
+    },
+    {
+        "courseCode": "CHEM 855",
+        "courseTitle": "Computational Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Comprehensive overview of ab initio (quantum) calculations and molecular dynamic simulations, the two most widely used computational methods. Plus a brief overview of other computational applications in chemistry and biology.",
+        "Technical and Digital Skills": [
+            "Ab initio quantum calculations",
+            "Molecular dynamic simulations",
+            "Computational applications in chemistry and biology"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of computational results",
+            "Troubleshooting computational models"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 856",
+        "courseTitle": "Inorganic Reaction Mechanisms",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a survey of the major mechanisms of inorganic and organometallic chemistry.  Topics include kinetics, ligand substitution, electron transfer, and photochemistry.",
+        "Technical and Digital Skills": [
+            "Understanding inorganic reaction mechanisms",
+            "Kinetics analysis",
+            "Ligand substitution mechanisms",
+            "Electron transfer mechanisms",
+            "Photochemistry principles"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Chemical reaction analysis",
+            "Mechanism identification",
+            "Experimental design for reaction studies"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 858",
+        "courseTitle": "Atmospheric Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory survey of atmospheric chemistry and physics. Topics to be covered include atmospheric composition, atmospheric pressure, simple models, atmospheric transport, geochemical cycles, the greenhouse effect, aerosols, stratospheric ozone, the oxidizing power of the troposphere, ozone air pollution, satellite orbits, and radiative transfer. The course will also provide a survey of satellite remote sensing. It will conclude with the basics of satellite remote sensing, including a brief survey of satellite instruments.",
+        "Technical and Digital Skills": [
+            "Understanding atmospheric composition",
+            "Knowledge of atmospheric pressure",
+            "Familiarity with geochemical cycles",
+            "Understanding of radiative transfer",
+            "Satellite remote sensing techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of atmospheric data",
+            "Collaboration on satellite remote sensing projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing aerosol data",
+            "Interpreting stratospheric ozone trends",
+            "Identifying sources of ozone air pollution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in atmospheric research",
+            "Leading satellite instrument surveys"
+        ]
+    },
+    {
+        "courseCode": "CHEM 859",
+        "courseTitle": "Statistical Thermodynamics in Chemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "An introduction to statistical mechanics from a chemical perspective. Topics to be covered include ensembles and postulates and their mathematical background; basic thermodynamics; distinguishable and indistinguishable systems; ideal monatomic gas; monatomic crystals; ideal diatomic gas; ideal polyatomic gas; chemical equilibrium; rates of chemical reactions; and quantum statistics.",
+        "Technical and Digital Skills": [
+            "Statistical mechanics",
+            "Chemical thermodynamics",
+            "Ensembles and postulates",
+            "Mathematical background",
+            "Ideal gas laws",
+            "Chemical equilibrium calculations",
+            "Quantum statistics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Mathematical modeling",
+            "Critical thinking in thermodynamics",
+            "Analyzing chemical reaction rates",
+            "Problem-solving in quantum statistics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 860",
+        "courseTitle": "Molecular Spectroscopy",
+        "academicLevel": "graduate",
+        "courseDescription": "An introductory survey of the rotational, vibrational and electronic spectroscopy of molecules from the perspective of quantum mechanics and group theory.",
+        "Technical and Digital Skills": [
+            "Quantum mechanics application",
+            "Group theory understanding",
+            "Interpretation of spectroscopic data"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing spectral lines",
+            "Identifying molecular structures from spectra",
+            "Quantitative data interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 863",
+        "courseTitle": "Mechanisms in Sensing and Signal Transduction",
+        "academicLevel": "graduate",
+        "courseDescription": "Living organisms must sense and respond to changes in their environment, which requires perceiving extracellular stimuli and converting this information into tangible changes to intracellular function. Sensory and metabolic pathways must integrate stimuli from multiple signals to coordinate cell-wide or organism-wide responses, and signal transduction pathways must be considered in the context of the networks they comprise. Signal transduction networks are the very definition of ‘wholes’ that are greater and more complex than the sums of their parts. This course will have a dual focus on mechanisms of signal transduction, with an emphasis on macromolecular structure, and on network modeling.",
+        "Technical and Digital Skills": [
+            "Understanding macromolecular structure",
+            "Network modeling",
+            "Signal transduction pathways analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex scientific concepts",
+            "Collaboration in research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Integration of stimuli from multiple signals",
+            "Critical evaluation of signal transduction networks"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of cell-wide or organism-wide responses",
+            "Leading discussions on complex scientific topics"
+        ]
+    },
+    {
+        "courseCode": "CHEM 865",
+        "courseTitle": "Advanced Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will cover macromolecular structure, function, thermodynamic stability and folding kinetics; protein chemistry; molecular biology; and molecular mechanisms of disease and bioinformatics.",
+        "Technical and Digital Skills": [
+            "Macromolecular structure analysis",
+            "Protein chemistry techniques",
+            "Bioinformatics tools proficiency"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of complex scientific information",
+            "Collaboration on research projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Thermodynamic stability analysis",
+            "Folding kinetics calculations",
+            "Molecular mechanisms of disease investigation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in research",
+            "Team coordination for laboratory work"
+        ]
+    },
+    {
+        "courseCode": "CHEM 868",
+        "courseTitle": "Internship - Chemistry & Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is designed to provide individual students with advanced on-the-job professional experience. Internship assignments must be approved within the student's program of study. Direct supervision is given by an experienced professional at the internship site.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques",
+            "Data analysis using software tools",
+            "Instrument operation and maintenance"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with team members",
+            "Presenting findings to colleagues",
+            "Collaboration with professionals at the internship site"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting experimental issues",
+            "Interpreting complex data sets",
+            "Experimental design and optimization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for experiments",
+            "Leading small research projects",
+            "Adapting to different work environments"
+        ]
+    },
+    {
+        "courseCode": "CHEM 869",
+        "courseTitle": "Nucleic Acids Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "A comprehensive presentation of the chemistry of RNA and DNA, including modern concepts of gene regulation, the control over transcription, RNA processing and translation, cell cycle control and molecular carcinogenesis.",
+        "Technical and Digital Skills": [
+            "Understanding DNA and RNA chemistry",
+            "Gene regulation mechanisms",
+            "Transcription control",
+            "RNA processing techniques",
+            "Translation processes",
+            "Cell cycle control mechanisms",
+            "Molecular carcinogenesis concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration on research projects",
+            "Presenting complex biochemical information",
+            "Explaining gene regulation concepts to non-experts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing genetic data",
+            "Interpreting experimental results",
+            "Identifying molecular mechanisms of diseases",
+            "Evaluating research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing lab experiments",
+            "Coordinating research teams",
+            "Leading discussions on biochemical research findings"
+        ]
+    },
+    {
+        "courseCode": "CHEM 875",
+        "courseTitle": "Physical Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will examine the physical characterization of macromolecules, polarized light, absorption and fluorescence, sedimentation and transport hydrodynamics, electrophoretic mobility, light scattering, and structural x-ray crystallography of proteins and nucleic acids.",
+        "Technical and Digital Skills": [
+            "Macromolecule characterization techniques",
+            "Polarized light analysis",
+            "Absorption and fluorescence spectroscopy",
+            "Sedimentation analysis",
+            "Electrophoretic mobility measurement",
+            "Light scattering analysis",
+            "X-ray crystallography for protein and nucleic acid structure determination"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation for macromolecular structures",
+            "Analytical thinking in experimental design",
+            "Problem-solving in analyzing complex biochemical systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 879",
+        "courseTitle": "Kinetics and Thermodynamics",
+        "academicLevel": "graduate",
+        "courseDescription": "A survey of modern theories of reaction rates and mechanisms, classic thermodynamic functions, and an introduction to statistical thermodynamics.",
+        "Technical and Digital Skills": [
+            "Understanding reaction rates and mechanisms",
+            "Applying thermodynamic functions",
+            "Utilizing statistical thermodynamics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing reaction kinetics",
+            "Evaluating thermodynamic properties",
+            "Applying statistical methods to thermodynamics"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CHEM 881",
+        "courseTitle": "Protein Bioinformatics and Functional Genomics",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will learn cutting-edge bioinformatics and genomics approaches to gain an in depth understanding of genetic and protein evolution as it relates to genetic mutation and adaption and to protein structure, folding and function. The theory and computational skills needed to analyze protein, DNA and non-coding RNA sequences as well as protein structures will be taught and applied. Comparative genomics studies will be conducted, focusing on current topics such as viral outbreaks where students will elucidate functional variations leading to enhanced virulence in isolates during a pandemic such as Zika.",
+        "Technical and Digital Skills": [
+            "Bioinformatics analysis",
+            "Genomics data interpretation",
+            "Protein sequence analysis",
+            "DNA sequence analysis",
+            "RNA sequence analysis",
+            "Protein structure analysis",
+            "Computational skills for genetic analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting bioinformatics findings",
+            "Collaborating on genomics projects",
+            "Communicating genetic mutation concepts",
+            "Explaining protein evolution theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative genomics analysis",
+            "Functional variation identification",
+            "Analyzing protein folding mechanisms",
+            "Critical evaluation of genetic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading genomics research projects",
+            "Organizing bioinformatics data",
+            "Coordinating protein structure studies"
+        ]
+    },
+    {
+        "courseCode": "CHEM 890",
+        "courseTitle": "Chemistry Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Students attend seminars given by researchers from across the country on order to expose them to additional areas of research in chemistry and biochemistry.",
+        "Technical and Digital Skills": [
+            "Chemical research analysis techniques",
+            "Biochemical research methods",
+            "Data interpretation in chemistry",
+            "Scientific presentation skills"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active listening during seminars",
+            "Questioning skills for research clarity",
+            "Networking with researchers in the field"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research findings",
+            "Identifying gaps in scientific knowledge",
+            "Formulating research questions based on seminar content"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating seminar schedules",
+            "Leading discussions on research topics",
+            "Collaborating with researchers for potential projects"
+        ]
+    },
+    {
+        "courseCode": "CHEM 891",
+        "courseTitle": "Doctoral Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Students attend seminars; attend a class on giving seminars; and present a seminar on their own research.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Academic writing",
+            "Data analysis techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Engaging with diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of research",
+            "Identifying research gaps",
+            "Developing research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research",
+            "Leading research discussions",
+            "Coordinating seminar presentations"
+        ]
+    },
+    {
+        "courseCode": "CHEM 895",
+        "courseTitle": "Selected Topics in Chemistry and Biochemistry",
+        "academicLevel": "graduate",
+        "courseDescription": "Thorough coverage of areas selected to meet special needs and interests.",
+        "Technical and Digital Skills": [
+            "Laboratory techniques in chemistry",
+            "Biochemical analysis methods",
+            "Data analysis using software tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with research team members"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Experimental design",
+            "Interpreting complex data sets",
+            "Troubleshooting equipment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Coordinating lab activities",
+            "Leading research discussions"
+        ]
+    },
+    {
+        "courseCode": "CHEM 898",
+        "courseTitle": "Doctoral Research",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": [
+            "Literature review analysis",
+            "Research methodology design",
+            "Statistical analysis using SPSS or R",
+            "Data visualization using Tableau or Python libraries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborating with research team members",
+            "Communicating complex ideas to diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Hypothesis testing",
+            "Research design optimization",
+            "Critical evaluation of research literature"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for research timelines",
+            "Supervising research assistants",
+            "Leading research discussions and brainstorming sessions"
+        ]
+    },
+    {
+        "courseCode": "CHEM 899",
+        "courseTitle": "Dissertation",
+        "academicLevel": "graduate",
+        "courseDescription": "",
+        "Technical and Digital Skills": [
+            "Literature review research",
+            "Data analysis techniques",
+            "Reference management software proficiency",
+            "Statistical analysis tools knowledge"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing research proposals",
+            "Presenting findings to an audience",
+            "Collaborating with advisors and peers",
+            "Giving and receiving constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Formulating research questions",
+            "Identifying research gaps",
+            "Developing research methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for research",
+            "Project planning and execution",
+            "Managing research resources effectively",
+            "Leading a research team or group"
+        ]
+    },
+    {
+        "courseCode": "CHEM 998",
+        "courseTitle": "Master's Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "Technical and Digital Skills": [
+            "Research skills",
+            "Data analysis techniques",
+            "Information security protocols"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation skills",
+            "Team collaboration in project management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Decision-making under uncertainty"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in project completion",
+            "Leading a team towards a common goal"
+        ]
+    },
+    {
+        "courseCode": "CHEM 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "Technical and Digital Skills": [
+            "Maintaining active status",
+            "Registering for graduate credit hours",
+            "Understanding pass/fail criteria"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

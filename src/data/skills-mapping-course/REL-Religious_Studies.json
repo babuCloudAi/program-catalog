@@ -1,0 +1,768 @@
+[
+    {
+        "courseTitle": "Cults and Conspiracies",
+        "courseCode": "REL 147G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will explore why people believe conspiracy theories and why people become dedicated to religious cults or new religious movements, and will provide training in tools and strategies for examining truth claims of various groups.",
+        "Technical and Digital Skills": [
+            "Researching conspiracy theories and religious cults",
+            "Using digital tools for examining truth claims"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding human psychology and belief systems",
+            "Communicating findings effectively"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Assessing credibility of information",
+            "Critical analysis of belief systems and conspiracy theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing information from various sources",
+            "Leading discussions and debates on controversial topics"
+        ]
+    },
+    {
+        "courseTitle": "Life, Death, and Meaning",
+        "courseCode": "REL 150P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "What is the meaning of life, and what role might the end of life play in living meaningfully? This course provides an introduction to philosophy and religious studies through an investigation of different views on death and the meaning of life from diverse cultures and identities. (Cross-listed with PHIL 150P)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding diverse perspectives",
+            "Effective articulation of philosophical and religious concepts",
+            "Cultural sensitivity and respect"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical ideas",
+            "Analysis of religious perspective on life and death",
+            "Comparative analysis of different cultures and identities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading sensitive discussions",
+            "Organizing thoughts and arguments in a cohesive manner"
+        ]
+    },
+    {
+        "courseTitle": "Human Nature",
+        "courseCode": "REL 155E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "What ways of thinking, feeling, and acting are essentially human? This course focuses on some of the most influential and fascinating philosophical and religious accounts of human nature from diverse cultural perspectives. Topics may include the nature of human beings in relation to God, society, ethics, politics, knowledge, the environment, freedom, evolution, the mind, language, race, gender, and technology.  (Cross-listed with PHIL 155E)",
+        "Technical and Digital Skills": [
+            "Understanding of the impact of technology on human nature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of complex philosophical concepts",
+            "Active listening to diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical and religious accounts",
+            "Analytical thinking on topics like ethics, politics, knowledge, the environment, freedom, evolution",
+            "Understanding and application of diverse cultural perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Taking a leadership role in group discussions",
+            "Organizing thoughts and theories on complex topics"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Muslims & Media",
+        "courseCode": "REL 226G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College. A special honors section of REL 260G.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on sensitive topics",
+            "Interfaith and intercultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of media representation",
+            "Analysis of religious and cultural narratives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Facilitating respectful discussions",
+            "Promoting inclusivity and understanding"
+        ]
+    },
+    {
+        "courseTitle": "Love, Sex, and Desire",
+        "courseCode": "REL 235E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Is love universal or culturally bound? Is sexual desire biologically driven or learned? This course provides an introduction to Philosophy and Religious Studies through an investigation of love, sex, and desire vis-a-vis ethical values and societal norms. (Cross-listed with PHIL 235E)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Ethical discussion and debate",
+            "Effective communication of complex concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of societal norms",
+            "Analysis of philosophical concepts",
+            "Understanding and interpreting religious studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Structured argument formation",
+            "Leading ethical discussions",
+            "Organizing and comparing different philosophical viewpoints"
+        ]
+    },
+    {
+        "courseTitle": "Muslims & Media",
+        "courseCode": "REL 260G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Television, film, and journalism play an influential role in introducing Muslim life to broad audiences. This course provides an introduction to the representation of Islam in news and popular culture over the past century. In examining the relationship between Muslims and media we will develop information literacy skills and learn how to critically evaluate and interpret these sources.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Media analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpreting media messages",
+            "Understanding cultural representation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Analyzing representation of Islam in media"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hebrew Bible/Old Testament",
+        "courseCode": "REL 311",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of the Hebrew Bible on the basis of Biblical criticism and research.  Attention is given to the cultural and historical background of these writings.",
+        "Technical and Digital Skills": [
+            "Biblical criticism and research",
+            "Understanding of cultural and historical background of Hebrew Bible"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of Biblical interpretations",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of Biblical text",
+            "Critical analysis of historical and cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research planning and execution",
+            "Leading discussions on Biblical interpretations"
+        ]
+    },
+    {
+        "courseTitle": "New Testament",
+        "courseCode": "REL 312",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of New Testament literature and thought on the basis of Biblical criticism and research.  Attention is given to the religious and cultural background of early Christianity, particularly in late Judaism.",
+        "Technical and Digital Skills": [
+            "Biblical criticism and research",
+            "Understanding of religious and cultural backgrounds"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of New Testament literature",
+            "Critical evaluation of religious and cultural context"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Qur'an",
+        "courseCode": "REL 315",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course will examine the Qur'an, the scripture of Islam, as well as other sacred texts such as the Hadith literature (sayings of Muhammad) and the Sira literature (accounts of Muhammad's life). This course will explore the role of these literatures in the faith, culture, and history of Islam. Our survey will include explorations of the history and reception of various texts, their literary and stylistic features, and various themes such as mystical, legal, modern, and feminist interpretations.",
+        "Technical and Digital Skills": [
+            "Analysis of religious texts",
+            "Understanding of different literary and stylistic features"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on various themes",
+            "Presenting interpretations of texts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of religious texts",
+            "Analysis of historical and cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Judaism",
+        "courseCode": "REL 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a basic introduction to Judaism. We will explore the fundamental tenets of Jewish belief, examine primary expressions of Jewish ritual and practice, discuss the historical development of Judaism, and explore sacred texts, secular Yiddish texts, and contemporary issues confronting Jews and Judaism.",
+        "Technical and Digital Skills": [
+            "Sacred texts interpretation",
+            "Historical analysis of Judaism",
+            "Understanding of Jewish rituals and practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of contemporary issues in Judaism",
+            "Expression of Jewish beliefs"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of secular Yiddish texts",
+            "Understanding and interpreting Jewish belief systems"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Christianity",
+        "courseCode": "REL 351",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the Christian tradition, including its primary texts, historical development, intellectual tenets, and contributions to human culture.  Specific attention will be given to Christianity as a way of life.",
+        "Technical and Digital Skills": [
+            "Researching historical texts",
+            "Online database navigation",
+            "Analyzing digital resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking and presentations",
+            "Group discussions",
+            "Writing academic papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical interpretation of religious texts",
+            "Historical analysis",
+            "Ethical problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Organizing study materials",
+            "Developing personal spiritual practices"
+        ]
+    },
+    {
+        "courseTitle": "Islam",
+        "courseCode": "REL 352",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the Islamic tradition, including its primary texts, historical development, intellectual tenets, and contributions to human culture.  Specific attention will be given to Islam as a way of life.",
+        "Technical and Digital Skills": [
+            "Textual analysis",
+            "Historical research methods"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Conflict resolution",
+            "Empathetic understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Effective note-taking"
+        ]
+    },
+    {
+        "courseTitle": "Asian Religions",
+        "courseCode": "REL 353",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to several key religious traditions originating in Asia, such as: Hindu traditions in India; Confucianism, Daoism, and popular religion in China, Buddhism and Shinto in Japan; and Buddhist traditions of China, Tibet, and Mongolia. Students will read and analyze primary sources in English translation. By examining artifacts from literature, art, and poetry, students will also learn about cultural history. Throughout the course, we will be employing hermeneutical methods in the field of religions studies, such as methods of comparisons.",
+        "Technical and Digital Skills": [
+            "Reading and interpreting religious texts",
+            "Analyzing literature, art, and poetry as artifacts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting analyses of religious traditions",
+            "Discussing and comparing different religious traditions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing primary sources",
+            "Employing hermeneutical methods in the field of religions studies",
+            "Methods of comparisons in religious studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing information from various religious traditions",
+            "Leading discussions on religious traditions"
+        ]
+    },
+    {
+        "courseTitle": "African and African American Religious Traditions",
+        "courseCode": "REL 354",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course surveys key historic and contemporary religions and socio-religious ideas that help shape African and African American life, culture and practices. It also reflects on culture and practice to discover ways in which lived experience shapes religious thought and practice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural understanding",
+            "Cross-cultural communication",
+            "Understanding and interpreting religious practices"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Socio-religious analysis",
+            "Reflection and interpretation of lived experiences"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Hinduism",
+        "courseCode": "REL 380",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive study of the basic teachings of Hinduism as manifested in its sacred writings.",
+        "Technical and Digital Skills": [
+            "Research of sacred texts",
+            "Citation management",
+            "Online database navigation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interpretative discussion",
+            "Cultural sensitivity",
+            "Respectful debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Textual analysis",
+            "Critical thinking",
+            "Comparison of religious texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent study planning",
+            "Note organization"
+        ]
+    },
+    {
+        "courseTitle": "Buddhist Traditions",
+        "courseCode": "REL 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the origin, historical development, and contemporary status of Buddhism, in terms of its religious and philosophical elements and its influence in Asian cultures.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Digital archival research",
+            "Understanding and interpreting religious and philosophical texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Intercultural communication",
+            "Discussion and debate of philosophical concepts",
+            "Presenting complex religious ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Historical analysis",
+            "Critical evaluation of religious and philosophical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in historical research",
+            "Leading group discussions",
+            "Organizing and synthesizing complex information"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Religious Studies",
+        "courseCode": "REL 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects that, because of their specialized nature, may not be taught regularly.  These courses will appear in the course schedule booklet and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective written and verbal communication",
+            "Active listening",
+            "Respecting diversity and different perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Independent research",
+            "Interpretation of complex texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study management",
+            "Project planning and organization",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Religious Studies",
+        "courseCode": "REL 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects that, because of their specialized nature, may not be taught regularly. These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Advanced research methodologies",
+            "Usage of specialized academic databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on complex topics",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts",
+            "Interpretation of historical and contextual information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Adaptability to novel subjects"
+        ]
+    },
+    {
+        "courseTitle": "Gender and Sexuality in Islam",
+        "courseCode": "REL 403/503",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores the shifting constructions of gender and sexuality in Muslim communities from the early period until the present, considering feminism, patriarchy, gender identity, masculinity, femininity, homosexuality, heteronormativity, and transgender people.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Academic writing",
+            "Online resource utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Empathetic listening",
+            "Active participation in discussions",
+            "Debate and argumentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of gender and sexuality constructs",
+            "Historical analysis of social movements",
+            "Evaluation of cultural norms and biases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management of diverse perspectives",
+            "Facilitating inclusive discussions",
+            "Leading empathetic dialogues"
+        ]
+    },
+    {
+        "courseTitle": "Native American Philosophies",
+        "courseCode": "REL 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide students with an introduction to Native American philosophies with a focus on issues of identity, genocide, personhood, gender, sovereignty, and decolonization. Topics will be approached though a consideration of Native American philosophical methodologies and Native views regarding metaphysics, epistemology, and ethics. (Cross-listed with PHIL 451)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussions on sensitive topics",
+            "Cross-cultural communication",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical theories",
+            "Analysis of historical events and their impact",
+            "Understanding and interpreting philosophical methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in self-directed learning",
+            "Coordinating group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Tibet, Happiness, and this Precious Life",
+        "courseCode": "REL 483/583",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Throughout this course, students will examine Tibetan texts and artifacts that address the meaning of happiness and the human condition. The course covers the indigenous religion Bön; the four main Tibetan Buddhist traditions (Nyingma, Sakya, Kagyu, and Geluk), Islam in Tibet, and contemporary social issues, such as gender, identity politics, and the use of social media.",
+        "Technical and Digital Skills": [
+            "Analysis of Tibetan texts and artifacts",
+            "Understanding of social media impact on contemporary issues"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and interpretation of Tibetan Buddhist traditions and Islam in Tibet",
+            "Understanding and articulating concepts related to gender and identity politics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation and interpretation of religious texts",
+            "Analysis of societal issues through a religious and cultural lens"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Religious Studies",
+        "courseCode": "REL 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects that, because of their specialized nature, may not be taught regularly.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Research in specialized religious topics",
+            "Use of academic databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of complex concepts",
+            "Discussion and debate of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts",
+            "Analytical evaluation of religious concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Project management of individual research"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Religious Studies",
+        "courseCode": "REL 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects that, because of their specialized nature, may not be taught regularly. These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Research using digital academic databases",
+            "Note-taking and information organization using digital tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participating in group discussions",
+            "Presenting research findings",
+            "Constructive debate and argumentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts and theories",
+            "Forming coherent arguments based on research",
+            "Identifying bias in sources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project planning and execution",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "courseCode": "REL 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital archiving of research materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engaging in academic discussions",
+            "Writing academic papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading",
+            "Critical evaluation of religious texts and theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Planning and conducting independent study"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "courseCode": "REL 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital note taking",
+            "Online resource utilization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Written communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Analytical thinking",
+            "Problem-solving based on research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-directed learning",
+            "Meeting deadlines"
+        ]
+    },
+    {
+        "courseCode": "REL 503",
+        "courseTitle": "Gender and Sexuality in Islam",
+        "academicLevel": "graduate",
+        "courseDescription": "This course explores the shifting constructions of gender and sexuality in Muslim communities from the early period until the present, considering feminism, patriarchy, gender identity, masculinity, femininity, homosexuality, heteronormativity, and transgender people.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Empathetic dialogue with diverse perspectives",
+            "Effective discussion of sensitive topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and contemporary cultural trends",
+            "Critical evaluation of social constructs",
+            "Understanding and interpretation of gender identity issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading sensitive discussions",
+            "Managing diverse viewpoints",
+            "Promoting inclusivity and respect"
+        ]
+    },
+    {
+        "courseCode": "REL 551",
+        "courseTitle": "Native American Philosophies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with an introduction to Native American philosophies with a focus on issues of identity, genocide, personhood, gender, sovereignty, and decolonization. Topics will be approached though a consideration of Native American philosophical methodologies and Native views regarding metaphysics, epistemology, and ethics. (Cross-listed with PHIL 551)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and respect for diverse views and cultures"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical theories",
+            "Analysis of complex philosophical concepts",
+            "Understanding and analysis of historical events and their impacts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Awareness of ethical issues",
+            "Critical thinking in leadership decisions"
+        ]
+    },
+    {
+        "courseCode": "REL 583",
+        "courseTitle": "Tibet, Happiness, and this Precious Life",
+        "academicLevel": "graduate",
+        "courseDescription": "Throughout this course, students will examine Tibetan texts and artifacts that address the meaning of happiness and the human condition. The course covers the indigenous religion Bön; the four main Tibetan Buddhist traditions (Nyingma, Sakya, Kagyu, and Geluk), Islam in Tibet, and contemporary social issues, such as gender, identity politics, and the use of social media.",
+        "Technical and Digital Skills": [
+            "Analyzing Tibetan texts and artifacts",
+            "Understanding the use of social media in contemporary society"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of sensitive topics such as religion and identity politics",
+            "Debating and presenting arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of various religious traditions and social issues",
+            "Analytical reading of religious and historical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing diverse perspectives and opinions",
+            "Leading discussions on complex social issues"
+        ]
+    },
+    {
+        "courseCode": "REL 595",
+        "courseTitle": "Topics in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit qualified students to work on subjects that, because of their specialized nature, may not be taught regularly.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Researching specialized topics",
+            "Information assessment",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussion",
+            "Presenting complex ideas",
+            "Interpreting academic materials"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing specialized research",
+            "Evaluating complex concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed study",
+            "Project and time management",
+            "Leading discussions"
+        ]
+    },
+    {
+        "courseCode": "REL 596",
+        "courseTitle": "Topics in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "Research through digital resources",
+            "Utilizing scholarly databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Oral presentation of topics",
+            "Active listening in group settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts",
+            "Interpretation of complex religious concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating group discussions",
+            "Time management for individual research"
+        ]
+    },
+    {
+        "courseCode": "REL 597",
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Digital literacy for academic research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Constructive feedback reception",
+            "Clear and concise writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reading",
+            "Argument development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Independent project planning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "REL 598",
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Topic selection and refinement"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-guided study",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "REL 697",
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Use of digital study resources"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with the instructor",
+            "Conveying study findings in written papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing religious texts or contexts",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project management for independent study"
+        ]
+    },
+    {
+        "courseCode": "REL 698",
+        "courseTitle": "Tutorial Work in Religious Studies",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Verbal presentation of ideas",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Analytical thinking",
+            "Problem solving through independent study"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management",
+            "Self-directed learning"
+        ]
+    }
+]

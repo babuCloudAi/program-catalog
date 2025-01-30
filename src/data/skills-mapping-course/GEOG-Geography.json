@@ -1,0 +1,2449 @@
+[
+    {
+        "courseTitle": "Human Geography",
+        "courseCode": "GEOG 100S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides a basic topical introduction to human and cultural geography.  It focuses on the diversity of human societies, their distribution, characteristics, and cultural impact on the landscape.  Topics include the geography of population, migration, language, religion, economic development, urbanization, resources, and the political landscape.",
+        "Technical and Digital Skills": [
+            "Geographical Information System (GIS)",
+            "Data visualization and mapping",
+            "Cultural data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective presentation of geographical data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Cultural impact analysis",
+            "Population and migration trends analysis",
+            "Urbanization and economic development analysis",
+            "Political landscape interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Resource management strategies",
+            "Urban planning and development",
+            "Political and economic trend forecasting"
+        ]
+    },
+    {
+        "courseTitle": "Environmental Geography",
+        "courseCode": "GEOG 101S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical study of the diverse characteristics of the Earth's physical landscape, spatial distribution of environmental characteristics, the impacts of these on human populations and human populations' impact on the natural environment.  Topics include climate and climate change, mass movements and natural hazards, biogeography and environmental problems such as desertification and deforestation, and the use and abuse of water resources.",
+        "Technical and Digital Skills": [
+            "Geographical data analysis",
+            "Understanding of climate change patterns",
+            "Analysis of geographical distribution and characteristics",
+            "Understanding of environmental hazards and their impact",
+            "Understanding of biogeography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of environmental issues and impacts",
+            "Presentation of geographical data and insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing environmental problems such as desertification and deforestation",
+            "Solution development for environmental problems",
+            "Analyzing the use and abuse of water resources",
+            "Understanding and analyzing the impact of human activities on the natural environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in environmental studies",
+            "Leadership in environmental initiatives",
+            "Strategic planning for environmental conservation"
+        ]
+    },
+    {
+        "courseTitle": "Digital Earth: Geospatial Technology and Society",
+        "courseCode": "GEOG 102T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an overview and exploration of: 1) the digital representation of the Earth and 2) geospatial science and technology. The course investigates geospatial technological innovations affecting the environment, resources, and society, including satellite global positioning systems, geographic information systems, and earth observations. Students develop hands-on skills as well as critical-thinking skills concerning the role of increasingly ubiquitous geospatial technology and their influences on social, economic, and human-environment interactions.",
+        "Technical and Digital Skills": [
+            "Satellite global positioning systems operation",
+            "Usage of geographic information systems",
+            "Understanding of earth observations technologies",
+            "Digital representation of the Earth",
+            "Geospatial technology operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing the impacts of geospatial technology on society",
+            "Explaining geospatial technological innovations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking regarding geospatial technology",
+            "Analysis of human-environment interactions",
+            "Evaluation of the role of geospatial technology in social and economic contexts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Honors: Cultural Geography",
+        "courseCode": "GEOG 126S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special honors section of GEOG 100S.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active participation in discussions",
+            "Presenting geographical cultural insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking on cultural geographical issues",
+            "Analyzing geographical cultural concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading group discussions",
+            "Organizing cultural geographical data"
+        ]
+    },
+    {
+        "courseTitle": "World Regional Geography",
+        "courseCode": "GEOG 250",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the physical and cultural characteristics of the major geographical regions of the world. The course focuses upon significant problems within each of the world's major regions and examines the relevance of the geographical background to these problems.",
+        "Technical and Digital Skills": [
+            "Digital mapping",
+            "GIS software use",
+            "Data visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective presentation of geographical data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographical data",
+            "Identifying regional problems",
+            "Understanding cultural and physical characteristics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in geographical research",
+            "Leading geographical field work"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Geography",
+        "courseCode": "GEOG 296",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selective topics in Geography.",
+        "Technical and Digital Skills": [
+            "Map reading",
+            "Use of GIS (Geographic Information System) software",
+            "Data interpretation from geographical patterns"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical data",
+            "Collaborative field research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial analysis",
+            "Geographical issue resolution",
+            "Environmental impact assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in geographical research",
+            "Fieldwork planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Maps and Geographic Information",
+        "courseCode": "GEOG 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An investigation of different representations of the Earth:  physical and cognitive maps, atlases, spatial databases, aerial photographs, and remote sensing imagery, with an emphasis on the use of geographic tools for communicating and analyzing information.",
+        "Technical and Digital Skills": [
+            "Understanding of physical and cognitive maps",
+            "Skill in using atlases",
+            "Experience with spatial databases",
+            "Ability to interpret aerial photographs",
+            "Proficiency in remote sensing imagery",
+            "Utilization of geographic tools for data communication and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating geographical information",
+            "Explaining complex map data to non-technical individuals"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing physical and cognitive maps",
+            "Interpreting and analyzing aerial photographs and remote sensing imagery",
+            "Solving spatial problems using databases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing spatial databases",
+            "Leading geographical information communication and analysis"
+        ]
+    },
+    {
+        "courseTitle": "World Resources",
+        "courseCode": "GEOG 305",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the distribution and accessibility of the world's resources including population, agricultural land, biodiversity, water, renewable and nonrenewable materials, and energy sources.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Resource distribution analysis",
+            "Understanding of renewable and nonrenewable materials"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of geographical data",
+            "Explanation of resource accessibility"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing resource accessibility",
+            "Problem-solving for resource allocation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing geographical data",
+            "Leading discussions on resource distribution"
+        ]
+    },
+    {
+        "courseTitle": "Hazards: Natural and Technological",
+        "courseCode": "GEOG 306T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An exploration of human perceptions of and responses to extreme geophysical and technological threats, including nuclear bombs and accidents, hurricanes, tornadoes, earthquakes, and volcanoes.",
+        "Technical and Digital Skills": [
+            "Understanding of geophysical phenomena",
+            "Knowledge of technological threats such as nuclear accidents",
+            "Research on hazard-related topics"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of complex hazard-related concepts",
+            "Crisis communication",
+            "Collaborative crisis management"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Risk analysis",
+            "Critical evaluation of geophysical and technological threats",
+            "Development of response strategies to extreme threats"
+        ],
+        "Organizational and Leadership Skills": [
+            "Crisis management leadership",
+            "Organizing response plans for extreme threats"
+        ]
+    },
+    {
+        "courseTitle": "Research Design",
+        "courseCode": "GEOG 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers the design and implementation of quantitative and qualitative methods of inquiry in social sciences.",
+        "Technical and Digital Skills": [
+            "Quantitative research methods",
+            "Qualitative research methods",
+            "Designing research methodology",
+            "Implementing research methodology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Conveying research findings",
+            "Collaborating with research participants"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing qualitative data",
+            "Analyzing quantitative data",
+            "Critical evaluation of research methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading research projects",
+            "Organizing research data",
+            "Managing research process"
+        ]
+    },
+    {
+        "courseTitle": "Geography of the City",
+        "courseCode": "GEOG 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the structure, growth, and development of cities.  Topics include the use of urban land, location of public services, structure of the urban economy, social problems of urban populations, and decay and revitalization.",
+        "Technical and Digital Skills": [
+            "Understanding of urban land use",
+            "Analysis of public services location",
+            "Understanding of the urban economy structure"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating urban social problems",
+            "Discussing decay and revitalization strategies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the structure, growth, and development of cities",
+            "Identifying social problems of urban populations",
+            "Proposing solutions for urban decay and revitalization"
+        ],
+        "Organizational and Leadership Skills": [
+            "Urban development planning",
+            "Leadership in urban revitalization projects"
+        ]
+    },
+    {
+        "courseTitle": "Political Geography",
+        "courseCode": "GEOG 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the relationship between geographical and political factors; the nation state and its subdivisions; interaction among states; and the political geography of everyday life.",
+        "Technical and Digital Skills": [
+            "Geographical data analysis",
+            "Understanding of political mapping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex geographical concepts",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of geopolitical scenarios",
+            "Critical evaluation of geographical factors and their political impact"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research and organization of geographical data",
+            "Strategic thinking in geopolitical context"
+        ]
+    },
+    {
+        "courseTitle": "World Economic Geography",
+        "courseCode": "GEOG 321",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of differences in spatial patterns on the economic landscape at national and international levels, and the processes which create such differences.  Introduces basic concepts, theories, and models in economic geography at the global scale.",
+        "Technical and Digital Skills": [
+            "Spatial data analysis",
+            "Understanding of economic theories and models",
+            "Data interpretation at global scale"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explanation of complex economic theories",
+            "Discussion of international economic issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of economic landscapes",
+            "Identification and explanation of spatial pattern differences",
+            "Application of economic models to real-world situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Ethnic Minorities",
+        "courseCode": "GEOG 325",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of ethnic minorities worldwide with emphasis on geographical dimensions of ethnic identity and relationships between ethnicity and territory, regionalism, politics, and cultural expression.",
+        "Technical and Digital Skills": [
+            "Geographical data analysis",
+            "Cultural expression interpretation",
+            "Political impact analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and respecting diversity",
+            "Facilitating discussions on sensitive topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of ethnic identity",
+            "Analysis of regionalism and its effects",
+            "Problem-solving in multicultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse teams",
+            "Organizing multicultural events",
+            "Promoting inclusivity in organizations"
+        ]
+    },
+    {
+        "courseTitle": "Field Methods",
+        "courseCode": "GEOG 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A review of selected techniques for generating data in a field situation.  Lectures deal with the description and evaluation of techniques such as sampling methods, observation, interviewing, questionnaires, human relations skills and ethical considerations.  The project component involves the definition of field problems and the application of appropriate techniques.",
+        "Technical and Digital Skills": [
+            "Sampling methods",
+            "Data generation in field settings",
+            "Questionnaire design",
+            "Conducting interviews",
+            "Observation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interviewing",
+            "Human relations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Field problem identification",
+            "Application of appropriate data generation techniques",
+            "Evaluation of field data generation techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Ethical considerations in field data collection"
+        ]
+    },
+    {
+        "courseTitle": "Geography of the United States and Canada",
+        "courseCode": "GEOG 350",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The human and physical geography of the United States and Canada with special emphasis on the distribution of population and natural resources, migration patterns, location of major economic activities, and the variety of regional identities within the U.S. and Canada.",
+        "Technical and Digital Skills": [
+            "Spatial distribution analysis",
+            "Data interpretation",
+            "Geographical Information Systems (GIS)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical data",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis",
+            "Migration pattern analysis",
+            "Resource allocation analysis",
+            "Economic activity location analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Regional project coordination",
+            "Resource management"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Regional Geography",
+        "courseCode": "GEOG 355",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected regions or selected problems within a particular region of the world.",
+        "Technical and Digital Skills": [
+            "Geographic Information Systems (GIS)",
+            "Digital Mapping",
+            "Data Collection and Analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-Cultural Communication",
+            "Presentation of Geographic Data",
+            "Collaborative Research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Analysis of Regional Problems",
+            "Research Design and Implementation",
+            "Comparative Regional Analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management in Research",
+            "Leading Field Studies",
+            "Organizing Geographic Data"
+        ]
+    },
+    {
+        "courseTitle": "Cooperative Education",
+        "courseCode": "GEOG 367",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Student participation for credit based on the academic relevance of the work experience, criteria and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
+        "Technical and Digital Skills": [
+            "Academic research",
+            "Understanding and applying departmental criteria",
+            "Understanding and applying evaluative procedures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with department staff and Career Development Services",
+            "Reporting work experience"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing work experience for academic relevance",
+            "Evaluating work experience based on pre-determined criteria"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing work experience",
+            "Adherence to formal procedures",
+            "Self-management"
+        ]
+    },
+    {
+        "courseTitle": "Internship in Geography",
+        "courseCode": "GEOG 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Individualized practical experience in the area of applied geography.  The credits will be commensurate with the level of the student's involvement.",
+        "Technical and Digital Skills": [
+            "Applied geographic techniques",
+            "Data collection and analysis",
+            "GIS software operation",
+            "Field research tools usage"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with professionals in the field",
+            "Presenting geographical findings",
+            "Fieldwork communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Geographical issue resolution",
+            "Spatial data analysis",
+            "Critical thinking in geography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in fieldwork",
+            "Leading geographical research",
+            "Time management during research"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Emergency Management",
+        "courseCode": "GEOG 370",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Disasters in the U.S and abroad are examined to study the evolution of emergency practices. Factors contributing to the hazardousness of place and community vulnerability are explored. Emergency phases are practiced through interactive simulations.",
+        "Technical and Digital Skills": [
+            "Interactive simulation operation",
+            "Disaster data analysis",
+            "Hazard mapping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Emergency communication",
+            "Inter-agency collaboration",
+            "Crisis negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Emergency planning",
+            "Risk assessment",
+            "Disaster response strategy formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Emergency response coordination",
+            "Resource management during crisis",
+            "Leadership in high-stress situations"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Geography",
+        "courseCode": "GEOG 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion of geographical topics",
+            "Presentation of geographical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and interpretation of geographical topics",
+            "Evaluation of geographical concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Topics in Geography",
+        "courseCode": "GEOG 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Information evaluation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Geography",
+        "courseCode": "GEOG 398",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Data collection",
+            "Data analysis",
+            "Geo-spatial technology"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-to-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying geographical problems",
+            "Formulating research questions",
+            "Critical evaluation of geographical data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-direction",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Seminar in Geography",
+        "courseCode": "GEOG 400W/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Advanced study of a specialized topic in geography.  The choice of the topic may vary according to the availability of faculty expertise and student interest.  This is a writing intensive course. This course may be repeated once provided it is a different topic and with permission of the instructor.",
+        "Technical and Digital Skills": [
+            "Specialized geography topic research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulation of complex geographical concepts",
+            "Peer feedback and revision"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of geographical literature",
+            "Formulation of research questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed study",
+            "Leading seminar discussions"
+        ]
+    },
+    {
+        "courseTitle": "Global Environmental Policy",
+        "courseCode": "GEOG 401/501",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course analyzes the causes, severity, potential consequences, and proposed solutions regarding global ecological issues with special attention to the scientific debate and the political and policy process. It examines environmental policies of national governments, regional/international organizations, and global conferences.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental policies",
+            "Knowledge of regional and international organizations",
+            "Familiarity with global conferences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Navigating political and policy processes",
+            "Ability to debate scientifically on global ecological issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing causes and consequences of global ecological issues",
+            "Evaluating proposed solutions for global ecological issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing information about national governments' environmental policies",
+            "Leading discussions on global ecological issues"
+        ]
+    },
+    {
+        "courseTitle": "Geographic Information Systems",
+        "courseCode": "GEOG 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the conceptual basis of GIS as a tool for manipulating spatial information.  The course focuses on how geographic information can be input and organized within the framework of a GIS.  Students will work on a computer-based GIS to gain a greater understanding of spatial database structures and analytical operations.",
+        "Technical and Digital Skills": [
+            "Understanding of GIS as a tool for manipulating spatial information",
+            "Working with computer-based GIS",
+            "Understanding of spatial database structures",
+            "Inputting and organizing geographic information within a GIS framework"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographic information",
+            "Problem-solving using spatial information",
+            "Understanding and applying analytical operations in a GIS context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Digital Techniques for Remote Sensing",
+        "courseCode": "GEOG 404/504",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Study of the theory and application of remote sensing, emphasizing environmental applications and aerial and satellite imagery.  Covers the fundamentals of multispectral digital image processing, including sensors pre-processing, enhancement, classification, accuracy assessment, and GIS data integration.",
+        "Technical and Digital Skills": [
+            "Understanding of remote sensing theory and application",
+            "Environmental applications of remote sensing",
+            "Interpreting aerial and satellite imagery",
+            "Fundamentals of multispectral digital image processing",
+            "Sensor pre-processing",
+            "Image enhancement techniques",
+            "Image classification",
+            "Accuracy assessment techniques",
+            "GIS data integration"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing multispectral digital images",
+            "Evaluating accuracy of image classification",
+            "Integrating and analyzing GIS data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Seminar in International Resource Management",
+        "courseCode": "GEOG 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Discussion of the ecological and management principles underlying international resource management and the goal of attaining a sustainable, ecologically balanced world.",
+        "Technical and Digital Skills": [
+            "Understanding of ecological principles",
+            "Knowledge of international resource management techniques",
+            "Awareness of sustainable solutions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative problem-solving",
+            "Discussion and debate",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of ecological balance",
+            "Analysis of sustainable strategies",
+            "Problem-solving for resource management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Resource planning and organization",
+            "Leadership in sustainable initiatives",
+            "Strategic planning for ecological balance"
+        ]
+    },
+    {
+        "courseTitle": "Cartography",
+        "courseCode": "GEOG 408/508",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Computer-assisted methods and techniques employed in the design, construction, and use of maps and other graphics as tools for data analysis and communication.",
+        "Technical and Digital Skills": [
+            "Computer-assisted methods for map design",
+            "Construction of digital graphics",
+            "Use of mapping tools for data analysis and communication"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data communication using maps and graphics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis using maps and graphics",
+            "Problem-solving in map design and construction"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in map design and construction"
+        ]
+    },
+    {
+        "courseTitle": "Drone Applications Proseminar",
+        "courseCode": "GEOG 409/509",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Survey of the state-of-the-art geospatial applications of small Uncrewed Autonomous Systems (sUAS) mapping, surveying, and modeling.  Course combines seminars spanning application sectors of research and professional practice; lectures on mission planning, operations, analysis and regulations; and hands-on practical exercises incorporating risk management, safety, ethics, and legal issues.",
+        "Technical and Digital Skills": [
+            "Operation of small Uncrewed Autonomous Systems (sUAS)",
+            "Geospatial mapping",
+            "Surveying and modeling",
+            "Mission planning",
+            "Risk management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional practice seminars",
+            "Ethics and legalities communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of sUAS operations",
+            "Application of safety measures",
+            "Handling legal issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading drone mission planning",
+            "Overseeing drone operations",
+            "Managing risk in drone operations"
+        ]
+    },
+    {
+        "courseTitle": "Seminar in Urban Geography",
+        "courseCode": "GEOG 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Discussion of specific urban and metropolitan problems based on outside readings and individually selected research topics.",
+        "Technical and Digital Skills": [
+            "Urban geography research",
+            "Digital mapping",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group discussions",
+            "Presentation of research findings",
+            "Collaborative problem-solving"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of urban and metropolitan problems",
+            "Critical evaluation of research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research project management",
+            "Time management for individual research"
+        ]
+    },
+    {
+        "courseTitle": "Urban and Regional Planning",
+        "courseCode": "GEOG 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of planning concepts and principles used to guide contemporary metropolitan growth and development. Emphasis is on the application of planning tools and methods that guide the planning process from conception to execution.",
+        "Technical and Digital Skills": [
+            "Application of planning tools",
+            "Understanding of urban development concepts",
+            "Metropolitan growth analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of planning concepts",
+            "Collaborative planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Urban problem-solving",
+            "Analytical skills for metropolitan growth",
+            "Execution of planning concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing urban development projects",
+            "Leadership in planning execution"
+        ]
+    },
+    {
+        "courseTitle": "GIS for Planning and Public Policy",
+        "courseCode": "GEOG 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Geographic Information Systems (GIS) and science are an essential tool for urban planners and policy makers who have special interests in places and who need this kind of knowledge for decision making. The purpose of this course is to teach students the foundations of GIS and how it is applied in urban planning and other related disciplines. The course combines lectures, discussion of readings, and hands-on exercises in the computer lab.",
+        "Technical and Digital Skills": [
+            "Understanding of Geographic Information Systems (GIS)",
+            "Application of GIS in urban planning",
+            "Hands-on GIS exercises in computer lab",
+            "Applying GIS for decision-making",
+            "Using GIS for policy making"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of readings",
+            "Collaborating on GIS projects",
+            "Communicating GIS data and knowledge"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographic data",
+            "Applying GIS to solve urban planning problems",
+            "Using GIS for policy decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing GIS data",
+            "Leading GIS projects",
+            "Developing GIS-based policies"
+        ]
+    },
+    {
+        "courseTitle": "Quantitative Methods",
+        "courseCode": "GEOG 418",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of and practicum in the basic techniques of quantitative research, including the logic of empirical research, the identification of data sources, and the use of appropriate statistical techniques.",
+        "Technical and Digital Skills": [
+            "Understanding and applying quantitative research techniques",
+            "Identifying data sources",
+            "Using statistical techniques"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Logical reasoning",
+            "Empirical research",
+            "Data interpretation"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Spatial Analysis of Coastal Environments",
+        "courseCode": "GEOG 419/519",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course integrates remotely sensed and field techniques for scientific investigation and practical management of coastal environmental systems.  Spatial modeling of coastal processes and management tools using Geographic Information System (GIS).",
+        "Technical and Digital Skills": [
+            "Remotely sensed techniques",
+            "Field techniques for coastal environmental systems",
+            "Spatial modeling of coastal processes",
+            "Geographic Information System (GIS) operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Scientific investigation of coastal environmental systems",
+            "Practical management of coastal environmental systems",
+            "Analyzing and interpreting spatial data"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Marine Geography",
+        "courseCode": "GEOG 420/520",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of the environmental geography and resources of the ocean, with particular emphasis on geospatial analysis of the seafloor, hydrography, climate change, fisheries, ocean pollution, maritime activity spaces and management.",
+        "Technical and Digital Skills": [
+            "Geospatial analysis",
+            "Understanding of hydrography",
+            "Climate change impact assessment",
+            "Fishery resource analysis",
+            "Ocean pollution measurement and control",
+            "Maritime activity space management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of geospatial data",
+            "Collaborative research",
+            "Effective communication of complex maritime concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Environmental resources analysis",
+            "Climate change impact prediction",
+            "Pollution mitigation strategies",
+            "Critical evaluation of maritime activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in oceanographic studies",
+            "Resource management in fisheries",
+            "Leading maritime environmental initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Coastal Geography",
+        "courseCode": "GEOG 422W/522",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the physical and human geography of the coastal zone.  Considers problems of managing coastal resources with an emphasis on North America.  Lectures focus on coastal patterns, processes, and problems at the global, national, and local scales.  Students investigate a section of the local coastline and write a report on the physical and human geography on the basis of field study, library, and internet research.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Coastal resource management",
+            "Internet research",
+            "Data gathering and analysis from field studies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive reports",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of coastal patterns, processes, and problems",
+            "Investigation of physical and human geography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing coastal resources",
+            "Planning and conducting field studies"
+        ]
+    },
+    {
+        "courseTitle": "Weather, Climate and Society",
+        "courseCode": "GEOG 424/524",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Weather and climate play a pivotal role in nearly every aspect of life.  How does temperature relate to health outcomes?  What impact does El Niño have on Peruvian farmers?  How is the issue of climate change reflected in national security policy?  Why?  Topics also include the energy balance equation, remote sensing techniques, and climatological data acquisition and analysis.  Beyond an understanding of the complex processes that dictate the flow of the atmosphere, the course analyzes the socioeconomic, political, and cultural perspectives of climate and weather.  The course also provides a framework for stewardship and responsibility to the future.",
+        "Technical and Digital Skills": [
+            "Understanding of energy balance equation",
+            "Remote sensing techniques",
+            "Climatological data acquisition",
+            "Climatological data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding socioeconomic implications of weather and climate",
+            "Understanding political implications of weather and climate",
+            "Understanding cultural perspectives of weather and climate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of complex atmospheric processes",
+            "Understanding the relationship between temperature and health outcomes",
+            "Understanding the impact of El Niño on agriculture"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting stewardship and responsibility for the future",
+            "Understanding the role of climate change in national security policy"
+        ]
+    },
+    {
+        "courseTitle": "Internet Geographic Information Systems",
+        "courseCode": "GEOG 425/525",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Theoretical and practical exploration of methods, standards, and policies related to the development and utilization of geographic information systems on the Internet.  Students will create and utilize distributed geospatial data and analytical systems using the WWW and the Internet to address geographical problems.",
+        "Technical and Digital Skills": [
+            "Development of geographic information systems",
+            "Utilization of geographic information systems",
+            "Creating distributed geospatial data",
+            "Utilizing analytical systems on the WWW and Internet"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing geographical problems",
+            "Analysis of geospatial data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding policies related to the development and utilization of GIS",
+            "Adherence to GIS standards"
+        ]
+    },
+    {
+        "courseTitle": "Advanced GIS",
+        "courseCode": "GEOG 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of a series of advanced topics in the field of geographic information systems/science.  Focus is placed on the development of projects/models and a survey of several advanced techniques.  Students will work on a computer based GIS to implement topics from lectures.",
+        "Technical and Digital Skills": [
+            "Development of GIS projects/models",
+            "Implementing GIS topics on a computer-based platform",
+            "Utilization of advanced GIS techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Survey and application of advanced GIS techniques",
+            "Problem solving with GIS models"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project development and management in GIS"
+        ]
+    },
+    {
+        "courseTitle": "Geography, Gender, and Sexuality",
+        "courseCode": "GEOG 446/546",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines gender identity and sexuality in all of their diverse forms through a lens of human geography, such as metaphors of space and place, the cultural landscape, and 'mapping territory.' Topics explored include global gender identities; 'queer space;' 'locating' gender and sexuality within the arts and tourism; the gendered citizen and the nation; and political economies of gender and sexuality.",
+        "Technical and Digital Skills": [
+            "Understanding of human geography concepts",
+            "Ability to 'map territory'",
+            "Analyzing cultural landscapes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing diverse gender identities and sexualities",
+            "Understanding and addressing gender and sexuality within different cultures",
+            "Conveying complex concepts related to gender and sexuality"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing global gender identities",
+            "Identifying and analyzing 'queer space'",
+            "Connecting gender and sexuality to arts and tourism",
+            "Understanding political economies of gender and sexuality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the role of gender and sexuality in citizenship and nation-building",
+            "Applying gender and sexuality concepts in various contexts"
+        ]
+    },
+    {
+        "courseTitle": "Europe",
+        "courseCode": "GEOG 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Europe.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Understanding of physical, cultural, economic, and political factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Interdisciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing interrelationships",
+            "Critical evaluation of geographical and cultural information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning based on geographical factors",
+            "Leading discussions on interdisciplinary topics"
+        ]
+    },
+    {
+        "courseTitle": "Africa",
+        "courseCode": "GEOG 452/552",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Africa.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Cultural analysis",
+            "Economic analysis",
+            "Political analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical insights",
+            "Discussing cultural, economic, and political factors"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Physical and cultural interrelationships analysis",
+            "Economic and political interrelationships analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating cross-disciplinary research",
+            "Leading discussions on African geography and culture"
+        ]
+    },
+    {
+        "courseTitle": "Asia",
+        "courseCode": "GEOG 453/553",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Asia excluding the Middle East and the former USSR.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Cultural analysis",
+            "Economic analysis",
+            "Political analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Interpretation of interdisciplinary data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of geographical data",
+            "Critical evaluation of economic data",
+            "Critical evaluation of political data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and managing cultural diversity",
+            "Strategic planning based on geopolitical factors"
+        ]
+    },
+    {
+        "courseTitle": "Latin America",
+        "courseCode": "GEOG 454W/554",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Latin America. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Geographical Information Systems",
+            "Research tools for economic and political data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Writing intensive skills",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Geographical analysis",
+            "Analysis of economic and political factors",
+            "Cultural analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Information organization"
+        ]
+    },
+    {
+        "courseTitle": "The Middle East",
+        "courseCode": "GEOG 455/555",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in the Middle East.",
+        "Technical and Digital Skills": [
+            "Geographical data interpretation",
+            "Cultural analysis",
+            "Economic data analysis",
+            "Political data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of analytical findings",
+            "Cross-cultural communication",
+            "Interdisciplinary collaboration"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of interrelationships",
+            "Analyzing complex multifactorial situations",
+            "Problem-solving in geopolitical contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and synthesizing complex information",
+            "Leading discussions on sensitive topics"
+        ]
+    },
+    {
+        "courseTitle": "Geography of Virginia",
+        "courseCode": "GEOG 458/558",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analysis of Virginia's population, resources, and regional landscapes as they have been influenced by physical, cultural, historical, and economic factors.",
+        "Technical and Digital Skills": [
+            "Spatial data analysis",
+            "Understanding geographical information systems (GIS)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical and historical findings",
+            "Collaboration on geographic research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing population trends",
+            "Analyzing resource utilization",
+            "Understanding the influence of physical, cultural, historical, and economic factors on regional landscapes"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Medical Geography",
+        "courseCode": "GEOG 460/560",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course covers a range of topics in medical and health geography, including spatial behaviors of infectious disease and health care access. The focus of the course is on the geographical patterns of health and disease from the population rather than individual scale. In addition to seminar style lectures and discussions, the course enables students to further investigate by learning how to conduct medical/health geography research.",
+        "Technical and Digital Skills": [
+            "Conducting medical/health geography research",
+            "Understanding spatial behaviors of infectious disease",
+            "Analyzing geographical patterns of health and disease"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Seminar style lectures and discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Investigating health care access",
+            "Examining population scale health issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Advanced Spatial Analysis",
+        "courseCode": "GEOG 462/562",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces the essential theoretical concepts and analytical tools for analyzing spatial process, spatial autocorrelation, spatial patterns, techniques for spatial interpolation, network connectivity, big data, and landscape patterns. The course culminates with students carrying out their own spatial analysis projects. This course assumes that students understand the basic concepts in GIS with some experience in software operation of ArcGIS.",
+        "Technical and Digital Skills": [
+            "Understanding of spatial process",
+            "Analyzing spatial autocorrelation",
+            "Analyzing spatial patterns",
+            "Applying techniques for spatial interpolation",
+            "Understanding network connectivity",
+            "Managing and analyzing big data",
+            "Analyzing landscape patterns",
+            "Project management in spatial analysis",
+            "Software operation of ArcGIS"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting spatial analysis findings",
+            "Collaboration in spatial analysis project completion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and analyzing spatial patterns",
+            "Applying techniques for spatial interpolation",
+            "Analyzing network connectivity",
+            "Analyzing big data",
+            "Problem-solving in the context of spatial analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in spatial analysis",
+            "Organizing and managing big data sets"
+        ]
+    },
+    {
+        "courseTitle": "GIS Programming",
+        "courseCode": "GEOG 463/563",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course develops students’ GIS programming skills. Focus is placed on Python programming in ArcGIS and JavaScript in Web GIS development.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "ArcGIS utilization",
+            "JavaScript programming",
+            "Web GIS development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Debugging GIS programs",
+            "Analyzing GIS data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Advanced Environmental Geography Seminar",
+        "courseCode": "GEOG 464/564",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The objective of the course is to provide students with a deeper understanding of the current concepts and debates in environmental geography.  By exploring the ethical and philosophical foundations of the field, the course considers the environment’s opportunities and constraints.  While topics may include climate change, agricultural security, and renewable energy, the course will be driven by student-led discussions and participation.  Critically thinking about complex phenomenon, the seminar will include various weekly readings, discussions, and writing assignments.",
+        "Technical and Digital Skills": [
+            "Understanding of environmental geography concepts",
+            "Knowledge on climate change, agricultural security, and renewable energy",
+            "Ability to explore ethical and philosophical foundations of environmental geography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Active participation in discussions",
+            "Ability to lead discussions on selected topics",
+            "Effective written communication for assignments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Ability to analyze complex phenomena",
+            "Interpretation of academic readings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading student-led discussions",
+            "Effective time management for weekly readings and assignments",
+            "Ability to structure and present arguments"
+        ]
+    },
+    {
+        "courseTitle": "Geographic Information Systems for Emergency Management",
+        "courseCode": "GEOG 473/573",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students will demonstrate advanced skills and techniques using spatial data to prevent, mitigate, respond to, and recover from intentional, natural, and accidental homeland security threats and emergencies. This course demonstrates the importance of rapidly disseminating spatial information towards the prevention and response of various organizations to homeland security events. This course will provide students with the tools and experience required to collect, prepare and manage spatial data and enable students to be prepared to map and analyze the data to quickly and effectively create a coordinated response to real homeland security events.",
+        "Technical and Digital Skills": [
+            "Advanced skills in using spatial data",
+            "Understanding of homeland security threats and emergencies",
+            "Spatial data collection",
+            "Spatial data preparation",
+            "Spatial data management",
+            "Mapping and data analysis for emergency response"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Rapid dissemination of spatial information",
+            "Coordinated response planning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Prevention and mitigation of homeland security threats and emergencies",
+            "Quick and effective creation of coordinated response to homeland security events"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational response to homeland security events",
+            "Management of spatial data"
+        ]
+    },
+    {
+        "courseTitle": "Urban Resiliency",
+        "courseCode": "GEOG 475/575",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the multifaceted interface of built and natural environments and their impacts on land use management at spatial and temporal scales. It evaluates the impact of population pressure on sustainability through a survey of urban areas and analyzes urban planning and management capacities to maintain resilience despite environmental and technological hazards.",
+        "Technical and Digital Skills": [
+            "Analysis of urban areas",
+            "Spatial and temporal scale management",
+            "Urban planning",
+            "Technological hazard evaluation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interdisciplinary collaboration",
+            "Presentation of assessment results"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Environmental impact assessment",
+            "Population pressure analysis",
+            "Resilience maintenance strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Land use management",
+            "Sustainability implementation",
+            "Crisis leadership in environmental and technological hazards"
+        ]
+    },
+    {
+        "courseTitle": "Senior Seminar in International Studies",
+        "courseCode": "GEOG 480W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Interdisciplinary research and the preparation of a senior thesis in international studies. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research methodologies",
+            "Academic writing",
+            "Thesis preparation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing international issues",
+            "Critical evaluation of research",
+            "Problem-solving in interdisciplinary contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-direction",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Geographic Inquiry and Professional Development",
+        "courseCode": "GEOG 481",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to allow students to synthesize Geography concepts, theories, and knowledge and apply them to: 1) understand their positionality within the paradigms of the discipline, 2) explore future career paths, discover job possibilities, and graduate school opportunities in Geography, and 3) prepare materials (such as resumes and e-portfolios) to be used to apply for such positions.",
+        "Technical and Digital Skills": [
+            "Applying geography concepts and theories",
+            "Resume and e-portfolio creation",
+            "Understanding of geography discipline paradigms"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating personal position within geography discipline",
+            "Exploring and discussing career paths in Geography"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Synthesizing geographical knowledge",
+            "Analyzing job possibilities and graduate school opportunities in Geography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Career planning in Geography",
+            "Preparation of application materials for job or graduate school"
+        ]
+    },
+    {
+        "courseTitle": "Applied Cartography/GIS",
+        "courseCode": "GEOG 490/590",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Practical experience in applying the principles of cartography and geographical information systems to the design and construction of maps and other graphics.",
+        "Technical and Digital Skills": [
+            "Applying principles of cartography",
+            "Using geographical information systems",
+            "Designing and constructing maps and graphics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographical data",
+            "Solving spatial problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing cartographic projects",
+            "Coordinating GIS tasks"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Geography",
+        "courseCode": "GEOG 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": [
+            "N/A"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographical data",
+            "Critical evaluation of geographical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Independent Research in Geography",
+        "courseCode": "GEOG 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of the instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Geographic data analysis",
+            "GIS software operation",
+            "Data visualization"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with instructor",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Research question formulation",
+            "Data interpretation",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Time management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Geography",
+        "courseCode": "GEOG 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent study under the direction of an instructor.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Data collection and analysis",
+            "Geographic Information System (GIS)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Feedback processing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem identification and solution formulation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Time management",
+            "Independent project planning"
+        ]
+    },
+    {
+        "courseTitle": "Senior Thesis",
+        "courseCode": "GEOG 499",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Completion of a research paper supervised by a faculty member from the Geography program.  Research topic to be selected in concert with the faculty supervisor and a final written report required.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Writing a research paper",
+            "Data analysis and interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with faculty supervisor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Selection of relevant research topic",
+            "Analysis of research data",
+            "Critical evaluation of research findings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independently managing a research project",
+            "Meeting research deadlines",
+            "Adapting research approach based on feedback"
+        ]
+    },
+    {
+        "courseCode": "GEOG 500",
+        "courseTitle": "Seminar in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of a specialized topic in geography.  The choice of the topic may vary according to the availability of faculty expertise and student interest.",
+        "Technical and Digital Skills": [
+            "Specialized geographical research",
+            "Use of geographical tools and softwares"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective presentation of geographical data",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographical data",
+            "Critical evaluation of geographical information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading a geographical research project",
+            "Organizing and managing geographical data"
+        ]
+    },
+    {
+        "courseCode": "GEOG 501",
+        "courseTitle": "Global Environmental Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course analyzes the causes, severity, potential consequences, and proposed solutions regarding global ecological issues with special attention to the scientific debate and the political and policy process. It examines environmental policies of national governments, regional/international organizations and global conferences.",
+        "Technical and Digital Skills": [
+            "Policy analysis",
+            "Understanding of scientific data and debates",
+            "Knowledge of national and international environmental policies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating and discussing policy",
+            "Presenting policy proposals",
+            "Understanding and interpreting varying perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ecological issues",
+            "Proposing solutions for environmental problems",
+            "Evaluating the effectiveness of environmental policies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading policy discussions",
+            "Organizing policy initiatives",
+            "Coordinating with regional and international organizations"
+        ]
+    },
+    {
+        "courseCode": "GEOG 502",
+        "courseTitle": "Geographic Information Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the conceptual basis of GIS as a tool for manipulating spatial information.  The course focuses on how geographic information can be input and organized within the framework of a GIS.  Students will work on a computer-based GIS to gain a greater understanding of spatial database structures and analytical operations.",
+        "Technical and Digital Skills": [
+            "Understanding of GIS as a tool for manipulating spatial information",
+            "Working with computer-based GIS",
+            "Knowledge of spatial database structures",
+            "Performing analytical operations in GIS"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Manipulating spatial information",
+            "Organizing geographic information within a GIS",
+            "Analyzing spatial database structures"
+        ],
+        "Organizational and Leadership Skills": [
+            "Inputting and organizing geographic information in a GIS"
+        ]
+    },
+    {
+        "courseCode": "GEOG 504",
+        "courseTitle": "Digital Techniques for Remote Sensing",
+        "academicLevel": "graduate",
+        "courseDescription": "Study of the theory and application of remote sensing, emphasizing environmental applications and aerial and satellite imagery.  Covers the fundamentals of multispectral digital image processing, including sensors pre-processing, enhancement, classification, accuracy assessment, and GIS data integration.",
+        "Technical and Digital Skills": [
+            "Understanding of remote sensing theory",
+            "Application of remote sensing",
+            "Interpretation of aerial and satellite imagery",
+            "Multispectral digital image processing",
+            "Sensors pre-processing",
+            "Image enhancement techniques",
+            "Image classification",
+            "Accuracy assessment",
+            "GIS data integration"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and interpreting remote sensing data",
+            "Problem solving in digital image processing",
+            "Assessing accuracy of remote sensing data"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 505",
+        "courseTitle": "Seminar in International Resource Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Discussion of the ecological and management principles underlying international resource management and the goal of attaining a sustainable, ecologically balanced world.",
+        "Technical and Digital Skills": [
+            "Understanding of ecological principles",
+            "Knowledge of international resource management strategies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and negotiation skills",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ecological and management principles",
+            "Solving resource management issues",
+            "Strategic planning for sustainability"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading international resource management initiatives",
+            "Organizing sustainable practices and principles"
+        ]
+    },
+    {
+        "courseCode": "GEOG 508",
+        "courseTitle": "Cartography",
+        "academicLevel": "graduate",
+        "courseDescription": "Computer-assisted methods and techniques employed in the design, construction, and use of maps and other graphics as tools for data analysis and communication.",
+        "Technical and Digital Skills": [
+            "Computer-assisted methods",
+            "Techniques in map design",
+            "Construction of maps",
+            "Use of graphical tools for data analysis",
+            "Data communication tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective data communication",
+            "Presenting graphical data",
+            "Interpreting maps and graphics to others"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data analysis using maps and graphics",
+            "Problem-solving through map interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing data for graphical presentation",
+            "Leading data analysis projects",
+            "Managing map construction processes"
+        ]
+    },
+    {
+        "courseCode": "GEOG 509",
+        "courseTitle": "Drone Applications Proseminar",
+        "academicLevel": "graduate",
+        "courseDescription": "Survey of the state-of-the-art geospatial applications of small Uncrewed Autonomous Systems (sUAS) mapping, surveying, and modeling.  Course combines seminars spanning application sectors of research and professional practice; lectures on mission planning, operations, analysis and regulations; and hands-on practical exercises incorporating risk management, safety, ethics, and legal issues.",
+        "Technical and Digital Skills": [
+            "Geospatial applications of sUAS",
+            "Mission planning",
+            "Operations analysis",
+            "Understanding of drone regulations",
+            "Risk management in drone operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional practice in drone applications",
+            "Ethical considerations in drone operations"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Surveying and modeling with drones",
+            "Hands-on exercises with sUAS",
+            "Safety procedures in drone operations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading drone mission planning",
+            "Managing legal issues in drone operations"
+        ]
+    },
+    {
+        "courseCode": "GEOG 510",
+        "courseTitle": "Seminar in Urban Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Discussion of specific urban and metropolitan problems based on outside readings and individually selected research topics.",
+        "Technical and Digital Skills": [
+            "Researching urban issues",
+            "Analyzing metropolitan data"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying urban problems",
+            "Critical evaluation of information",
+            "Analyzing research data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Individual research project management",
+            "Leading discussions on urban issues"
+        ]
+    },
+    {
+        "courseCode": "GEOG 511",
+        "courseTitle": "Urban and Regional Planning",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of planning concepts and principles used to guide contemporary metropolitan growth and development. Emphasis is on the application of planning tools and methods that guide the planning process from conception to execution.",
+        "Technical and Digital Skills": [
+            "Application of planning tools",
+            "Understanding of planning methods",
+            "Analysis of metropolitan growth and development"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of planning concepts and principles",
+            "Collaboration in the planning process"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of metropolitan growth",
+            "Problem-solving in urban development",
+            "Execution of planning strategies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organization of planning process from conception to execution",
+            "Leadership in managing metropolitan growth and development"
+        ]
+    },
+    {
+        "courseCode": "GEOG 512",
+        "courseTitle": "Cities of the World",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of cities of the world's major cultural realms with an emphasis on the urban landscape as it varies between developed and developing countries.",
+        "Technical and Digital Skills": [
+            "Geographic Information System (GIS) applications",
+            "Data analysis of urban landscapes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presenting urban landscape analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of urban landscapes",
+            "Identifying patterns in cultural realms"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing complex information about global cities",
+            "Leading discussions on urban landscape variations"
+        ]
+    },
+    {
+        "courseCode": "GEOG 517",
+        "courseTitle": "GIS for Planning and Public Policy",
+        "academicLevel": "graduate",
+        "courseDescription": "Geographic Information Systems (GIS) and science are an essential tool for urban planners and policy makers who have special interests in places and who need this kind of knowledge for decision making. The purpose of this course is to teach students the foundations of GIS and how it is applied in urban planning and other related disciplines. The course combines lectures, discussion of readings, and hands-on exercises in the computer lab.",
+        "Technical and Digital Skills": [
+            "Understanding and application of Geographic Information Systems (GIS)",
+            "Use of computer lab equipment",
+            "Hands-on exercises related to GIS"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in course discussions",
+            "Explanation and presentation of GIS concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Applying GIS to urban planning and policy making",
+            "Practical decision making using GIS"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 519",
+        "courseTitle": "Spatial Analysis of Coastal Environments",
+        "academicLevel": "graduate",
+        "courseDescription": "The course integrates remotely sensed and field techniques for scientific investigation and practical management of coastal environmental systems.  Spatial modeling of coastal processes and management tools using Geographic Information System (GIS).",
+        "Technical and Digital Skills": [
+            "Spatial modeling",
+            "Geographic Information System (GIS) application",
+            "Remote sensing techniques",
+            "Field techniques for environment investigation",
+            "Practical management of coastal systems"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative work in field investigation",
+            "Conveying spatial analysis findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing coastal process data",
+            "Implementing environmental management solutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing coastal environment projects",
+            "Coordinating field investigations"
+        ]
+    },
+    {
+        "courseCode": "GEOG 520",
+        "courseTitle": "Marine Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of the environmental geography and resources of the ocean, with particular emphasis on geospatial analysis of the seafloor, hydrography, climate change, fisheries, ocean pollution, maritime activity spaces and management.",
+        "Technical and Digital Skills": [
+            "Geospatial analysis",
+            "Hydrographic data interpretation",
+            "Climate change data analysis",
+            "Fisheries management",
+            "Ocean pollution analysis",
+            "Maritime activity management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Environmental resource analysis",
+            "Oceanographic problem-solving",
+            "Analytical skills in maritime activities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in marine geography",
+            "Organizing and interpreting geospatial data"
+        ]
+    },
+    {
+        "courseCode": "GEOG 522",
+        "courseTitle": "Coastal Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the physical and human geography of the coastal zone.  Considers problems of managing coastal resources with an emphasis on North America. Lectures focus on coastal patterns, processes, and problems at the global, national, and local scales.  Students investigate a section of the local coastline and write a report on the physical and human geography on the basis of field study, library, and internet research.",
+        "Technical and Digital Skills": [
+            "Internet research",
+            "Field data collection",
+            "Geographic data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Report writing",
+            "Group fieldwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Coastal resource management",
+            "Geographical problem analysis",
+            "Scale-based analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project planning and execution",
+            "Independent research coordination"
+        ]
+    },
+    {
+        "courseCode": "GEOG 524",
+        "courseTitle": "Weather, Climate, and Society",
+        "academicLevel": "graduate",
+        "courseDescription": "Weather and climate play a pivotal role in nearly every aspect of life.  How does temperature relate to health outcomes?  What impact does El Niño have on Peruvian farmers?  How is the issue of climate change reflected in national security policy?  Why?  Topics also include the energy balance equation, remote sensing techniques, and climatological data acquisition and analysis.  Beyond an understanding of the complex processes that dictate the flow of the atmosphere, the course analyzes the socioeconomic, political, and cultural perspectives of climate and weather.  The course also provides a framework for stewardship and responsibility to the future.",
+        "Technical and Digital Skills": [
+            "Understanding of energy balance equation",
+            "Familiarity with remote sensing techniques",
+            "Proficiency in climatological data acquisition and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ability to communicate complex processes of atmosphere flow",
+            "Understanding and communicating the socioeconomic, political, and cultural perspectives of climate and weather",
+            "Advocacy for stewardship and responsibility towards the environment"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ability to analyze the relationship between temperature and health outcomes",
+            "Understanding of the impact of climate phenomena on specific communities (e.g., El Niño's impact on Peruvian farmers)",
+            "Analyzing how climate change reflects on national security policy"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseCode": "GEOG 525",
+        "courseTitle": "Internet Geographic Information Systems",
+        "academicLevel": "graduate",
+        "courseDescription": "Theoretical and practical exploration of methods, standards, and policies related to the development and utilization of geographic information systems on the Internet.  Students will create and utilize distributed geospatial data and analytical systems using the WWW and the Internet to address geographical problems.",
+        "Technical and Digital Skills": [
+            "Development of geographic information systems",
+            "Utilization of geographic information systems",
+            "Creation of distributed geospatial data",
+            "Use of analytical systems via the Internet",
+            "Addressing geographical problems through the WWW"
+        ],
+        "Interpersonal and Communication Skills": [
+            "N/A"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Addressing geographical problems using geospatial data and analytical systems",
+            "Utilizing the Internet to solve geographical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Implementing methods, standards, and policies for geographic information systems",
+            "Managing distributed geospatial data"
+        ]
+    },
+    {
+        "courseCode": "GEOG 532",
+        "courseTitle": "Advanced GIS",
+        "academicLevel": "graduate",
+        "courseDescription": "The study of a series of advanced topics in the field of geographic information systems/science.  Focus is placed on the development of projects/models and a survey of several advanced techniques.  Students will work on a computer based GIS to implement topics from lectures.",
+        "Technical and Digital Skills": [
+            "Computer-based GIS implementation",
+            "Development of GIS projects/models",
+            "Understanding advanced GIS techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative project development"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of lecture topics to practical GIS tasks",
+            "Survey and implementation of advanced GIS techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing GIS projects",
+            "Applying models to GIS tasks"
+        ]
+    },
+    {
+        "courseCode": "GEOG 546",
+        "courseTitle": "Geography, Gender, and Sexuality",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines gender identity and sexuality in all of their diverse forms through a lens of human geography, such as metaphors of space and place, the cultural landscape, and 'mapping territory.' Topics explored include global gender identities; 'queer space; 'locating' gender and sexuality within the arts and tourism; the gendered citizen and the nation; and political economies of gender and sexuality.",
+        "Technical and Digital Skills": [
+            "Understanding of human geography",
+            "Analysis of cultural landscapes",
+            "Mapping territories",
+            "Interpretation of spatial metaphors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of diverse gender identities and sexualities",
+            "Communication about sensitive topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of global gender identities",
+            "Assessment of gender and sexuality within arts and tourism",
+            "Analysis of political economies of gender and sexuality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding and examining the gendered citizen and the nation",
+            "Organizing and interpreting diverse forms of gender identity and sexuality"
+        ]
+    },
+    {
+        "courseCode": "GEOG 551",
+        "courseTitle": "Europe",
+        "academicLevel": "graduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Europe.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Interpretation of physical, cultural, economic, and political factors",
+            "Understanding of European geography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and interpreting diverse viewpoints"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Critical evaluation of geographical data",
+            "Solving complex geographical problems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing geographical data",
+            "Leading discussions on European geography"
+        ]
+    },
+    {
+        "courseCode": "GEOG 552",
+        "courseTitle": "Africa",
+        "academicLevel": "graduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Africa.",
+        "Technical and Digital Skills": [
+            "Geographical Information Systems (GIS)",
+            "Spatial Data Analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presentation of geographical data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Geographical analysis",
+            "Interpretation of economic and political data",
+            "Critical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in geographical research",
+            "Coordinating cross-disciplinary research"
+        ]
+    },
+    {
+        "courseCode": "GEOG 553",
+        "courseTitle": "Geographical Analysis of Asia",
+        "academicLevel": "graduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Asia excluding the Middle East and the former USSR.",
+        "Technical and Digital Skills": [
+            "Geographic Information System (GIS) operation",
+            "Data analysis",
+            "Research on physical, cultural, economic, and political factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presentation of geographical analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting complex geographical data",
+            "Critical evaluation of interrelationships",
+            "Analyzing socio-economic factors"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 554",
+        "courseTitle": "Latin America",
+        "academicLevel": "graduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in Latin America.",
+        "Technical and Digital Skills": [
+            "Geographical data analysis",
+            "Cultural data interpretation",
+            "Economic data interpretation",
+            "Political data interpretation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of geographical analysis findings",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identification of interrelationships among diverse factors",
+            "Critical evaluation of geographical, cultural, economic, and political data",
+            "Analytical thinking"
+        ],
+        "Organizational and Leadership Skills": [
+            "Multi-disciplinary data organization",
+            "Leadership in geographical discussion"
+        ]
+    },
+    {
+        "courseCode": "GEOG 555",
+        "courseTitle": "The Middle East",
+        "academicLevel": "graduate",
+        "courseDescription": "A geographical analysis of the interrelationships among physical, cultural, economic, and political factors in the Middle East.",
+        "Technical and Digital Skills": [
+            "Geographical analysis",
+            "Research on physical, cultural, economic, and political factors"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presentation of geographical and cultural insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of interrelationships among diverse factors",
+            "Critical evaluation of geographical and socio-economic data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordination of diverse information",
+            "Leadership in multi-cultural understanding"
+        ]
+    },
+    {
+        "courseCode": "GEOG 558",
+        "courseTitle": "Geography of Virginia",
+        "academicLevel": "graduate",
+        "courseDescription": "An analysis of Virginia's population, resources, and regional landscapes as they have been influenced by physical, cultural, historical, and economic factors.",
+        "Technical and Digital Skills": [
+            "Analyzing regional landscapes",
+            "Utilizing resources for geographical analysis",
+            "Understanding influence of physical factors on geography"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting geographical analysis",
+            "Communicating historical influences on geography"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing population trends",
+            "Understanding economic factors in geography",
+            "Analyzing historical influences on geography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating geographical research",
+            "Leading geographical analysis projects"
+        ]
+    },
+    {
+        "courseCode": "GEOG 560",
+        "courseTitle": "Medical Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "The course covers a range of topics in medical and health geography, including spatial behaviors of infectious disease and health care access. The focus of the course is on the geographical patterns of health and disease from the population rather than individual scale. In addition to seminar style lectures and discussions, the course enables students to further investigate by learning how to conduct medical/health geography research.",
+        "Technical and Digital Skills": [
+            "Spatial analysis of disease patterns",
+            "Research methodologies in medical and health geography",
+            "Data collection and analysis in health care access"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Participation in seminar-style discussions",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of geographical patterns of health and disease",
+            "Critical evaluation of health care access",
+            "Problem-solving in infectious disease spread"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent health geography research",
+            "Organizing and interpreting complex health and disease data"
+        ]
+    },
+    {
+        "courseCode": "GEOG 562",
+        "courseTitle": "Advanced Spatial Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "This course introduces the essential theoretical concepts and analytical tools for analyzing spatial process, spatial autocorrelation, spatial patterns, techniques for spatial interpolation, network connectivity, big data, and landscape patterns. The course culminates with students carrying out their own spatial analysis projects. This course assumes that students understand the basic concepts in GIS with some experience in software operation of ArcGIS.",
+        "Technical and Digital Skills": [
+            "Understanding of spatial process",
+            "Analyzing spatial autocorrelation",
+            "Analyzing spatial patterns",
+            "Techniques for spatial interpolation",
+            "Understanding network connectivity",
+            "Handling big data",
+            "Analyzing landscape patterns",
+            "Software operation of ArcGIS"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting spatial analysis projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial process analysis",
+            "Spatial autocorrelation analysis",
+            "Algorithmic thinking for spatial interpolation",
+            "Big data analysis",
+            "Landscape pattern analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management for spatial analysis projects",
+            "Independent research"
+        ]
+    },
+    {
+        "courseCode": "GEOG 563",
+        "courseTitle": "GIS Programming",
+        "academicLevel": "graduate",
+        "courseDescription": "This course develops students’ GIS programming skills. Focus is placed on Python programming in ArcGIS and JavaScript in Web GIS development.",
+        "Technical and Digital Skills": [
+            "Python programming",
+            "ArcGIS usage",
+            "JavaScript programming",
+            "Web GIS development"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Troubleshooting programming issues",
+            "GIS data analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 564",
+        "courseTitle": "Advanced Environmental Geography Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "The objective of the course is to provide students with a deeper understanding of the current concepts and debates in environmental geography.  By exploring the ethical and philosophical foundations of the field, the course considers the environment’s opportunities and constraints.  While topics may include climate change, agricultural security, and renewable energy, the course will be driven be student-led discussions and participation.  Critically thinking about complex phenomenon, the seminar will include various weekly readings, discussions, and writing assignments.",
+        "Technical and Digital Skills": [
+            "Research on current environmental issues",
+            "Understanding of renewable energy technologies",
+            "Climate change modeling"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Leading group discussions",
+            "Writing on complex environmental topics",
+            "Active participation in debates"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking on complex environmental phenomena",
+            "Analysis of ethical and philosophical foundations of environmental geography",
+            "Evaluating constraints and opportunities in the environment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and organizing weekly readings",
+            "Leading student-led discussions",
+            "Time management for assignments"
+        ]
+    },
+    {
+        "courseCode": "GEOG 573",
+        "courseTitle": "Geographic Information Systems for Emergency Management",
+        "academicLevel": "graduate",
+        "courseDescription": "Students will demonstrate advanced skills and techniques using spatial data  to prevent, mitigate, respond to, and recover from intentional, natural, and accidental homeland security threats and emergencies. This course demonstrates the importance of rapidly disseminating spatial information towards the prevention and response of various organizations to homeland security events. This course will provide students with the tools and experience required to collect, prepare and manage spatial data and enable students to be prepared to map and analyze the data to quickly and effectively create a coordinated response to real homeland security events.",
+        "Technical and Digital Skills": [
+            "Advanced spatial data usage",
+            "Data collection",
+            "Data preparation",
+            "Data management",
+            "Mapping and data analysis",
+            "Rapid dissemination of spatial information",
+            "Mitigation and response techniques for homeland security threats"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Coordinated response communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Emergency prevention and response",
+            "Threat mitigation and recovery",
+            "Rapid problem-solving in the face of homeland security events",
+            "Analysis of spatial data for strategic planning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Emergency management",
+            "Organizing and managing spatial data for crisis situations"
+        ]
+    },
+    {
+        "courseCode": "GEOG 575",
+        "courseTitle": "Urban Resiliency",
+        "academicLevel": "graduate",
+        "courseDescription": "This course examines the multifaceted interface of built and natural environments and their impacts on land use management at spatial and temporal scales. It evaluates the impact of population pressure on sustainability through a survey of urban areas and analyzes urban planning and management capacities to maintain resilience despite environmental and technological hazards.",
+        "Technical and Digital Skills": [
+            "Spatial scaling analysis",
+            "Temporal scaling analysis",
+            "Surveying urban areas",
+            "Evaluating environmental impacts",
+            "Assessing technological hazards"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating urban planning strategies",
+            "Presenting sustainability impacts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Land use management",
+            "Population pressure analysis",
+            "Urban planning and management",
+            "Sustainability assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing urban resilience initiatives",
+            "Leading urban planning strategies"
+        ]
+    },
+    {
+        "courseCode": "GEOG 590",
+        "courseTitle": "Applied Cartography/GIS",
+        "academicLevel": "graduate",
+        "courseDescription": "Practical experience in applying the principles of cartography and geographical information systems to the design and construction of maps and other graphics.",
+        "Technical and Digital Skills": [
+            "Applying principles of cartography",
+            "Geographical information systems operation",
+            "Map and graphic design",
+            "Map and graphic construction"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Spatial analysis",
+            "Practical problem-solving in cartographic design"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 595",
+        "courseTitle": "Topics in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication of specialized topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of selected topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing complex information",
+            "Leading discussions on specialized topics"
+        ]
+    },
+    {
+        "courseCode": "GEOG 596",
+        "courseTitle": "Topics in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Presenting specialized topics",
+            "Communicating complex geographical information"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing geographical data",
+            "Identifying patterns and trends in geographical data"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing specialized projects",
+            "Leading academic discussions"
+        ]
+    },
+    {
+        "courseCode": "GEOG 597",
+        "courseTitle": "Independent Research in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of the instructor. Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Geographic data analysis",
+            "Academic paper writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presentation of research findings",
+            "Knowledge sharing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Data interpretation",
+            "Hypothesis development and testing",
+            "Critical thinking",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "GEOG 598",
+        "courseTitle": "Tutorial Work in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "Researching geographical data",
+            "Use of geographical information systems",
+            "Data collection and analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Working under supervision",
+            "Presenting research findings",
+            "Collaboration with academic staff"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Critical evaluation of geographical data",
+            "Problem-solving in geographical research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "GEOG 600",
+        "courseTitle": "Geospatial Data Analysis",
+        "academicLevel": "graduate",
+        "courseDescription": "Course focuses on the fundamentals of geospatial data science. Students learn the key data models, structures, sources, and application of spatial analysis using GIS software, R, programming, and Earth observations.",
+        "Technical and Digital Skills": [
+            "Understanding key data models and structures",
+            "Application of spatial analysis",
+            "Use of GIS software",
+            "R programming",
+            "Analyzing Earth observations"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Interpreting geospatial data",
+            "Problem solving with GIS software",
+            "Analytical thinking using R"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing geospatial data",
+            "Managing spatial analysis projects"
+        ]
+    },
+    {
+        "courseCode": "GEOG 601",
+        "courseTitle": "Spatial Statistics and Modeling",
+        "academicLevel": "graduate",
+        "courseDescription": "This course covers the foundations of spatial statistics and modeling. Emphasis is placed on point, linear and areal patterns, geostatistics, and model development for a variety of problems using multiple software packages.",
+        "Technical and Digital Skills": [
+            "Understanding of spatial statistics",
+            "Model development",
+            "Knowledge of multiple software packages",
+            "Point, linear and areal patterns analysis",
+            "Geostatistics"
+        ],
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Problem solving using spatial statistical methods",
+            "Analytical thinking for model development",
+            "Ability to identify patterns"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 620",
+        "courseTitle": "Seminar in Political Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the interrelationships of political and geographic phenomena, and theories of geopolitics; examines in a seminar format the political geography both of specific topics such as the national integration of states, refugees and resources, and of particular regions of the world.",
+        "Technical and Digital Skills": [
+            "Geopolitical analysis",
+            "Research on political and geographic phenomena"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Seminar participation",
+            "Discussion facilitation",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of political theories",
+            "Analysis of regional political geography",
+            "Understanding of national integration processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Topic prioritization"
+        ]
+    },
+    {
+        "courseCode": "GEOG 668",
+        "courseTitle": "Internship",
+        "academicLevel": "graduate",
+        "courseDescription": "Individualized practical experience.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Professional communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Practical problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Task prioritization"
+        ]
+    },
+    {
+        "courseCode": "GEOG 695",
+        "courseTitle": "Selected Topics in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest.",
+        "Technical and Digital Skills": [
+            "Geospatial analysis software",
+            "Geographic Information Systems (GIS)"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaborative research",
+            "Presenting geographic data"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Geographic data analysis",
+            "Critical evaluation of geographic studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in geography",
+            "Leading collaborative research"
+        ]
+    },
+    {
+        "courseCode": "GEOG 696",
+        "courseTitle": "Selected Topics in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest.",
+        "Technical and Digital Skills": [
+            "Geospatial data analysis",
+            "GIS software handling",
+            "Digital mapping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Presentation of geographical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial problem solving",
+            "Geographical data interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Leading small group discussions"
+        ]
+    },
+    {
+        "courseCode": "GEOG 697",
+        "courseTitle": "Independent Research in Geography",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent research in geography under the supervision of a faculty member.",
+        "Technical and Digital Skills": [
+            "GIS applications",
+            "Data collection and analysis",
+            "Geospatial technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration with academic advisor",
+            "Presenting research findings",
+            "Receiving and implementing feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Spatial analysis",
+            "Critical evaluation of geographic information",
+            "Hypothesis development and testing"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project planning and execution",
+            "Independent research"
+        ]
+    },
+    {
+        "courseCode": "GEOG 720",
+        "courseTitle": "Cultural Geography Seminar",
+        "academicLevel": "graduate",
+        "courseDescription": "This seminar examines the field of cultural geography with: 1) an emphasis on theories and concepts developed over the past twenty years in 'new' cultural geography, and 2) cultural geography's emphasis on issues such as place, power, landscape and identity.",
+        "Technical and Digital Skills": [
+            "Research on cultural geography theories",
+            "Understanding of geographical mapping tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion on cultural issues",
+            "Debate on geographical theories",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of geographical issues",
+            "Critical thinking on place, power, landscape and identity",
+            "Problem-solving regarding cultural geography"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing seminars on cultural geography",
+            "Leading discussions on geographical issues"
+        ]
+    }
+]

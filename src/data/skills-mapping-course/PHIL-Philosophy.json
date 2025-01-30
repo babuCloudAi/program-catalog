@@ -1,0 +1,2244 @@
+[
+    {
+        "courseTitle": "Introduction to Philosophy",
+        "courseCode": "PHIL 110P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to basic concepts, methods and issues in philosophy, and a consideration of representative types of philosophical thought concerning human nature, the world, knowledge, and value.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Argument analysis",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Objectivity",
+            "Ethical decision-making",
+            "Conceptual organization"
+        ]
+    },
+    {
+        "courseTitle": "Logic and Philosophy",
+        "courseCode": "PHIL 120P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the principles of correct reasoning and the types of fallacious reasoning.  Includes an examination of the philosophical and historical context of logic, and the application of logical methods to philosophical questions.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating complex philosophical concepts",
+            "Debating and critiquing philosophical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Logical reasoning",
+            "Identifying fallacies in arguments",
+            "Applying logical methods to philosophical questions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Contextual understanding of philosophical concepts",
+            "Historical analysis"
+        ]
+    },
+    {
+        "courseTitle": "Honors: Life, Death, and Meaning",
+        "courseCode": "PHIL 127P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  An Honors version of PHIL 150P.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Critical dialogue",
+            "Ethical debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Philosophical analysis",
+            "Ethical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Academic research"
+        ]
+    },
+    {
+        "courseTitle": "Life, Death, and Meaning",
+        "courseCode": "PHIL 150P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "What is the meaning of life, and what role might the end of life play in living meaningfully? This course provides an introduction to philosophy and religious studies through an investigation of different views on death and the meaning of life from diverse cultures and identities. (Cross-listed with REL 150P)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discussion and debate of philosophical concepts",
+            "Presentation of viewpoints"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical and religious texts",
+            "Analysis of diverse cultural perspectives",
+            "Interpretation of existential concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in group discussions",
+            "Organizing philosophical arguments"
+        ]
+    },
+    {
+        "courseTitle": "Human Nature",
+        "courseCode": "PHIL 155E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "What ways of thinking, feeling, and acting are essentially human? This course focuses on some of the most influential and fascinating philosophical and religious accounts of human nature from diverse cultural perspectives. Topics may include the nature of human beings in relation to God, society, ethics, politics, knowledge, the environment, freedom, evolution, the mind, language, race, gender, and technology. (Cross-listed with REL 155E)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and interpreting diverse cultural perspectives",
+            "Effective communication of philosophical and religious concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical and religious accounts of human nature",
+            "Analyzing the relationship between human beings and various aspects such as God, society, politics, knowledge, environment, freedom, evolution, mind, language, race, gender, and technology"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and presenting complex philosophical ideas",
+            "Leading discussions on sensitive topics such as race, gender, and religion"
+        ]
+    },
+    {
+        "courseTitle": "Raising Moral Issues in STEM",
+        "courseCode": "PHIL 160R",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides training in how to speak up in defense of moral concerns in a STEM organizational context, and how to do so in an effective and productive way.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication of moral issues",
+            "Defensive speaking in organizational contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing moral dilemmas in STEM fields",
+            "Critical evaluation of moral concerns"
+        ],
+        "Organizational and Leadership Skills": [
+            "Assertive leadership in moral discourse",
+            "Persuasive advocacy for ethical practices"
+        ]
+    },
+    {
+        "courseTitle": "Study Abroad: Introduction to Philosophy",
+        "courseCode": "PHIL 195",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is the study abroad equivalent of PHIL 110P, an introduction to basic concepts, methods and issues in philosophy, and a consideration of representative types of philosophical thought concerning human nature, the world, knowledge, and value.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Active listening",
+            "Articulating complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical theories",
+            "Analytical thinking",
+            "Ethical decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Self-motivation",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Information Literacy for Cybersecurity",
+        "courseCode": "PHIL 202G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides an in-depth introduction to information literacy from library and information science, information ethics, and computer science perspectives along with applications to cybersecurity research and professional activity. This course is aligned with Old Dominion University’s general education learning outcomes for information literacy.",
+        "Technical and Digital Skills": [
+            "Information literacy",
+            "Basics of cybersecurity",
+            "Understanding of computer science perspectives",
+            "Knowledge of information ethics",
+            "Library and information science applications"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication of cybersecurity issues",
+            "Professional activity in cybersecurity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of information",
+            "Research in cybersecurity",
+            "Problem solving related to information ethics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Alignment with general education learning outcomes",
+            "Organizing information in a cybersecurity context"
+        ]
+    },
+    {
+        "courseTitle": "Honors: World Religions: Beliefs and Values",
+        "courseCode": "PHIL 227E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Open only to students in the Honors College.  A special Honors section of PHIL 250E.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication of religious beliefs and values",
+            "Interfaith dialogue and communication",
+            "Understanding and respecting diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious texts and beliefs",
+            "Comparative religious studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on sensitive topics",
+            "Organizing interfaith dialogues"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Ethics",
+        "courseCode": "PHIL 230E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An introduction to the study of ethics through philosophical reflection on a variety of moral issues of contemporary significance.  Topics covered will vary by semester and instructor, and may include issues drawn from professional fields such as business, medicine, and information technology, plus matters of public concern like the environment, the treatment of animals, the use of military force, social justice, and civil and human rights.",
+        "Technical and Digital Skills": [
+            "Understanding of ethical issues in information technology",
+            "Familiarity with ethical challenges in business and medicine"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting moral arguments",
+            "Understanding and respecting diverse perspectives",
+            "Discussion and debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of moral issues",
+            "Understanding and applying ethical theories",
+            "Analyzing social justice issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Making ethical decisions in a leadership role",
+            "Promoting ethical standards in organizations"
+        ]
+    },
+    {
+        "courseTitle": "Love, Sex, and Desire",
+        "courseCode": "PHIL 235E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Is love universal or culturally bound? Is sexual desire biologically driven or learned? This course provides an introduction to Philosophy and Religious Studies through an investigation of love, sex, and desire vis-a-vis ethical values and societal norms.  (Cross-listed with REL 235E)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion of sensitive subjects",
+            "Understanding and respecting diverse perspectives",
+            "Effective communication of personal views"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of societal norms and ethical values",
+            "Investigative research into cultural and biological factors of love and desire",
+            "Evaluation of philosophical and religious perspectives"
+        ],
+        "Organizational and Leadership Skills": [
+            "Active participation in class discussions",
+            "Respectful leadership in group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to the Philosophy of Science",
+        "courseCode": "PHIL 240",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A survey of philosophical problems common to the sciences, including an analysis of key concepts and an examination of science in its historical and cultural context.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical concepts",
+            "Discussing historical and cultural contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of scientific concepts",
+            "Examination of scientific history and culture",
+            "Problem-solving in philosophical context"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "World Religions: Beliefs and Values",
+        "courseCode": "PHIL 250E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A comparative and philosophical study of major world religions in the Eastern and Western traditions with particular attention being paid to their views about the basis of right action and the nature of good and evil.  Other points of comparison include the foundations of religious knowledge and belief, the meaning of human life, divinity, and death and immortality.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discussion facilitation",
+            "Active listening",
+            "Respectful dialogue"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis",
+            "Critical thinking",
+            "Philosophical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Viewpoint synthesis",
+            "Thought leadership in philosophical discussions"
+        ]
+    },
+    {
+        "courseTitle": "Truth and Perception",
+        "courseCode": "PHIL 270P",
+        "academicLevel": "undergraduate",
+        "courseDescription": "What is truth? How do we know when something is real or fake? Are you certain that other people perceive the world in the same way you do? In this course we’ll try to answer questions like these and more through an exploration of the relationship between our minds, our bodies, and the world around us.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Empathy and understanding of differing perspectives",
+            "Articulating complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing subjective information",
+            "Differentiating between reality and perception"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-awareness and introspection",
+            "Adaptability to new perspectives"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Digital Culture",
+        "courseCode": "PHIL 290G",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides practical training in information access, critical information assessment, and ethical information use in a theoretically-oriented research context, as well as a theoretical exploration of issues in information literacy, the ethics and politics of online informational spaces, and the philosophy of digital culture.",
+        "Technical and Digital Skills": [
+            "Information access",
+            "Ethical information use",
+            "Understanding of online informational spaces"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical information assessment",
+            "Ethical dialogue and debates",
+            "Communicating complex digital concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem-solving in digital contexts",
+            "Analytical evaluation of online resources"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Leadership in digital culture debates",
+            "Project management in research contexts"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Philosophy",
+        "courseCode": "PHIL 295",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for non-majors. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective verbal communication",
+            "Peer discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Interpretation of philosophical texts",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseTitle": "Knowledge and Reality",
+        "courseCode": "PHIL 300",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Metaphysics is the study of the ultimate nature of reality and epistemology is the study of what we can know about reality. This introduction to metaphysics and epistemology will engage with views of what exists and how we can know about it from a diverse collection of traditions and figures.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding diverse perspectives",
+            "Engagement in philosophical discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning",
+            "Conceptual analysis",
+            "Critical evaluation of philosophical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing philosophical ideas",
+            "Independent study"
+        ]
+    },
+    {
+        "courseTitle": "Ethics and Metaethics",
+        "courseCode": "PHIL 301",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the philosophical foundations of ethical inquiry from a diverse collection of traditions and figures, including historically marginalized voices. Various ethical systems are considered, and different views of metaethics and moral psychology may be as well.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Comparative analysis of ethical systems",
+            "Effective communication of philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Critical evaluation of ethical theories",
+            "Comprehension of complex philosophical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Respect for diversity and inclusivity in ethical discourse"
+        ]
+    },
+    {
+        "courseTitle": "Business Ethics",
+        "courseCode": "PHIL 303E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A philosophical examination of ethical issues that arise in business and commerce.  Topics discussed will vary by semester and instructor, but may include affirmative action, ethical versus unethical sales and marketing techniques, the obligations of business to society (if any), and the moral foundations of capitalism.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Ethical communication in business",
+            "Presentation of complex ethical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision making",
+            "Critical evaluation of ethical issues in business",
+            "Analysis of ethical versus unethical sales and marketing techniques"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in ethical issues",
+            "Understanding and applying affirmative action policies",
+            "Promoting ethical organizational culture"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Religion",
+        "courseCode": "PHIL 313",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An analytical and critical consideration of the philosophical foundations of religion.  Such topics as the existence of God, the problem of evil, theism and atheism, prayer, and immortality are discussed.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical arguments",
+            "Explaining complex religious concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical criticism of philosophical ideas",
+            "Problem-solving in the context of philosophical dilemmas",
+            "Debating theism and atheism",
+            "Analyzing the problem of evil"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical debates",
+            "Organizing thoughts and arguments clearly",
+            "Making informed judgments on complex philosophical issues"
+        ]
+    },
+    {
+        "courseTitle": "Ancient Greek Philosophy",
+        "courseCode": "PHIL 330",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a study of the thought of the classical Greek philosophers from the sixth century B.C.E. to the fifth century C.E.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of philosophical theories",
+            "Articulation of complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of philosophical arguments",
+            "Critical thinking and interpretation of ancient texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research and study",
+            "Time management and prioritization of reading material"
+        ]
+    },
+    {
+        "courseTitle": "Early Modern European Philosophy",
+        "courseCode": "PHIL 331",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of the rise of modern philosophy in the 17th and early 18th centuries in Europe.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective note-taking",
+            "Articulating complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical texts",
+            "Critical thinking",
+            "Conceptual problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Medieval Philosophy",
+        "courseCode": "PHIL 332",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the significant contributions of medieval philosophers to the development of philosophy of religion as well as other fields, including philosophy of language, logic, and ethics. Students examine the writings of medieval philosophers from Jewish, Christian, and Islamic traditions.",
+        "Technical and Digital Skills": [
+            "Textual analysis of philosophical works",
+            "Understanding of philosophical language and terminology",
+            "Knowledge of philosophical logic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement with diverse philosophical traditions",
+            "Discussion of complex philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Application of logical reasoning",
+            "Comparative analysis of different philosophical views"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research and study",
+            "Development and articulation of philosophical arguments"
+        ]
+    },
+    {
+        "courseTitle": "Late Modern European Philosophy",
+        "courseCode": "PHIL 334",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey of modern philosophy in the 18th and 19th centuries in Europe, addressing figures such as Kant, Hegel, Schopenhauer, Marx, Kierkegaard, and Nietzsche.",
+        "Technical and Digital Skills": [
+            "Understanding philosophical texts",
+            "Academic research and citation",
+            "Digital note-taking"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating complex philosophical concepts",
+            "Debate and discussion",
+            "Active listening and comprehension"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking and analysis",
+            "Argument evaluation",
+            "Logical reasoning",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Time management for extensive reading",
+            "Leading philosophical discussions"
+        ]
+    },
+    {
+        "courseTitle": "Logic",
+        "courseCode": "PHIL 340",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the basic concepts and methods of logic as they occur in ordinary language, formal logical arguments, and an elementary logical system.  Traditional Logic is emphasized, but some elements of Modern Logic are also introduced.",
+        "Technical and Digital Skills": [
+            "Understanding of formal logical arguments",
+            "Knowledge of elementary logical systems",
+            "Familiarity with Traditional Logic concepts",
+            "Introduction to elements of Modern Logic"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining logical concepts and arguments",
+            "Articulating complex logical methods"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing logical arguments",
+            "Solving problems using logical methods",
+            "Critical evaluation of logical concepts"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Environmental Ethics",
+        "courseCode": "PHIL 344E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the nature and basis of human obligations for the welfare of the environment with special attention to the foundations of ethical decision making.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Empathy towards environmental issues",
+            "Effective communication of ethical decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Ethical decision making",
+            "Critical evaluation of environmental issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on environmental welfare",
+            "Organizing environmental welfare programs"
+        ]
+    },
+    {
+        "courseTitle": "Bioethics",
+        "courseCode": "PHIL 345E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the philosophical foundations of ethical decision making in biology, medicine, and the life sciences.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Presenting ethical arguments",
+            "Facilitating discussion on ethical issues",
+            "Communicating complex ethical concepts clearly"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ethical dilemmas in biology and medicine",
+            "Critical evaluation of philosophical foundations",
+            "Applying ethical frameworks to real-world scenarios"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on bioethical issues",
+            "Organizing thoughts and arguments coherently"
+        ]
+    },
+    {
+        "courseTitle": "Asian Religions",
+        "courseCode": "PHIL 353",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course introduces students to several key religious traditions originating in Asia, such as Hindu traditions in India; Confucianism, Daoism, and popular religion in China, Buddhism and Shinto in Japan; and Buddhist traditions of China, Tibet, and Mongolia. Students will read and analyze primary sources in English translation. By examining artifacts from literature, art, and poetry, students will also learn about cultural history. Throughout the course, students will employ hermeneutical methods in the field of religious studies, such as methods of comparisons.",
+        "Technical and Digital Skills": [
+            "Analysis of primary sources",
+            "Understanding of hermeneutical methods",
+            "Examination of cultural artifacts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and analysis of religious texts",
+            "Cultural sensitivity and understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Comparative analysis of religious traditions",
+            "Interpretation of religious and cultural texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Cybersecurity Ethics",
+        "courseCode": "PHIL 355E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines ethical issues relevant to computing and information technology, including: privacy; freedom of speech and content control on the Internet; individual and social responsibility; cybersecurity; cybercrimes; social impact of computers and other digital technologies; and ethical obligations of IT professionals.  Students will gain a broad understanding of central issues in cyberethics and the ways that fundamental ethical theories relate to these core issues.",
+        "Technical and Digital Skills": [
+            "Understanding of cybersecurity",
+            "Knowledge of cybercrimes",
+            "Familiarity with digital technologies",
+            "Understanding of internet content control"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussing ethical issues related to IT",
+            "Communicating about privacy concerns",
+            "Discussing social impact of computers and digital technologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ethical issues in computing",
+            "Evaluating individual and social responsibilities in IT",
+            "Analyzing cybersecurity threats",
+            "Understanding ethical obligations of IT professionals"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Ethics and Data",
+        "courseCode": "PHIL 357E",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course explores, from a philosophical perspective, ethical questions arising from collecting, drawing inferences from, and acting on data, especially when these activities are automated and on a large scale. This course will provide students a framework for considering the ethical implications of data usage. Emphasis will be placed on discussing how historic and contemporary examples of potentially unethical practice could be altered to reduce harm and increase equity. Topics to be covered may include, but are not limited to, systematic approaches to assessing ethical issues; privacy and confidentiality; defining research and the responsibilities associated with conducting ethical research; implicit and structural biases in data collection and analysis; freedom of speech; and consent to data collection.",
+        "Technical and Digital Skills": [
+            "Understanding of data collection methods",
+            "Knowledge of data privacy and confidentiality",
+            "Understanding of data analysis process"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on ethical issues",
+            "Communicating complex issues related to data ethics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Systematic approaches to assessing ethical issues",
+            "Identifying and addressing implicit and structural biases in data collection and analysis",
+            "Evaluating ethical implications of data usage"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "African-American Philosophy",
+        "courseCode": "PHIL 364",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a survey introduction to major African-American philosophical thinkers and  will address themes such as: What is the nature of race, and what is the nature of racism? What is the nature of the good? What does the good life look like, how should we make sense of beauty, and are those values different for each of us? And how should we make sense of social and civil life and of social and civic obligations in the context of deep and persisting injustice?",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Engaging in philosophical discourse",
+            "Presenting complex philosophical ideas",
+            "Participating in group discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical texts",
+            "Critical evaluation of philosophical arguments",
+            "Understanding the nature of complex societal issues",
+            "Analyzing the concept of justice"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical discussions",
+            "Organizing thoughts and arguments effectively",
+            "Promoting inclusion and diversity in philosophical discussions"
+        ]
+    },
+    {
+        "courseTitle": "Race & Power",
+        "courseCode": "PHIL 365",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will draw on historical and contemporary scholarship to explore the evolution of the concept of race in relation to different theories of power. Topics may include how to define race, how people are racialized, genocide and social death, the use of racial epithets, cultural appropriation, ally-ship, and the role of activism.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding cultural appropriation",
+            "Promoting ally-ship",
+            "Appropriate use of racial language"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical and contemporary racial theories",
+            "Critical thinking in relation to genocide and social death",
+            "Analysis of the role of activism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading race and power-related activism",
+            "Organizing ally-ship initiatives"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "PHIL 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A structured work experience using analytical, research, and communication training from philosophy in a relevant industry, such as law, tech, finance, libraries, or in the public or nonprofit sectors. May be paid or unpaid. Criteria for evaluation will be determined by work supervisor and cooperating faculty advisor. May be repeated for credit. Available for pass/fail grading only.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Industry-specific software or tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Collaboration with diverse teams"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking",
+            "Problem-solving in a practical context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Work prioritization",
+            "Self-supervision"
+        ]
+    },
+    {
+        "courseTitle": "Practicum",
+        "courseCode": "PHIL 369",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course offers three forms of practical experience for philosophy majors:  Professional (for students anticipating careers in relevant professions, including philosophy);  Classroom (for students anticipating graduate study and a teaching career); Civic/Social Affairs (for students interested in grassroots activism).  Consult the department for details and certain specific prerequisites.",
+        "Technical and Digital Skills": [
+            "Critical evaluation of philosophical arguments"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teaching and facilitation",
+            "Community engagement and activism",
+            "Professional communication in philosophical contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Problem-solving in philosophical contexts",
+            "Critical thinking",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizational skills for grassroots activism",
+            "Leadership in academic and professional settings"
+        ]
+    },
+    {
+        "courseTitle": "Hinduism",
+        "courseCode": "PHIL 380",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive study of the basic teachings of Hinduism as manifested in its sacred writings.",
+        "Technical and Digital Skills": [
+            "Textual analysis of sacred writings",
+            "Basic knowledge in Hinduism"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of religious concepts",
+            "Presentation of religious teachings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of religious texts",
+            "Analytical interpretation of religious teachings"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Buddhist Traditions",
+        "courseCode": "PHIL 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the origin, historical development, and contemporary status of Buddhism, in terms of its religious and philosophical elements and its influence in Asian cultures.",
+        "Technical and Digital Skills": [
+            "Research and information gathering",
+            "Use of digital resources for historical and cultural study"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Discussion and debate of philosophical concepts",
+            "Presenting historical and cultural insights"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Analysis of religious and philosophical elements",
+            "Historical and cultural analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research",
+            "Leading discussions on philosophical concepts"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Technology & Innovation",
+        "courseCode": "PHIL 383T",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course engages in a critical exploration of what technology is as a human practice and how it develops over time in ways that influence and are influenced by society, culture, and human values. Students will also learn responsible, inclusive, and creative design and development practices through an understanding of how social structures are embedded in technology.",
+        "Technical and Digital Skills": [
+            "Understanding of how social structures are embedded in technology",
+            "Knowledge of responsible, inclusive, and creative design and development practices"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Exploration and discussion of how technology influences society and culture",
+            "Discussion and debate on human values in technology"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical exploration of technology as a human practice",
+            "Understanding and analysis of technology's development over time"
+        ],
+        "Organizational and Leadership Skills": [
+            "Responsible and inclusive design and development",
+            "Creative leadership in technology development and design"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Philosophy",
+        "courseCode": "PHIL 395",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Clear and concise writing",
+            "Persuasive speaking"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Logical reasoning",
+            "Evaluating arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline",
+            "Independent learning"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Philosophy",
+        "courseCode": "PHIL 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of selected topics designed for nonmajors, or for elective credit within a major.  These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Articulating complex ideas",
+            "Discussion participation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reasoning",
+            "Interpretation of philosophical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research",
+            "Self-discipline",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy and Video Games",
+        "courseCode": "PHIL 400/500",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the metaphysical, aesthetic, and ethical philosophical issues that accompany the creation, play, and critique of video games. Students will learn and analyze theories about what games are. They will think about and discuss the aesthetic qualities of video games and critically engage with attempts to fit video games into the larger art world. Students will engage with moral issues that arise from creating and consuming video games with morally problematic content. Finally, students will learn how to think critically about and interpret larger philosophical problems raised by video games and their themes.",
+        "Technical and Digital Skills": [
+            "Understanding of video games aesthetics",
+            "Critique of video games",
+            "Interpretation of video games and their themes"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion of aesthetic qualities of video games",
+            "Engagement in moral debates around video games"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of philosophical theories about games",
+            "Critical engagement with attempts to fit video games into the larger art world",
+            "Critical thinking about philosophical problems raised by video games"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Gender and Philosophy",
+        "courseCode": "PHIL 402/502",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A philosophical survey of approaches to understanding gender and gender differences. The course will also serve as an introduction to feminist philosophy, with a particular emphasis on feminist ethics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and Respect for Diverse Perspectives",
+            "Effective Communication of Philosophical Concepts",
+            "Engage in Constructive Dialogue"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Reading and Interpretation",
+            "Analysis of Gender Theories",
+            "Understanding of Feminist Ethics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent Research",
+            "Academic Argument Construction"
+        ]
+    },
+    {
+        "courseTitle": "Existentialism and Phenomenology",
+        "courseCode": "PHIL 404/504",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of the writings of some of the major philosophers in the Existentialist and Phenomenology movements of the 19th and 20th centuries.",
+        "Technical and Digital Skills": [
+            "Understanding and analyzing philosophical texts",
+            "Researching historical and contemporary philosophical literature"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical ideas",
+            "Debating philosophical theories",
+            "Written communication of complex concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical theories",
+            "Comparative analysis of philosophical movements"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "American Pragmatist Philosophy",
+        "courseCode": "PHIL 405/505",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of the writings of some of the major American philosophers in the Pragmatist tradition.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Active listening",
+            "Interpreting philosophical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of philosophical texts",
+            "Problem-solving through philosophical inquiry"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Language and Thought: History of Analytic Philosophy",
+        "courseCode": "PHIL 406/506",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is a study of the history of the Analytic tradition in philosophy up through the 20th century.",
+        "Technical and Digital Skills": [
+            "Researching historical data",
+            "Using digital libraries and databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting complex philosophical ideas",
+            "Written communication of philosophical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical texts",
+            "Critical thinking and evaluation of philosophical theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Time management for complete reading and research"
+        ]
+    },
+    {
+        "courseTitle": "Social and Political Philosophy",
+        "courseCode": "PHIL 410/510",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A philosophical analysis of the relation between man, society, and the state, studying about a dozen philosophers since Plato on such topics as justice, authority, law, freedom, and civil rights.",
+        "Technical and Digital Skills": [
+            "Historical context analysis",
+            "Understanding philosophical concepts",
+            "Interpretation of philosophical texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ideas articulation",
+            "Philosophical debates",
+            "Critical discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reading",
+            "Logical reasoning",
+            "Evaluation of philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research",
+            "Organizing philosophical ideas",
+            "Leading philosophical discussions"
+        ]
+    },
+    {
+        "courseTitle": "Post-Modernism and Post-Structuralism",
+        "courseCode": "PHIL 411/511",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of intellectual currents in postmodernism and post-structuralism as they pertain to central questions in social and political thought.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating complex philosophical concepts",
+            "Debating theoretical constructs",
+            "Critically engaging in intellectual discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing and synthesizing philosophical texts",
+            "Applying postmodern and post-structural perspectives to social and political issues",
+            "Critical thinking and interpretation of complex ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading intellectual discussions",
+            "Organizing complex theoretical concepts",
+            "Planning academic research"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Law",
+        "courseCode": "PHIL 412/512",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of the nature of law and philosophical issues concerning the law.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating complex legal concepts",
+            "Debating philosophical issues",
+            "Critical listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing legal texts",
+            "Critical thinking",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Constructing logical arguments",
+            "Organizing philosophical ideas",
+            "Leading philosophical discussions"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Education",
+        "courseCode": "PHIL 417/517",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Considers the relationship of philosophy and education.  Topics considered include:  philosophy as a foundation for education, education as an institution, and educational and philosophical issues as they relate to each other.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Presenting philosophical insights",
+            "Collaborative discussion on philosophical issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of educational theories",
+            "Analysis of philosophical principles in education"
+        ],
+        "Organizational and Leadership Skills": [
+            "Structuring philosophical arguments",
+            "Leading educational debates"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Work",
+        "courseCode": "PHIL 423/523",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of philosophical issues surrounding the practice of work.  Topics to be discussed may include the definition of work, alienation, exploitation, whether there is a right to work or a right not to work, religious perspectives on work, and gender issues in work.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Articulating complex ideas",
+            "Respectful debate"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Logical reasoning",
+            "Ethical decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Issue prioritization",
+            "Balancing diverse perspectives"
+        ]
+    },
+    {
+        "courseTitle": "Kant and Hume",
+        "courseCode": "PHIL 425/525",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of the philosophical writings of Hume and Kant and their influence.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Constructive philosophical argument",
+            "Clear articulation of complex philosophical theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Comparative analysis of Kant and Hume's theories"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Marx and Hegel",
+        "courseCode": "PHIL 430/530",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of the philosophical writings of Hegel and Marx and their influence.",
+        "Technical and Digital Skills": [
+            "Researching philosophical literature",
+            "Analyzing philosophical arguments",
+            "Comparative text analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of philosophical ideas",
+            "Presenting complex philosophical theories",
+            "Constructive criticism and feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking and analysis",
+            "Interpretation of philosophical texts",
+            "Problem-solving through philosophical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Organizing complex philosophical concepts",
+            "Leading group discussions or debates"
+        ]
+    },
+    {
+        "courseTitle": "Nietzsche and Life Affirmation",
+        "courseCode": "PHIL 432/532",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an examination of Nietzsche’s attempt to provide a life-affirming philosophy after laying waste to many traditional Western efforts to find life meaningful.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Articulating complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Evaluation of philosophical arguments",
+            "Comparative analysis of philosophical concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent research",
+            "Organizing and structuring arguments"
+        ]
+    },
+    {
+        "courseTitle": "Contemporary Theory of Knowledge",
+        "courseCode": "PHIL 434/534",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course provides students with a problem-oriented, critical, and comparative understanding of problems in contemporary epistemology.  Topics include skepticism and responses thereto, analyses of knowledge, the externalist versus internalist debate, foundationalism and coherentism, and social approaches to knowledge including contextualism and feminism.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Critical discussion",
+            "Debate participation",
+            "Articulation of complex concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Comparative analysis",
+            "Knowledge analysis",
+            "Understanding and responding to skepticism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Formulating coherent arguments"
+        ]
+    },
+    {
+        "courseTitle": "Philosophy of Psychology",
+        "courseCode": "PHIL 435/535",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An examination of various ways in which the mind has been understood in philosophy and in psychology and of the methods that have been used in the study of the mind.",
+        "Technical and Digital Skills": [
+            "Research methods in philosophy and psychology",
+            "Identifying and understanding philosophical texts",
+            "Understanding psychological theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical arguments",
+            "Discussing psychological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical arguments",
+            "Critically evaluating psychological theories",
+            "Comparing different philosophical and psychological perspectives"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseTitle": "Philosophy of Science",
+        "courseCode": "PHIL 440/540",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the concepts and philosophical problems in the sciences:  scientific reasoning, confirmation, explanation, laws, meaning, theories, revolutions, progress, and values.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Communicating complex scientific concepts",
+            "Debating philosophical problems"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reasoning",
+            "Critical evaluation of scientific theories",
+            "Understanding and applying scientific laws"
+        ],
+        "Organizational and Leadership Skills": [
+            "Appreciating the progress and evolution of scientific disciplines",
+            "Assessing the value and impact of scientific discoveries"
+        ]
+    },
+    {
+        "courseTitle": "Studies in Applied Ethics",
+        "courseCode": "PHIL 442E/542",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An intensive examination of ethical issues in a particular field or profession; an emphasis on ethical theory underlying practical decisions.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Communication of ethical issues",
+            "Persuasive argumentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Application of ethical theory to practical decisions",
+            "Critical examination of ethical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making",
+            "Leadership in ethical issues"
+        ]
+    },
+    {
+        "courseTitle": "Native American Philosophies",
+        "courseCode": "PHIL 451/551",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will provide students with an introduction to Native American philosophies with a focus on issues of identity, genocide, personhood, gender, sovereignty, and decolonization. Topics will be approached though a consideration of Native American philosophical methodologies and Native views regarding metaphysics, epistemology, and ethics. (Cross-listed with REL 451)",
+        "Technical and Digital Skills": [
+            "Researching historical and contemporary events",
+            "Utilization of online databases for academic research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate on philosophical concepts",
+            "Cross-cultural communication",
+            "Presenting complex philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical ideologies",
+            "Analysis of metaphysical, epistemological, and ethical concepts",
+            "Understanding and interpreting historical events and their effects"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and organizing research materials",
+            "Leading group discussions on complex topics"
+        ]
+    },
+    {
+        "courseTitle": "Chinese Religion and Philosophy",
+        "courseCode": "PHIL 482/582",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of Chinese thought emphasizing Early and Classical Confucianism and Taoism, Chinese Buddhism, and NeoConfucianism.  Modern currents of Chinese thought is also discussed.",
+        "Technical and Digital Skills": [
+            "Researching historical texts",
+            "Online information sourcing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presentation of philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Comparative studies of philosophical theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for extensive readings",
+            "Coordinating group discussions"
+        ]
+    },
+    {
+        "courseTitle": "Japanese Religion and Philosophy",
+        "courseCode": "PHIL 485/585",
+        "academicLevel": "undergraduate",
+        "courseDescription": "A study of the religious and philosophical traditions of Japan.  Emphasis will be given to Shintoism, Buddhism, and Neo-Confucianism and their contemporary status and influence in Japanese culture.",
+        "Technical and Digital Skills": [
+            "Researching historical documents",
+            "Analyzing religious texts",
+            "Using digital libraries"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Oral and written communication",
+            "Presenting complex concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading",
+            "Interpretation of philosophical ideas",
+            "Comparative analysis of religions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseTitle": "Seminar in Philosophy",
+        "courseCode": "PHIL 491W/591",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Intensive examination of the thought of one major philosopher or philosophical movement.  This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Online research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written communication",
+            "Group debate and discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Logical reasoning",
+            "Philosophical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Philosophy",
+        "courseCode": "PHIL 495/595",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group collaboration",
+            "Oral and written communication",
+            "Active Listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Conceptual analysis",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Group coordination",
+            "Decision making",
+            "Meeting facilitation"
+        ]
+    },
+    {
+        "courseTitle": "Topics in Philosophy",
+        "courseCode": "PHIL 496/596",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active Listening",
+            "Effective Group Discussion",
+            "Constructive Criticism",
+            "Oral Presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Thinking",
+            "Conceptual Analysis",
+            "Logical Reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent Learning",
+            "Project Coordination",
+            "Time Management"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "courseCode": "PHIL 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presenting and discussing ideas",
+            "Feedback reception and implementation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical concepts",
+            "Problem identification and solution development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed study",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "courseCode": "PHIL 498/598",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Utilizing digital libraries and databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading and analysis",
+            "Problem identification",
+            "Formulating philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "PHIL 500",
+        "courseTitle": "Philosophy and Video Games",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the metaphysical, aesthetic, and ethical philosophical issues that accompany the creation, play, and critique of video games. Students will learn and analyze theories about what games are. They will think about and discuss the aesthetic qualities of video games and critically engage with attempts to fit video games into the larger art world. Students will engage with moral issues that arise from creating and consuming video games with morally problematic content. Finally, students will learn how to think critically about and interpret larger philosophical problems raised by video games and their themes.",
+        "Technical and Digital Skills": [
+            "Understanding of game design",
+            "Analysis of video game aesthetics",
+            "Assessment of video game content"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of philosophical theories",
+            "Articulation of aesthetic critiques",
+            "Engagement with ethical discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critique and interpretation of philosophical issues",
+            "Evaluation of aesthetic qualities",
+            "Critical engagement with moral issues"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHIL 502",
+        "courseTitle": "Gender and Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "A philosophical survey of approaches to understanding gender and gender differences. The course will also serve as an introduction to feminist philosophy, with a particular emphasis on feminist ethics.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective discussion and debate",
+            "Understanding and respecting diverse perspectives",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Evaluation of theories on gender differences",
+            "Applying feminist ethics to real-world situations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading respectful discussions on sensitive topics",
+            "Organizing and presenting complex philosophical ideas"
+        ]
+    },
+    {
+        "courseCode": "PHIL 504",
+        "courseTitle": "Existentialism and Phenomenology",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of the writings of some of the major philosophers in the Existentialist and Phenomenology movements of the 19th and 20th centuries.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Explaining complex philosophical concepts",
+            "Engaging in intellectual discourse"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical texts",
+            "Interpreting abstract concepts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conducting independent research",
+            "Organizing philosophical arguments"
+        ]
+    },
+    {
+        "courseCode": "PHIL 505",
+        "courseTitle": "American Pragmatist Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of the writings of some of the major American philosophers in the Pragmatist tradition.",
+        "Technical and Digital Skills": [
+            "Researching philosophical texts",
+            "Analysing philosophical frameworks",
+            "Understanding historical context of philosophical ideas"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting philosophical arguments",
+            "Discussing abstract concepts",
+            "Critiquing philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading of philosophical texts",
+            "Evaluation of philosophical arguments",
+            "Comparative analysis of philosophical ideas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical debates",
+            "Organizing philosophical concepts",
+            "Managing and synthesizing complex ideas"
+        ]
+    },
+    {
+        "courseCode": "PHIL 506",
+        "courseTitle": "Language and Thought: History of Analytic Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is a study of the history of the Analytic tradition in philosophy up through the 20th century.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Clear written communication",
+            "Debating and discussing philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical texts",
+            "Critical thinking",
+            "Evaluating philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study and research",
+            "Organizing thoughts and arguments coherently"
+        ]
+    },
+    {
+        "courseCode": "PHIL 510",
+        "courseTitle": "Social and Political Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "A philosophical analysis of the relation between man, society, and the state, studying about a dozen philosophers since Plato on such topics as justice, authority, law, freedom, and civil rights.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Engaging in constructive philosophical debate",
+            "Clearly articulating complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical texts",
+            "Critical evaluation of different social and political structures",
+            "Understanding and applying concepts of justice, authority, law, freedom, and civil rights"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and interpreting historical and philosophical information",
+            "Leading discussions on complex philosophical topics"
+        ]
+    },
+    {
+        "courseCode": "PHIL 511",
+        "courseTitle": "Post-Modernism and Post-Structuralism",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of intellectual currents in postmodernism and post-structuralism as they pertain to central questions in social and political thought.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion",
+            "Communication of complex theoretical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of modernist and postmodernist thought",
+            "Evaluation of socio-political theories"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading intellectual discussions",
+            "Organizing theoretical arguments"
+        ]
+    },
+    {
+        "courseCode": "PHIL 512",
+        "courseTitle": "Philosophy of Law",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of the nature of law and philosophical issues concerning the law.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Explaining complex philosophical concepts",
+            "Debating legal theories",
+            "Listening skills for philosophical discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical reading of philosophical and legal texts",
+            "Critical thinking and analysis of legal principles",
+            "Problem solving in legal philosophy"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical discussions",
+            "Organizing thoughts and arguments in a coherent manner"
+        ]
+    },
+    {
+        "courseCode": "PHIL 517",
+        "courseTitle": "Philosophy of Education",
+        "academicLevel": "graduate",
+        "courseDescription": "Considers the relationship of philosophy and education.  Topics considered include:  philosophy as a foundation for education, education as an institution, and educational and philosophical issues as they relate to each other.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Articulating philosophical arguments",
+            "Negotiating educational policy and practice"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical arguments",
+            "Analysis of educational policies",
+            "Interpretation of philosophical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading educational discussions",
+            "Formulating educational strategies based on philosophical principles",
+            "Aligning educational practices with philosophical foundations"
+        ]
+    },
+    {
+        "courseCode": "PHIL 523",
+        "courseTitle": "Philosophy of Work",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of philosophical issues surrounding the practice of work. Topics to be discussed may include the definition of work, alienation, exploitation, whether there is a right to work or a right not to work, religious perspectives on work, and gender issues in work.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding and discussing various perspectives on work",
+            "Communicating complex philosophical ideas",
+            "Engaging in respectful debate on sensitive topics"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing philosophical arguments",
+            "Critical evaluation of societal norms and beliefs about work",
+            "Problem-solving in the context of philosophical dilemmas"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the impact of work structures on individuals and society",
+            "Applying philosophical insights to leadership and organizational decisions"
+        ]
+    },
+    {
+        "courseCode": "PHIL 525",
+        "courseTitle": "Kant and Hume",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of the philosophical writings of Hume and Kant and their influence.",
+        "Technical and Digital Skills": [
+            "Academic research",
+            "Philosophical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating complex philosophical ideas",
+            "Engaging in scholarly discussion"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Logical reasoning",
+            "Comparative analysis"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHIL 530",
+        "courseTitle": "Marx and Hegel",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of the philosophical writings of Hegel and Marx and their influence",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion of philosophical concepts",
+            "Presenting complex philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical reading of philosophical texts",
+            "Analytical interpretation of philosophical ideas",
+            "Comparative analysis of philosophies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical discussion",
+            "Organizing thoughts and arguments coherently"
+        ]
+    },
+    {
+        "courseCode": "PHIL 532",
+        "courseTitle": "Nietzsche and Life Affirmation",
+        "academicLevel": "graduate",
+        "courseDescription": "This course is an examination of Nietzsche’s attempt to provide a life-affirming philosophy after laying waste to many traditional Western efforts to find life meaningful.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical arguments",
+            "Discussion of complex philosophical ideas",
+            "Analyzing and critiquing peer perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Interpretation and understanding of Nietzschean philosophy",
+            "Comparative analysis of different philosophical approaches"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading philosophical discussions",
+            "Organizing thoughts and arguments in a coherent manner"
+        ]
+    },
+    {
+        "courseCode": "PHIL 534",
+        "courseTitle": "Contemporary Theory of Knowledge",
+        "academicLevel": "graduate",
+        "courseDescription": "This course provides students with a problem-oriented, critical, and comparative understanding of problems in contemporary epistemology. Topics include skepticism and responses thereto, analyses of knowledge, the externalist versus internalist debate, foundationalism and coherentism, and social approaches to knowledge including contextualism and feminism.",
+        "Technical and Digital Skills": [
+            "Comparative analysis",
+            "Understanding of epistemological theories"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate participation",
+            "Critical discourse on knowledge theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Analyzing responses to skepticism",
+            "Application of foundationalism and coherentism"
+        ],
+        "Organizational and Leadership Skills": [
+            "Coordinating philosophical discussions",
+            "Leading knowledge-based debates"
+        ]
+    },
+    {
+        "courseCode": "PHIL 535",
+        "courseTitle": "Philosophy of Psychology",
+        "academicLevel": "graduate",
+        "courseDescription": "An examination of various ways in which the mind has been understood in philosophy and in psychology and of the methods that have been used in the study of the mind.",
+        "Technical and Digital Skills": [
+            "Academic research methods",
+            "Understanding of philosophical and psychological theories",
+            "Usage of digital resources for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Explaining complex philosophical concepts",
+            "Engaging in intellectual discourse",
+            "Active listening in discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analysis of philosophical and psychological concepts",
+            "Problem analysis in the context of mind studies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent learning",
+            "Time management for self-study",
+            "Leadership in group discussions"
+        ]
+    },
+    {
+        "courseCode": "PHIL 540",
+        "courseTitle": "Philosophy of Science",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the concepts and philosophical problems in the sciences:  scientific reasoning, confirmation, explanation, laws, meaning, theories, revolutions, progress, and values.",
+        "Technical and Digital Skills": [
+            "Understanding of scientific theories",
+            "Analysis of scientific laws",
+            "Knowledge of scientific progress"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical problems",
+            "Debating scientific concepts",
+            "Presenting philosophical arguments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Scientific reasoning",
+            "Confirmation analysis",
+            "Explanation of scientific phenomena"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on philosophical problems",
+            "Organizing thoughts on complex scientific concepts"
+        ]
+    },
+    {
+        "courseCode": "PHIL 542",
+        "courseTitle": "Studies in Applied Ethics",
+        "academicLevel": "graduate",
+        "courseDescription": "An intensive examination of ethical issues in a particular field or profession; an emphasis on ethical theory underlying practical decisions.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating ethical issues",
+            "Debating and discussing ethical decisions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of ethical issues",
+            "Critical thinking in ethical decision making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Making ethical decisions",
+            "Implementing ethical theory into practice"
+        ]
+    },
+    {
+        "courseCode": "PHIL 551",
+        "courseTitle": "Native American Philosophies",
+        "academicLevel": "graduate",
+        "courseDescription": "This course will provide students with an introduction to Native American philosophies with a focus on issues of identity, genocide, personhood, gender, sovereignty, and decolonization. Topics will be approached though a consideration of Native American philosophical methodologies and Native views regarding metaphysics, epistemology, and ethics. (Cross-listed with REL 551)",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural competency and sensitivity",
+            "Effective communication of complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Understanding and interpretation of metaphysical, epistemological, and ethical concepts",
+            "Analysis of historical and contemporary social issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study and research",
+            "Organizing philosophical arguments",
+            "Leading informed discussions on sensitive topics"
+        ]
+    },
+    {
+        "courseCode": "PHIL 582",
+        "courseTitle": "Chinese Religion and Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of Chinese thought emphasizing Early and Classical Confucianism and Taoism, Chinese Buddhism, and NeoConfucianism.  Modern currents of Chinese thought are also discussed.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Comparative analysis"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of philosophical theories",
+            "Historical analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management in independent research",
+            "Organizing complex thoughts and ideas"
+        ]
+    },
+    {
+        "courseCode": "PHIL 585",
+        "courseTitle": "Japanese Religion and Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "A study of the religious and philosophical traditions of Japan.  Emphasis will be given to Shintoism, Buddhism, and Neo-Confucianism and their contemporary status and influence in Japanese culture.",
+        "Technical and Digital Skills": [
+            "Research on religious and philosophical traditions",
+            "Digital representation of cultural influences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Effective presentation of cultural and religious concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of religious and philosophical concepts",
+            "Analysis of cultural influence",
+            "Comparative study of religious traditions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing research findings",
+            "Leading discussions on cultural and religious topics"
+        ]
+    },
+    {
+        "courseCode": "PHIL 591",
+        "courseTitle": "Seminar in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Intensive examination of the thought of one major philosopher or philosophical movement.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating complex philosophical ideas",
+            "Engaging in intellectual debates",
+            "Active listening and comprehension"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analytical reading",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study and research",
+            "Managing philosophical discussions"
+        ]
+    },
+    {
+        "courseCode": "PHIL 595",
+        "courseTitle": "Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group discussion",
+            "Active listening",
+            "Constructive feedback"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Interpretation of abstract concepts",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Collaborative learning",
+            "Self-directed study",
+            "Group leadership"
+        ]
+    },
+    {
+        "courseCode": "PHIL 596",
+        "courseTitle": "Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active Listening",
+            "Effective Communication",
+            "Persuasive Speech"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Thinking",
+            "Abstract Reasoning",
+            "Problem Solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Group Discussion Moderation",
+            "Organizing Reading Materials",
+            "Time Management"
+        ]
+    },
+    {
+        "courseCode": "PHIL 597",
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Effective communication with the instructor",
+            "Presentation of study findings",
+            "Writing academic papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical concepts",
+            "Independent problem-solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management",
+            "Project organization"
+        ]
+    },
+    {
+        "courseCode": "PHIL 598",
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study of a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one conferencing",
+            "Presenting research findings",
+            "Communication with academic supervisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of philosophical texts",
+            "Analytical thinking",
+            "Critical evaluation of academic research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-direction",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "PHIL 610",
+        "courseTitle": "Studies in the Philosophy of Art",
+        "academicLevel": "graduate",
+        "courseDescription": "An evaluation of the field of art in relation to the rest of human culture, emphasizing the various approaches that may be used.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating philosophical concepts",
+            "Interpreting various approaches in art"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of art",
+            "Analyzing the relationship between art and human culture"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHIL 695",
+        "courseTitle": "Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualifies students to work in subjects of mutual interest that, die to their specialized nature, may not be offered regularly.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Effective group discussions",
+            "Verbal communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Logical reasoning",
+            "Analyzing complex philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Independent learning",
+            "Group coordination"
+        ]
+    },
+    {
+        "courseCode": "PHIL 697",
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Independent research",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication with instructor",
+            "Verbal communication of complex philosophical concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing philosophical texts",
+            "Formulating philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PHIL 698",
+        "courseTitle": "Tutorial Work in Special Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": [
+            "Literature review",
+            "Writing academic papers"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Presenting complex ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Analyzing philosophical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent study",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "PHIL 704",
+        "courseTitle": "Technology and the Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A seminar providing foundations for and experience in the critical examination of technologies and their human and social impact. Topics will vary and may include AI, innovation, social media, robotics, healthcare, gaming, art, and music.",
+        "Technical and Digital Skills": [
+            "Understanding of AI concepts",
+            "Knowledge on social media platforms",
+            "Familiarity with healthcare technologies",
+            "Understanding of gaming technologies",
+            "Familiarity with music technologies",
+            "Understanding of innovative technologies",
+            "Knowledge on robotic technologies",
+            "Familiarity with art technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Engagement in intellectual discussions",
+            "Ability to articulate the human and social impact of technologies"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of technologies",
+            "Ability to assess the impact of technologies on society",
+            "Analyzing the implications of AI and robotics",
+            "Evaluating the role of social media in society"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on technology and humanities",
+            "Organizing thoughts on complex technological issues"
+        ]
+    },
+    {
+        "courseCode": "PHIL 707",
+        "courseTitle": "Ethics in Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "An investigation of ethical issues in public health policy, practice, and research.  Students will develop a capacity for reasoned judgments in these matters by understanding and applying basic moral concepts, theories, and ideals.",
+        "Technical and Digital Skills": [
+            "Research in Public Health Ethics",
+            "Application of Moral Concepts in Public Health"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Moral Judgement Communication",
+            "Effective Presentation of Ethical Issues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of Ethical Issues in Public Health",
+            "Reasoned Judgement Making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in Ethical Decision Making",
+            "Organization of Ethical Theories and Ideals"
+        ]
+    },
+    {
+        "courseCode": "PHIL 710",
+        "courseTitle": "International Rights",
+        "academicLevel": "graduate",
+        "courseDescription": "A philosophical study of rights applicable to the international arena.  Theories from the early Modern European period to the present day will be treated.  Coverage includes international law, the rights of nations, and human rights.",
+        "Technical and Digital Skills": [
+            "Understanding of international law",
+            "Knowledge of historical and modern theories of rights"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debate and discussion of different rights theories",
+            "Effective communication of complex philosophical ideas"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical and contemporary theories",
+            "Critical evaluation of international rights and laws"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding the structure of international governance",
+            "Leading discussions on human rights and national rights"
+        ]
+    },
+    {
+        "courseCode": "PHIL 795",
+        "courseTitle": "Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of special topics that may not be offered regularly.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Discussion facilitation",
+            "Argument articulation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Logical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Debate moderation",
+            "Topic organization"
+        ]
+    },
+    {
+        "courseCode": "PHIL 797",
+        "courseTitle": "Tutorial in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Engagement with instructor",
+            "Verbal communication in conferences",
+            "Written communication in papers"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Independent research",
+            "Topic selection",
+            "Analysis and synthesis of philosophical texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-guided study",
+            "Time management",
+            "Project planning and execution"
+        ]
+    },
+    {
+        "courseCode": "PHIL 804",
+        "courseTitle": "Technology and the Humanities",
+        "academicLevel": "graduate",
+        "courseDescription": "A seminar providing foundations for and experience in the critical examination of technologies and their human and social impact. Topics will vary and may include AI, innovation, social media, robotics, healthcare, gaming, art, and music.",
+        "Technical and Digital Skills": [
+            "Understanding of AI",
+            "Innovation assessment",
+            "Social media usage and analysis",
+            "Robotic technologies",
+            "Understanding of healthcare technologies",
+            "Gaming technologies",
+            "Art and music technologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Discussion and debate of technology impact",
+            "Effective communication of technological concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical examination of technologies",
+            "Analysis of human and social impact",
+            "Evaluation of various technology topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing and leading discussions on various technology topics"
+        ]
+    },
+    {
+        "courseCode": "PHIL 807",
+        "courseTitle": "Ethics in Public Health Practice",
+        "academicLevel": "graduate",
+        "courseDescription": "An investigation of ethical issues in public health policy, practice, and research.  Students will develop a capacity for reasoned judgments in these matters by understanding and applying basic moral concepts, theories, and ideals.",
+        "Technical and Digital Skills": [
+            "Research and analysis of public health policies",
+            "Understanding and application of moral theories and concepts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communicating ethical issues",
+            "Making reasoned judgments in public health matters"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing ethical dilemmas in public health",
+            "Applying moral concepts to solve ethical issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Ethical decision-making in public health",
+            "Leading and managing ethical concerns in public health practice"
+        ]
+    },
+    {
+        "courseCode": "PHIL 810",
+        "courseTitle": "International Rights",
+        "academicLevel": "graduate",
+        "courseDescription": "A philosophical study of rights applicable to the international arena.  Theories from the early Modern European period to the present day will be treated.  Coverage includes international law, the rights of nations, and human rights.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating theories and concepts",
+            "Understanding and respecting diverse perspectives",
+            "Negotiation in international contexts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of international law",
+            "Analysis of historical and contemporary rights theories",
+            "Interpretation of human rights cases"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on complex international rights issues",
+            "Organizing thoughts and arguments in a coherent manner"
+        ]
+    },
+    {
+        "courseCode": "PHIL 895",
+        "courseTitle": "Topics in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "The advanced study of special topics that may not be offered regularly.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Active listening",
+            "Persuasive writing"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Argument analysis",
+            "Ethical decision-making"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research organization",
+            "Independent study management"
+        ]
+    },
+    {
+        "courseCode": "PHIL 897",
+        "courseTitle": "Tutorial in Philosophy",
+        "academicLevel": "graduate",
+        "courseDescription": "Independent reading and study on a topic to be selected under the direction of an instructor.  Conferences and papers as appropriate.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Oral communication for conferences",
+            "Written communication for paper drafting",
+            "One on one discourse with instructor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of philosophical texts",
+            "Independent research and information synthesis",
+            "Formulation of philosophical arguments"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management for independent study"
+        ]
+    }
+]
