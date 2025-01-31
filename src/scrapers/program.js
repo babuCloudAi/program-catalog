@@ -42,7 +42,7 @@ const scrapePrograms = async (url) => {
 
   const programs = {};
 
-  $('li.item.filter_2').each((index, element) => {
+  $('li.item.filter_8').each((index, element) => {
     const programTitle = $(element).find('span.title').text().trim();
     const href = $(element).find('a').attr('href');
 
@@ -59,7 +59,7 @@ const scrapePrograms = async (url) => {
 
     if (programTitle) {
       programs[programTitle] = {
-        programTitle:programTitle,
+        programTitle: programTitle,
         programUrl: programUrl,
         academicLevel: keywords[0]?.keyword_1 || '',
         programType: keywords[1]?.keyword_2 || '',
@@ -109,7 +109,7 @@ const scrapeTabContent = async (url) => {
         };
       }
 
-      return { department, ...tabsData };
+      return { department, tabs: tabsData };
     }
 
     // If #tabs is present, process the tabs
@@ -143,32 +143,38 @@ const scrapeTabContent = async (url) => {
       }
     });
 
-    return { department, tabs: { ...tabsData } };
+    return { department, tabs: tabsData };
   } catch (error) {
     console.error(`Failed to fetch tab content for ${url}: ${error.message}`);
-    return { department: '' };
+    return { department: '', tabs: {} };
   }
 };
 
 // Main scraping logic
 (async () => {
-  const programListUrl = 'https://catalog.odu.edu/programs/#filter=.filter_2';
+  const programListUrl = 'https://catalog.odu.edu/programs/#filter=.filter_8';
   const programs = await scrapePrograms(programListUrl);
 
   for (const programTitle in programs) {
     const program = programs[programTitle];
     console.log(`Fetching tab content for: ${programTitle}`);
     const tabContent = await scrapeTabContent(program.programUrl);
-    Object.assign(program, tabContent);
+    
+    // Adding tab content to the program object
+    programs[programTitle] = [{
+      ...program, 
+      ...tabContent, 
+    }]
   }
 
-  fs.writeFileSync('undergraduation_program.json', JSON.stringify(programs, null, 2), 'utf-8');
-  console.log('Programs with tab content saved to graduate_program.json');
+  fs.writeFileSync('graduation_program.json', JSON.stringify(programs, null, 2), 'utf-8');
+  console.log('Programs with tab content saved to undergraduation_program.json');
 })();
 
 
 
-//with textcontent in tab content
+
+//with text content in tab content
 
 // const fetchWithRetry = async (url, retries = 3, timeout = 30000) => {
 //   for (let i = 0; i < retries; i++) {
