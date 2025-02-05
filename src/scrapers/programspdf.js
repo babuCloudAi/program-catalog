@@ -1,4 +1,3 @@
-//generating the pdfs
 const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const fs = require('fs');
@@ -6,27 +5,22 @@ const axios = require('axios');
 const path = require('path');
 
 (async () => {
-  const url = 'https://catalog.odu.edu/programs/#filter=.filter_8'; //graduate programs
-  // const url = 'https://catalog.odu.edu/programs/#filter=.filter_2'; //undergraduate programs
+  // const url = 'https://catalog.odu.edu/programs/#filter=.filter_8'; //graduate programs
+  const url = 'https://catalog.odu.edu/programs/#filter=.filter_2'; //undergraduate programs
 
-  // Launch Puppeteer
+
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-
-  // Navigate to the URL
   await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-  // Get the HTML content
   const content = await page.content();
-
-  // Load Cheerio to parse the content
   const $ = cheerio.load(content);
 
-  // Array to store PDF links
+
   const pdfLinks = [];
 
   // Scrape data and construct PDF links
-  $('li.item.filter_8').each((index, element) => {
+  $('li.item.filter_2').each((index, element) => {
     const href = $(element).find('a').attr('href');
     if (href) {
       const programName = href.split('/').filter(part => part).pop();
@@ -37,9 +31,10 @@ const path = require('path');
   });
 
   console.log('PDF Links:', pdfLinks);
+  console.log(`program file`,pdfLinks.length)
 
   // Directory to save PDFs
-  const outputDir = path.resolve(__dirname, 'graduate-programs-pdfs');
+  const outputDir = path.resolve(__dirname, 'undergraduate-programs-pdfs');
 
   // Ensure the output directory exists
   fs.mkdirSync(outputDir, { recursive: true });
@@ -66,7 +61,6 @@ const path = require('path');
   // Close Puppeteer
   await browser.close();
 })();
-
 
 
 

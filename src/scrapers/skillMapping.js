@@ -45,7 +45,7 @@ async function processSkills(courseTitle, courseDescription) {
     const response = await axios.post(
       'https://api.openai.com/v1/chat/completions',
       {
-        model: 'gpt-4',  // You can also use 'gpt-4' depending on your access
+        model: 'gpt-4',  
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
       },

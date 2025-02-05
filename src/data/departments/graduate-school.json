@@ -1,22 +1,21 @@
-{
-    "The Graduate School": [
-        {
-            "academicLevel": "graduate",
-            "programs": {
-                "Doctor of Philosophy Programs": [
-                    "Biomedical Sciences with a Concentration in Bioelectrics (PhD)",
-                    "Biomedical Sciences with a Concentration in Bioinformatics and Genomics (PhD)",
-                    "Biomedical Sciences with a Concentration in Biological Chemistry (PhD)",
-                    "Biomedical Sciences with a Concentration in Microbiology and Immunology (PhD)",
-                    "Biomedical Sciences with a Concentration in One Health (PhD)",
-                    "Biomedical Sciences with a Concentration in Stem Cells and Regenerative Medicine (PhD)"
-                ],
-                "Certificate Program": [
-                    "Conservation Leadership Certificate",
-                    "Homeland Security Certificate"
-                ]
-            },
-            "courses": {}
-        }
-    ]
-}
+[
+    {
+        "department": "The Graduate School",
+        "academicLevel": "Graduate",
+        "programs": {
+            "Doctor of Philosophy Programs": [
+                "Biomedical Sciences with a Concentration in Bioelectrics (PhD)",
+                "Biomedical Sciences with a Concentration in Bioinformatics and Genomics (PhD)",
+                "Biomedical Sciences with a Concentration in Biological Chemistry (PhD)",
+                "Biomedical Sciences with a Concentration in Microbiology and Immunology (PhD)",
+                "Biomedical Sciences with a Concentration in One Health (PhD)",
+                "Biomedical Sciences with a Concentration in Stem Cells and Regenerative Medicine (PhD)"
+            ],
+            "Certificate Program": [
+                "Conservation Leadership Certificate",
+                "Homeland Security Certificate"
+            ]
+        },
+        "courses": {}
+    }
+]

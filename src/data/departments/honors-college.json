@@ -1,36 +1,35 @@
-{
-    "Patricia and Douglas Perry Honors College": [
-        {
-            "academicLevel": "undergraduate",
-            "programs": {},
-            "courses": {
-                "Honors (HNRS)": [
-                    "HNRS 100",
-                    "HNRS 101",
-                    "HNRS 109",
-                    "HNRS 200",
-                    "HNRS 201",
-                    "HNRS 226",
-                    "HNRS 250G",
-                    "HNRS 300",
-                    "HNRS 301",
-                    "HNRS 326",
-                    "HNRS 368",
-                    "HNRS 386T",
-                    "HNRS 387",
-                    "HNRS 389",
-                    "HNRS 390",
-                    "HNRS 395",
-                    "HNRS 396",
-                    "HNRS 400",
-                    "HNRS 401/501",
-                    "HNRS 402",
-                    "HNRS 490",
-                    "HNRS 497",
-                    "HNRS 498",
-                    "HNRS 499"
-                ]
-            }
+[
+    {
+        "department": "Patricia and Douglas Perry Honors College",
+        "academicLevel": "Undergraduate",
+        "programs": {},
+        "courses": {
+            "Honors (HNRS)": [
+                "HNRS 100",
+                "HNRS 101",
+                "HNRS 109",
+                "HNRS 200",
+                "HNRS 201",
+                "HNRS 226",
+                "HNRS 250G",
+                "HNRS 300",
+                "HNRS 301",
+                "HNRS 326",
+                "HNRS 368",
+                "HNRS 386T",
+                "HNRS 387",
+                "HNRS 389",
+                "HNRS 390",
+                "HNRS 395",
+                "HNRS 396",
+                "HNRS 400",
+                "HNRS 401/501",
+                "HNRS 402",
+                "HNRS 490",
+                "HNRS 497",
+                "HNRS 498",
+                "HNRS 499"
+            ]
         }
-    ]
-}
+    }
+]
