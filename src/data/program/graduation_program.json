@@ -49,7 +49,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-financial-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-financial-management-ms.pdf"
   },
   {
     "programTitle": "Accounting with a Concentration in Taxation, MS",
@@ -102,7 +102,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-taxation-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-taxation-ms.pdf"
   },
   {
     "programTitle": "Adapted Physical Education Certificate",
@@ -132,7 +132,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/adapted-physical-education-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/adapted-physical-education-certificate.pdf"
   },
   {
     "programTitle": "Advanced Counseling Practice Certificate",
@@ -165,7 +165,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-counseling-practice-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-counseling-practice-certificate.pdf"
   },
   {
     "programTitle": "Advanced Engineering with a Concentration in Biomedical Engineering Certificate",
@@ -199,7 +199,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-biomedical-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-biomedical-certificate.pdf"
   },
   {
     "programTitle": "Advanced Engineering with a Concentration in Cyber Systems Security Certificate",
@@ -231,7 +231,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-cyber-systems-security-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-cyber-systems-security-certificate.pdf"
   },
   {
     "programTitle": "Advanced Engineering with a Concentration in Energy Systems Certificate",
@@ -262,7 +262,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-energy-systems-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/advanced-engineering-energy-systems-certificate.pdf"
   },
   {
     "programTitle": "Applied Behavior Analysis Certificate",
@@ -291,7 +291,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-behavior-analysis-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-behavior-analysis-certificate.pdf"
   },
   {
     "programTitle": "Applied Linguistics with a Concentration in Language, Society, and Social Justice, MA",
@@ -344,7 +344,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-language-society-social-justice-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-language-society-social-justice-ma.pdf"
   },
   {
     "programTitle": "Applied Linguistics with a Concentration in Teaching of English to Speakers of Other Languages (TESOL), MA",
@@ -395,7 +395,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-teaching-english-speakers-languages-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-teaching-english-speakers-languages-ma.pdf"
   },
   {
     "programTitle": "Applied Linguistics, MA",
@@ -432,7 +432,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-linguistics-ma.pdf"
   },
   {
     "programTitle": "Applied Sociology, MA",
@@ -443,7 +443,7 @@
     "collegesAndSchools": "College of Arts and Letters",
     "department": "Department of Sociology and Criminal Justice",
     "tabs": {},
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-sociology-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/applied-sociology-ma.pdf"
   },
   {
     "programTitle": "Athletic Training, MSAT",
@@ -500,7 +500,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/athletic-training-msat.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/athletic-training-msat.pdf"
   },
   {
     "programTitle": "Autism Certificate",
@@ -525,7 +525,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/autism-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/autism-certificate.pdf"
   },
   {
     "programTitle": "Biology with a Concentration in Microbiology and Immunology, MS",
@@ -598,7 +598,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-microbiology-immunology-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-microbiology-immunology-ms.pdf"
   },
   {
     "programTitle": "Biology with a Concentration in One Health, MS",
@@ -646,7 +646,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-one-health-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-one-health-ms.pdf"
   },
   {
     "programTitle": "Biology, MS",
@@ -690,7 +690,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biology-ms.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in Bioelectrics, PhD",
@@ -731,7 +731,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-bioelectrics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-bioelectrics-phd.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in Bioinformatics and Genomics, PhD",
@@ -776,7 +776,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-bioinformatics-genomics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-bioinformatics-genomics-phd.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in Biological Chemistry, PhD",
@@ -820,7 +820,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-biological-chemistry-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-biological-chemistry-phd.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in Microbiology and Immunology, PhD",
@@ -862,7 +862,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-microbiology-immunology-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-microbiology-immunology-phd.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in One Health, PhD",
@@ -915,7 +915,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-one-health-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-one-health-phd.pdf"
   },
   {
     "programTitle": "Biomedical Sciences with a Concentration in Stem Cells and Regenerative Medicine, PhD",
@@ -957,7 +957,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-stem-cells-regenerative-medicine-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/biomedical-sciences-stem-cells-regenerative-medicine-phd.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Business Analytics, MBA",
@@ -1020,7 +1020,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-analytics-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-analytics-mba.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Economic Analytics, MBA",
@@ -1078,7 +1078,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-economic-analytics-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-economic-analytics-mba.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Finance, PhD",
@@ -1128,7 +1128,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-finance-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-finance-phd.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Information Technology/Supply Chain Management, PhD",
@@ -1178,7 +1178,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-information-technology-supply-chain-management-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-information-technology-supply-chain-management-phd.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Maritime and Ports Management, MBA",
@@ -1237,7 +1237,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-maritime-ports-management-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-maritime-ports-management-mba.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Marketing, PhD",
@@ -1287,7 +1287,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-marketing-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-marketing-phd.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Project Management, MBA",
@@ -1344,7 +1344,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-project-management-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-project-management-mba.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Public Procurement and Contract Management, MBA",
@@ -1401,7 +1401,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-public-procurement-contract-management-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-public-procurement-contract-management-mba.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Strategic Management, PhD",
@@ -1451,7 +1451,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-strategic-management-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-strategic-management-phd.pdf"
   },
   {
     "programTitle": "Business Administration with a Concentration in Supply Chain Management, MBA",
@@ -1509,7 +1509,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-supply-chain-management-mba.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-administration-supply-chain-management-mba.pdf"
   },
   {
     "programTitle": "Business Analytics and Big Data Certificate",
@@ -1542,7 +1542,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-analytics-big-data-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/business-analytics-big-data-certificate.pdf"
   },
   {
     "programTitle": "Chemistry, MS",
@@ -1580,7 +1580,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/chemistry-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/chemistry-ms.pdf"
   },
   {
     "programTitle": "Chemistry, PhD",
@@ -1612,7 +1612,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/chemistry-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/chemistry-phd.pdf"
   },
   {
     "programTitle": "Clinical Psychology, PhD",
@@ -1671,7 +1671,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/clinical-psychology-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/clinical-psychology-phd.pdf"
   },
   {
     "programTitle": "Coastal Engineering Certificate",
@@ -1700,7 +1700,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/coastal-engineering-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/coastal-engineering-certificate.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Applied Mathematics, MS",
@@ -1749,7 +1749,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-applied-mathematics-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-applied-mathematics-ms.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Applied Mathematics, PhD",
@@ -1800,7 +1800,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-applied-mathematics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-applied-mathematics-phd.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Biostatistics, MS",
@@ -1847,7 +1847,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-biostatistics-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-biostatistics-ms.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Biostatistics, PhD",
@@ -1894,7 +1894,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-biostatistics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-biostatistics-phd.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Mathematics of Data Science, MS",
@@ -1943,7 +1943,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-data-science-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-data-science-ms.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Mathematics of Data Science, PhD",
@@ -1990,7 +1990,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-data-science-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-data-science-phd.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Statistics, MS",
@@ -2041,7 +2041,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-statistics-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-statistics-ms.pdf"
   },
   {
     "programTitle": "Computational and Applied Mathematics with a Concentration in Statistics, PhD",
@@ -2090,7 +2090,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-statistics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computational-applied-mathematics-statistics-phd.pdf"
   },
   {
     "programTitle": "Computer Science with a Concentration in Computer Science, MS",
@@ -2129,7 +2129,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-ms.pdf"
   },
   {
     "programTitle": "Computer Science with a Concentration in Information & Communications Technology, MS",
@@ -2166,7 +2166,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-information-communications-technology-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-information-communications-technology-ms.pdf"
   },
   {
     "programTitle": "Computer Science, PhD",
@@ -2215,7 +2215,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/computer-science-phd.pdf"
   },
   {
     "programTitle": "Conservation Leadership Certificate",
@@ -2251,7 +2251,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/conservation-leadership-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/conservation-leadership-certificate.pdf"
   },
   {
     "programTitle": "Counseling with a Concentration in Clinical Mental Health Counseling, MSEd",
@@ -2297,7 +2297,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-clinical-mental-health-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-clinical-mental-health-msed.pdf"
   },
   {
     "programTitle": "Counseling with a Concentration in School Counseling, MSEd",
@@ -2346,7 +2346,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-school-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-school-msed.pdf"
   },
   {
     "programTitle": "Counseling, Education Specialist, EdS",
@@ -2374,7 +2374,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-eds.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/counseling-eds.pdf"
   },
   {
     "programTitle": "Creative Writing with a Concentration in Fiction, MFA",
@@ -2444,7 +2444,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-fiction-mfa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-fiction-mfa.pdf"
   },
   {
     "programTitle": "Creative Writing with a Concentration in Non-Fiction, MFA",
@@ -2514,7 +2514,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-non-fiction-mfa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-non-fiction-mfa.pdf"
   },
   {
     "programTitle": "Creative Writing with a Concentration in Poetry, MFA",
@@ -2584,7 +2584,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-poetry-mfa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/creative-writing-poetry-mfa.pdf"
   },
   {
     "programTitle": "Criminology and Criminal Justice, PhD",
@@ -2623,7 +2623,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/criminology-criminal-justice-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/criminology-criminal-justice-phd.pdf"
   },
   {
     "programTitle": "Cybersecurity Certificate",
@@ -2650,7 +2650,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-certificate.pdf"
   },
   {
     "programTitle": "Cybersecurity Risk Management Certificate",
@@ -2686,7 +2686,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-risk-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-risk-management-certificate.pdf"
   },
   {
     "programTitle": "Cybersecurity with a Concentration in AI Security, MS",
@@ -2737,7 +2737,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-ai-security-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-ai-security-ms.pdf"
   },
   {
     "programTitle": "Cybersecurity with a Concentration in Cyber Conflict and Cyber Crime, MS",
@@ -2788,7 +2788,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-cyber-conflict-crime-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-cyber-conflict-crime-ms.pdf"
   },
   {
     "programTitle": "Cybersecurity with a Concentration in Cybersecurity Risk Management, MS",
@@ -2844,7 +2844,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-risk-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-risk-management-ms.pdf"
   },
   {
     "programTitle": "Cybersecurity, MS",
@@ -2922,7 +2922,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/cybersecurity-ms.pdf"
   },
   {
     "programTitle": "Data Science and Analytics with a Concentration in Artificial Intelligence and Machine Learning, MS",
@@ -2963,7 +2963,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-artificial-intelligence-machine-learning-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-artificial-intelligence-machine-learning-ms.pdf"
   },
   {
     "programTitle": "Data Science and Analytics with a Concentration in Business Intelligence and Analytics, MS",
@@ -3003,7 +3003,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-business-intelligence-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-business-intelligence-ms.pdf"
   },
   {
     "programTitle": "Data Science and Analytics with a Concentration in Engineering and Big Data Analysis, MS",
@@ -3045,7 +3045,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-engineering-big-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-engineering-big-ms.pdf"
   },
   {
     "programTitle": "Data Science and Analytics with a Concentration in Geospatial Analytics, MS",
@@ -3088,7 +3088,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-geospatial-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-geospatial-ms.pdf"
   },
   {
     "programTitle": "Data Science and Analytics with a Concentration in Physics, MS",
@@ -3135,7 +3135,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-physics-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/data-science-analytics-physics-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Administration and Management, MS",
@@ -3183,7 +3183,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-administration-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-administration-management-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Community and Public Health, MS",
@@ -3230,7 +3230,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-community-public-health-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-community-public-health-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Education, MS",
@@ -3277,7 +3277,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-education-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-education-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Global Health, MS",
@@ -3318,7 +3318,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-global-health-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-global-health-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Marketing, MS",
@@ -3363,7 +3363,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-marketing-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-marketing-ms.pdf"
   },
   {
     "programTitle": "Dental Hygiene with a Concentration in Research, MS",
@@ -3408,7 +3408,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-research-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/dental-hygiene-research-ms.pdf"
   },
   {
     "programTitle": "Early Childhood Education with a Concentration in Initial Licensure - Pre-K-3, MSEd",
@@ -3450,7 +3450,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-education-initial-licensure-pre-k-3-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-education-initial-licensure-pre-k-3-msed.pdf"
   },
   {
     "programTitle": "Early Childhood Education, PreK-3 Post-Baccalaureate Endorsement",
@@ -3499,7 +3499,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-education-prek-3-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-education-prek-3-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Early Childhood Special Education Post-Baccalaureate Endorsement",
@@ -3546,7 +3546,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-special-education-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/early-childhood-special-education-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Ecological Sciences, PhD",
@@ -3588,7 +3588,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/ecological-sciences-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/ecological-sciences-phd.pdf"
   },
   {
     "programTitle": "Economics, MA",
@@ -3633,7 +3633,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/economics-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/economics-ma.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Counseling, PhD",
@@ -3679,7 +3679,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-counseling-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-counseling-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Curriculum and Instruction, PhD",
@@ -3733,7 +3733,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-curriculum-instruction-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-curriculum-instruction-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Educational Psychology and Program Evaluation (PhD)",
@@ -3782,7 +3782,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-educational-psychology-program-evaluation-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-educational-psychology-program-evaluation-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Human Movement Sciences - Applied Kinesiology (PhD)",
@@ -3831,7 +3831,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-applied-kinesiology-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-applied-kinesiology-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Human Movement Sciences - Health and Sport Pedagogy (PhD)",
@@ -3885,7 +3885,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-health-sport-pedagogy-management-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-health-sport-pedagogy-management-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Human Movement Sciences - Sport and Recreation Management (PhD)",
@@ -3949,7 +3949,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-sport-recreation-management-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-human-movement-sciences-sport-recreation-management-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Instructional Design and Technology, PhD",
@@ -4045,7 +4045,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-instructional-design-technology-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-instructional-design-technology-phd.pdf"
   },
   {
     "programTitle": "Education with a Concentration in Special Education (PhD)",
@@ -4090,7 +4090,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-special-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/education-special-phd.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Elementary Education Pre-K-6 - IDS, MSEd",
@@ -4130,7 +4130,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-pre-k-6-ids-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-pre-k-6-ids-msed.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Elementary Education Pre-K-6, MSEd",
@@ -4179,7 +4179,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-pre-k-6-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-pre-k-6-msed.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Instructional Design and Technology, MSEd",
@@ -4219,7 +4219,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-instructional-design-technology-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-instructional-design-technology-msed.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Licensed Teachers, MSEd",
@@ -4259,7 +4259,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-licensed-teachers-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-licensed-teachers-msed.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Mathematics Specialist PK-8, MSEd",
@@ -4298,7 +4298,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-mathematics-specialist-pk-8-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-mathematics-specialist-pk-8-msed.pdf"
   },
   {
     "programTitle": "Elementary Education with a Concentration in Middle School Education (Grades 6-8), MSEd",
@@ -4341,7 +4341,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-middle-school-grades-6-8-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-middle-school-grades-6-8-msed.pdf"
   },
   {
     "programTitle": "Elementary Education, Middle School, 6-8 Post-Baccalaureate Endorsement",
@@ -4382,7 +4382,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-middle-school-6-8-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-middle-school-6-8-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Elementary Education, PreK-6 Post-Baccalaureate Endorsement",
@@ -4426,7 +4426,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-prek-6-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/elementary-education-prek-6-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Engineering Management Certificate",
@@ -4457,7 +4457,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-certificate.pdf"
   },
   {
     "programTitle": "Engineering Management, MEM",
@@ -4497,7 +4497,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-mem.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-mem.pdf"
   },
   {
     "programTitle": "Engineering Management, MS",
@@ -4538,7 +4538,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Aerospace Engineering, ME",
@@ -4583,7 +4583,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-me.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-me.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Aerospace Engineering, MS",
@@ -4628,7 +4628,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Aerospace Engineering, PhD",
@@ -4656,7 +4656,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-aerospace-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Biomedical Engineering, ME",
@@ -4697,7 +4697,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-me.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-me.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Biomedical Engineering, MS",
@@ -4739,7 +4739,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Biomedical Engineering, PhD",
@@ -4786,7 +4786,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-biomedical-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Civil and Environmental Engineering, PhD",
@@ -4810,7 +4810,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-civil-environmental-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-civil-environmental-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Civil Engineering, MS",
@@ -4949,7 +4949,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-civil-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-civil-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Cybersecurity, DEng",
@@ -4979,7 +4979,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-cybersecurity-deng.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-cybersecurity-deng.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Electrical and Computer Engineering, DEng",
@@ -5011,7 +5011,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-deng.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-deng.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Electrical and Computer Engineering, MS",
@@ -5057,7 +5057,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Electrical and Computer Engineering, PhD",
@@ -5085,7 +5085,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-electrical-computer-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Engineering Management and Systems Engineering, DEng",
@@ -5113,7 +5113,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-systems-deng.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-systems-deng.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Engineering Management and Systems Engineering, PhD",
@@ -5151,7 +5151,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-systems-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-management-systems-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Environmental Engineering, MS",
@@ -5225,7 +5225,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-environmental-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-environmental-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Mechanical Engineering, ME",
@@ -5270,7 +5270,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-me.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-me.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Mechanical Engineering, MS",
@@ -5315,7 +5315,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Mechanical Engineering, PhD",
@@ -5343,7 +5343,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-mechanical-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Modeling and Simulation Engineering, PhD",
@@ -5380,7 +5380,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-phd.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Modeling and Simulation, DEng",
@@ -5421,7 +5421,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-deng.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-deng.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Modeling and Simulation, MS",
@@ -5461,7 +5461,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-modeling-simulation-ms.pdf"
   },
   {
     "programTitle": "Engineering with a Concentration in Systems Engineering, ME",
@@ -5502,7 +5502,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-systems-me.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/engineering-systems-me.pdf"
   },
   {
     "programTitle": "English with a Concentration in Literacy and Cultural Studies, PhD",
@@ -5568,7 +5568,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-literacy-cultural-studies-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-literacy-cultural-studies-phd.pdf"
   },
   {
     "programTitle": "English with a Concentration in Literature, MA",
@@ -5666,7 +5666,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-concentration-literature-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-concentration-literature-ma.pdf"
   },
   {
     "programTitle": "English with a Concentration in Rhetoric and Composition, MA",
@@ -5732,7 +5732,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-rhetoric-composition-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-rhetoric-composition-ma.pdf"
   },
   {
     "programTitle": "English with a Concentration in Teaching of English, MA",
@@ -5771,7 +5771,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-teaching-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-teaching-ma.pdf"
   },
   {
     "programTitle": "English with a Concentration in Technical Writing, MA",
@@ -5836,7 +5836,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-technical-writing-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-technical-writing-ma.pdf"
   },
   {
     "programTitle": "English, PhD",
@@ -5934,7 +5934,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/english-phd.pdf"
   },
   {
     "programTitle": "Entrepreneurship and Innovation for Engineers Certificate",
@@ -5962,7 +5962,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/entrepreneurship-innovation-engineers-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/entrepreneurship-innovation-engineers-certificate.pdf"
   },
   {
     "programTitle": "Geographic Information Science Certificate",
@@ -5999,7 +5999,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/geographic-information-science-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/geographic-information-science-certificate.pdf"
   },
   {
     "programTitle": "Global Health Certificate",
@@ -6031,7 +6031,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/global-health-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/global-health-certificate.pdf"
   },
   {
     "programTitle": "Health Services Research with a Concentration in Applied Health Research, PhD",
@@ -6084,7 +6084,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/health-services-research-applied-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/health-services-research-applied-phd.pdf"
   },
   {
     "programTitle": "Health Services Research with a Concentration in Health Policy and Management Research, PhD",
@@ -6137,7 +6137,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/health-services-research-policy-management-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/health-services-research-policy-management-phd.pdf"
   },
   {
     "programTitle": "History, MA",
@@ -6229,7 +6229,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/history-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/history-ma.pdf"
   },
   {
     "programTitle": "Human Performance Technology Certificate",
@@ -6259,7 +6259,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/human-performance-technology-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/human-performance-technology-certificate.pdf"
   },
   {
     "programTitle": "Industrial Cooperative Training Post-Baccalaureate Endorsement",
@@ -6300,7 +6300,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/industrial-cooperative-training-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/industrial-cooperative-training-endorsement.pdf"
   },
   {
     "programTitle": "International Development Certificate",
@@ -6342,7 +6342,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-development-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-development-certificate.pdf"
   },
   {
     "programTitle": "International Studies, MA",
@@ -6467,7 +6467,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-studies-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-studies-ma.pdf"
   },
   {
     "programTitle": "International Studies, PhD",
@@ -6576,7 +6576,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-studies-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/international-studies-phd.pdf"
   },
   {
     "programTitle": "Kinesiology and Rehabilitation, PhD",
@@ -6638,7 +6638,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/kinesiology-rehabilitation-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/kinesiology-rehabilitation-phd.pdf"
   },
   {
     "programTitle": "Library and Information Studies with a Concentration in School Librarianship, MLIS",
@@ -6703,7 +6703,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/library-information-studies-school-librarianship-mlis.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/library-information-studies-school-librarianship-mlis.pdf"
   },
   {
     "programTitle": "Library and Information Studies, MLIS",
@@ -6772,7 +6772,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/library-information-studies-mlis.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/library-information-studies-mlis.pdf"
   },
   {
     "programTitle": "Lifespan and Digital Communication, MA",
@@ -6812,7 +6812,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/lifespan-digital-communication-ma.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/lifespan-digital-communication-ma.pdf"
   },
   {
     "programTitle": "Literacy Coaching Certificate",
@@ -6841,7 +6841,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/literacy-coaching-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/literacy-coaching-certificate.pdf"
   },
   {
     "programTitle": "Literature Certificate",
@@ -6864,7 +6864,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/literature-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/literature-certificate.pdf"
   },
   {
     "programTitle": "Maritime History Certificate",
@@ -6894,7 +6894,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-history-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-history-certificate.pdf"
   },
   {
     "programTitle": "Maritime Trade and Supply Chain Management (MS)",
@@ -6960,7 +6960,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-trade-supply-chain-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-trade-supply-chain-management-ms.pdf"
   },
   {
     "programTitle": "Maritime, Ports, and Logistics Management Certificate",
@@ -6989,7 +6989,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-ports-logistics-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/maritime-ports-logistics-management-certificate.pdf"
   },
   {
     "programTitle": "Mathematics Specialist (PK-8), Post-Baccalaureate Endorsement",
@@ -7025,7 +7025,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/mathematics-specialist-pk-8-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/mathematics-specialist-pk-8-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Mission Analysis and Engineering Certificate",
@@ -7056,7 +7056,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/mission-analysis-engineering-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/mission-analysis-engineering-certificate.pdf"
   },
   {
     "programTitle": "Modeling and Simulation - Engineering Certificate",
@@ -7087,7 +7087,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-engineering-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-engineering-certificate.pdf"
   },
   {
     "programTitle": "Modeling and Simulation - Health Sciences Certificate",
@@ -7118,7 +7118,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-health-sciences-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-health-sciences-certificate.pdf"
   },
   {
     "programTitle": "Modeling and Simulation - International Studies Certificate",
@@ -7164,7 +7164,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-international-studies-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-international-studies-certificate.pdf"
   },
   {
     "programTitle": "Modeling and Simulation for Human Factors Psychology Certificate",
@@ -7199,7 +7199,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-human-factors-psychology-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/modeling-simulation-human-factors-psychology-certificate.pdf"
   },
   {
     "programTitle": "Molecular Diagnostics Certificate",
@@ -7225,7 +7225,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/molecular-diagnostics-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/molecular-diagnostics-certificate.pdf"
   },
   {
     "programTitle": "Music Education with a Concentration in Applied Studies, MME",
@@ -7269,7 +7269,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-applied-studies-mme.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-applied-studies-mme.pdf"
   },
   {
     "programTitle": "Music Education with a Concentration in Pedagogy, MME",
@@ -7313,7 +7313,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-pedagogy-mme.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-pedagogy-mme.pdf"
   },
   {
     "programTitle": "Music Education with a Concentration in Research, MME",
@@ -7357,7 +7357,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-research-mme.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-education-research-mme.pdf"
   },
   {
     "programTitle": "Music Performance Certificate",
@@ -7390,7 +7390,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-performance-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/music-performance-certificate.pdf"
   },
   {
     "programTitle": "Naval Architecture and Marine Engineering Certificate",
@@ -7421,7 +7421,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/naval-architecture-marine-engineering-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/naval-architecture-marine-engineering-certificate.pdf"
   },
   {
     "programTitle": "Neonatal Physician Assistant Certificate",
@@ -7451,7 +7451,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/neonatal-physician-assistant-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/neonatal-physician-assistant-certificate.pdf"
   },
   {
     "programTitle": "Nurse Educator Certificate",
@@ -7480,7 +7480,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nurse-educator-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nurse-educator-certificate.pdf"
   },
   {
     "programTitle": "Nursing Practice with a Concentration in Advanced Practice, DNP",
@@ -7525,7 +7525,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-advanced-dnp.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-advanced-dnp.pdf"
   },
   {
     "programTitle": "Nursing Practice with a Concentration in Nurse Anesthesia, DNP",
@@ -7587,7 +7587,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-nurse-anesthesia-dnp.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-nurse-anesthesia-dnp.pdf"
   },
   {
     "programTitle": "Nursing Practice with a Concentration in Nurse Executive, DNP",
@@ -7627,7 +7627,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-nurse-executive-dnp.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-nurse-executive-dnp.pdf"
   },
   {
     "programTitle": "Nursing Practice with a Concentration in Post-Masters Psychiatric Mental Health Nurse Practitioner, DNP",
@@ -7673,7 +7673,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-post-masters-psychiatric-mental-health-nurse-practitioner-dnp.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-practice-post-masters-psychiatric-mental-health-nurse-practitioner-dnp.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Adult Gerontology Clinical Nurse Specialist-Educator, MSN",
@@ -7721,7 +7721,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-adult-gerontology-clinical-nurse-specialist-educator-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-adult-gerontology-clinical-nurse-specialist-educator-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Family Nurse Practitioner, MSN",
@@ -7769,7 +7769,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-family-nurse-practitioner-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-family-nurse-practitioner-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Neonatal Clinical Nurse Specialist, MSN",
@@ -7818,7 +7818,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-neonatal-clinical-nurse-specialist-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-neonatal-clinical-nurse-specialist-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Neonatal Nurse Practitioner, MSN",
@@ -7867,7 +7867,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-neonatal-nurse-practitioner-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-neonatal-nurse-practitioner-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Nurse Midwifery, MSN",
@@ -7917,7 +7917,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-nurse-midwifery-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-nurse-midwifery-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Pediatric Clinical Nurse Specialist, MSN",
@@ -7965,7 +7965,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-concentration-pediatric-clinical-nurse-specialist-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-concentration-pediatric-clinical-nurse-specialist-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Pediatric Nurse Practitioner, MSN",
@@ -8013,7 +8013,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-pediatric-nurse-practitioner-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-pediatric-nurse-practitioner-msn.pdf"
   },
   {
     "programTitle": "Nursing with a Concentration in Psychiatric-Mental Health Nurse Practitioner, MSN",
@@ -8058,7 +8058,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-psychiatric-mental-health-nurse-practitioner-msn.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/nursing-psychiatric-mental-health-nurse-practitioner-msn.pdf"
   },
   {
     "programTitle": "Occupational and Technical Studies, MS",
@@ -8069,7 +8069,7 @@
     "collegesAndSchools": "Darden College of Education and Professional Studies",
     "department": "Department of STEM Education & Professional Studies",
     "tabs": {},
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/occupational-technical-studies-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/occupational-technical-studies-ms.pdf"
   },
   {
     "programTitle": "Occupational Safety Certificate",
@@ -8099,7 +8099,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/occupational-safety-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/occupational-safety-certificate.pdf"
   },
   {
     "programTitle": "Ocean and Earth Sciences, MS",
@@ -8132,7 +8132,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/ocean-earth-sciences-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/ocean-earth-sciences-ms.pdf"
   },
   {
     "programTitle": "Oceanography, PhD",
@@ -8167,7 +8167,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/oceanography-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/oceanography-phd.pdf"
   },
   {
     "programTitle": "Online Teaching for K-12 Teachers Certificate",
@@ -8200,7 +8200,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/online-teaching-k-12-teachers-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/online-teaching-k-12-teachers-certificate.pdf"
   },
   {
     "programTitle": "Park, Recreation and Tourism Studies (MS)",
@@ -8257,7 +8257,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/park-recreation-tourism-studies-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/park-recreation-tourism-studies-ms.pdf"
   },
   {
     "programTitle": "Physical Education with a Concentration in Adapted Physical Education (MSEd)",
@@ -8301,7 +8301,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-adapted-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-adapted-msed.pdf"
   },
   {
     "programTitle": "Physical Education with a Concentration in Coaching (MSEd)",
@@ -8351,7 +8351,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-coaching-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-coaching-msed.pdf"
   },
   {
     "programTitle": "Physical Education with a Concentration in Health and Sport Pedagogy (MSEd)",
@@ -8394,7 +8394,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-health-sport-pedagogy-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-health-sport-pedagogy-msed.pdf"
   },
   {
     "programTitle": "Physical Education with a Concentration in Initial Virginia Licensure in Health and Physical Education (MSEd)",
@@ -8448,7 +8448,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-initial-virginia-licensure-health-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-education-initial-virginia-licensure-health-msed.pdf"
   },
   {
     "programTitle": "Physical Therapy, DPT",
@@ -8519,7 +8519,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-therapy-dpt.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physical-therapy-dpt.pdf"
   },
   {
     "programTitle": "Physics, MS",
@@ -8552,7 +8552,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physics-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physics-ms.pdf"
   },
   {
     "programTitle": "Physics, PhD",
@@ -8593,7 +8593,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physics-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/physics-phd.pdf"
   },
   {
     "programTitle": "Post-Professional - Adult Gerontology, Clinical Nurse Specialist Certificate",
@@ -8623,7 +8623,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-adult-gerontology-clinical-nurse-specialist-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-adult-gerontology-clinical-nurse-specialist-certificate.pdf"
   },
   {
     "programTitle": "Post-Professional - Family Nurse Practitioner Certificate",
@@ -8656,7 +8656,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-family-nurse-practitioner-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-family-nurse-practitioner-certificate.pdf"
   },
   {
     "programTitle": "Post-Professional - Psychiatric Mental Health Nurse Practitioner Certificate",
@@ -8686,7 +8686,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-psychiatric-mental-health-nurse-practitioner-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/post-professional-psychiatric-mental-health-nurse-practitioner-certificate.pdf"
   },
   {
     "programTitle": "Professional Writing  Certificate",
@@ -8718,7 +8718,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/professional-writing-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/professional-writing-certificate.pdf"
   },
   {
     "programTitle": "Project Management Certificate",
@@ -8752,7 +8752,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/project-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/project-management-certificate.pdf"
   },
   {
     "programTitle": "Psychology with a Concentration in Health Psychology, PhD",
@@ -8799,7 +8799,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-health-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-health-phd.pdf"
   },
   {
     "programTitle": "Psychology with a Concentration in Human Factors Psychology, PhD",
@@ -8838,7 +8838,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-human-factors-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-human-factors-phd.pdf"
   },
   {
     "programTitle": "Psychology with a Concentration in Industrial and Organizational Psychology, PhD",
@@ -8888,7 +8888,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-industrial-organizational-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-industrial-organizational-phd.pdf"
   },
   {
     "programTitle": "Psychology, MS",
@@ -8963,7 +8963,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/psychology-ms.pdf"
   },
   {
     "programTitle": "Public Administration and Policy Certificate",
@@ -8996,7 +8996,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-policy-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-policy-certificate.pdf"
   },
   {
     "programTitle": "Public Administration and Policy with a Concentration in Public Administration, PhD",
@@ -9066,7 +9066,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-policy-phd.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-policy-phd.pdf"
   },
   {
     "programTitle": "Public Administration with a Concentration in Multi-Sector Public Service, MPA",
@@ -9180,7 +9180,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-multi-sector-public-service-mpa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-multi-sector-public-service-mpa.pdf"
   },
   {
     "programTitle": "Public Administration with a Concentration in Nonprofit Management and Governance, MPA",
@@ -9287,7 +9287,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-nonprofit-management-governance-mpa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-nonprofit-management-governance-mpa.pdf"
   },
   {
     "programTitle": "Public Administration with a Concentration in Public Administration, MPA",
@@ -9390,7 +9390,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-mpa.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-administration-mpa.pdf"
   },
   {
     "programTitle": "Public Health with a Concentration in Applied Epidemiology and Public Health Data Analysis, MPH",
@@ -9436,7 +9436,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-applied-epidemiology-data-analysis-mph.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-applied-epidemiology-data-analysis-mph.pdf"
   },
   {
     "programTitle": "Public Health with a Concentration in Behavioral Health and Health Promotion, MPH",
@@ -9482,7 +9482,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-behavioral-promotion-mph.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-behavioral-promotion-mph.pdf"
   },
   {
     "programTitle": "Public Health with a Concentration in Global Environmental Health, MPH",
@@ -9528,7 +9528,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-global-environmental-mph.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-health-global-environmental-mph.pdf"
   },
   {
     "programTitle": "Public Procurement and Contract Management Certificate",
@@ -9587,7 +9587,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-procurement-contract-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-procurement-contract-management-certificate.pdf"
   },
   {
     "programTitle": "Public Sector Leadership Certificate",
@@ -9617,7 +9617,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-sector-leadership-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/public-sector-leadership-certificate.pdf"
   },
   {
     "programTitle": "Reading with a Reading Specialist Endorsement, MSEd",
@@ -9656,7 +9656,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/reading-specialist-endorsement-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/reading-specialist-endorsement-msed.pdf"
   },
   {
     "programTitle": "Reading, MSEd",
@@ -9695,7 +9695,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/reading-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/reading-msed.pdf"
   },
   {
     "programTitle": "School Library Practice Certificate",
@@ -9729,7 +9729,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/school-library-practice-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/school-library-practice-certificate.pdf"
   },
   {
     "programTitle": "Secondary Education for Licensed Teachers, 6-12 - Science, MSEd",
@@ -9740,7 +9740,7 @@
     "collegesAndSchools": "Darden College of Education and Professional Studies",
     "department": "Department of Teaching & Learning",
     "tabs": {},
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-licensed-teachers-6-12-science-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-licensed-teachers-6-12-science-msed.pdf"
   },
   {
     "programTitle": "Secondary Education for Licensed Teachers, MSEd",
@@ -9780,7 +9780,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-licensed-teachers-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-licensed-teachers-msed.pdf"
   },
   {
     "programTitle": "Secondary Education Professional Studies Certificate",
@@ -9813,7 +9813,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-professional-studies-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-professional-studies-certificate.pdf"
   },
   {
     "programTitle": "Secondary Education with a Concentration in Initial Licensure 6-12 Mathematics, MSEd",
@@ -9841,7 +9841,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-initial-licensure-6-12-mathematics-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-initial-licensure-6-12-mathematics-msed.pdf"
   },
   {
     "programTitle": "Secondary Education with a Concentration in Instructional Design and Technology, MSEd",
@@ -9890,7 +9890,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-instructional-design-technology-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-instructional-design-technology-msed.pdf"
   },
   {
     "programTitle": "Secondary Education with a Concentration in Secondary Education - 6-12, MSEd",
@@ -9932,7 +9932,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-6-12-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-6-12-msed.pdf"
   },
   {
     "programTitle": "Secondary Education with a Concentration in Teachers of English to Speakers of Other Languages (TESOL) - K-12, MSEd",
@@ -9980,7 +9980,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-tesol-k-12-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-tesol-k-12-msed.pdf"
   },
   {
     "programTitle": "Secondary Education with Initial Licensure 6-12 - Science, MSEd",
@@ -9991,7 +9991,7 @@
     "collegesAndSchools": "Darden College of Education and Professional Studies",
     "department": "Department of Teaching & Learning",
     "tabs": {},
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-initial-licensure-6-12-science-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-initial-licensure-6-12-science-msed.pdf"
   },
   {
     "programTitle": "Secondary Education, 6-12 Post-Baccalaureate Endorsement",
@@ -10017,7 +10017,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-6-12-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-6-12-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Secondary Education, Teachers of English to Speakers of Other Languages (TESOL), K-12 Post-Baccalaureate Endorsement",
@@ -10065,7 +10065,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-teachers-english-speakers-languages-k-12-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/secondary-education-teachers-english-speakers-languages-k-12-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Spatial Analysis of Coastal Environments Certificate",
@@ -10098,7 +10098,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
   },
   {
     "programTitle": "Spatial Analysis of Coastal Environments Certificate",
@@ -10130,7 +10130,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
   },
   {
     "programTitle": "Spatial Analysis of Coastal Environments Certificate",
@@ -10161,7 +10161,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Undergraduate_program_catalog/spatial-analysis-coastal-environments-certificate.pdf"
   },
   {
     "programTitle": "Special Education - Visual Impairments, PreK-12 Post-Baccalaureate Endorsement",
@@ -10229,7 +10229,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-visual-impairments-prek-12-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-visual-impairments-prek-12-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Special Education Adapted Curriculum, K-12 Post-Baccalaureate Endorsement",
@@ -10275,7 +10275,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-adapted-k-12-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-adapted-k-12-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Special Education General Curriculum, K-12 Post-Baccalaureate Endorsement",
@@ -10321,7 +10321,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-general-k-12-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-general-k-12-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Special Education with a Concentration in Early Childhood Special Education (MSEd)",
@@ -10368,7 +10368,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-early-childhood-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-early-childhood-msed.pdf"
   },
   {
     "programTitle": "Special Education with a Concentration in K-12 Licensure - Adapted Curriculum - K-12 (MSEd)",
@@ -10414,7 +10414,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-k-12-licensure-adapted-curriculum-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-k-12-licensure-adapted-curriculum-msed.pdf"
   },
   {
     "programTitle": "Special Education with a Concentration in K-12 Licensure - General Curriculum - K-12 (MSEd)",
@@ -10460,7 +10460,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-k-12-licensure-general-curriculum-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-k-12-licensure-general-curriculum-msed.pdf"
   },
   {
     "programTitle": "Special Education with a Concentration in Research (MSEd)",
@@ -10488,7 +10488,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-research-msed.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/special-education-research-msed.pdf"
   },
   {
     "programTitle": "Sport Management (MS)",
@@ -10533,7 +10533,7 @@
         "courseExtractedFromText": []
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/sport-management-ms.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/sport-management-ms.pdf"
   },
   {
     "programTitle": "Supply Chain Management Certificate",
@@ -10562,7 +10562,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/supply-chain-management-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/supply-chain-management-certificate.pdf"
   },
   {
     "programTitle": "Teacher Education Post-Baccalaureate Endorsement",
@@ -10588,7 +10588,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-education-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-education-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Teacher Education Post-Baccalaureate Endorsement",
@@ -10614,7 +10614,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-education-post-baccalaureate-endorsement.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-education-post-baccalaureate-endorsement.pdf"
   },
   {
     "programTitle": "Teacher Leadership Certificate",
@@ -10643,7 +10643,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-leadership-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-leadership-certificate.pdf"
   },
   {
     "programTitle": "Teacher Preparation in Special Education Adapted Curriculum Post-Baccalaureate Endorsement",
@@ -10677,7 +10677,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-preparation-special-education-adapted-pbe.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teacher-preparation-special-education-adapted-pbe.pdf"
   },
   {
     "programTitle": "Teaching English to Speakers of other Languages (TESOL) Certificate",
@@ -10715,7 +10715,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-english-speakers-languages-graduate-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-english-speakers-languages-graduate-certificate.pdf"
   },
   {
     "programTitle": "Teaching English to Speakers of other Languages (TESOL), Certificate",
@@ -10753,7 +10753,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-english-speakers-languages-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-english-speakers-languages-certificate.pdf"
   },
   {
     "programTitle": "Teaching of Writing, Certificate",
@@ -10786,7 +10786,7 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-writing-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/teaching-writing-certificate.pdf"
   },
   {
     "programTitle": "Women's Studies Certificate",
@@ -10809,6 +10809,6 @@
         ]
       }
     },
-    "programS3Url": "https://cloudaillc-meysam.s3.amazonaws.com/knowledgebase/program_catalog_pdf/Graduate_program_catalog/womens-studies-certificate.pdf"
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/womens-studies-certificate.pdf"
   }
 ]

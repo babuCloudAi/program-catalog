@@ -2,6 +2,7 @@
     {
         "department": "School of Cybersecurity",
         "academicLevel": "Undergraduate",
+        "overview": "<p>Department website: <a href=\"https://www.odu.edu/cyber\" target=\"_blank\" rel=\"noopener\">https://www.odu.edu/cyber</a></p><p>Holly Handley, Dean (Interim)<br>\nDaniel Takabi, Director</p>\n<p>The School of Cybersecurity administers a BS in Cybersecurity, a BS in Cybersecurity with a major in Cyber Operations, a BS in Cybersecurity with a major in Cyber Risk Management,&nbsp;an MS in Cybersecurity, and an interdisciplinary minor in cybersecurity. The School’s strategic priority is to deliver exceptional academic programs for both resident and online students to cultivate the cybersecurity workforce and enhance the nation’s cybersecurity talent. The School supports undergraduate and graduate students and faculty to achieve healthy and sustainable growth of the cybersecurity program. The mission of the School also includes developing high-impact, cross-disciplinary research initiatives that center on cybersecurity and conducting outreach and community engagement, being a source of cybersecurity expertise to the community, the Hampton Roads region, the Commonwealth of Virginia, and the nation.</p>",
         "programs": {
             "Bachelor of Science Programs": [
                 "Cybersecurity (BS)",
@@ -15,44 +16,47 @@
                 "Cybersecurity Minor"
             ]
         },
-        "courses": [
-            "CYSE 001",
-            "CYSE 100",
-            "CYSE 200T",
-            "CYSE 201S",
-            "CYSE 202G",
-            "CYSE 250",
-            "CYSE 270",
-            "CYSE 280",
-            "CYSE 300",
-            "CYSE 301",
-            "CYSE 368",
-            "CYSE 395",
-            "CYSE 404",
-            "CYSE 406",
-            "CYSE 407",
-            "CYSE 409",
-            "CYSE 416/516",
-            "CYSE 417",
-            "CYSE 419/519",
-            "CYSE 420/520",
-            "CYSE 425W/525",
-            "CYSE 426/526",
-            "CYSE 430/530",
-            "CYSE 431/531",
-            "CYSE 432/532",
-            "CYSE 433/533",
-            "CYSE 450",
-            "CYSE 494",
-            "CYSE 495/595",
-            "CYSE 496/596",
-            "CYSE 497/597",
-            "CYSE 498/598"
-        ]
+        "courses": {
+            "Cybersecurity (CYSE)": [
+                "CYSE 001",
+                "CYSE 100",
+                "CYSE 200T",
+                "CYSE 201S",
+                "CYSE 202G",
+                "CYSE 250",
+                "CYSE 270",
+                "CYSE 280",
+                "CYSE 300",
+                "CYSE 301",
+                "CYSE 368",
+                "CYSE 395",
+                "CYSE 404",
+                "CYSE 406",
+                "CYSE 407",
+                "CYSE 409",
+                "CYSE 416/516",
+                "CYSE 417",
+                "CYSE 419/519",
+                "CYSE 420/520",
+                "CYSE 425W/525",
+                "CYSE 426/526",
+                "CYSE 430/530",
+                "CYSE 431/531",
+                "CYSE 432/532",
+                "CYSE 433/533",
+                "CYSE 450",
+                "CYSE 494",
+                "CYSE 495/595",
+                "CYSE 496/596",
+                "CYSE 497/597",
+                "CYSE 498/598"
+            ]
+        }
     },
     {
         "department": "School of Cybersecurity",
         "academicLevel": "Graduate",
+        "overview": "<p>Daniel Takabi, Director</p>\n<p>The School of Cybersecurity administers two degrees (a BS in Cybersecurity with majors in cybersecurity and cyber operations and an MS in Cybersecurity) and an interdisciplinary minor in cybersecurity. The School’s strategic priority is to deliver exceptional academic programs for both on-campus and online students to cultivate the cybersecurity workforce and enhance the nation’s cybersecurity talent. The School supports undergraduate and graduate students and faculty to achieve healthy and sustainable growth of the cybersecurity program. The mission of the School also includes developing high-impact, cross-disciplinary research initiatives that center on cybersecurity and conducting outreach and community engagement, being a source of cybersecurity expertise to the community, the Hampton Roads region, the Commonwealth of Virginia, and the nation.</p>",
         "programs": {
             "Master of Science Programs": [
                 "Cybersecurity (MS)",
@@ -64,42 +68,6 @@
                 "Cybersecurity Risk Management Certificate"
             ]
         },
-        "courses": [
-            "CYSE 516",
-            "CYSE 519",
-            "CYSE 520",
-            "CYSE 525",
-            "CYSE 526",
-            "CYSE 530",
-            "CYSE 531",
-            "CYSE 532",
-            "CYSE 533",
-            "CYSE 595",
-            "CYSE 596",
-            "CYSE 597",
-            "CYSE 598",
-            "CYSE 600",
-            "CYSE 601",
-            "CYSE 602",
-            "CYSE 603",
-            "CYSE 605",
-            "CYSE 607",
-            "CYSE 608",
-            "CYSE 609",
-            "CYSE 610",
-            "CYSE 615",
-            "CYSE 625",
-            "CYSE 626",
-            "CYSE 630",
-            "CYSE 631",
-            "CYSE 632",
-            "CYSE 633",
-            "CYSE 635",
-            "CYSE 640",
-            "CYSE 645",
-            "CYSE 695",
-            "CYSE 697",
-            "CYSE 698"
-        ]
+        "courses": {}
     }
 ]

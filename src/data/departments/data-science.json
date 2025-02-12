@@ -2,6 +2,7 @@
     {
         "department": "School of Data Science",
         "academicLevel": "Graduate",
+        "overview": "<p>The School of Data Science is designed to organize data science academic and research activities (with degrees and certificates tailored to regional workforce needs) while leveraging research partnerships with nearby national labs (Jefferson Lab, NASA Langley, and Wallops Flight Facility) to develop a targeted scientific focus in data science. The School's objectives include developing high-impact, cross-disciplinary research initiatives that center on data science and conducting outreach and community engagement, being a sources of data science expertise to the community, the Hampton Roads region, the Commonwealth of Virginia, and the nation.</p>",
         "programs": {
             "Master of Science Programs": [
                 "Data Science and Analytics with a Concentration in Artificial Intelligence and Machine Learning (MS)",
@@ -27,6 +28,7 @@
     {
         "department": "School of Data Science",
         "academicLevel": "Undergraduate",
+        "overview": "<p>Holly Handley, Dean (Interim)<br>\nFrank Liu, Director</p>\n<p>The School of Data Science is designed to organize data science academic and research activities (with degrees and certificates tailored to regional workforce needs) while leveraging research partnerships with nearby national labs (Jefferson Lab, NASA Langley, and Wallops Flight Facility) to develop a targeted scientific focus in data science. The School's objectives include developing high-impact, cross-disciplinary research initiatives that center on data science and conducting outreach and community engagement, being a sources of data science expertise to the community, the Hampton Roads region, the Commonwealth of Virginia, and the nation.</p>",
         "programs": {
             "Bachelor of Science Program": [
                 "Data Science (BS)"

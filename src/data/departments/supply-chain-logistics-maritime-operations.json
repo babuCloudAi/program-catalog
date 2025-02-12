@@ -2,6 +2,7 @@
     {
         "department": "School of Supply Chain, Logistics & Maritime Operations",
         "academicLevel": "Graduate",
+        "overview": "<h2>Overview</h2>",
         "programs": {
             "Master's Degrees": [
                 "Maritime Trade and Supply Chain Management (MS)"
@@ -16,7 +17,8 @@
     {
         "department": "School of Supply Chain, Logistics, and Maritime Operations",
         "academicLevel": "Undergraduate",
-        "programs": null,
+        "overview": "",
+        "programs": {},
         "courses": {
             "Supply Chain, Logistics, and Maritime Operations (SCLM)": [
                 "SCLM 201",

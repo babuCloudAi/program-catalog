@@ -3,6 +3,7 @@
         "academicLevel": "Graduate",
         "college": "Strome College of Business",
         "department": "Department of Economics",
+        "overview": "<p>2042 Constant Hall<br>\n(757) 683-3153</p>\n<p>Robert M. McNab, Chair</p>",
         "programs": {
             "Master of Arts Program": [
                 "Economics (MA)"
@@ -58,6 +59,7 @@
         "academicLevel": "Graduate",
         "college": "Strome College of Business",
         "department": "Department of Information Technology and Decision Sciences",
+        "overview": "<p>2072 Constant Hall<br>\n(757) 683-3571</p>\n<p>Weiyong Zhang, Interim Chair</p>\n<p>The Department of Information Technology and Decision Sciences is the largest academic department in the Strome College of Business.&nbsp; It is comprised of two separate, yet interrelated, academic disciplines - Business Analytics and Information Technology.&nbsp; The department offers programs at the bachelor, master, and PhD levels.</p>\n<p>The department offers common body of knowledge courses in information technology, operations management,&nbsp;decision analysis, business statistics, data analysis, and management science to all of Strome's undergraduate students, as well as electives in various aspects of the disciplines.</p>\n<p>Students from both the undergraduate and graduate programs land jobs at companies such as Oracle, Microsoft, Booz Allen Hamilton, BP (British Petroleum), Norfolk Southern, A.P. Møller, Northrop Grumman, CMA CGM, ZIM, Walmart, Dollar Tree and the federal government.</p>\n<p>Our faculty's research has been funded by the National Science Foundation, the U.S. Federal Highway Administration and the U.S. Department of Transportation.&nbsp; The department's maritime research was ranked eighth in the world at 2015 by ISI Web of Science.</p>",
         "programs": {
             "Certificate Programs": [
                 "Business Analytics and Big Data Certificate"
@@ -153,6 +155,7 @@
         "academicLevel": "Graduate",
         "college": "Strome College of Business",
         "department": "School of Accountancy",
+        "overview": "<p>2155 Constant Hall<br>\n(757) 683-3177</p>\n<p>TBD, Chair</p>\n<h2>Master of Science, Accounting</h2>\n<p>Frank Holman, Graduate Program Director</p>\n<p>Accounting services are becoming both broader and more specialized. The major changes that have occurred in the accounting profession dictate expanded and updated educational programs. An ideal model for a professional accounting education embodies a Master of Science (MS) in Accounting program that augments a broad undergraduate education. The MS in Accounting program at Old Dominion University is designed to accommodate both full-time and part-time students with courses offered in the evenings.</p>",
         "programs": {
             "Master of Science Program": [
                 "Accounting with a Concentration in Financial Management (MS)",
@@ -208,6 +211,7 @@
         "academicLevel": "Graduate",
         "college": "Strome College of Business",
         "department": "School of Public Service",
+        "overview": "<p>2084 Constant Hall<br>\n(757) 683-3961</p>\n<p><a href=\"http://www.odu.edu/sps\" target=\"_blank\">http://www.odu.edu/sps</a></p>\n<p>John Lombard, Acting Chair<br>\nMeg Jones, Associate Director</p>",
         "programs": {
             "Doctor of Philosophy Programs": [
                 "Public Administration and Policy (PhD)"
@@ -320,6 +324,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Accountancy",
+        "overview": "",
         "programs": {
             "Bachelor of Science in Business Administration Program": [
                 "Accounting (BSBA)"
@@ -400,6 +405,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Economics",
+        "overview": "<p>Department website: <a href=\"https://www.odu.edu/business/departments/economics\" target=\"_blank\" rel=\"noopener\">https://www.odu.edu/business/departments/economics</a></p>",
         "programs": {
             "Bachelor of Science in Business Administration Program": [
                 "Economics (BSBA)"
@@ -447,6 +453,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Financial Management",
+        "overview": "",
         "programs": {
             "Bachelor of Science in Business Administration Programs": [
                 "Financial Management with a Major in Finance (BSBA)",
@@ -508,6 +515,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Information Systems and Technology",
+        "overview": "",
         "programs": {
             "Bachelor of Science in Business Administration Programs": [
                 "Information Systems and Technology (BSBA)",
@@ -603,6 +611,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Management",
+        "overview": "",
         "programs": {
             "Bachelor of Science in Business Administration Programs": [
                 "Management (BSBA)",
@@ -687,6 +696,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Marketing",
+        "overview": "<p>Department website: <a href=\"http://www.odu.edu/business/departments/mktgdept\" target=\"_blank\" rel=\"noopener\">http://www.odu.edu/business/departments/mktgdept</a></p>",
         "programs": {
             "Bachelor of Science in Business Administration Programs": [
                 "Marketing Management with a Major in Digital Marketing (BSBA)",
@@ -733,6 +743,7 @@
         "academicLevel": "Undergraduate",
         "college": "Strome College of Business",
         "department": "Military Science and Leadership (Army Reserve Officers' Training Corps)",
+        "overview": "<p>Department website: <a href=\"http://www.goarmy.com/rotc/schools/old-dominion-university.html\" target=\"_blank\" rel=\"noopener\">http://www.goarmy.com/rotc/schools/old-dominion-university.html</a></p>",
         "programs": {
             "Minor Program": [
                 "Military Leadership Minor"

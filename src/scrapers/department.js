@@ -33,6 +33,11 @@ async function extractDepartments(url) {
     return departments;
 }
 
+function extractOverview($) {
+    const overviewSection = $("div#textcontainer");
+    return overviewSection.length ? overviewSection.html().trim() : null;
+}
+
 function extractPrograms($) {
     const programs = {};
     const programsSection = $("div#programstextcontainer");
@@ -43,16 +48,12 @@ function extractPrograms($) {
         programsSection.children().each((_, child) => {
             const childTag = $(child);
 
-            // Check for category headers (h3 or h2)
             if (childTag.is("h3") || childTag.is("h2")) {
                 currentCategory = childTag.text().trim();
                 if (currentCategory) {
                     programs[currentCategory] = [];
                 }
-            }
-
-            // Process program links inside "sitemap" divs
-            else if (childTag.is("div") && childTag.hasClass("sitemap")) {
+            } else if (childTag.is("div") && childTag.hasClass("sitemap")) {
                 if (currentCategory) {
                     childTag.find("li").each((_, li) => {
                         const aTag = $(li).find("a");
@@ -61,10 +62,7 @@ function extractPrograms($) {
                         }
                     });
                 }
-            }
-
-            // Capture raw HTML content for other relevant tags
-            else if (currentCategory && (childTag.is("p") || childTag.is("a") || childTag.is("ol") || childTag.is("li") || childTag.is("table"))) {
+            } else if (currentCategory && (childTag.is("p") || childTag.is("a") || childTag.is("ol") || childTag.is("li") || childTag.is("table"))) {
                 const content = childTag.prop("outerHTML").trim();
                 if (content) {
                     programs[currentCategory].push(content);
@@ -72,7 +70,6 @@ function extractPrograms($) {
             }
         });
 
-        // Remove categories with empty arrays
         Object.keys(programs).forEach(category => {
             if (programs[category].length === 0) {
                 delete programs[category];
@@ -140,6 +137,7 @@ async function scrapeDepartmentPage(department) {
         academicLevel: breadcrumb.academicLevel,
         college: breadcrumb.college,
         department: breadcrumb.department,
+        overview: extractOverview($),
         programs: extractPrograms($),
         courses: extractCourses($),
     };
@@ -147,8 +145,8 @@ async function scrapeDepartmentPage(department) {
 
 async function main() {
     const baseUrls = [
-        "https://catalog.odu.edu/graduate/sciences/",
-        "https://catalog.odu.edu/undergraduate/sciences/"
+        "https://catalog.odu.edu/graduate/health-sciences/",
+        "https://catalog.odu.edu/undergraduate/health-sciences/"
     ];
 
     const results = [];
@@ -174,12 +172,13 @@ async function main() {
         }
     }
 
-    const fileName = "sciences.json";
+    const fileName = "health-sciences.json";
     fs.writeFileSync(fileName, JSON.stringify(results, null, 4), "utf-8");
     console.log(`Data saved to ${fileName}`);
 }
 
 main();
+
 
 
 
@@ -284,6 +283,11 @@ main();
 //     return Object.keys(courses).length > 0 ? courses : {};
 // }
 
+// function extractOverview($) {
+//     const overviewSection = $("div#textcontainer");
+//     return overviewSection.length ? overviewSection.html().trim() : null;
+// }
+
 // function extractBreadcrumb($, url) {
 //     const breadcrumb = $("nav#breadcrumb");
 //     if (!breadcrumb.length) {
@@ -354,7 +358,6 @@ main();
 //     return programs;
 // }
 
-
 // async function scrapePage(url) {
 //     console.log(`Scraping URL: ${url}`);
 //     const $ = await getPageContent(url);
@@ -365,12 +368,14 @@ main();
 //     const programs = extractPrograms($);
 //     const courses = extractCourses($);
 //     const continueeducation = extractContinuingEducationPrograms($)
+//     const overview = extractOverview($)
 
 //     if (!departmentName) return null;
 
 //     return [{
 //         department: departmentName,
 //         academicLevel: breadcrumb.academicLevel,
+//         overview: overview,
 //         programs: programs,
 //         courses: courses,
 //         continueeducation:continueeducation
@@ -388,7 +393,7 @@ main();
 //         return;
 //     }
 
-//     const fileName = "contiune-demo.json";
+//     const fileName = "babu-school.json";
 //     fs.writeFileSync(fileName, JSON.stringify(result, null, 4), "utf-8");
 //     console.log(`Data saved to ${fileName}`);
 // }
@@ -399,163 +404,170 @@ main();
 
 //single page but different level (undergraduate and graduate)
 
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+// const axios = require("axios");
+// const cheerio = require("cheerio");
+// const fs = require("fs");
 
-async function getPageContent(url) {
-    try {
-        const response = await axios.get(url);
-        return cheerio.load(response.data);
-    } catch (error) {
-        console.error(`Failed to fetch ${url}: ${error.message}`);
-        return null;
-    }
-}
+// async function getPageContent(url) {
+//     try {
+//         const response = await axios.get(url);
+//         return cheerio.load(response.data);
+//     } catch (error) {
+//         console.error(`Failed to fetch ${url}: ${error.message}`);
+//         return null;
+//     }
+// }
 
-function extractDepartmentName($) {
-    const departmentHeader = $("h1");
-    return departmentHeader.length ? departmentHeader.text().trim() : null;
-}
+// function extractDepartmentName($) {
+//     const departmentHeader = $("h1");
+//     return departmentHeader.length ? departmentHeader.text().trim() : null;
+// }
 
-function extractPrograms($) {
-    const programs = {};
-    const programsSection = $("div#programstextcontainer");
+// function extractPrograms($) {
+//     const programs = {};
+//     const programsSection = $("div#programstextcontainer");
 
-    if (programsSection.length) {
-        let currentCategory = null;
+//     if (programsSection.length) {
+//         let currentCategory = null;
 
-        programsSection.children().each((_, child) => {
-            const childTag = $(child);
+//         programsSection.children().each((_, child) => {
+//             const childTag = $(child);
 
-            // Check for category headers (h3 or h2)
-            if (childTag.is("h3") || childTag.is("h2")) {
-                currentCategory = childTag.text().trim();
-                if (currentCategory) {
-                    programs[currentCategory] = [];
-                }
-            }
+//             // Check for category headers (h3 or h2)
+//             if (childTag.is("h3") || childTag.is("h2")) {
+//                 currentCategory = childTag.text().trim();
+//                 if (currentCategory) {
+//                     programs[currentCategory] = [];
+//                 }
+//             }
 
-            // Process program links inside "sitemap" divs
-            else if (childTag.is("div") && childTag.hasClass("sitemap")) {
-                if (currentCategory) {
-                    childTag.find("li").each((_, li) => {
-                        const aTag = $(li).find("a");
-                        if (aTag.length) {
-                            programs[currentCategory].push(aTag.text().trim());
-                        }
-                    });
-                }
-            }
+//             // Process program links inside "sitemap" divs
+//             else if (childTag.is("div") && childTag.hasClass("sitemap")) {
+//                 if (currentCategory) {
+//                     childTag.find("li").each((_, li) => {
+//                         const aTag = $(li).find("a");
+//                         if (aTag.length) {
+//                             programs[currentCategory].push(aTag.text().trim());
+//                         }
+//                     });
+//                 }
+//             }
 
-            // Capture raw HTML content for other relevant tags
-            else if (currentCategory && (childTag.is("p") || childTag.is("a") || childTag.is("ol") || childTag.is("li") || childTag.is("table"))) {
-                const content = childTag.prop("outerHTML").trim();
-                if (content) {
-                    programs[currentCategory].push(content);
-                }
-            }
-        });
+//             // Capture raw HTML content for other relevant tags
+//             else if (currentCategory && (childTag.is("p") || childTag.is("a") || childTag.is("ol") || childTag.is("li") || childTag.is("table"))) {
+//                 const content = childTag.prop("outerHTML").trim();
+//                 if (content) {
+//                     programs[currentCategory].push(content);
+//                 }
+//             }
+//         });
 
-        // Remove categories with empty arrays
-        Object.keys(programs).forEach(category => {
-            if (programs[category].length === 0) {
-                delete programs[category];
-            }
-        });
-    } else {
-        console.error("Programs section not found.");
-    }
+//         // Remove categories with empty arrays
+//         Object.keys(programs).forEach(category => {
+//             if (programs[category].length === 0) {
+//                 delete programs[category];
+//             }
+//         });
+//     } else {
+//         console.error("Programs section not found.");
+//     }
 
-    return programs;
-}
+//     return programs;
+// }
 
-function extractCourses($) {
-    const courses = {};
-    const coursesSection = $("div#coursestextcontainer");
+// function extractCourses($) {
+//     const courses = {};
+//     const coursesSection = $("div#coursestextcontainer");
 
-    if (coursesSection.length) {
-        let currentCategory = null;
+//     if (coursesSection.length) {
+//         let currentCategory = null;
 
-        coursesSection.children().each((_, child) => {
-            const childTag = $(child);
+//         coursesSection.children().each((_, child) => {
+//             const childTag = $(child);
 
-            if (childTag.is("h3")) {
-                currentCategory = childTag.text().trim();
-                courses[currentCategory] = [];
-            } else if (!childTag.is("h3")) {
-                if (childTag.is("div") && currentCategory) {
-                    childTag.find("span.text.detail-xrefcode.margin--tiny.text--semibold.text--big").each((_, span) => {
-                        const strongTag = $(span).find("strong");
-                        if (strongTag.length) {
-                            courses[currentCategory].push(strongTag.text().trim());
-                        }
-                    });
-                }
-            }
-        });
-    }
+//             if (childTag.is("h3")) {
+//                 currentCategory = childTag.text().trim();
+//                 courses[currentCategory] = [];
+//             } else if (!childTag.is("h3")) {
+//                 if (childTag.is("div") && currentCategory) {
+//                     childTag.find("span.text.detail-xrefcode.margin--tiny.text--semibold.text--big").each((_, span) => {
+//                         const strongTag = $(span).find("strong");
+//                         if (strongTag.length) {
+//                             courses[currentCategory].push(strongTag.text().trim());
+//                         }
+//                     });
+//                 }
+//             }
+//         });
+//     }
 
-    return courses;
-}
+//     return courses;
+// }
 
-function extractBreadcrumb($, url) {
-    const breadcrumb = $("nav#breadcrumb");
-    if (!breadcrumb.length) {
-        console.warn("Breadcrumb navigation not found.");
-        return {
-            academicLevel: url.includes("undergraduate") ? "Undergraduate" : "Graduate",
-            department: null,
-        };
-    }
+// function extractOverview($) {
+//     const overviewSection = $("div#textcontainer");
+//     return overviewSection.length ? overviewSection.html().trim() : null;
+// }
 
-    const items = breadcrumb.find("li");
+// function extractBreadcrumb($, url) {
+//     const breadcrumb = $("nav#breadcrumb");
+//     if (!breadcrumb.length) {
+//         console.warn("Breadcrumb navigation not found.");
+//         return {
+//             academicLevel: url.includes("undergraduate") ? "Undergraduate" : "Graduate",
+//             department: null,
+//         };
+//     }
 
-    return {
-        academicLevel: items.eq(1).find("a").text().trim().replace(/catalog/i, "").trim(),
-        department: items.eq(2).find("span.active").text().trim() || null,
-    };
-}
+//     const items = breadcrumb.find("li");
 
-async function scrapePage(url) {
-    console.log(`Scraping URL: ${url}`);
-    const $ = await getPageContent(url);
-    if (!$) return null;
+//     return {
+//         academicLevel: items.eq(1).find("a").text().trim().replace(/catalog/i, "").trim(),
+//         department: items.eq(2).find("span.active").text().trim() || null,
+//     };
+// }
 
-    const departmentName = extractDepartmentName($);
-    const breadcrumb = extractBreadcrumb($, url);
-    const programs = extractPrograms($);
-    const courses = extractCourses($);
+// async function scrapePage(url) {
+//     console.log(`Scraping URL: ${url}`);
+//     const $ = await getPageContent(url);
+//     if (!$) return null;
 
-    if (!departmentName) return null;
+//     const departmentName = extractDepartmentName($);
+//     const breadcrumb = extractBreadcrumb($, url);
+//     const programs = extractPrograms($);
+//     const courses = extractCourses($);
+//     const overview = extractOverview($)
 
-    return [{
-        department: departmentName,
-        academicLevel: breadcrumb.academicLevel,
-        programs: programs,
-        courses: courses
-    }];
-}
+//     if (!departmentName) return null;
 
-async function main() {
-    const baseUrls = [
-        "https://catalog.odu.edu/undergraduate/cybersecurity/",
-        "https://catalog.odu.edu/graduate/cybersecurity/"
-    ];
+//     return [{
+//         department: departmentName,
+//         academicLevel: breadcrumb.academicLevel,
+//         overview: overview,
+//         programs: programs,
+//         courses: courses
+//     }];
+// }
 
-    const combinedResults = [];
+// async function main() {
+//     const baseUrls = [
+//         "https://catalog.odu.edu/graduate/nursing/",
+//         "https://catalog.odu.edu/undergraduate/nursing/"
+//     ];
 
-    for (const baseUrl of baseUrls) {
-        await new Promise(resolve => setTimeout(resolve, 5000)); // Wait 5 seconds before each request
-        const data = await scrapePage(baseUrl);
-        if (data) {
-            combinedResults.push(...data);
-        }
-    }
+//     const combinedResults = [];
 
-    const fileName = "babu.json";
-    fs.writeFileSync(fileName, JSON.stringify(combinedResults, null, 4), "utf-8");
-    console.log(`Data saved to ${fileName}`);
-}
+//     for (const baseUrl of baseUrls) {
+//         await new Promise(resolve => setTimeout(resolve, 5000)); 
+//         const data = await scrapePage(baseUrl);
+//         if (data) {
+//             combinedResults.push(...data);
+//         }
+//     }
 
-main();
+//     const fileName = "nursing.json";
+//     fs.writeFileSync(fileName, JSON.stringify(combinedResults, null, 4), "utf-8");
+//     console.log(`Data saved to ${fileName}`);
+// }
+
+// main();
