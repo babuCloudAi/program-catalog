@@ -1,139 +1,285 @@
 [
-    {
-        "programTitle": "Accounting with a Concentration in Financial Management, MS",
-        "programUrl": "https://catalog.odu.edu/graduate/business/accounting/accounting-financial-management-ms/",
-        "academicLevel": "Master's",
-        "programType": "Graduate",
-        "academicInterests": "Business & Management",
-        "collegesAndSchools": "Strome College of Business",
-        "department": "School of Accountancy",
-        "tabs": {
-          "Overview": {
-            "content": "\n\n<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>",
-            "courseExtractedFromText": []
-          },
-          "Admission": {
-            "content": "\n\t\t\t\t<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>\n\t\t\t",
-            "courseExtractedFromText": [
-              "ACCT 305",
-              "ACCT 306",
-              "ACCT 311",
-              "ACCT 425",
-              "ACCT 411",
-              "ACCT 201",
-              "ACCT 305",
-              "ACCT 306",
-              "ACCT 411",
-              "ACCT 202",
-              "ACCT 311",
-              "ACCT 425"
-            ]
-          },
-          "Curriculum": {
-            "content": "\n\t\t\t\t<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Financial Management Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20624\" title=\"ACCT&nbsp;624\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 624');\">ACCT&nbsp;624</a></td><td>Information Technology Assurance Services <sup>***</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20625\" title=\"ACCT&nbsp;625\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 625');\">ACCT&nbsp;625</a></td><td>Fraud Examination and Forensic Accounting</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20727\" title=\"ACCT&nbsp;727\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 727');\">ACCT&nbsp;727</a></td><td>Strategic Cost Management</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20730\" title=\"ACCT&nbsp;730\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 730');\">ACCT&nbsp;730</a></td><td>Financial Management Decision Making</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20747\" title=\"ACCT&nbsp;747\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 747');\">ACCT&nbsp;747</a></td><td>Seminar in Controllership</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit <sup>*</sup></td><td class=\"hourscol\">1</td></tr>\n<tr class=\"odd\"><td colspan=\"2\"><span class=\"courselistcomment\">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">23-25</td></tr>\n<tr class=\"even lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">38-40</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd><dt>***</dt><dd start-indent=\"23%\"><p class=\"noindent\">Recommended for students wishing to pursue a career in Public Sector Finance.</p></dd></dl>\n\t\t\t",
-            "courseExtractedFromText": [
-              "ACCT 623",
-              "ACCT 626",
-              "ACCT 627",
-              "ACCT 630",
-              "ACCT 662",
-              "ACCT 624",
-              "ACCT 625",
-              "ACCT 668",
-              "ACCT 695",
-              "ACCT 697",
-              "ACCT 727",
-              "ACCT 730",
-              "ACCT 747",
-              "ACCT 998"
-            ]
-          }
-        },
-        "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-financial-management-ms.pdf"
+  {
+    "programTitle": "Accounting with a Concentration in Financial Management, MS",
+    "programUrl": "https://catalog.odu.edu/graduate/business/accounting/accounting-financial-management-ms/",
+    "academicLevel": "Master's",
+    "programType": "Graduate",
+    "academicInterests": "Business & Management",
+    "collegesAndSchools": "Strome College of Business",
+    "department": "School of Accountancy",
+    "tabs": {
+      "Overview": {
+        "content": "\n\n<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>",
+        "courseExtractedFromText": []
       },
-      {
-        "programTitle": "Accounting with a Concentration in Taxation, MS",
-        "programUrl": "https://catalog.odu.edu/graduate/business/accounting/accounting-taxation-ms/",
-        "academicLevel": "Master's",
-        "programType": "Graduate",
-        "academicInterests": "Business & Management",
-        "collegesAndSchools": "Strome College of Business",
-        "department": "School of Accountancy",
-        "tabs": {
-          "Overview": {
-            "content": "\n\n<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>",
-            "courseExtractedFromText": []
-          },
-          "Admission": {
-            "content": "\n\t\t\t\t<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>\n\t\t\t",
-            "courseExtractedFromText": [
-              "ACCT 305",
-              "ACCT 306",
-              "ACCT 311",
-              "ACCT 425",
-              "ACCT 411",
-              "ACCT 201",
-              "ACCT 305",
-              "ACCT 306",
-              "ACCT 411",
-              "ACCT 202",
-              "ACCT 311",
-              "ACCT 425"
-            ]
-          },
-          "Curriculum": {
-            "content": "\n\t\t\t\t<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Taxation Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20650\" title=\"ACCT&nbsp;650\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 650');\">ACCT&nbsp;650</a></td><td>Tax Strategies for Business Decisions</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20651\" title=\"ACCT&nbsp;651\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 651');\">ACCT&nbsp;651</a></td><td>Taxation of Corporations I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20652\" title=\"ACCT&nbsp;652\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 652');\">ACCT&nbsp;652</a></td><td>Taxation of Partners and Partnerships</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20653\" title=\"ACCT&nbsp;653\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 653');\">ACCT&nbsp;653</a></td><td>Taxation of Estates and Gifts</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20657\" title=\"ACCT&nbsp;657\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 657');\">ACCT&nbsp;657</a></td><td>State and Local Taxation</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20658\" title=\"ACCT&nbsp;658\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 658');\">ACCT&nbsp;658</a></td><td>Tax Aspects of International Business</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit</td><td class=\"hourscol\">1</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">26-28</td></tr>\n<tr class=\"odd areaheader  lastrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">41-43</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd></dl>\n\t\t\t",
-            "courseExtractedFromText": [
-              "ACCT 623",
-              "ACCT 626",
-              "ACCT 627",
-              "ACCT 630",
-              "ACCT 662",
-              "ACCT 650",
-              "ACCT 651",
-              "ACCT 652",
-              "ACCT 653",
-              "ACCT 657",
-              "ACCT 658",
-              "ACCT 668",
-              "ACCT 695",
-              "ACCT 697",
-              "ACCT 998"
-            ]
-          }
-        },
-        "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-taxation-ms.pdf"
+      "Admission": {
+        "content": "\n\t\t\t\t<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>\n\t\t\t",
+        "courseExtractedFromText": [
+          "ACCT 305",
+          "ACCT 306",
+          "ACCT 311",
+          "ACCT 425",
+          "ACCT 411",
+          "ACCT 201",
+          "ACCT 305",
+          "ACCT 306",
+          "ACCT 411",
+          "ACCT 202",
+          "ACCT 311",
+          "ACCT 425"
+        ]
       },
-      {
-        "programTitle": "Adapted Physical Education Certificate",
-        "programUrl": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/adapted-physical-education-certificate/",
-        "academicLevel": "Graduate",
-        "programType": "Certificates",
-        "academicInterests": "Exercise & Rehabilitation Sciences",
-        "collegesAndSchools": "Darden College of Education and Professional Studies",
-        "department": "Department of Human Movement Studies and Special Education",
-        "tabs": {
-          "Overview": {
-            "content": "\n\n<p>The Graduate Certificate in adapted physical education is designed for individuals who are practicing or planning to teach in school-based physical education settings. This certificate aims to meet the professional advancement needs of at least three populations:</p>\n<ul>\n\t<li>Existing student populations at ODU interested in acquiring requisite knowledge and skills to effectively teach children with disabilities in physical education. These are expected to include graduate students in each concentration area (i.e., coaching, curriculum &amp; instruction, initial licensure, adapted physical education) of physical education, as well as others in different education-related areas. Graduate degree seeking students will be able to obtain the Certificate and degree simultaneously using the available four elective courses in their degree program.</li>\n\t<li>Currently practicing physical education teachers looking to further enhance their knowledge and skills in teaching students with disabilities in their classes.</li>\n\t<li>Non-degree seeking students seeking to enhance their employability in the physical education/ adapted physical education job acquisition search.</li>\n</ul>",
-            "courseExtractedFromText": []
-          },
-          "Admission": {
-            "content": "\n\t\t\t\t<a name=\"admissiontext\"></a><h2>Admission</h2>\n<p>Degree seeking graduate-level students admitted to the certificate program must meet ODU requirements for graduate admission: an earned baccalaureate degree from a regionally-accredited institution or an equivalent degree from a foreign institution. Those whose native language is not English must submit a minimum score of 230 on the computer-based TOEFL or 80 on the TOEFL iBT.</p>\n<p>Individuals not seeking graduate-level degrees admitted to the certificate program must have a completed baccalaureate degree (or equivalent).</p>\n\n\n\t\t\t",
-            "courseExtractedFromText": []
-          },
-          "Curriculum": {
-            "content": "\n\t\t\t\t<a name=\"curriculumtext\"></a><h2>Curriculum Requirements</h2>\n<p>The certificate requires four (4) three-hour courses for a total of twelve (12) credits. This includes three core courses and one elective course, as follows</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20504\" title=\"HPE&nbsp;504\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 504');\">HPE&nbsp;504</a></td><td>Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20704\" title=\"HPE&nbsp;704\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 704');\">HPE&nbsp;704</a></td><td>Advanced Studies in Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20740\" title=\"HPE&nbsp;740\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 740');\">HPE&nbsp;740</a></td><td>Motor Learning and Development</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Elective Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20720\" title=\"HPE&nbsp;720\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 720');\">HPE&nbsp;720</a></td><td>Curriculum Development in Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"orclass odd lastrow\"><td class=\"codecol orclass\">or&nbsp;<a href=\"/search/?P=HPE%20745\" title=\"HPE&nbsp;745\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 745');\">HPE&nbsp;745</a></td><td colspan=\"2\"> Assessment/Evaluation and Technology in Sport/PE</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">12</td></tr></tbody>\n</table>\n\n\n\t\t\t",
-            "courseExtractedFromText": [
-              "HPE 504",
-              "HPE 704",
-              "HPE 740",
-              "HPE 720",
-              "HPE 745"
-            ]
-          }
-        },
-        "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/adapted-physical-education-certificate.pdf"
+      "Curriculum": {
+        "content": "\n\t\t\t\t<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Financial Management Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20624\" title=\"ACCT&nbsp;624\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 624');\">ACCT&nbsp;624</a></td><td>Information Technology Assurance Services <sup>***</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20625\" title=\"ACCT&nbsp;625\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 625');\">ACCT&nbsp;625</a></td><td>Fraud Examination and Forensic Accounting</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20727\" title=\"ACCT&nbsp;727\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 727');\">ACCT&nbsp;727</a></td><td>Strategic Cost Management</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20730\" title=\"ACCT&nbsp;730\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 730');\">ACCT&nbsp;730</a></td><td>Financial Management Decision Making</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20747\" title=\"ACCT&nbsp;747\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 747');\">ACCT&nbsp;747</a></td><td>Seminar in Controllership</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit <sup>*</sup></td><td class=\"hourscol\">1</td></tr>\n<tr class=\"odd\"><td colspan=\"2\"><span class=\"courselistcomment\">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">23-25</td></tr>\n<tr class=\"even lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">38-40</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd><dt>***</dt><dd start-indent=\"23%\"><p class=\"noindent\">Recommended for students wishing to pursue a career in Public Sector Finance.</p></dd></dl>\n\t\t\t",
+        "courseExtractedFromText": [
+          "ACCT 623",
+          "ACCT 626",
+          "ACCT 627",
+          "ACCT 630",
+          "ACCT 662",
+          "ACCT 624",
+          "ACCT 625",
+          "ACCT 668",
+          "ACCT 695",
+          "ACCT 697",
+          "ACCT 727",
+          "ACCT 730",
+          "ACCT 747",
+          "ACCT 998"
+        ]
       }
+    },
+    "programS3Uri": "s3://cloudaillc-meysam/knowledgebase/program_catalog_pdf/Graduate_program_catalog/accounting-financial-management-ms.pdf",
+    "courseOffering": {
+      "Fall 2022": [
+        {
+          "ssbsect_term_code": 202210,
+          "term_desc": "Fall 2022",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "27-Aug-22",
+          "ssbsect_ptrm_end_date": "9-Dec-22",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "1630",
+          "ssrmeet_end_time": "1920",
+          "days": "M",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Fall 2023": [
+        {
+          "ssbsect_term_code": 202310,
+          "term_desc": "Fall 2023",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "26-Aug-23",
+          "ssbsect_ptrm_end_date": "8-Dec-23",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "1230",
+          "ssrmeet_end_time": "1540",
+          "days": "W",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Fall 2024": [
+        {
+          "ssbsect_term_code": 202410,
+          "term_desc": "Fall 2024",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "24-Aug-24",
+          "ssbsect_ptrm_end_date": "6-Dec-24",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "",
+          "ssrmeet_end_time": "",
+          "days": "U",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Fall 2025": [
+        {
+          "ssbsect_term_code": 202510,
+          "term_desc": "Fall 2025",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "23-Aug-25",
+          "ssbsect_ptrm_end_date": "5-Dec-25",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "",
+          "ssrmeet_end_time": "",
+          "days": "S",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Spring 2023": [
+        {
+          "ssbsect_term_code": 202220,
+          "term_desc": "Spring 2023",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "7-Jan-23",
+          "ssbsect_ptrm_end_date": "24-Apr-23",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "",
+          "ssrmeet_end_time": "",
+          "days": "R",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Spring 2024": [
+        {
+          "ssbsect_term_code": 202320,
+          "term_desc": "Spring 2024",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "6-Jan-24",
+          "ssbsect_ptrm_end_date": "22-Apr-24",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "",
+          "ssrmeet_end_time": "",
+          "days": "",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ],
+      "Spring 2025": [
+        {
+          "ssbsect_term_code": 202420,
+          "term_desc": "Spring 2025",
+          "ssbsect_ptrm_code": 5,
+          "course_id": "ACCT 229 TCCK-PRINC OF ACCOUNTING II",
+          "crse_levl": "UG",
+          "schd_desc": "Lecture",
+          "stvcamp_desc": "Undergrad Consortium Course",
+          "ssbsect_credit_hrs": 3,
+          "stvgmod_desc": "Normal Letter Grade",
+          "ssbsect_ptrm_start_date": "11-Jan-25",
+          "ssbsect_ptrm_end_date": "28-Apr-25",
+          "ssbsect_ptrm_weeks": 16,
+          "ssbsect_insm_code": "",
+          "gtvinsm_desc": "",
+          "coll_desc": "College of Business",
+          "scbcrse_dept_code": "ACCT",
+          "dept_desc": "School of Accountancy",
+          "ssrmeet_begin_time": "",
+          "ssrmeet_end_time": "",
+          "days": "",
+          "ssrmeet_bldg_code": "",
+          "bldg_desc": "",
+          "ssrmeet_room_code": "",
+          "course_desc": "",
+          "mtyp_desc": "",
+          "site_type": "Norfolk"
+        }
+      ]
+    },
+    "skills": {
+      "technicalAndDigital": [
+        "Understanding of colonial and post-colonial political systems in Africa",
+        "Digital research skills for historical analysis",
+        "Data visualization of historical trends in Africa"
+      ],
+      "interpersonalANdCommunication": [
+        "Effective presentation of historical research findings",
+        "Collaboration with peers on group projects related to African history"
+      ],
+      "problemSolvingAndAnalytical": [
+        "Critical analysis of colonial and post-colonial documents and narratives",
+        "Identification of social and cultural transformations in Africa throughout the 20th century"
+      ],
+      "OrganizationalAndLeadership": [
+        "Leading discussions on complex historical topics related to Africa",
+        "Organizing research materials and sources for academic projects on African history"
+      ]
+    }
+  }
 ]
-
-

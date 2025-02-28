@@ -1,0 +1,556 @@
+[
+    {
+        "courseTitle": "Introduction to African American Studies",
+        "courseCode": "AAST 100S",
+        "academicLevel": "undergraduate",
+        "courseDescription": "An interdisciplinary examination of the African American experience in America.  The course examines the historical and contemporary conditions of African American people.  It also explores the various modes of artistic expression, values and philosophical underpinnings of African American culture.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research",
+            "Cultural analysis",
+            "Understanding and interpreting artistic expression"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Effective communication about historical and contemporary issues",
+            "Expressing diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical contexts",
+            "Evaluating contemporary conditions",
+            "Understanding philosophical underpinnings"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing cultural and historical information",
+            "Leading discussions on African American experience",
+            "Promoting cultural values"
+        ]
+    },
+    {
+        "courseTitle": "Interpreting the African Past",
+        "courseCode": "AAST 105H",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course offers students a critical approach to interpreting the history of Africa. A fast-paced survey of African history, it affords students a grounding in the major themes of African history. The course focuses on the major economic, social, and political institutions of Africa, past and present, and explores how historical developments assist comprehension of present-day Africa.",
+        "Technical and Digital Skills": [
+            "Research historical sources",
+            "Use of digital tools for historical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical discussion of historical themes",
+            "Presentation of historical findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical interpretation of historical events",
+            "Analysis of socio-economic data",
+            "Understanding and interpreting political institutions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing historical information",
+            "Connecting past and present events"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Historical Methods",
+        "courseCode": "AAST 201",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Required of all history and secondary education social studies majors. Recommended prior to upper-division course work. Examines methods of historical research and primary and secondary source analysis, inclusive of internet usage. Explores historiography and historical writing. Introduces students to issues in the philosophy of history.",
+        "Technical and Digital Skills": [
+            "Historical research methods",
+            "Primary and secondary source analysis",
+            "Internet usage for research",
+            "Historical writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Source interpretation",
+            "Historiographical analysis",
+            "Critical evaluation of historical information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Time management in research"
+        ]
+    },
+    {
+        "courseTitle": "Research Design",
+        "courseCode": "AAST 308",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Covers the design and implementation of quantitative and qualitative methods of inquiry in social sciences.",
+        "Technical and Digital Skills": [
+            "Designing quantitative research methods",
+            "Implementing qualitative research methods",
+            "Knowledge in social sciences"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presenting research findings",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing qualitative data",
+            "Solving quantitative research issues",
+            "Critical evaluation of research results"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing research projects",
+            "Coordinating research teams"
+        ]
+    },
+    {
+        "courseTitle": "Human Rights and Social Change in Africa",
+        "courseCode": "AAST 310",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines historical social movements in Africa such as economic, ethnic, women's, political, and religious social movements.  This course will also link micro-level, meso-level, and macro-level implications for the social structures and cultures of various African nations and communities.",
+        "Technical and Digital Skills": [
+            "Researching historical social movements",
+            "Understanding socio-economic structures"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural understanding",
+            "Engagement with diverse political and social perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of social structures and cultures",
+            "Critical evaluation of social movements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Dealing with complex societal issues",
+            "Understanding and interpreting macro-level implications"
+        ]
+    },
+    {
+        "courseTitle": "Politics of Africa",
+        "courseCode": "AAST 316",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is intended to familiarize students with the struggles, advances, and setbacks of African peoples for state-building and socioeconomic development during the colonial and post-independence eras.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Cross-cultural communication",
+            "Oral presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Socioeconomic policy evaluation",
+            "Political conflict resolution"
+        ],
+        "Organizational and Leadership Skills": [
+            "Strategic planning",
+            "Leadership in diverse cultural settings",
+            "Organizational development"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Research Methods",
+        "courseCode": "AAST 320",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is an introduction to social research methods.  The primary purpose of this course is to survey the major research designs and research techniques that are the core of contemporary approaches used to study social phenomena as well as the lives and experiences of African Americans.  Ethical implications of social research and data analysis will also be covered.",
+        "Technical and Digital Skills": [
+            "Understanding of major research designs",
+            "Knowledge of research techniques",
+            "Understanding ethical implications of social research",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Ethical consideration in social research",
+            "Communication of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing social phenomena",
+            "Analyzing experiences of specific groups (e.g., African Americans)",
+            "Identification and resolution of ethical issues in research"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and conducting social research",
+            "Leading research projects with ethical consideration"
+        ]
+    },
+    {
+        "courseTitle": "Sociology of Minority Families",
+        "courseCode": "AAST 323",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examination and explanation of minority families' lives in relationship to other societal institutions and historical developments. The course focuses on issues of minority families and places these issues in a sociological framework, e.g., stratification, poverty and gender.",
+        "Technical and Digital Skills": [
+            "Sociological research",
+            "Data analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Understanding and communicating complex social issues",
+            "Cultural sensitivity"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Societal problem identification",
+            "Historical context analysis",
+            "Gender studies analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "African-American History to 1865",
+        "courseCode": "AAST 361",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The course examines African-American history from the African background through the Civil War. Emphasis is placed on an analysis of African-Americans' role in the political, economic, social and cultural life of the United States.",
+        "Technical and Digital Skills": [
+            "Researching historical databases",
+            "Using digital tools for historical analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating historical events and interpretations",
+            "Presenting historical analysis",
+            "Writing historical essays"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical events and their impact",
+            "Critical evaluation of historical sources",
+            "Understanding and interpreting economic and political systems"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and executing research projects",
+            "Leading group discussions on historical contexts"
+        ]
+    },
+    {
+        "courseTitle": "Internship",
+        "courseCode": "AAST 368",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Individual practical experience in community-based organizations, public bureaucracies, administrative agencies and other organizations and firms.  Student can gain exposure in the not-for-profit and profit sectors.",
+        "Technical and Digital Skills": [
+            "Practical application of theoretical knowledge",
+            "understanding of public bureaucracy",
+            "understanding of administrative agency functions",
+            "understanding of not-for-profit and profit sector operations"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Interacting with community-based organizations",
+            "effective communication within public and private sector organizations",
+            "building professional relationships"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing practical problems in organizational settings",
+            "applying theoretical principles to real-world issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Adaptability to different organizational cultures",
+            "leadership in community-based organizations",
+            "understanding and applying administrative processes"
+        ]
+    },
+    {
+        "courseTitle": "Africa in the 20th Century",
+        "courseCode": "AAST 381",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course surveys the political, social and cultural history of colonial and post-independent Africa. Major themes include colonization and resistance, anti-colonial movements, social and cultural transformations, urbanization and popular culture and post colonial challenges.",
+        "Technical and Digital Skills": [
+            "Historical research",
+            "Digital archival research",
+            "Analyzing historical datasets"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity and understanding",
+            "Articulating complex political and social concepts",
+            "Oral and written communication of historical narratives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of historical sources",
+            "Analysis of socio-political movements",
+            "Understanding and interpreting cultural transformations"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in historical research",
+            "Leading discussions on complex historical themes"
+        ]
+    },
+    {
+        "courseTitle": "Topics in African American Studies",
+        "courseCode": "AAST 396",
+        "academicLevel": "undergraduate",
+        "courseDescription": "These courses are open to majors and non-majors.  Ethnic studies majors may take these courses to satisfy requirements for the concentration.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Interdisciplinary communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of ethnic studies",
+            "Evaluation of historical and social contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Academic planning and organization",
+            "Navigating academic resources"
+        ]
+    },
+    {
+        "courseTitle": "Africana Intellectual Thought and Economic Development",
+        "courseCode": "AAST 410",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines Africana philosophical and theoretical thought as it pertains to issues of race, labor and production.  Through an examination of the social and economic legacy of slavery and colonialism, this course investigates how systems of exploitation have influenced the underdevelopment of Africa, the Caribbean and North America in its contribution to Western Capitalism.",
+        "Technical and Digital Skills": [
+            "Analyzing historical and economic data",
+            "Researching and examining social and economic legacies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Critical evaluation and discussion of race, labor and production issues",
+            "Presenting and communicating complex theories"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing systems of exploitation and their socioeconomic effects",
+            "Assessing the impact of slavery and colonialism on economic development"
+        ],
+        "Organizational and Leadership Skills": [
+            "Organizing and structuring complex historical and socio-economic information",
+            "Leading discussions on sensitive and complex topics"
+        ]
+    },
+    {
+        "courseTitle": "Politics of the Civil Rights Movement",
+        "courseCode": "AAST 412",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Examines the political activities which resulted in the passage of the nation's second Civil Rights policy, the 1960 and 1964 Civil Rights Acts, the 1965 Voting Rights Act and the 1968 Fair Housing Act. The course will analyze the underpinnings, leadership, and political strategies of the Civil Rights Movement.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Persuasive communication",
+            "Understanding and interpreting historical documents",
+            "Understanding and engaging with diverse perspectives"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of historical events and legislation",
+            "Critical evaluation of political strategies",
+            "Analyzing and interpreting political actions"
+        ],
+        "Organizational and Leadership Skills": [
+            "Understanding leadership roles and strategies in the Civil Rights Movement",
+            "Evaluating and understanding the impact of organizational structure on political outcomes"
+        ]
+    },
+    {
+        "courseTitle": "African American Political and Social Thought",
+        "courseCode": "AAST 420W",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course is designed to introduce students to the historical and contemporary experiences of “Blackness” as it has been constructed, contested and affirmed in various historical, political and narrative contexts.  Embracing the theme of duality, the course examines what it means for a culture and people to be both integral to and excluded from the American political and social community. This is a writing intensive course.",
+        "Technical and Digital Skills": [
+            "Academic writing",
+            "Textual analysis",
+            "Digital research methodologies"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Persuasive writing",
+            "Oral presentation skills"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Political analysis",
+            "Critical thinking",
+            "Contextual analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research management",
+            "Argument structure and development"
+        ]
+    },
+    {
+        "courseTitle": "Minority Group Relations",
+        "courseCode": "AAST 426",
+        "academicLevel": "undergraduate",
+        "courseDescription": "The study of the process of and responses to the oppression of racial, religious, ethnic, and national minorities in a variety of countries within a historical and comparative perspective. Special emphasis given to American minorities and especially African Americans.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Empathy and understanding towards different cultures and ethnicities",
+            "Effective communication with diverse groups",
+            "Conflict resolution in multicultural settings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Historical analysis",
+            "Comparative analysis of different cultures",
+            "Critical thinking in the context of social inequality"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leadership in diverse environments",
+            "Organizing community outreach initiatives",
+            "Promoting inclusivity and diversity"
+        ]
+    },
+    {
+        "courseTitle": "Race, Ethnicity, Crime and Justice",
+        "courseCode": "AAST 451",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will examine the intersectionality of race, ethnicity, crime, justice and the operation of the criminal justice system and will critically assess controversial issues surrounding race, ethnicity, crime, and justice. Students will discuss contemporary social justice issues as they relate to race, ethnicity, crime, and justice. The theoretical frameworks that explain the intersection between race, ethnicity, crime and justice will be examined. The course will also investigate the broad range of policy issues and recommendations impacting communities of color and the administration of criminal and social justice.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Facilitation of inclusive discussions",
+            "Articulation of social justice issues",
+            "Cultural sensitivity and awareness"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical assessment of controversial issues",
+            "Analysis of theoretical frameworks",
+            "Understanding and application of intersectionality theory",
+            "Policy analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Conflict resolution",
+            "Leadership in social justice discussions",
+            "Organization of complex socio-political concepts"
+        ]
+    },
+    {
+        "courseTitle": "Diversity in Criminal Justice Organizations",
+        "courseCode": "AAST 452",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the impact of diversity, culture, and ethnic origin in criminal justice organizations. The course is designed to better prepare students to meet the challenge of diversity in criminal justice organizations.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Understanding and acknowledging cultural differences",
+            "Effective professional communication in diverse environments"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing the impact of diversity in criminal justice organizations",
+            "Developing strategies to address diversity-related challenges",
+            "Understanding and interpreting cultural and ethnic origins"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading diverse teams",
+            "Promoting a culture of inclusion and respect",
+            "Implementing diversity strategies in organizations"
+        ]
+    },
+    {
+        "courseTitle": "Psychology of African Americans",
+        "courseCode": "AAST 460",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course examines the issues and perspectives related to the psychological evolution of African Americans in the United States. Particular emphasis is placed on exploring the discipline of psychology from an Afrocentric focus.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding diverse perspectives",
+            "Culturally sensitive communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of psychological theories",
+            "Interpreting historical and cultural contexts"
+        ],
+        "Organizational and Leadership Skills": [
+            "Promoting cultural understanding",
+            "Advocacy for Afrocentric perspectives"
+        ]
+    },
+    {
+        "courseTitle": "Introduction to Critical Race and Media Studies",
+        "courseCode": "AAST 488",
+        "academicLevel": "undergraduate",
+        "courseDescription": "In this course, students examine how media culture - both historic and contemporary - contribute to the intersectional production of race in the United States. A guiding question will be: How do media and popular culture - as texts, practices, industries, and sites of identity formation and pleasure - construct race? Although students will theorize the politics of representation, they will also work to situate texts within a larger historic, political, and discursive context in order to assess the type of cultural work they perform.",
+        "Technical and Digital Skills": [
+            "Media analysis",
+            "Understanding of contemporary media culture",
+            "Historical research on media texts"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Debating and discussing complex issues",
+            "Articulating theories of representation",
+            "Constructive critique of popular culture"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of media texts",
+            "Intersectional analysis of race production",
+            "Contextual assessment of cultural work by media texts"
+        ],
+        "Organizational and Leadership Skills": [
+            "N/A"
+        ]
+    },
+    {
+        "courseTitle": "Senior Seminar",
+        "courseCode": "AAST 490",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course will introduce students to the key concepts involved in developing and executing an interdisciplinary research project.  Students will read and interpret research literature, execute a research project, write a final research paper, and present research findings in a professional setting.",
+        "Technical and Digital Skills": [
+            "Interdisciplinary research development",
+            "Research literature interpretation",
+            "Research project execution",
+            "Research paper writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Research findings presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interdisciplinary research problem-solving",
+            "Research literature analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Research project management",
+            "Research team leadership"
+        ]
+    },
+    {
+        "courseTitle": "Topics in African American Studies",
+        "courseCode": "AAST 495",
+        "academicLevel": "undergraduate",
+        "courseDescription": "This course focuses on a variety of selected topics in African American Studies.  These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cultural sensitivity",
+            "Active listening",
+            "Effective communication in discussions"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analyzing historical and cultural contexts",
+            "Critical thinking on social issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-directed learning",
+            "Time management"
+        ]
+    },
+    {
+        "courseTitle": "Independent Study",
+        "courseCode": "AAST 497/597",
+        "academicLevel": "undergraduate",
+        "courseDescription": "Students are exposed to opportunities to conduct independent research and/or study in areas focused on the political, social and cultural experiences of people of African descent in the U.S. and the African Diaspora.",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Digital archival research",
+            "Ethnographic data collection"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presenting research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis of socio-political data",
+            "Identifying patterns in cultural experiences"
+        ],
+        "Organizational and Leadership Skills": [
+            "Independent project management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "AAST 597",
+        "courseTitle": "Independent Study",
+        "academicLevel": "graduate",
+        "courseDescription": "Students are exposed to opportunities to conduct independent research and/or study in areas focused on the political, social and cultural experiences of people of African descent in the U.S. and the African Diaspora.",
+        "Technical and Digital Skills": [
+            "Research methodology",
+            "Data sourcing",
+            "Cultural analysis"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical analysis",
+            "Problem identification",
+            "Solution proposal"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Independent work",
+            "Time management"
+        ]
+    }
+]

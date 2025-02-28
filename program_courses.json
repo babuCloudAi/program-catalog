@@ -1,1275 +1,1284 @@
 [
   {
-    "programRequirement": {
-      "programTitle": "Accounting with a Concentration in Financial Management, MS",
-      "department": "School of Accountancy",
-      "tabs": {
-        "Overview": {
-          "content": "<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>"
-        },
-        "Admission": {
-          "content": "<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>"
-        },
-        "Curriculum": {
-          "content": "<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Financial Management Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20624\" title=\"ACCT&nbsp;624\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 624');\">ACCT&nbsp;624</a></td><td>Information Technology Assurance Services <sup>***</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20625\" title=\"ACCT&nbsp;625\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 625');\">ACCT&nbsp;625</a></td><td>Fraud Examination and Forensic Accounting</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20727\" title=\"ACCT&nbsp;727\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 727');\">ACCT&nbsp;727</a></td><td>Strategic Cost Management</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20730\" title=\"ACCT&nbsp;730\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 730');\">ACCT&nbsp;730</a></td><td>Financial Management Decision Making</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20747\" title=\"ACCT&nbsp;747\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 747');\">ACCT&nbsp;747</a></td><td>Seminar in Controllership</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit <sup>*</sup></td><td class=\"hourscol\">1</td></tr>\n<tr class=\"odd\"><td colspan=\"2\"><span class=\"courselistcomment\">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">23-25</td></tr>\n<tr class=\"even lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">38-40</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd><dt>***</dt><dd start-indent=\"23%\"><p class=\"noindent\">Recommended for students wishing to pursue a career in Public Sector Finance.</p></dd></dl>"
-        }
+    "programTitle": "Accounting with a Concentration in Financial Management, MS",
+    "department": "School of Accountancy",
+    "programUrl": "https://catalog.odu.edu/graduate/business/accounting/accounting-financial-management-ms/",
+    "academicLevel": "Master's",
+    "programType": "Graduate",
+    "academicInterests": "Business & Management",
+    "collegesAndSchools": "Strome College of Business",
+    "tabs": {
+      "Overview": {
+        "content": "<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>"
+      },
+      "Admission": {
+        "content": "<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>"
+      },
+      "Curriculum": {
+        "content": "<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Financial Management Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20624\" title=\"ACCT&nbsp;624\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 624');\">ACCT&nbsp;624</a></td><td>Information Technology Assurance Services <sup>***</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20625\" title=\"ACCT&nbsp;625\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 625');\">ACCT&nbsp;625</a></td><td>Fraud Examination and Forensic Accounting</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20727\" title=\"ACCT&nbsp;727\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 727');\">ACCT&nbsp;727</a></td><td>Strategic Cost Management</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20730\" title=\"ACCT&nbsp;730\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 730');\">ACCT&nbsp;730</a></td><td>Financial Management Decision Making</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20747\" title=\"ACCT&nbsp;747\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 747');\">ACCT&nbsp;747</a></td><td>Seminar in Controllership</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit <sup>*</sup></td><td class=\"hourscol\">1</td></tr>\n<tr class=\"odd\"><td colspan=\"2\"><span class=\"courselistcomment\">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">23-25</td></tr>\n<tr class=\"even lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">38-40</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd><dt>***</dt><dd start-indent=\"23%\"><p class=\"noindent\">Recommended for students wishing to pursue a career in Public Sector Finance.</p></dd></dl>"
       }
     },
     "courses": [
       {
-        "courseTitle": "Principles of Financial Accounting",
+        "courseName": "Principles of Financial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Principles of Managerial Accounting",
+        "courseName": "Principles of Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 or ACCT 226"
       },
       {
-        "courseTitle": "Honors: Principles of Financial Accounting",
+        "courseName": "Honors: Principles of Financial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Open only to students in the Honors College. Special honors section of ACCT 201.  Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Honors: Principles of Managerial Accounting",
+        "courseName": "Honors: Principles of Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Open only to students in the Honors College.  Special honors section of ACCT 202.  Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Completion of ACCT 201 or ACCT 226"
       },
       {
-        "courseTitle": "Accounting for Entrepreneurs",
+        "courseName": "Accounting for Entrepreneurs",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is for non-accounting students who wish to start their own businesses. The course is designed to support entrepreneur activities such as: producing meaningful financial statements and management accounting reports to measure firm performance; choosing the appropriate business entity type; basic tax issues and planning in starting and running a small business; establishing an effective governance structure; and setting up an anti-fraud prevention program. Accounting majors or minors cannot use this course as an accounting elective, but can use the course as a 300-400 business elective. This course will not be used in the calculation of grade point average for an accounting major or accounting minor.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Completion of MATH 102M or higher, or STAT 130M, or qualified to enroll in Math 162M or higher, and a declared major in the University or permission of the Chair's Office of the School of Accountancy"
       },
       {
-        "courseTitle": "Intermediate Accounting I",
+        "courseName": "Intermediate Accounting I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  The course covers financial statement and managerial accounting information preparation for external and internal users in accordance with prevailing accounting standards established by recognized accounting bodies. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 301 are strongly encouraged to retake these courses in preparation for ACCT 301.  Students must have a C or better in ACCT 301 to proceed to other upper-level accounting courses. Students in the Accounting Major Professional (AP) program or seeking acceptance in the MSA program must achieve a B- or better in ACCT 301.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Intermediate Accounting II",
+        "courseName": "Intermediate Accounting II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  Preparation of financial statements and other reports in accordance with prevailing accounting standards established by the accounting profession. Students must have a C- or better grade in ACCT 302 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 301 with a C or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting I",
+        "courseName": "Essentials of Financial Accounting I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is the gateway to the undergraduate accounting program at Old Dominion University. It is the first of three financial accounting courses designed to strengthen the technical, communication, and critical thinking skills required to succeed in accounting-related careers. This course covers the theoretical foundation, concepts, and principles that underlie financial statement preparation. It exposes students to accounting by providing an in-depth study of the accounting cycle, income statement and balance sheet. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 305 are strongly encouraged to retake these courses in preparation for ACCT 305. Students must have a C or better in ACCT 305 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 305.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting II",
+        "courseName": "Essentials of Financial Accounting II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This is the second of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include: inventories; property, plant, and equipment; investments; and current and long-term liabilities. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better in ACCT 306 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 306.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 305 with a C or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting III",
+        "courseName": "Essentials of Financial Accounting III",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This is the third of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include leases, pensions, accounting for income taxes, stockholders’ equity, earnings per share, the Statement of Cash Flows, and other corporate reporting issues. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better grade in ACCT 307 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better in ACCT 307.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 305 with a C or better; ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Managerial Accounting",
+        "courseName": "Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students. This course focuses on recording and allocating costs within traditional managerial accounting systems. Common and joint cost allocations are performed under job order, process and standard costing systems. Income models are developed for exploring cost-volume-profit relationships. Students must have a C- or better in ACCT 311 to graduate with a major in accounting.  Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 301 with a C or better or ACCT 305 with a C or better; BNAL 206; junior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Cooperative Education",
+        "courseName": "Cooperative Education",
         "creditHours": "1-6 Credit Hours",
         "courseDescription": "May be repeated for credit and available for pass/fail grading only. Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office; approval of Career Development Services; transfer students must have completed one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Student Internship",
+        "courseName": "Student Internship",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department and the Career Development Services in the semester prior to enrollment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office; transfer students must have completed a minimum of one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Practicum",
+        "courseName": "Practicum",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; junior standing and permission of the chief departmental advisor; transfer students must have completed a minimum of one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "courseName": "Accounting and Auditing in the Public/Nonprofit Sector",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities. Students must have a C- or better in ACCT 405 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 405.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; senior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Financial Auditing",
+        "courseName": "Financial Auditing",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.  Students must have a C- or better grade in ACCT 411 to graduate with a major in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 305 with a C or better and ACCT 306 with a C- or better; or ACCT 301 with a C or better; Junior or Senior standing; and a declared major in the University or permission of the Dean’s Office"
       },
       {
-        "courseTitle": "Taxation",
+        "courseName": "Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students. An analysis of federal income tax law and its application to personal and business tax situations.  Reconciliation of tax and accounting concepts. Students must have a C- or better in ACCT 421 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better for accounting majors or FIN 431 with a C or better and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Tax Research",
+        "courseName": "Tax Research",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships.  The course emphasizes research skills and professional ethics. Students must have a C- or better in ACCT 422 to graduate with a major in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301, ACCT 302 and ACCT 421 with a C or better; or ACCT 305 with a C or better and ACCT 306, ACCT 307, ACCT 425, and ACCT 426 with a C- or better; senior standing; and a declared major in the University or permission of the Dean’s Office"
       },
       {
-        "courseTitle": "Taxation of Individuals",
+        "courseName": "Taxation of Individuals",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations. Reconciliation of tax and accounting concepts. Students must have a C- or better in ACCT 425 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better. This course, plus an additional self-study module and test on Blackboard, will satisfy the requirement for those whose catalog requires ACCT 421.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 305 with a C or better and ACCT 306 with a C- or better for accounting majors; or ACCT 301 with a C or better; or FIN 431 with a C or better, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Taxation of Business Entities",
+        "courseName": "Taxation of Business Entities",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to business entities. Students must have a C- or better in ACCT 426 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 425 with a C- or better, or ACCT 421 with a C- or better, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "International and Advanced Accounting",
+        "courseName": "International and Advanced Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of accounting for international operations and business combinations. Students may enroll in ACCT 450 as the BSBA required International Business elective.  Students must have a C- or better in ACCT 450 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 450.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better and ACCT 302 with a C- or better; or ACCT 305 with a C or better and ACCT 306 and ACCT 307 with a C- or better; senior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Accounting Information Systems",
+        "courseName": "Accounting Information Systems",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The theoretical and practical approaches to the understanding of accounting information systems. Emphasis is placed on the understanding of how accounting is related to other business processes, how internal controls are ensured, and exposure to manual and ERP based accounting systems. Students must have a C- or better in ACCT 460 to graduate with a major in accounting. Students are encouraged to take ACCT 460 before completing ACCT 411.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "IT 360T; ACCT 305 with a C or better; ACCT 306 with a C- or better; or ACCT 301 with a C or better, ACCT 302 with a C- or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Selected Topics in Accounting",
+        "courseName": "Selected Topics in Accounting",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Study designed for students desiring additional work in an area of particular interest in accounting.  This course may not be substituted for any required accounting course. Students must have a C- or better in ACCT 495 to graduate.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; a declared major in the University or permission of the Dean's Office, and approval of the Chair of the School of Accountancy"
       },
       {
-        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "courseName": "Accounting and Auditing in the Public/Nonprofit Sector",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program; ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours from ACCT 307, ACCT 311, ACCT 411/ACCT 511, ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better, and 6 hours of ACCT 302, ACCT 311, or ACCT 421 or the equivalent with a C or better, and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Financial Auditing",
+        "courseName": "Financial Auditing",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program, ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours of coursework from ACCT 311, ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better and 6 hours from ACCT 302, ACCT 311, or ACCT 421 or the equivalent with a C or better; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Taxation",
+        "courseName": "Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations.  Reconciliation of tax and accounting concepts.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Graduate standing and a level of competency in accounting at the intermediate level or higher"
       },
       {
-        "courseTitle": "Tax Research",
+        "courseName": "Tax Research",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships. The course emphasizes research skills and professional ethics.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program, ACCT 305 and ACCT 306 or the equivalent with a B- or better and 3 hours of coursework from ACCT 307 or ACCT 311 or the equivalent with a B- or better; or ACCT 301 and ACCT 421 or the equivalent with a B- or better, 3 hours of coursework from ACCT 302 or ACCT 311 or the equivalent with a B- or better; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "International and Advanced Accounting",
+        "courseName": "International and Advanced Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of accounting for international operations and business combinations.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program; ACCT 305, ACCT 306 and ACCT 307 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311, ACCT 425, or ACCT 426 or the equivalent with a B- or better; or ACCT 301 and 302 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311 or ACCT 421 or the equivalent with a B- or better or equivalent; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Managerial Accounting",
+        "courseName": "Managerial Accounting",
         "creditHours": "2 Credit Hours",
         "courseDescription": "A study of concepts of managerial accounting.  This course focuses on the techniques and approaches to organizing and understanding internally generated accounting information.  The objective of the course is to provide students with a set of tools that utilize managerial accounting information for solving business problems.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Admission to the MBA Program"
       },
       {
-        "courseTitle": "Financial Accounting",
+        "courseName": "Financial Accounting",
         "creditHours": "2 Credit Hours",
         "courseDescription": "A study of the concepts of financial accounting.  This course covers the financial reporting process and the development of financial statements for external users.  The overall objective of the course is to provide students with a sufficient fluency to be intelligent readers of financial accounting information.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Admission to the MBA Program"
       },
       {
-        "courseTitle": "Accounting Analytics and Operational Reviews",
+        "courseName": "Accounting Analytics and Operational Reviews",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Accounting analytics appropriate for professional accountants, whether in public accounting, industry, or government/non-profit. Much of the course involves hands-on learning focusing on decision, descriptive, predictive, and prescriptive analytics using the latest analytics/data visualization software.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Information Technology Assurance Services",
+        "courseName": "Information Technology Assurance Services",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Standards, ethics, and practice of information technology assurance services particularly as it concerns the governance and control of information systems.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Fraud Examination and Forensic Accounting",
+        "courseName": "Fraud Examination and Forensic Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Standards, ethics, and practice of fraud examination and forensic accounting particularly as it concerns the accounting profession.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Financial and Global Accounting",
+        "courseName": "Financial and Global Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers current financial accounting standards and the problems faced by national and multinational corporations in reporting financial information to external users in a global economy. There will be a discussion of the various techniques for presenting and analyzing financial statements and the ethical issues related to those presentations.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Operational Cost Control",
+        "courseName": "Operational Cost Control",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers cost concepts and analysis in both a manufacturing and service operational environment.  Provides an introduction to activity based costing and standard cost systems, methodology for measuring productivity changes and cost of quality and measurement and control of operating performance.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Business Valuations using Financial Statement Analysis",
+        "courseName": "Business Valuations using Financial Statement Analysis",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers the analysis and interpretation of financial statements, including the significant accounting issues involved in performing an effective valuation of a company.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Professional Ethics and Legal Issues In Accounting",
+        "courseName": "Professional Ethics and Legal Issues In Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course covering ethical and legal issues confronted by practicing accountants.  The course emphasizes rigorous analysis of complex situations leading to appropriate solutions.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business master's program and a B- or better in ACCT 301 and ACCT 302 or the equivalent"
       },
       {
-        "courseTitle": "Tax Strategies for Business Decisions",
+        "courseName": "Tax Strategies for Business Decisions",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietor-ships. The course emphasizes research skills and professional ethics.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Corporations I",
+        "courseName": "Taxation of Corporations I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers federal income taxation of corporations and shareholders. Includes organizing a corporation; establishing capital structure; determining tax liability; dividends and other non-liquidating distributions; stock redemptions; and liquidations.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Partners and Partnerships",
+        "courseName": "Taxation of Partners and Partnerships",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Taxation of partners and partnerships: formation, termination, distributions and liquidations, and sales of partnership interests. Limited partnerships in conjunction with their use as tax shelters, and the multifaceted attributes of family partnerships.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Estates and Gifts",
+        "courseName": "Taxation of Estates and Gifts",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines transfers under federal estate and gift tax laws. Includes property owned by the decedent; retained life estates; transfers taking effect at death; transfers with retained powers; concurrent property interest; powers of appointment; valuation problems; expenses, debts, and taxes; charitable bequests; marital deduction; taxable inter vivos gifts; gift splitting and credits; consideration of Chapter 14 and asset freezing techniques; and transfer taxation of life insurance.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Income Taxation of Estates, Trusts & Beneficiaries",
+        "courseName": "Income Taxation of Estates, Trusts & Beneficiaries",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines simple, complex, and revocable trusts; trusts accumulation distributions; income in respect of decedents; trust accounting income; distributable net income; terminations; excess deductions; basis rules; and the decedent's final income tax return.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 653"
       },
       {
-        "courseTitle": "Taxation of Corporations II",
+        "courseName": "Taxation of Corporations II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Analyzes the different types of taxable and tax-free acquisitions and reorganizations. Includes determining tax consequences for corporations and shareholders involved in an acquisition or reorganization and analyzing necessary requirements for a tax-free corporate division (spin-off). Covers aspects of filing consolidated federal income tax returns.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 651"
       },
       {
-        "courseTitle": "Taxation of Deferred Compensation",
+        "courseName": "Taxation of Deferred Compensation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Discusses federal income taxation of deferred compensation plans with emphasis on qualified retirement plans. Reviews plan qualification requirements, reporting and disclosure requirements, and distribution rules. Includes discussion of specific types of plans such as Sec. 401(K) and ESOPs.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 651"
       },
       {
-        "courseTitle": "State and Local Taxation",
+        "courseName": "State and Local Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines state levying of individual income, corporate income, property, sales, and excise taxes.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Tax Aspects of International Business",
+        "courseName": "Tax Aspects of International Business",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Taxation of foreign persons conducting business in the U.S. including FIRPTA, source of income rules, and residency requirements; taxation of U.S. individuals and businesses doing business abroad including FSCs, CFCs, FHP Co's and possessions corporations.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 425 and 426 or equivalent"
       },
       {
-        "courseTitle": "Taxation of Property Transactions",
+        "courseName": "Taxation of Property Transactions",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers determination of realized and recognized gains and losses and their tax treatment on property dispositions. Includes consequences of property transactions, such as depreciation, depletion, basis and capital gains problems.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 521 or equivalent"
       },
       {
-        "courseTitle": "Taxation of the Small Business Corporation",
+        "courseName": "Taxation of the Small Business Corporation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers federal income taxation of S corporations including election eligibility; termination of status; treatment of income and deduction items; distributions; and basis of stock and debt. Also discusses compensation arrangements in closely held corporations; fiscal year issues; personal service corporations; the advantages of C corporations versus S corporations; corporation liquidation and redemption rules; and the S corporations' built-in gains tax.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 521 or equivalent"
       },
       {
-        "courseTitle": "Tax Procedure and Practice",
+        "courseName": "Tax Procedure and Practice",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Discusses procedures for dealing with the IRS. Includes sources of IRS policy; processing returns; auditing returns; rulings and determination letters; assessments and collections; and interest and civil penalties.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Cooperative Education",
+        "courseName": "Cooperative Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a full-time professional work experience.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the departmental chair in accordance with departmental Cooperative Education policies and approval of Career Development Services"
       },
       {
-        "courseTitle": "Accounting Internship",
+        "courseName": "Accounting Internship",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "The course is a practicum in the profession of accounting where theories, concepts, and financial management techniques are applied in a business environment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the department chair or graduate program director for the MS in Accounting"
       },
       {
-        "courseTitle": "Selected Topics in Accounting",
+        "courseName": "Selected Topics in Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Study designed for students who have had one of the required courses waived or for students desiring additional work in an area of particular interest in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the department chair and the graduate program director, and a minimum GPA of 3.0 or higher in graduate work in the MS in Accounting program"
       },
       {
-        "courseTitle": "Independent Study in Taxation",
+        "courseName": "Independent Study in Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Individually supervised research projects in selected tax areas. Approval of supervising professor as to topic and evaluation of project required at time of registration.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Strategic Cost Management",
+        "courseName": "Strategic Cost Management",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course focuses on advanced costing concepts, current management accounting practices, and analytical techniques employed by controllers in supporting their organizations' strategic planning processes.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Financial Management Decision Making",
+        "courseName": "Financial Management Decision Making",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course provides an overview of the role of financial accounting in internal and external decision making. Financial modeling with an emphasis on assessing and valuing economic return will be included.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Seminar in Controllership",
+        "courseName": "Seminar in Controllership",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is the capstone course for the study of management accounting.  It includes a review of management accounting practices and analytical techniques employed by controllers in supporting their organization's strategic decision-making process.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Master's Graduate Credit",
+        "courseName": "Master's Graduate Credit",
         "creditHours": "1 Credit Hour",
         "courseDescription": "This course is a pass/fall course for master's students in their final semester.  It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of graduation.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "All coursework in the MS program in Accounting"
       },
       {
-        "courseTitle": "Doctoral Graduate Credit",
+        "courseName": "Doctoral Graduate Credit",
         "creditHours": "1 Credit Hour",
         "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       }
     ]
   },
   {
-    "programRequirement": {
-      "programTitle": "Accounting with a Concentration in Taxation, MS",
-      "department": "School of Accountancy",
-      "tabs": {
-        "Overview": {
-          "content": "<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>"
-        },
-        "Admission": {
-          "content": "<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>"
-        },
-        "Curriculum": {
-          "content": "<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Taxation Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20650\" title=\"ACCT&nbsp;650\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 650');\">ACCT&nbsp;650</a></td><td>Tax Strategies for Business Decisions</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20651\" title=\"ACCT&nbsp;651\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 651');\">ACCT&nbsp;651</a></td><td>Taxation of Corporations I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20652\" title=\"ACCT&nbsp;652\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 652');\">ACCT&nbsp;652</a></td><td>Taxation of Partners and Partnerships</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20653\" title=\"ACCT&nbsp;653\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 653');\">ACCT&nbsp;653</a></td><td>Taxation of Estates and Gifts</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20657\" title=\"ACCT&nbsp;657\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 657');\">ACCT&nbsp;657</a></td><td>State and Local Taxation</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20658\" title=\"ACCT&nbsp;658\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 658');\">ACCT&nbsp;658</a></td><td>Tax Aspects of International Business</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit</td><td class=\"hourscol\">1</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">26-28</td></tr>\n<tr class=\"odd areaheader  lastrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">41-43</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd></dl>"
-        }
+    "programTitle": "Accounting with a Concentration in Taxation, MS",
+    "department": "School of Accountancy",
+    "programUrl": "https://catalog.odu.edu/graduate/business/accounting/accounting-taxation-ms/",
+    "academicLevel": "Master's",
+    "programType": "Graduate",
+    "academicInterests": "Business & Management",
+    "collegesAndSchools": "Strome College of Business",
+    "tabs": {
+      "Overview": {
+        "content": "<p>Frank Holman, Graduate Program Director</p>\n<p>Objective: To provide a curriculum that facilitates the promotion of professional judgment/skepticism and critical thinking skills that add value in decision making.</p>\n<p>Focus: Students have the option of aligning coursework based on two areas of interest (concentrations): <em>Financial Management</em> addresses the needs of students who have an interest in operational and financial decision making, and <em>Taxation</em> provides the requisite skills set for those interested in tax compliance and planning. Both associate with careers in Public Accounting, Industry, or Government/Not-For-Profit organizations and prepare students for the CPA and other professional designations/licenses (i.e. CMA, CIA, CFE, CISA, CGFM, etc.).</p>"
+      },
+      "Admission": {
+        "content": "<a name=\"admissiontext\"></a><h2>Admission Requirements</h2>\n<p>Prospective students may apply for admission to the program for the fall, spring, and summer semesters. Admission is granted to those who demonstrate the likelihood of successful completion of this graduate accounting program.</p>\n<p>Criteria for admission include cumulative undergraduate and upper-level accounting grade-point averages (GPA), and Graduate Management Admission Test (GMAT) scores. In general: applicants should possess a cumulative undergraduate GPA of 2.8 or higher; and applicants should possess an upper-level accounting course GPA of 3.0 or higher. The sum of the GMAT score plus 200 times the upper-level accounting curriculum GPA should equal 1,000.</p>\n<p>For students without a degree in accounting, the cumulative upper level accounting GPA of 3.0 will be based on performance in the following prerequisite courses (with no grade below a C.):&nbsp;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></span>,&nbsp;Essentials of Financial&nbsp;Accounting I; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></span>,&nbsp;Essentials of Financial Accounting II;&nbsp;<span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></span>, Managerial Accounting; <span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></span>, Taxation of Individuals; and <strong><span class=\"sc_courseinline\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></span></strong>\n<strong>,</strong> Financial Auditing.</p>\n\n<p>To be considered for admission, the following must be submitted to the Office of Graduate Admissions:</p>\n<ol>\n\t<li>application forms (may be done on-line) for graduate study in business,</li>\n\t<li>official transcripts of all previous college work,</li>\n\t<li>one letter of recommendation,</li>\n\t<li>a brief resume,</li>\n\t<li>an one-page essay setting forth the applicant’s work experience, and goals and objectives for the program, and</li>\n\t<li>scores on the Graduate Management Admission Test (GMAT) if applicable.</li>\n</ol>\n<p>Applicants whose native language is not English are also required to submit an acceptable score on the Test of English as a Foreign Language (TOEFL) Exam.</p>\n<p>The following courses are prerequisites to the MS, Accounting program:</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Financial Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20201\" title=\"ACCT&nbsp;201\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 201');\">ACCT&nbsp;201</a></td><td>Principles of Financial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20305\" title=\"ACCT&nbsp;305\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 305');\">ACCT&nbsp;305</a></td><td>Essentials of Financial Accounting I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20306\" title=\"ACCT&nbsp;306\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 306');\">ACCT&nbsp;306</a></td><td>Essentials of Financial Accounting II</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20411\" title=\"ACCT&nbsp;411\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 411');\">ACCT&nbsp;411</a></td><td>Financial Auditing</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Management Accounting</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20202\" title=\"ACCT&nbsp;202\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 202');\">ACCT&nbsp;202</a></td><td>Principles of Managerial Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20311\" title=\"ACCT&nbsp;311\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 311');\">ACCT&nbsp;311</a></td><td>Managerial Accounting (Three Hours of Taxation) <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Taxation</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20425\" title=\"ACCT&nbsp;425\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 425');\">ACCT&nbsp;425</a></td><td>Taxation of Individuals</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Economics, Statistics/Business Analytics, Marketing, Information Technology, Finance, and Commercial Law</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td colspan=\"2\"><span class=\"courselistcomment\">Select 18 credits</span></td><td class=\"hourscol\">18</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">39</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Or equivalent from an accredited institution.</p></dd></dl>\n<p>Application deadlines are July 1 for fall admission, November 1 for spring admission, and April 1 for summer admission. International student deadlines are April 15 (fall semester), October 1 (spring semester), and February 15 (summer semester).</p>\n<p>Applicants who have not obtained an acceptable GMAT score, or an acceptable TOEFL score for those applicants whose native language is not English, will not be permitted to enroll in graduate accounting courses.</p>\n<h3>GMAT Waiver</h3>\n<p>Applicants can waive taking the GMAT and disregard the GMAT-related admission requirements if any of the following are met:</p>\n<ul>\n\t<li>Applicant has passed all parts of the United States Uniform CPA exam;</li>\n\t<li>Applicant holds a Masters Degree with a posted GPA of 3.0 or higher;</li>\n\t<li>Applicant is a member of the Old Dominion University chapter of Beta Alpha Psi with a posted GPA of 3.0 in upper level accounting courses; or</li>\n\t<li>Applicant has a Bachelors Degree with an overall GPA of 3.0 overall and in the prerequisite accounting courses with a grade of C or better in the prerequisite accounting courses.</li>\n</ul>"
+      },
+      "Curriculum": {
+        "content": "<a name=\"curriculumtext\"></a> <h2>Curriculum Requirements</h2> <p>A minimum of 30 semester hours of graduate courses are required to complete the MS, Accounting program. Students must maintain a cumulative grade point average of a least 3.00 in all graduate work taken.</p> <h3>Accounting Core</h3> <table class=\"sc_courselist\"> <caption class=\"hidden noscript\">Course List</caption> <colgroup> <col class=\"codecol\"> <col class=\"titlecol\"> <col align=\"char\" char=\".\" class=\"hourscol\"> </colgroup> <thead> <tr class=\"hidden noscript\"> <th scope=\"col\">Code</th> <th scope=\"col\">Title</th> <th scope=\"col\" class=\"hourscol\">Credit Hours</th> </tr> </thead> <tbody> <tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Foundation Strengthing Courses</span></td><td class=\"hourscol\"></td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20623\" title=\"ACCT&nbsp;623\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 623');\">ACCT&nbsp;623</a></td><td>Accounting Analytics and Operational Reviews</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20626\" title=\"ACCT&nbsp;626\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 626');\">ACCT&nbsp;626</a></td><td>Financial and Global Accounting</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20627\" title=\"ACCT&nbsp;627\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 627');\">ACCT&nbsp;627</a></td><td>Operational Cost Control</td><td class=\"hourscol\">3</td></tr> <tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20630\" title=\"ACCT&nbsp;630\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 630');\">ACCT&nbsp;630</a></td><td>Business Valuations using Financial Statement Analysis</td><td class=\"hourscol\">3</td></tr> <tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20662\" title=\"ACCT&nbsp;662\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 662');\">ACCT&nbsp;662</a></td><td>Tax Procedure and Practice</td><td class=\"hourscol\">3</td></tr> <tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">15</td></tr></tbody> </table>  \n<h3>Taxation Concentration</h3>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even firstrow\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20650\" title=\"ACCT&nbsp;650\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 650');\">ACCT&nbsp;650</a></td><td>Tax Strategies for Business Decisions</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20651\" title=\"ACCT&nbsp;651\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 651');\">ACCT&nbsp;651</a></td><td>Taxation of Corporations I</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20652\" title=\"ACCT&nbsp;652\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 652');\">ACCT&nbsp;652</a></td><td>Taxation of Partners and Partnerships</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20653\" title=\"ACCT&nbsp;653\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 653');\">ACCT&nbsp;653</a></td><td>Taxation of Estates and Gifts</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20657\" title=\"ACCT&nbsp;657\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 657');\">ACCT&nbsp;657</a></td><td>State and Local Taxation</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20658\" title=\"ACCT&nbsp;658\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 658');\">ACCT&nbsp;658</a></td><td>Tax Aspects of International Business</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20668\" title=\"ACCT&nbsp;668\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 668');\">ACCT&nbsp;668</a></td><td>Accounting Internship <sup>*</sup></td><td class=\"hourscol\">1-3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20695\" title=\"ACCT&nbsp;695\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 695');\">ACCT&nbsp;695</a></td><td>Selected Topics in Accounting <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20697\" title=\"ACCT&nbsp;697\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 697');\">ACCT&nbsp;697</a></td><td>Independent Study in Taxation <sup>*</sup></td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=ACCT%20998\" title=\"ACCT&nbsp;998\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'ACCT 998');\">ACCT&nbsp;998</a></td><td>Master's Graduate Credit</td><td class=\"hourscol\">1</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Total Credit Hours for Concentration</span></td><td class=\"hourscol\">26-28</td></tr>\n<tr class=\"odd areaheader  lastrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Requirements</span></td><td class=\"hourscol\">15</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">41-43</td></tr></tbody>\n</table>\n\n<dl class=\"sc_footnotes\" aria-label=\"Footnotes\"><dt>*</dt><dd start-indent=\"23%\"><p class=\"noindent\">Students may only take 6 hours in these courses.</p></dd></dl>"
       }
     },
     "courses": [
       {
-        "courseTitle": "Principles of Financial Accounting",
+        "courseName": "Principles of Financial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Principles of Managerial Accounting",
+        "courseName": "Principles of Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 or ACCT 226"
       },
       {
-        "courseTitle": "Honors: Principles of Financial Accounting",
+        "courseName": "Honors: Principles of Financial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Open only to students in the Honors College. Special honors section of ACCT 201.  Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Honors: Principles of Managerial Accounting",
+        "courseName": "Honors: Principles of Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Open only to students in the Honors College.  Special honors section of ACCT 202.  Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Completion of ACCT 201 or ACCT 226"
       },
       {
-        "courseTitle": "Accounting for Entrepreneurs",
+        "courseName": "Accounting for Entrepreneurs",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is for non-accounting students who wish to start their own businesses. The course is designed to support entrepreneur activities such as: producing meaningful financial statements and management accounting reports to measure firm performance; choosing the appropriate business entity type; basic tax issues and planning in starting and running a small business; establishing an effective governance structure; and setting up an anti-fraud prevention program. Accounting majors or minors cannot use this course as an accounting elective, but can use the course as a 300-400 business elective. This course will not be used in the calculation of grade point average for an accounting major or accounting minor.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Completion of MATH 102M or higher, or STAT 130M, or qualified to enroll in Math 162M or higher, and a declared major in the University or permission of the Chair's Office of the School of Accountancy"
       },
       {
-        "courseTitle": "Intermediate Accounting I",
+        "courseName": "Intermediate Accounting I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  The course covers financial statement and managerial accounting information preparation for external and internal users in accordance with prevailing accounting standards established by recognized accounting bodies. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 301 are strongly encouraged to retake these courses in preparation for ACCT 301.  Students must have a C or better in ACCT 301 to proceed to other upper-level accounting courses. Students in the Accounting Major Professional (AP) program or seeking acceptance in the MSA program must achieve a B- or better in ACCT 301.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Intermediate Accounting II",
+        "courseName": "Intermediate Accounting II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students.  Preparation of financial statements and other reports in accordance with prevailing accounting standards established by the accounting profession. Students must have a C- or better grade in ACCT 302 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 301 with a C or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting I",
+        "courseName": "Essentials of Financial Accounting I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is the gateway to the undergraduate accounting program at Old Dominion University. It is the first of three financial accounting courses designed to strengthen the technical, communication, and critical thinking skills required to succeed in accounting-related careers. This course covers the theoretical foundation, concepts, and principles that underlie financial statement preparation. It exposes students to accounting by providing an in-depth study of the accounting cycle, income statement and balance sheet. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 305 are strongly encouraged to retake these courses in preparation for ACCT 305. Students must have a C or better in ACCT 305 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 305.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting II",
+        "courseName": "Essentials of Financial Accounting II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This is the second of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include: inventories; property, plant, and equipment; investments; and current and long-term liabilities. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better in ACCT 306 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 306.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 305 with a C or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Essentials of Financial Accounting III",
+        "courseName": "Essentials of Financial Accounting III",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This is the third of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include leases, pensions, accounting for income taxes, stockholders’ equity, earnings per share, the Statement of Cash Flows, and other corporate reporting issues. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better grade in ACCT 307 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better in ACCT 307.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 305 with a C or better; ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Managerial Accounting",
+        "courseName": "Managerial Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students. This course focuses on recording and allocating costs within traditional managerial accounting systems. Common and joint cost allocations are performed under job order, process and standard costing systems. Income models are developed for exploring cost-volume-profit relationships. Students must have a C- or better in ACCT 311 to graduate with a major in accounting.  Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227; ACCT 301 with a C or better or ACCT 305 with a C or better; BNAL 206; junior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Cooperative Education",
+        "courseName": "Cooperative Education",
         "creditHours": "1-6 Credit Hours",
         "courseDescription": "May be repeated for credit and available for pass/fail grading only. Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office; approval of Career Development Services; transfer students must have completed one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Student Internship",
+        "courseName": "Student Internship",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department and the Career Development Services in the semester prior to enrollment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; and a declared major in the University or permission of the Dean's Office; transfer students must have completed a minimum of one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Practicum",
+        "courseName": "Practicum",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department CAP adviser and the Career Development Services in the semester prior to enrollment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; junior standing and permission of the chief departmental advisor; transfer students must have completed a minimum of one semester at Old Dominion University"
       },
       {
-        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "courseName": "Accounting and Auditing in the Public/Nonprofit Sector",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities. Students must have a C- or better in ACCT 405 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 405.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; senior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Financial Auditing",
+        "courseName": "Financial Auditing",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.  Students must have a C- or better grade in ACCT 411 to graduate with a major in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 305 with a C or better and ACCT 306 with a C- or better; or ACCT 301 with a C or better; Junior or Senior standing; and a declared major in the University or permission of the Dean’s Office"
       },
       {
-        "courseTitle": "Taxation",
+        "courseName": "Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is required for students following the accounting curriculum in the 2015-16, 2016-17, 2017-18, and 2018-19 Catalogs and should be taken only by these students. An analysis of federal income tax law and its application to personal and business tax situations.  Reconciliation of tax and accounting concepts. Students must have a C- or better in ACCT 421 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better for accounting majors or FIN 431 with a C or better and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Tax Research",
+        "courseName": "Tax Research",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships.  The course emphasizes research skills and professional ethics. Students must have a C- or better in ACCT 422 to graduate with a major in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301, ACCT 302 and ACCT 421 with a C or better; or ACCT 305 with a C or better and ACCT 306, ACCT 307, ACCT 425, and ACCT 426 with a C- or better; senior standing; and a declared major in the University or permission of the Dean’s Office"
       },
       {
-        "courseTitle": "Taxation of Individuals",
+        "courseName": "Taxation of Individuals",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations. Reconciliation of tax and accounting concepts. Students must have a C- or better in ACCT 425 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better. This course, plus an additional self-study module and test on Blackboard, will satisfy the requirement for those whose catalog requires ACCT 421.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 305 with a C or better and ACCT 306 with a C- or better for accounting majors; or ACCT 301 with a C or better; or FIN 431 with a C or better, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Taxation of Business Entities",
+        "courseName": "Taxation of Business Entities",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to business entities. Students must have a C- or better in ACCT 426 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 425 with a C- or better, or ACCT 421 with a C- or better, and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "International and Advanced Accounting",
+        "courseName": "International and Advanced Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of accounting for international operations and business combinations. Students may enroll in ACCT 450 as the BSBA required International Business elective.  Students must have a C- or better in ACCT 450 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 450.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better and ACCT 302 with a C- or better; or ACCT 305 with a C or better and ACCT 306 and ACCT 307 with a C- or better; senior standing; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Accounting Information Systems",
+        "courseName": "Accounting Information Systems",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The theoretical and practical approaches to the understanding of accounting information systems. Emphasis is placed on the understanding of how accounting is related to other business processes, how internal controls are ensured, and exposure to manual and ERP based accounting systems. Students must have a C- or better in ACCT 460 to graduate with a major in accounting. Students are encouraged to take ACCT 460 before completing ACCT 411.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "IT 360T; ACCT 305 with a C or better; ACCT 306 with a C- or better; or ACCT 301 with a C or better, ACCT 302 with a C- or better; and a declared major in the University or permission of the Dean's Office"
       },
       {
-        "courseTitle": "Selected Topics in Accounting",
+        "courseName": "Selected Topics in Accounting",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Study designed for students desiring additional work in an area of particular interest in accounting.  This course may not be substituted for any required accounting course. Students must have a C- or better in ACCT 495 to graduate.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 301 with a C or better; or ACCT 305 with a C or better and ACCT 306 with a C- or better; a declared major in the University or permission of the Dean's Office, and approval of the Chair of the School of Accountancy"
       },
       {
-        "courseTitle": "Accounting and Auditing in the Public/Nonprofit Sector",
+        "courseName": "Accounting and Auditing in the Public/Nonprofit Sector",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program; ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours from ACCT 307, ACCT 311, ACCT 411/ACCT 511, ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better, and 6 hours of ACCT 302, ACCT 311, or ACCT 421 or the equivalent with a C or better, and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Financial Auditing",
+        "courseName": "Financial Auditing",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program, ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours of coursework from ACCT 311, ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better and 6 hours from ACCT 302, ACCT 311, or ACCT 421 or the equivalent with a C or better; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Taxation",
+        "courseName": "Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An analysis of federal income tax law and its application to personal and business tax situations.  Reconciliation of tax and accounting concepts.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Graduate standing and a level of competency in accounting at the intermediate level or higher"
       },
       {
-        "courseTitle": "Tax Research",
+        "courseName": "Tax Research",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietorships. The course emphasizes research skills and professional ethics.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program, ACCT 305 and ACCT 306 or the equivalent with a B- or better and 3 hours of coursework from ACCT 307 or ACCT 311 or the equivalent with a B- or better; or ACCT 301 and ACCT 421 or the equivalent with a B- or better, 3 hours of coursework from ACCT 302 or ACCT 311 or the equivalent with a B- or better; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "International and Advanced Accounting",
+        "courseName": "International and Advanced Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of accounting for international operations and business combinations.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business Master's program; ACCT 305, ACCT 306 and ACCT 307 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311, ACCT 425, or ACCT 426 or the equivalent with a B- or better; or ACCT 301 and 302 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311 or ACCT 421 or the equivalent with a B- or better or equivalent; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University"
       },
       {
-        "courseTitle": "Managerial Accounting",
+        "courseName": "Managerial Accounting",
         "creditHours": "2 Credit Hours",
         "courseDescription": "A study of concepts of managerial accounting.  This course focuses on the techniques and approaches to organizing and understanding internally generated accounting information.  The objective of the course is to provide students with a set of tools that utilize managerial accounting information for solving business problems.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Admission to the MBA Program"
       },
       {
-        "courseTitle": "Financial Accounting",
+        "courseName": "Financial Accounting",
         "creditHours": "2 Credit Hours",
         "courseDescription": "A study of the concepts of financial accounting.  This course covers the financial reporting process and the development of financial statements for external users.  The overall objective of the course is to provide students with a sufficient fluency to be intelligent readers of financial accounting information.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Admission to the MBA Program"
       },
       {
-        "courseTitle": "Accounting Analytics and Operational Reviews",
+        "courseName": "Accounting Analytics and Operational Reviews",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Accounting analytics appropriate for professional accountants, whether in public accounting, industry, or government/non-profit. Much of the course involves hands-on learning focusing on decision, descriptive, predictive, and prescriptive analytics using the latest analytics/data visualization software.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Information Technology Assurance Services",
+        "courseName": "Information Technology Assurance Services",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Standards, ethics, and practice of information technology assurance services particularly as it concerns the governance and control of information systems.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Fraud Examination and Forensic Accounting",
+        "courseName": "Fraud Examination and Forensic Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Standards, ethics, and practice of fraud examination and forensic accounting particularly as it concerns the accounting profession.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Financial and Global Accounting",
+        "courseName": "Financial and Global Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers current financial accounting standards and the problems faced by national and multinational corporations in reporting financial information to external users in a global economy. There will be a discussion of the various techniques for presenting and analyzing financial statements and the ethical issues related to those presentations.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Operational Cost Control",
+        "courseName": "Operational Cost Control",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers cost concepts and analysis in both a manufacturing and service operational environment.  Provides an introduction to activity based costing and standard cost systems, methodology for measuring productivity changes and cost of quality and measurement and control of operating performance.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Business Valuations using Financial Statement Analysis",
+        "courseName": "Business Valuations using Financial Statement Analysis",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers the analysis and interpretation of financial statements, including the significant accounting issues involved in performing an effective valuation of a company.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Professional Ethics and Legal Issues In Accounting",
+        "courseName": "Professional Ethics and Legal Issues In Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course covering ethical and legal issues confronted by practicing accountants.  The course emphasizes rigorous analysis of complex situations leading to appropriate solutions.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Enrollment in a Strome College of Business master's program and a B- or better in ACCT 301 and ACCT 302 or the equivalent"
       },
       {
-        "courseTitle": "Tax Strategies for Business Decisions",
+        "courseName": "Tax Strategies for Business Decisions",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietor-ships. The course emphasizes research skills and professional ethics.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Corporations I",
+        "courseName": "Taxation of Corporations I",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers federal income taxation of corporations and shareholders. Includes organizing a corporation; establishing capital structure; determining tax liability; dividends and other non-liquidating distributions; stock redemptions; and liquidations.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Partners and Partnerships",
+        "courseName": "Taxation of Partners and Partnerships",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Taxation of partners and partnerships: formation, termination, distributions and liquidations, and sales of partnership interests. Limited partnerships in conjunction with their use as tax shelters, and the multifaceted attributes of family partnerships.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Taxation of Estates and Gifts",
+        "courseName": "Taxation of Estates and Gifts",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines transfers under federal estate and gift tax laws. Includes property owned by the decedent; retained life estates; transfers taking effect at death; transfers with retained powers; concurrent property interest; powers of appointment; valuation problems; expenses, debts, and taxes; charitable bequests; marital deduction; taxable inter vivos gifts; gift splitting and credits; consideration of Chapter 14 and asset freezing techniques; and transfer taxation of life insurance.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Income Taxation of Estates, Trusts & Beneficiaries",
+        "courseName": "Income Taxation of Estates, Trusts & Beneficiaries",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines simple, complex, and revocable trusts; trusts accumulation distributions; income in respect of decedents; trust accounting income; distributable net income; terminations; excess deductions; basis rules; and the decedent's final income tax return.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 653"
       },
       {
-        "courseTitle": "Taxation of Corporations II",
+        "courseName": "Taxation of Corporations II",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Analyzes the different types of taxable and tax-free acquisitions and reorganizations. Includes determining tax consequences for corporations and shareholders involved in an acquisition or reorganization and analyzing necessary requirements for a tax-free corporate division (spin-off). Covers aspects of filing consolidated federal income tax returns.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 651"
       },
       {
-        "courseTitle": "Taxation of Deferred Compensation",
+        "courseName": "Taxation of Deferred Compensation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Discusses federal income taxation of deferred compensation plans with emphasis on qualified retirement plans. Reviews plan qualification requirements, reporting and disclosure requirements, and distribution rules. Includes discussion of specific types of plans such as Sec. 401(K) and ESOPs.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 651"
       },
       {
-        "courseTitle": "State and Local Taxation",
+        "courseName": "State and Local Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Examines state levying of individual income, corporate income, property, sales, and excise taxes.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Tax Aspects of International Business",
+        "courseName": "Tax Aspects of International Business",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Taxation of foreign persons conducting business in the U.S. including FIRPTA, source of income rules, and residency requirements; taxation of U.S. individuals and businesses doing business abroad including FSCs, CFCs, FHP Co's and possessions corporations.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 425 and 426 or equivalent"
       },
       {
-        "courseTitle": "Taxation of Property Transactions",
+        "courseName": "Taxation of Property Transactions",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers determination of realized and recognized gains and losses and their tax treatment on property dispositions. Includes consequences of property transactions, such as depreciation, depletion, basis and capital gains problems.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 521 or equivalent"
       },
       {
-        "courseTitle": "Taxation of the Small Business Corporation",
+        "courseName": "Taxation of the Small Business Corporation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Covers federal income taxation of S corporations including election eligibility; termination of status; treatment of income and deduction items; distributions; and basis of stock and debt. Also discusses compensation arrangements in closely held corporations; fiscal year issues; personal service corporations; the advantages of C corporations versus S corporations; corporation liquidation and redemption rules; and the S corporations' built-in gains tax.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "ACCT 521 or equivalent"
       },
       {
-        "courseTitle": "Tax Procedure and Practice",
+        "courseName": "Tax Procedure and Practice",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Discusses procedures for dealing with the IRS. Includes sources of IRS policy; processing returns; auditing returns; rulings and determination letters; assessments and collections; and interest and civil penalties.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Cooperative Education",
+        "courseName": "Cooperative Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Student participation in a full-time professional work experience.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the departmental chair in accordance with departmental Cooperative Education policies and approval of Career Development Services"
       },
       {
-        "courseTitle": "Accounting Internship",
+        "courseName": "Accounting Internship",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "The course is a practicum in the profession of accounting where theories, concepts, and financial management techniques are applied in a business environment.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the department chair or graduate program director for the MS in Accounting"
       },
       {
-        "courseTitle": "Selected Topics in Accounting",
+        "courseName": "Selected Topics in Accounting",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Study designed for students who have had one of the required courses waived or for students desiring additional work in an area of particular interest in accounting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Permission of the department chair and the graduate program director, and a minimum GPA of 3.0 or higher in graduate work in the MS in Accounting program"
       },
       {
-        "courseTitle": "Independent Study in Taxation",
+        "courseName": "Independent Study in Taxation",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Individually supervised research projects in selected tax areas. Approval of supervising professor as to topic and evaluation of project required at time of registration.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Strategic Cost Management",
+        "courseName": "Strategic Cost Management",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course focuses on advanced costing concepts, current management accounting practices, and analytical techniques employed by controllers in supporting their organizations' strategic planning processes.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Financial Management Decision Making",
+        "courseName": "Financial Management Decision Making",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course provides an overview of the role of financial accounting in internal and external decision making. Financial modeling with an emphasis on assessing and valuing economic return will be included.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Seminar in Controllership",
+        "courseName": "Seminar in Controllership",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is the capstone course for the study of management accounting.  It includes a review of management accounting practices and analytical techniques employed by controllers in supporting their organization's strategic decision-making process.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Master's Graduate Credit",
+        "courseName": "Master's Graduate Credit",
         "creditHours": "1 Credit Hour",
         "courseDescription": "This course is a pass/fall course for master's students in their final semester.  It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of graduation.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "All coursework in the MS program in Accounting"
       },
       {
-        "courseTitle": "Doctoral Graduate Credit",
+        "courseName": "Doctoral Graduate Credit",
         "creditHours": "1 Credit Hour",
         "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       }
     ]
   },
   {
-    "programRequirement": {
-      "programTitle": "Adapted Physical Education Certificate",
-      "department": "Department of Human Movement Studies and Special Education",
-      "tabs": {
-        "Overview": {
-          "content": "<p>The Graduate Certificate in adapted physical education is designed for individuals who are practicing or planning to teach in school-based physical education settings. This certificate aims to meet the professional advancement needs of at least three populations:</p>\n<ul>\n\t<li>Existing student populations at ODU interested in acquiring requisite knowledge and skills to effectively teach children with disabilities in physical education. These are expected to include graduate students in each concentration area (i.e., coaching, curriculum &amp; instruction, initial licensure, adapted physical education) of physical education, as well as others in different education-related areas. Graduate degree seeking students will be able to obtain the Certificate and degree simultaneously using the available four elective courses in their degree program.</li>\n\t<li>Currently practicing physical education teachers looking to further enhance their knowledge and skills in teaching students with disabilities in their classes.</li>\n\t<li>Non-degree seeking students seeking to enhance their employability in the physical education/ adapted physical education job acquisition search.</li>\n</ul>"
-        },
-        "Admission": {
-          "content": "<a name=\"admissiontext\"></a><h2>Admission</h2>\n<p>Degree seeking graduate-level students admitted to the certificate program must meet ODU requirements for graduate admission: an earned baccalaureate degree from a regionally-accredited institution or an equivalent degree from a foreign institution. Those whose native language is not English must submit a minimum score of 230 on the computer-based TOEFL or 80 on the TOEFL iBT.</p>\n<p>Individuals not seeking graduate-level degrees admitted to the certificate program must have a completed baccalaureate degree (or equivalent).</p>"
-        },
-        "Curriculum": {
-          "content": "<a name=\"curriculumtext\"></a><h2>Curriculum Requirements</h2>\n<p>The certificate requires four (4) three-hour courses for a total of twelve (12) credits. This includes three core courses and one elective course, as follows</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20504\" title=\"HPE&nbsp;504\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 504');\">HPE&nbsp;504</a></td><td>Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20704\" title=\"HPE&nbsp;704\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 704');\">HPE&nbsp;704</a></td><td>Advanced Studies in Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20740\" title=\"HPE&nbsp;740\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 740');\">HPE&nbsp;740</a></td><td>Motor Learning and Development</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Elective Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20720\" title=\"HPE&nbsp;720\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 720');\">HPE&nbsp;720</a></td><td>Curriculum Development in Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"orclass odd lastrow\"><td class=\"codecol orclass\">or&nbsp;<a href=\"/search/?P=HPE%20745\" title=\"HPE&nbsp;745\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 745');\">HPE&nbsp;745</a></td><td colspan=\"2\"> Assessment/Evaluation and Technology in Sport/PE</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">12</td></tr></tbody>\n</table>"
-        }
+    "programTitle": "Adapted Physical Education Certificate",
+    "department": "Department of Human Movement Studies and Special Education",
+    "programUrl": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/adapted-physical-education-certificate/",
+    "academicLevel": "Graduate",
+    "programType": "Certificates",
+    "academicInterests": "Exercise & Rehabilitation Sciences",
+    "collegesAndSchools": "Darden College of Education and Professional Studies",
+    "tabs": {
+      "Overview": {
+        "content": "<p>The Graduate Certificate in adapted physical education is designed for individuals who are practicing or planning to teach in school-based physical education settings. This certificate aims to meet the professional advancement needs of at least three populations:</p>\n<ul>\n\t<li>Existing student populations at ODU interested in acquiring requisite knowledge and skills to effectively teach children with disabilities in physical education. These are expected to include graduate students in each concentration area (i.e., coaching, curriculum &amp; instruction, initial licensure, adapted physical education) of physical education, as well as others in different education-related areas. Graduate degree seeking students will be able to obtain the Certificate and degree simultaneously using the available four elective courses in their degree program.</li>\n\t<li>Currently practicing physical education teachers looking to further enhance their knowledge and skills in teaching students with disabilities in their classes.</li>\n\t<li>Non-degree seeking students seeking to enhance their employability in the physical education/ adapted physical education job acquisition search.</li>\n</ul>"
+      },
+      "Admission": {
+        "content": "<a name=\"admissiontext\"></a><h2>Admission</h2>\n<p>Degree seeking graduate-level students admitted to the certificate program must meet ODU requirements for graduate admission: an earned baccalaureate degree from a regionally-accredited institution or an equivalent degree from a foreign institution. Those whose native language is not English must submit a minimum score of 230 on the computer-based TOEFL or 80 on the TOEFL iBT.</p>\n<p>Individuals not seeking graduate-level degrees admitted to the certificate program must have a completed baccalaureate degree (or equivalent).</p>"
+      },
+      "Curriculum": {
+        "content": "<a name=\"curriculumtext\"></a><h2>Curriculum Requirements</h2>\n<p>The certificate requires four (4) three-hour courses for a total of twelve (12) credits. This includes three core courses and one elective course, as follows</p>\n<table class=\"sc_courselist\">\n<caption class=\"hidden noscript\">Course List</caption>\n<colgroup>\n<col class=\"codecol\">\n<col class=\"titlecol\">\n<col align=\"char\" char=\".\" class=\"hourscol\">\n</colgroup>\n<thead>\n<tr class=\"hidden noscript\">\n<th scope=\"col\">Code</th>\n<th scope=\"col\">Title</th>\n<th scope=\"col\" class=\"hourscol\">Credit Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"even areaheader  firstrow\"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Core Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20504\" title=\"HPE&nbsp;504\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 504');\">HPE&nbsp;504</a></td><td>Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20704\" title=\"HPE&nbsp;704\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 704');\">HPE&nbsp;704</a></td><td>Advanced Studies in Adapted Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"odd\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20740\" title=\"HPE&nbsp;740\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 740');\">HPE&nbsp;740</a></td><td>Motor Learning and Development</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"even areaheader \"><td colspan=\"2\"><span class=\"courselistcomment areaheader \">Elective Courses</span></td><td class=\"hourscol\"></td></tr>\n<tr class=\"odd lastrow\"><td class=\"codecol\"><a href=\"/search/?P=HPE%20720\" title=\"HPE&nbsp;720\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 720');\">HPE&nbsp;720</a></td><td>Curriculum Development in Physical Education</td><td class=\"hourscol\">3</td></tr>\n<tr class=\"orclass odd lastrow\"><td class=\"codecol orclass\">or&nbsp;<a href=\"/search/?P=HPE%20745\" title=\"HPE&nbsp;745\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'HPE 745');\">HPE&nbsp;745</a></td><td colspan=\"2\"> Assessment/Evaluation and Technology in Sport/PE</td></tr>\n<tr class=\"listsum\"><td colspan=\"2\">Total Credit Hours</td><td class=\"hourscol\">12</td></tr></tbody>\n</table>"
       }
     },
     "courses": [
       {
-        "courseTitle": "Foundations of Education, Physical Education and Health",
+        "courseName": "Foundations of Education, Physical Education and Health",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Teacher candidates gain insight into the techniques, methodology, and philosophy of field-based health and physical education teachers. Teacher candidates will be expected to observe and participate in the teaching of simple lessons. This course requires a completed ODU clearance/background check prior to entering a school or community agency. Visit: odu.edu/oce for clearance procedures. If students do not have the clearance by the first week of classes, they will be dropped. This course requires a 20 hour placement in an elementary setting.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Aquatics and Outdoor Education",
+        "courseName": "Aquatics and Outdoor Education",
         "creditHours": "2 Credit Hours",
         "courseDescription": "Teacher candidates gain insight into the techniques, methodology, and philosophy of field-based health and physical education teachers. Teacher candidates will be expected to observe and participate in the teaching of simple lessons.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "open to PE - Teacher Prep majors only"
       },
       {
-        "courseTitle": "Teaching of Team Sports",
+        "courseName": "Teaching of Team Sports",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers skills and strategies of team sports, where opposing teams interact directly and simultaneously to achieve an objective. The team sports will be broken down into the components of territory, net/wall, and fielding/run scoring games. The student teacher will become familiar with teaching and organizational techniques appropriate for each activity. Emphasis is placed on a tactical approach and knowledge of sport specific skills, game strategy, rules, teaching facilitation, organization, and demonstration of different parts of a lesson.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "open to PE-Teacher Preparation majors only"
       },
       {
-        "courseTitle": "Teaching Individual Sports and Dance",
+        "courseName": "Teaching Individual Sports and Dance",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed as both a laboratory and methods class in which the student learns skills and strategies of pickleball, bowling, badminton, golf, tennis, gymnastics, and dance. It is designed to develop knowledge, understanding, and attitudes of fundamental movements. The student teacher will become familiar with teaching and organizational techniques appropriate for each activity. Emphasis is placed on a tactical approach and knowledge of specific skills, game strategy, rules, teaching facilitation, organization, and demonstration of different parts of a lesson.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "open to PE - Teacher Prep majors only"
       },
       {
-        "courseTitle": "Topics in Physical Education",
+        "courseName": "Topics in Physical Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "This course provides an opportunity for in-depth study of selected topics in physical education.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "sophomore standing and approval of program advisor"
       },
       {
-        "courseTitle": "Teaching Elementary Physical Education",
+        "courseName": "Teaching Elementary Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to acquaint the teacher candidate with elementary age children, their characteristics, interests, needs, and learning styles. Observation, analysis, and prescription of motor skills, curriculum design using skill themes and movement concepts are aimed at providing the teacher candidate with an increased understanding of how these actions directly relate to the process of effective teaching. Includes a 15 hour field experience.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C and HPE 200"
       },
       {
-        "courseTitle": "Methods and Materials in Teaching Physical Education",
+        "courseName": "Methods and Materials in Teaching Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to acquaint the teacher candidate with the current theories, techniques, and practices utilized in teaching physical education at the secondary level. Discussions will focus on the various age group characteristics, interests, needs and learning styles as related to a school setting. Observation, analysis, and prescription of motor skills, movement concepts, instructional techniques, and curriculum models are aimed at providing the professional educator with an increased understanding of how these factors directly relate to a process of effective teaching.  This writing intensive course includes a 15 hour field experience.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C and HPE 200"
       },
       {
-        "courseTitle": "Driver Education Foundations of Traffic Safety",
+        "courseName": "Driver Education Foundations of Traffic Safety",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The intent of the course is to develop a thorough understanding of the highway transportation systems, the complexity of the driving task, and factors contributing to performance of highway users (e.g. attitudes and skills) necessary to develop competent drivers.  The course will provide prospective teachers with the essential knowledge and skills to effectively deliver course content as an endorsed driver education trainer.",
         "corequisites": "HPE 309",
         "prerequisites": "A grade of C or better in ENGL 110C or instructor permission"
       },
       {
-        "courseTitle": "Principles and Methodologies of Classroom and In-Car Instruction",
+        "courseName": "Principles and Methodologies of Classroom and In-Car Instruction",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course provides teacher candidates with an overview of teaching methods and effective practices for driver education instruction with a focus on teaching skills. An emphasis is placed on program organization, administration, classroom instruction, single car instruction, multiple-car range instruction, simulation and evaluation. A minimum of 20 hours behind-the-wheel supervised teaching experiences.",
         "corequisites": "HPE 308",
         "prerequisites": "A grade of C or better in ENGL 110C or instructor permission"
       },
       {
-        "courseTitle": "Human Growth & Motor Development",
+        "courseName": "Human Growth & Motor Development",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is an examination of the physical growth and motor development of the human being over the life span. Emphasis is on the assessment of physical and cognitive development, particularly in the K-12 ages. Theory and technique for research are discussed and the use of research findings is incorporated into the assessment materials. Attention is directed toward acquisition of basic skills, perceptual-motor development, and age-related changes.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Motor Learning",
+        "courseName": "Motor Learning",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to provide the student with experiences in the practical application of theory related to motor learning. Feedback, transfer learning, practice, and motor control principles and concepts are addressed.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Teaching Injury Care for Sports",
+        "courseName": "Teaching Injury Care for Sports",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course presents the knowledge, skills, and teaching techniques essential for proper care in emergency and sport injury situations. Aspects of emergency first aid, sport specific injury recognition and care, and CPR will be covered. Upon satisfactory completion of the course and payment of certification fees, students will receive a two-year certification in first aid and CPR. Students will have the option of taking the sports first aid certification test from ASEP for coaching.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Teaching of Health and Physical Education, Pre-K-8",
+        "courseName": "Teaching of Health and Physical Education, Pre-K-8",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to prepare classroom teachers in PreK-8 licensure programs for the teaching of health and physical education.  Appropriate content, instructional strategies, effective classroom management, and safety issues and requirements will be presented.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "junior standing"
       },
       {
-        "courseTitle": "Coaching Internship",
+        "courseName": "Coaching Internship",
         "creditHours": "6 Credit Hours",
         "courseDescription": "Final field placement required for all students with an emphasis in a coaching minor. Students will be placed in an athletic coaching environment to gain experience in personal communication, technique instruction, practice organization and administrative duties required of the specific sport of their emphasis. Placement of internship subject to instructor approval. Minimum of 200 clock hours (hours to be arranged).",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Senior standing and HPE 409, HPE 415, and HPE 456"
       },
       {
-        "courseTitle": "Management Skills for Teaching Health and Physical Education",
+        "courseName": "Management Skills for Teaching Health and Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Foundations in psychological, sociological, and academic needs of students, with specific focus on management skills in open classroom and sport settings. Specialized safety concerns and environmental considerations are also addressed. Lesson planning, goal setting, and movement formations unique to HPE activities are included.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Methods and Materials in Health Education",
+        "courseName": "Methods and Materials in Health Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course will enable teacher candidates to gain insight into the techniques, methodology, and philosophy of field-based health and physical education. Teacher candidates will be expected to observe and participate in the teaching of simple lessons.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Adapted Physical Education",
+        "courseName": "Adapted Physical Education",
         "creditHours": "4 Credit Hours",
         "courseDescription": "Students will become acquainted with the practices and researching of different disabilities, the learning modes of the exceptional child, and IDEA (the law that advocates free and appropriate education). The course will also examine how to work within the ecosystem surrounding a child with disabilities. A vital component of the course will be the practical application of theory.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200"
       },
       {
-        "courseTitle": "Tests and Measurement in Physical Education and Health",
+        "courseName": "Tests and Measurement in Physical Education and Health",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to acquaint the student with tests and measurement in the fields of health and physical education, test construction, scoring, and methods of using results.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "junior standing"
       },
       {
-        "courseTitle": "Physiology of Exercise",
+        "courseName": "Physiology of Exercise",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An investigation into the physiological adjustments of the human organism to exercise, including systematic and biochemical molecular changes. Major areas of concern include neuromuscular, metabolic, and cardiorespiratory changes during exercise and the influence of such variables as nutrition, drugs, environment, age, sex, training and body weight.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "BIOL 240 or BIOL 250"
       },
       {
-        "courseTitle": "Principles of Coaching Management",
+        "courseName": "Principles of Coaching Management",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to provide students with a basic knowledge of the coaching profession. Special emphasis will be placed on establishing a sound coaching philosophy, selecting a coaching style, desirable qualities of a coach, ethics and the coach, roles of the head coach, planning and organizing for games and practices, coaching pedagogy, off-season planning, final preparations for the season, and issues and problems related to coaching and recruiting athletes.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Junior standing"
       },
       {
-        "courseTitle": "Nutrition and Fitness Education",
+        "courseName": "Nutrition and Fitness Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of techniques for the teaching of nutrition and health-related fitness. Content to be covered includes nutrition and various aspects of fitness training appropriate for the teaching of PreK-12 physical education and health.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200 and HPE 402"
       },
       {
-        "courseTitle": "Sports Psychology",
+        "courseName": "Sports Psychology",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Study of the psychological bases of coaching strategies and methodologies. Emphasis is placed on applying knowledge in field settings.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "Junior standing"
       },
       {
-        "courseTitle": "Practicum Experience and Instructional Planning in Health and Physical Education",
+        "courseName": "Practicum Experience and Instructional Planning in Health and Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Instructional planning coupled with a clinical experience that allows the teaching candidate to teach and observe professionals in a field-based setting. Portfolio development, reflective assessment of teaching, and student assessment techniques will be emphasized. This course requires a completed ODU clearance/background check prior to entering a school or community agency. Visit: https://www.odu.edu/oce for clearance procedures. If students do not have the clearance by the first week of classes, they will be dropped.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200 and admission into teacher education program"
       },
       {
-        "courseTitle": "Teacher Candidate Seminar",
+        "courseName": "Teacher Candidate Seminar",
         "creditHours": "1 Credit Hour",
         "courseDescription": "Study and group discussion of problems growing out of the student teaching (teacher candidate internship) experience.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "acceptance into teacher education and approval of the program advisor"
       },
       {
-        "courseTitle": "Teacher Candidate Internship",
+        "courseName": "Teacher Candidate Internship",
         "creditHours": "12 Credit Hours",
         "courseDescription": "A culminating experience that provides a field-based application of effective techniques in behavior, management, instructional strategies, and the development of professional attributes in K-12 school setting.  This course requires a completed ODU clearance/background check prior to entering a school or community agency. Visit: https://www.odu.edu/oce for clearance procedures. If students do not have the clearance by the first week of classes, they will be dropped.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "acceptance into teacher education, completion of approved program,  passing scores on the appropriate PRAXIS II content examination, and an approved application for Teacher Candidate Internship"
       },
       {
-        "courseTitle": "Topics in Health and Physical Education",
+        "courseName": "Topics in Health and Physical Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "A study of specialized topics in health and physical education.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "permission of the instructor"
       },
       {
-        "courseTitle": "Topics in Health and Physical Education",
+        "courseName": "Topics in Health and Physical Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "A study of specialized topics in health and physical education.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "permission of the instructor"
       },
       {
-        "courseTitle": "Methods and Materials in Health Education",
+        "courseName": "Methods and Materials in Health Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course will enable teacher candidates to gain insight into the techniques, methodology, and philosophy of field-based health and physical education. Teacher candidates will be expected to observe and participate in the teaching of simple lessons.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Adapted Physical Education",
+        "courseName": "Adapted Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Students will become acquainted with the practices and researching of different disabilities, the learning modes of the exceptional child, and IDEA (the law that advocates free and appropriate education). The course will also examine how to work within the ecosystem surrounding a child with disabilities. A vital component of the course will be the practical application of theory.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Tests and Measurement in Physical Education and Health",
+        "courseName": "Tests and Measurement in Physical Education and Health",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to acquaint the student with tests and measurement in the fields of health and physical education, test construction, scoring, and methods of using results.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Exercise Physiology",
+        "courseName": "Exercise Physiology",
         "creditHours": "3 Credit Hours",
         "courseDescription": "An investigation into the physiological adjustments of the human organism to exercise, including systematic and biochemical molecular changes. Major areas of concern include neuromuscular, metabolic, and cardiorespiratory changes during exercise and the influence of such variables as nutrition, drugs, environment, age, sex, training and body weight.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "BIOL 240 or BIOL 250"
       },
       {
-        "courseTitle": "Nutrition and Fitness Education",
+        "courseName": "Nutrition and Fitness Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The study of techniques for the teaching of nutrition and health-related fitness. Content to be covered includes nutrition and various aspects of fitness training appropriate for the teaching of PreK-12 physical education and health.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Practicum Experience and Instructional Planning in Health and Physical Education",
+        "courseName": "Practicum Experience and Instructional Planning in Health and Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "A clinical experience that allows the teaching candidate to teach and observe professionals in a field-based setting. Portfolio development, reflective assessment of teaching, and student assessment techniques will be emphasized. This course requires a completed ODU clearance/background check prior to entering a school or community agency. Visit: www.odu.edu/TES for clearance procedures. If students do not have the clearance by the first week of classes, they will be dropped.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "HPE 200 and admission into teacher education program"
       },
       {
-        "courseTitle": "Teacher Candidate Seminar",
+        "courseName": "Teacher Candidate Seminar",
         "creditHours": "1 Credit Hour",
         "courseDescription": "Study and group discussion of problems growing out of the student teaching (teacher candidate internship) experience. Students must pass Praxis II to complete this course.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "acceptance into teacher education and approval of the program advisor"
       },
       {
-        "courseTitle": "Adapted Physical Education Design and Supervision",
+        "courseName": "Adapted Physical Education Design and Supervision",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is divided into three sections. The first section deals with learning how to administer and interpret several evaluation tools. The second section concentrates on developing computer, videotaping, and other technology skills for adapted PE. The third section focuses on overall supervision of adapted PE programs in various school and institutional environments.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Movement Analysis of Individual and Team Sports",
+        "courseName": "Movement Analysis of Individual and Team Sports",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This laboratory and methods class focuses on the skills and strategies of teaching individual sports (e.g., bowling, badminton, golf, and tennis) and team sports (e.g., football, basketball, volleyball, and softball), using a tactical approach.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Principles of Movement Analysis in Dance and Rhythmic Activities for Physical Education",
+        "courseName": "Principles of Movement Analysis in Dance and Rhythmic Activities for Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "The course is designed to help teachers and coaches improve their skills in analyzing movement skills in dance and rhythmic activities. Such skill analysis is necessary to effectively diagnose movement deficiencies, prescribe techniques for improving performance, and modifying activities for the adaptive program.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Research Problems in Health & Physical Education",
+        "courseName": "Research Problems in Health & Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Practice in the use of statistical and analytical techniques in solving problems in health and physical education; supervised student research.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Internship in Health & Physical Education",
+        "courseName": "Internship in Health & Physical Education",
         "creditHours": "1-6 Credit Hours",
         "courseDescription": "Designed to provide detailed practical experience (400 clock hours) in a health and physical education field setting.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "completion of 75% of graduate work"
       },
       {
-        "courseTitle": "Problems in Health Education",
+        "courseName": "Problems in Health Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Problems in teaching health education on the elementary and secondary level; family life education, substance use and abuse, and mental and emotional health.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Topics in Health & Physical Education",
+        "courseName": "Topics in Health & Physical Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Selected topic courses in health and physical education.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Independent Study In Health & Physical Education",
+        "courseName": "Independent Study In Health & Physical Education",
         "creditHours": "1-3 Credit Hours",
         "courseDescription": "Investigations in health, physical education. Problems approved in advance are investigated under the supervision of the faculty advisor.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Thesis",
+        "courseName": "Thesis",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Thesis.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Thesis",
+        "courseName": "Thesis",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Thesis.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Advanced Studies in Adapted Physical Education",
+        "courseName": "Advanced Studies in Adapted Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course provides experiences of teaching adapted physical education content in lecture and gymnasium settings. Students will develop an understanding of a broad spectrum of disability related content that is applicable to physical education, and gain a deep knowledge of specific topics within disability studies. General and disability specific teaching strategies will be discussed.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Applied Learning and Coaching Theory",
+        "courseName": "Applied Learning and Coaching Theory",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course examines applied theories of learning and coaching in sport and physical education. Emphasis will be placed on understanding the differing coaching/learning theories and strategies, designing effective practice and game plans, and learning the different learning levels and styles through observing, analyzing, and critiquing skills. Current research and practice will be emphasized.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Planning and Administration in PE and Sport Programs",
+        "courseName": "Planning and Administration in PE and Sport Programs",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to provide in-depth information about the planning and administrative aspects of sport/physical education programs. Content includes, but is not limited to, teaching/training planning, safety and injury prevention, behavioral management, field/facility maintenance, budgetary considerations, public relations, and legal and risk management procedures associated with coaching/teaching PE.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Curriculum Development in Physical Education",
+        "courseName": "Curriculum Development in Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "A course designed to acquaint the student with the basic principles and practices in curriculum development. Curriculum development methodologies for both K-12 and college curricula will be addressed.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Motivational Issues in Sports",
+        "courseName": "Motivational Issues in Sports",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Motivational and psychological issues relate with sport performance enhancement, athlete/student wellbeing, and clinical issues with specific populations.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Motor Learning and Development",
+        "courseName": "Motor Learning and Development",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers a combination of motor development and motor learning topics. The course information and structure are designed to optimize practitioners’ effectiveness in the classroom and on the field via practical application of motor behavior theories, concepts and principles. Attention is directed toward understanding the acquisition of skills from the fundamental, initial level to the sport-specific, more advanced level, toward optimal age and skill-level practices and developing appropriate motor skill assessments for infants through older adulthood. Past and current research findings are incorporated into each of the course topics.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Assessment/Evaluation and Technology in Sport/PE",
+        "courseName": "Assessment/Evaluation and Technology in Sport/PE",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers assessment/evaluation theory and practices in PE/Sport. Multiple evaluation designs and techniques in different domains such as teaching/coaching, learning, and performance will be discussed along with technology applications in PE/Sport.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Advanced Studies in Adapted Physical Education",
+        "courseName": "Advanced Studies in Adapted Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course provides experiences of teaching adapted physical education content in lecture and gymnasium settings. Students will develop an understanding of a broad spectrum of disability related content that is applicable to physical education, and gain a deep knowledge of specific topics within disability studies. General and disability specific teaching strategies will be discussed.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Advanced Qualitative Research in Adapted Physical Education",
+        "courseName": "Advanced Qualitative Research in Adapted Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "Qualitative research seeks to make sense of, or interpret, the meaning of social phenomena in the natural setting, filtering through the multiple lens of race, social class, ethnicity, language, gender, and ability/disability. The aims of this course are twofold: (1) to highlight the contribution of qualitative inquiry to our understanding of the theory, research, and practice in adapted physical education, and (2) to provide basic skills and understanding necessary for doctoral students in adapted physical education to interpret and conduct qualitative research.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "FOUN 812"
       },
       {
-        "courseTitle": "Planning and Administration in PE and Sport Programs",
+        "courseName": "Planning and Administration in PE and Sport Programs",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course is designed to provide in-depth information about the planning and administrative aspects of sport/physical education programs. Content includes, but is not limited to, teaching/training planning, safety and injury prevention, behavioral management, field/facility maintenance, budgetary considerations, public relations, and legal and risk management procedures associated with coaching/teaching PE.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Curriculum Development in Physical Education",
+        "courseName": "Curriculum Development in Physical Education",
         "creditHours": "3 Credit Hours",
         "courseDescription": "A course designed to acquaint the student with the basic principles and practices in curriculum development. Curriculum development methodologies for both K-12 and college curricula will be addressed.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Motor Learning and Development",
+        "courseName": "Motor Learning and Development",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers a combination of motor development and motor learning topics. The course information and structure are designed to optimize practitioners' effectiveness in the classroom and on the field via practical application of motor behavior theories, concepts and principles. Attention is directed toward understanding the acquisition of skills from the fundamental, initial level to the sport-specific, more advanced level, toward optimal age and skill-level practices and developing appropriate motor skill assessments for infants through older adulthood. Past and current research findings are incorporated into each of the course topics.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Assessment/Evaluation and Technology in Sport/PE",
+        "courseName": "Assessment/Evaluation and Technology in Sport/PE",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This course covers assessment/evaluation theory and practices in PE/Sport. Multiple evaluation designs and techniques in different domains such as teaching/coaching, learning, and performance will be discussed along with technology applications in PE/Sport.",
-        "corequisites": [],
-        "prerequisites": []
+        "corequisites": "",
+        "prerequisites": ""
       },
       {
-        "courseTitle": "Advanced Quantitative Research in Adapted Physical Activity",
+        "courseName": "Advanced Quantitative Research in Adapted Physical Activity",
         "creditHours": "3 Credit Hours",
         "courseDescription": "This quantitative research method course delves into two aspects: (1) to understand the quantitative study design and evidence hierarchy as they relate to research and practices in adapted physical activity, and (2) to provide skills and understanding necessary for doctoral students in adapted physical activity to interpret and conduct quantitative research.",
-        "corequisites": [],
+        "corequisites": "",
         "prerequisites": "FOUN 812"
       }
     ]

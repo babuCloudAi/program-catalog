@@ -1,0 +1,1104 @@
+[
+    {
+        "courseCode": "AL 296",
+        "courseTitle": "Topics in Arts and Letters",
+        "courseDescription": "A topics course in the area of arts and letters.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Articulating artistic concepts",
+            "Written communication in arts criticism"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of artistic works",
+            "Analyzing literary themes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading artistic discussions",
+            "Organizing critique sessions"
+        ]
+    },
+    {
+        "courseCode": "AL 795",
+        "courseTitle": "Topics",
+        "courseDescription": "1-3 credits.  Seminar on special interdisciplinary topics for small groups of qualified students.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Active listening",
+            "Clear communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Organizational skills"
+        ]
+    },
+    {
+        "courseCode": "ARTH 668",
+        "courseTitle": "Internship",
+        "courseDescription": "An unpaid, structured work experience in a museum, gallery, archive, or related environment for credit. Criteria for evaluation will be determined by work supervisor and cooperating faculty advisor. May be repeated for credit.  Available for pass/fail grading only.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Archival organization",
+            "Museum technology operation",
+            "Artwork preservation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Professional communication",
+            "Interacting with diverse audiences"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adapting to different work environments",
+            "Troubleshooting exhibit issues"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseCode": "ARTS 368",
+        "courseTitle": "Internship",
+        "courseDescription": "A structured work experience involving aspects of design or craft, filmmaking, video, museum or gallery work, either with or without remuneration.  Criteria for evaluation will be determined by work supervisor and cooperating faculty advisor.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Design or Craftsmanship",
+            "Filmmaking",
+            "Video Production",
+            "Museum or Gallery Work"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication with Work Supervisor",
+            "Collaboration with Faculty Advisor"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Job-Specific Problem Solving",
+            "Critical Evaluation of Work"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-Management",
+            "Meeting Evaluation Criteria"
+        ]
+    },
+    {
+        "courseCode": "CDSE 695",
+        "courseTitle": "Topics in Education",
+        "courseDescription": "This course offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest in the special education field.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Understanding of special education tools and technologies",
+            "Digital record keeping",
+            "Using online resources for research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Effective communication with students of different learning styles",
+            "Collaboration with colleagues in developing education strategies",
+            "Active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying learning difficulties and devising solutions",
+            "Adapting teaching methods to individual student needs",
+            "Critical evaluation of existing special education methods"
+        ],
+        "Organizational and Leadership Skills": [
+            "Planning and implementing special education programs",
+            "Leading small groups in discussions",
+            "Managing classroom behavior and dynamics"
+        ]
+    },
+    {
+        "courseCode": "COMM 227A",
+        "courseTitle": "Honors: Film Appreciation",
+        "courseDescription": "Open only to students in the Honors College. This class will focus on both contextual and close text analysis of masterworks as they have influenced film art and industry.  Students in this course are expected to develop basic research, communication, viewing and critical thinking skills as they apply their knowledge to the analysis of the film experience.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Close text analysis",
+            "Contextual analysis of films",
+            "Film viewing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Communication of film analysis",
+            "Presentation of research findings"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research skill development",
+            "Analysis of film experience"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "CPSY 699",
+        "courseTitle": "Thesis",
+        "courseDescription": "Individual project under guidance of a research advisor.  Required for students choosing thesis option.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Data collection and analysis",
+            "Academic writing"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Constructive feedback reception"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Problem identification",
+            "Solution proposal"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Self-direction",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "CRIM 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Maintaining active status",
+            "Understanding and adhering to academic requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-regulation",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "CRJS 427/527",
+        "courseTitle": "Gender-Based Violence",
+        "courseDescription": "This course takes an expansive and intersectional approach to studying various forms of gender-based violence, from the interpersonal to the systemic, institutional, and cultural. Prevalence, risk factors, theoretical explanations, and legal remedies related to topics such as intimate partner violence, sexual assault on college campuses, gender-based violence in the military, sexual violence against undocumented immigrants, commercial sexual exploitation, and racism and reproductive health will be examined.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Understanding intersectionality",
+            "Cultural sensitivity",
+            "Communicating complex social phenomena"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Theoretical analysis",
+            "Legal analysis",
+            "Risk assessment",
+            "Analysis of systemic and institutional factors"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading discussions on sensitive topics",
+            "Advocating for legal remedies",
+            "Organizing information about different forms of gender-based violence"
+        ]
+    },
+    {
+        "courseCode": "CS 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Maintaining active student status",
+            "Graduation planning"
+        ]
+    },
+    {
+        "courseCode": "DANC 368",
+        "courseTitle": "Internship",
+        "courseDescription": "A structured work experience with or without remuneration, in an appropriately related disciplinary field. An ePortfolio, 150 hours of site work, plus satisfactory evaluations by supervisor and cooperating faculty member are required. Available for pass/fail grading only. Available to Communication, Theatre, and Dance majors and minors only. Cross-listed with COMM 368 and THEA 368.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "ePortfolio management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Workplace communication",
+            "Collaboration with supervisors and faculty"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability in disciplinary field",
+            "Practical application of academic knowledge"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management for 150 hours of site work",
+            "Cooperation and teamwork"
+        ]
+    },
+    {
+        "courseCode": "ELS 496/596",
+        "courseTitle": "Topics in Education",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group communication",
+            "Facilitating small-group discussions",
+            "Feedback exchange",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Subject-specific problem solving",
+            "Critical thinking",
+            "Analysis of specialized information"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project coordination",
+            "Leadership in small-group settings",
+            "Organizing resources for mutual interests"
+        ]
+    },
+    {
+        "courseCode": "ELS 596",
+        "courseTitle": "Topics in Education",
+        "courseDescription": "The College of Education offers selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Group discussion",
+            "Collaborative learning"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research and analysis of specialized topics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseCode": "ENMA 669",
+        "courseTitle": "Practicum",
+        "courseDescription": "Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students an opportunity to gain short duration career related experience.  Student is usually already employed - this is an additional project in the organization.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Reporting on project progress",
+            "Communicating with department heads and colleagues"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Identifying and resolving project-related issues",
+            "Evaluating and improving project processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Project management",
+            "Taking initiative",
+            "Self-direction"
+        ]
+    },
+    {
+        "courseCode": "FIN 367",
+        "courseTitle": "Cooperative Education",
+        "courseDescription": "Available for pass/fail grading only.  May be repeated for credit up to a maximum of 6 credits.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GER 296",
+        "courseTitle": "Topics in German",
+        "courseDescription": "A study of selected topics designed as electives for non-majors.  These courses will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Basic German vocabulary",
+            "German grammar rules",
+            "German pronunciation techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in German",
+            "German cultural understanding"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of German texts",
+            "Translation from German to English and vice versa"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GER 396",
+        "courseTitle": "Topics in German",
+        "courseDescription": "A study of selected topics designed for non-majors, or for elective credit within a major.  These courses will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "German language proficiency",
+            "Translation between German and English"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Verbal and written communication in German"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Interpretation of German texts",
+            "Contextual understanding of German language"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GER 496/596",
+        "courseTitle": "Topics in German",
+        "courseDescription": "The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly.  These courses will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Advanced knowledge in German language",
+            "Usage of specialized German language software",
+            "Translation and transcription techniques"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Group communication",
+            "Cultural sensitivity and understanding",
+            "Interpretation and conveyance of complex ideas in German"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical evaluation of linguistic structures",
+            "Analysis of German literature and texts",
+            "Creative problem-solving in linguistics"
+        ],
+        "Organizational and Leadership Skills": [
+            "Leading small group discussions",
+            "Organizing and managing academic research",
+            "Time management and planning"
+        ]
+    },
+    {
+        "courseCode": "HIED 998",
+        "courseTitle": "Master's Graduate Credit",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Understanding of graduation requirements"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-management",
+            "Meeting deadlines",
+            "Planning and Scheduling"
+        ]
+    },
+    {
+        "courseCode": "HLTH 495/595",
+        "courseTitle": "Topics in Health",
+        "courseDescription": "",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Medical data analysis",
+            "Usage of healthcare software",
+            "Digital health literacy"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Clear and concise communication",
+            "Patient interaction",
+            "Empathy and active listening"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Healthcare policy analysis",
+            "Disease outbreak prediction",
+            "Health risk assessment"
+        ],
+        "Organizational and Leadership Skills": [
+            "Healthcare project management",
+            "Team coordination in health settings",
+            "Leadership in health crises"
+        ]
+    },
+    {
+        "courseCode": "INBU 495",
+        "courseTitle": "Topics in International Business",
+        "courseDescription": "A study of selected topics, the title of which will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Negotiation strategies in a global context"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analysis of international business trends",
+            "Assessing global market opportunities"
+        ],
+        "Organizational and Leadership Skills": [
+            "Management in a global context",
+            "Leading international teams"
+        ]
+    },
+    {
+        "courseCode": "IT 367",
+        "courseTitle": "Cooperative Education",
+        "courseDescription": "Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.  Available for pass/fail grading only.  (qualifies as a CAP experience)",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Coordinating with department and Career Development Services for enrollment and credits"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Understanding and navigating academic and professional approval processes"
+        ],
+        "Organizational and Leadership Skills": [
+            "Managing academic and career development requirements"
+        ]
+    },
+    {
+        "courseCode": "LIBS 998",
+        "courseTitle": "Master's Graduate Credit",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and following university graduation requirements"
+        ]
+    },
+    {
+        "courseCode": "MAE 795",
+        "courseTitle": "Topics in Mechanical and Aerospace Engineering",
+        "courseDescription": "Selected topics in mechanical and aerospace engineering or engineering mechanics.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Mechanical engineering principles",
+            "Aerospace engineering principles",
+            "Engineering mechanics",
+            "Use of engineering tools and software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Technical communication",
+            "Collaboration in engineering projects"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Analytical thinking in mechanical and aerospace engineering",
+            "Problem-solving in engineering context"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management in engineering",
+            "Leading engineering teams"
+        ]
+    },
+    {
+        "courseCode": "MAE 999",
+        "courseTitle": "Doctoral Graduate Credit",
+        "courseDescription": "This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": [
+            "Maintaining active academic status"
+        ],
+        "Organizational and Leadership Skills": [
+            "Self-discipline",
+            "Time management",
+            "Self-directed learning"
+        ]
+    },
+    {
+        "courseCode": "MATH 395",
+        "courseTitle": "Topics in Mathematics",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MET 295",
+        "courseTitle": "Study of selected topics",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSA 311",
+        "courseTitle": "Hour Lesson - Music Minor",
+        "courseDescription": "One-hour applied lesson for the music minor.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Musical notation reading",
+            "Instrument handling and technique",
+            "Digital music software operation"
+        ],
+        "Interpersonal and Communication Skills": [
+            "One-on-one communication",
+            "Performance feedback interpretation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Musical piece interpretation",
+            "Improvisation and adaptation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-discipline",
+            "Practice scheduling"
+        ]
+    },
+    {
+        "courseCode": "MUSC 495/595",
+        "courseTitle": "Topics in Music",
+        "courseDescription": "These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 595",
+        "courseTitle": "Topics in Music",
+        "courseDescription": "These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 596",
+        "courseTitle": "Topics in Music",
+        "courseDescription": "These courses will appear in the course schedule.  Course descriptions and prerequisites for each course may be found in information distributed to all academic advisors.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MUSC 998",
+        "courseTitle": "Master's Graduate Credit",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding academic requirements for graduation",
+            "Time management for meeting graduation deadlines"
+        ]
+    },
+    {
+        "courseCode": "OPMT 895",
+        "courseTitle": "Study of selected topics",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "POLS 695",
+        "courseTitle": "Selected Topics in Political Science",
+        "courseDescription": "The advanced study of selected topics which, due to their specialized nature, may not be offered regularly.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Debate",
+            "Active listening",
+            "Negotiation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Policy analysis",
+            "Critical thinking",
+            "Qualitative and quantitative research methodologies"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Team leadership",
+            "Decision-making"
+        ]
+    },
+    {
+        "courseCode": "PSYC 998",
+        "courseTitle": "Master's Graduate Credit",
+        "courseDescription": "This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": [
+            "Understanding and fulfilling graduation requirements"
+        ]
+    },
+    {
+        "courseCode": "SCI 195",
+        "courseTitle": "Topics",
+        "courseDescription": "Topics of study that are not offered regularly.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SCI 495",
+        "courseTitle": "Topics",
+        "courseDescription": "Topics that are not offered regularly.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 196",
+        "courseTitle": "Topics in Spanish",
+        "courseDescription": "A study of selected topics designed as electives for non-majors.  These courses will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "Spanish language proficiency",
+            "Use of translation tools",
+            "Understanding Spanish culture and traditions"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Verbal communication in Spanish",
+            "Interpersonal communication in a foreign language",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Translation and interpretation",
+            "Understanding and interpreting Spanish texts",
+            "Adapting to cultural nuances"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "SPAN 295",
+        "courseTitle": "Topics in Spanish",
+        "courseDescription": "A study of selected topics designed as electives for nonmajors.  These courses will appear in the course schedule.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Spanish language proficiency",
+            "Cross-cultural communication"
+        ],
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 497/597",
+        "courseTitle": "Topics in Statistics",
+        "courseDescription": "The advanced study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },    {
+        "courseCode": "FIN 195",
+        "courseTitle": "Topics",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "GEOG 295",
+        "courseTitle": "Topics in Geography",
+        "courseDescription": "A study of selective topics in Geography.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": [
+            "GIS skills",
+            "Statistical analysis",
+            "Data visualization",
+            "Digital mapping"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Teamwork",
+            "Presentation skills",
+            "Written communication"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Research skills",
+            "Spatial analysis"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management"
+        ]
+    },
+    {
+        "courseCode": "HIST 369",
+        "courseTitle": "Practicum",
+        "courseDescription": "The content varies according to practicum.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HIST 698",
+        "courseTitle": "Thesis",
+        "courseDescription": "3 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HIST 699",
+        "courseTitle": "Thesis",
+        "courseDescription": "3-9 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HLSC 395",
+        "courseTitle": "Topics in Health",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HLTH 397",
+        "courseTitle": "Independent Study",
+        "courseDescription": "",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HLTH 697",
+        "courseTitle": "Independent Study",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HMS 698",
+        "courseTitle": "Thesis",
+        "courseDescription": "3-6 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "HMS 699",
+        "courseTitle": "Thesis",
+        "courseDescription": "3-6 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills":"N/A",
+        "Interpersonal and Communication Skills":"N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IDS 398",
+        "courseTitle": "Independent Study",
+        "courseDescription": "",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IDS 400/500",
+        "courseTitle": "Study Abroad",
+        "courseDescription": "",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": [
+            "Cross-cultural communication",
+            "Foreign language proficiency"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Adaptability",
+            "Crisis management"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time management",
+            "Self-motivation",
+            "Independence",
+            "Project coordination"
+        ]
+    },
+    {
+        "courseCode": "IS 899",
+        "courseTitle": "Dissertation",
+        "courseDescription": "May be repeated up to 18 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "IT 795",
+        "courseTitle": "Selected Topics in Management Information Systems",
+        "courseDescription": "3 credits.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MAE 195",
+        "courseTitle": "Topics",
+        "courseDescription": "Permission of the chair required.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MAE 195",
+        "courseTitle": "Topics",
+        "courseDescription": "Permission of the chair required.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 698",
+        "courseTitle": "Research",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MATH 699",
+        "courseTitle": "Thesis",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Research methodologies",
+            "Academic writing",
+            "Data analysis",
+            "Presentation tools"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Public speaking",
+            "Negotiation",
+            "Feedback reception",
+            "Teamwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Hypothesis testing",
+            "Problem solving"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leadership",
+            "Decision making"
+        ]
+    },
+    {
+        "courseCode": "MATH 898",
+        "courseTitle": "Research",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Data Analysis",
+            "Research Methodologies",
+            "Statistical Software",
+            "Database Management",
+            "Online Research"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Collaboration",
+            "Public Speaking",
+            "Active Listening",
+            "Writing",
+            "Presentation"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Thinking",
+            "Decision Making",
+            "Logical Reasoning",
+            "Problem Solving",
+            "Analytical Reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project Management",
+            "Time Management",
+            "Leadership",
+            "Strategic Planning",
+            "Organizational"
+        ]
+    },
+    {
+        "courseCode": "MATH 899",
+        "courseTitle": "Dissertation",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Researching",
+            "Writing",
+            "Referencing",
+            "Data Analysis",
+            "Microsoft Office",
+            "Academic Databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Written Communication",
+            "Presenting",
+            "Defending your Argument"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Thinking",
+            "Problem Solving",
+            "Data Interpretation"
+        ],
+        "Organizational and Leadership Skills": [
+            "Time Management",
+            "Project Management",
+            "Self-motivation",
+            "Discipline"
+        ]
+    },
+    {
+        "courseCode": "MET 395",
+        "courseTitle": "Topics",
+        "courseDescription": "Study of selected topics.",
+        "academicLevel": "undergraduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "MGMT 595",
+        "courseTitle": "Topics",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PHYS 797",
+        "courseTitle": "Research",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Statistical analysis",
+            "Data collection and interpretation",
+            "Use of research software"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Report writing",
+            "Presentation skills",
+            "Teamwork"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data analysis",
+            "Research design"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Leadership"
+        ]
+    },
+    {
+        "courseCode": "PHYS 899",
+        "courseTitle": "Dissertation",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Research tools",
+            "Data analysis software",
+            "Microsoft Office",
+            "Writing and editing tools",
+            "Online databases"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Oral presentation",
+            "Written communication",
+            "Collaborative research"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical thinking",
+            "Data interpretation",
+            "Problem solving",
+            "Analytical reasoning"
+        ],
+        "Organizational and Leadership Skills": [
+            "Project management",
+            "Time management",
+            "Self-motivation",
+            "Leadership"
+        ]
+    },
+    {
+        "courseCode": "PSYC 795",
+        "courseTitle": "Topics in Psychology I",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "PSYC 898",
+        "courseTitle": "Research",
+        "courseDescription": "",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": "N/A",
+        "Interpersonal and Communication Skills": "N/A",
+        "Problem-Solving and Analytical Skills": "N/A",
+        "Organizational and Leadership Skills": "N/A"
+    },
+    {
+        "courseCode": "STAT 797",
+        "courseTitle": "Topics in Statistics",
+        "courseDescription": "Advanced study of selected topics.",
+        "academicLevel": "graduate",
+        "Technical and Digital Skills": [
+            "Statistical Analysis",
+            "Data Interpretation",
+            "Statistical Software Proficiency",
+            "Data Management"
+        ],
+        "Interpersonal and Communication Skills": [
+            "Presentation of Statistical Analysis",
+            "Explaining Statistical Concepts"
+        ],
+        "Problem-Solving and Analytical Skills": [
+            "Critical Thinking",
+            "Data Analysis",
+            "Problem Solving"
+        ],
+        "Organizational and Leadership Skills": "N/A"
+    }
+]

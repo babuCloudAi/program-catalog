@@ -100,15 +100,13 @@
 
 //           // Process the skills for the course
 //           const skills = await processSkills(courseTitle, courseDescription);
-
-//           // Add course data with skills to the scrapedData array
 //           if (skills) {
 //             scrapedData.push({
 //               courseTitle,
 //               courseCode,
 //               academicLevel: undergraduateLevel,
 //               courseDescription,
-//               ...skills, // Directly spread the skill categories into the object
+//               ...skills, 
 //             });
 //           }
 //         }
@@ -125,19 +123,18 @@
 //         for (let course of courses.toArray()) {
 //           const courseCode = $(course).find('.detail-xrefcode').text().trim();
 //           const courseTitle = $(course).find('.detail-title').text().trim();
+//           console.log(courseTitle)
 //           const courseDescription = $(course).find('.courseblockextra').text().trim();
 
 //           // Process the skills for the course
 //           const skills = await processSkills(courseTitle, courseDescription);
-
-//           // Add course data with skills to the scrapedData array
 //           if (skills) {
 //             scrapedData.push({
 //               courseCode,
 //               courseTitle,
 //               academicLevel: graduateLevel,
 //               courseDescription,
-//               ...skills, // Directly spread the skill categories into the object
+//               ...skills, 
 //             });
 //           }
 //         }
@@ -156,6 +153,9 @@
 
 
 
+
+//// by using allcourse json generating the all courses skill mapping
+
 const fs = require('fs');
 const axios = require('axios');
 const dotenv = require('dotenv');
@@ -167,42 +167,56 @@ const apiKey = process.env.OPENAI_API_KEY || "your-api-key-here";
 
 // Function to process skills using OpenAI API
 async function processSkills(courseTitle, courseDescription) {
-    const prompt = `
-    Based on the course information provided below, generate the required skills for a "${courseTitle}" course in JSON format with these categories:
-        - Technical and Digital Skills
-        - Interpersonal and Communication Skills
-        - Problem-Solving and Analytical Skills
-        - Organizational and Leadership Skills
-    
-        Focus on concrete, practical skills rather than abstract concepts.
-    
-        Course Description: "${courseDescription}"
-    
-        Output the response in valid JSON format with clearly structured skills under each category.
-    `;
+  const prompt = `
+  Based on the course information provided below, generate the required skills for a "${courseTitle}" course in **valid JSON format** with these categories:
+  
+  - Technical and Digital Skills
+  - Interpersonal and Communication Skills
+  - Problem-Solving and Analytical Skills
+  - Organizational and Leadership Skills
+  
+  Ensure the JSON **does not contain extra explanations**. The response must start with '{' and end with '}'. If a category is irrelevant, include "N/A".
+  
+  Course Description: "${courseDescription}"
 
-    try {
-        const response = await axios.post(
-            'https://api.openai.com/v1/chat/completions',
-            {
-                model: 'gpt-4',  
-                messages: [{ role: 'user', content: prompt }],
-                temperature: 0.7,
-            },
-            {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${apiKey}`,
-                },
-            }
-        );
+  **Output JSON ONLY:**
+  \`\`\`json
+  {
+    "courseTitle": "${courseTitle}",
+    "Technical and Digital Skills": [...skills or "N/A"],
+    "Interpersonal and Communication Skills": [...skills or "N/A"],
+    "Problem-Solving and Analytical Skills": [...skills or "N/A"],
+    "Organizational and Leadership Skills": [...skills or "N/A"]
+  }
+  \`\`\`
+  `;
 
-        const skillText = response.data.choices[0]?.message?.content?.trim();
-        return skillText ? JSON.parse(skillText) : null;
-    } catch (error) {
-        console.error("Error processing skills:", error);
-        return null;
-    }
+  try {
+      const response = await axios.post(
+          'https://api.openai.com/v1/chat/completions',
+          {
+              model: 'gpt-4',  
+              messages: [{ role: 'user', content: prompt }],
+              temperature: 0.7,
+          },
+          {
+              headers: {
+                  'Content-Type': 'application/json',
+                  'Authorization': `Bearer ${apiKey}`,
+              },
+          }
+      );
+
+      let skillText = response.data.choices[0]?.message?.content?.trim();
+
+      // Remove ```json and ``` if they exist
+      skillText = skillText.replace(/^```json\n/, "").replace(/\n```$/, "");
+
+      return JSON.parse(skillText); // Ensure valid JSON parsing
+  } catch (error) {
+      console.error("Error processing skills:", error);
+      return null;
+  }
 }
 
 async function processCoursesFromJSON(jsonFilePath) {
@@ -211,23 +225,27 @@ async function processCoursesFromJSON(jsonFilePath) {
     const processedData = [];
 
     for (const course of courses) {
-        const { courseTitle, courseCode, courseDescription } = course;
+        const { courseTitle, courseIdentifier, courseDescription , degree } = course;
+        const courseCode = courseIdentifier
+        const academicLevel = degree
         console.log(`Processing skills for: ${courseTitle} (${courseCode})`);
-        const skills = await processSkills(courseTitle, courseDescription);
+        const skills = await processSkills(courseTitle, courseDescription,courseCode,academicLevel);
         
         if (skills) {
             processedData.push({
                 courseCode,
                 courseTitle,
                 courseDescription,
+                academicLevel,
                 ...skills,
             });
         }
     }
-    const outputFilename = "processed_courses_with_skills.json";
+    console.log(skills)
+    const outputFilename = "_courses_with_skills.json";
     fs.writeFileSync(outputFilename, JSON.stringify(processedData, null, 4), "utf-8");
     console.log(`Processed data saved to ${outputFilename}`);
 }
 
-const jsonFilePath = "matchedCourses.json";
-processCoursesFromJSON(jsonFilePath);
+const jsonFilePath = "allCourses.json";
+processCoursesFromJSON(jsonFilePath)
